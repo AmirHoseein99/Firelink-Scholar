@@ -47,7 +47,11 @@ def _split_table_lines(raw: str) -> list[str]:
 
 
 def find_tables_in_wikicode(parsed: mw.Wikicode) -> list[Tag]:
-    return [n for n in parsed.nodes if isinstance(n, Tag) and str(n).lstrip().startswith("{|")]
+    return [
+        n
+        for n in parsed.nodes
+        if isinstance(n, Tag) and str(n).lstrip().startswith("{|")
+    ]
 
 
 def assign_tables_to_sections(
@@ -93,7 +97,7 @@ def _split_cells(line: str) -> list[str]:
             buf.append("]]")
             i += 2
             continue
-        if raw[i:i + 2] == "||" and depth == 0:
+        if raw[i : i + 2] == "||" and depth == 0:
             parts.append("".join(buf).strip())
             buf = []
             i += 2
@@ -107,11 +111,19 @@ def _split_cells(line: str) -> list[str]:
 def _cell_text(cell_str: str) -> str:
     text = cell_str.strip()
     text = re.sub(r"\{\{[^}]*\}\}", "", text)
-    text = re.sub(r"\[\[[^]|]*(?:\|([^]]*))?\]\]", lambda m: m.group(1) or m.group(0)[2:-2], text)
+    text = re.sub(
+        r"\[\[[^]|]*(?:\|([^]]*))?\]\]", lambda m: m.group(1) or m.group(0)[2:-2], text
+    )
     text = re.sub(r"'''([^']+)'''", r"\1", text)
     text = re.sub(r"''([^']+)''", r"\1", text)
     text = re.sub(r"<br\s*/?>", " ", text)
-    text = text.replace("&amp;", "&").replace("&lt;", "<").replace("&gt;", ">").replace("&quot;", '"').replace("&nbsp;", " ")
+    text = (
+        text.replace("&amp;", "&")
+        .replace("&lt;", "<")
+        .replace("&gt;", ">")
+        .replace("&quot;", '"')
+        .replace("&nbsp;", " ")
+    )
     return text.strip()
 
 
@@ -171,8 +183,7 @@ def parse_table(tag: Tag) -> ParsedTable:
             continue
         if s.startswith("!"):
             flush_body()
-            for c in _parse_header_line(s):
-                pending_header.append(c)
+            pending_header.extend(_parse_header_line(s))
             continue
         if s.startswith("|"):
             flush_header()
@@ -186,12 +197,16 @@ def parse_table(tag: Tag) -> ParsedTable:
             elif len(cells_raw) == 1 and column_count > 1:
                 pending_body.append(cells_raw[0])
                 while len(pending_body) >= column_count:
-                    rows.append(ParsedRow(cells=pending_body[: column_count], is_header=False))
+                    rows.append(
+                        ParsedRow(cells=pending_body[:column_count], is_header=False)
+                    )
                     pending_body = pending_body[column_count:]
             else:
                 pending_body.extend(cells_raw)
                 while len(pending_body) >= column_count:
-                    rows.append(ParsedRow(cells=pending_body[: column_count], is_header=False))
+                    rows.append(
+                        ParsedRow(cells=pending_body[:column_count], is_header=False)
+                    )
                     pending_body = pending_body[column_count:]
             continue
 
@@ -218,7 +233,10 @@ def _parse_body_line(s: str) -> list[ParsedCell]:
         if "|" in c_strip:
             attrs, _, body = c_strip.partition("|")
             attr_lower = attrs.strip().lower().rstrip()
-            if any(attr_lower.startswith(tok) for tok in ("colspan=", "rowspan=", "style=", "class=")) and not attrs.strip().startswith("[["):
+            if any(
+                attr_lower.startswith(tok)
+                for tok in ("colspan=", "rowspan=", "style=", "class=")
+            ) and not attrs.strip().startswith("[["):
                 c_strip = body.strip()
         result.append(ParsedCell(text=_cell_text(c_strip), raw=c_strip))
     return result
@@ -236,7 +254,7 @@ def _parse_header_line(s: str) -> list[ParsedCell]:
     i = 0
     depth = 0
     while i < len(inner):
-        if inner[i:i + 2] == "!!" and depth == 0:
+        if inner[i : i + 2] == "!!" and depth == 0:
             parts.append("".join(buf).strip())
             buf = []
             i += 2
@@ -260,7 +278,10 @@ def _parse_header_line(s: str) -> list[ParsedCell]:
         if "|" in p_strip:
             attrs, _, body = p_strip.partition("|")
             attr_lower = attrs.strip().lower()
-            if any(attr_lower.startswith(tok) for tok in ("scope=", "colspan=", "rowspan=", "style=", "class=")):
+            if any(
+                attr_lower.startswith(tok)
+                for tok in ("scope=", "colspan=", "rowspan=", "style=", "class=")
+            ):
                 p_strip = body.strip()
             else:
                 p_strip = p_strip.lstrip("|").strip()
@@ -323,23 +344,34 @@ def extract_tables(
     irregular: list[IrregularTable] = []
     replacements: list[tuple[int, str]] = []
 
-    sections_index: dict[int, tuple[Tag, str | None]] = {i: item for i, item in enumerate(sections, start=1)}
+    sections_index: dict[int, tuple[Tag, str | None]] = {
+        i: item for i, item in enumerate(sections, start=1)
+    }
 
     for table_index, (tag, section_heading) in sections_index.items():
         parsed_table = parse_table(tag)
         is_regular, reason = _table_is_regular(parsed_table)
 
-        re.sub(r"[^A-Za-z0-9_-]+", "-", (section_heading or "lead")).strip("-").lower() or "lead"
+        re.sub(r"[^A-Za-z0-9_-]+", "-", (section_heading or "lead")).strip(
+            "-"
+        ).lower() or "lead"
         base_filename = f"{safe_slug}-{page_id}-t{table_index}"
 
         if not is_regular:
-            irregular.append(IrregularTable(
-                path=source_path,
-                section=section_heading,
-                table_index=table_index,
-                reason=reason or "irregular",
-            ))
-            replacements.append((table_index, f"<!-- table: {table_index} (irregular: {reason}); see prose -->"))
+            irregular.append(
+                IrregularTable(
+                    path=source_path,
+                    section=section_heading,
+                    table_index=table_index,
+                    reason=reason or "irregular",
+                )
+            )
+            replacements.append(
+                (
+                    table_index,
+                    f"<!-- table: {table_index} (irregular: {reason}); see prose -->",
+                )
+            )
             continue
 
         header = parsed_table.header_row
@@ -362,17 +394,29 @@ def extract_tables(
         if csv_path.exists() or json_path.exists():
             marker = f"<!-- table: {table_index} (existing output preserved; see {csv_path.relative_to(output_root).as_posix()}) -->"
 
-        refs.append(TableReference(
-            csv_path=str(csv_path.relative_to(output_root)),
-            json_path=str(json_path.relative_to(output_root)),
-            source_section=section_heading,
-            table_index=table_index,
-            row_count=len(body_rows),
-            columns=columns,
-        ))
+        refs.append(
+            TableReference(
+                csv_path=str(csv_path.relative_to(output_root)),
+                json_path=str(json_path.relative_to(output_root)),
+                source_section=section_heading,
+                table_index=table_index,
+                row_count=len(body_rows),
+                columns=columns,
+            )
+        )
 
         if not (csv_path.exists() and json_path.exists()) or force:
-            _write_table_csv(csv_path, source_path, game, page_id, title, section_heading, table_index, columns, body_rows)
+            _write_table_csv(
+                csv_path,
+                source_path,
+                game,
+                page_id,
+                title,
+                section_heading,
+                table_index,
+                columns,
+                body_rows,
+            )
             _write_table_json(json_path, parsed_table.caption, columns, records)
 
         replacements.append((table_index, marker))
@@ -397,7 +441,15 @@ def _write_table_csv(
         writer.writerow(columns)
         for i, row in enumerate(rows, start=1):
             writer.writerow(
-                [source_path, game, page_id, title, section_heading or "", table_index, i]
+                [
+                    source_path,
+                    game,
+                    page_id,
+                    title,
+                    section_heading or "",
+                    table_index,
+                    i,
+                ]
                 + [cell.text for cell in row.cells]
             )
 
@@ -415,6 +467,7 @@ def _write_table_json(
         "records": records,
     }
     path.write_text(
-        json.dumps(payload, sort_keys=True, ensure_ascii=False, separators=(",", ":")) + "\n",
+        json.dumps(payload, sort_keys=True, ensure_ascii=False, separators=(",", ":"))
+        + "\n",
         encoding="utf-8",
     )

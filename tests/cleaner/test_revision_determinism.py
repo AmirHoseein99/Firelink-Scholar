@@ -10,13 +10,26 @@ from src.cleaner.models import CleaningReport
 from src.cleaner.registry import Registry
 
 
-def _write_envelope(path: Path, page_id: int, title: str, wikitext: str, revisions: list[dict] | None = None, categories: list[str] | None = None) -> None:
+def _write_envelope(
+    path: Path,
+    page_id: int,
+    title: str,
+    wikitext: str,
+    revisions: list[dict] | None = None,
+    categories: list[str] | None = None,
+) -> None:
     if revisions is None:
         revisions = [
             {
                 "revid": 1,
                 "timestamp": "2026-01-01T00:00:00Z",
-                "slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": wikitext}},
+                "slots": {
+                    "main": {
+                        "contentmodel": "wikitext",
+                        "contentformat": "text/x-wiki",
+                        "*": wikitext,
+                    }
+                },
             }
         ]
     envelope = {
@@ -43,19 +56,37 @@ class RevisionSelectionTest(unittest.TestCase):
             {
                 "revid": 1,
                 "timestamp": "2026-01-01T00:00:00Z",
-                "slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "older"}},
+                "slots": {
+                    "main": {
+                        "contentmodel": "wikitext",
+                        "contentformat": "text/x-wiki",
+                        "*": "older",
+                    }
+                },
             },
             {
                 "revid": 2,
                 "timestamp": "2026-02-01T00:00:00Z",
-                "slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": wt}},
+                "slots": {
+                    "main": {
+                        "contentmodel": "wikitext",
+                        "contentformat": "text/x-wiki",
+                        "*": wt,
+                    }
+                },
             },
         ]
         with tempfile.TemporaryDirectory() as td:
             src = Path(td) / "raw" / "uncategorized" / "x.json"
             _write_envelope(src, 42, "X", wt, revisions=revisions, categories=[])
             report = CleaningReport()
-            outcome = clean_one(source_path=src, source_root=src.parent.parent, output_root=Path(td) / "out", registry=Registry.default(), report=report)
+            outcome = clean_one(
+                source_path=src,
+                source_root=src.parent.parent,
+                output_root=Path(td) / "out",
+                registry=Registry.default(),
+                report=report,
+            )
             self.assertIn("multiple_revisions", outcome.warnings)
             self.assertEqual(report.totals.pages, 1)
 
@@ -64,19 +95,37 @@ class RevisionSelectionTest(unittest.TestCase):
             {
                 "revid": 1,
                 "timestamp": "2026-01-01T00:00:00Z",
-                "slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "x"}},
+                "slots": {
+                    "main": {
+                        "contentmodel": "wikitext",
+                        "contentformat": "text/x-wiki",
+                        "*": "x",
+                    }
+                },
             },
             {
                 "revid": 99,
                 "timestamp": "2026-01-01T00:00:00Z",
-                "slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": "y"}},
+                "slots": {
+                    "main": {
+                        "contentmodel": "wikitext",
+                        "contentformat": "text/x-wiki",
+                        "*": "y",
+                    }
+                },
             },
         ]
         with tempfile.TemporaryDirectory() as td:
             src = Path(td) / "raw" / "uncategorized" / "x.json"
             _write_envelope(src, 7, "Y", "y", revisions=revisions, categories=[])
             report = CleaningReport()
-            clean_one(source_path=src, source_root=src.parent.parent, output_root=Path(td) / "out", registry=Registry.default(), report=report)
+            clean_one(
+                source_path=src,
+                source_root=src.parent.parent,
+                output_root=Path(td) / "out",
+                registry=Registry.default(),
+                report=report,
+            )
             self.assertEqual(report.totals.pages, 1)
 
 
@@ -85,13 +134,27 @@ class DeterminismTest(unittest.TestCase):
         wt = "{{DaSIIIWeapon|name = X |price = 100 |notes = N/A}}\n\n==H1==\nbody 1 {{Note|x}}\n\n==H2==\nbody 2\n[[File:f.png]]\n"
         with tempfile.TemporaryDirectory() as td:
             src = Path(td) / "raw" / "Dark Souls III" / "Weapons" / "X.json"
-            _write_envelope(src, 1001, "X", wt, categories=["Category:Dark Souls III: Weapons"])
-            for label, out_root in (("first", Path(td) / "out1"), ("second", Path(td) / "out2")):
+            _write_envelope(
+                src, 1001, "X", wt, categories=["Category:Dark Souls III: Weapons"]
+            )
+            for label, out_root in (
+                ("first", Path(td) / "out1"),
+                ("second", Path(td) / "out2"),
+            ):
                 rep = CleaningReport()
-                clean_one(source_path=src, source_root=src.parent.parent, output_root=out_root, registry=Registry.default(), report=rep)
+                clean_one(
+                    source_path=src,
+                    source_root=src.parent.parent,
+                    output_root=out_root,
+                    registry=Registry.default(),
+                    report=rep,
+                )
             files1 = sorted((Path(td) / "out1").rglob("*.json"))
             files2 = sorted((Path(td) / "out2").rglob("*.json"))
-            self.assertEqual([p.relative_to(Path(td) / "out1") for p in files1], [p.relative_to(Path(td) / "out2") for p in files2])
+            self.assertEqual(
+                [p.relative_to(Path(td) / "out1") for p in files1],
+                [p.relative_to(Path(td) / "out2") for p in files2],
+            )
             for a, b in zip(files1, files2):
                 self.assertEqual(a.read_bytes(), b.read_bytes(), f"files differ: {a}")
 
@@ -103,9 +166,21 @@ class NoOverwriteTest(unittest.TestCase):
             src = Path(td) / "raw" / "uncategorized" / "x.json"
             _write_envelope(src, 5, "X", wt, categories=[])
             report = CleaningReport()
-            clean_one(source_path=src, source_root=src.parent.parent, output_root=Path(td) / "out", registry=Registry.default(), report=report)
+            clean_one(
+                source_path=src,
+                source_root=src.parent.parent,
+                output_root=Path(td) / "out",
+                registry=Registry.default(),
+                report=report,
+            )
             r2 = CleaningReport()
-            outcome = clean_one(source_path=src, source_root=src.parent.parent, output_root=Path(td) / "out", registry=Registry.default(), report=r2)
+            outcome = clean_one(
+                source_path=src,
+                source_root=src.parent.parent,
+                output_root=Path(td) / "out",
+                registry=Registry.default(),
+                report=r2,
+            )
             self.assertEqual(outcome.status, "skipped_existing")
             self.assertEqual(r2.totals.skipped_existing, 1)
 
@@ -117,7 +192,13 @@ class MalformedInputTest(unittest.TestCase):
             src.parent.mkdir(parents=True, exist_ok=True)
             src.write_text("not json", encoding="utf-8")
             report = CleaningReport()
-            outcome = clean_one(source_path=src, source_root=src.parent.parent, output_root=Path(td) / "out", registry=Registry.default(), report=report)
+            outcome = clean_one(
+                source_path=src,
+                source_root=src.parent.parent,
+                output_root=Path(td) / "out",
+                registry=Registry.default(),
+                report=report,
+            )
             self.assertEqual(outcome.status, "malformed")
             self.assertEqual(report.totals.malformed, 1)
 
@@ -128,14 +209,7 @@ class TablesRegularTest(unittest.TestCase):
 
         from src.cleaner import tables as T
 
-        wt = (
-            "Intro.\n"
-            "{| class=\"wikitable\"\n"
-            "! A !! B\n"
-            "| 1 || 2\n"
-            "| 3 || 4\n"
-            "|}\n"
-        )
+        wt = 'Intro.\n{| class="wikitable"\n! A !! B\n| 1 || 2\n| 3 || 4\n|}\n'
         parsed = mw.parse(wt)
         table_tag = T.find_tables_in_wikicode(parsed)[0]
         pt = T.parse_table(table_tag)

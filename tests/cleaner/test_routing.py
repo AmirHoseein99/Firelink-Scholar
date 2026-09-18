@@ -9,7 +9,13 @@ from src.cleaner.models import CleaningReport
 from src.cleaner.registry import Registry
 
 
-def _write_envelope(path: Path, page_id: int, title: str, wikitext: str, categories: list[str] | None = None) -> None:
+def _write_envelope(
+    path: Path,
+    page_id: int,
+    title: str,
+    wikitext: str,
+    categories: list[str] | None = None,
+) -> None:
     envelope = {
         "query": {
             "pages": {
@@ -21,7 +27,13 @@ def _write_envelope(path: Path, page_id: int, title: str, wikitext: str, categor
                         {
                             "revid": 1,
                             "timestamp": "2026-01-01T00:00:00Z",
-                            "slots": {"main": {"contentmodel": "wikitext", "contentformat": "text/x-wiki", "*": wikitext}},
+                            "slots": {
+                                "main": {
+                                    "contentmodel": "wikitext",
+                                    "contentformat": "text/x-wiki",
+                                    "*": wikitext,
+                                }
+                            },
                         }
                     ],
                     "categories": [{"ns": 14, "title": c} for c in (categories or [])],
@@ -48,11 +60,20 @@ class WeaponInfoboxTest(unittest.TestCase):
         )
         with self.subTest():
             import tempfile
+
             with tempfile.TemporaryDirectory() as td:
                 src = Path(td) / "raw" / "Dark Souls III" / "Claws" / "Crow Talons.json"
-                _write_envelope(src, 143021, "Crow Talons", wt, ["Category:Dark Souls III: Weapons"])
+                _write_envelope(
+                    src, 143021, "Crow Talons", wt, ["Category:Dark Souls III: Weapons"]
+                )
                 report = CleaningReport()
-                clean_one(source_path=src, source_root=src.parent.parent, output_root=Path(td) / "out", registry=Registry.default(), report=report)
+                clean_one(
+                    source_path=src,
+                    source_root=src.parent.parent,
+                    output_root=Path(td) / "out",
+                    registry=Registry.default(),
+                    report=report,
+                )
                 out = list((Path(td) / "out").rglob("*.json"))
                 self.assertTrue(out)
                 payload = json.loads(out[0].read_text(encoding="utf-8"))
@@ -77,15 +98,31 @@ class CharacterInfoboxTest(unittest.TestCase):
             "Lore text.\n"
         )
         import tempfile
+
         with tempfile.TemporaryDirectory() as td:
             src = Path(td) / "raw" / "Dark Souls" / "Characters" / "Smough.json"
-            _write_envelope(src, 2597, "Smough", wt, ["Category:Dark Souls: Characters"])
+            _write_envelope(
+                src, 2597, "Smough", wt, ["Category:Dark Souls: Characters"]
+            )
             report = CleaningReport()
-            clean_one(source_path=src, source_root=src.parent.parent, output_root=Path(td) / "out", registry=Registry.default(), report=report)
-            payload = json.loads(next(iter((Path(td) / "out").rglob("*.json"))).read_text(encoding="utf-8"))
+            clean_one(
+                source_path=src,
+                source_root=src.parent.parent,
+                output_root=Path(td) / "out",
+                registry=Registry.default(),
+                report=report,
+            )
+            payload = json.loads(
+                next(iter((Path(td) / "out").rglob("*.json"))).read_text(
+                    encoding="utf-8"
+                )
+            )
             self.assertEqual(payload["entity_type"], "character")
             self.assertEqual(payload["infobox"]["theme"], "DS1")
-            self.assertEqual(payload["infobox"]["appears_in"], ["[[Dark Souls]]", "[[Dark Souls II]]"])
+            self.assertEqual(
+                payload["infobox"]["appears_in"],
+                ["[[Dark Souls]]", "[[Dark Souls II]]"],
+            )
             self.assertEqual(payload["infobox"]["mentioned_in"], ["[[Dark Souls III]]"])
             self.assertIsNone(payload["infobox"]["voiced_by"])
 
@@ -94,12 +131,27 @@ class GenericDisambiguationTest(unittest.TestCase):
     def test_disambiguation_no_infobox(self):
         wt = "{{disambig}}\n*[[Attunement (Dark Souls)]]\n*[[Attunement (Dark Souls II)]]\n"
         import tempfile
+
         with tempfile.TemporaryDirectory() as td:
-            src = Path(td) / "raw" / "uncategorized" / "Attunement (disambiguation).json"
-            _write_envelope(src, 1, "Attunement (disambiguation)", wt, ["Category:Disambiguations"])
+            src = (
+                Path(td) / "raw" / "uncategorized" / "Attunement (disambiguation).json"
+            )
+            _write_envelope(
+                src, 1, "Attunement (disambiguation)", wt, ["Category:Disambiguations"]
+            )
             report = CleaningReport()
-            clean_one(source_path=src, source_root=src.parent.parent, output_root=Path(td) / "out", registry=Registry.default(), report=report)
-            payload = json.loads(next(iter((Path(td) / "out").rglob("*.json"))).read_text(encoding="utf-8"))
+            clean_one(
+                source_path=src,
+                source_root=src.parent.parent,
+                output_root=Path(td) / "out",
+                registry=Registry.default(),
+                report=report,
+            )
+            payload = json.loads(
+                next(iter((Path(td) / "out").rglob("*.json"))).read_text(
+                    encoding="utf-8"
+                )
+            )
             self.assertEqual(payload["entity_type"], "generic")
             self.assertEqual(payload["infobox"], {})
             self.assertIn("Attunement (Dark Souls)", payload["sections"][0]["markdown"])

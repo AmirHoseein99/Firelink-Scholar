@@ -85,7 +85,6 @@ def guess_extension(url: str, mime: str | None) -> str:
     return "bin"
 
 
-
 class AssetStore:
     def __init__(
         self,
@@ -100,9 +99,7 @@ class AssetStore:
         allowed_hosts: Iterable[str] | None = None,
     ) -> None:
         self.images_root = Path(images_root)
-        self.thumbnails_root = (
-            Path(thumbnails_root) if thumbnails_root else None
-        )
+        self.thumbnails_root = Path(thumbnails_root) if thumbnails_root else None
         self.concurrency = max(1, concurrency)
         self.timeout = timeout
         self.user_agent = user_agent
@@ -271,15 +268,11 @@ class AssetStore:
                 except (httpx.HTTPError, OSError) as exc:
                     tmp_path.unlink(missing_ok=True)
                     last_error = f"{type(exc).__name__}: {exc}"
-                    await asyncio.sleep(min(2 ** attempt, 8))
+                    await asyncio.sleep(min(2**attempt, 8))
                     continue
 
                 mime = (actual_mime or expected_mime or "").lower()
-                if (
-                    mime
-                    and mime not in _MIME_EXT
-                    and not mime.startswith("image/")
-                ):
+                if mime and mime not in _MIME_EXT and not mime.startswith("image/"):
                     tmp_path.unlink(missing_ok=True)
                     last_error = f"unsupported mime: {mime}"
                     break
@@ -298,9 +291,7 @@ class AssetStore:
                     result.sha256 = sha256
                     result.original_path = str(original)
                     result.thumbnail_path = (
-                        str(thumbnail)
-                        if thumbnail and thumbnail.exists()
-                        else ""
+                        str(thumbnail) if thumbnail and thumbnail.exists() else ""
                     )
                     result.byte_size = size
                     result.mime = mime
@@ -314,7 +305,7 @@ class AssetStore:
                     last_error = f"rename failed: {exc}"
                     if isinstance(exc, FileExistsError):
                         continue
-                    await asyncio.sleep(min(2 ** attempt, 8))
+                    await asyncio.sleep(min(2**attempt, 8))
                     continue
 
                 thumb_status = "skipped"
@@ -334,9 +325,7 @@ class AssetStore:
                     except Exception as exc:  # noqa: BLE001 - thumbnail must not invalidate original
                         thumb_status = "failed"
                         thumb_path_str = ""
-                        LOGGER.warning(
-                            "thumbnail error %s: %s", original, exc
-                        )
+                        LOGGER.warning("thumbnail error %s: %s", original, exc)
 
                 result.status = "ok"
                 result.sha256 = sha256
@@ -353,9 +342,7 @@ class AssetStore:
         result.error = last_error
         return result
 
-    async def download_many(
-        self, items: list[dict[str, str]]
-    ) -> list[DownloadResult]:
+    async def download_many(self, items: list[dict[str, str]]) -> list[DownloadResult]:
         sem = self._semaphore
 
         async def one(item: dict[str, str]) -> DownloadResult:

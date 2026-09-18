@@ -18,6 +18,7 @@ from .models import (
 from .registry import Registry
 from .router import entity_type_enum, route
 
+
 def clean_one(
     *,
     source_path: Path,
@@ -46,7 +47,9 @@ def clean_one(
 
     parsed = mw.parse(loaded.wikitext)
 
-    infobox = W.find_first_infobox_template(parsed, registry.infobox_prefixes, registry=registry)
+    infobox = W.find_first_infobox_template(
+        parsed, registry.infobox_prefixes, registry=registry
+    )
     infobox_template_name = infobox.name.strip() if infobox is not None else None
 
     desc = W.extract_description(parsed)
@@ -180,6 +183,7 @@ def _collect_unknown_templates(parsed: mw.Wikicode, registry: Registry) -> list[
 
 def _safe_slug_for(title: str) -> str:
     from .registry import safe_slug
+
     return safe_slug(title)
 
 
@@ -195,6 +199,7 @@ def _normalise_payload(payload: dict) -> dict:
 
     The writer does the actual JSON serialisation; this is a safety pass.
     """
+
     def walk(v):
         if isinstance(v, dict):
             return {k: walk(val) for k, val in sorted(v.items())}
@@ -203,4 +208,5 @@ def _normalise_payload(payload: dict) -> dict:
         if isinstance(v, str):
             return nfc(v)
         return v
+
     return walk(payload)

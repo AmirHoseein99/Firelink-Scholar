@@ -33,7 +33,9 @@ def _mock_transport(responses: list[httpx.Response]) -> httpx.MockTransport:
     return httpx.MockTransport(handler)
 
 
-def _make_page_payload(title: str, page_id: int, image_titles: list[str]) -> dict[str, Any]:
+def _make_page_payload(
+    title: str, page_id: int, image_titles: list[str]
+) -> dict[str, Any]:
     return {
         "query": {
             "pages": {
@@ -171,7 +173,8 @@ class FandomClientImageinfoTest(unittest.TestCase):
         def handler(request: httpx.Request) -> httpx.Response:
             captured.append(request)
             return httpx.Response(
-                200, json=_make_imageinfo_payload(["File:a.png", "File:b.png"], "https://x")
+                200,
+                json=_make_imageinfo_payload(["File:a.png", "File:b.png"], "https://x"),
             )
 
         client = _make_client(httpx.MockTransport(handler))
@@ -197,7 +200,9 @@ class FandomClientImageinfoTest(unittest.TestCase):
                 payload = _make_imageinfo_payload(["File:a.png"], "https://x")
                 payload["continue"] = {"iicontinue": "next"}
                 return httpx.Response(200, json=payload)
-            return httpx.Response(200, json=_make_imageinfo_payload(["File:b.png"], "https://x"))
+            return httpx.Response(
+                200, json=_make_imageinfo_payload(["File:b.png"], "https://x")
+            )
 
         client = _make_client(httpx.MockTransport(handler))
 
@@ -242,10 +247,16 @@ class FandomClientAllImagesTest(unittest.TestCase):
                 [
                     httpx.Response(
                         200,
-                        json={"query": {"allpages": [{"pageid": 1, "title": "Ammunition"}]}},
+                        json={
+                            "query": {
+                                "allpages": [{"pageid": 1, "title": "Ammunition"}]
+                            }
+                        },
                     ),
                     httpx.Response(200, json=page_payload),
-                    httpx.Response(200, json=_make_imageinfo_payload(titles, "https://x")),
+                    httpx.Response(
+                        200, json=_make_imageinfo_payload(titles, "https://x")
+                    ),
                 ]
             )
         )
@@ -270,7 +281,9 @@ class RetryBehaviorTest(unittest.TestCase):
             if calls["n"] < 2:
                 return httpx.Response(503, json={"error": "down"})
             payload = b"\x89PNG\r\n\x1a\n" + b"\x00" * 32
-            return httpx.Response(200, content=payload, headers={"Content-Type": "image/png"})
+            return httpx.Response(
+                200, content=payload, headers={"Content-Type": "image/png"}
+            )
 
         with tempfile.TemporaryDirectory() as tmp:
             store = AssetStore(Path(tmp), max_retries=3)
@@ -307,7 +320,9 @@ class FandomClientQueryRetryTest(unittest.TestCase):
         def handler(_: httpx.Request) -> httpx.Response:
             calls["n"] += 1
             if calls["n"] < 3:
-                raise httpx.ConnectTimeout("simulated", request=httpx.Request("GET", "https://x"))
+                raise httpx.ConnectTimeout(
+                    "simulated", request=httpx.Request("GET", "https://x")
+                )
             return httpx.Response(
                 200,
                 json={"query": {"pages": {"1": {"pageid": 1, "title": "Foo"}}}},
@@ -375,7 +390,9 @@ class SkipForceBehaviorTest(unittest.TestCase):
                 result = await store.download("https://example.test/anything.png")
                 self.assertEqual(result.status, "skipped")
                 self.assertEqual(result.sha256, expected_sha)
-                self.assertEqual(result.original_path, str(root / f"{expected_sha}.png"))
+                self.assertEqual(
+                    result.original_path, str(root / f"{expected_sha}.png")
+                )
 
             run(runner())
 
@@ -386,7 +403,9 @@ class AtomicWritesTest(unittest.TestCase):
             root = Path(tmp)
 
             def handler(_: httpx.Request) -> httpx.Response:
-                raise httpx.ConnectError("boom", request=httpx.Request("GET", "https://x"))
+                raise httpx.ConnectError(
+                    "boom", request=httpx.Request("GET", "https://x")
+                )
 
             store = AssetStore(root, max_retries=1)
             store._client = httpx.AsyncClient(transport=httpx.MockTransport(handler))
@@ -451,7 +470,13 @@ class UnsafeHostTest(unittest.TestCase):
             self.assertTrue(unsafe, host)
 
     def test_rejects_private_ip_literals(self) -> None:
-        for host in ("10.0.0.5", "172.16.0.1", "172.31.255.255", "192.168.1.10", "fc00::1"):
+        for host in (
+            "10.0.0.5",
+            "172.16.0.1",
+            "172.31.255.255",
+            "192.168.1.10",
+            "fc00::1",
+        ):
             unsafe, _ = _is_unsafe_host(host)
             self.assertTrue(unsafe, host)
 

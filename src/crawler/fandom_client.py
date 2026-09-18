@@ -86,7 +86,7 @@ class FandomClient:
                 )
                 if attempt >= self.max_retries:
                     break
-                await asyncio.sleep(min(self.retry_backoff ** attempt, 30))
+                await asyncio.sleep(min(self.retry_backoff**attempt, 30))
         assert last_exc is not None
         raise last_exc
 
@@ -133,7 +133,9 @@ class FandomClient:
                         )
                         continue
                     for info in info_list:
-                        records.append(_normalize_imageinfo(page.get("title", ""), info))
+                        records.append(
+                            _normalize_imageinfo(page.get("title", ""), info)
+                        )
                 cont = data.get("continue")
                 if not cont:
                     break
@@ -224,9 +226,18 @@ def _is_unsafe_host(hostname: str) -> tuple[bool, str]:
         ip = ip_address(lower)
     except ValueError:
         return False, ""
-    if ip.is_loopback or ip.is_private or ip.is_link_local or ip.is_multicast \
-            or ip.is_reserved or ip.is_unspecified:
-        return True, f"IP literal {lower!r} is loopback/private/link-local/multicast/reserved"
+    if (
+        ip.is_loopback
+        or ip.is_private
+        or ip.is_link_local
+        or ip.is_multicast
+        or ip.is_reserved
+        or ip.is_unspecified
+    ):
+        return (
+            True,
+            f"IP literal {lower!r} is loopback/private/link-local/multicast/reserved",
+        )
     return False, ""
 
 
@@ -281,9 +292,7 @@ async def crawl(
             try:
                 payload = await client.crawl_page(page_title)
             except (httpx.TimeoutException, httpx.TransportError) as exc:
-                LOGGER.error(
-                    "skipping page %r after retries: %s", page_title, exc
-                )
+                LOGGER.error("skipping page %r after retries: %s", page_title, exc)
                 continue
             await dump_raw_json(payload, config.raw_root)
 
@@ -478,9 +487,13 @@ def main(argv: list[str] | None = None) -> int:
         help="Allow --base-url to resolve to loopback/private addresses",
     )
     parser.add_argument("--images", action="store_true", help="Download images")
-    parser.add_argument("--force", action="store_true", help="Re-download existing assets")
+    parser.add_argument(
+        "--force", action="store_true", help="Re-download existing assets"
+    )
     parser.add_argument("--limit", type=int, default=None, help="Stop after N pages")
-    parser.add_argument("--concurrency", type=int, default=4, help="Image download parallelism")
+    parser.add_argument(
+        "--concurrency", type=int, default=4, help="Image download parallelism"
+    )
     parser.add_argument(
         "--timeout", type=float, default=30.0, help="HTTP timeout in seconds"
     )
@@ -505,7 +518,9 @@ def main(argv: list[str] | None = None) -> int:
         images_root=Path(args.images_output).resolve() if args.images else None,
         thumbnails_root=Path(args.thumbnails_output).resolve() if args.images else None,
         manifest_path=Path(args.manifest).resolve() if args.images else None,
-        aggregate_manifest_path=Path(args.aggregate_manifest).resolve() if args.images else None,
+        aggregate_manifest_path=Path(args.aggregate_manifest).resolve()
+        if args.images
+        else None,
         limit=args.limit,
         force=args.force,
         concurrency=max(1, args.concurrency),

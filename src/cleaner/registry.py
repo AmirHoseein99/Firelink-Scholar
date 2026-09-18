@@ -71,15 +71,43 @@ class Registry:
 
     def _register_defaults(self) -> None:
         common_dsiii = (
-            "name", "image", "weapon-type", "atk-type",
-            "psn-atk", "bld-atk", "fst-atk", "spc-atk",
-            "focus-req", "ring-cost", "cast-bonus", "shot-range",
-            "stability", "durability", "weight", "counter",
-            "phys-atk", "mag-atk", "fire-atk", "ltn-atk", "dark-atk",
-            "phys-def", "mag-def", "fire-def", "ltn-def", "dark-def",
-            "str-req", "dex-req", "int-req", "fth-req",
-            "str-bonus", "dex-bonus", "int-bonus", "fth-bonus",
-            "buy-price", "price", "notes",
+            "name",
+            "image",
+            "weapon-type",
+            "atk-type",
+            "psn-atk",
+            "bld-atk",
+            "fst-atk",
+            "spc-atk",
+            "focus-req",
+            "ring-cost",
+            "cast-bonus",
+            "shot-range",
+            "stability",
+            "durability",
+            "weight",
+            "counter",
+            "phys-atk",
+            "mag-atk",
+            "fire-atk",
+            "ltn-atk",
+            "dark-atk",
+            "phys-def",
+            "mag-def",
+            "fire-def",
+            "ltn-def",
+            "dark-def",
+            "str-req",
+            "dex-req",
+            "int-req",
+            "fth-req",
+            "str-bonus",
+            "dex-bonus",
+            "int-bonus",
+            "fth-bonus",
+            "buy-price",
+            "price",
+            "notes",
         )
         weapon_t = TemplateSpec(
             template_name="DaSIIIWeapon",
@@ -107,46 +135,63 @@ class Registry:
         )
         self.templates[char_t.template_name] = char_t
 
-        self.category_to_entity.update({
-            "Weapons": "weapon",
-            "Armor": "armor",
-            "Shields": "shield",
-            "Rings": "ring",
-            "Items": "item",
-            "Characters": "character",
-            "Locations": "location",
-            "Enemies": "enemy",
-            "Bosses": "boss",
-            "Spells": "spell",
-            "Miracles": "spell",
-            "Pyromancies": "spell",
-            "Sorceries": "spell",
-            "Mechanics": "mechanic",
-            "Status Effects": "mechanic",
-        })
+        self.category_to_entity.update(
+            {
+                "Weapons": "weapon",
+                "Armor": "armor",
+                "Shields": "shield",
+                "Rings": "ring",
+                "Items": "item",
+                "Characters": "character",
+                "Locations": "location",
+                "Enemies": "enemy",
+                "Bosses": "boss",
+                "Spells": "spell",
+                "Miracles": "spell",
+                "Pyromancies": "spell",
+                "Sorceries": "spell",
+                "Mechanics": "mechanic",
+                "Status Effects": "mechanic",
+            }
+        )
 
-        self.dir_to_entity.update({
-            "Weapons": "weapon",
-            "Armor": "armor",
-            "Shields": "shield",
-            "Rings": "ring",
-            "Items": "item",
-            "Characters": "character",
-            "NPCs": "character",
-            "Mentioned Characters": "character",
-            "Blacksmiths": "character",
-            "Bosses": "boss",
-            "Locations": "location",
-            "Mentioned Locations": "location",
-            "Enemies": "enemy",
-            "Magic": "spell",
-            "Gameplay Mechanics": "mechanic",
-        })
+        self.dir_to_entity.update(
+            {
+                "Weapons": "weapon",
+                "Armor": "armor",
+                "Shields": "shield",
+                "Rings": "ring",
+                "Items": "item",
+                "Characters": "character",
+                "NPCs": "character",
+                "Mentioned Characters": "character",
+                "Blacksmiths": "character",
+                "Bosses": "boss",
+                "Locations": "location",
+                "Mentioned Locations": "location",
+                "Enemies": "enemy",
+                "Magic": "spell",
+                "Gameplay Mechanics": "mechanic",
+            }
+        )
 
         for name in (
-            "clr", "Main", "For", "Note", "Japanese", "Quoteleft", "Quote",
-            "Disambig", "stub", "lang", "Missing", "stub", "!",
-            "DaSIIIMoveset", "DaSIIISWB", "DaSIIIWeaponBox",
+            "clr",
+            "Main",
+            "For",
+            "Note",
+            "Japanese",
+            "Quoteleft",
+            "Quote",
+            "Disambig",
+            "stub",
+            "lang",
+            "Missing",
+            "stub",
+            "!",
+            "DaSIIIMoveset",
+            "DaSIIISWB",
+            "DaSIIIWeaponBox",
             "DaSIIIWeaponsNav",
         ):
             self.denylist_templates.add(name.lower())
@@ -171,7 +216,11 @@ class Registry:
         parts = category.split(":", 1)
         last = parts[-1].strip()
         for k, v in self.category_to_entity.items():
-            if last == k or last.lower() == k.lower() or last.endswith((f": {k}", f":{k}")):
+            if (
+                last == k
+                or last.lower() == k.lower()
+                or last.endswith((f": {k}", f":{k}"))
+            ):
                 return v
         return None
 

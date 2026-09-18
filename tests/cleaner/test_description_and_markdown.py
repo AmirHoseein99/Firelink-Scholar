@@ -41,7 +41,9 @@ class DescriptionExtractionTest(unittest.TestCase):
         parsed = mw.parse(wt)
         d = W.extract_description(parsed)
         self.assertEqual(d.paragraphs, [])
-        sections = W.markdown_for_page(wt, self.reg, parsed=parsed, consumed_descriptions=d.consumed_templates)
+        sections = W.markdown_for_page(
+            wt, self.reg, parsed=parsed, consumed_descriptions=d.consumed_templates
+        )
         all_md = "\n".join(md for _, md in sections)
         self.assertNotIn("extracted-from-cell", all_md)
 

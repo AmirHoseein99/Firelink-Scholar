@@ -71,7 +71,9 @@ def load_raw(path: Path, source_root: Path) -> LoadedPage:
     query = envelope.get("query") or {}
     pages = query.get("pages") or {}
     if not isinstance(pages, dict) or len(pages) != 1:
-        raise LoaderError(f"expected_one_page_got_{len(pages) if isinstance(pages, dict) else 'invalid'}")
+        raise LoaderError(
+            f"expected_one_page_got_{len(pages) if isinstance(pages, dict) else 'invalid'}"
+        )
 
     (_, page_data) = next(iter(pages.items()))
     if not isinstance(page_data, dict):

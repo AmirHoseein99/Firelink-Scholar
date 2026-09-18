@@ -14,7 +14,9 @@ from PIL import Image
 from src.assets.store import AssetStore, DownloadResult
 
 
-def _png_bytes(color: tuple[int, int, int] = (255, 0, 0), size: tuple[int, int] = (128, 64)) -> bytes:
+def _png_bytes(
+    color: tuple[int, int, int] = (255, 0, 0), size: tuple[int, int] = (128, 64)
+) -> bytes:
     buf = io.BytesIO()
     Image.new("RGB", size, color).save(buf, format="PNG")
     return buf.getvalue()
@@ -144,7 +146,9 @@ class FailedDownloadCleanupTest(unittest.TestCase):
                 transport=_mock_client(
                     [
                         httpx.Response(
-                            500, json={"error": "boom"}, headers={"Content-Type": "application/json"}
+                            500,
+                            json={"error": "boom"},
+                            headers={"Content-Type": "application/json"},
                         )
                     ]
                 )
@@ -193,7 +197,9 @@ class HostAllowListTest(unittest.TestCase):
     def test_disallowed_host_rejected(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             store = AssetStore(Path(tmp), allowed_hosts={"cdn.example.test"})
-            store._client = httpx.AsyncClient(transport=_mock_client([httpx.Response(200)]))
+            store._client = httpx.AsyncClient(
+                transport=_mock_client([httpx.Response(200)])
+            )
 
             async def runner() -> DownloadResult:
                 return await store.download("https://evil.test/x.png")

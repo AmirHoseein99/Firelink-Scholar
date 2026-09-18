@@ -16,7 +16,11 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--output", default="data/cleaned")
     parser.add_argument("--limit", type=int, default=None)
     parser.add_argument("--force", action="store_true")
-    parser.add_argument("--report", default=None, help="Path to report.json; defaults to <output>/report.json")
+    parser.add_argument(
+        "--report",
+        default=None,
+        help="Path to report.json; defaults to <output>/report.json",
+    )
     args = parser.parse_args(argv)
 
     in_root = Path(args.input).resolve()
@@ -42,9 +46,13 @@ def main(argv: list[str] | None = None) -> int:
             force=args.force,
         )
 
-    report_path = Path(args.report) if args.report else out_root / 'reports' /f"report.json"
+    report_path = (
+        Path(args.report) if args.report else out_root / "reports" / "report.json"
+    )
     write_report(report_path, report)
-    print(f"cleaned {report.totals.pages} pages; report at {report_path}", file=sys.stderr)
+    print(
+        f"cleaned {report.totals.pages} pages; report at {report_path}", file=sys.stderr
+    )
     return 0
 
 

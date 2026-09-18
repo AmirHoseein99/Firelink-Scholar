@@ -29,6 +29,7 @@ def _decode_entities(text: str) -> str:
     def repl(m: re.Match) -> str:
         s = m.group(0)
         return HTML_ENTITIES.get(s, s)
+
     return re.sub(r"&(?:amp|lt|gt|quot|nbsp);", repl, text)
 
 
@@ -63,7 +64,9 @@ def _param_named_keys(template: Template) -> list[str]:
     return keys
 
 
-def find_first_infobox_template(wikicode: mw.Wikicode, prefixes: tuple[str, ...], registry: Registry | None = None) -> Template | None:
+def find_first_infobox_template(
+    wikicode: mw.Wikicode, prefixes: tuple[str, ...], registry: Registry | None = None
+) -> Template | None:
     for t in wikicode.ifilter_templates(recursive=True):
         name = t.name.strip()
         if registry is not None and registry.is_denylist_template(name):
@@ -72,7 +75,11 @@ def find_first_infobox_template(wikicode: mw.Wikicode, prefixes: tuple[str, ...]
             return t
         for prefix in prefixes:
             pl = prefix.lower()
-            if name.lower().startswith(pl) and not name.lower().startswith(pl + "typebox") and not name.lower().startswith(pl + "weaponbox"):
+            if (
+                name.lower().startswith(pl)
+                and not name.lower().startswith(pl + "typebox")
+                and not name.lower().startswith(pl + "weaponbox")
+            ):
                 return t
     return None
 
@@ -82,7 +89,9 @@ def _iter_top_level_nodes(node):
         yield from node.nodes
 
 
-def extract_description(wikicode: mw.Wikicode, name: str = "Description") -> ParsedDescription:
+def extract_description(
+    wikicode: mw.Wikicode, name: str = "Description"
+) -> ParsedDescription:
     paragraphs: list[str] = []
     consumed: list[Template] = []
 
@@ -152,7 +161,9 @@ def _build_parent_map(root: mw.Wikicode) -> dict[int, object]:
     return parent_map
 
 
-def _populate_parent_map(node: object, parent: object, parent_map: dict[int, object]) -> None:
+def _populate_parent_map(
+    node: object, parent: object, parent_map: dict[int, object]
+) -> None:
     children = getattr(node, "nodes", None)
     if not children:
         return
@@ -166,7 +177,9 @@ def _find_parent(root: mw.Wikicode, target) -> object | None:
     return _build_parent_map(root).get(id(target))
 
 
-def _remove_template(root: mw.Wikicode, t: Template, parent_map: dict[int, object] | None = None) -> None:
+def _remove_template(
+    root: mw.Wikicode, t: Template, parent_map: dict[int, object] | None = None
+) -> None:
     parent = (parent_map or _build_parent_map(root)).get(id(t))
     if parent is None:
         return
@@ -277,7 +290,9 @@ def _convert_node(n, ctx: dict) -> str:
             return ""
         if name.lower() == ctx.get("description_name", "description").lower():
             return ""
-        routed_id = id(ctx.get("routed_template")) if ctx.get("routed_template") else None
+        routed_id = (
+            id(ctx.get("routed_template")) if ctx.get("routed_template") else None
+        )
         if routed_id is not None and id(n) == routed_id:
             return ""
         return _convert_template_to_markdown(n)
@@ -318,7 +333,9 @@ def _node_iter_at_top(wikicode: mw.Wikicode):
     yield from wikicode.nodes
 
 
-def _walk_sections(wikicode: mw.Wikicode, description_name: str = "Description") -> list[tuple[str | None, str | None, list]]:
+def _walk_sections(
+    wikicode: mw.Wikicode, description_name: str = "Description"
+) -> list[tuple[str | None, str | None, list]]:
     """Walk top-level nodes and group them into sections.
 
     Each yielded tuple is ``(heading_title, heading_markdown, body_nodes)``.
@@ -337,7 +354,13 @@ def _walk_sections(wikicode: mw.Wikicode, description_name: str = "Description")
     return sections
 
 
-def _render_nodes(nodes: list, registry: Registry, description_name: str, table_marker: str | None, routed_template: Template | None) -> str:
+def _render_nodes(
+    nodes: list,
+    registry: Registry,
+    description_name: str,
+    table_marker: str | None,
+    routed_template: Template | None,
+) -> str:
     ctx = {
         "registry": registry,
         "description_name": description_name,
