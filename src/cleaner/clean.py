@@ -40,7 +40,7 @@ def clean_one(
             status="malformed",
             errors=[e.reason],
         )
-        # report.malformed_inputs.append(outcome)
+        report.malformed_inputs.append(outcome)
         report.totals.malformed += 1
         return outcome
 
@@ -87,18 +87,18 @@ def clean_one(
         / f"{safe_slug}-{loaded.metadata.page_id}.json"
     )
 
-    # if output_path.exists() and not force:
-    #     outcome = PageOutcome(
-    #         source_path=relative,
-    #         status="skipped_existing",
-    #         output_path=str(output_path.relative_to(output_root)),
-    #         entity_type=entity_type_value,
-    #         template=template_to_record,
-    #         warnings=["exists"],
-    #     )
-    #     report.skipped_existing.append(outcome)
-    #     report.totals.skipped_existing += 1
-    #     return outcome
+    if output_path.exists() and not force:
+        outcome = PageOutcome(
+            source_path=relative,
+            status="skipped_existing",
+            output_path=str(output_path.relative_to(output_root)),
+            entity_type=entity_type_value,
+            template=template_to_record,
+            warnings=["exists"],
+        )
+        report.skipped_existing.append(outcome)
+        report.totals.skipped_existing += 1
+        return outcome
 
     sections = W.markdown_for_page(
         loaded.wikitext,
