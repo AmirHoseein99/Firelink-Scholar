@@ -26,6 +26,7 @@ class EntityType(str, Enum):
     boss = "boss"
     spell = "spell"
     mechanic = "mechanic"
+    storyline = "storyline"
     generic = "generic"
 
 
