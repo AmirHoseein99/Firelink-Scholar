@@ -19,6 +19,12 @@ class Settings(BaseSettings):
     langsmith_tracing: bool = False
     langsmith_project_name: str = "Firelink-Scholar"
     langsmith_run_name: str = "Firelink-Scholar-Run"
-
+    freellm_api_key: str = ""
+    freellm_model :str = ""
+    COLLECTION_NAME: str = ""
+    QDRANT_PATH: str = ""
+    OPENROUTER_BASE_URL: str= 'https://openrouter.ai/api/v1'
+    OPENROUTER_MODEL: str = ''
+    OPENROUTER_API_KEY: str =''
 
 settings = Settings()
