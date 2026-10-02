@@ -1,0 +1,358 @@
+[
+  {
+    "id": "q001",
+    "question": "Who was Gwyn, Lord of Sunlight, and what was his role at the founding of the Age of Fire?",
+    "game": "Dark Souls",
+    "category": "entity",
+    "expected_entities": ["Gwyn", "Lord of Cinder", "Lord of Sunlight", "Four Knights", "Gwynevere", "Lore"]
+  },
+  {
+    "id": "q002",
+    "question": "Who was Knight Artorias the Abysswalker?",
+    "game": "Dark Souls",
+    "category": "entity",
+    "expected_entities": ["Artorias", "Abysswalker", "Sif", "Great Grey Wolf", "Crest of Artorias"]
+  },
+  {
+    "id": "q003",
+    "question": "Who was the Witch of Izalith, and what was her role in the founding myth of the Age of Fire?",
+    "game": "Dark Souls",
+    "category": "entity",
+    "expected_entities": ["Witch of Izalith", "Quelana", "Quelaag", "Lost Izalith", "Bed of Chaos"]
+  },
+  {
+    "id": "q004",
+    "question": "Who were Dragonslayer Ornstein and Executioner Smough, and why did they guard Anor Londo together?",
+    "game": "Dark Souls",
+    "category": "entity",
+    "expected_entities": ["Ornstein", "Smough", "Dragonslayer", "Executioner", "Gwyndolin"]
+  },
+  {
+    "id": "q005",
+    "question": "What is the relationship between Knight Artorias and Great Grey Wolf Sif?",
+    "game": "Dark Souls",
+    "category": "relationship",
+    "expected_entities": ["Artorias", "Sif", "Great Grey Wolf", "Crest of Artorias", "Oolacile"]
+  },
+  {
+    "id": "q006",
+    "question": "What is the relationship between Kingseeker Frampt and Darkstalker Kaathe, and what does each want the player to do?",
+    "game": "Dark Souls",
+    "category": "relationship",
+    "expected_entities": ["Frampt", "Kaathe", "Darkstalker", "Kingseeker", "Serpent", "First Flame"]
+  },
+  {
+    "id": "q007",
+    "question": "What is the relationship between the Witch of Izalith and her daughters Quelaag and Quelana?",
+    "game": "Dark Souls",
+    "category": "relationship",
+    "expected_entities": ["Witch of Izalith", "Quelana", "Quelaag", "Daughters", "Lost Izalith"]
+  },
+  {
+    "id": "q008",
+    "question": "How did Knight Artorias fall to the Abyss, and what role did Sif play afterward?",
+    "game": "Dark Souls",
+    "category": "multihop",
+    "expected_entities": ["Artorias", "Sif", "Abyss", "Manus", "Oolacile", "Abysswalker", "Chasm of the Abyss"]
+  },
+  {
+    "id": "q009",
+    "question": "What happened to Oolacile, and how is its downfall connected to Manus and the spreading of the Abyss?",
+    "game": "Dark Souls",
+    "category": "multihop",
+    "expected_entities": ["Oolacile", "Manus", "Abyss", "Dusk of Oolacile", "Chasm of the Abyss", "Artorias"]
+  },
+  {
+    "id": "q010",
+    "question": "How does the player access the Artorias of the Abyss DLC content, and what does the Broken Pendant do?",
+    "game": "Dark Souls",
+    "category": "multihop",
+    "expected_entities": ["Broken Pendant", "Oolacile", "Artorias", "Darkroot", "Princess Dusk"]
+  },
+  {
+    "id": "q011",
+    "question": "What does the Crest of Artorias allow the player to access, and how is it obtained?",
+    "game": "Dark Souls",
+    "category": "item",
+    "expected_entities": ["Crest of Artorias", "Artorias", "Sif", "Darkroot", "Great Grey Wolf"]
+  },
+  {
+    "id": "q012",
+    "question": "What does the Lordvessel do, and how does the player obtain it?",
+    "game": "Dark Souls",
+    "category": "item",
+    "expected_entities": ["Lordvessel", "Gwyn", "Anor Londo", "Firelink Shrine", "First Flame"]
+  },
+  {
+    "id": "q013",
+    "question": "What is Lost Izalith, and what catastrophic event happened there?",
+    "game": "Dark Souls",
+    "category": "location",
+    "expected_entities": ["Lost Izalith", "Witch of Izalith", "Bed of Chaos", "Demon Ruins", "Chaos"]
+  },
+  {
+    "id": "q014",
+    "question": "Summarize the cosmology of Dark Souls: the Age of Ancients, the First Flame, and the founding of the Age of Fire.",
+    "game": "Dark Souls",
+    "category": "synthesis",
+    "expected_entities": ["Age of Ancients", "First Flame", "Age of Fire", "Lore", "Gwyn", "Lord Souls"]
+  },
+
+  {
+    "id": "q015",
+    "question": "Who was King Vendrick, and what happened to the kingdom of Drangleic?",
+    "game": "Dark Souls II",
+    "category": "entity",
+    "expected_entities": ["Vendrick", "Drangleic", "Drangleic Castle", "King", "Soul of the King"]
+  },
+  {
+    "id": "q016",
+    "question": "Who was Aldia, Scholar of the First Sin?",
+    "game": "Dark Souls II",
+    "category": "entity",
+    "expected_entities": ["Aldia", "Scholar of the First Sin", "Aldia's Keep", "Dragon Aerie"]
+  },
+  {
+    "id": "q017",
+    "question": "Who was Nashandra, and what was her connection to Manus?",
+    "game": "Dark Souls II",
+    "category": "entity",
+    "expected_entities": ["Nashandra", "Manus", "Dark", "Queen", "Soul of Nashandra", "Daughters of Manus"]
+  },
+  {
+    "id": "q018",
+    "question": "What was the relationship between Vendrick and Nashandra, and how did it end?",
+    "game": "Dark Souls II",
+    "category": "relationship",
+    "expected_entities": ["Vendrick", "Nashandra", "Drangleic", "Throne of Want", "Manus"]
+  },
+  {
+    "id": "q019",
+    "question": "Who is the Emerald Herald, and what is her relationship to the Bearer of the Curse?",
+    "game": "Dark Souls II",
+    "category": "relationship",
+    "expected_entities": ["Emerald Herald", "Bearer of the Curse", "Fire Keepers", "Drangleic"]
+  },
+  {
+    "id": "q020",
+    "question": "What is the Throne of Want, and why does Nashandra seek it?",
+    "game": "Dark Souls II",
+    "category": "relationship",
+    "expected_entities": ["Throne of Want", "Nashandra", "Vendrick", "Manus", "First Flame"]
+  },
+  {
+    "id": "q021",
+    "question": "How did the war between Drangleic and the Giants begin, and what was its consequence for Vendrick and his kingdom?",
+    "game": "Dark Souls II",
+    "category": "multihop",
+    "expected_entities": ["Giants", "Vendrick", "Drangleic", "Last Giant", "Giant Lord", "Forest of Fallen Giants"]
+  },
+  {
+    "id": "q022",
+    "question": "What does the Ashen Mist Heart allow the Bearer of the Curse to do?",
+    "game": "Dark Souls II",
+    "category": "item",
+    "expected_entities": ["Ashen Mist Heart", "Bearer of the Curse", "Memory", "Vendrick", "Aldia"]
+  },
+  {
+    "id": "q023",
+    "question": "What is the significance of the three crowns from the Lost Crowns DLC?",
+    "game": "Dark Souls II",
+    "category": "item",
+    "expected_entities": ["Crown", "Lost Crowns", "Sunken King", "Old Iron King", "Ivory King", "Vendrick"]
+  },
+  {
+    "id": "q024",
+    "question": "What is the Shrine of Amana, and what is its narrative significance?",
+    "game": "Dark Souls II",
+    "category": "location",
+    "expected_entities": ["Shrine of Amana", "Amana", "Milfanito", "Drangleic"]
+  },
+  {
+    "id": "q025",
+    "question": "What does Aldia's dialogue reveal about the cycle of Light and Dark?",
+    "game": "Dark Souls II",
+    "category": "synthesis",
+    "expected_entities": ["Aldia", "Scholar of the First Sin", "First Sin", "Light", "Dark", "Cycle", "Undead"]
+  },
+
+  {
+    "id": "q026",
+    "question": "Who were the Lords of Cinder, and what role did they play in the linking of the First Flame?",
+    "game": "Dark Souls III",
+    "category": "entity",
+    "expected_entities": ["Lords of Cinder", "Lord of Cinder", "First Flame", "Gwyn", "Ludleth", "Yhorm", "Aldrich", "Lothric"]
+  },
+  {
+    "id": "q027",
+    "question": "Who was Prince Lothric, and why did he refuse to link the First Flame?",
+    "game": "Dark Souls III",
+    "category": "entity",
+    "expected_entities": ["Lothric", "Younger Prince", "Prince Lothric", "Lorian", "First Flame"]
+  },
+  {
+    "id": "q028",
+    "question": "Who was Aldrich, Devourer of Gods?",
+    "game": "Dark Souls III",
+    "category": "entity",
+    "expected_entities": ["Aldrich", "Devourer of Gods", "Saint of the Deep", "Lords of Cinder", "Gwyndolin"]
+  },
+  {
+    "id": "q029",
+    "question": "Who was Pontiff Sulyvahn?",
+    "game": "Dark Souls III",
+    "category": "entity",
+    "expected_entities": ["Pontiff Sulyvahn", "Sulyvahn", "Irithyll", "Aldrich"]
+  },
+  {
+    "id": "q030",
+    "question": "What was the relationship between Lothric and his elder brother Lorian?",
+    "game": "Dark Souls III",
+    "category": "relationship",
+    "expected_entities": ["Lothric", "Lorian", "Prince", "Elder Prince", "Younger Prince"]
+  },
+  {
+    "id": "q031",
+    "question": "What was the relationship between the Abyss Watchers and Artorias the Abysswalker?",
+    "game": "Dark Souls III",
+    "category": "relationship",
+    "expected_entities": ["Abyss Watchers", "Artorias", "Abysswalker", "Wolf", "Abyss"]
+  },
+  {
+    "id": "q032",
+    "question": "What role did Sulyvahn play in the rise of Aldrich to godhood?",
+    "game": "Dark Souls III",
+    "category": "relationship",
+    "expected_entities": ["Sulyvahn", "Pontiff", "Aldrich", "Devourer of Gods", "Irithyll", "Anor Londo"]
+  },
+  {
+    "id": "q033",
+    "question": "Why did the Lords of Cinder refuse to return to their thrones, and how did Lothric's refusal trigger their resurrection?",
+    "game": "Dark Souls III",
+    "category": "multihop",
+    "expected_entities": ["Lords of Cinder", "Lothric", "First Flame", "Link", "Bell", "Unkindled"]
+  },
+  {
+    "id": "q034",
+    "question": "What is the Soul of Cinder, and what does it represent narratively?",
+    "game": "Dark Souls III",
+    "category": "item",
+    "expected_entities": ["Soul of Cinder", "First Flame", "Link", "Lords of Cinder", "Gwyn"]
+  },
+  {
+    "id": "q035",
+    "question": "What happened to the Profaned Capital, and what is Yhorm the Giant's role in it?",
+    "game": "Dark Souls III",
+    "category": "item",
+    "expected_entities": ["Profaned Capital", "Yhorm", "Giant", "Profaned Flame", "Lords of Cinder"]
+  },
+  {
+    "id": "q036",
+    "question": "What is the Painted World of Ariandel, and why must it burn?",
+    "game": "Dark Souls III",
+    "category": "location",
+    "expected_entities": ["Painted World of Ariandel", "Father Ariandel", "Sister Friede", "Ashes of Ariandel", "Ariandel"]
+  },
+   {
+    "id": "q037",
+    "question": "What does the Adaptability stat govern in Dark Souls II?",
+    "game": "Dark Souls II",
+    "category": "mechanic",
+    "expected_entities": ["Adaptability", "Agility", "Attunement", "Stats"]
+  },
+  {
+    "id": "q038",
+    "question": "What is the significance of the Unkindled in the cosmology of Dark Souls III?",
+    "game": "Dark Souls III",
+    "category": "synthesis",
+    "expected_entities": ["Unkindled", "Ashen One", "First Flame", "Lords of Cinder", "Bell"]
+  },
+
+  {
+    "id": "q039",
+    "question": "How does Manus's legacy continue to influence the events of Dark Souls II?",
+    "game": "All",
+    "category": "multihop",
+    "expected_entities": ["Manus", "Nashandra", "Elana", "Nadalia", "Alsanna", "Abyss", "Daughters of Manus", "Dark"]
+  },
+  {
+    "id": "q040",
+    "question": "How does the concept of linking the First Flame change across Dark Souls, Dark Souls II, and Dark Souls III?",
+    "game": "All",
+    "category": "synthesis",
+    "expected_entities": ["First Flame", "Lord of Cinder", "Lords of Cinder", "Gwyn", "Aldia", "Lothric", "Soul of Cinder", "Link", "Unkindled"]
+  },
+  {
+    "id": "q041",
+    "question": "How are the Abyss, Humanity, and the Dark connected across the three Dark Souls games?",
+    "game": "All",
+    "category": "synthesis",
+    "expected_entities": ["Abyss", "Humanity", "Dark Soul", "Dark", "Manus", "Furtive Pygmy", "Darkstalker Kaathe", "Aldia", "Hollow"]
+  },
+
+  {
+    "id": "q042",
+    "question": "What was the relationship between Raime, the Fume Knight, and Velstadt, the Royal Aegis?",
+    "game": "Dark Souls II",
+    "category": "relationship",
+    "expected_entities": ["Raime", "Fume Knight", "Velstadt", "Vendrick", "Nadalia", "Brume Tower"]
+  },
+  {
+    "id": "q043",
+    "question": "How did Alsanna come to serve the Ivory King of Eleum Loyce?",
+    "game": "Dark Souls II",
+    "category": "relationship",
+    "expected_entities": ["Alsanna", "Ivory King", "Eleum Loyce", "Burnt Ivory King", "Chaos"]
+  },
+
+  {
+    "id": "q044",
+    "question": "How did Seath the Scaleless betray the Everlasting Dragons?",
+    "game": "Dark Souls",
+    "category": "entity",
+    "expected_entities": ["Seath", "Scaleless", "Duke's Archives", "Primordial Crystal", "Everlasting Dragon"]
+  },
+  {
+    "id": "q045",
+    "question": "How does the player enter the Abyss to face the Four Kings?",
+    "game": "Dark Souls",
+    "category": "multihop",
+    "expected_entities": ["Covenant of Artorias", "Great Grey Wolf Sif", "Four Kings", "New Londo", "Abyss"]
+  },
+  {
+    "id": "q046",
+    "question": "Why is Anor Londo deserted when the player arrives?",
+    "game": "Dark Souls",
+    "category": "location",
+    "expected_entities": ["Anor Londo", "Gwyndolin", "Gwynevere", "Darkmoon", "Illusory Wall"]
+  },
+
+  {
+    "id": "q047",
+    "question": "Why was the Nameless King's name expunged from the annals?",
+    "game": "Dark Souls III",
+    "category": "multihop",
+    "expected_entities": ["Nameless King", "Gwyn", "Firstborn", "Everlasting Dragon", "Archdragon Peak"]
+  },
+  {
+    "id": "q048",
+    "question": "What does Slave Knight Gael seek at the end of the world?",
+    "game": "Dark Souls III",
+    "category": "multihop",
+    "expected_entities": ["Slave Knight Gael", "Ringed City", "Filianore", "Dark Soul", "Pygmy"]
+  },
+  {
+    "id": "q049",
+    "question": "How does the player reverse hollowing in Dark Souls II?",
+    "game": "Dark Souls II",
+    "category": "multihop",
+    "expected_entities": ["Human Effigy", "Darksign", "Hollow", "Undead", "Bearer of the Curse"]
+  },
+  {
+    "id": "q050",
+    "question": "How does the Usurpation of Fire end the cycle of linking the First Flame?",
+    "game": "Dark Souls III",
+    "category": "synthesis",
+    "expected_entities": ["Yoel of Londor", "Yuria of Londor", "Londor", "Dark Sigil", "Unkindled", "First Flame"]
+  }
+]
