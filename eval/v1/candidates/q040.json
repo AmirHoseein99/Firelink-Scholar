@@ -1,0 +1,1080 @@
+[
+  {
+    "document_id": "b2b9bd03-dc36-51bb-9183-184848e2711f",
+    "title": "First Flame",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "First Flame -  Dark Souls - storyline - lead \n lead : **The First Flame** is a storyline concept in the *Dark Souls *series.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.734843092575271,
+    "bm25_score": 49.12782146616853
+  },
+  {
+    "document_id": "c2eadf96-f176-5a86-860e-2bee48f2add8",
+    "title": "Kiln of the First Flame (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Kiln of the First Flame (Dark Souls III) -  Dark Souls III - location - description \n description : The new version of the familiar place is where lies the First Flame and its guardian, the Soul of Cinder. The location has been greatly altered since its depiction in *Dark Souls*.\n\nOnce the player has gathered all of the Lords of Cinder, the Fire Keeper will perform a ritual in which the flames of the Lords will drift to her hands. She will then scatter the flames onto the player, teleporting them to the Kiln of the First Flame.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.7152082442309798,
+    "bm25_score": 39.225234347133544
+  },
+  {
+    "document_id": "155bfb95-5dcf-5f89-b5b8-235cff79cd48",
+    "title": "Kiln of the First Flame (Dark Souls III)",
+    "section": "boss",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Kiln of the First Flame (Dark Souls III) -  Dark Souls III - location - boss \n boss : Soul of Cinder",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.7126681547831909,
+    "bm25_score": 41.69588208229857
+  },
+  {
+    "document_id": "5ad273b6-d7b5-5559-a77d-1060d65c68aa",
+    "title": "Kiln of the First Flame (Dark Souls III)",
+    "section": "enemies",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Kiln of the First Flame (Dark Souls III) -  Dark Souls III - location - enemies \n enemies : • None",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.6668654448179459,
+    "bm25_score": 41.658106183030156
+  },
+  {
+    "document_id": "6a4f4d0a-e25d-5bb6-b573-033618d51be7",
+    "title": "Kiln of the First Flame",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Kiln of the First Flame -  Dark Souls - location - lead \n lead : The **Kiln of the First Flame** is a location in *Dark Souls*. It is the last area in the game.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.6648026060360617,
+    "bm25_score": 41.72525561780737
+  },
+  {
+    "document_id": "1f5b002f-b022-5141-af27-5ac5acaa808d",
+    "title": "Age of Dark",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "The idea that the linking of the First Flame was unnatural and that it ran contrary to the order of the world is an important concept in the *Dark Souls* series, especially as the Age of Fire is prolonged perpetually by innumerable successive individuals seeking to prevent the coming of the Age of Dark.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.8402535517117588,
+    "bm25_score": 46.383158534381046
+  },
+  {
+    "document_id": "1a687600-6490-5aed-b05f-bcabb9c0173e",
+    "title": "Timeline",
+    "section": "dark_soul_the_second_linking_of_the_flame",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Timeline -  Dark Souls III - storyline - dark_soul_the_second_linking_of_the_flame \n dark_soul_the_second_linking_of_the_flame : (The events before Dark Souls I)\n(**INCOMPLETE**)",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.7803496616589317,
+    "bm25_score": 50.547386139450154
+  },
+  {
+    "document_id": "710aaee6-ed70-5531-b178-9071c24dd307",
+    "title": "Lords of Cinder",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Lords of Cinder -  Dark Souls III - character - lead \n lead : The are characters who have linked the First Flame throughout the history of the *Dark Souls* universe.\n\nTo \"link the First Flame\" is to reach it, be powerful enough to withstand its power, and rekindle the flame anew; it is done in order to stop the First Flame from withering out and dying, a process that occurs naturally over time and would mean both the end of the Age of Fire and the coming of an Age of Dark. To attempt to link the flame, one must typically reach the kiln built around the First Flame and defeat the empty husk of the previous Lords of Cinders guarding it against those not worthy of its power.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.7597700621101495,
+    "bm25_score": null
+  },
+  {
+    "document_id": "179707ee-9138-5f4d-8d83-4ad6c4f87fa7",
+    "title": "Ending (Dark Souls III)",
+    "section": "availability_2",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ending (Dark Souls III) -  Dark Souls III - mechanic - availability_2 \n availability_2 : {'name': 'Ending', 'description': 'Having witnessed visions of a world without the First Flame, the summoned Fire Keeper takes the First Flame into her hands, where she lets it wither and die out entirely. The light in the sky quickly fades together with the Flame and soon as the world descends into complete darkness, ending the Age of Fire.\\n\\nAlthough the world has now entered the long-postponed Age of Dark which would have naturally succeeded Fire had Lord Gwyn not started the tradition of linking the First Flame prior to the original *Dark Souls*. The shape that this new Age of Dark will take, and the part that the Unkindled One will play within it, are left unclear.'}",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.7474333712431585,
+    "bm25_score": 41.11987715277108
+  },
+  {
+    "document_id": "977c65ab-f4e6-52a9-a076-2f838ba89683",
+    "title": "Lords of Cinder",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "By the events of *Dark Souls III*, the First Flame is so weakened that Lords of Cinder past are resurrected so that the embers of the First Flame inside them serve as fuel for new Linkings. Prince Lothric, who was raised to become the next Lord of Cinder, refused to Link the First Flame, while three of the resurrected Lords of Cinder refused to be used as fuel, leading to resurrection of several Unkindled in the hopes that one of them might slay the fleeting Lords of Cinder and Lothric, and Link the First Flame.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.7371126516963357,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b6bacd96-96e9-53fa-8b0c-ac9a5aa7ff10",
+    "title": "Ending (Dark Souls III)",
+    "section": "ending",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ending (Dark Souls III) -  Dark Souls III - mechanic - ending \n ending : Fulfilling the purpose for which they were brought back to life, the Ashen One links the First Flame and becomes a Lord of Cinder. The Flame connects with their body, slowly setting them ablaze as they sit beside the bonfire.\n\nAlthough in theory, this leads to a continuation of the once-glorious Age of Fire, this linking of the Flame is but a shadow of the linking as can be performed by the Chosen Undead in *Dark Souls*, echoing the significant weakening of the First Flame, which instead of engulfing the Kiln into an explosive blaze of fire remains weak, barely kindled anew. The world remains dim and covered in ash, with the sun still obscured by a fire-dripping eclipse that resembles the Darksign, further exemplifying that this prolonged Age of Fire will pale when compared to days of old.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.7106526269964796,
+    "bm25_score": 39.167896761373306
+  },
+  {
+    "document_id": "f25db069-9580-52cd-8ac8-bba625e60d58",
+    "title": "Bonfire (Dark Souls III)",
+    "section": "kiln_of_the_first_flame_dark_souls_iii_kiln_of_the_first_flame",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Bonfire (Dark Souls III) -  Dark Souls III - mechanic - kiln_of_the_first_flame_dark_souls_iii_kiln_of_the_first_flame \n kiln_of_the_first_flame_dark_souls_iii_kiln_of_the_first_flame : ***Flameless Shrine**\n:Once the player places all four Cinders of a Lord on their respective owners' thrones in the Firelink Shrine and the Fire Keeper performs the ritual, they will be automatically transported to a desolated version of the shrine known as the \"Flameless Shrine\", where the bonfire is found.\n\n***Kiln of the First Flame**\n:The player is automatically transported to this bonfire once they interact with yet another bonfire found outside the desolated shrine mentioned above. It leads directly to the final battle against the Soul of Cinder.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.7059106515123376,
+    "bm25_score": 40.49673636939377
+  },
+  {
+    "document_id": "931e9636-044e-5f1d-aeac-d7196fbd3cd0",
+    "title": "Kiln of the First Flame",
+    "section": "armor",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Kiln of the First Flame -  Dark Souls - location - armor \n armor : Black Knight Set",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6973234980670946,
+    "bm25_score": null
+  },
+  {
+    "document_id": "654cb459-839b-50ba-a677-764b3eb5706c",
+    "title": "Chameleon (Dark Souls III)",
+    "section": "kiln_of_the_first_flame_dark_souls_iii_kiln_of_the_first_flame",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Chameleon (Dark Souls III) -  Dark Souls III - spell - kiln_of_the_first_flame_dark_souls_iii_kiln_of_the_first_flame \n kiln_of_the_first_flame_dark_souls_iii_kiln_of_the_first_flame : Flame-scorched pillar\nLarge tombstone",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.6970141984196893,
+    "bm25_score": 48.01096152746467
+  },
+  {
+    "document_id": "5a481ce9-dc5d-56da-9b1a-114779ace6f2",
+    "title": "Timeline",
+    "section": "dark_souls_iii_the_last_days_of_the_fire",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Timeline -  Dark Souls III - storyline - dark_souls_iii_the_last_days_of_the_fire \n dark_souls_iii_the_last_days_of_the_fire : (The events before Dark Souls III)\n\nOver the centuries, dozens of people link themselves to the First Flame, becoming Lords of Cinder\nThe souls of all those who have linked the First Flame manifest in the form of the Soul of Cinder, an entity possessing all the abilities of the previous Lords of Cinder even if it's just an empty husk.\nThis manifestation of the previous Lords of Cinder exists as the First Flame's last defense from future linkers\nThe future Lords of Cinder face the Soul of Cinder at the Kiln of the First Flame before they can link the First Flame\n\nDue to the First Flame naturally dying out, time and space slowly converge towards it, bringing the various regions of the world towards the Kiln of the First Flame",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.6910039219030062,
+    "bm25_score": 40.65451392054568
+  },
+  {
+    "document_id": "17794587-9710-5ab9-ae36-a57d0ad012d8",
+    "title": "Kiln of the First Flame",
+    "section": "boss",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Kiln of the First Flame -  Dark Souls - location - boss \n boss : Gwyn, Lord of Cinder",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6852309391844483,
+    "bm25_score": null
+  },
+  {
+    "document_id": "68c4a86a-08dc-5eaf-8962-aaef13f2ddb4",
+    "title": "First Flame",
+    "section": "age_of_fire",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "By the time of *Dark Souls III*, many other such sacrifices, who have become posthumously known as Lords of Cinder, have given themselves to the First Flame, and the Age of Fire has persevered for many generations as a result. However, when the latest individual chosen for the honour, Prince Lothric, abandons his duty by refusing to link the fire, a desperate attempt to save the fading Flame begins. Four previous Lords of Cinder are resurrected to link the fire once more, however - aside from Ludleth of Courland - they too choose to flee their duties, forcing the Ashen One to drag them back.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6837705411881002,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3029b8fe-01c3-5e75-a085-5d853b3b097d",
+    "title": "Kiln of the First Flame (Dark Souls III)",
+    "section": "adjacent_locations",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Kiln of the First Flame (Dark Souls III) -  Dark Souls III - location - adjacent_locations \n adjacent_locations : Firelink Shrine - After returning all Cinders of a Lord to their respective thrones and interacting with the bonfire in Firelink, the player will be transported to a desolated version of the shrine. By interacting with the bonfire found outside, they will be automatically transported to the Kiln of the First Flame.\nThe Dreg Heap - Should the player own The Ringed City DLC, they can access the Dreg Heap from a bonfire next to the Kiln of the First Flame bonfire.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6784317562541706,
+    "bm25_score": null
+  },
+  {
+    "document_id": "07ff9baf-347a-5371-a64c-236eb309c5e5",
+    "title": "Kiln of the First Flame",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Kiln of the First Flame -  Dark Souls - location - description \n description : This area is accessed by offering to the Lordvessel the souls of Bed of Chaos, the Four Kings, Gravelord Nito, and Seath the Scaleless in the Firelink Altar.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6698054914729176,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3d2b3079-5fcb-5b75-8437-dab3bcea7b67",
+    "title": "Kiln of the First Flame",
+    "section": "upgrade_materials",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Kiln of the First Flame -  Dark Souls - location - upgrade_materials \n upgrade_materials : Blue Titanite Chunk\nRed Titanite Chunk\nTitanite Chunk\nWhite Titanite Chunk",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6677195804142257,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fa4bc56c-e0e5-56cb-b635-05dbfd4ae5ad",
+    "title": "Lords of Cinder",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "By the events of *Dark Souls III*, Prince Lothric, who was raised to become a Lord of Cinder, refused to link the First Flame. This led to Lords of Cinder from the past being exhumed from their graves: these Lords were meant to sacrifice themselves to the Flame once again, using what little embers remained within themselves as kindling. However, most of these Lords refused the call, and instead settled back into their domains. To prevent the First Flame from dying out, the Unkindled would then be resurrected as a last resort; these Champions were bound to seek the absconded Lords of Cinder, and forcefully bring them back—in the form of their cinders—to their empty thrones at Firelink Shrine. Once all five Lords \"sat\" their thrones, an Unkindled Champion would be bestowed the embers of these Lords, and sent to the Kiln of the First Flame to overcome the final challenge and link the Flame.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6667246091303977,
+    "bm25_score": null
+  },
+  {
+    "document_id": "88e444b6-058f-5f84-b8c9-e6af3197061b",
+    "title": "Kiln of the First Flame",
+    "section": "summons",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Kiln of the First Flame -  Dark Souls - location - summons \n summons : Solaire of Astora, at the beginning of the path after the walkways.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6611036498594677,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d3868a74-d2c9-5f74-87ad-0d9d849cea65",
+    "title": "Unkindled",
+    "section": "background",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Unkindled -  Dark Souls III - storyline - background \n background : To \"link the First Flame\" is to reach it, be powerful enough to withstand its power, and rekindle the flame anew. The Unkindled were strong enough to overcome the challenges of reaching the Kiln of the First Flame, but lacked the strength needed to withstand the power of the Flame: the primordial Fire burned them to ash, not fueled enough to properly spark anew. These failed champions' remains were entombed in the Cemetery of Ash.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6606597156171419,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c3e4f83a-5fb3-564b-8e4e-c6f91cbb9224",
+    "title": "First Flame",
+    "section": "age_of_fire",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "First Flame -  Dark Souls - storyline - age_of_fire \n age_of_fire : With the dragons defeated, the Lords took over the world, ruling as Gods from their seat of power in the land of Lordran. It was a prosperous era, and many nations were born. In time, however, the First Flame began to fade, and with it the power of the Gods, leading to an era of decay and the emergence of the Undead Curse. If the Flame were to gutter out completely, it would end the Age of Fire and bring about the Age of Dark.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6576825158917496,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5a3ee34a-4246-55c6-bd7a-ffe5b8295051",
+    "title": "Ending (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ending (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : __NOTOC__\n\nThere are four **endings to *Dark Souls III***.\n\nAll four endings require the Ashen One to first gather the cinders of four great lords to reach the Kiln of the First Flame, where they must defeat the Soul of Cinder. Only the first ending does not require actions beyond strictly the main questline, although it is possible for up to three to be available simultaneously at the Kiln. All endings revolve around the First Flame, symbolized by a special bonfire that can be interacted with upon slaying the Soul of Cinder.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.6555096067041608,
+    "bm25_score": 39.43322098791737
+  },
+  {
+    "document_id": "383375a1-8b22-5f56-9342-6a4e64b3692a",
+    "title": "First Flame",
+    "section": "age_of_fire",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Aware that time was quickly running out for his kingdom, Gwyn and a detachment of his knights entered the Kiln of the First Flame. The knights stood guard as Gwyn sacrificed himself to the waning Flame at the Kiln's centre. This immediately reinvigorated the First Flame, creating a firestorm that turned the Kiln to ash, and incinerated all of Gwyn's knights, creating the Black Knights and dooming them to wander the lands as disembodied spirits forever after.\n\nGwyn's sacrifice succeeded in perpetuating the Age of Fire for a time, but *Dark Souls* takes place at least 1000 years later, and the Flame is quickly fading once again. Soon, only Dark will remain.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6528269803525092,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d9a92758-1045-54f9-bc27-fab7117df6d8",
+    "title": "Age of Dark",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Age of Dark -  Dark Souls - storyline - lore \n lore : The Age of Dark begins when the First Flame fades completely, thus ending the Age of Fire and the rule of the gods that gained their power from it.\nSince the Flame continues to burn until it goes out naturally, the Dark Age should have arrived, as naturally, when it had exhausted its fuel.\n\nDespite the Age of Dark being a ubiquitous concept throughout the *Dark Souls* series, it is never the \"current\" state of the world in any of the existing games. Each of the *Dark Souls* games takes place during a late point in the Age of Fire, a point which could theoretically lead to the beginning of the Age of Dark, but which does not do so during the normal course of gameplay, with one possible exception.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.6494526598920595,
+    "bm25_score": 42.08135684883536
+  },
+  {
+    "document_id": "79f24ccf-ea28-5b77-9c7c-4a796d0e5854",
+    "title": "Firelink Greatsword",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Firelink Greatsword -  Dark Souls III - weapon - description \n description : The Lords of Cinder linked the First Flame, and this Greatsword was wielded by their deific manifestation.\n\nThis coiled sword, found thrust in the bonfire, existed long before the throneless lords themselves.\n\nSkill: Ember\nThe fading flame momentarily illuminates and launches itself forward.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6493924608287338,
+    "bm25_score": null
+  },
+  {
+    "document_id": "65caaffe-a521-5832-85f8-361a1ee5b566",
+    "title": "Kiln of the First Flame (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Kiln of the First Flame (Dark Souls III) -  Dark Souls III - location - lead \n lead : The is a location in *Dark Souls III*.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 43.25119609378796
+  },
+  {
+    "document_id": "22c1032c-2e6f-521b-a0fe-e30abd365716",
+    "title": "Lords of Cinder",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Lords of Cinder -  Dark Souls III - character - dark_souls \n dark_souls : Gwyn, Lord of Cinder: One of the possessors of the primordial Lord Souls and king of the gods. He linked the First Flame to prolong the Age of Fire, becoming the first Lord of Cinder.\nChosen Undead: A human who followed the prophecy of the Chosen Undead and ended up in Lordran, overcame multiple challenges and gathered powerful souls before gaining access to the Kiln of the First Flame.\nSolaire of Astora",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 41.13679287761529
+  },
+  {
+    "document_id": "0a22ba20-a47c-5abf-8e40-dd3a1224ec31",
+    "title": "Firelink Shrine (Dark Souls III)",
+    "section": "adjacent_locations",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Firelink Shrine (Dark Souls III) -  Dark Souls III - location - adjacent_locations \n adjacent_locations : Cemetery of Ash\nHigh Wall of Lothric\nKiln of the First Flame",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 39.43248823145317
+  },
+  {
+    "document_id": "7fc418d2-a068-514d-aa9a-5f9d09624bb2",
+    "title": "Kiln of the First Flame",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Kiln of the First Flame -  Dark Souls - location - lore \n lore : The Kiln of the First Flame houses the First Flame, where the Lords first found their Lord Souls. At some point, the structure of the Kiln was constructed around the cave where the flame was first discovered, during the Age of Ancients.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 38.3719206117345
+  },
+  {
+    "document_id": "759dc93c-7e72-560f-9b8b-2ec5619ea402",
+    "title": "Aldia Key",
+    "section": "dark_souls_ii_scholar_of_the_first_sin_scholar_of_the_first_sin",
+    "game": "Dark Souls II",
+    "entity_type": "shield",
+    "snippet": "Aldia Key -  Dark Souls II - shield - dark_souls_ii_scholar_of_the_first_sin_scholar_of_the_first_sin \n dark_souls_ii_scholar_of_the_first_sin_scholar_of_the_first_sin : After killing the four Forlorn invaders summoned by lighting braziers in the area, the dragon skeleton at the start of the area will animate and attack you once before breaking and dropping the key.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 37.845884472755785
+  },
+  {
+    "document_id": "cbad2912-330a-5872-a290-0d3c9928d08f",
+    "title": "Age of Dark",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "However, it becomes apparent that at this stage in the Age of Fire, which has been unnaturally prolonged far beyond its intended length, there is little that can be done to keep the First Flame lit. Even if the Ashen One chooses to link the Flame, the fire that results from this rebirth is small and feeble in comparison to the raging inferno that resulted from the Chosen Undead linking the Flame in *Dark Souls*.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.7387611397587852,
+    "bm25_score": null
+  },
+  {
+    "document_id": "abd923b7-b8fb-50ff-9925-6fb393db04de",
+    "title": "Primordial Serpents",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "During the events of *Dark Souls III*, when the First Flame was almost fading out, their fate or the number of their survivors is unknown.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.7280447668970057,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e5a9750e-7b81-5d3c-86cd-b902b247536e",
+    "title": "Age of Fire",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Such a routine of kindling the First Flame repeats itself for generations to come, until the time of Prince Lothric, when the prolonging of the fire proves futile.\n\nCalling it \"futile\" is a euphemism: the unnatural prolonging of the First Flame's lifespan came with disastrous, if not, downright catastrophical proportions: when the Lords of Cinder started to resurrect, somehow, portions of their countries and homelands were, literally, \"teleported\" to Lothric, changing the landscape in unpredictable ways.\n\nBy the time *Dark Souls 3* takes place, the damage caused to the world by the unnatural prolonging of the Age of Fire seems to be irreversible.\n\nAs the games progresses, the sun itself starts to change, until it eerily resembles the Darksign itself.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.7260210789654378,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0789ca52-e88e-5e78-862c-6d8b376435d5",
+    "title": "Pyromancy Flame (Dark Souls III)",
+    "section": "upgrades",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Pyromancy Flame (Dark Souls III) -  Dark Souls III - weapon - upgrades \n upgrades : Reinforced through Cornyx of the Great Swamp.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6994524502965385,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7da9753e-1f95-5e4f-bd74-10ed01e5c838",
+    "title": "Flame of Chaos",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Flame of Chaos -  Dark Souls - storyline - lead \n lead : The **Flame of Chaos** is a force in *Dark Souls*.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6877813233713517,
+    "bm25_score": null
+  },
+  {
+    "document_id": "67b77ccf-4c4a-5767-831d-2c67ee82451e",
+    "title": "Age of Dark",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Following the failure of this first contingency plan, a second plan is activated: Unkindled, those who had previously tried to link the First Flame but who had failed to do so, are resurrected from their graves in the Cemetery of Ash, and tasked with placing the rebellious Lords of Cinder upon their thrones so that the First Flame might be linked once more. The Ashen One, protagonist of *Dark Souls III*, is one of these Unkindled. After the Ashen One defeats each of the Lords of Cinder and places their remains upon their respective thrones in the Firelink Shrine, the Fire Keeper removes the embers of the Lords and bestows them upon the Ashen One, making them a \"true lord, fit to link the fire,\" and imbuing them with the power to proceed to the Kiln of the First Flame.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6827087602404031,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e6c82475-8994-5073-b8f6-7706b1c3ddd9",
+    "title": "Ending (Dark Souls III)",
+    "section": "ending_3",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ending (Dark Souls III) -  Dark Souls III - mechanic - ending_3 \n ending_3 : The Ashen One stretches out their hand, and the First Flame slowly sets their body ablaze from within. The strain from assimilating the Flame makes them collapse on the ground. An indefinite amount of time later, the Ashen One rises again, having successfully controlled the power of the Flame within themselves. The sun, obscured by a light-dripping eclipse that resembles the Dark Sigil, follows the movements of the Ashen One, indicating that the Flame lives within them, while the world is shrouded in a patina of darkness and time stands still.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6719230605603559,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7c8b9f2e-2f18-5d8c-ba1b-e299ac7e7c55",
+    "title": "Timeline",
+    "section": "the_age_of_fire",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Timeline -  Dark Souls III - storyline - the_age_of_fire \n the_age_of_fire : (**INCOMPLETE**)",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6681315704109229,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5234ba99-b032-5398-92e6-fb5f9be3d892",
+    "title": "Darksign (Dark Souls III)",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Darksign (Dark Souls III) -  Dark Souls III - item - usage \n usage : Activate to return to either Firelink Shrine or to the last bonfire rested at, at the cost of losing all souls.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6669110062809197,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6e093abc-7425-59b7-a20c-67ea568ccbc6",
+    "title": "Punitive Flame",
+    "section": "weapons",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Punitive Flame -  Dark Souls III - spell - weapons \n weapons : Immolation Tinder",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6640509472000797,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8486c8dc-72b5-535c-b398-08b972d7acf6",
+    "title": "Fire (upgrade path)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Fire (upgrade path) -  Dark Souls - mechanic - lead \n lead : **Fire** is an upgrade path in *Dark Souls*.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6638278134459208,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6c0a5f45-0009-578a-88fc-a42acd118fd9",
+    "title": "Fire (Dark Souls III)",
+    "section": "spells_2",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Fire (Dark Souls III) -  Dark Souls III - mechanic - spells_2 \n spells_2 : Weapons buffed with Carthus Flame Arc pyromancy.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6601726305112273,
+    "bm25_score": null
+  },
+  {
+    "document_id": "545ad981-54a7-5202-a288-36de71d30647",
+    "title": "Bonfire (Dark Souls)",
+    "section": "reverse_hollowing",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Bonfire (Dark Souls) -  Dark Souls - mechanic - reverse_hollowing \n reverse_hollowing : Revives the player back to Human at the cost of one Humanity.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6598838200891488,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e980d415-f46c-5993-90b8-860cdb81fb93",
+    "title": "Ashen One",
+    "section": "firelink_shrine_dark_souls_iii_firelink_shrine",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - firelink_shrine_dark_souls_iii_firelink_shrine",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6595821273615855,
+    "bm25_score": null
+  },
+  {
+    "document_id": "11b0dd48-4b91-513e-8bef-060890173ea4",
+    "title": "Ashen One",
+    "section": "epilogue",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - epilogue \n epilogue : ***Link the Fire**: In this ending, the Ashen One attempts to do as all the other lords had done before them and link the fire. The Ashen One stretches out a hand and begins to burn, but unlike in the past, the fire is not rekindled. Instead, the Ashen One merely sits beside the flame, unable to prolong its life, as the sun remains a Darksign.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6593760623190965,
+    "bm25_score": null
+  },
+  {
+    "document_id": "35f4ec46-8e3e-5c20-9038-c893b9a7c370",
+    "title": "Punitive Flame",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Punitive Flame -  Dark Souls III - spell - description \n description : Punish foes with a flame that blankets the ground.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6590014920401033,
+    "bm25_score": null
+  },
+  {
+    "document_id": "03d172e2-54a5-5fa3-9121-d4953e8ba541",
+    "title": "Age of Dark",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "In *Dark Souls III*, countless beings have prolonged the Age of Fire, preventing its end and holding off the coming of the Age of Dark. By the time the game begins, there are countless Lords of Cinder - those who successfully linked the First Flame before - and even more Unkindled who were unsuccessful. Eventually the one anointed to next link the Flame (and indeed, who was born for that very purpose), Prince Lothric, rejected the idea that the Age of Fire should be prolonged any further and instead desired to end what he called the \"fire-linking curse.\" A contingency plan was then activated, in which previous Lords of Cinder were resurrected in hopes that they, who had linked the First Flame before, might do so again. However, by this time, the world that had been created during the Age of Fire had become a twisted shadow of its former self. As a result of the prolonging of the current Age, the act of which seemingly constituted a rejection of the natural order, the material world",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6577195813214558,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0135a10e-692b-50ca-b42b-d64e88993fc9",
+    "title": "Ending",
+    "section": "to_link_the_fire",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Ending -  Dark Souls - mechanic - to_link_the_fire \n to_link_the_fire : This ending is obtained by lighting the bonfire that appears after defeating Gwyn, Lord of Cinder. In sacrifice, the Chosen Undead links the First Flame as Gwyn had done before him/her, thus fulfilling Kingseeker Frampt's goal of continuing the Age of Fire. The Curse of the Undead will be broken, but one day the flames will fade again, and all will play out as before.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6556072345440744,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4a8c0261-1e57-52bd-82ca-3bcabbad91c0",
+    "title": "Age of Dark",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Age of Dark -  Dark Souls - storyline - description \n description : In the Age of Dark, the sun itself, which is connected to the status of the First Flame, is extinguished along with the Flame, and the world is enveloped in total darkness. However, it is not necessarily an existence completely devoid of fire and illumination as it might seem, as the Dark Soul of humanity itself is capable of producing everlasting flames, even if cold and generating light sources.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6534773267891631,
+    "bm25_score": null
+  },
+  {
+    "document_id": "92cea6c7-d31b-5dd7-a204-60d88382bbff",
+    "title": "Black Flame (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Black Flame (Dark Souls III) -  Dark Souls III - spell - lead \n lead : **Black Flame** is a pyromancy in *Dark Souls III*.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6523846289101807,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0cc545b3-3485-52e6-942f-5e7d0ab735bc",
+    "title": "Timeline",
+    "section": "the_rise_and_fall_of_drangleic",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Timeline -  Dark Souls III - storyline - the_rise_and_fall_of_drangleic \n the_rise_and_fall_of_drangleic : These events before Dark Souls II\n\nSee Drangleic",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6520134289776677,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9e082e12-be93-5e13-8ab5-f7e243496f05",
+    "title": "Lingering Flame",
+    "section": "attunement_milestones",
+    "game": "Dark Souls II",
+    "entity_type": "spell",
+    "snippet": "Lingering Flame -  Dark Souls II - spell - attunement_milestones \n attunement_milestones : Like all other spells, the amount of casts per slot increases upon reaching certain Attunement milestones:",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6489754672544945,
+    "bm25_score": null
+  },
+  {
+    "document_id": "68463f89-e3d6-5f45-b3cc-9e0af7f1166f",
+    "title": "Age of Dark",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Age of Dark -  Dark Souls - storyline - lead \n lead : The **Age of Dark**, also known as the **age of men,** is a concept in the lore of *Dark Souls*.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 43.65229704278679
+  },
+  {
+    "document_id": "92996c80-b36f-5678-967b-9ac55e5260e3",
+    "title": "Black Knight Armor (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Black Knight Armor (Dark Souls III) -  Dark Souls III - armor - description \n description : Armor of the Black Knights who roam the lands.\n\nThe Knights served the First Lord Gwyn, and followed him into the flame upon its linking. They became ash, but still wander the realms to this day.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 42.28649411821922
+  },
+  {
+    "document_id": "06f1537c-4c3b-50c6-a8e4-efc0a5da513d",
+    "title": "Black Knight Gauntlets (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Black Knight Gauntlets (Dark Souls III) -  Dark Souls III - armor - description \n description : Armor of the Black Knights who roam the lands.\n\nThe Knights served the First Lord Gwyn, and followed him into the flame upon its linking. They became ash, but still wander the realms to this day.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 42.28649411821922
+  },
+  {
+    "document_id": "7389b6d5-9058-53c3-b584-c373802090c8",
+    "title": "Black Knight Helm (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Black Knight Helm (Dark Souls III) -  Dark Souls III - armor - description \n description : Armor of the Black Knights who roam the lands.\n\nThe knights served the First Lord Gwyn, and followed him into the flame upon its linking. They became ash, but still wander the realms to this day.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 42.28649411821922
+  },
+  {
+    "document_id": "5549850e-3c5d-581a-b174-98d0b5713c1e",
+    "title": "Black Knight Leggings (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Black Knight Leggings (Dark Souls III) -  Dark Souls III - armor - description \n description : Armor of the Black Knights who roam the lands.\n\nThe Knights served the First Lord Gwyn, and followed him into the flame upon its linking. They became ash, but still wander the realms to this day.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 42.28649411821922
+  },
+  {
+    "document_id": "f0c603d0-33ca-5a4c-919e-cd9360ef3a98",
+    "title": "Black Knight Set (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Black Knight Set (Dark Souls III) -  Dark Souls III - armor - description \n description : Armor of the Black Knights who roam the lands.\n\nThe Knights served the First Lord Gwyn, and followed him into the flame upon its linking. They became ash, but still wander the realms to this day.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 42.28649411821922
+  },
+  {
+    "document_id": "10cd309a-887f-5045-8523-ca55b3c2675e",
+    "title": "Dark Soul",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Dark Soul -  Dark Souls - item - lore \n lore : During the advent of Fire, the concept of Disparity came into existence, and with it the Dark and the Light. At some point humanoid creatures found powerful souls near the First Flame and claimed them, becoming known as Lords. While the other three \"Lords\" found larger souls, a lowly and forgotten being known only as the Furtive Pygmy found a fourth, peculiar soul: the Dark Soul.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 42.25777410749532
+  },
+  {
+    "document_id": "30039978-df20-5ab4-9a38-542b89a387b7",
+    "title": "The Deep",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "The Deep -  Dark Souls III - storyline - lead \n lead : The , also called the is a concept in *Dark Souls III*.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 41.60482576902233
+  },
+  {
+    "document_id": "fc2d9955-45d5-56ce-a8bb-b04105baa6ea",
+    "title": "Chaos Rapier",
+    "section": "dark_souls_ii_scholar_of_the_first_sin_scholar_of_the_first_sin",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Chaos Rapier -  Dark Souls II - weapon - dark_souls_ii_scholar_of_the_first_sin_scholar_of_the_first_sin \n dark_souls_ii_scholar_of_the_first_sin_scholar_of_the_first_sin : Sold by Felkin the Outcast for 7,500 souls.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 40.90653601646855
+  },
+  {
+    "document_id": "148477ce-dcfe-5214-8a3b-92db101ff60d",
+    "title": "Black Knight (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Black Knight (Dark Souls III) -  Dark Souls III - enemy - description \n description : Almost identical to their *Dark Souls* counterparts, Black Knights continue to roam the world following their burning in the Kiln of the First Flame.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 40.49319479738139
+  },
+  {
+    "document_id": "2bd9c386-5d76-5781-b496-d5d7e6ee7179",
+    "title": "Black Knight Set (Dark Souls)",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Black Knight Set (Dark Souls) -  Dark Souls - armor - availability \n availability : Found on a corpse on the bridges of the Kiln of the First Flame.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 40.34213120986376
+  },
+  {
+    "document_id": "cfadf96f-c259-52f0-8a35-5c5459cf72e2",
+    "title": "Dark Souls II: Scholar of the First Sin",
+    "section": "references",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark Souls II: Scholar of the First Sin -  Dark Souls II - mechanic - references \n references : pt-br:Dark Souls II: Scholar of the First Sin",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 40.20107407150898
+  },
+  {
+    "document_id": "20e482c7-bb1c-565e-83bc-12351bba880c",
+    "title": "Souls of Lords",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Souls of Lords -  Dark Souls - item - lead \n lead : The **Souls of Lords** or **Lord Souls** are a storyline concept in the *Dark Souls* series.\n\nParticularly prominent in the lore of the first game, the Souls of Lords are four unique souls, fragments of the First Flame which were found by four beings who would use their incredible power to reshape the world. One of them, Lord Gwyn, would bequeath fragments of his Lord Soul onto many other individuals, while another, the Furtive Pygmy, would use his to create a species in his image, all of whom would inherit within a fragment of his Lord Soul.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 40.006459041653855
+  },
+  {
+    "document_id": "016d52fa-af55-52d0-bf7c-71e67f2bafac",
+    "title": "Chosen Undead",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - trivia \n trivia : In the trailers and concept art for *Dark Souls*, the Chosen Undead uses the same weapons and armor as Oscar, Knight of Astora.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 39.891404485708144
+  },
+  {
+    "document_id": "1d8b0532-aa36-5637-8de3-47c11f37b8e7",
+    "title": "Sanctum Priestess Tiara",
+    "section": "dark_souls_ii_scholar_of_the_first_sin_scholar_of_the_first_sin",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Sanctum Priestess Tiara -  Dark Souls II - armor - dark_souls_ii_scholar_of_the_first_sin_scholar_of_the_first_sin \n dark_souls_ii_scholar_of_the_first_sin_scholar_of_the_first_sin : Dropped by Fencer Sharron in Iron Keep.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 39.87452047518678
+  },
+  {
+    "document_id": "42f85916-813c-5836-bd66-7481a42c68a0",
+    "title": "Undead",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "The sudden appearance of the Curse among the human population is seemingly connected to the waning state of the First Flame, though it is unclear why some humans are affected while others are not. The Chosen Undead in *Dark Souls* and the Bearer of the Curse in *Dark Souls II* are both Undead, while The Ashen One in *Dark Souls III* is Unkindled, possessing a similar yet distinct form of Undeath which does not result in Hollowing.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 39.7628641233182
+  },
+  {
+    "document_id": "0f1914a7-9deb-54c3-9fe7-a9e5a37d87d4",
+    "title": "Cleric's Parma",
+    "section": "dark_souls_ii_scholar_of_the_first_sin_scholar_of_the_first_sin",
+    "game": "Dark Souls II",
+    "entity_type": "shield",
+    "snippet": "Cleric's Parma -  Dark Souls II - shield - dark_souls_ii_scholar_of_the_first_sin_scholar_of_the_first_sin \n dark_souls_ii_scholar_of_the_first_sin_scholar_of_the_first_sin : Found in the Cathedral of Blue, in the iron chest just past the Old Dragonslayer.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 39.65659645634156
+  },
+  {
+    "document_id": "2c3f2a63-e138-5b1e-a6dd-2c96c9972f3e",
+    "title": "Way of Blue (Dark Souls III)",
+    "section": "how_to_join",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Way of Blue (Dark Souls III) -  Dark Souls III - mechanic - how_to_join \n how_to_join : Given by Emma, High Priestess of Lothric Castle at the end of the High Wall of Lothric, along with the Small Lothric Banner.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 39.111689987102764
+  },
+  {
+    "document_id": "0d8f5df9-8326-532d-90c5-b9b0d22bedce",
+    "title": "Black Witch's Staff",
+    "section": "dark_souls_ii_scholar_of_the_first_sin_scholar_of_the_first_sin",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Black Witch's Staff -  Dark Souls II - weapon - dark_souls_ii_scholar_of_the_first_sin_scholar_of_the_first_sin \n dark_souls_ii_scholar_of_the_first_sin_scholar_of_the_first_sin : Drop from the first caged Mimic in the corridor near the Ritual Site bonfire in Aldia's Keep",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 39.10617739041331
+  },
+  {
+    "document_id": "04451e91-0fce-568f-9d4a-d08d1d3c78d3",
+    "title": "Reversal Ring",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Reversal Ring -  Dark Souls III - ring - trivia \n trivia : In a similar spirit , there is a Coffin in Dark Souls II that allows the player to change the gender of their character.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 38.90309963030314
+  },
+  {
+    "document_id": "edc697ff-ae10-5e8c-88b6-e360c5153d1f",
+    "title": "Dark Souls II (Media)",
+    "section": "scholar_of_the_first_sin",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark Souls II (Media) -  Dark Souls II - mechanic - scholar_of_the_first_sin \n scholar_of_the_first_sin : 2014\n\n2015",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 38.78057957919884
+  },
+  {
+    "document_id": "90ceae04-458a-5ca7-a59d-6fba8e10790d",
+    "title": "Thief Mask (Dark Souls III)",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Thief Mask (Dark Souls III) -  Dark Souls III - armor - trivia \n trivia : Unlike previous iterations, the female version of the Thief Mask in *Dark Souls III* does not remove the hood from the wearer's head.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 38.77549002272432
+  },
+  {
+    "document_id": "dea6d3e5-d247-57d8-a639-dfc241c3f4ce",
+    "title": "Archtree",
+    "section": "theories",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Archtree -  Dark Souls - storyline - theories \n theories : It is possible to theorize that the First Flame ignited itself within an Archtree. In fact, the Kiln of the First Flame, which in Dark Souls was covered by the layers of structures in Dark Souls III appears clearly, revealing that the First Flame was stored exactly in the center of an ancient archtree. Additionally, Izalith created her own copy of the First Flame within the archtree at the center of her city, thus in a likely attempt to replicate the original conditions in which the Flame had manifested itself for her experiment.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 38.73248476247628
+  },
+  {
+    "document_id": "6fae3cad-02ad-540b-a1b8-0b39a9eaf3d2",
+    "title": "Dark Soul",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Dark Soul -  Dark Souls - item - description \n description : The Dark Soul, one of the unique Lord Souls, was claimed by the Furtive Pygmy, the ancestor of the Chosen Undead and Humanity. In the introduction to the first *Dark Souls*, it is depicted as a small, reddish flame like a candle. However, this conflicts with later descriptions.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 38.614047961162996
+  },
+  {
+    "document_id": "19fac139-1d8f-5afe-9f76-9a295ce77049",
+    "title": "Removed Content (Dark Souls III)",
+    "section": "notes_3",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Removed Content (Dark Souls III) -  Dark Souls III - mechanic - notes_3 \n notes_3 : The **Paired Tracers** are composed of Gold Tracer and Dark Silver Tracer from Dark Souls.\n***Pate's Shield** is a greatshield in Dark Souls II.\nThe **Cleric's Parma** is an existing small shield in Dark Souls II.\nThe items **Pate's Shield**, **Unused Pyromancy Flame** and **Unused Shield 2** are missing knowledge image files used in loading screens or when inspecting an item, as well as being the dummy tag for some icons, making the resolution of their icons low.\nBoth removed pyromancy flames resemble the default Pyromancy Flame but with a bigger fire sphere being held in the palm. Akin to Queelana's upgraded flame in Dark Souls and the Dark Pyromancy Flame in Dark Souls II.\nThe **Unused Shield 3** is identical to the Large Leather Shield from Dark Souls II. But it is different from the Dark Souls and Dark Souls III Large Leather Shields.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 38.57589481655291
+  }
+]

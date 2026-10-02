@@ -1,0 +1,1100 @@
+[
+  {
+    "document_id": "9cc47f29-211b-5ce4-8639-1cce9089dd4b",
+    "title": "The Lost Crowns",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "The Lost Crowns -  Dark Souls II - mechanic - lead \n lead : The Lost Crowns* is a trilogy of episodic DLCs for *Dark Souls II*, released for the PS3, Xbox 360, and PC. The episodes can be purchased separately for $9.99 each, or all three can be purchased through Steam, PSN, and Xbox Live for $24.99.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.7503275703847613,
+    "bm25_score": 40.37936243250889
+  },
+  {
+    "document_id": "48444fef-35a8-5d2a-a3ba-f522338b0bd2",
+    "title": "The Lost Crowns",
+    "section": "requirements",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "The Lost Crowns -  Dark Souls II - mechanic - requirements \n requirements : There are no requirements to access the DLC, other than having access to the Primal Bonfire or location where the warp shrine is located. Each warp shrine leads to a cavernous room containing a locked door.\n\nPlayers who own the DLC will receive a key item that will allow them to open the door. Players who don't own the DLC are still able to play through parts of the new content, but only as a summoned phantom.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.6838502139055975,
+    "bm25_score": 34.07934098149467
+  },
+  {
+    "document_id": "387578db-d7c5-57a6-b40b-c98acd59e4d1",
+    "title": "The Lost Crowns",
+    "section": "in_game_reward",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "The Lost Crowns -  Dark Souls II - mechanic - in_game_reward \n in_game_reward : Upon obtaining all three DLC-related crowns and Vendrick's crown, a special ability is granted by speaking to Vendrick in the Undead Crypt: the ability prevents the player character from hollowing upon death if any of the crowns was worn, much like the Ring of Life Protection. However, any souls held will be lost.\n\nIn addition, crowns obtained in previous playthroughs do not count towards getting the reward. This means all the crowns must be obtained in a single playthrough for the ability to be granted. The ability does not carry over to the next playthrough.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.6813725219223898,
+    "bm25_score": 46.42599804681183
+  },
+  {
+    "document_id": "a6280c94-93f6-5698-82a4-58de47dc6030",
+    "title": "Crown of the Sunken King",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Crown of the Sunken King -  Dark Souls II - mechanic - lead \n lead : The **Crown of the Sunken King** is the first episode of the *The Lost Crowns* downloadable content pack for *Dark Souls II*. It was released on July 22nd, 2014.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.6509258100566315,
+    "bm25_score": 35.31469611760974
+  },
+  {
+    "document_id": "37c2d39b-cf4b-570d-bf75-20743a477289",
+    "title": "Crown of the Ivory King",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Crown of the Ivory King -  Dark Souls II - mechanic - lead \n lead : **The Crown of the Ivory King** is the third episode of the *The Lost Crowns* downloadable content pack for *Dark Souls II*. It was released on September 30th, 2014 for Steam and Xbox Live and on October 1st, 2014 for the PSN.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.6482327075720619,
+    "bm25_score": 33.04229367171925
+  },
+  {
+    "document_id": "8015eb7b-5a77-577f-a3d6-1d9b69cd8b21",
+    "title": "The Lost Crowns",
+    "section": "crown_of_the_ivory_king",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "The Lost Crowns -  Dark Souls II - mechanic - crown_of_the_ivory_king \n crown_of_the_ivory_king : Released: September 30, 2014. Accessed through the Shrine of Winter.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.6206649444566864,
+    "bm25_score": 37.60688546953669
+  },
+  {
+    "document_id": "3fb60ba3-adcc-5a8b-a41b-9b474f86577d",
+    "title": "The Lost Crowns",
+    "section": "crown_of_the_old_iron_king",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "The Lost Crowns -  Dark Souls II - mechanic - crown_of_the_old_iron_king \n crown_of_the_old_iron_king : Released: August 26, 2014. Accessed through Primal Bonfire room in the Iron Keep.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.6199557742661383,
+    "bm25_score": 35.81812140310765
+  },
+  {
+    "document_id": "7f4b7f48-2bf2-5049-b28e-9d2e78c6bb1c",
+    "title": "The Lost Crowns",
+    "section": "crown_of_the_sunken_king",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "The Lost Crowns -  Dark Souls II - mechanic - crown_of_the_sunken_king \n crown_of_the_sunken_king : Released: July 22, 2014.\nAccessed through the Primal Bonfire room in the Black Gulch.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.61768115217373,
+    "bm25_score": 36.58670846503845
+  },
+  {
+    "document_id": "ca9ca470-4280-5f5e-a1b3-37c1184bf1d8",
+    "title": "Crown of the Old Iron King",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Crown of the Old Iron King -  Dark Souls II - mechanic - lead \n lead : **The Crown of the Old Iron King** is the second episode of *The Lost Crowns* downloadable content pack for *Dark Souls II*. It was released on August 26th, 2014.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.615994636731969,
+    "bm25_score": 34.691395977127385
+  },
+  {
+    "document_id": "e9474d9a-9b56-5417-bc75-9d67ea2f54f6",
+    "title": "The Lost Crowns",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "The Lost Crowns -  Dark Souls II - mechanic - notes \n notes : The total hard drive space required for the game including the three DLC chapters is 14GB.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5993177814157614,
+    "bm25_score": 45.4140203840359
+  },
+  {
+    "document_id": "ee4f8e41-169d-5191-890f-546273fb0459",
+    "title": "Crown of the Sunken King (helm)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Crown of the Sunken King (helm) -  Dark Souls II - armor - lead \n lead : The **Crown of the Sunken King** is a head armor piece in . It is one of the three Lost Crowns.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.59722037892188,
+    "bm25_score": 40.742796152361144
+  },
+  {
+    "document_id": "500d2fe8-7606-5257-99c4-cbfbc5929063",
+    "title": "The Lost Crowns",
+    "section": "promotion",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "The Lost Crowns -  Dark Souls II - mechanic - promotion \n promotion : Every week from June 5, 2014 until the release of the *Crown of the Sunken King* expansion, the contents of the treasure chest at the bottom of Cale the Cartographer's house in Majula were updated in the following schedule, at 2:00pm JST:\nJune 5 - June 11: Three Petrified Somethings\nJune 11 - June 18: Two pieces of Twinkling Titanite\nJune 18 - June 25: Five Cracked Red Eye Orbs\nJune 25 - July 1: Four Bonfire Ascetics\nJuly 1 - July 8: One Bleed Stone and one Poison Stone\nJuly 8 - July 15: Three Elizabeth Mushrooms and three Wilted Dusk Herbs\nJuly 15 - July 22: Five Smooth & Silky Stones\nJuly 22: A reskinned Murakumo with a black blade\n\nIf the chest had previously been opened, it would close itself once reset with the new items. However, the chest would not be reset for those who started the game in offline mode.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.574190323020218,
+    "bm25_score": 29.010646003827304
+  },
+  {
+    "document_id": "7bf163f7-b1a3-5a44-a426-43d07a35c5cb",
+    "title": "Crown of the Old Iron King (helm)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Crown of the Old Iron King (helm) -  Dark Souls II - armor - lead \n lead : The **Crown of the Old Iron King** is a head armor piece in . It is one of the three Lost Crowns.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5728483942350395,
+    "bm25_score": 40.14303974689051
+  },
+  {
+    "document_id": "ecca180d-89af-5262-88fb-93f9d82f0340",
+    "title": "Crown of the Ivory King (helm)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Crown of the Ivory King (helm) -  Dark Souls II - armor - lead \n lead : The **Crown of the Ivory King** is a head armor piece in . It is one of the three Lost Crowns.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5691032296996035,
+    "bm25_score": 40.742796152361144
+  },
+  {
+    "document_id": "ef173cf0-5e33-5514-a75b-59b4829458c4",
+    "title": "Crown of the Old Iron King (helm)",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Crown of the Old Iron King (helm) -  Dark Souls II - armor - notes \n notes : Every two minutes the crown is equipped, 20% of spell uses will be restored.\nIf all four crowns have been collected, and Vendrick's dialogue has been exhausted, wearing this crown will prevent the player from Hollowing upon death, though a Bloodstain containing their souls will still be left.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5388954576530922,
+    "bm25_score": 26.40241339947194
+  },
+  {
+    "document_id": "88a9597d-f4a8-5dbe-984d-ddafcd3f057c",
+    "title": "King's Crown",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "King's Crown -  Dark Souls II - armor - notes \n notes : It is not listed in the description or stats, but wearing the crown gives the player three extra points in Intelligence and Faith.\nAfter visiting the Memory of the King with all four crowns and exhausting Vendrick's dialogue, the crowns will prevent the player from going hollow by any means, including death and curse. A bloodstain will still appear upon death, however.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.522183190962772,
+    "bm25_score": 35.09727064487302
+  },
+  {
+    "document_id": "520e1739-a30a-5027-b050-6d7eef1ecee9",
+    "title": "Wolnir's Crown",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Wolnir's Crown -  Dark Souls III - armor - description \n description : Crown of Wolnir, the Carthus conqueror.\n\nOnce upon a time, such things were bequeathed judiciously to each of the rightful lords, until Wolnir brought them to their knees, and ground their crowns to dust. Then the crowns became one, and Wolnir, the one High Lord.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5141837339153545,
+    "bm25_score": 32.5953232244108
+  },
+  {
+    "document_id": "9ea5af97-045f-5324-9ca0-958e332572ce",
+    "title": "Crown of the Ivory King (helm)",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Crown of the Ivory King (helm) -  Dark Souls II - armor - notes \n notes : Restores 2 HP every three seconds.\nIf all four crowns have been collected, and Vendrick's dialogue has been exhausted, wearing this crown will prevent the player from Hollowing upon death, though a Bloodstain containing their souls will still be left.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5080351878536831,
+    "bm25_score": 29.18844927119263
+  },
+  {
+    "document_id": "f43886b5-bf1e-55b5-91d9-a72db7da67a7",
+    "title": "Dark Souls II",
+    "section": "the_lost_crowns",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark Souls II -  Dark Souls II - mechanic - the_lost_crowns \n the_lost_crowns : The Lost Crowns* is a three-part DLC for *Dark Souls II* announced on June 4th, 2014. Released episodically for the PS3, Xbox 360 and PC, the packs can be purchased separately for $9.99 each, or all three can be purchased through Steam, PSN and Xbox Live for $24.99.\nCrown of the Sunken King - July 22, 2014\nCrown of the Old Iron King - August 26, 2014\nCrown of the Ivory King - September 30, 2014",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.7181171875689347,
+    "bm25_score": 46.945606552683856
+  },
+  {
+    "document_id": "1ec757bf-ad0c-5c67-9891-85ed7cfaad42",
+    "title": "New Game Plus (Dark Souls II)",
+    "section": "items_lost",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "New Game Plus (Dark Souls II) -  Dark Souls II - mechanic - items_lost \n items_lost : Most key items\nFragrant Branches of Yore\nKey to the Embedded\nKing's Ring\n\nIn the original release of *Dark Souls II*, the keys that grant access to *The Lost Crowns* downloadable content are not lost upon entering New Game Plus.\n\nIn the updated version they are lost, however. Vendrick's blessing is also removed.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.6577535658954167,
+    "bm25_score": 32.38469929056226
+  },
+  {
+    "document_id": "e6b83ffe-c965-5432-b085-20c98a188dea",
+    "title": "Golden Crown",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Golden Crown -  Dark Souls III - armor - description \n description : Crown of a nameless king who was ally to the ancient dragons.\n\nThis golden crown, buried amidst long strands of bristling ash, is said to closely resemble that of the First Lord.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5855297963323792,
+    "bm25_score": null
+  },
+  {
+    "document_id": "23229f54-352e-5b6f-83d8-019e4c13b835",
+    "title": "Crown of Dusk (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Crown of Dusk (Dark Souls III) -  Dark Souls III - armor - description \n description : Feathered crown bestowed upon the princess of Oolacile, land of ancient golden sorceries.\n\nThrough the guardian Elizabeth's blessing, this raises the power and effect of the wearer's magic, but damage suffered by magic attacks rises in tandem.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5643576931826841,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bcac9eda-7595-52dc-90b7-c7bd621830fb",
+    "title": "Golden Crown",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Golden Crown -  Dark Souls III - armor - lead \n lead : The **Golden Crown** is a head armor piece in *Dark Souls III*. It is part of the Dragonscale Set.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5581514209064151,
+    "bm25_score": null
+  },
+  {
+    "document_id": "74d17513-8a54-52a9-82d2-481187a2802f",
+    "title": "Dark Souls II (Media)",
+    "section": "lost_crowns_trilogy",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark Souls II (Media) -  Dark Souls II - mechanic - lost_crowns_trilogy \n lost_crowns_trilogy : 2014",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.542253900065715,
+    "bm25_score": 30.18801822807341
+  },
+  {
+    "document_id": "3f9278b5-245f-5f97-be0c-2011b7aaca5b",
+    "title": "Dusk Crown Ring (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Dusk Crown Ring (Dark Souls III) -  Dark Souls III - ring - description \n description : Leaf-colored crown ring bestowed upon the princess of Oolacile, ancient land of golden sorceries.\n\nReduces spell FP consumption, but also lowers HP.\n\nOolacile is synonymous for its lost sorceries, of which the xanthous sorcerers are dedicated scholars. This crown ring is a rare artifact of great magic heritage.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5389643823028305,
+    "bm25_score": null
+  },
+  {
+    "document_id": "df999db0-5f64-5a5b-a5b6-be6ac47e36ec",
+    "title": "Crown of Dusk (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Crown of Dusk (Dark Souls III) -  Dark Souls III - armor - lead \n lead : The **Crown of Dusk** is a head armor piece in *Dark Souls III*. It is part of the Antiquated Set.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5359763837663217,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8c277e09-b8f4-5b04-a650-a61851646e8b",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "dialogue",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "The Scholar alludes to the fates of the three kings, whether or not the player has played through *The Lost Crowns* DLCs. He also seems to speak of Vengarl of Forossa*—\"One man lost his own body, but lingered on, as a head.\"*—though he could equally be referring to himself, given his diminished form as little more than a head.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5342244414884518,
+    "bm25_score": 35.696758652433175
+  },
+  {
+    "document_id": "07b9d549-0e39-57d4-a915-4f6067e42670",
+    "title": "King's Crown",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "King's Crown -  Dark Souls II - armor - lead \n lead : The **King's Crown** is a crown in *Dark Souls II*. It is part of the King's Set.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5310184574109598,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3984da75-9c4b-56d2-8e6c-ad9f53b827c0",
+    "title": "Human Effigy",
+    "section": "alternatives",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Giving Vendrick the King's Crown as well as the Crown of the Sunken King, Old Iron King and Ivory King in Vendrick's Memory lets the player ignore hollowing, and curse, when wearing any of the crowns.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5279770282197978,
+    "bm25_score": 30.640075978312808
+  },
+  {
+    "document_id": "bb9b2124-cf5b-5939-8a3b-109f6e798def",
+    "title": "Dusk Crown Ring (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Dusk Crown Ring (Dark Souls III) -  Dark Souls III - ring - lead \n lead : The **Dusk Crown Ring** is a ring in *Dark Souls III*.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5260005566729633,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4853aa26-185c-50b1-aca4-74e2ac8b7844",
+    "title": "Crown of the Dark Sun",
+    "section": "upgrades",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Crown of the Dark Sun -  Dark Souls - armor - upgrades \n upgrades : The Crown of the Dark Sun cannot be reinforced.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5191275267519226,
+    "bm25_score": null
+  },
+  {
+    "document_id": "31010ea8-a4ee-5085-98a0-7ae567b2b526",
+    "title": "Crown of Dusk",
+    "section": "upgrades",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Crown of Dusk -  Dark Souls - armor - upgrades \n upgrades : Cannot be reinforced.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.517210992139077,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5f3d0e84-e846-564f-9d71-5f78c41c742f",
+    "title": "Bone Crown",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Bone Crown -  Dark Souls II - armor - lead \n lead : The **Bone Crown** is a crown in *Dark Souls II*. It is part of the Bone King Set.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5155970944538194,
+    "bm25_score": null
+  },
+  {
+    "document_id": "98b303bd-ef6f-53e4-ace5-5c3799e2b967",
+    "title": "Majula",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "With the release of the *Crown of the Old Iron King* DLC the back of the Majula Monument now says \"Seek the land of an ancient king, past the Iron Keep, upon a sea of flame\", in regards to where one should go to find the location of the new DLC area.\nAt NG+10 the flames on the map become blue.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5128506781337535,
+    "bm25_score": 24.05102562867863
+  },
+  {
+    "document_id": "868d517b-7f93-5f19-8be8-6b064beb7f71",
+    "title": "Crown of the Great Lord",
+    "section": "upgrades",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Crown of the Great Lord -  Dark Souls - armor - upgrades \n upgrades : Cannot be reinforced.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5114960292511711,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1c35c3ac-18e7-5ec2-9e00-ee5c564a08dc",
+    "title": "Xanthous Crown (Dark Souls III)",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Xanthous Crown (Dark Souls III) -  Dark Souls III - armor - availability \n availability : Dropped by Yellowfinger Heysel after defeating her at either Crucifixion Woods or Farron Keep. She will only drop it once.\nA second crown can be obtained by killing the Man-grub that spawns in Rosaria's Bed Chamber after the first three Lords of Cinder (excluding Ludleth) have been killed.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5108246333949019,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d8083c66-abfb-52fd-9670-17f1cf073fbd",
+    "title": "Crown of Dusk",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Crown of Dusk -  Dark Souls - armor - description \n description : Special magic crown bestowed upon Dusk, Princess of Oolacile, upon her birth.\n\nIts wearer is blessed by all manner of magic. This raises the power and effect of the wearer's magic, but damage suffered by magic attack also rises.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.509121448656965,
+    "bm25_score": null
+  },
+  {
+    "document_id": "64f2e3a2-a0dc-5adc-9a75-579507e653cb",
+    "title": "Memory of the King",
+    "section": "vendrick_s_blessing",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Memory of the King -  Dark Souls II - location - vendrick_s_blessing \n vendrick_s_blessing : If the player has obtained the King's Crown along with the rest of the ancient crowns (Crown of the Sunken King, Old Iron King and Ivory King) and bring them to Vendrick in this place, he will grant them his blessing, which infuses them all with a hidden ability that prevents the player from becoming hollow by any means while wearing any of them and also grants immunity against the Curse status ailment.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5073219820768088,
+    "bm25_score": 26.745552504037555
+  },
+  {
+    "document_id": "12fc1e6e-0da7-5cbc-8d3c-3de6565043d2",
+    "title": "Pontiff Knight Crown",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Pontiff Knight Crown -  Dark Souls III - armor - description \n description : Crown of the Pontiff's Knights, now harrowed spirits of Irithyll.\n\nThe golden crown signifies those who report directly to Sulyvahn. The knights were his watchful eyes, and when needed, his punitive blades.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5067235648804176,
+    "bm25_score": null
+  },
+  {
+    "document_id": "833c4c47-7523-5fbe-8f7b-e0a228d71681",
+    "title": "Vendrick",
+    "section": "plot",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Vendrick -  Dark Souls II - boss - plot \n plot : After an untold amount of time in confinement, the King of Drangleic remains a hollowed husk of his former self. The player may choose to spare the king, leaving him to wander eternally, or slay him and end his misery.\n\nUsing the Ashen Mist Heart, the Bearer of the Curse may also enter the Memory of the King, where they may interact with King Vendrick as he was before he went hollow. Bitter and grieving his failures, Vendrick tells the Bearer to seek the crowns of old kings of yore. Once they have brought him all the crowns, Vendrick will unlock their power, making the Bearer of the Curse immune to the hollowing effects of the curse. He advises the Bearer of the Curse to seek a third path beyond Light and Dark, echoing his brother.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.971717810940937
+  },
+  {
+    "document_id": "6b019648-5365-5c36-becb-700826631cac",
+    "title": "New Game Plus",
+    "section": "items_lost",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "New Game Plus -  Dark Souls - mechanic - items_lost \n items_lost : The Orange Charred Ring.\nThe Covenant of Artorias.\nAll Keys and items that appear under Keys in-game, including Embers, the Rite of Kindling, Weapon Smithbox, Armor Smithbox, Repairbox, the Lordvessel and the Crest of Artorias.\n\nExceptions are the Master Key and the Bottomless Box, which are not lost.\n\nIf the player is human before entering New Game+, they lose their human status and will have to reverse hollowing at a bonfire.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.55115757460655,
+    "bm25_score": null
+  },
+  {
+    "document_id": "19f3fc24-2081-5120-9eee-e9d896940acc",
+    "title": "Focus Points",
+    "section": "items_that_affect_fp_usage",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Focus Points -  Dark Souls III - mechanic - items_that_affect_fp_usage \n items_that_affect_fp_usage : Farron Ring\nDusk Crown Ring",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5374689671705295,
+    "bm25_score": null
+  },
+  {
+    "document_id": "df3274ba-3b0f-5e6f-96e0-21235a96a636",
+    "title": "New Game Plus (Dark Souls III)",
+    "section": "items_lost",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "New Game Plus (Dark Souls III) -  Dark Souls III - mechanic - items_lost \n items_lost : All key items, except for the Champion's Bones, are lost upon entering New Game+. As Dark Sigils are lost, the player's Hollowing stat will not increase until the sigils are obtained again, though the Hollowing level itself is unaffected by starting New Game+.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5340865085068003,
+    "bm25_score": null
+  },
+  {
+    "document_id": "05439860-6cb8-5440-ae24-c8cd831efa48",
+    "title": "Shrine of Winter",
+    "section": "overview",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Crown of the Ivory King* DLC can be accessed from this area by interacting with the glowing statue in the middle of the shrine. This will transport the player to Frozen Eleum Loyce.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5335052161977398,
+    "bm25_score": null
+  },
+  {
+    "document_id": "aa34910e-3874-5730-9997-487577cbfd97",
+    "title": "Crow Talons",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Crow Talons -  Dark Souls III - weapon - lead \n lead : The **Crow Talons** is a claw in *Dark Souls III: Ashes of Ariandel*.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5328678778799171,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f1a6fc77-8a22-539f-9b6d-17a434f6c44e",
+    "title": "Dragonscale Set",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Dragonscale Set -  Dark Souls III - armor - description \n description : Armor of a nameless king who was ally to the ancient dragons.\n\nThe golden crown, buried amidst long strands of bristling ash, is said to closely resemble that of the First Lord.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5246424901943203,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f604ee35-65f9-5712-a4a8-34db702920c4",
+    "title": "Frozen Flower",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "shield",
+    "snippet": "Frozen Flower -  Dark Souls II - shield - availability \n availability : Granted immediately upon loading the game if the player owns the Crown of the Ivory King DLC.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5220993730858026,
+    "bm25_score": null
+  },
+  {
+    "document_id": "22604e4e-90f0-512b-a375-ffd5ccf0983e",
+    "title": "Golden Bracelets",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Golden Bracelets -  Dark Souls III - armor - description \n description : Bracelets of a nameless king who was ally to the ancient dragons.\n\nThese golden bracelets, together with the golden breastplate and crown, are said to closely resemble those of the First Lord.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5208343267516549,
+    "bm25_score": null
+  },
+  {
+    "document_id": "70fd333e-15cd-5411-adc1-084b54c79639",
+    "title": "Lloyd's Sword Ring",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Lloyd's Sword Ring -  Dark Souls III - ring - see_also \n see_also : Lloyd's Shield Ring",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5109957699604769,
+    "bm25_score": null
+  },
+  {
+    "document_id": "858adea4-5436-5df1-9a76-e9329b979d80",
+    "title": "Removed Content (Dark Souls III)",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Removed Content (Dark Souls III) -  Dark Souls III - mechanic - notes \n notes : The **Pendant** and **Silver Pendant** are already existing items in Dark Souls.\n***Holy Water Urn** and **Brightbug** are items from Dark Souls II.\nThe **Skull Chalice** is the same chalice that initiates Wolnir's boss fight.\nThe item **Purple Crystal** seems to be missing its knowledge image file used when inspecting an item or in loading screens, making the resolution of its icon low.\nThe glow in the **Active Purple Crystal** resembles the floating glow indicating that a Blade of the Darkmoon or Blue Sentinel is being summoned in a world.\n***Yorgh's Ring** is a ring in Dark Souls II.\nThe **Unused Magic** seems to depict Silver Knight Ledo.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5075268889138829,
+    "bm25_score": null
+  },
+  {
+    "document_id": "32d848fb-1e9d-5137-8097-264254326cfb",
+    "title": "Lloyd's Shield Ring",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Lloyd's Shield Ring -  Dark Souls III - ring - see_also \n see_also : Lloyd's Sword Ring",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5067525924148564,
+    "bm25_score": null
+  },
+  {
+    "document_id": "922dff14-43d7-5eeb-98dd-6cfb50e6c338",
+    "title": "Steelheart Ellie",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Steelheart Ellie -  Dark Souls II - character - lead \n lead : **Steelheart Ellie** is a white phantom appearing in all three of *The Lost Crowns* DLCs.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 38.20015931532949
+  },
+  {
+    "document_id": "6b440a02-2a3e-5b6f-a65c-ac71de06c3f1",
+    "title": "Bearer of the Curse",
+    "section": "the_three_crowns",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - the_three_crowns \n the_three_crowns : Should the Bearer of the Curse choose to do so, they may use the Ashen Mist Heart on Vendrick's belongings in the Undead Crypt. Doing so will allow the Bearer to speak directly to the king as he was before he hollowed. Bitter and resigned to defeat, the king will council the Bearer of the Curse, warning them of the futility in seeking fire, of the dark that lies within them, and of the children of Manus, Father of the Abyss. He will tell the Bearer to seek three crowns of power, belonging to fallen kings. He will also warn the Bearer of his wife, Nashandra, revealing that she too is a child of the Abyss.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 37.680978665097605
+  },
+  {
+    "document_id": "8e99705e-b6d8-5362-a282-049f14fc014c",
+    "title": "Curse (Dark Souls II)",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Curse (Dark Souls II) -  Dark Souls II - mechanic - notes \n notes : During the fight with Nashandra, she will cast four dark orbs that surround her and curse the player, while also draining their health; achieving curse immunity will not negate the health drain.\nIf the player gathers all three crowns from *The Lost Crowns* DLCs as well as the King's Crown, and returns to the Undead Crypt and uses the Ashen Mist Heart to speak to Vendrick, they are awarded Vendrick's Blessing, granting immunity to Curse, and won't hollow upon death as long as they are wearing the King's Crown, Crown of the Sunken King, Crown of the Old Iron King, or Crown of the Ivory King.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 34.17113852701562
+  },
+  {
+    "document_id": "25380414-bbfd-5583-8210-eb76d0b16a14",
+    "title": "Bearer of the Curse",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - lead \n lead : The **Bearer of the Curse** is the player character and the protagonist of *Dark Souls II* and its expansions, *The Lost Crowns*.\n\nThe Bearer of the Curse travels to Drangleic by a compulsion to find a way to break the curse of the undead and avoid Hollowing at any cost.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 33.08050602612279
+  },
+  {
+    "document_id": "89b5af06-8ed3-512a-86a3-20ae57ef6323",
+    "title": "Bearer of the Curse",
+    "section": "the_three_crowns",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Finally, the Bearer of the Curse travels to Frozen Eleum Loyce, once ruled by the Ivory King. Built to contain the Old Chaos, the city was abandoned and froze over when its king vanished into the chaos. Guided by the last child of the Abyss, Alsanna, Silent Oracle, the Bearer of the Curse seeks out the remaining knights of Eleum Loyce to gain their help in braving the Old Chaos. Finding the Burnt Ivory King there, the Bearer of the Curse defeats him and claims his crown.\n\nOnce the Bearer of the Curse has found all three crowns of old, along with Vendrick's own crown, the fallen king will unleash the hidden power of the crowns, making the Bearer of the Curse immune to the hollowing effects of the curse. Bidding the Bearer to seek strength, and asking them whether allowing the flames to fade is truly their only choice, the king sends the Bearer of the Curse on their way.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.85527719530397
+  },
+  {
+    "document_id": "6ade13d3-496e-5b02-b66f-ef82148023fe",
+    "title": "Memory of the King",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Memory of the King -  Dark Souls II - location - notes \n notes : Each crown obtained unlocks Vendrick's next dialogue.\nIn order to receive Vendrick's Blessing, the player must actually have to bring all four crowns to him (just having them stored in the item box won't be enough).\nUpon attacking Vendrick, he will say *\"Foolish...\"* in a disgruntled tone and the ashen mist will fade, removing the player from the memory. The player may still re-enter the memory without any consequence.\nOnce Vendrick has given his blessing to the crowns, the Memory of the King cannot be entered again.\nIf the player attempts to run back through Velstadt's arena while in the memory, the ashen mist will fade and the player will be returned to the Undead Crypt.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.623683841449854
+  },
+  {
+    "document_id": "863615e3-268d-52ad-881e-f8cb5165bf7b",
+    "title": "Battle of Stoicism",
+    "section": "rules",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Battle of Stoicism -  Dark Souls - location - rules \n rules : There are a set of rules that are applied to all the three modes of the , listed below:\n\nNo healing items allowed.\nThe battle is timed (3 minutes); in the end, the winner dons a great crown.\nThe player with the most kills receives a great crown. With equal kills, all players receive tiny crowns (a draw).\nAllies receive credit for every fallen enemy; in Deathmatch, all players except the victim receive credit.\nWin streak resets to zero if the player returns to the gazebo.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.1937969717551
+  },
+  {
+    "document_id": "f49e26f2-1648-5b2d-93dd-e6814e5bbb80",
+    "title": "Catarina Set (Dark Souls II)",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Catarina Set (Dark Souls II) -  Dark Souls II - armor - availability \n availability : Pieces of this set are rare drops from the Dark Spirit Catarina Knight at Bonfire Intensity 2+ in the Forest of Fallen Giants.\nPieces of the set are scattered around The Lost Crowns DLCs:\nThe helmet is found in a chest within the Dragon's Sanctum, near the first two Sanctum Knights.\nThe leggings and gauntlets are found within a hidden room in Brume Tower, past the third bonfire. To reach it, a cracked wall must be blown up by a Cask Runner.\nThe armor is dropped by a Mimic in Frozen Eleum Loyce.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.005233860356967
+  },
+  {
+    "document_id": "d4fb8dbf-f27f-5a65-94c4-334f9f1be4ca",
+    "title": "Xanthous Overcoat (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Xanthous Overcoat (Dark Souls III) -  Dark Souls III - armor - description \n description : Yellowish overcoat covering a band of brass medallions.\n\nXanthous clothing is the mark of a researcher of lost sorceries, and the number of medallions denotes their success.\nA point of pride for the researchers, even if its significance is lost on others.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.88875831295635
+  },
+  {
+    "document_id": "44985456-c095-5d82-9d10-2ac11b852fc8",
+    "title": "Soul of a Brave Warrior",
+    "section": "locations",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Oolacile Township [AotA DLC]\n** Near the 1st Bloathead Sorceress inside a shaded room, guarded by her and 2 Bloatheads.\n** Hanged from the wooden walkway around the top level of the tower housing the Silver Pendant.\nLost Izalith\n** At the end of the branch-walkway coming from the normal entrance, whirled around the 3rd support of the Lost Izalith shortcut's bridge.\n** Washed on the shore of the lava lake's 1st tower.\n** In the poisonous pits of Izalith, guarded by 4 Chaos Eaters.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.014180238516285
+  },
+  {
+    "document_id": "de82fd4b-4db7-5ff0-b040-947972eff770",
+    "title": "Bonfire (Dark Souls II)",
+    "section": "locations",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bonfire (Dark Souls II) -  Dark Souls II - mechanic - locations \n locations : A total of 77 Bonfires are spread across Drangleic. 19 of them are found within The Lost Crowns DLCs. Ascending a bonfire will respawn its respective boss.\nThings Betwixt\n**Fire Keepers' Dwelling\nMajula\n**The Far Fire\nForest of Fallen Giants\n**The Crestfallen's Retreat\n**Cardinal Tower - The Last Giant / The Pursuer\n**Soldier's Rest\n**The Place Unbeknownst - Giant Lord\nHeide's Tower of Flame\n**Heide's Ruin - Dragonrider\n**Tower of Flame\nCathedral of Blue\n**The Blue Cathedral - Old Dragonslayer\nNo-man's Wharf\n**Unseen Path to Heide - Flexile Sentry\nThe Lost Bastille\n**Exile Holding Cells\n**McDuff's Workshop - Ruin Sentinels\n**Servants' Quarters\n**Straid's Cell\n**The Tower Apart\nSinners' Rise\n**The Saltfort - The Lost Sinner\n**Primal Bonfire\nBelfry Luna\n**Upper Ramparts - Belfry Gargoyles\nHuntsman's Copse\n**Undead Refuge\n**Bridge Approach\n**Undead Lockaway - Skeleton Lords\nUndead Purgatory",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.923164031584243
+  },
+  {
+    "document_id": "80e75fd6-d1fb-5115-8c4d-0e72a3f7c525",
+    "title": "Lion Clan Shield",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "shield",
+    "snippet": "Lion Clan Shield -  Dark Souls II - shield - description \n description : Shield used by the Lion Clan warriors. Made of wood, but reinforced with metal. Light yet sturdy.\n\nThe design on the shield appears to have some religious significance, but we will never know what sort of gods these warriors answer to.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.364300346579444
+  },
+  {
+    "document_id": "f549938f-61fd-500d-a229-47d7fed5f60f",
+    "title": "Artorias of the Abyss",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Artorias of the Abyss -  Dark Souls - mechanic - lore \n lore : Artorias of the Abyss* takes place approximately 200 to 300 years before the events of *Dark Souls*, in the land of Oolacile. It features three of the Four Knights of Gwyn‎. The events of the DLC are also related to the story of *Dark Souls II*, as Nashandra was born from a fragment of Manus' soul.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.09049445011555
+  },
+  {
+    "document_id": "585cfe53-aebe-5430-97e1-56496ad06443",
+    "title": "High Lord Wolnir",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "The warriors of Carthus swore their lives to Wolnir, growing ever ruthless and bloody in his name. Under Wolnir's rule, the kingdom of Carthus grew aggressive and expansionist, to the point where it was likened to uncontrollable fire, its beacons being used as war signals. His conquests were spearheaded by his warriors with superior combat skills and combat pyromancies. Wolnir soon subjugated the kingdoms around Carthus, melding the various \"crowns\" that ruled different lands into a single one, thus ascending to \"High Lord\". At some point Wolnir stripped three armlets and a holy sword from the corpses of some clerics, demonstrating how religion and gods counted for nothing in his kingdom.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.744396615501593
+  },
+  {
+    "document_id": "bb7979da-bd82-58a8-a3cd-19a45cb83ab2",
+    "title": "Carthus of the Sands",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "At some point, the giant humanoid Wolnir rose to power in Carthus. The warriors of Carthus swore their lives to Wolnir, growing ever ruthless and bloody in his name. Under Wolnir's rule, the kingdom of Carthus grew aggressive and expansionist, to the point where it was likened to uncontrollable fire, its beacons being used as war signals. His conquests were spearheaded by his warriors with superior combat skills and combat pyromancies. Wolnir soon subjugated the kingdoms around Carthus, melding the various \"crowns\" that ruled different lands into a single one, thus ascending to \"High Lord\". Along the way, Wolnir stripped three armlets and a holy sword from the corpses of some clerics, demonstrating how religion and gods counted for nothing in his kingdom.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.4927911465769
+  },
+  {
+    "document_id": "91fa63cf-6012-5259-887c-5de08a908a2e",
+    "title": "Twin Humanities",
+    "section": "corpse_locations",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Twin Humanities -  Dark Souls - item - corpse_locations \n corpse_locations : Lost Izalith - On the edge, atop a broken structure near the bonfire surrounded by Bounding Demons.\nLower Undead Burg - Found in the area past the house where Griggs of Vinheim is found, guarded by many torch wielding Hollows.\nOolacile Township [AotA DLC] - From the floor where the 2nd Mimic is located, drop off carefully outside the building to the blue roof, turn right and follow the seemingly narrow section to its dead end.\nChasm of the Abyss [AotA DLC] - Hidden under the lower end of the segmented polygonal pillar-bridge.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.043613675254736
+  },
+  {
+    "document_id": "9a774c83-ccef-507e-b764-77faaa9897ca",
+    "title": "Black Witch Set",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Black Witch Set -  Dark Souls II - armor - characteristics \n characteristics : The Black Witch Robe boasts some of the best elemental defenses in game, unmatched in its Magic, Lightning and Dark resistance, with only its Fire defense falling short of the Hexer's Set and the Chaos Set by a mere 2 points. It also provides impressive physical defenses for its weight.\n\nThe hat, the mask and the veil all offer exceptional magic defense, high elemental defense, decent status resistances, and average physical defenses for their weight and classification. Each head piece possesses unique properties:\nThe hat allows for an extra attunement slot.\nThe mask provides a minor magic damage bonus (between 2.5-3%), but lowers maximum health by roughly 15%.\nThe veil provides practical immunity from Curse, while not preventing hollowing altogether. Only the blessed crowns from completing all three of the DLCs and acquiring the King's Crown can grant total curse and hollowing immunity.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.860460362881714
+  },
+  {
+    "document_id": "497e1971-07c7-55d0-8283-7712876c2666",
+    "title": "Nashandra",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Any summoned characters or players who survived the fight between the Throne Watcher and Defender will stay with the host to defeat Nashandra; however, they will not receive two rewards (Token of Fidelity or Sunlight Medal).\nBy burning a Bonfire Ascetic on the King's Gate bonfire in Drangleic Castle, Nashandra can be respawned.\nWearing the Black Witch Veil, Hollow Skin, or any of the four crowns already infused with Vendrick's blessing will grant immunity to Curse; however, the player will still take continual damage whenever near the curse fountains.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.525904219227026
+  },
+  {
+    "document_id": "821daa78-a871-5c01-bad0-246dd7002390",
+    "title": "The Lost Bastille",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "The Lost Bastille can be accessed from the Forest of Fallen Giants via the bird's nest found past the Pursuer's boss chamber or via the ship accessible in No-man's Wharf.\n\nNote that a gate prevents access to a portion of the Lost Bastille if the player arrives from the Forest of Fallen Giants. There are two ways to get to the other side of the gate without going through No-man's Wharf. The first being by obtaining the Antiquated Key and opening the door found left of the well with a cage containing three Undead Citizens. The second way is by falling off the wall through the hidden door in the room right past the set of two gates while wearing the Silvercat Ring and having around 1,100 HP.\n\nThe Lost Bastille eventually leads to Sinners' Rise, terminating with the boss fight there.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.219281322385243
+  },
+  {
+    "document_id": "72b51cf7-90c4-5a97-8c63-62f55c89478a",
+    "title": "Four Knights of Gwyn",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Four Knights of Gwyn -  Dark Souls - character - lead \n lead : The **Four Knights of Gwyn** were Lord Gwyn's most trusted warriors. Only one knight is encountered in the original console version of *Dark Souls*: Dragon Slayer Ornstein.\n\nThe other three knights, Artorias the Abysswalker, Lord's Blade Ciaran and Hawkeye Gough, are only mentioned; Artorias is deceased by the events of the game, and the fates of the other two are left unrevealed, although they are presumed deceased as well.\n\nIn the *Artorias of the Abyss* DLC, the player is dragged into the past, allowing them to meet the other three knights in Oolacile.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.146770961401135
+  },
+  {
+    "document_id": "f09effd3-fd15-5c9f-9a7c-6e7ea87dded0",
+    "title": "Lost Sinner's Sword",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Lost Sinner's Sword -  Dark Souls II - weapon - description \n description : An ultra greatsword forged from the soul of the Lost Sinner. Its blade saps the life of its wielder.\n\nThe true nature of this sword is unknown, even to the Lost Sinner herself. Those who choose this sword will share the burden of the Lost Sinner's misdeeds.\n\nEffect: attacks damage wielder.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.853014400131055
+  },
+  {
+    "document_id": "29e9ac90-92c5-55de-b5a8-a6e984380249",
+    "title": "Chosen Undead",
+    "section": "artorias_of_the_abyss",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - artorias_of_the_abyss \n artorias_of_the_abyss : In the *Artorias of the Abyss* DLC the Chosen Undead travels back in time to the ancient realm of Oolacile, where they discover the truth about the death of the Knight Artorias and the fall of Oolacile. The quest presented in this DLC is completely optional and therefore, it is not required to complete the game.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.84095678535064
+  },
+  {
+    "document_id": "458da181-b61b-51d8-94b5-c756436c3e9b",
+    "title": "King's Set",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "King's Set -  Dark Souls II - armor - characteristics \n characteristics : The crown will grant the player Intelligence +3 and Faith +3 when worn. Also, upon visiting the Memory of the King with all four crowns in the player's inventory and exhausting Vendrick's dialogue, having the crown equipped will prevent the player from going hollow when killed.\n\nOverall, his armor set boasts very well-rounded defenses and resistances, most notably its resistance to petrification, a very uncommon trait amongst medium armor sets. However, it offers unremarkable Poise for its weight.\n\nHis gauntlets are notably weaker than average.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.78746072044643
+  },
+  {
+    "document_id": "6eafe8d5-68c2-53be-800e-7783899cdcd2",
+    "title": "Weapons (Dark Souls III)",
+    "section": "catalysts",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Weapons (Dark Souls III) -  Dark Souls III - item - catalysts \n catalysts : Designates weapons from the *Ashes of Ariandel* expansion DLC.\n\n** Designates weapons from *The Ringed City* expansion DLC.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.711937684211406
+  },
+  {
+    "document_id": "57f44311-2f59-5c06-970b-cb43ab851e4b",
+    "title": "Archdeacon White Crown",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Archdeacon White Crown -  Dark Souls III - armor - description \n description : White crown worn by an Archdeacon of the Cathedral of the Deep.\nPresented solely to delegates of the gods.\n\nOf the three Archdeacons of the Deep, one cast off his white crown and left the cathedral to stand by Aldrich.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "859cc7ff-e2a5-5d17-a9a8-628cf964a122",
+    "title": "Archdeacon White Crown",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Archdeacon White Crown -  Dark Souls III - armor - availability \n availability : Found in the Cathedral of the Deep, on Archdeacon Royce's corpse along with the rest of the set. The body will appear after defeating the Deacons of the Deep and resting at the bonfire.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c054be0a-f4ac-51a7-aa4e-3143b734b501",
+    "title": "Archdeacon White Crown",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Archdeacon White Crown -  Dark Souls III - armor - lead \n lead : The **Archdeacon White Crown** (大主教の白冠) is a head armor piece in *Dark Souls III*. It is part of the Archdeacon Set.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "020ab822-6951-5e72-be02-32cb8788e1fd",
+    "title": "Bone Crown",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Bone Crown -  Dark Souls II - armor - description \n description : Skeleton Lord Crown. High dark defense.\n\nThe Old Iron King led his best men on Undead hunts, but their memories were purged in rebirth.\n\nスケルトンの王の冠\n高い闇防御力を持つ\n\n鉄の古王によって選び出された\n不死を狩る者たちを率いたが\nもはやその記憶は彼方へと去っている\n\nSkeleton King's Crown\nHighly resistant to darkness\n\nSelected by the Old Iron King.\nHe led the hunters of the immortals.\nBut his memories are now long gone.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "73687376-881b-5d3f-ac61-142c7066299a",
+    "title": "Bone Crown",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Bone Crown -  Dark Souls II - armor - availability \n availability : Sold by Titchy Gren for 3,600 souls only to members of the Brotherhood of Blood and after defeating the Skeleton Lords.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  }
+]
