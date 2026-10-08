@@ -1,0 +1,2445 @@
+[
+  {
+    "document_id": "d50e0819-9375-56b9-bc48-103011044c49",
+    "title": "Seath the Scaleless",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "**Similarly, if Big Hat Logan kills the player in this area they will be moved to the prison.\nIf the player cuts off Seath's tail it may not disappear and will persist after Seath has been killed.\nAlthough it is never explicitly said, it is possible to infer that the victory of the Lords over the Ancient Dragons occurred directly thanks to Seath, through him revealing that the weakness of his race was lightning, capable of piercing their stone Dragon Scales. This is because in the Japanese version of the Opening, it is explained how the Lords' victory was \"caused\" by Seath's betrayal (ウロコのない白竜、シースの裏切りにより、遂に古竜は敗れた TL: And because of the betrayal of the scaleless white dragon Seath, the ancient dragons were finally defeated). This would also explain the immense amount of gifts that Gwyn gave to the white dragon including the Archives of the Gods, a political position in his empire, a woman from his family and a fragment of his Lord's soul.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.727138625038051,
+    "bm25_score": 24.763125087812593
+  },
+  {
+    "document_id": "35795752-f63d-51b1-b835-d9bea200e969",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "At some point, the Four Lords who had found immense Lord Souls and built their civilizations underground emerged to the surface with the intention of waging war against the Dragons and conquering the world for themselves. Seath decided to betray his race to ally with Gwyn, Lord of Sunlight, and help the Lords in the war. He was instrumental in the gods' eventual victory, and the triumphant Lords would exterminate much of the Ancient Dragons, cementing their rule. Seath would also pillage the Ancient Dragons' sacred treasure, the Primordial Crystal, the centerpiece of his efforts to achieve immortality.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.717239271134726,
+    "bm25_score": 26.217661699426174
+  },
+  {
+    "document_id": "a65eba0e-76f3-511c-b575-2502c97bdd0b",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Seath the Scaleless -  Dark Souls - boss - dark_souls \n dark_souls : Seath is one of the primordial archdragons who inhabited the world when, before the appearance of the First Flame, the world was composed only of grey rocks.\n\nSeath was born with unique characteristics compared to the other archdragons, lacking the rock scales that made his brethren immortal. In addition, Seath's pale and deformed body was infused with the magical power of moonlight, through the study of which he created weapons that catalyzed it.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.66982151788651,
+    "bm25_score": 20.988788194019012
+  },
+  {
+    "document_id": "7a5f88e6-d4ba-5f85-9fd3-67e06de9978e",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Through their successful alliance against the Everlasting Dragons, Seath became a close friend to the Lord of Sunlight and was amply rewarded for his indispensable contributions to the war. He was wed into Gwyn's family as his son-in-law, inducting him into the nobility of the Gods, and was bestowed the honorific of \"Duke\". Gwyn further gifted Seath a fragment of his powerful Lord Soul and the Royal Archives, an enormous library towering above Anor Londo, which contained all the knowledge available to the city of the gods, leaving the dragon the freedom to do his own research; in time, the archives became so synonymous with Seath that they became known as \"The Duke's Archives\" instead.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.6493405663888869,
+    "bm25_score": 21.884147394137102
+  },
+  {
+    "document_id": "bd5d257c-ebc7-5d27-844b-477d786f1b33",
+    "title": "Seath the Scaleless",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Seath the Scaleless -  Dark Souls - boss - location \n location : Encountered at the top of The Duke's Archives, and later at the end of the Crystal Cave.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.6451452152629062,
+    "bm25_score": 22.26816051378005
+  },
+  {
+    "document_id": "e107f281-4c5d-5700-91bf-c0ffd79c3a6b",
+    "title": "Seath the Scaleless",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Seath the Scaleless -  Dark Souls - boss - attacks \n attacks : {'name': 'Left or Right Hand Swipe', 'description': 'Seath will swipe his left or right hand at the player. This is incredibly damaging and can only be blocked by high stability shields, but fairly easy to dodge since his hand hitbox is small.'}",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.6437870616241484,
+    "bm25_score": 19.051244308362982
+  },
+  {
+    "document_id": "e2b6780a-05f8-5319-bddf-8206f47bc54d",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Seath the Scaleless -  Dark Souls - boss - dark_souls_ii \n dark_souls_ii : In the region and times of Drangleic, Seath's name had been forgotten, merely referred to as an \"Old One\"; the legend of a pale dragon was nonetheless passed on in various locales, even if each account was fragmentary. His Moonlight Sword that shone like the brilliant rays of the moon and was born from his white being had become a thing of the oldest legends, rarely spoken of. The smithing techniques of Seath that used souls to create artifacts were preserved by a clan of Crow Demons, though they remembered the dragon only as a white grotesque being that existed in the distant past.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.6415353564766806,
+    "bm25_score": 17.973464391854478
+  },
+  {
+    "document_id": "9c939fed-3fe8-5931-a02c-3474aaf5ef6b",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Seath the Scaleless -  Dark Souls - boss - dark_souls_iii \n dark_souls_iii : By the era of Lothric, Seath was still widely considered the \"pale dragon\" of legends even by the sorcerers of Vinheim, though his crystal sorceries were all but consigned to legend.\n\nThere were some who still upheld Seath's legacy: The Crystal Sages, twin scholars who considered themselves the spiritual successors of the legendary grand sage Logan, came to possess the Crystal Scroll containing the sorceries and research of the pale dragon, which lead to Logan's records of Crystal Sorcery. The two sages were thus able to carry on this branch of sorcery, allowing them to replicate Logan's discoveries that utilize the power of crystals to their fullest as a medium for souls thanks to his \"enlightenment\" in the Regal Archives of Seath.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.6307123300667071,
+    "bm25_score": 18.446604553823615
+  },
+  {
+    "document_id": "2e5d4529-5015-59f6-aac6-1eaf469fce6f",
+    "title": "Seath the Scaleless",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Seath the Scaleless -  Dark Souls - boss - strategies \n strategies : When first encountered in The Duke's Archives, he regenerates health extremely quickly due to the power of Primordial Crystal, effectively making him invincible.. He inevitably kills the player. Loss of souls and humanity can be avoided by wearing a Ring of Sacrifice, but if he kills the player through Curse, then a Rare Ring of Sacrifice is needed to avoid penalties. In addition, it is possible to travel back through the fog door to avoid being killed by Seath, however can still go through the fog wall after exiting. Regardless, the player must be killed by Seath in order to progress.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.6279237900077823,
+    "bm25_score": 18.156022227247682
+  },
+  {
+    "document_id": "a6fd3a6d-490a-5a11-9c13-855b39d63de7",
+    "title": "Seath the Scaleless",
+    "section": "moonlight_greatsword",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Seath the Scaleless -  Dark Souls - boss - moonlight_greatsword \n moonlight_greatsword : To cut off a tail it's necessary to deal a certain amount of damage against it. The HP of the tail increases with higher NG cycles and is based on the HP of the respective enemy. Seath's tail has 825 health on Ng and 1,295 on NG+.\nEquipment load under 25% is highly recommended to cut his tail.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.605436022064965,
+    "bm25_score": 18.87045827042707
+  },
+  {
+    "document_id": "4a066c7d-7705-5783-abc8-7a68a52b44f7",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Studying the sorceries and knowledge brought to the Archives by the Crystal Sages, Oceiros would find himself walking the same path as Big Hat Logan, one that led to enlightenment only to be followed by madness. The king, in his deep delusions, believed he had to become a dragon himself in order to produce an heir strong enough to link the Flame. His mad plans would find support from Pontiff Sulyvahn, who began experimenting with transforming humans into pale dragons. Despite the large number of failures and abominations that presented only a faded fragment of the dragons' strength, the experiments were eventually successful and Oceiros managed to transform himself into a scaleless dragon resembling Seath, albeit an imperfect and distorted one, even obtaining the sorcery of Seath's crystal breath.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.6010350668430113,
+    "bm25_score": 20.79911725676054
+  },
+  {
+    "document_id": "6058a25d-f918-5ef3-849f-b79cdaa7d006",
+    "title": "Seath the Scaleless",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Seath the Scaleless -  Dark Souls - boss - trivia \n trivia : Respawning at the prison bonfire is tied to the room and not dying to Seath. This means being killed by Seath while outside the room will not move the player to the prison.\n**Similarly, if Big Hat Logan kills the player in this area they will be moved to the prison.\nIf the player cuts off Seath's tail it may not disappear and will persist after Seath has been killed.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5906373930453368,
+    "bm25_score": 21.74807369694745
+  },
+  {
+    "document_id": "39074c44-e69d-5bbb-b2fc-2bf6c6bbbf7f",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "maidens of Gwynevere, before Seath's experiments transformed them. Although Gwyndolin, as the last remaining deity in Anor Londo, did not punish him for this heinous act, Seath was confined to his Archives, declared a forbidden area and demarcated by a divine magical barrier, so that no one could approach the Archives. Meanwhile his Channelers, steadfast in their service of the Duke, continued their travels, kidnapping subjects for his experiments.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5861188949463163,
+    "bm25_score": 17.68447653122206
+  },
+  {
+    "document_id": "deaa3e18-869a-5f09-beb0-8c9005d62309",
+    "title": "Seath the Scaleless",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Seath the Scaleless -  Dark Souls - boss - description \n description : Seath is a large white dragon that lacks scales and has his lower body covered in crystals. He has a smooth torso that is quite humanoid and in place of legs he has several tentacle-like tendrils. He has six blue-violet wings and has long appendices extending from his head.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.7429289964746453,
+    "bm25_score": null
+  },
+  {
+    "document_id": "28fb3df6-8e67-55c1-9bb7-ee78594f2952",
+    "title": "Dragon",
+    "section": "age_of_ancients",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The tide was turned when Seath the Scaleless betrayed his own kind, and sided with the Lords. For this he was awarded Dukedom, embraced by the royalty, and given a fragment of a great soul. Seath had been born deformed, and lacked the stone scales that gave his brethren their immortality. He is also is considered the grandfather of sorcery.\n\nThe Lords were successful, and claimed dominion of the world.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.7321983806106732,
+    "bm25_score": 19.767640598258147
+  },
+  {
+    "document_id": "09f6afd2-ac69-5585-aebc-478ddac2e910",
+    "title": "Chosen Undead",
+    "section": "the_lord_souls",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "In The Duke's Archives the Chosen Undead confronts Seath the Scaleless, an albino dragon who betrayed the Ancient Dragons and won Lord Gwyn´s trust. During their first encounter, the Chosen Undead is unable to cause any harm to Seath and is captured. Seath imprisons the Chosen Undead inside his prison tower where the player cannot warp out from. Despite the inconveniences, the Chosen Undead eventually escapes.\n\nLater on, the Chosen Undead learns from Big Hat Logan that Seath is immortal due to an ancient artifact known as the Primordial Crystal, an old relic that Seath stole from the Ancient Dragons. The Chosen Undead then departs to the Crystal Cave, where the artifact lies, and shatters it. This annuls Seath's immortality, allowing the Chosen Undead to slay him.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.7283060622600547,
+    "bm25_score": 24.702962762046468
+  },
+  {
+    "document_id": "aff2dcc1-7b1c-5df2-822d-e161259a961b",
+    "title": "Gwyn, Lord of Cinder",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "The tide would turn in the Lords' favor when Seath, a pale dragon born without the scales of his kind, betrayed the dragons to ally with Gwyn, and pillaged their Primordial Crystal. Seath's lack of scales coupled with his vulnerability provided the Lords with a key piece of information: that the scales of his brethren were the source of their immortality. Gwyn thus used his Great Soul to manipulate the light of the sun, transforming rays of sunlight into lightning, a form of energy capable of penetrating dragon scales. Meeting the dragons in battle, Gwyn used his spears of sunlight to peel apart the dragons' scales, while his knights employed lightning-infused weapons to similar effect. The Witch of Izalith and her daughters weaved great firestorms, destroying the archtrees and burning the dragons; while Nito unleashed a miasma of death, rotting the archtrees and infecting the dragons. Gwyn's eldest son would also take part in the war with his father, killing several dragons with his",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.6907104754632616,
+    "bm25_score": 19.561541952506573
+  },
+  {
+    "document_id": "a2729ca4-0b13-57b6-8544-e948bbb151d0",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "At the culmination of his quest, Seath was able to achieve what he had always sought: immortality through the Primordial Crystal. By connecting his body and soul to the powerful crystal, the pale dragon gained insulation from death, so that no mortal blow could affect him and his wounds would close promptly, as long as the crystal was intact. His very breath became a powerful crystal breath that emitted a lethal curse.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6859840980202375,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5f3339c0-f820-5a45-bc83-9d852ac86509",
+    "title": "Dragon",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Crossbreed Priscilla of the Painted World of Ariamis is possibly the result of the interbreeding of Seath and an unknown woman.\n\nSeath the Scaleless, the albino dragon, allied with Lord Gwyn and turned against the Ancient Dragons: for this he was awarded Dukedom and given a fragment of a great soul. It is implied he has some connection to the creation of the Serpent Soldiers and Serpent Mages in his experiments for immortality, though whether they have any true connection to Dragons is unknown.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.6774524551851526,
+    "bm25_score": 24.173538046542035
+  },
+  {
+    "document_id": "3178199e-9947-5bbb-8d86-54f5ae0f95ba",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Another possible daughter of Seath was Crossbreed Priscilla, a half-dragon hybrid whose dragon attributes are reminiscent of him; as she is outright described as a bastard, she would have been conceived out of wedlock. Priscilla was feared by the other gods and treated as an abomination due to her Lifehunt powers and unnatural origin. Eventually she was drawn away into the cold and lonely Painted World of Ariamis, trapped within a great canvas.\n\nSeath seemingly had little interest in politics or pleasure, choosing to immerse himself in research of the scales of immortality that the ancient dragons possessed but he lacked. His Archives became a magnificent pool of tomes and knowledge, the fruits of Seath's superior wisdom and unsound fixation over achieving the immortality that was denied to him at birth.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6743966094342164,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6bffd669-5a11-5506-8f12-8e3a50092b52",
+    "title": "Timeline",
+    "section": "the_war_against_the_dragons",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "----\nSeath The Scaleless betrays his kind and reveals dragon scales give dragons their immortality\nGwyn uses lightning to destroy their scales and make them vulnerable\nNito unleashed a miasma of death and disease, rotting the Archtrees and infecting the dragons\nSeath steals the Primordial Crystal and swears allegiance to the newcomers\nThe majority of dragons and most Archtrees are destroyed, save for lesser dragons and several survivors\nOne such survivor is the Stone Dragon, founder of The Path of the Dragon\nSome Dragons are chosen to serve a purpose under Gwyn's new rule: Midir is raised and trained since its young state to serve as a devourer of dark energy, able to carry its duty at the service of light forever while staying (theoretically) uncorrupted",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.6732976608416061,
+    "bm25_score": 23.544934551071748
+  },
+  {
+    "document_id": "a86300f7-cf28-5613-beb2-4211829d8141",
+    "title": "The Nameless King",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "inside the walls of Anor Londo. Furthermore, in the city of the gods Seath the Scaleless had now completely lost his mind, transforming his Archives into a prison and going so far as to kidnap the maidens of Gwynevere to carry out experiments on them.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.6520044818391295,
+    "bm25_score": 19.531687591597343
+  },
+  {
+    "document_id": "36fe3603-acc9-5c57-8c25-ba7c42e9bee2",
+    "title": "Dragon",
+    "section": "everlasting_ancient_archdragons",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Dragon -  Dark Souls III - character - everlasting_ancient_archdragons \n everlasting_ancient_archdragons : Seath the Scaleless\nAncient Wyvern\nBlack Dragon Kalameet\nSinh, the Slumbering Dragon\nStone Dragon",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.6277739436856098,
+    "bm25_score": 31.199816943594104
+  },
+  {
+    "document_id": "888f3cd2-6eff-5186-a53b-42d230a14836",
+    "title": "Seath the Scaleless",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Seath the Scaleless -  Dark Souls - boss - lead \n lead : , also known as **Duke Seath**, is a boss in *Dark Souls*. He is also a mentioned character in *Dark Souls II*, albeit only as the \"**Paledrake**\", and a mentioned character in *Dark Souls III*.\n\nOne of four great beings who must be slain in *Dark Souls* so that their special souls may satiate the Lordvessel, he uniquely has two distinct boss battles, each with a different location and moveset. In another unique occurence, the first one atop The Duke's Archives must result in the player's death for the game to progress, while he can actually be defeated in his true boss battle at the end of the Crystal Cave.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6268947340653366,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3f17b1be-a307-5fa8-a998-9f7e96b58f43",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "infestation with satisfaction. The spider haunted by Seath thus returned to the depths of the mines next to the petrified body of the ancient dragon and began to accumulate the souls gathered in the lands of Tseldora, absorbing them from people until they grew immensely. Though Freja was ultimately slain, Tark was doubtful it would be the end of Seath.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6247406700622113,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b1296deb-8a22-540f-bc9a-77ce1ae305fb",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "The pale dragon's experiments were successful in animating Crystal Golems with souls and infusing Undead Soldiers with crystals. To adequately supply his research, the cave that housed his Primordial Crystal was gradually crowded with crystals, nearly overtaking the Archive's inner gardens. Seath also created the soul of the Moonlight Butterflies, mystical creatures that emitted crystallic power and Seath's moonlight as sorceries. Seath also managed to crystallize his own magical power of moonlight, creating a Greatsword that catalyzed it.\n\nAs a nobleman on par with the gods, Seath also had personal servants. His Channelers, trained sorcerers that became his eyes, hands, and feet, would reach and see what the dragon could not, and helped him in his research. The Channelers wore outfits representing Seath, with the six eyes on their helms meant to \"compensate for Seath's lack of sight\"; the nature of his lack of sight, and when he became impaired, are unknown.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.616424156469294,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9d2d3908-d1c2-5cc9-967f-39870fb3cb1a",
+    "title": "Souls of Lords",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Soul of one of the Four Kings, who fell to the Dark. A fragment of a Lord Soul discovered at the dawn of the Age of Fire.\n\nLord Gwyn recognized the foresight of these four great leaders of New Londo, and granted them their ranks and the fragments of a great soul. Although this is not a full Lord Soul, it can still satiate the Lordvessel.\n\nSoul of the albino dragon, Seath the Scaleless. A fragment of a Lord Soul discovered at the dawn of the Age of Fire.\n\nSeath allied with Lord Gwyn and turned upon the dragons; for this he was awarded Dukedom embraced by the royalty, and given a fragment of a great soul. Although just a piece, it will still satiate the Lordvessel.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.6143377829258254,
+    "bm25_score": 19.84760641914035
+  },
+  {
+    "document_id": "fa6fec6a-ad0b-5966-87c4-42a8127d5591",
+    "title": "Soul of a Great Hero",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Soul of a Great Hero -  Dark Souls - item - availability \n availability : One can be found where the player initially encounters Seath the Scaleless, on a platform above the grotto where Seath used to be.\nOne can be found in Lost Izalith, in the lava area.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.6137977593055728,
+    "bm25_score": 21.312469789555152
+  },
+  {
+    "document_id": "fb2e0a23-47f2-5255-a9fb-43168be12fed",
+    "title": "White Dragon Breath",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "White Dragon Breath -  Dark Souls - spell - description \n description : Sorcery developed by Logan during his infatuation with Seath the Scaleless. Emit crystal breath of Seath the Scaleless.\n\nAlthough it no longer causes curses, what madness caused old Big Hat to appropriate this frightful power of the ancient dragons?",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.6115558579165492,
+    "bm25_score": 27.519390228296885
+  },
+  {
+    "document_id": "673b1d07-1a31-5397-9c89-b37ba0662dd9",
+    "title": "Dragon",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Oceiros, the Consumed King, was formerly the King of Lothric, later becoming obsessed with Seath the Scaleless' work and seeking to become more powerful using his royal blood. With the aid of the scholars of the Grand Archives, he discovered the research made by Logan, who himself was inspired by Seath. Much like Logan, Oceiros was driven insane by the work of the paledrake and somehow transformed into a malformed abomination, somewhat reminiscent of Seath. He has survived many assassination attempts, which he claims is due to the divine protection of the dragon scale.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.608803805493135,
+    "bm25_score": 19.654626226405
+  },
+  {
+    "document_id": "ec173725-0c53-5d4a-ab32-13aca5d1a1ca",
+    "title": "Lords",
+    "section": "dragon_war",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Lords -  Dark Souls II - character - dragon_war \n dragon_war : With the strength given to them by the Lord Souls, the three waged a war on the Everlasting Dragons. They were joined by Seath, a scaleless albino dragon that pillaged the Primordial Crystal from them as well and turned on his own kind.\n\nTo combat the dragons, Gwyn released grand bolts of light so powerful that they stripped the dragons of their stone scales. With her daughters, the Witch wove firestorms that incinerated the land. Once this was done, Nito arrived for the killing blow by releasing the miasma of death upon the dragons. Soon the dragons were defeated - but not gone - and the Age of Fire began.\nEven after the war, Gwyn was known to have sporting hunts of those descended from the dragons.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.6035046591210221,
+    "bm25_score": 26.13627568271452
+  },
+  {
+    "document_id": "a8f831e8-4e17-57cb-97e4-8ff7d96cd7e6",
+    "title": "Gods",
+    "section": "relations_of_the_gods_of_anor_londo",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Havel the Rock, a battlefield compatriot of Gwyn who fought at his side against the Everlasting Dragons and inspired many warriors who wore similar equipment. He is referred to as a \"bishop\" , and is clearly part of the faith of the Way of White, as there were even \"priests of Havel\" and miracles recalling his tales, although whether he was actually deified, or part of Gwyn's species, is unclear.\nSeath, an Everlasting Dragon who sided with Gwyn against his own species. After the war, he was granted Dukedom, married a woman in Gwyn's family, and came to be regarded as the Godfather of sorcery, although he was seemingly not deified.\nMany Silver Knights since the Age of Ancients served Lord Gwyn and the other Old Gods of Anor Londo, well into the events of *Dark Souls III*. Their origins and species are never clearly explained.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5998813404552505,
+    "bm25_score": 18.610369778912936
+  },
+  {
+    "document_id": "9f5baaa0-38b2-50da-96c9-8a956bec1ab9",
+    "title": "Moonlight Greatsword (Dark Souls)",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Moonlight Greatsword (Dark Souls) -  Dark Souls - weapon - description \n description : This sword, one of the rare dragon weapons, came from the tail of Seath the Scaleless, the pale white dragon who betrayed his own.\n\nSeath is the grandfather of sorcery, and this sword is imbued with his magic, which shall be unleashed as a wave of moonlight.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5953023983828948,
+    "bm25_score": 20.328424076856273
+  },
+  {
+    "document_id": "424715dd-839a-5af7-8a2e-ea1bdc7f960e",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Following the death of their creator, multiple moon butterflies survived over the centuries, migrating to Drangleic and mutating into lesser Great Moths and developing poisoning abilities. They remained rare and mysterious creatures that appeared only on full-moon nights in winter, and whose larvae were never once spotted. Other creations of Seath that reached Drangleic included Manscorpion Tark and Scorpioness Najka: Two of Seath's many experiments on humans, the pale dragon's crossbreeding experiments had seemingly cursed their souls into being together. The two were well aware of being the product of Seath's madness and his obsessive attempt to achieve immortality.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.594326311027967,
+    "bm25_score": null
+  },
+  {
+    "document_id": "24b85f9b-900c-56d5-af9d-e3acc28dd710",
+    "title": "Seath the Scaleless",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "The ghostly hands that emerge from the tomes in the Grand Archives in *Dark Souls III* closely resemble those of Seath; not only visually, but also functionally, as they cause curse build-up in those who come too close, similar to Seath's Curse Beam attacks.\nSeath's character is an homage to the dragon god of the same name in FromSoftware's King's Field series for the original Playstation. The Souls series is often referred to as the spiritual successor to King's Field.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5929346554762008,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cdf69c5a-3c7c-5e8f-8864-c5d736d6795f",
+    "title": "Seath the Scaleless",
+    "section": "moonlight_greatsword",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Equipment load under 25% is highly recommended to cut his tail.\nLure Seath as close as possible to the crystal. It is ideal to kite Seath close to one of the walls, so that when he attacks with his breath, you have plenty of room to move around his other side. Once Seath is close enough to you he will pause and begin his breath attack; immediately run behind Seath. Run to his left side (your right), as he breathes his crystal breath from his right to his left. Seath will destroy the crystal with his own breath attack and be stunned temporarily. Without locking on to him, target the tip of his back (middle) tail and attack it while two-handing your highest damage weapon or using fast strong spells.\nUse weapons that have vertical slash when two-handed: katanas, straightswords, greatswords, ultra greatswords, etc. Slash the tip once or twice, then run away. Provoke him to attack with his crystal breath, run to his tail, slash once or twice again, then repeat.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5925251002434373,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b46a25a4-454c-5f24-8231-136afc2f7e3f",
+    "title": "Ocelotte",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "In his later years, now consumed by his continuous failures, Oceiros became fascinated by dragons and began to slide into madness, eventually turning to the cursed knowledge of the Grand Archives where he founded the heretical faith in the white dragon Seath. Continuing to study the sorceries and knowledge contained in the Archives and brought by the Crystal Sages to Lothric, Oceiros found himself walking the same path as Big Hat Logan, reaching the same level of \"enlightenment\" as him and then going completely mad. The king, in his deep delusions, believed he had to become a dragon himself in order to produce an heir strong enough to link the Flame. Oceiros eventually managed to transform himself into a scaleless dragon form, albeit an imperfect and distorted one, even obtaining the sorcery of Seath's crystal breath",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5914357697838338,
+    "bm25_score": 19.01102831658777
+  },
+  {
+    "document_id": "aa6e6909-7acc-53d3-a6fb-4a1620a15e3c",
+    "title": "Seath the Scaleless",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Being the grandfather of Sorcery, Seath is extremely resistant to Magic damage, so it would be wise to try to use a different element when combating him.\n\nWhen trying to obtain the Moonlight Greatsword it is best to attack the tip of the tail, as the area around midway through the tail is considered his body. Thus dealing damage to this area will not help in acquiring the Moonlight Greatsword.\n\nA good strategy for acquiring it is when Seath himself breaks the Primordial Crystal. Wait behind the crystal until Seath starts to rear up his head for any of the Curse Beam attacks. Just before he fires it, start sprinting left or right around the sides and towards his tail. Seath will break the crystal and stun himself, giving the player ample opportunity to attack his tail three to four times. Make sure Seath's tail isn't clipping in the wall before trying.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5789763741479674,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2f9c2ac6-8f4c-5fa3-a111-d719a6ed81f9",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Seath eventually sired a humanoid hybrid daughter, Shira. Although the mother is never stated explicitly, Shira is both \"one whose veins coarse with royal blood\", and a \"descendant of Gods\", making her likely mother Seath's spouse who was a relative of Gwyn.\n Shira became the sworn knight and personal handmaiden to Princess Filianore, Gwyn's last daughter, and the two, together with the dragon Darkeater Midir, would be forever sent away to the Ringed City, the hidden city Gwyn gifted to the humans who helped him end the Age of Ancients, so that the three would keep the Dark within at bay. Shira would remain in the Ringed City for the rest of her life, dutifully guarding Filianore over countless ages, although she would always take pride in being Seath's daughter.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5789711835914213,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ae6bf3ae-74d2-555a-844d-e38b138b4cf9",
+    "title": "Big Hat Logan",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Big Hat Logan soon leaves Firelink Shrine after the Lordvessel has been obtained. He is then jailed in The Duke's Archives. Logan explains that he is there to study Seath the Scaleless and his magic. After freeing him with the Archive Tower Giant Cell Key, players can find Logan in an ancillary library close to the third bonfire in The Duke's Archives, where he sells Crystal Sorceries as well as his prior spells. Alternatively, if not freed by you by Seath's defeat, he will free himself and move to the library.\n\nUnfortunately, Logan's infatuation with Seath's magic eventually drives him insane after Seath has been defeated and his entire stock of spells has been purchased. Speaking with him again, after the above conditions are met, will cause him to move to the large chamber where Seath the Scaleless was first encountered and become hostile.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5768390805189996,
+    "bm25_score": 20.092359901019755
+  },
+  {
+    "document_id": "a3a3ab6a-0e89-54f4-bc54-0ad75c206c60",
+    "title": "Stone Dragon",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Stone Dragon -  Dark Souls - character - trivia \n trivia : Cut flying animations show that the Stone Dragon has legs and not a mass of tentacle-like appendages, unlike Seath the Scaleless.\nAccording to an interview with Miyazaki, the Stone Dragon does not feel pain when its tail is cut off. The ancient dragons are half-living, half-element, and do not feel pain. The dragon depicted in the opening cutscene pre-dates the emergence of life in the world.\nThe Stone Dragon may be a Fire Keeper, considering that the nearby bonfire starts out lit and kindled.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.576205100580217,
+    "bm25_score": 19.72688621362326
+  },
+  {
+    "document_id": "4b85a25a-517e-5aa3-b6ed-a0c4ab28d11f",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "At some point after Gwyn linked the First Flame and Gwyn's firstborn son was dethroned and exiled, nearly all of the other deities abandoned Anor Londo and moved to an unknown location. Seath remained in his Archives, now completely estranged from the world and obsessed with his research.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5723776885486265,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8cf3191a-0407-50da-ba88-40daae2287c8",
+    "title": "Black Dragon Shield",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "shield",
+    "snippet": "Black Dragon Shield -  Dark Souls II - shield - notes \n notes : The item's description refers to both Seath the Scaleless and Black Dragon Kalameet.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.571285857648514,
+    "bm25_score": 21.261188290369823
+  },
+  {
+    "document_id": "f9e0e538-bd96-5412-9c73-24a9e2d71e8a",
+    "title": "Dragon",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "reptilian features, the Everlasting Dragons' body was a lot less bestial than that of their descendants and kin: their arms didn't end in claws but in four-digited prehensile hands while their torso, broader at the shoulders and thinner at the hips, was almost humanoid in appearance.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5703815696390908,
+    "bm25_score": 18.30058526794034
+  },
+  {
+    "document_id": "40cc3953-6953-536b-b0b1-6be5284ed04d",
+    "title": "Lore",
+    "section": "the_war_of_fire",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Lore -  Dark Souls - storyline - the_war_of_fire \n the_war_of_fire : With their new found power the Lords challenged the dominion of the Everlasting Dragons over the World. The Lords allied with one of the dragons, Seath the Scaleless, who sought the immortal scales of the dragons and thus betrayed his own kind. A very long and destructive war was begun by the Lords and their amassed armies. Gwyn used his powerful bolts to peel their stone scales, while the Witch of Izalith and her Daughters of Chaos wove great firestorms against them and finally the Gravelord Nito unleashed a miasma of death upon the dragons. The war was won by the Lords and the dragons were defeated. A golden Age of Fire begun as the World rebuilt under the new rule of the now as deities perceived Lords.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5654209065272207,
+    "bm25_score": 25.579336311573037
+  },
+  {
+    "document_id": "f00ff11e-ea4f-51a4-8282-6939e524ba4b",
+    "title": "Dragon",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "description : The Dragons have a few different names throughout the series; **Everlasting Dragons**, **Ancient Dragons**, **Archdragons**, or simply **Dragons**. From what can be glimpsed in the opening, the Everlasting Dragons were towering beings with a skin covered both by stone scales and bristly dark fur. Their head sported two straight horns and a mouth bearing two rows of sharp teeth on both jaws. Their back ended in a long and heavy tail but they were still able to fly thanks to their wings (which often came in two pairs), leathery and clawed like those of a bat. Appropriately for creatures that lived in a world of fog and penumbra, their two eyes had vertical slotted pupils (this kind of eye is the symbol of both the Path of the Dragon and the Dragon Remnants). Aside from these reptilian features, the Everlasting Dragons' body was a lot less bestial than that of their descendants and kin: their arms didn't end in claws but in four-digited prehensile hands while their torso,",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5648623453190791,
+    "bm25_score": 20.69332344058424
+  },
+  {
+    "document_id": "61d3a085-3bbd-5a65-90f1-395e87c1e9a6",
+    "title": "Seath the Scaleless",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "It should be noted that Seath takes extra damage if hit in his belly. As an example, when hit with standard 1H fast attack Man-serpent Greatsword +15 in of his tentacles at STR 40, Seath takes 226 damage. And if hit in his belly by the same attack, he will take about 450 damage. If the character is tanky enough and has enough Curse resistance, he can stay right at Seath's belly and hit him without pausing until Seath dies, using his Estus Flask only one or two times.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.564511221477282,
+    "bm25_score": null
+  },
+  {
+    "document_id": "67cb5011-94a9-5247-b60a-feb7aeb40a88",
+    "title": "Old Paledrake Soul",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Old Paledrake Soul -  Dark Souls II - item - trivia \n trivia : This soul is likely a reference to Seath the Scaleless from *Dark Souls*.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5588674648414474,
+    "bm25_score": 19.844275393694847
+  },
+  {
+    "document_id": "5fc0e07d-b6a2-506c-8194-117220068601",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "However, the knowledge within the tomes, said to \"[all too easily] wash away its inquirers' anchors of reason\", posed a threat to the sanity of the scholars. The profound research into the nature of the soul that once drove Logan into madness was likely contained within the Archives. The \"foulness\" that permeated the books manifested physically as well, in the form of ghostly and pale limbs that attacked and cursed those who came too close.\n\nIn the final years of Lothric's kingdom, King Oceiros, frustrated by continuous failures to find a worthy Champion, turned to the cursed knowledge of the Grand Archives. Here he found the twisted worship of Seath, developing a fascination for the Pale Dragon and the secrets of his moonlight. His newfound devotion was testified by his dragonscale ring, which he claimed protected him from his enemies, and his army's usage of shields decorated with a white dragon.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5586897254287286,
+    "bm25_score": null
+  },
+  {
+    "document_id": "314bdf72-bfb6-525d-8744-457b53dcb374",
+    "title": "Shira, Knight of Filianore",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Shira, Knight of Filianore -  Dark Souls III - character - theories \n theories : It is incredibly likely that the Duke mentioned by Shira is none other than Seath the Scaleless himself. For one, he is the only prominent duke who is ever mentioned as part of the age of the gods, which would explain why Shira speaks of her parentage to a duke as if it were self-explanatory. Another clue may come from the pearl lodged in her crown, which was harvested from the Man Eater Clams. These creatures were found nesting in the Crystal Cave, part of Seath's domain, as well as the primordial Ash Lake, a place tied to the dragons.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5556095201389197,
+    "bm25_score": 20.339545796700794
+  },
+  {
+    "document_id": "e20cd554-84a8-5939-b27a-5cbb68f6dfd7",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Although the white dragon achieved his prized immortality, the arduous process had consumed him. The loneliness within him, the bane of his existence since his conception as a malformed dragon, was only fueled by the countless hours wiled away in solitude seeking his \"cure\"; the void within him was tragically left unfulfilled. The power and status he had since attained remained hollow, against the envy and resentment he harbored first towards his brethren, and then the world at large. His experiments grew more and more twisted as the inescapable reality of his condition drove him insane. The Archives were soon reduced to a prison housing the abominations of Seath such as the Serpent-men, unwitting jailers of volumes of scientific works, and the Pisaca, serpentine women who were once holy maidens of Gwynevere, before Seath's experiments transformed them. Although Gwyndolin, as the last remaining deity in Anor Londo, did not punish him for this heinous act, Seath was confined to his",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5551291333226474,
+    "bm25_score": null
+  },
+  {
+    "document_id": "54da1a16-ca10-52f9-b1e0-bbab8b9bee57",
+    "title": "Waistcloth of the Channelers",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Waistcloth of the Channelers -  Dark Souls - armor - description \n description : Waistcloth of the Channelers, sorcerers that serve Seath the Scaleless. Even after the onset of Seath's madness, the \"snatchers\" as they were often called, ventured to far lands to find suitable human specimens.\n\nThe heaviest of protective gear for sorcerers, and imbued with magic.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5544199986621592,
+    "bm25_score": 20.846261628705495
+  },
+  {
+    "document_id": "fd299f20-a1ed-5c5e-9a7f-27d8f928290e",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "When a Chosen Undead was able to ring the Bells of Awakening, overcome the challenges of Sen's Fortress and reach Anor Londo thus being rewarded with the Lordvessel, they would be guided by Kingseeker Frampt to find immense souls to fill the receptacle, and link the fading First Flame to succeed Gwyn in his sacrifice. The Chosen Undead would reach the Duke's Archives, where they were initially defeated and imprisoned by the immortal dragon. Managing to escape, the Chosen Undead would cross the dangerous Archives and reach the Crystal Cave where the Primordial Crystal was kept, source of the pale dragon's invulnerability. Seath would soon arrive at the cave to defend his crystal, but following the crystal's destruction would be slain by the Chosen Undead, who gained possession of Seath's fragment of the Lord Soul.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5535258951928306,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5a47a587-e9b4-5ec4-85fa-5fe5f38feb6a",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Seath's research focused on souls, seeking ways to manipulate them and draw out the power within, mainly through sorcery. Seath, in possession of the Primordial Crystal, noticed the peculiar connection between crystals and souls, and the way in which this element could be used to best catalyze their power, as crystals represented an ideal medium to create a bond between souls and objects. Seath would thus pioneer the Crystal Sorceries, a powerful branch of sorcery. The revelation was the beginning of Seath's obsession with crystals, which became the focus of much of his experiments. He managed to create a Crystal Ember capable of infusing weapons with the power of the crystals and passed this knowledge on to the Giant Blacksmith of the gods.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5490037539044959,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ddcbc93b-b654-58c1-ad00-501fc5dc617a",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "The Duke of Tseldora, continuing to mine the brightstone, discovered the stone body of the archdragon, as well as the spider possessed by Seath's soul. He eventually built his hidden chamber among the ruins deep within the mines, amassing a large library and conducting research on sorcery. Since he was an oddball who loved and was fascinated by spiders, the Duke eventually found the one possessed by Seath and decided to take it in as his pet, naming it \"Freja\" and locking it in a cage in the library where he led his studies. \"Freja\" eventually escaped from her cage and the numerous Parasite Spiders of its lair began to swarm the town of Tseldora, overrunning it and taking control of the bodies of their inhabitants as their hosts, while the Duke, driven mad, simply remained to gaze at their infestation with satisfaction. The spider haunted by Seath thus returned to the depths of the mines next to the petrified body of the ancient dragon and began to accumulate the souls gathered in the",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5474664830371574,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5f0e5ce8-7134-5e2e-93c1-8b12305efef1",
+    "title": "Seath the Scaleless",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "His only long range specific attack is the far curse beam. That means if players stay at a distance, one can lure him to fire the beam and charge his defenseless body.\n\nCrystal curse explosion triggers when the player cannot be reached by any of Seath's other attacks; usually when situated behind Seath with the tails just out of reach. One strategy is to begin sprinting a good distance away from him once he arches forward to charge a ball of magic. A second approach would be to develop a high enough curse resistance and block some of the erupting crystals. Immediately heal the damage received before he executes his tail swipes/slams.\n\nBeing the grandfather of Sorcery, Seath is extremely resistant to Magic damage, so it would be wise to try to use a different element when combating him.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5452673474594869,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6ba30893-299b-5274-9405-8c9172faf51f",
+    "title": "Hydra",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Hydra -  Dark Souls - enemy - trivia \n trivia : Since they drop Dragon Scales when defeated, the Hydras could possibly be descendants of the Everlasting Dragons.\nIn Greek mythology, the Hydra was a serpent-like, multi-headed water beast. Various accounts of the creature claim that for each head that was severed, one to multiple more would sprout in its place.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5449743681018808,
+    "bm25_score": 17.74449765919403
+  },
+  {
+    "document_id": "5325a4d5-74f4-5940-a452-0576e6fa0eed",
+    "title": "Dragon",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Hydras, given their reptilian appearance, breath attacks, and dropping Dragon Scales upon death, are implied to also be descendants of the ancient dragons.\n\nThe area boss of the Depths is the Gaping Dragon, a distant, warped descendant of the Everlasting Dragons.\n\nIn Ash Lake, the Stone Dragon, a descendant of the ancient dragons, initiates the player into the Path of the Dragon Covenant. Domhnall of Zena shares a rumor that the Stone Dragon is not a descendant and is instead, a surviving Ancient Dragon.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.538670267688614,
+    "bm25_score": 20.161887347635023
+  },
+  {
+    "document_id": "9fd54928-3724-550a-9bd4-82d5b70b3f56",
+    "title": "Seath the Scaleless",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Upon encountering him again within the Crystal Cave, he will be fought within an arena that contains the Primordial Crystal. In order to defeat Seath, it is necessary to destroy the Primordial Crystal so that any damage dealt to him is not immediately healed. The crystal will respawn if the player dies or leaves the fight, making it necessary to destroy it in each attempt to defeat Seath.\n\nStaying at his side makes it easier to stay out of the area-of-effect of his breath attacks, and he won't be able to hit with his claws or tail as easily. [https://www.youtube.com/watch?v=DI022PgUq38%7CVideo Video]\n\nIt is also possible to use only a bow against Seath with great success. Get a good distance away from him and it is possible to get 4-5 shots in before he gets too close. The only real danger in this strategy is when running past Seath to gain some distance.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5363820299177962,
+    "bm25_score": null
+  },
+  {
+    "document_id": "aba06a89-7d44-5f7e-a87b-7977003f0264",
+    "title": "Lothric",
+    "section": "royal_madness",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Continuing to study the sorceries and knowledge contained in the Archives and brought by the Crystal Sages to Lothric, Oceiros found himself walking the same path as Big Hat Logan, one that led to enlightenment only to be followed by madness. The deluded king believed he had to become a dragon himself in order to produce an heir strong enough to link the Flame. Eventually he managed to transform himself into a scaleless dragon, albeit an imperfect and distorted one, even obtaining the sorcery of Seath's crystal breath. His desire for transcendence satiated, Oceiros once again fathered a child with Gwynevere, believing that a descendant of dragons would make a worthy Champion. Once he secured his child Ocelotte, Oceiros retreated with his royal guard to the royal gardens, completely ignoring the state of his kingdom to protect the \"child of dragons\", the culmination of his desires and the only thing left in his life. Despite his efforts, the king was not even able to see Ocelotte,",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.536103330287971,
+    "bm25_score": 17.458540452893878
+  },
+  {
+    "document_id": "7797e619-4cf9-5bbe-b888-4baed141f7d9",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "At some point the Crystal Sages reached Lothric and became the spiritual guides of the scholars of the Grand Archives. The Crystal Sages introduced to Lothric not only crystal gems but also the heretical belief in the pale dragon Seath and his mad knowledge. The sages would thus continue to work on their research within the Grand Archives, even taking Daughter of Crystal Kriemhild as their pupil, and crafting weapons and casting tools that used the power of crystals to enhance their magical power, representing how the fruits of the lifetime of research had advanced to an impressive level and still followed the works of the pale dragon. The Grand Archives would grow into an enormous structure housing volumes of research on Seath's crystal sorceries.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5345307084853277,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f087a6bb-ad33-5516-b39e-05e7fb06731d",
+    "title": "Channeler",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Channeler -  Dark Souls - enemy - lore \n lore : \"Snatchers\", as they were often called, are servants of Seath the Scaleless. They traveled far in search of suitable human specimens for Seath's experiments. The design on their helms allows Seath to supervise from afar.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5328951959420758,
+    "bm25_score": 21.168412194207896
+  },
+  {
+    "document_id": "9a81a5d7-1cec-5f08-bd71-77903309ef5f",
+    "title": "The Duke's Archives",
+    "section": "boss",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Duke's Archives -  Dark Souls - location - boss \n boss : Seath the Scaleless",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.70945471876193
+  },
+  {
+    "document_id": "b1e6a66c-91fe-52fe-991b-966b77c13922",
+    "title": "The Duke's Archives",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Duke's Archives -  Dark Souls - location - lore \n lore : The library is home to Seath the Scaleless, and was granted to Seath by Gwyn, along with a Bequeathed Lord Soul Shard, as a reward for aiding in the birth of the Age of Fire.\n\nIt is here that Seath delves into his experiments and studies. The Six-Eyed Channelers found here are servants of Seath, seeking and kidnapping inhabitants of Lordran for his research. The Pisaca are among the results of these experiments.\n\nArchive Tower was turned to a prison; once it had a casual role of storing books. Cell below, now inhabited by Pisacas, once held countless maidens. Currently it is empty, apart from few key persons. Prison guardians are serpent men.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.27688929595523
+  },
+  {
+    "document_id": "9104f5a5-2d97-5756-a00d-c43afe298713",
+    "title": "Dragon",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "According to interviews with Miyazaki, the Ancient Dragons are half-living, half-element, and do not feel pain due to them being \"beyond human understanding\". They are mineral-based lifeforms existing since before humanity's emergence, yet the very emergence of life was capable of corrupting them and causing them to be warped by emotions and desires, to the point where their very bodies adapt and retrogress in pursuit of their survival, such as the Gaping Dragon being warped by greed and the desire to eat.\n\nSeath and the Stone Dragon prove that these beings were capable of higher reasoning and could understand other species' language to at least some degree, via their known contributions to the world (the former, Seath, being the founder of soul sorcery, along with creating the techniques of forging weapons from powerful souls according to Weaponsmith Ornifex).\n\nIt is common for the tails of Dragons to be cut off and used in the forging of powerful weapons.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6460280443655619,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7cdac1ce-a6ca-56cf-a8a2-604a8134c121",
+    "title": "Lords",
+    "section": "aftermath",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Lords -  Dark Souls II - character - aftermath \n aftermath : Seath was driven to madness as a result of his experiments and accrued knowledge. His attendants would kidnap humans from across the land to be experimented on and even the maidens of Gwynevere. Eventually he discovered a kind of immortality, being invincible so long as the crystal remained. Through the knowledge accumulated by Seath, the human sorcerer Logan would be able to craft new spells and further augment his own spells, though he too would be driven mad much like Seath was.\n\nAt some point the Gwyn's firstborn betrayed the gods and allied with the descendants of the dragons, and his name was stripped from him, being removed from all recorded history such as annals and statues.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.610942478400434,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9140c4f0-4332-5b9a-91af-65ab52d98f4b",
+    "title": "Dragon Scale",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Dragon Scale -  Dark Souls - item - general_information \n general_information : Dragon Scales can be used to reinforce Dragon weapons and increase one's rank in the Path of the Dragon covenant.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6011984802726686,
+    "bm25_score": null
+  },
+  {
+    "document_id": "edee40fe-d81a-516a-9cc1-246f5a8fa85b",
+    "title": "Old Ones",
+    "section": "the_duke_s_dear_freja_seath",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "The Writhing Ruin is described as an ancient entity whose influence in Brightstone Cove Tseldora made the inhabitants be consumed in the search for “that which they lacked”. Furthermore, Manscorpion Tark, who congratulates the player for “defeating his master” after Freja is killed (referring to the Writhing Ruin possesing her) describes his master as a being “born with a fatal flaw, hateful of those that had what he lacked, creator of strange creatures and eroded by solitude and madness\". This is a perfect definition of Seath the Scaleless search for immortality. Other correlations are Scorpioness Najka, who has the same creator of Tark, being able to use sorceries, the same crystal theme aesthetic both the Writhing Ruin and Seath have and that the word “Writhing” means a squirming cortorcion similar to the movements of tentacles.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5994703461995834,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d72ad9cb-ae75-51ea-a4b9-2f9fca8945e7",
+    "title": "Dragon",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The Dragons' iconic characteristic, their stone scales that gave them immortality, was implied to have a strong connection with their own form to the point where Dragons and their scales were considered \"inseparable\", though the exact truth of this is undetermined. However, their transcendent apostles, who seek the perpetuity of the ancient dragons, have crossed the very ends of the earth to find them and offer them up to rise above their petty corporeal existence and become Dragons. Touching a Ancient Dragon Scale is said to give a person a glimpse into the abyss.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5968735509791867,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2576ba39-b25c-537c-9460-b196d6bba9f9",
+    "title": "Old Ones",
+    "section": "the_duke_s_dear_freja_seath",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "However, Tark elaborates that his master never dies, only changes form over time and Sweet Shalquoir recalls “that awful traitor long ago who coveted what he did not have …The Writhing Ruin keeps searching as we speak”, this all heavily implies that the Writhing Ruin actually is Seath himself.\n\nThe Duke's Dear Freja, from NG+ onward, drops the Old Paledrake Soul.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5940081982612693,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b33f9f90-5391-5f6c-9e35-4c902f32bf52",
+    "title": "Man Serpent (Lore)",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ultimately, they might simply be the result of various experiments related to dragons or the Man Serpents, either conducted by Seath himself, who wasn't unfamiliar with merging two different beings together to further his research as evidenced by the existence of Manscorpion Tark and Scorpioness Najka, or by the Bastille Lord himself, their former master.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5926865283498945,
+    "bm25_score": null
+  },
+  {
+    "document_id": "118af2d4-db32-5c59-8c71-dd5fa2841fb6",
+    "title": "Lothric",
+    "section": "royal_madness",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "In his later years, dismayed by failures to find a worthy Champion, Oceiros developed a fascination for dragons that sent him into his descent into madness, eventually turning to the cursed knowledge of the Grand Archives. Here Oceiros found the heretical worship of the white dragon Seath, becoming deeply engrossed in it to the point where he wore a dragonscale ring and had his army use shields decorated with a \"white dragon\", while giving his royal guard magic rings that enhanced sorcery. By now lost in his madness, Oceiros became known as the \"Consumed King\"; many assassins were sent to kill him to remove him from power, but he managed to ward off the threat, attributing his salvation to the divine protection of the dragon scale.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.590819532756844,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f09797e2-9348-5139-83a9-73338a7b04ab",
+    "title": "Dragon Scale",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Dragon Scale -  Dark Souls - item - description \n description : Dragon scale for reinforcing dragon weapons. Peeled from an ancient dragon.\n\nA dragon is inseparable from its scales, and the transcendent apostles, who seek the perpetuity of the ancient dragons, have crossed the very end of the earth to seek this invaluable treasure.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5821112958952539,
+    "bm25_score": null
+  },
+  {
+    "document_id": "625509d5-5e52-5375-828f-25842cbd26bf",
+    "title": "Lore",
+    "section": "the_age_of_fire",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Soon after, the deities began leaving Lordran. Gwyndolin was the only one of Gwyn's children to stay behind...\n\nSeath, who became obsessed with his research and experiments, amassed countless tomes and was eventually driven mad - at least, how normal people see it - by his research, becoming the founder of sorcery.\n\nAt least a thousand years pass and the events of \"Dark Souls\" begin to unfold...",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5808643572232255,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0663ddf6-a7c3-5e20-8a89-0410e2bc1942",
+    "title": "Primordial Serpents",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Kaathe resides in the darkness of the Abyss, but seems to be more involved in the affairs of Lordran than Frampt. Kaathe gave the Four Kings the art of lifedrain and consequently founded the Darkwraith covenant. He also seems to have tricked the residents of Oolacile into uncovering the corpse of Manus, driving him mad in the process. This sparked the spread of the Abyss, transforming the townsfolk into monstrous beings whose humanity has run wild, akin to Manus.\n\nIn the ending of Dark Lord, ten additional primordial serpents are seen, whose names are unknown. They appear to want to serve the newly-appointed Dark Lord, and possibly usher in the Age of Dark. An interesting note in this ending is that Kaathe states that both himself and Frampt will serve the Chosen Undead, disregarding any actions the player has taken before reaching this point, like placing the Lordvessel with Frampt instead of Kaathe, which would make the latter refuse to cooperate with the player, and vice-versa.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5797874650065646,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ba021cb1-3732-52a3-a22f-6682798d8cf7",
+    "title": "Pontiff Sulyvahn",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "It is possible to theorize that the transformation of Oceiros into a deformed pale dragon was a project carried out with the collaboration of Sulyvahn. In fact, although the partial transformation into a dragon is a technique already mastered by the cult of the Path of the Dragon, it is a long process that requires particular practices, but which does not offer the certainty of transforming into the particular dragon that Oceiros aspired to, namely Seath. In the dungeons of Irithyll it is possible to find abominations with a very similar appearance to the draconic form of Oceiros, the result of failed experiments to transform human beings into ancient dragons, but with no scales and a pale complexion. The Pale Pine Resin made from their bodies possesses magical power and can also be found within Lothric Castle.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5733388992029305,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3a0f2b52-72b4-5831-8cce-12e905b51012",
+    "title": "White Dragon Breath (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "White Dragon Breath (Dark Souls III) -  Dark Souls III - spell - description \n description : Sorcery of the deluded Consumed King Oceiros.\n\nEmits crystal breath of Seath the Scaleless.\nCrystal breath has piercing qualities.\n\nSeath's research seemed to strike a chord with old Big Hat who, in his mad, disrobed state, made divine works such as this, his own. Oceiros was no doubt edified by this.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.571452229083929,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f51ad2fc-861a-5d8f-a06e-9bcdb197017b",
+    "title": "Man Serpent (Lore)",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Their connection to Olaphis might be relevant to this mystery, as there's evidence of the kingdom's activity in the land that would become known as Tseldora, due to their use of brightstone in the creation of the Dispelling Rings, as well as the location of the Staff of Wisdom of their making. The site itself is of great importance to Seath the Scaleless, as many of his creations are found nearby, and it is said the iconic stones in the area were even once part of him. As the Man Serpents were closely tied to the pale being, it's possible evidence of their existence, or even simply the Flexile Sentries themselves, were discovered in the area, and tamed to serve a new leader and purpose.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5709702508220111,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2eb3608a-65a3-5c93-8f58-c0c30b5a6228",
+    "title": "Dragon Scale (Dark Souls II)",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Dragon Scale (Dark Souls II) -  Dark Souls II - item - description \n description : A scale from the body of an ancient dragon. Offer to the dragon to bring your own flesh closer to that of the eternal ancient dragon.\n\nTouching an ancient dragon scale gives one a glimpse into the abyss. Believers in the dragon will rise above this petty corporeal existence.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5611730470974017,
+    "bm25_score": null
+  },
+  {
+    "document_id": "649fb389-8c30-5ce7-8583-e31162dcf7a0",
+    "title": "Black Dragon Kalameet",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Regardless, the Dragon Knights, who wore armor forged from the scales of Kalameet and used weapons created from his tail, persisted, and at some point arrived in Drangleic and settled in the Dragon Shrine. The group of knights would also join the covenant of the Dragon Remnants, apostles who venerated the primordial creatures and desired the perpetuity of their existence, seeking their scales to rise above their limited human existence. This group used the Dragon Eyes to invade the space and time of other knights and challenged them to claim their dragon scales, rewarding the best among them with the stones infused with the powers of the dragons to try to achieve transformation, as well as with the ancient Black Dragon Greatsword forged from Kalameet's tail.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5606094369673977,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c5f822bd-c698-5122-b2bb-727d400c19f2",
+    "title": "Dragonscale Waistcloth",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Dragonscale Waistcloth -  Dark Souls III - armor - description \n description : Dragonscale waistcloth of a nameless king who was ally to the ancient dragons.\n\nDragon scales are razor-sharp and cannot be burned.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5597577172605525,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f7bdaa89-263c-5402-b39a-06fd745c7536",
+    "title": "Oceiros, the Consumed King",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Continuing his study of the sorceries and knowledge brought by the Crystal Sages to Lothric and contained in the Archives, Oceiros found himself walking the same path as Big Hat Logan, one that led to the same \"enlightenment\" only to be followed by madness. The king, in his deep delusions, believed he had to become a dragon himself in order to produce an heir strong enough to link the Flame. Eventually he managed to transform himself into a scaleless dragon, albeit an imperfect and distorted one, even obtaining the sorcery of Seath's crystal breath.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5586166199328685,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d401e569-35eb-5763-b183-8468deb6c2fc",
+    "title": "Bearer of the Curse",
+    "section": "dragon_aerie",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Once arriving at the Dragon Shrine bonfire, the Scholar appears once more. He will reveal that he is in fact Aldia, the elder brother of Vendrick. Aldia says that he \"sought to shed the yoke of fate, but failed\" and that he now only awaits an answer. He asks of the Bearer of the Curse to \"seek the Throne, seek light, dark and what lies beyond\", for the last time, he'll vanish into the flames, allowing the Bearer of the Curse to light the bonfire.\n\nThe Ancient Dragon will give the Bearer the Ashen Mist Heart, which allows one to peer into the memories of things long withered. Should the Bearer of the Curse again seek out Nashandra's council, she will warn that the dragon is a false deity and is in fact no more than a prop. Still, she will direct the Bearer of the Curse to go to the Forest of Fallen Giants, to use the Ashen Mist Heart to peer into the Giants' memories.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5584713834915469,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2035c384-81b6-5a95-83cf-fa6ce77c702a",
+    "title": "Dragon",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Undead Dragons, scattered throughout the land, are corpses of the Ancient Dragons that maintain some spark of life within their rotten form somehow, and can be occasionally stumbled upon as minibosses. They are heavily decomposed, possess no eyes, rotten wings unable to fly, can disgorge a Toxic substance from their mouths, and their hindquarters can easily detach and remain animated by themselves, even capable of standing up by themselves. Bounding Demons of Izalith, due to their resemblance, are inferred to be the bottom halves of Undead Dragons that were brought to life and turned into Demons by the Bed of Chaos.\n\nCrossbreed Priscilla of the Painted World of Ariamis is possibly the result of the interbreeding of Seath and an unknown woman.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5553295288786524,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b7b899ee-ac55-5077-9781-a36105d7bebf",
+    "title": "Oceiros, the Consumed King",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "In his later years, frustrated by continuous failures to find a worthy Champion, Oceiros was driven to insanity by his work with Lothric's blood and became fascinated with dragons and sought other means of achieving his goal. Eventually, Oceiros turned to the cursed knowledge of the Grand Archives, where he found the twisted worship of Seath, developing a fascination for the Pale Dragon, his mad research and the secrets of his moonlight. His newfound devotion was testified by his dragonscale ring, which he claimed protected him from his enemies, and his army's usage of shields decorated with a white dragon. His fascination soon became obsession, which progressed to insanity. The loss of his sanity in the pursuit of the ways of the White Dragon would earn him the name \"Consumed King\" and many assassins were sent to remove the king from power, none of whom succeeded, owing according to Oceiros to the divine protection of his dragonscale ring.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5550317670140291,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c253d360-ea99-5010-a603-9a69c072c58e",
+    "title": "Man Serpent (Lore)",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Man Serpent (Lore) -  Dark Souls III - character - dark_souls_iii \n dark_souls_iii : The Man Serpents have long abandoned their role as servants to the Gods, possibly due to the death of their master Seath. Instead, they seemed to have migrated somewhere else, where the worship of dragons was still prevalent. That location was Archdragon Peak, a sanctuary built to enshrine the mighty beings, watched over by the deific Nameless King.\n\nNot much about their role has changed, still acting as simple-minded guardians while venerating their more impressive forefathers. Some have even become spiritual mediums, capable of summoning knights, champions, and even old dragon-hunting warriors to assist them.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5517234537381948,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b0873372-477c-5aa6-bb91-2f69db7e442b",
+    "title": "Primordial Serpents",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Frampt and Kaathe represent a peculiar class of characters, in that they are both unreliable sources of information, as far as the Chosen Undead is concerned. Both serpents, presenting themselves as ancient beings, put up a display of simply and selflessly wishing to \"elucidate [the player's] fate\"; and provide unique information that, while conforming with reality, can be neither confirmed nor refuted by any other source. Kaathe proposes an especially exclusive accounting of the events leading up to the first linking of the Flame, one that includes a fourth Lord and an Age of Dark that fell upon the world once before—the history of Lordran does not attest to either having ever existed. It is ultimately left up to the player to choose which side makes the more credible argument, and whose vision merits consideration at this critical time in the Age of Fire when the status quo hangs in the balance.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5490782487146988,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5bbee582-b6ef-59ee-92e9-81ea581db1e8",
+    "title": "Black Dragon Kalameet",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Black Dragon Kalameet -  Dark Souls - boss - attacks \n attacks : {'name': 'Mark of Calamity', 'description': \"Black Dragon Kalameet's signature move. He will rise on his hind legs while the crest on his head glows intensely and produces a high frequency noise. If captured the player will then levitate in front of Kalameet and receive some damage. Afterwards, the player will have the Mark of Calamity for about 60 seconds, during which they will receive twice as much damage. Players can avoid this by running away as soon as he begins to stand.\"}",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.548333440486237,
+    "bm25_score": null
+  },
+  {
+    "document_id": "90e97b6d-842c-5de8-9f0e-4edab3821d1a",
+    "title": "Dragon",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Enhanced Undead are some of many of Aldia's experimental creations, and were believed to be an attempt at recreating the Dragons. They are either failed examples or merely the first stage of the mutation into a Dragon, as their bones are formed into the shape of a Dragon. Whether they succeeded or failed, though their bodies seem almost half-dragon, their minds are undoubtedly of a Hollow's. They wield Malformed Skulls, which are possibly the skulls of Dragons; a specimen far too rare to be swung about like a giant hammer.\n\nThe corpse of a Dragon can be found in the area in which The Duke's Dear Freja is fought, as well as within the Dragon Memories. Furthermore, Freja is suggested to be possessed by a reincarnation of Seath due to dropping the Old Paledrake Soul in NG+, and it can be inferred that its rock-hard shell it developed as it grew from consuming souls is somewhat similar to the scales of the Ancient Dragons.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5459787450112717,
+    "bm25_score": null
+  },
+  {
+    "document_id": "31ce055e-ae29-52e9-b19a-6d113c7103b2",
+    "title": "Dragonslayer Greatbow",
+    "section": "scaling_percentages",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Dragonslayer Greatbow -  Dark Souls - weapon - scaling_percentages \n scaling_percentages : ***Strength - 64%**\n***Dexterity - 64%**\n* **Intelligence - 0%**\n* **Faith - 0%**",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5397979694913979,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1e801ab2-1ee0-5208-9157-7561567db9b5",
+    "title": "Dragonslayer Spear",
+    "section": "scaling_percentages",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Dragonslayer Spear -  Dark Souls - weapon - scaling_percentages \n scaling_percentages : * **Strength - 60%**\n***Dexterity - 100%**\n***Intelligence - 0%**\n***Faith - 100%**",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5395191292405748,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9f59e6e4-4874-52c0-b01e-b2d1ab8cde40",
+    "title": "Oceiros, the Consumed King",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "theories : It is possible to theorize that the transformation of Oceiros into a deformed pale dragon was a project carried out with the collaboration of Pontiff Sulyvahn. Although the partial transformation into a dragon is a technique already owned by the cult of the Path of the Dragon, it is a long process that requires particular practices, but which does not offer the certainty of transforming into the particular dragon that Oceiros aspired to, namely Seath. In the dungeons of Irithyll it is possible to find abominations, the result of failed experiments to transform human beings into ancient dragons, that are very similar in appearance to the draconic form of Oceiros, also with no scales and a pale complexion. The Pale Pine Resin made from their bodies possesses magical power and can also be found within Lothric Castle. It's important to note that Lothric and Irithyll remained on good terms even after Sulyvahn's coup, with the Pontiff sending Gargoyles from the Profaned Capital",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5393491022281339,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ed1bd7f3-88e9-5305-bab3-a426b51ea003",
+    "title": "Four Kings",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "After Gwyn sacrificed himself to link the fading First Flame, the Primordial Serpent Kaathe began searching for a human strong enough to become the Dark Lord capable of leading humans and usher in an Age of Dark. At some point Kaathe arrived in New Londo and managed to seduce the Four Kings to follow his ideals, teaching them the art of Lifedrain so that they could preserve their humanity even while Undead and so cast off the shackles placed upon them by the gods. But his dark influence did not stop with the kings and, in fact, their entire army followed them. The knights of New Londo became Darkwraiths, servants of the Dark who learned the art of Lifedrain and used it to absorb humanity. As the Four Kings' were able to open an Abyss in the center of their city, their very bodies were mutated by their freed Dark Soul, and the Darkwraiths' armor transformed, too, as they began to employ the Red Eye Orbs granted by Kaathe to seek humanity and plunge further into the powers of the Dark,",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5393487224707272,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7d55b8e6-243a-5c8f-b955-34fce6c3036c",
+    "title": "Path of the Dragon",
+    "section": "specifics_to_the_duel",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Path of the Dragon -  Dark Souls - mechanic - specifics_to_the_duel \n specifics_to_the_duel : Using the Dragon Eye spawns a summon sign in other players' worlds, allowing players who have Dragon Scales to summon covenant members to duel. The victor is awarded a Dragon Scale for their effort; players do not lose Dragon Scales upon defeat. Should the result be a draw (both players die near-simultaneously), both players are rewarded with a scale.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5386361810624862,
+    "bm25_score": null
+  },
+  {
+    "document_id": "adbc1288-3dfe-5cc2-a70d-850c907f1784",
+    "title": "Dragon Scale (Dark Souls II)",
+    "section": "use",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Dragon Scale (Dark Souls II) -  Dark Souls II - item - use \n use : Dragon Scales are used to level up in the Dragon Remnants covenant.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5385191899567028,
+    "bm25_score": null
+  },
+  {
+    "document_id": "68b5f40f-1cd4-57ad-96ca-9b4c636336d5",
+    "title": "Dragonscale Armor",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Dragonscale Armor -  Dark Souls III - armor - description \n description : Dragonscale armor of a nameless king who was ally to the ancient dragons.\n\nDragon scales are razor-sharp and cannot be burned.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.537891089806384,
+    "bm25_score": null
+  },
+  {
+    "document_id": "03468d43-0f38-5169-9156-9f71cdd943ae",
+    "title": "Stone Dragon",
+    "section": "drops",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Stone Dragon -  Dark Souls - character - drops \n drops : This will not aggro the Stone Dragon or cause the player to lose the ability to join the Path of the Dragon covenant.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5351326165484876,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2ab456c3-cbcd-5b40-8d4f-9411cef57b41",
+    "title": "The Nameless King",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "However, the rest of the firstborn's reign was marked by catastrophes. The Four Kings of New Londo were corrupted by the dark power of Darkstalker Kaathe, starting to sow devastation nearby the city of the gods. Following Knight Artorias's failure to defeat the Darkwraiths, the gods were forced to flood the city, sacrificing all the humans within, and seal it. A similar event happened in Oolacile when, again due to Kaathe, the awakening of the primordial human Manus and his fury led to the collapse of the country when Artorias was unable to defeat him. In addition to the grave situation on the borders of Anor Londo, the city of the gods itself became a dangerous place when a group of cultists began targeting the clan of Gwyn and their kind, and occult weapons capable of killing the gods reached inside the walls of Anor Londo. Furthermore, in the city of the gods Seath the Scaleless had now completely lost his mind, transforming his Archives into a prison and going so far as to kidnap",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5337632970990625,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d4dd76cf-6d94-5dea-bdb1-d0d196c433b7",
+    "title": "Dark Soul",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Using the Dark Soul, the Pygmy created black sprites of darkness called Humanity, which was given to his descendants. These dark-souled beings risen from the Abyss were called Humans, and each bore a small fragment of the Dark Soul. When the other Lords began fighting against the Everlasting Dragons, they conscripted the Humans into the forces, who aided the Lords by forging quasi-living arms and armor deep within the Abyss. But the Humans were betrayed by the Lords, for they feared the Dark that resides within each and every one of them. Their contributions to the War of the Ancients went completely unrecorded, and upon their Humanity, the Gods placed a sealing ring of fire, later to be known as the Darksign.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5335091281438342,
+    "bm25_score": null
+  },
+  {
+    "document_id": "be21831f-fbe5-552e-9d34-97fc7597f479",
+    "title": "Dragon",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Despite their scales being what grants them immortality, it is stated that even a descendant of an Archdragon does not perish; Dragonhead Shields and Dragonhead Greatshields, heads as hard as a great boulder and made from descendants of an Archdragon, can even briefly have their former strength restored and be returned to life in order to manifest their abilities.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5330217116373178,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4d86f582-a677-5962-b1dc-d45e8edfceb6",
+    "title": "Sen's Fortress",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Amongthem the famous sorcerer Big Hat Logan who tried to reach the Duke's Archives to seek Seath the Scaleless's knowledge, the Undead Prince Ricard a legendary hero who wandered the lands in a fateful ill-conceived journey until he ended up Undead and in Lordran and the Knight King Rendal and his Balder Knights that attempted to seek the Lordvessel and restore the power of the Flame to save their country plagued by Undead.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5329191765472678,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5b52eb4d-c71d-5439-bde2-0cc72077a581",
+    "title": "Knight Artorias",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Sometime after Lord Gwyn sacrificed himself to link the fading First Flame, the Primordial Serpent Kaathe began searching for a human strong enough to become the Dark Lord capable of leading humans and usher in an Age of Dark. Kaathe eventually arrived in New Londo and managed to entice the Four Kings, powerful humans who had received a fragment of Gwyn's Lord Soul, into following his ideals, teaching them the art of Lifedrain. The Serpent's dark influence extended to their entire army: The knights of New Londo became Darkwraiths, servants of the Dark who learned the art of Lifedrain and used it to absorb humanity. The Four Kings opened an Abyss in the center of their city, with their Darkwraiths beginning to employ the Red Eye Orbs granted by Kaathe to plunder humanity and expand the reach of the Abyss.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5323549024453831,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8f8dac18-7fa4-5dc0-9a13-8ecd89a5041f",
+    "title": "Fog Door",
+    "section": "lordran_fog_doors",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "The Duke's Archives\n**Before the first encounter with Seath the Scaleless.\n**Before entering the Duke's Garden area, after pulling the lever to lower the stairs.\nCrystal Cave\n**Before the encounter with Seath the Scaleless but only after initiating the fight and if re-entering the arena before Seath is defeated.\nKiln of the First Flame\n**Before the encounter with Gwyn, Lord of Cinder.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.191870806050375
+  },
+  {
+    "document_id": "aff39f57-bfeb-55f4-bdac-70c6368178d2",
+    "title": "Crystal Cave",
+    "section": "bosses",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Crystal Cave -  Dark Souls - location - bosses \n bosses : Seath the Scaleless",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.781528588508348
+  },
+  {
+    "document_id": "51342f7b-f9e7-5981-9233-c3ccc0db97be",
+    "title": "Large Magic Ember",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Large Magic Ember -  Dark Souls - item - availability \n availability : Found in The Duke's Archives, after encountering Seath the Scaleless in the Crystal Cave. Found in the center of the room where the player first encounters Seath, in a chest.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.5952386853443
+  },
+  {
+    "document_id": "57fb7329-53b5-5d25-8958-47b250063740",
+    "title": "Dragonslayer Armour",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "The old knights of Lothric also turned to the Firstborn of Lord Gwyn for aid, once venerated as a god of war and the sun, who in turn gave them the tools to face the wyverns. From the sun god they would learn how to infuse their weapons with the power of lightning, lethal against dragons, and the ancient techniques for hunting archdragons developed in the war between the gods and the Everlasting Dragons. They also learned of his miracles on manipulating lightning as a weapon.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.473699128020925
+  },
+  {
+    "document_id": "40256f2e-0c03-59c2-a7e2-e4f9cf620a34",
+    "title": "Stone Dragon",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Stone Dragon -  Dark Souls - character - lore \n lore : The Stone Dragon is one of the few dragons left in the world, descendant of the Everlasting Dragons. It resides itself in the incredibly secluded and mysterious location of Ash Lake.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.428675932335555
+  },
+  {
+    "document_id": "2787e353-8785-5477-af57-11c8c5b4bb0d",
+    "title": "Crystal Knight",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Crystal Knight -  Dark Souls - enemy - location \n location : Found in the tunnel leading to the first encounter with Seath the Scaleless in The Duke's Archives.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.13100141998361
+  },
+  {
+    "document_id": "923941c3-12f2-57f9-84a3-25d6622807a8",
+    "title": "Crystalline Set",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Crystalline Set -  Dark Souls - armor - plot \n plot : Worn by the Crystal General, who is encountered in the stairwell before the first encounter with Seath the Scaleless.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.956161695232854
+  },
+  {
+    "document_id": "cf670588-6253-5bb0-8a2b-c01d51db00cb",
+    "title": "Dragon",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Dragon -  Dark Souls III - character - lead \n lead : During the Age of Ancients, the **Dragons** were the everlasting rulers of the world until the Lords rose and challenged them. In the end, the Dragons were nearly—but not fully—driven to extinction, beginning a new era known as the Age of Fire.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.52207482711872
+  },
+  {
+    "document_id": "2c8b7b8e-a1aa-52da-8efd-aa090b8202fa",
+    "title": "Set of the Channelers",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Set of the Channelers -  Dark Souls - armor - plot \n plot : Worn by the Channelers, entities that kidnap inhabitants of Lordran for Seath the Scaleless to experiment on.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.483256028008245
+  },
+  {
+    "document_id": "ced96398-044d-54a2-ac2d-735ac93b5987",
+    "title": "White Dragon Breath",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "White Dragon Breath -  Dark Souls - spell - availability \n availability : Dropped by Big Hat Logan in The Duke's Archives, where the player first encountered Seath.\n\nIt is required that the player has first freed Logan from his cell and defeated Seath the Scaleless in the Crystal Cave.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.453797447647016
+  },
+  {
+    "document_id": "848283e9-ed6d-5842-9a26-e9b40953dfeb",
+    "title": "Six-Eyed Helm of the Channelers",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Six-Eyed Helm of the Channelers -  Dark Souls - armor - description \n description : Helm of the Channelers, sorcerers that serve Seath the Scaleless. The six eyes arranged in two vertical columns compensate for Seath's lack of sight.\n\nThe heaviest of protective gear for sorcerers, and imbued with magic.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.33481441812325
+  },
+  {
+    "document_id": "28023b63-6a5d-5adb-b4e8-e262b8d23c78",
+    "title": "Pisaca",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Pisaca -  Dark Souls - enemy - lore \n lore : The Pisacas were created by Seath the Scaleless, through experiments performed on women collected by his Channelers.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.261188290369823
+  },
+  {
+    "document_id": "10b15a64-3a88-5b43-915b-a421e7adf0f1",
+    "title": "Archive Tower Cell Key",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Archive Tower Cell Key -  Dark Souls - item - general_information \n general_information : Opens the prison cell that the player gets trapped in after being defeated by Seath the Scaleless.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.130820270696265
+  },
+  {
+    "document_id": "ff1de590-55bc-5373-a657-8a2f8053ea4b",
+    "title": "Gauntlets of the Channelers",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Gauntlets of the Channelers -  Dark Souls - armor - description \n description : Gauntlets of the Channelers, sorcerers that serve Seath the Scaleless. Even after the onset of Seath's madness, the \"snatchers\" as they were often called, ventured to far lands to find suitable human specimens.\n\nThe heaviest of protective gear for sorcerers, and imbued with magic.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.846261628705495
+  },
+  {
+    "document_id": "7a7de514-c5b9-50e9-80ab-ab4b605f52ba",
+    "title": "Robe of the Channelers",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Robe of the Channelers -  Dark Souls - armor - description \n description : Robe of the Channelers, sorcerers that serve Seath the Scaleless. Even after the onset of Seath's madness, the \"snatchers\" as they were often called, ventured to far lands to find suitable human specimens.\n\nThe heaviest of protective gear for sorcerers, and imbued with magic.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.846261628705495
+  },
+  {
+    "document_id": "07ff9baf-347a-5371-a64c-236eb309c5e5",
+    "title": "Kiln of the First Flame",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Kiln of the First Flame -  Dark Souls - location - description \n description : This area is accessed by offering to the Lordvessel the souls of Bed of Chaos, the Four Kings, Gravelord Nito, and Seath the Scaleless in the Firelink Altar.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.702844117208702
+  },
+  {
+    "document_id": "3b6d4d99-02de-5d7c-b2df-2879c99215e3",
+    "title": "Bequeathed Lord Soul Shard",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Bequeathed Lord Soul Shard -  Dark Souls - item - availability \n availability : Both the Four Kings and Seath the Scaleless drop a Bequeathed Lord Soul Shard upon their defeat.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.681716051753593
+  },
+  {
+    "document_id": "a15113b0-aa2a-54db-97df-7b39a61a5327",
+    "title": "Dragon",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "It is common for the tails of Dragons to be cut off and used in the forging of powerful weapons.\n\nAlthough the Dragons predate souls and originally did not bear them, over time some would come to possess souls of their own such as Sinh, the Slumbering Dragon, even ones that existed and died just after the Age of Ancients such as the Ancient Dragon. In fact, dragon bones, when imbued with the power of the soul, can be used as an appropriate core to powerful constructs like the Iron Golem, who guards Sen's Fortress and slays the countless heroes seeking Anor Londo. Petrified Dragon Bone is said to house great power.\n\nA Dragon Tooth from an Everlasting Dragon is considered harder than stone and as solid as a boulder, and stated to never break; Havel the Rock would use one as a great club. Merely holding one will grant the user resistance to both fire and magic, suggesting that the Everlasting Dragons had a similar if greater resistance, in contrast to their weakness to lightning.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.579970449648833
+  },
+  {
+    "document_id": "093ba712-10e8-5e1c-967b-90ca189ea776",
+    "title": "Undead Dragon",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Undead Dragon -  Dark Souls - enemy - trivia \n trivia : In an interview with **PlayStation.blog**, Miyazaki said that the Dragon Zombie was designed as one of few survivor of the ancient dragons that went mad\".\nIt's unclear why these dragons are undead, as the Curse of the Undead normally affects only humans. They may be \"survivors\" of the war against the Everlasting Dragons, reanimated unintentionally by Nito's deadly plague, or kept \"alive\" by Dragons' inborn vitality.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.530874562884545
+  },
+  {
+    "document_id": "1fa6abd3-32a1-50ec-8c30-6cdc098cf8b2",
+    "title": "Crystal Ring Shield",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "shield",
+    "snippet": "Crystal Ring Shield -  Dark Souls - shield - description \n description : Weapon born from the mystical creature of the Darkroot Garden, the Moonlight Butterfly.\n\nImbued with a powerful crystal power, like the butterfly created by Seath the Scaleless. Can emit crystal light rings.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.172051583866963
+  },
+  {
+    "document_id": "1f8f3d7a-3999-5218-9c04-029242b9f2d1",
+    "title": "Age of Ancients",
+    "section": "theories",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "theories : It is possible that the humanoid creatures that emerged underground and found the four Lord Souls are an evolution of the dragons over countless years. In fact, after the appearance of the First Flame and the souls, life became possible. The primordial immortal dragons began to mutate like Seath the Scaleless and Black Dragon Kalameet, and reproduced and evolved into different creatures with different characteristics and appearances such as wyverns and serpents. In the depths of the Tomb of the Giants it is in fact possible to find Skeletal Beasts: giant skeletons with bestial behavior that walk on four legs, with in particular a small tail at the end of their spinal column. In these primordial catacombs there are also Giant Skeletons that are able to walk upright and use weapons, but retaining traces of a tail in their bones. These two specimens highlight how those who inhabited the catacombs in very ancient times were creatures initially similar to beasts with tails",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.032125525021602
+  },
+  {
+    "document_id": "57256661-24cb-519e-afe0-c09417f7911e",
+    "title": "Lothric",
+    "section": "dragonslaying_foundation",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "The new inhabitants of the region soon found themselves facing large numbers of wyverns and had to rise to the challenge, ascending common knighthood. The old knights of Lothric turned to the Firstborn of Lord Gwyn for aid, once venerated as a god of war and the sun, and built an altar for him in their city, beginning to worship the ancient deity who in return gave them the tools to face the wyverns. From the sun god they would learn how to infuse their weapons with the power of lightning, lethal against dragons, and the ancient techniques for hunting archdragons developed in the war between the gods and the Everlasting Dragons. They also learned of his miracles on manipulating lightning as a weapon.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.996230359129626
+  },
+  {
+    "document_id": "f249f1b9-1f3c-5bd5-b4d8-8771cb7a7661",
+    "title": "Souls of Lords",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Souls of Lords -  Dark Souls - item - lore \n lore : The Souls of Lords were discovered by the chosen few that \"came from the dark\". Gwyn, Lord of Sunlight, Nito, the First of the Dead, The Witch of Izalith and the Furtive Pygmy.\n\nGwyn, Nito and The Witch of Izalith used the power procured from the Lord Souls to challenge the Everlasting Dragons for dominion of the world and, with the help of others, were successful in their endeavor.\n\nThe Witch of Izalith attempted to recreate her own First Flame by using her Lord Soul, but this resulted in her own demise and the creation of the Bed of Chaos, mother of all Demons, who inherited possession of the Soul.\n\nBequeathed Lord Soul Shards are fragments of Gwyn's Lord Soul and were bestowed as gifts. One was given to Seath the Scaleless for betraying his own kind. Another was given to the Four Kings when Lord Gwyn recognized their foresight as leaders of New Londo.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.874510087054265
+  },
+  {
+    "document_id": "752a6b90-b2a1-5ba8-904d-2d0fdbec2f34",
+    "title": "Timeline",
+    "section": "before_time",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Timeline -  Dark Souls III - storyline - before_time \n before_time : Before the very existence of time itself the world is motionless, unformed and shrouded by fog.\nArchtrees and the Everlasting Dragons, eternal and soulless beings similar to minerals, exist on the surface.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.7833011145528
+  },
+  {
+    "document_id": "c4f51913-752d-59b5-8d2b-4968973650b1",
+    "title": "Gods",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "At one point a God committed the sin of \"greed\". For this they were banished and cursed, resulting into their head transforming into an imitation of treasure chests. They became the very first Mimic. The Mimic became \"the symbol of shame imposed on a long lost clan, exiled for the sin of avarice\", perhaps meaning that this clan were similarly turned into Mimics.\n\nGwyn led the Gods and their Silver Knights in a war against the Dragons. With their powerful magic and the aid of the Dragon traitor, Seath the Scaleless, the Gods slew most of the Dragons and claimed the world for their own. Gwyn and his family founded the mighty city of Anor Londo, from whence they ruled over the humans, distant descendants of the Furtive Pygmy.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.768460128260518
+  },
+  {
+    "document_id": "9cf61629-bf0f-5eb4-bcaf-872621edfd99",
+    "title": "Dragon Torso Stone (Dark Souls II)",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Dragon Torso Stone (Dark Souls II) -  Dark Souls II - item - description \n description : A stone containing the strength of dragons.\nTransforms the body into a roaring dragon, an effect that will remain until death.\n\nThe zealots who sought everlasting life are said to have conducted rites to imbue stones with the strength of dragons, but the truth of such claims is questionable.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.75635109326582
+  },
+  {
+    "document_id": "431f6f12-2af0-5181-8318-44d9a5f8dab2",
+    "title": "Curved Dragon Greatsword",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Curved Dragon Greatsword -  Dark Souls II - weapon - description \n description : A curved greatsword forged from the soul of the Ancient Dragon.\n\nIn the Age of the Ancients, the world was unformed, shrouded by fog. A land of grey crags, archtrees, and everlasting dragons.\n\nEffect: special attack (strong attack)",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.39953818719276
+  },
+  {
+    "document_id": "4644cc68-a322-5741-8ed0-a65d4158f536",
+    "title": "Dragon",
+    "section": "age_of_ancients",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Dragon -  Dark Souls III - character - age_of_ancients \n age_of_ancients : In the Age of Ancients, the world was shrouded by fog, filled with grey crags and arch-trees, and ruled by the immortal Everlasting Dragons. The dragons were unmatched, but eventually, subterranean humanoids would discover a great power within the First Flame, giving them the means to challenge the dragons.\n\nWith the birth of the First Flame—the Advent of Fire—the Lords challenged the ancient dragons for dominion of the world. Lord Gwyn's mighty bolts peeled apart their stone scales. The Witch of Izalith and her Daughters of Chaos wove great firestorms, burning the Archtrees. Gravelord Nito unleashed a miasma of death and disease.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.370086280332202
+  },
+  {
+    "document_id": "71f4c995-a8bc-524d-a851-66692f948eaa",
+    "title": "Vinheim",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Vinheim -  Dark Souls III - location - dark_souls \n dark_souls : The country was supposedly controlled by the Vinheim Dragon School, an institution specializing in the study and teaching of Sorcery. The school's name is possibly derived from the great albino dragon, Seath the Scaleless, said to be the grandfather of sorcery.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.34540267517641
+  },
+  {
+    "document_id": "394ef9f8-b40e-5aff-b389-fdd649bbd28e",
+    "title": "Maiden Gloves",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Maiden Gloves -  Dark Souls - armor - availability \n availability : Along with the rest of the Maiden Set, found in The Duke's Archives after being defeated by Seath the Scaleless in his immortal form. After climbing up the ladder out of the prison, drop down from the ledge and the set will be on a corpse.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.209565463439034
+  },
+  {
+    "document_id": "90bb9e7b-b8e1-5dce-bcf9-4a78740600d0",
+    "title": "Dragon King Greataxe",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Dragon King Greataxe -  Dark Souls - weapon - description \n description : This axe, one of the rare dragon weapons, is formed by the tail of the Gaping Dragon, a distant, deformed descendant of the everlasting dragons.\n\nThe axe is imbued with a mystical power, to be released when held with both hands.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.161829950277667
+  },
+  {
+    "document_id": "224304e0-f0f3-5af6-b410-212eda62499d",
+    "title": "Maiden Skirt",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Maiden Skirt -  Dark Souls - armor - availability \n availability : With the rest of the Maiden Set, found in The Duke's Archives after being defeated by Seath the Scaleless in his immortal form. After climbing up the ladder out of the prison, drop off the ledge and the set will be inside a door on a corpse.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.10809794704211
+  },
+  {
+    "document_id": "3aca4ce6-778b-5104-9d8f-f987e160d8fe",
+    "title": "Moonlight Butterfly",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Moonlight Butterfly -  Dark Souls - boss - lore \n lore : The Moonlight Butterfly is a mystical creature whose soul was created by Seath the Scaleless. The result is a being naturally infused with a pure and powerful crystal power and moonlight magic, Seath's own characteristics, which are capable of emitting crystal sorceries and moonlight energy. Seath created multiple specimens of these butterflies that remained in his Crystal Cave but one left the place to move to inhabit the Darkroot Forest, defending its territory from intruders.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.056407226598775
+  },
+  {
+    "document_id": "33c780fa-a333-53ec-bbd4-07d808968831",
+    "title": "Tin Crystallization Catalyst",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Tin Crystallization Catalyst -  Dark Souls - weapon - availability \n availability : Drops from Big Hat Logan after he is rescued from the prison in The Duke's Archives. This can be done either by freeing him with the Archive Tower Giant Cell Key or by killing Seath the Scaleless.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.018600270243265
+  },
+  {
+    "document_id": "705af1f4-ca20-5348-9a91-52c7db2c56f8",
+    "title": "Moonlight Greatsword (Dark Souls)",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Moonlight Greatsword (Dark Souls) -  Dark Souls - weapon - availability \n availability : The Moonlight Greatsword can be obtained from Seath the Scaleless by cutting off his tail. Players will need to deal 825 damage to a spot a bit above the tip of his tail.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.976025300192504
+  },
+  {
+    "document_id": "5139693e-0850-5512-a7bf-9c229ca2ee22",
+    "title": "Dragon Head Stone (Dark Souls II)",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Dragon Head Stone (Dark Souls II) -  Dark Souls II - item - description \n description : A stone containing the strength of dragons. Transforms the head into that of a fire-breathing dragon, an effect that will remain until death.\n\nThe zealots who sought everlasting life are said to have conducted rites to imbue stones with the strength of dragons, but their [sic] are no records confirming their success.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.918351424876704
+  },
+  {
+    "document_id": "47f0b698-f834-535d-bb3e-47170d94b3a7",
+    "title": "Asylum Demon",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Asylum Demon -  Dark Souls - boss - notes \n notes : Players can escape from the Asylum Demon's fight on the first encounter, by going through the doorway on the left-hand side of the room, just as one can do so for the initial fight with Seath the Scaleless. However, on the second encounter, it is impossible to do so.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.811913551090687
+  },
+  {
+    "document_id": "42804788-9eb3-5244-a4ef-054823699b4f",
+    "title": "Twinkling Dragon Head Stone",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Twinkling Dragon Head Stone -  Dark Souls III - item - description \n description : Stone imbued with the power of the everlasting dragons, the second of its kind, offered to a towering dragon.\n\nGain the head of a dragon and emit breath alongside an archdragon mirage. The transformation is irreversible until death.\n\nThe illusion achieved was the first case of a human imitating the form of an ancient dragon, and it revealed the smallness of human existence.\nThe road to the old dragons is long and arduous, and only one can complete the journey.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.75986231383693
+  },
+  {
+    "document_id": "48b88ec4-3d2a-5ad4-b4f9-05c04b00272c",
+    "title": "Bonfire (Dark Souls)",
+    "section": "lordran",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "***The Duke's Archives**\n**Beyond the corridors guarded by the two Armored Tusks, at the bottom of the lift.\n**In a prison cell, after being defeated during the first encounter with Seath the Scaleless at the top of the Archives. Cannot warp from Bonfire.\n****The Duke's Archives** (warping point) - On a balcony, towards the back end of the Archives, overlooking the inner gardens containing Crystal Golems.\n\n***Crystal Cave** (warping point)\n**Appears after defeating Seath the Scaleless.\n\n***Demon Ruins**\n**Just beyond Quelaag's Domain, surrounded by Egg Burdened.\n**Below the group of Capra Demons, next to a Burrowing Rockworm.\n**After the Demon Firesage boss fight and before the Centipede Demon boss battle.\n\n***Lost Izalith**\n**Immediately after the Centipede Demon arena.\n**Within the structure that is in the middle of the Lava Lake, amidst the Bounding Demons of Izalith. The bonfire is behind an illusory wall.\n**Appears after defeating the Bed of Chaos.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.562683991168793
+  },
+  {
+    "document_id": "e9f540b6-de5c-5388-bde6-f86f64617b7b",
+    "title": "Great Magic Barrier",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Great Magic Barrier -  Dark Souls - spell - description \n description : Miracle of Bishop Havel the Rock. Cover body in powerful def. magic coating.\n\nHavel the Rock, an old battlefield compatriot of Lord Gwyn, was the sworn enemy of Seath the Scaleless. He despised magic, and made certain to devise means of counteraction.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.533879292857065
+  },
+  {
+    "document_id": "8154cff6-e4de-52ed-a01d-f0cfc29ec70c",
+    "title": "Soul of the Moonlight Butterfly",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Soul of the Moonlight Butterfly -  Dark Souls - item - description \n description : Soul of the mystical Moonlight Butterfly, which flitters in Darkroot Garden.\n\nSpecial beings have special souls. The butterfly's soul is a creation of Seath the Scaleless.\n\nUse to acquire a huge amount of souls, or to create a unique weapon.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.417020043356725
+  },
+  {
+    "document_id": "dd282c47-fd85-51ab-ba77-8ba1b80757b3",
+    "title": "Dragon",
+    "section": "age_of_fire",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Dragon -  Dark Souls III - character - age_of_fire \n age_of_fire : In the aftermath of the war, The Age of Fire came about, bringing an age of sunlight and prosperity. The Everlasting Dragons were all but extinct, but the race has many descendants throughout the world, some greater and some lesser, with varying degrees of similarity to their progenitors.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.38434199831133
+  },
+  {
+    "document_id": "5bec2fc7-5b92-57aa-9339-34e74d1c7221",
+    "title": "Sweet Shalquoir",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Sweet Shalquoir -  Dark Souls II - character - lore \n lore : Shalquoir is ancient, possibly predating the Age of Fire. Though most of her allusions are vague, she has several insights into the role of fate and history, with her comments possibly relating to Seath the Scaleless and even making references to the Lost Sinner, The Rotten, and the Ancient Dragon.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.38344153841261
+  },
+  {
+    "document_id": "14d2b85d-3308-50b0-9478-d77fab15bb2a",
+    "title": "Crystal Scroll",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Crystal Scroll -  Dark Souls III - item - description \n description : Secret crystal scroll of the Grand Archives of Lothric.\n\nGive to a sorcerer to learn crystal sorceries.\n\nThese sorceries are the work of the paledrake, Seath the Scaleless, whom Logan is said to have met, a branch of sorcery that has been carried on by the Crystal Sages.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.27825652025512
+  },
+  {
+    "document_id": "27d4c804-7ca3-565e-a2c9-43e1bc150226",
+    "title": "Channeler's Trident",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Channeler's Trident -  Dark Souls - weapon - description \n description : Trident of the Six-eyed Channelers, sorcerers who serve Seath the Scaleless in collecting human specimens.\n\nThrusted in circular motions in a unique martial arts dance that stirs nearby allies into a bloodthirsty frenzy.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.069536273401294
+  },
+  {
+    "document_id": "8c7141e5-2e30-5793-bb06-070c2d1b89eb",
+    "title": "Strong Magic Shield",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Strong Magic Shield -  Dark Souls - spell - availability \n availability : Found in The Duke's Archives, above the bonfire balcony overlooking the grove. The chest containing it is on the fourth story, and can generally only be accessed after the player's first encounter with Seath the Scaleless. Getting to the chest will involve falling from a ledge on the other side of the room and landing on a (stationary) rotating staircase.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.0457893612031
+  },
+  {
+    "document_id": "14cbba77-bb92-5716-bf39-cb842e37d9d9",
+    "title": "Furtive Pygmy",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Furtive Pygmy -  Dark Souls - character - lead \n lead : The is a mentioned character in *Dark Souls*.\n\nOnly glimpsed or named in the opening cutscene of *Dark Souls*, he is one of the four beings who acquired Lord Souls from the First Flame; while the other three waged war against the Everlasting Dragons, Pygmy used his, the titular Dark Soul, to create the Humans, all of whom are his descendents.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.999065947151003
+  },
+  {
+    "document_id": "ecf90536-18c4-5b33-b2c3-01bccc734f6b",
+    "title": "Pisaca",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Pisaca -  Dark Souls - enemy - location \n location : They are encountered in The Duke's Archives, after the Chosen Undead is taken prisoner by Seath the Scaleless. They are initially aggressive due to the alarm being turned on. If the player dies or turns the alarm off, they will cease to be aggressive and return to their alcove, only attacking if getting too close.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.99265711284843
+  },
+  {
+    "document_id": "15e3eb13-d719-5e0d-82d4-efa80964ce30",
+    "title": "Ring of Steel Protection (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Ring of Steel Protection (Dark Souls III) -  Dark Souls III - ring - description \n description : Ring of the Knight King of ancient legend. Increases physical damage absorption.\n\nThe Knight King was said to be lined with steel on the inside, such that even the talons of mighty dragons did him little harm.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.94518476986031
+  },
+  {
+    "document_id": "fb8fd2d5-e99e-5770-9a10-9434e1d10b49",
+    "title": "Age of Fire",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Age of Fire -  Dark Souls - storyline - description \n description : **WARNING: This entire page lacks sources and is in need of further expansions and explanations to be considered even useful**\n\nThe Age of Fire first began after Gwyn and the other Lords defeated the Everlasting Dragons which ended the Age of Ancients. The Age of Fire was unnaturally prolonged when Gwyn sacrificed himself to kindle the First Flame.\n\nWhen the Chosen Undead talks to Kingseeker Frampt, he will tell them that they are destined to succeed Gwyn. Should the player choose to kindle the First Flame upon the defeat of Gwyn, they will sacrifice themselves as Gwyn did, thus delaying the Age of Dark once more.\n\nSuch a routine of kindling the First Flame repeats itself for generations to come, until the time of Prince Lothric, when the prolonging of the fire proves futile.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.87685224899198
+  },
+  {
+    "document_id": "1aa719a8-a28a-5de4-9eb4-6e24ae84d9c4",
+    "title": "Drangleic",
+    "section": "drangleic_s_curses",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Having accumulated immense knowledge through his vast, twisted experiments, Aldia directed his research towards infusing the qualities of the everlasting dragons into humans, to free them from the shackles of their fleeting form and transcend, like the followers of the Dragon Remnants were trying to do using stones infused with the power of the dragons. The scholar obtained some of the Giants that his brother had captured and kept them in his manor as experimental subjects in an attempt to use their bodies and souls to recreate a dragon, only producing creatures with bones resembling draconic features that were killed once they had outlived their usefulness. His sustained efforts resulted in humans that turned into half-dragons, transformed into undead aberrations with deformed skulls that became close to those of the dragons but still degraded into hollows.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.771497104572564
+  },
+  {
+    "document_id": "f3ee1724-b37a-545a-b58a-3cf99a6c0912",
+    "title": "Emerald Herald",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Emerald Herald -  Dark Souls II - character - lore \n lore : The Emerald Herald's real name is Shanalotte, a name given to her by the dragons. Born of dragons but contrived by men, she was created specifically to break the undead curse, but her creators failed and she did not come out as intended. Despite this, she guides undead towards the Throne of Want, waiting for a powerful undead that might defeat the Four Old Ones, succeed Vendrick and end the undead curse.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.758304801707176
+  },
+  {
+    "document_id": "e057d8cd-964b-58e6-b945-6663f34fb5fd",
+    "title": "Six-Eyed Helm of the Channelers",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Six-Eyed Helm of the Channelers -  Dark Souls - armor - trivia \n trivia : The saying \"lack of sight\" derives from the Japanese characters *見る* \"to see\" in nai (negative) form: *見えない *\"**not** to see\"; thus, Seath isn't just with poor vision - he is completely blind. This is supported by how Seath is never shown to have eyes in his model nor in any cinematics.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.663577709546985
+  },
+  {
+    "document_id": "62e35480-dac0-5586-b78a-647b2c5367fb",
+    "title": "Dragon",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Among Dragon worshippers, some zealots would take to conducting rituals in order to imbue stones with the power of dragons, but such claims are considered questionable. These stones, the Dragon Head Stone and the Dragon Torso Stone, would allow the bearer to transform their head and body into an ancient dragon, though such a transformation was incomplete; the bearer would have draconic features but remained humanoid and small in stature without wings. Although they would gain the power of dragons, able to roar like a Dragon and breath fire, they were without the Dragons' immortality and the power they obtained would reverse upon death. A variant of the stones would be created which gifts the bearer the Black Dragon Set, armor crafted from the scales of the Black Dragon that is also linked to the power of the stones. Eventually, for those on the path of perfect imitation, some stones would be imbued with the powers of the Everlasting Dragons themselves. This would only be the first",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.571382670339062
+  },
+  {
+    "document_id": "bb994f51-c885-5b5c-8aa0-e767e3d3adc5",
+    "title": "Dragon Head Stone (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Dragon Head Stone (Dark Souls III) -  Dark Souls III - item - description \n description : Stone imbued with the power of the everlasting dragons, used in a secret rite by dragon worshippers.\n\nGain the head of a dragon and emit dragon breath, a transformation that is irreversible until death.\n\nThose who choose the path of the dragon strive for perfect imitation, and the dragon head rite is the first step in this grand process.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.537636714647824
+  },
+  {
+    "document_id": "de957706-87b2-5bbd-93b5-b1d4e46d5584",
+    "title": "Twinkling Dragon Torso Stone",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Twinkling Dragon Torso Stone -  Dark Souls III - item - description \n description : Stone imbued with the power of the everlasting dragons, offered to a towering dragon. This stone shows signs of a nascent light.\n\nGain the torso of a dragon and roar alongside an archdragon mirage. The transformation is irreversible until death.\n\nYet true imitation will require a dragon head, as well.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.535047431415617
+  },
+  {
+    "document_id": "2899de4e-5ce0-515c-a3ab-9cf1d4c38f30",
+    "title": "Logan's Catalyst",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Logan's Catalyst -  Dark Souls - weapon - availability \n availability : Found in a chest in a small library room in The Duke's Archives, the same room where Big Hat Logan moves to and sells his wares after being freed from the prison cell. The chest will only spawn after Big Hat Logan has gone insane and relocated to the upper chambers of the archives, where Seath the Scaleless is initially found.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.529540484878268
+  },
+  {
+    "document_id": "0f42203e-22e9-51cc-9bd7-7c7ac0ff7618",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Eons past his demise, the soul of the Paledrake remanifested in Drangleic, albeit in a lessened form, and possessed a mere spider. Its shape and condition notwithstanding, the obsession within \"the Writhing Ruin\", as it came to be known, led the spider to doggedly seek out its desires. Namely, it sought its \"home\" deep inside the mines of Tseldora, the old crystal cave of Seath, and where the petrified corpse of an ancient archdragon was found, and made it into its lair.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "918e9fe1-a6d9-5845-9137-69d02b703c32",
+    "title": "Seath the Scaleless",
+    "section": "moonlight_greatsword",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "You can also use fast spells to cut his tail. Unlike using weapons, it is recommended to retreat from the boss battle (Homeward, Homeward Bone, or quit game) if you fail to cut it on the first try after breaking the crystal.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bd0f64f5-ee89-5689-be26-ef4c173137a3",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "The structures of Seath's Crystal Cave endured and \"drifted\" to settle underground in southern Drangleic, the power of the white dragon lingering on as radiance within the crystals. The crystals infused with the souls of Seath became known as \"Brightstones\" and the kingdom of Olaphis mined these gems, refining and polishing them to be incorporated into their staves and rings, used as amplifiers for their sorceries.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cc852aba-3c57-54c2-ad1b-9f0fb1c2b157",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Centuries after the fall of Olaphis, the territory of the Brightstone mines came under the control of the Duchy of Tseldora. Under the reign of Vendrick, the Duke of Tseldora rediscovered the precious crystals and, starting to extract and sell them again, made a fortune with brightstone. The citizens of Tseldora flourished thanks to the gem trade, and accumulated luxuries as well as knowledge of witchcraft. However, Seath's obsession that radiated from these crystals would bewitch the town inhabitants with a burning desire, insatiated by the prosperity they acquired, always searching for something they lacked.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e20cbbe4-9798-5482-8c89-7a4b67c27a40",
+    "title": "Seath the Scaleless",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "The Japanese description of Seath's Bequeathed Lord Soul Shard uses the Chinese term (Pinyin: *wàiqì*, Hepburn: *gaiseki*) 'consort kin', which is used to define a person related by marriage to the maternal clan or wife's clan of the monarch, indicating that Seath became part of Gwyn's family through marriage with one of the daughters of his mother. However, if interpreted differently by reading the individual kanji separately like 外 (Gai) and 戚 (Seki), it would be translated as \"external relative\", implying that Seath would have married any woman from Gwyn's family.\n**While the term has a historical and cultural meaning too complex to properly convey in the context of the game's lore and the fact that one could become a \"Gaiseki\" even marrying a sibling or cousin of the monarch's mother or even by having the monarch marry one's daughter, it is more likely that Gwyn gave Seath one of his daughters as a gift, establishing a closer relation between the dragon and the royal family.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "072ee811-4b7a-5dd4-b81a-94dbaf636faf",
+    "title": "The Duke's Archives",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Duke's Archives -  Dark Souls - location - strategy \n strategy : Almost all of the enemies here have very high magic resistance, and can also deal very high damage. On top of that, the layout of the level means that frequently there will be enemies that the player cannot reach immediately. In summary, it is a good idea to keep moving and not use sorceries or magic-based weapons.\nIt is possible to skip the forced death against Seath and the sequence of being imprisoned by riding on top of the rail of the elevator just before Seath while it's going down and rolling off onto the second-from-top floor.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0cf3070e-ae40-59e1-9128-cd72bd32c21e",
+    "title": "The Duke's Archives",
+    "section": "keys",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Duke's Archives -  Dark Souls - location - keys \n keys : Archive Tower Giant Door Key\nArchive Prison Extra Key\nArchive Tower Cell Key\nArchive Tower Giant Cell Key",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "17e46449-4d5b-5994-bb0c-88a3e97f377b",
+    "title": "The Duke's Archives",
+    "section": "adjacent_locations",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Duke's Archives -  Dark Souls - location - adjacent_locations \n adjacent_locations : Anor Londo\nCrystal Cave",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2365a280-3552-50f6-ba0f-512bc7864d0c",
+    "title": "The Duke's Archives",
+    "section": "embers",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Duke's Archives -  Dark Souls - location - embers \n embers : Crystal Ember\nLarge Magic Ember",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2631b22f-01ea-5afc-9cdc-69b36bfd077a",
+    "title": "The Duke's Archives",
+    "section": "characters_2",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Duke's Archives -  Dark Souls - location - characters_2 \n characters_2 : Big Hat Logan\nCrystal General\nReah of Thorolund",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "61197994-f0d6-541e-aad0-3c4d17df2d31",
+    "title": "The Duke's Archives",
+    "section": "characters",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Duke's Archives -  Dark Souls - location - characters \n characters : Big Hat Logan (merchant) - Found trapped in a giant prison cell. He may either be freed using the Archive Tower Giant Cell Key or by defeating Seath the Scaleless. He will then be found in a library room located next to the mimic room. Buying all his sorceries will cause him to go hostile in the room where the player first fought Seath.\nSieglinde of Catarina - Found imprisoned in a Golden Crystal Golem.\nReah of Thorolund - If the player purchases all of the miracles that Reah has to offer, she will travel to The Duke's Archives and become hollow there.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "620c02cf-0516-5fb9-8363-ca2f8adca5d6",
+    "title": "The Duke's Archives",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Duke's Archives -  Dark Souls - location - description \n description : The Duke's Archives is a massive library fortress located in Anor Londo. It contains vast amounts of knowledge including many spells and magical relics. Here, players can learn powerful crystal spells, as well as obtain crystal and magic embers, and weapons.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6c623783-210f-5d28-a842-51e0c2ceef3d",
+    "title": "The Duke's Archives",
+    "section": "armor",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Duke's Archives -  Dark Souls - location - armor \n armor : Big Hat's Set\nSet of the Channelers\nCrystalline Set\nMaiden Set",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7c3859e7-4ce8-5027-8678-9f18fb1af9ed",
+    "title": "The Duke's Archives",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Duke's Archives -  Dark Souls - location - lead \n lead : **The Duke's Archives** (公爵の書庫), also called the **Regal Archives** (神の書庫 lit. God's Archives), is a location in *Dark Souls*. It can be reached by going through a large hall in Anor Londo (the one with two Sentinels, a chest, and a Mimic), and running past the Sentinel on the balcony, after the Lordvessel has been placed.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8cae3f64-5494-5881-8075-3837095f2bea",
+    "title": "The Duke's Archives",
+    "section": "miracles",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Duke's Archives -  Dark Souls - location - miracles \n miracles : Bountiful Sunlight\nSoothing Sunlight",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "908175ac-cd13-53c2-9420-1f34e6678381",
+    "title": "The Duke's Archives",
+    "section": "sorceries",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Duke's Archives -  Dark Souls - location - sorceries \n sorceries : Strong Magic Shield\nWhite Dragon Breath",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9b1b492d-52b1-5611-9b6f-c4d27d59d285",
+    "title": "The Duke's Archives",
+    "section": "non_respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Duke's Archives -  Dark Souls - location - non_respawning \n non_respawning : Crystal Lizard\nFang Boar\nGolden Crystal Golem\nMimic",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b5556ed7-738b-57fd-bb1d-f64b673a241a",
+    "title": "The Duke's Archives",
+    "section": "weapons",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Duke's Archives -  Dark Souls - location - weapons \n weapons : Crystal Knight Shield\nEnchanted Falchion\nTin Crystallization Catalyst\nLogan's Catalyst\nAvelyn",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "badf9b07-078f-564b-b1e4-b388508dd164",
+    "title": "The Duke's Archives",
+    "section": "respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Duke's Archives -  Dark Souls - location - respawning \n respawning : Channeler\nCrystal Golem\nUndead Crystal Soldier\nPisaca\nSerpent Mage\nSerpent Soldier",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e81a7ef9-66e4-503f-a963-a7634ae50950",
+    "title": "The Duke's Archives",
+    "section": "souls",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Duke's Archives -  Dark Souls - location - souls \n souls : Fire Keeper Soul",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f06b5e20-425e-5f9c-9f49-6ad9c81d7288",
+    "title": "The Duke's Archives",
+    "section": "rings",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Duke's Archives -  Dark Souls - location - rings \n rings : White Seance Ring",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f914c1d5-17df-5965-97f9-ec1c8c4fc576",
+    "title": "The Duke's Archives",
+    "section": "miscellaneous",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Duke's Archives -  Dark Souls - location - miscellaneous \n miscellaneous : Prism Stone x20",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fdc870a0-4db8-5403-936e-9b324ca35386",
+    "title": "The Duke's Archives",
+    "section": "upgrade_materials",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Duke's Archives -  Dark Souls - location - upgrade_materials \n upgrade_materials : Blue Titanite Chunk x2\nTwinkling Titanite x3",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  }
+]

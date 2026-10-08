@@ -3,7 +3,13 @@
 Run:
     python -m eval.build_candidates --questions eval/questions.json --out eval/v1/candidates --k 50
 
-Re-running is idempotent; per-question candidate files are overwritten.
+v2 deeper pools:
+    python -m eval.build_candidates --out eval/v2/candidates --dense-k 100 --bm25-k 100 --cap 250
+
+``--k`` sets the pool depth for both dense and BM25; ``--dense-k``/``--bm25-k``
+override it per source. Entity/title/slug matches are always added uncapped;
+``--cap`` applies to the final ranked list only. Re-running is idempotent;
+per-question candidate files are overwritten.
 """
 
 from __future__ import annotations
@@ -134,8 +140,12 @@ def build_for_question(
     slug_index: dict[str, list[str]],
     bm25: BM25Okapi,
     chunks: list[dict],
-    k: int,
+    dense_k: int,
+    bm25_k: int | None = None,
+    cap: int = MAX_CANDIDATES_PER_QUESTION,
 ) -> list[dict]:
+    if bm25_k is None:
+        bm25_k = dense_k
     candidates: dict[str, dict] = {}
 
     def _add(doc_id: str, source: str, *, dense=None, bm25=None) -> None:
@@ -180,7 +190,7 @@ def build_for_question(
         raw = client.query_points(
             collection_name=COLLECTION_NAME,
             query=query_vec,
-            limit=k,
+            limit=dense_k,
             with_payload=True,
         ).points
         for hit in raw:
@@ -197,7 +207,7 @@ def build_for_question(
         top_idx = sorted(
             range(len(bm25_scores)),
             key=lambda i: -bm25_scores[i],
-        )[:k]
+        )[:bm25_k]
         for idx in top_idx:
             score = bm25_scores[idx]
             if score <= 0:
@@ -225,7 +235,7 @@ def build_for_question(
                     matched_titles.add(title)
 
     ranked = _rank_candidates(candidates)
-    return ranked[:MAX_CANDIDATES_PER_QUESTION]
+    return ranked[:cap]
 
 
 def main() -> None:
@@ -240,8 +250,22 @@ def main() -> None:
         type=Path,
         default=REPO_ROOT / "eval" / "v1" / "candidates",
     )
-    ap.add_argument("--k", type=int, default=50)
+    ap.add_argument("--k", type=int, default=50,
+                    help="default pool depth for both dense and BM25")
+    ap.add_argument("--dense-k", type=int, default=None,
+                    help="override dense pool depth (default: --k)")
+    ap.add_argument("--bm25-k", type=int, default=None,
+                    help="override BM25 pool depth (default: --k)")
+    ap.add_argument("--cap", type=int, default=MAX_CANDIDATES_PER_QUESTION,
+                    help="final per-question candidate cap")
     args = ap.parse_args()
+
+    dense_k = args.dense_k if args.dense_k is not None else args.k
+    bm25_k = args.bm25_k if args.bm25_k is not None else args.k
+
+    if not Path(QDRANT_PATH).exists():
+        sys.exit(f"Qdrant storage not found at {QDRANT_PATH}; "
+                 f"run the indexing pipeline first")
 
     questions = json.loads(args.questions.read_text(encoding="utf-8"))
     args.out.mkdir(parents=True, exist_ok=True)
@@ -258,6 +282,12 @@ def main() -> None:
     print("Building slug fallback index from on-disk JSON...")
     slug_index = _build_slug_index()
     print(f"  indexed {len(slug_index)} slug tokens")
+    if not slug_index:
+        print(
+            "  warning: slug fallback index is empty (data/structured missing?); "
+            "entity matching relies on title matching only",
+            file=sys.stderr,
+        )
 
     print("Tokenizing corpus for BM25...")
     tokenized_corpus = [_tokenize(c["page_content"]) for c in chunks]
@@ -274,7 +304,9 @@ def main() -> None:
             slug_index,
             bm25,
             chunks,
-            args.k,
+            dense_k,
+            bm25_k,
+            cap=args.cap,
         )
         tmp = out_path.with_suffix(".json.tmp")
         tmp.write_text(
