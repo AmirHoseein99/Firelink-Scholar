@@ -1,0 +1,1261 @@
+{
+  "generated_at": "2026-10-08T14:06:12Z",
+  "retriever": "contextfromvectors",
+  "k": 10,
+  "per_question": {
+    "q002": {
+      "question": "Who was Knight Artorias the Abysswalker?",
+      "retrieved": [
+        {
+          "doc_id": "9949cb20-3bc2-59d1-8d22-371b104d1f8f",
+          "title": "Knight Artorias",
+          "score": 0.7570936472728846,
+          "in_v2_pool": true,
+          "v2_llm_grade": 3,
+          "human_grade": 3,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 3,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "db549071-dd75-52a2-a36c-c82d255d9752",
+          "title": "Four Knights of Gwyn",
+          "score": 0.722530802104876,
+          "in_v2_pool": true,
+          "v2_llm_grade": 3,
+          "human_grade": 3,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 3,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "b973ad28-00f7-51da-98d8-954179376f9a",
+          "title": "Set of Artorias",
+          "score": 0.7106297753104511,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 2,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 2,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "e0a9614c-c3a0-51c6-bbe3-aa7978f5940c",
+          "title": "Knight Artorias",
+          "score": 0.6886338073867025,
+          "in_v2_pool": true,
+          "v2_llm_grade": 3,
+          "human_grade": 3,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 3,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "6a526081-9a33-52ac-8cbf-3d95bc679b99",
+          "title": "Four Kings",
+          "score": 0.6881954201343499,
+          "in_v2_pool": true,
+          "v2_llm_grade": 3,
+          "human_grade": 2,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 2,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "8140a5b2-fa7c-5340-bcc0-eed39042a8f1",
+          "title": "Knight Artorias",
+          "score": 0.6771611793502565,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 3,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 3,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "8c2ac1b7-5f2d-5467-924a-4a65c26e421d",
+          "title": "Knight Artorias",
+          "score": 0.6745402153083738,
+          "in_v2_pool": true,
+          "v2_llm_grade": 2,
+          "human_grade": 2,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 2,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "dbde7d75-06a7-520b-b017-5550fe901781",
+          "title": "Knight Artorias",
+          "score": 0.6665997799936286,
+          "in_v2_pool": true,
+          "v2_llm_grade": 3,
+          "human_grade": 3,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 3,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "f28309f9-75e6-5837-8aa5-1086014a8e52",
+          "title": "Manus, Father of the Abyss",
+          "score": 0.6648785093864835,
+          "in_v2_pool": true,
+          "v2_llm_grade": 3,
+          "human_grade": 3,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 3,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "c3631e29-b2d7-5198-8d8d-eb579f99298c",
+          "title": "Knight Artorias",
+          "score": 0.6634257355789426,
+          "in_v2_pool": true,
+          "v2_llm_grade": 3,
+          "human_grade": 3,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 3,
+          "judged_anywhere": true
+        }
+      ],
+      "summary": {
+        "retrieved_count": 10,
+        "n_not_in_v2_pool": 0,
+        "not_in_v2_pool": [],
+        "n_not_judged_anywhere": 0,
+        "not_judged_anywhere": [],
+        "human_relevant_total": 24,
+        "v2_pool_relevant_recall": 1.0,
+        "v3_seed_relevant_recall": 1.0,
+        "template_contribution": 74,
+        "template_contribution_titles": [
+          "Abyss Attack Dog",
+          "Abyss Greatsword",
+          "Andre of Astora",
+          "Armor (Dark Souls)",
+          "Armor of Artorias",
+          "Artorias of the Abyss",
+          "Battle of Stoicism Gazebo",
+          "Black Dragon Kalameet",
+          "Bloathead",
+          "Broken Pendant",
+          "Cleansing Greatshield",
+          "Crest of Artorias"
+        ],
+        "pool_size_v3": 200,
+        "pool_size_v2": 207
+      }
+    },
+    "q005": {
+      "question": "What is the relationship between Knight Artorias and Great Grey Wolf Sif?",
+      "retrieved": [
+        {
+          "doc_id": "a0c53d8b-d7cf-5c2c-9913-3d7828fd2340",
+          "title": "Knight Artorias",
+          "score": 0.7644272243394546,
+          "in_v2_pool": true,
+          "v2_llm_grade": 3,
+          "human_grade": 3,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 3,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "9949cb20-3bc2-59d1-8d22-371b104d1f8f",
+          "title": "Knight Artorias",
+          "score": 0.7014301579700444,
+          "in_v2_pool": true,
+          "v2_llm_grade": 3,
+          "human_grade": 1,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 1,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "8208ca16-c392-549a-9f2e-f54d00e2921f",
+          "title": "Knight Artorias",
+          "score": 0.6976755067721573,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 2,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 2,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "37d51c5e-5be0-5fab-91f9-b317a2934f40",
+          "title": "Knight Artorias",
+          "score": 0.692979201982328,
+          "in_v2_pool": true,
+          "v2_llm_grade": 2,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "096f28de-5eb7-5ff0-8e13-d5a8c5cec2ca",
+          "title": "Greatsword of Artorias",
+          "score": 0.6905426896024477,
+          "in_v2_pool": true,
+          "v2_llm_grade": 2,
+          "human_grade": 2,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 2,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "bd1a2e47-42a8-5c04-8ea7-5a57a8574e06",
+          "title": "Four Knights of Gwyn",
+          "score": 0.686904719001584,
+          "in_v2_pool": true,
+          "v2_llm_grade": 3,
+          "human_grade": 3,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "template",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 3,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "15b233d6-e976-5555-99a7-51fdd65f4a07",
+          "title": "Great Grey Wolf Sif",
+          "score": 0.6714754255152151,
+          "in_v2_pool": true,
+          "v2_llm_grade": 2,
+          "human_grade": 3,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 3,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "95777e6e-b0ca-5e76-9358-66c7ac4ac3ad",
+          "title": "Soul of Sif",
+          "score": 0.6712980352137798,
+          "in_v2_pool": true,
+          "v2_llm_grade": 2,
+          "human_grade": 3,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 3,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "b8a29fe5-5dcc-5fb7-8c09-3c6ad923e513",
+          "title": "Greatshield of Artorias",
+          "score": 0.6708947589171124,
+          "in_v2_pool": true,
+          "v2_llm_grade": 2,
+          "human_grade": 2,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 2,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "55be761e-6c80-5b5f-a941-b575a20ad363",
+          "title": "Knight Artorias",
+          "score": 0.6686108215045081,
+          "in_v2_pool": true,
+          "v2_llm_grade": 0,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        }
+      ],
+      "summary": {
+        "retrieved_count": 10,
+        "n_not_in_v2_pool": 0,
+        "not_in_v2_pool": [],
+        "n_not_judged_anywhere": 0,
+        "not_judged_anywhere": [],
+        "human_relevant_total": 11,
+        "v2_pool_relevant_recall": 1.0,
+        "v3_seed_relevant_recall": 1.0,
+        "template_contribution": 74,
+        "template_contribution_titles": [
+          "Abyss Attack Dog",
+          "Abyss Greatsword",
+          "Anastacia of Astora",
+          "Andre of Astora",
+          "Antiquated Set (Dark Souls)",
+          "Armor (Dark Souls)",
+          "Broken Pendant",
+          "Cleansing Greatshield",
+          "Crest of Artorias",
+          "Dusk of Oolacile",
+          "Four Knights of Gwyn",
+          "Golden Scroll",
+          "Oolacile"
+        ],
+        "pool_size_v3": 200,
+        "pool_size_v2": 250
+      }
+    },
+    "q013": {
+      "question": "What is Lost Izalith, and what catastrophic event happened there?",
+      "retrieved": [
+        {
+          "doc_id": "863e00cd-9064-5f65-aec6-c84b6156fce0",
+          "title": "Lost Izalith",
+          "score": 0.6609689321379946,
+          "in_v2_pool": true,
+          "v2_llm_grade": 2,
+          "human_grade": 3,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 3,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "71a2689b-9edc-5bc9-bd64-9fef330cd1ed",
+          "title": "Lost Izalith",
+          "score": 0.6188260010046911,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "3111d240-fddf-51eb-bff6-6b56095f2c1d",
+          "title": "Lost Izalith",
+          "score": 0.617265165275074,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 1,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 1,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "1f1e1e4a-78ed-5c38-b4f9-38887b6c97f1",
+          "title": "Ceaseless Discharge",
+          "score": 0.6031458008292957,
+          "in_v2_pool": true,
+          "v2_llm_grade": 2,
+          "human_grade": 1,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "template",
+            "dense"
+          ],
+          "v3_judgment": 1,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "0b6d1693-5c8d-5553-bdd8-def1ebbe7c70",
+          "title": "Lost Izalith",
+          "score": 0.6009414447046737,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 3,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 3,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "acb59141-dd10-59da-836c-290a7b82d8dd",
+          "title": "Lost Izalith",
+          "score": 0.5992390296133345,
+          "in_v2_pool": true,
+          "v2_llm_grade": 3,
+          "human_grade": 3,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 3,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "354879d3-3e7c-5908-8b3e-e562c86be157",
+          "title": "Lost Izalith",
+          "score": 0.5976770881782657,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "f76aa087-4895-56e5-b46a-3f775e613d44",
+          "title": "Demon (lore)",
+          "score": 0.5950869534226552,
+          "in_v2_pool": true,
+          "v2_llm_grade": 3,
+          "human_grade": 3,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 3,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "f6c29e4d-5af7-5e88-b8cf-8e78381cdf64",
+          "title": "Lost Izalith",
+          "score": 0.5898027809059558,
+          "in_v2_pool": true,
+          "v2_llm_grade": 0,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "11764d0e-b499-56d9-9572-e5c319663675",
+          "title": "Lost Izalith",
+          "score": 0.5831748570927405,
+          "in_v2_pool": true,
+          "v2_llm_grade": 0,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        }
+      ],
+      "summary": {
+        "retrieved_count": 10,
+        "n_not_in_v2_pool": 0,
+        "not_in_v2_pool": [],
+        "n_not_judged_anywhere": 0,
+        "not_judged_anywhere": [],
+        "human_relevant_total": 5,
+        "v2_pool_relevant_recall": 1.0,
+        "v3_seed_relevant_recall": 1.0,
+        "template_contribution": 69,
+        "template_contribution_titles": [
+          "Bed of Chaos",
+          "Bounding Demon of Izalith",
+          "Burrowing Rockworm",
+          "Capra Demon",
+          "Ceaseless Discharge",
+          "Centipede Demon",
+          "Chaos Bug",
+          "Chaos Eater",
+          "Chaos Flame Ember",
+          "Demon (lore)"
+        ],
+        "pool_size_v3": 172,
+        "pool_size_v2": 250
+      }
+    },
+    "q023": {
+      "question": "What is the significance of the three crowns from the Lost Crowns DLC?",
+      "retrieved": [
+        {
+          "doc_id": "9cc47f29-211b-5ce4-8639-1cce9089dd4b",
+          "title": "The Lost Crowns",
+          "score": 0.7503275703847613,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 1,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 1,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "f43886b5-bf1e-55b5-91d9-a72db7da67a7",
+          "title": "Dark Souls II",
+          "score": 0.7181171875689347,
+          "in_v2_pool": true,
+          "v2_llm_grade": 2,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "48444fef-35a8-5d2a-a3ba-f522338b0bd2",
+          "title": "The Lost Crowns",
+          "score": 0.6838502139055975,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 1,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 1,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "387578db-d7c5-57a6-b40b-c98acd59e4d1",
+          "title": "The Lost Crowns",
+          "score": 0.6813725219223898,
+          "in_v2_pool": true,
+          "v2_llm_grade": 3,
+          "human_grade": 3,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 3,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "1ec757bf-ad0c-5c67-9891-85ed7cfaad42",
+          "title": "New Game Plus (Dark Souls II)",
+          "score": 0.6577535658954167,
+          "in_v2_pool": true,
+          "v2_llm_grade": null,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "a6280c94-93f6-5698-82a4-58de47dc6030",
+          "title": "Crown of the Sunken King",
+          "score": 0.6509258100566315,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "37c2d39b-cf4b-570d-bf75-20743a477289",
+          "title": "Crown of the Ivory King",
+          "score": 0.6482327075720619,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "8015eb7b-5a77-577f-a3d6-1d9b69cd8b21",
+          "title": "The Lost Crowns",
+          "score": 0.6206649444566864,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "3fb60ba3-adcc-5a8b-a41b-9b474f86577d",
+          "title": "The Lost Crowns",
+          "score": 0.6199557742661383,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "7f4b7f48-2bf2-5049-b28e-9d2e78c6bb1c",
+          "title": "The Lost Crowns",
+          "score": 0.61768115217373,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        }
+      ],
+      "summary": {
+        "retrieved_count": 10,
+        "n_not_in_v2_pool": 0,
+        "not_in_v2_pool": [],
+        "n_not_judged_anywhere": 0,
+        "not_judged_anywhere": [],
+        "human_relevant_total": 8,
+        "v2_pool_relevant_recall": 1.0,
+        "v3_seed_relevant_recall": 1.0,
+        "template_contribution": 79,
+        "template_contribution_titles": [
+          "Aldia, Scholar of the First Sin",
+          "First sin",
+          "Manhunter O'Harrah",
+          "Marvelous Chester",
+          "Old Iron King",
+          "Old Iron King Soul",
+          "Old King Soul",
+          "Soul of a Giant",
+          "Soul of the King"
+        ],
+        "pool_size_v3": 184,
+        "pool_size_v2": 250
+      }
+    },
+    "q025": {
+      "question": "What does Aldia's dialogue reveal about the cycle of Light and Dark?",
+      "retrieved": [
+        {
+          "doc_id": "4676aff5-e564-5610-ac43-0b3560a5645f",
+          "title": "Aldia, Scholar of the First Sin",
+          "score": 0.8050025701131719,
+          "in_v2_pool": true,
+          "v2_llm_grade": 3,
+          "human_grade": 3,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 3,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "bc6aea0f-5e8a-53f5-97e9-e70f5b19989b",
+          "title": "Aldia, Scholar of the First Sin",
+          "score": 0.7049928949187605,
+          "in_v2_pool": true,
+          "v2_llm_grade": 2,
+          "human_grade": 3,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 3,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "f3e97863-2156-559c-bc1e-a38dfa411ba1",
+          "title": "Drangleic",
+          "score": 0.6771362220195835,
+          "in_v2_pool": true,
+          "v2_llm_grade": 2,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "8affa6e3-b68c-555f-a667-1ac6f1cee5ce",
+          "title": "Aldia Key",
+          "score": 0.6738086889642165,
+          "in_v2_pool": true,
+          "v2_llm_grade": 0,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "114016b5-629b-5e1a-9153-8bcfa241089d",
+          "title": "Aldia, Scholar of the First Sin",
+          "score": 0.6729155958067715,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "81c7e209-8b0c-5df3-813d-0a7de862473e",
+          "title": "Aldia, Scholar of the First Sin",
+          "score": 0.6691435984744563,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "cf34461b-829a-5a09-8778-df30f750ba9f",
+          "title": "Aldia, Scholar of the First Sin",
+          "score": 0.6657994133667741,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 1,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 1,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "cd3d4a32-9d92-534b-9790-37edbc351578",
+          "title": "Drangleic",
+          "score": 0.6644095701907683,
+          "in_v2_pool": true,
+          "v2_llm_grade": 2,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "63d9e366-6c15-5f76-a5b5-7238429b9974",
+          "title": "Gwyn, Lord of Cinder",
+          "score": 0.6586329926321011,
+          "in_v2_pool": true,
+          "v2_llm_grade": 3,
+          "human_grade": 3,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 3,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "9c793983-b876-5da2-8ec5-3c877d3e2714",
+          "title": "Aldia, Scholar of the First Sin",
+          "score": 0.6547439939746577,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        }
+      ],
+      "summary": {
+        "retrieved_count": 10,
+        "n_not_in_v2_pool": 0,
+        "not_in_v2_pool": [],
+        "n_not_judged_anywhere": 0,
+        "not_judged_anywhere": [],
+        "human_relevant_total": 6,
+        "v2_pool_relevant_recall": 1.0,
+        "v3_seed_relevant_recall": 1.0,
+        "template_contribution": 75,
+        "template_contribution_titles": [
+          "Balder Shield",
+          "Bandit (Dark Souls II)",
+          "Bearer of the Curse",
+          "Enhanced Undead",
+          "Fire Keeper",
+          "First sin",
+          "Hollow",
+          "Lucatiel of Mirrah"
+        ],
+        "pool_size_v3": 200,
+        "pool_size_v2": 250
+      }
+    },
+    "q039": {
+      "question": "How does Manus's legacy continue to influence the events of Dark Souls II?",
+      "retrieved": [
+        {
+          "doc_id": "4fa9de46-41c4-5e69-a0a5-bc2193a2880c",
+          "title": "Manus, Father of the Abyss",
+          "score": 0.6842416025645699,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 1,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 1,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "edaa9b72-53d3-5cf5-b948-ea076b7a98c8",
+          "title": "Manus, Father of the Abyss",
+          "score": 0.6743044370577278,
+          "in_v2_pool": true,
+          "v2_llm_grade": 3,
+          "human_grade": 3,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 3,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "b9ea9b35-1658-578e-bed9-ad7b6dd7d8d4",
+          "title": "Manus, Father of the Abyss",
+          "score": 0.6717869543229905,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "fa947944-abd7-5751-aa1b-a57c284b313b",
+          "title": "Soul of Manus",
+          "score": 0.6550861460836915,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "a9891f4e-16b7-59e2-b86c-fe8ee35c4b76",
+          "title": "Manus, Father of the Abyss",
+          "score": 0.6484370803894786,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "2ad776c6-69b2-510d-847e-db6744d06806",
+          "title": "Soul of Manus",
+          "score": 0.6457901921482191,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "6ab5d255-e36c-59b1-93d2-283c78a1c9a7",
+          "title": "Knight Artorias",
+          "score": 0.6356767066264328,
+          "in_v2_pool": true,
+          "v2_llm_grade": 2,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "5a04b222-a88f-50f6-8524-5b6acc629e43",
+          "title": "Manus, Father of the Abyss",
+          "score": 0.634207119902328,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "e3bd9ab9-faa1-5dfe-8f4f-5cdf9f73a155",
+          "title": "Soul of Manus",
+          "score": 0.6318767700801984,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        },
+        {
+          "doc_id": "6a7d7821-0001-5013-8923-5a7fe893a5af",
+          "title": "Manus, Father of the Abyss",
+          "score": 0.6315749463764853,
+          "in_v2_pool": true,
+          "v2_llm_grade": 1,
+          "human_grade": 0,
+          "in_v3_pool": true,
+          "v3_sources": [
+            "human",
+            "gold",
+            "dense"
+          ],
+          "v3_judgment": 0,
+          "judged_anywhere": true
+        }
+      ],
+      "summary": {
+        "retrieved_count": 10,
+        "n_not_in_v2_pool": 0,
+        "not_in_v2_pool": [],
+        "n_not_judged_anywhere": 0,
+        "not_judged_anywhere": [],
+        "human_relevant_total": 17,
+        "v2_pool_relevant_recall": 0.11764705882352941,
+        "v3_seed_relevant_recall": 1.0,
+        "template_contribution": 80,
+        "template_contribution_titles": [
+          "Abyss",
+          "Aldia, Scholar of the First Sin",
+          "Covenant of Artorias",
+          "Darkstalker Kaathe",
+          "Farron Greatsword",
+          "First sin",
+          "Four Kings",
+          "Nashandra"
+        ],
+        "pool_size_v3": 200,
+        "pool_size_v2": 250
+      }
+    }
+  },
+  "probe_agreement": {
+    "per_question": {
+      "q002": {
+        "n_pairs": 16,
+        "exact": 0.4375,
+        "binary": 0.75,
+        "confusion": {
+          "0->0": 2,
+          "1->0": 4,
+          "1->1": 2,
+          "1->2": 1,
+          "1->3": 1,
+          "2->1": 1,
+          "2->2": 2,
+          "3->1": 1,
+          "3->2": 1,
+          "3->3": 1
+        }
+      },
+      "q005": {
+        "n_pairs": 16,
+        "exact": 0.625,
+        "binary": 0.75,
+        "confusion": {
+          "0->0": 9,
+          "0->1": 2,
+          "0->2": 1,
+          "0->3": 1,
+          "1->3": 2,
+          "2->2": 1
+        }
+      },
+      "q013": {
+        "n_pairs": 16,
+        "exact": 0.8125,
+        "binary": 0.875,
+        "confusion": {
+          "0->0": 10,
+          "0->1": 1,
+          "0->3": 1,
+          "1->1": 2,
+          "1->2": 1,
+          "3->3": 1
+        }
+      },
+      "q023": {
+        "n_pairs": 15,
+        "exact": 0.7333333333333333,
+        "binary": 0.8666666666666667,
+        "confusion": {
+          "0->0": 10,
+          "0->1": 1,
+          "0->2": 2,
+          "3->2": 1,
+          "3->3": 1
+        }
+      },
+      "q025": {
+        "n_pairs": 15,
+        "exact": 0.6,
+        "binary": 0.9333333333333333,
+        "confusion": {
+          "0->0": 9,
+          "0->1": 2,
+          "0->2": 1,
+          "1->0": 1,
+          "3->2": 2
+        }
+      },
+      "q039": {
+        "n_pairs": 19,
+        "exact": 1.0,
+        "binary": 1.0,
+        "confusion": {
+          "0->0": 15,
+          "1->1": 2,
+          "2->2": 1,
+          "3->3": 1
+        }
+      }
+    },
+    "pooled": {
+      "n_pairs": 97,
+      "exact": 0.711340206185567,
+      "binary": 0.865979381443299,
+      "confusion": {
+        "0->0": 55,
+        "0->1": 6,
+        "0->2": 4,
+        "0->3": 2,
+        "1->0": 5,
+        "1->1": 6,
+        "1->2": 2,
+        "1->3": 3,
+        "2->1": 1,
+        "2->2": 4,
+        "3->1": 1,
+        "3->2": 4,
+        "3->3": 4
+      }
+    }
+  },
+  "gates": {
+    "q039_recovery": {
+      "pass": true,
+      "detail": "q039 v3 seed recall of human-relevant ids = 1.0 (target 17/17 = 1.0)"
+    },
+    "baseline_coverage": {
+      "pass": true,
+      "detail": "v2-judged ids among top-10 per question: {'q002': 10, 'q005': 10, 'q013': 10, 'q023': 9, 'q025': 10, 'q039': 10} (min required 9)"
+    },
+    "template_pool_sanity": {
+      "pass": true,
+      "detail": "template-only additions per question: {'q002': 74, 'q005': 74, 'q013': 69, 'q023': 79, 'q025': 75, 'q039': 80} (cap 80; eyeball the title lists for plausibility)"
+    },
+    "grade_sanity": {
+      "pass": true,
+      "detail": "pooled probe binary agreement = 0.865979381443299 (gate 0.8; plus manual eyeball of retrieved chunks)"
+    },
+    "no_regression": {
+      "pass": true,
+      "detail": "every human grade for the pilot questions is kept verbatim in v3 judgments (human wins)"
+    }
+  }
+}

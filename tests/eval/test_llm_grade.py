@@ -1,17 +1,24 @@
 from __future__ import annotations
 
+import argparse
+import json
+import tempfile
 import unittest
+from pathlib import Path
 from typing import ClassVar
 from unittest.mock import AsyncMock, patch
 
 import httpx
 
+from eval import llm_grade
 from eval.llm_grade import (
     RUBRIC_TEXT,
     SNIPPET_LEN,
     build_user_prompt,
     grade_batch,
     grade_batch_sync,
+    grading_targets,
+    merge_question_entry,
     parse_grades,
 )
 
@@ -237,6 +244,226 @@ class TestGradeBatchSync(unittest.TestCase):
             )
         self.assertEqual(grades, {})
         self.assertIn("HTTP 401", err)
+
+
+class TestAnchoredPrompt(unittest.TestCase):
+    ANCHORS: ClassVar[dict] = {
+        "gold": {"title": "Gold Page", "section": "lead",
+                 "snippet": "GOLDTEXT"},
+        "contrast": {"title": "Contrast Page", "section": "lore",
+                     "snippet": "CONTRASTTEXT"},
+    }
+
+    def test_rubric_mention_is_zero_line(self) -> None:
+        self.assertIn("Merely mentioning or name-dropping", RUBRIC_TEXT)
+        self.assertIn("grade 0, not 1", RUBRIC_TEXT)
+
+    def test_anchors_embedded(self) -> None:
+        prompt = build_user_prompt(
+            {"question": "Q?", "expected_entities": []}, BATCH, self.ANCHORS)
+        self.assertIn("[ANCHOR GOLD — grade 3] title='Gold Page'", prompt)
+        self.assertIn("[ANCHOR CONTRAST — grade 0] title='Contrast Page'",
+                      prompt)
+        self.assertIn("GOLDTEXT", prompt)
+        self.assertIn("CONTRASTTEXT", prompt)
+
+    def test_no_anchors_omits_section(self) -> None:
+        prompt = build_user_prompt(
+            {"question": "Q?", "expected_entities": []}, BATCH)
+        self.assertNotIn("[ANCHOR", prompt)
+        self.assertNotIn("[ANCHOR", build_user_prompt(
+            {"question": "Q?", "expected_entities": []}, BATCH,
+            {"gold": None, "contrast": None}))
+
+    def test_anchor_snippet_truncated(self) -> None:
+        anchors = {"gold": {"title": "G", "section": "s",
+                            "snippet": "x" * 5000}, "contrast": None}
+        prompt = build_user_prompt(
+            {"question": "Q?", "expected_entities": []}, BATCH, anchors)
+        self.assertIn("x" * 700, prompt)
+        self.assertNotIn("x" * 701, prompt)
+
+
+class TestMergeQuestionEntry(unittest.TestCase):
+    Q: ClassVar[dict] = {"id": "q001", "question": "Q?", "game": "Dark Souls",
+                         "category": "entity"}
+
+    def test_human_wins_and_llm_fills_unjudged(self) -> None:
+        old = {"judgments": {"a": 1}, "probe_llm": {},
+               "sources": {"human": 0, "llm": 1, "run": 0}}
+        entry = merge_question_entry(old, self.Q, human={"a": 2, "b": 3},
+                                     new_llm={"a": 0, "c": 1}, new_probes={})
+        self.assertEqual(entry["judgments"], {"a": 2, "b": 3, "c": 1})
+        self.assertEqual(entry["sources"],
+                         {"human": 2, "llm": 1, "run": 0})
+        self.assertEqual(entry["grade_counts"], {"1": 1, "2": 1, "3": 1})
+        self.assertEqual(entry["n_judgments"], 3)
+
+    def test_probes_recorded_not_merged(self) -> None:
+        human = {"a": 3}
+        entry = merge_question_entry(None, self.Q, human,
+                                     new_llm={"a": 1}, new_probes={"a": 1})
+        self.assertEqual(entry["judgments"], {"a": 3})
+        self.assertEqual(entry["probe_llm"], {"a": 1})
+        self.assertEqual(entry["sources"]["llm"], 0)
+
+    def test_carried_llm_grades_persist(self) -> None:
+        old = {"judgments": {"x": 2}, "sources": {"run": 4}}
+        entry = merge_question_entry(old, self.Q, human={"a": 3},
+                                     new_llm={"b": 1}, new_probes={})
+        self.assertEqual(entry["judgments"], {"a": 3, "x": 2, "b": 1})
+        self.assertEqual(entry["sources"]["run"], 4)
+
+    def test_idempotent_rerun_is_stable(self) -> None:
+        first = merge_question_entry(None, self.Q, {"a": 3}, {"b": 1}, {})
+        second = merge_question_entry(first, self.Q, {"a": 3}, {}, {})
+        second.pop("updated_at")
+        first.pop("updated_at")
+        self.assertEqual(first, second)
+
+
+class TestGradingTargets(unittest.TestCase):
+    def test_unjudged_probes_and_anchors(self) -> None:
+        pool = [{"document_id": d} for d in ("a", "b", "c", "gold", "ctr")]
+        targets = grading_targets(
+            pool,
+            judged={"a": 3, "b": 0, "gold": 3, "ctr": 0},
+            probe_llm={},
+            probe_ids={"b"},
+            anchor_ids={"gold", "ctr"},
+        )
+        self.assertEqual([t["document_id"] for t in targets], ["b", "c"])
+
+    def test_probe_with_llm_grade_skipped(self) -> None:
+        pool = [{"document_id": d} for d in ("a", "b")]
+        targets = grading_targets(
+            pool, judged={"a": 3, "b": 2}, probe_llm={"b": 2},
+            probe_ids={"b"}, anchor_ids=set())
+        self.assertEqual(targets, [])
+
+    def test_fresh_pool_excludes_anchors(self) -> None:
+        pool = [{"document_id": d} for d in ("gold", "ctr", "x")]
+        targets = grading_targets(pool, judged={}, probe_llm={},
+                                  probe_ids=set(), anchor_ids={"gold", "ctr"})
+        self.assertEqual([t["document_id"] for t in targets], ["x"])
+
+
+class TestIdLevelResume(unittest.TestCase):
+    """Full sync pipeline against a mock endpoint, run twice."""
+
+    POOL: ClassVar[list[dict]] = [
+        {"document_id": f"doc-{i}", "title": f"T{i}", "section": "s",
+         "entity_type": "e", "snippet": "text"} for i in range(1, 4)
+    ]
+
+    def _setup_dir(self, tmp: str) -> dict[str, Path]:
+        base = Path(tmp)
+        cand = base / "candidates"
+        cand.mkdir()
+        (cand / "q900.json").write_text(json.dumps(self.POOL))
+        (base / "seeds.json").write_text(json.dumps(
+            {"q900": {"judgments": {"doc-1": 3}}}))
+        (base / "anchors.json").write_text(json.dumps({}))
+        return {"base": base, "cand": cand, "seeds": base / "seeds.json",
+                "anchors": base / "anchors.json",
+                "judgments": base / "judgments.json"}
+
+    @staticmethod
+    def _args(paths: dict[str, Path]) -> argparse.Namespace:
+        return argparse.Namespace(
+            questions=_questions_file(paths),
+            candidates=paths["cand"], judgments=paths["judgments"],
+            anchors=paths["anchors"], human_seeds=paths["seeds"],
+            start=None, limit=None, batch_size=2, concurrency=1,
+        )
+
+    def test_second_run_grades_only_missing_ids(self) -> None:
+        calls: list[list[str]] = []
+
+        def handler(request: httpx.Request) -> httpx.Response:
+            payload = json.loads(request.content)
+            content = payload["messages"][1]["content"]
+            batch_lines = [line for line in content.splitlines()
+                           if line.startswith("[")]
+            calls.append(len(batch_lines))
+            grades = [{"n": i + 1, "grade": 2}
+                      for i in range(len(batch_lines))]
+            return httpx.Response(200, json={"choices": [{"message": {
+                "content": json.dumps({"grades": grades})}}]})
+
+        with tempfile.TemporaryDirectory() as tmp:
+            paths = self._setup_dir(tmp)
+            args = self._args(paths)
+            settings_stub = _settings_stub()
+            client_factory = _mock_client_factory(handler)
+            with (patch.object(llm_grade, "settings", settings_stub),
+                  patch.object(llm_grade.httpx, "Client", client_factory)):
+                llm_grade._run_grading_sync(args)
+            entry = json.loads(paths["judgments"].read_text())["q900"]
+            self.assertEqual(entry["judgments"],
+                             {"doc-1": 3, "doc-2": 2, "doc-3": 2})
+            self.assertEqual(entry["sources"],
+                             {"human": 1, "llm": 2, "run": 0})
+            # first run targeted only the 2 unjudged non-human ids
+            self.assertEqual(calls, [2])
+
+            n_calls_first = len(calls)
+            # drop one LLM-graded id: resume must re-grade exactly that one
+            entry["judgments"].pop("doc-3")
+            paths["judgments"].write_text(json.dumps(
+                {"q900": entry}))
+            with (patch.object(llm_grade, "settings", settings_stub),
+                  patch.object(llm_grade.httpx, "Client", client_factory)):
+                llm_grade._run_grading_sync(args)
+            self.assertEqual(len(calls) - n_calls_first, 1)
+            entry = json.loads(paths["judgments"].read_text())["q900"]
+            self.assertEqual(entry["judgments"],
+                             {"doc-1": 3, "doc-2": 2, "doc-3": 2})
+
+    def test_already_complete_question_skipped(self) -> None:
+        def handler(request: httpx.Request) -> httpx.Response:
+            raise AssertionError("no HTTP expected")
+
+        with tempfile.TemporaryDirectory() as tmp:
+            paths = self._setup_dir(tmp)
+            entry = merge_question_entry(
+                None, {"id": "q900", "question": "Q?", "game": "g",
+                       "category": "c"},
+                {"doc-1": 3, "doc-2": 2, "doc-3": 2}, {}, {})
+            paths["judgments"].write_text(json.dumps({"q900": entry}))
+            args = self._args(paths)
+            with (patch.object(llm_grade, "settings", _settings_stub()),
+                  patch.object(llm_grade.httpx, "Client",
+                               _mock_client_factory(handler))):
+                llm_grade._run_grading_sync(args)
+            loaded = json.loads(paths["judgments"].read_text())
+            self.assertEqual(loaded["q900"]["judgments"],
+                             entry["judgments"])
+
+
+def _questions_file(paths: dict[str, Path]) -> Path:
+    q = [{"id": "q900", "question": "Q?", "game": "Dark Souls",
+          "category": "entity", "expected_entities": []}]
+    p = paths["base"] / "questions.json"
+    p.write_text(json.dumps(q))
+    return p
+
+
+def _settings_stub():
+    from types import SimpleNamespace
+
+    return SimpleNamespace(neuralwatt_api_key="key",
+                           neuralwatt_base_url="http://test",
+                           neuralwatt_model="test-model")
+
+
+def _mock_client_factory(handler):
+    real_client = httpx.Client
+
+    def factory(*a, **kw):
+        kw.pop("timeout", None)
+        return real_client(transport=httpx.MockTransport(handler), **kw)
+    return factory
 
 
 if __name__ == "__main__":

@@ -21,7 +21,7 @@ def contextfromvectors(query: str, k: int = 5):
     """Return ranked [(Document, score), ...] for a query.
 
     List order is the ranking. Document.metadata["document_id"] carries the
-    chunk UUID used by eval/v1/qrels.final.json.
+    chunk UUID used by the evaluation set (eval/v3/judgments.json).
     """
     vector = qwen_embeddings.embed_query(query)
     return qdrant.similarity_search_with_score_by_vector(vector, k=k)

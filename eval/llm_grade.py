@@ -1,22 +1,31 @@
-"""Batched LLM grader for retrieval candidate pools (v2 qrels).
+"""Anchored LLM grader for the v3 run-based judgment cycle.
 
 Run:
-    python -m eval.llm_grade --start q001 --limit 1      # smoke test one question
+    python -m eval.llm_grade --start q002 --limit 1      # smoke test one question
     python -m eval.llm_grade                              # full run, resumable
 
-Requires NEURALWATT_API_KEY in .env (see .env.example). Grades every candidate
-in the per-question pool files (``eval/v2/candidates`` by default) on the
+Requires NEURALWATT_API_KEY in .env (see .env.example). Grades candidate ids
+from the per-question seed pools (``eval/v3/candidates`` by default) on the
 0..3 rubric via the OpenAI-compatible chat endpoint configured by
 ``NEURALWATT_BASE_URL`` / ``NEURALWATT_MODEL``.
 
-Resumable: questions already present in the output file are skipped; delete a
-question's entry from the output to re-grade it. State is flushed atomically
-(tmp file + os.replace) after every question, so Ctrl-C never loses completed
-work. By default, batches within a question run concurrently on a single
-asyncio event loop (httpx.AsyncClient + semaphore). ``--sync`` runs the same
-pipeline fully synchronously (blocking httpx.Client + thread pool), which is
-easier to step through in an IDE debugger. Deliberately does NOT import
-src.llm.client (noisy prints, SQLite-lock side effects).
+v3 semantics (id-level, anchored):
+  - only ids WITHOUT a judgment are graded; re-runs grade just the delta, so
+    failed batches are retried cheaply by re-running the same command;
+  - every batch prompt embeds the question's gold anchor (human grade 3) and
+    contrast anchor (human grade 0) from ``eval/v3/seeds/anchors.json`` plus
+    the rubric line "merely mentions an expected entity = grade 0, not 1";
+  - anchor ids are never graded; probe ids (human-judged holdout) ARE graded
+    by the LLM, but their human grade stays authoritative in ``judgments`` —
+    LLM probe grades are stored under ``probe_llm`` for agreement reports;
+  - results merge into ``eval/v3/judgments.json``: human grades always win,
+    LLM grades only fill unjudged ids; ``sources`` counters track provenance.
+
+State is flushed atomically (tmp file + os.replace) after every question. By
+default, batches within a question run concurrently on a single asyncio event
+loop (httpx.AsyncClient + semaphore). ``--sync`` runs the same pipeline fully
+synchronously (blocking httpx.Client + thread pool). Deliberately does NOT
+import src.llm.client (noisy prints, SQLite-lock side effects).
 """
 
 from __future__ import annotations
@@ -29,6 +38,7 @@ import random
 import re
 import sys
 import time
+from collections import Counter
 from collections.abc import Iterator
 from concurrent.futures import ThreadPoolExecutor
 from datetime import UTC, datetime
@@ -45,6 +55,7 @@ MAX_ATTEMPTS = 5  # per HTTP request (429/5xx/timeouts), exponential backoff
 REQUEST_TIMEOUT = 120.0
 RETRYABLE_STATUS = {429, 500, 502, 503, 504}
 SNIPPET_LEN = 1000
+ANCHOR_SNIPPET_LEN = 700
 
 GRADE_KEYS = ("grade", "relevance", "score", "g", "rating")
 INDEX_KEYS = ("n", "index", "candidate", "num", "id", "doc")
@@ -62,21 +73,48 @@ Relevance rubric (integer grades 0..3):
       the core fact(s) needed).
   2 — the chunk contains substantial supporting information about the asked
       entities/relationship, but is not the direct answer.
-  1 — the chunk merely mentions an expected entity tangentially.
-  0 — the chunk is unrelated to the question.
+  1 — background that substantively involves an expected entity beyond a bare
+      name-drop (discusses its role, properties, or events relevant to the
+      question).
+  0 — unrelated to the question. Merely mentioning or name-dropping an
+      expected entity is grade 0, not 1.
 Negative example: an upgrade/repair page that only says a weapon "cannot be
 reinforced with twinkle titanite" tangentially mentions the item or mechanic
-without answering anything — that is a 1 or 0, never a 3. Match on substance,
+without answering anything — that is a 0, never a 3. Match on substance,
 not on keyword overlap."""
 
 
-def build_user_prompt(q: dict, batch: list[dict]) -> str:
-    """Render one batch prompt: rubric + question + numbered candidates."""
+def _render_anchor(label: str, grade: int, anchor: dict | None) -> list[str]:
+    if not anchor:
+        return []
+    snippet = (anchor.get("snippet") or "").replace("\n", " ")[:ANCHOR_SNIPPET_LEN]
+    return [
+        (
+            f"[ANCHOR {label} — grade {grade}] "
+            f"title={anchor.get('title', '')!r} "
+            f"section={anchor.get('section', '')!r}"
+        ),
+        f"    {snippet}",
+        "",
+    ]
+
+
+def build_user_prompt(
+    q: dict,
+    batch: list[dict],
+    anchors: dict | None = None,
+) -> str:
+    """Render one batch prompt: anchors + rubric + question + candidates."""
+    anchors = anchors or {}
     entities = q.get("expected_entities") or []
     lines = [
         f"Question: {q['question']}",
         f"Expected entities: {', '.join(entities) if entities else '(none listed)'}",
         "",
+    ]
+    lines += _render_anchor("GOLD", 3, anchors.get("gold"))
+    lines += _render_anchor("CONTRAST", 0, anchors.get("contrast"))
+    lines += [
         RUBRIC_TEXT,
         "",
         "Candidates:",
@@ -236,10 +274,11 @@ RETRY_REMINDER = (
 )
 
 
-def _base_messages(q: dict, batch: list[dict]) -> list[dict]:
+def _base_messages(q: dict, batch: list[dict],
+                   anchors: dict | None = None) -> list[dict]:
     return [
         {"role": "system", "content": SYSTEM_PROMPT},
-        {"role": "user", "content": build_user_prompt(q, batch)},
+        {"role": "user", "content": build_user_prompt(q, batch, anchors)},
     ]
 
 
@@ -320,6 +359,7 @@ async def grade_batch(
     headers: dict,
     q: dict,
     batch: list[dict],
+    anchors: dict | None = None,
 ) -> tuple[dict[str, int], str | None]:
     """Grade one batch. Returns ({doc_id: grade}, error_or_None).
 
@@ -327,7 +367,7 @@ async def grade_batch(
     reminder; valid grades from either attempt are kept.
     """
     batch_ids = [c["document_id"] for c in batch]
-    messages = _base_messages(q, batch)
+    messages = _base_messages(q, batch, anchors)
     payload = {
         "model": settings.neuralwatt_model,
         "messages": messages,
@@ -366,8 +406,9 @@ async def grade_question(
     headers: dict,
     batch_size: int,
     concurrency: int,
+    anchors: dict | None = None,
 ) -> tuple[dict[str, int], list[int]]:
-    """Grade one question's pool; returns (judgments, failed_batch_indexes).
+    """Grade one question's pending ids; returns (judgments, failed_batches).
 
     Batches run concurrently, bounded by ``concurrency`` via a semaphore.
     """
@@ -378,7 +419,8 @@ async def grade_question(
 
     async def _run(i: int) -> tuple[int, dict[str, int], str | None]:
         async with sem:
-            grades, err = await grade_batch(client, url, headers, q, batches[i])
+            grades, err = await grade_batch(client, url, headers, q,
+                                            batches[i], anchors)
         return i, grades, err
 
     results = await asyncio.gather(*(_run(i) for i in range(len(batches))))
@@ -433,10 +475,11 @@ def grade_batch_sync(
     headers: dict,
     q: dict,
     batch: list[dict],
+    anchors: dict | None = None,
 ) -> tuple[dict[str, int], str | None]:
     """Sync twin of grade_batch (same retry/reminder semantics)."""
     batch_ids = [c["document_id"] for c in batch]
-    messages = _base_messages(q, batch)
+    messages = _base_messages(q, batch, anchors)
     payload = {
         "model": settings.neuralwatt_model,
         "messages": messages,
@@ -468,6 +511,7 @@ def grade_question_sync(
     headers: dict,
     batch_size: int,
     concurrency: int,
+    anchors: dict | None = None,
 ) -> tuple[dict[str, int], list[int]]:
     """Sync twin of grade_question: blocking HTTP via a thread pool."""
     batches = _split_batches(candidates, batch_size)
@@ -475,7 +519,8 @@ def grade_question_sync(
     failed: list[int] = []
 
     def _run(i: int) -> tuple[int, dict[str, int], str | None]:
-        grades, err = grade_batch_sync(client, url, headers, q, batches[i])
+        grades, err = grade_batch_sync(client, url, headers, q, batches[i],
+                                       anchors)
         return i, grades, err
 
     with ThreadPoolExecutor(max_workers=concurrency) as pool:
@@ -492,11 +537,15 @@ def grade_question_sync(
     return judgments, failed
 
 
+# --------------------------------------------------------------------------- #
+# judgments.json merge (human wins; probes recorded separately)
+# --------------------------------------------------------------------------- #
+
 def _now_iso() -> str:
     return datetime.now(UTC).isoformat(timespec="seconds").replace("+00:00", "Z")
 
 
-def _load_qrels(path: Path) -> dict:
+def _load_json(path: Path) -> dict:
     if not path.exists():
         return {}
     try:
@@ -507,23 +556,94 @@ def _load_qrels(path: Path) -> dict:
         return {}
 
 
-def _save_qrels(path: Path, qrels: dict) -> None:
+def _save_json(path: Path, data: dict) -> None:
     tmp = path.with_suffix(path.suffix + ".tmp")
     tmp.write_text(
-        json.dumps(qrels, ensure_ascii=False, indent=2),
+        json.dumps(data, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
     os.replace(tmp, path)
 
+
+def merge_question_entry(
+    old_entry: dict | None,
+    q: dict,
+    human: dict[str, int],
+    new_llm: dict[str, int],
+    new_probes: dict[str, int],
+) -> dict:
+    """Build the v3 per-question entry. Human grades always win; new LLM
+    grades only fill ids without a human judgment. Recomputed from scratch,
+    so a re-run self-heals earlier partial merges."""
+    old_entry = old_entry or {}
+    carried_llm = {
+        d: g for d, g in old_entry.get("judgments", {}).items()
+        if d not in human
+    }
+    judgments: dict[str, int] = dict(carried_llm)
+    judgments.update(new_llm)
+    judgments.update(human)
+
+    probe_llm: dict[str, int] = dict(old_entry.get("probe_llm", {}))
+    probe_llm.update(new_probes)
+
+    n_llm = sum(1 for d in judgments if d not in human)
+    grade_counts = Counter(judgments.values())
+    return {
+        "question": q["question"],
+        "game": q.get("game", "Dark Souls"),
+        "category": q["category"],
+        "judgments": judgments,
+        "probe_llm": probe_llm,
+        "sources": {
+            "human": len(human),
+            "llm": n_llm,
+            "run": old_entry.get("sources", {}).get("run", 0),
+        },
+        "grade_counts": {str(g): n for g, n in sorted(grade_counts.items())},
+        "n_judgments": len(judgments),
+        "updated_at": _now_iso(),
+    }
+
+
+def grading_targets(
+    pool: list[dict],
+    judged: dict[str, int],
+    probe_llm: dict[str, int],
+    probe_ids: set[str],
+    anchor_ids: set[str],
+) -> list[dict]:
+    """Pool entries still to grade: unjudged non-anchor ids, plus probes that
+    have no LLM grade yet."""
+    targets = []
+    for cand in pool:
+        doc_id = cand["document_id"]
+        if doc_id in anchor_ids:
+            continue
+        if doc_id not in judged or (
+            doc_id in probe_ids and doc_id not in probe_llm
+        ):
+            targets.append(cand)
+    return targets
+
+
+# --------------------------------------------------------------------------- #
+# CLI run
+# --------------------------------------------------------------------------- #
 
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--questions", type=Path,
                     default=REPO_ROOT / "eval" / "questions.json")
     ap.add_argument("--candidates", type=Path,
-                    default=REPO_ROOT / "eval" / "v2" / "candidates")
-    ap.add_argument("--out", type=Path,
-                    default=REPO_ROOT / "eval" / "v2" / "llm-qrels.json")
+                    default=REPO_ROOT / "eval" / "v3" / "candidates")
+    ap.add_argument("--judgments", type=Path,
+                    default=REPO_ROOT / "eval" / "v3" / "judgments.json")
+    ap.add_argument("--anchors", type=Path,
+                    default=REPO_ROOT / "eval" / "v3" / "seeds" / "anchors.json")
+    ap.add_argument("--human-seeds", type=Path,
+                    default=REPO_ROOT / "eval" / "v3" / "seeds"
+                    / "human-judgments.json")
     ap.add_argument("--start", type=str, default=None,
                     help="question id to start from (e.g. q001)")
     ap.add_argument("--limit", type=int, default=None,
@@ -549,14 +669,23 @@ def main() -> None:
         asyncio.run(_run_grading(args))
 
 
+def _load_anchors(path: Path) -> dict:
+    data = _load_json(path)
+    return data.get("anchors", data) if isinstance(data, dict) else {}
+
+
 def _pending_questions(
     args: argparse.Namespace,
-    qrels: dict,
-) -> Iterator[tuple[dict, list[dict], int]]:
-    """Yield (question, candidates, n_batches) for questions still to grade.
+    judgments: dict,
+    anchors: dict,
+    human_seeds: dict,
+) -> Iterator[tuple[dict, list[dict], int, dict | None]]:
+    """Yield (question, targets, n_batches, anchors) per pending question.
 
-    Handles --start resume and skips already-graded/empty questions. The
-    caller owns --limit counting (break out of the loop to stop).
+    A question is pending when a pool file exists; its grading targets are
+    the pool ids without a judgment (id-level resume) plus probes lacking an
+    LLM grade. Anchor ids are excluded. Questions with zero targets are still
+    yielded once (to merge human seeds) unless an identical entry exists.
     """
     started = args.start is None
     for q in json.loads(args.questions.read_text(encoding="utf-8")):
@@ -565,46 +694,65 @@ def _pending_questions(
                 started = True
             else:
                 continue
-        if q["id"] in qrels:
-            print(f"  skipping {q['id']} (already graded)")
-            continue
         cand_path = args.candidates / f"{q['id']}.json"
         if not cand_path.exists():
-            print(f"  warning: no candidates for {q['id']} at {cand_path}, "
-                  f"skipping")
             continue
-        candidates = json.loads(cand_path.read_text(encoding="utf-8"))
-        if not candidates:
-            print(f"  warning: {q['id']} has empty candidate pool, skipping")
+        pool = json.loads(cand_path.read_text(encoding="utf-8"))
+        if not pool:
+            print(f"  warning: {q['id']} has empty pool, skipping")
             continue
-        yield q, candidates, len(_split_batches(candidates, args.batch_size))
+        q_anchors = anchors.get(q["id"]) or {}
+        anchor_ids = {
+            a["doc_id"]
+            for a in (q_anchors.get("gold"), q_anchors.get("contrast"))
+            if a and a.get("doc_id")
+        }
+        entry = judgments.get(q["id"]) or {}
+        probe_ids = set(q_anchors.get("probes") or [])
+        judged = {**human_seeds.get(q["id"], {}), **entry.get("judgments", {})}
+        targets = grading_targets(
+            pool, judged, entry.get("probe_llm", {}),
+            probe_ids, anchor_ids,
+        )
+        entry_ok = bool(entry) and not targets
+        if entry_ok:
+            recomputed = merge_question_entry(entry, q,
+                                              human_seeds.get(q["id"], {}),
+                                              {}, {})
+            recomputed.pop("updated_at")
+            if recomputed == {k: v for k, v in entry.items()
+                              if k != "updated_at"}:
+                print(f"  skipping {q['id']} (nothing new to grade)")
+                continue
+        yield q, targets, len(_split_batches(targets, args.batch_size)), \
+            (q_anchors or None)
 
 
 def _record_result(
     args: argparse.Namespace,
-    qrels: dict,
+    judgments: dict,
     q: dict,
-    judgments: dict[str, int],
+    human: dict[str, int],
+    new_grades: dict[str, int],
+    q_anchors: dict | None,
     n_batches: int,
     failed: list[int],
 ) -> bool:
-    """Store one question's grades, flush atomically, print a summary line.
+    """Merge one question's grades, flush atomically, print a summary line.
 
     Returns True if any batch failed for this question.
     """
-    qrels[q["id"]] = {
-        "question": q["question"],
-        "game": q.get("game", "Dark Souls"),
-        "category": q["category"],
-        "graded_at": _now_iso(),
-        "model": settings.neuralwatt_model,
-        "judgments": judgments,
-    }
-    _save_qrels(args.out, qrels)
-    n_relevant = sum(1 for g in judgments.values() if g > 0)
+    probe_ids = set((q_anchors or {}).get("probes") or [])
+    new_probes = {d: g for d, g in new_grades.items() if d in probe_ids}
+    new_llm = {d: g for d, g in new_grades.items() if d not in probe_ids}
+    entry = merge_question_entry(judgments.get(q["id"]), q, human, new_llm,
+                                 new_probes)
+    judgments[q["id"]] = entry
+    _save_json(args.judgments, judgments)
     note = f", {len(failed)}/{n_batches} batches failed" if failed else ""
-    print(f"  saved {q['id']}: {len(judgments)} judgments "
-          f"({n_relevant} > 0){note}")
+    print(f"  saved {q['id']}: {entry['n_judgments']} judgments "
+          f"(human={entry['sources']['human']} llm={entry['sources']['llm']}"
+          f" probes={len(entry['probe_llm'])}){note}")
     return bool(failed)
 
 
@@ -614,18 +762,24 @@ def _print_run_report(
     graded: int,
 ) -> None:
     if questions_with_failures:
-        print("\n=== Questions with failed batches (delete the entry in "
-              f"{args.out} and re-run to redo) ===")
+        print("\n=== Questions with failed batches (just re-run; id-level "
+              "resume retries only the missing ids) ===")
         for qid, n in questions_with_failures.items():
             print(f"  {qid}: {n} failed batch(es)")
     print(f"\nDone. Graded {graded} question(s) this run. "
-          f"Qrels at {args.out}")
+          f"Judgments at {args.judgments}")
 
 
 def _run_grading_sync(args: argparse.Namespace) -> None:
     """Fully synchronous run (--sync): blocking HTTP, thread-pool batches."""
-    qrels = _load_qrels(args.out)
-    print(f"Loaded {len(qrels)} already-graded questions from {args.out}")
+    judgments = _load_json(args.judgments)
+    anchors = _load_anchors(args.anchors)
+    human_seeds = {
+        qid: entry["judgments"]
+        for qid, entry in _load_json(args.human_seeds).items()
+    }
+    print(f"Loaded {len(judgments)} existing question entries from "
+          f"{args.judgments}")
 
     url = settings.neuralwatt_base_url.rstrip("/") + "/chat/completions"
     headers = {"Authorization": f"Bearer {settings.neuralwatt_api_key}"}
@@ -634,14 +788,24 @@ def _run_grading_sync(args: argparse.Namespace) -> None:
     questions_with_failures: dict[str, int] = {}
 
     with httpx.Client(timeout=REQUEST_TIMEOUT) as client:
-        for q, candidates, n_batches in _pending_questions(args, qrels):
+        for q, targets, n_batches, q_anchors in _pending_questions(
+            args, judgments, anchors, human_seeds
+        ):
             if args.limit is not None and graded >= args.limit:
                 break
-            judgments, failed = grade_question_sync(
-                q, candidates, client, url, headers,
-                args.batch_size, args.concurrency,
+            if not targets:
+                _record_result(args, judgments, q,
+                               human_seeds.get(q["id"], {}), {}, q_anchors,
+                               0, [])
+                continue
+            print(f"  grading {q['id']}: {len(targets)} pending id(s) in "
+                  f"{n_batches} batch(es)")
+            new_grades, failed = grade_question_sync(
+                q, targets, client, url, headers,
+                args.batch_size, args.concurrency, q_anchors,
             )
-            if _record_result(args, qrels, q, judgments, n_batches, failed):
+            if _record_result(args, judgments, q, human_seeds.get(q["id"], {}),
+                              new_grades, q_anchors, n_batches, failed):
                 questions_with_failures[q["id"]] = len(failed)
             graded += 1
 
@@ -649,8 +813,14 @@ def _run_grading_sync(args: argparse.Namespace) -> None:
 
 
 async def _run_grading(args: argparse.Namespace) -> None:
-    qrels = _load_qrels(args.out)
-    print(f"Loaded {len(qrels)} already-graded questions from {args.out}")
+    judgments = _load_json(args.judgments)
+    anchors = _load_anchors(args.anchors)
+    human_seeds = {
+        qid: entry["judgments"]
+        for qid, entry in _load_json(args.human_seeds).items()
+    }
+    print(f"Loaded {len(judgments)} existing question entries from "
+          f"{args.judgments}")
 
     url = settings.neuralwatt_base_url.rstrip("/") + "/chat/completions"
     headers = {"Authorization": f"Bearer {settings.neuralwatt_api_key}"}
@@ -659,14 +829,24 @@ async def _run_grading(args: argparse.Namespace) -> None:
     questions_with_failures: dict[str, int] = {}
 
     async with httpx.AsyncClient(timeout=REQUEST_TIMEOUT) as client:
-        for q, candidates, n_batches in _pending_questions(args, qrels):
+        for q, targets, n_batches, q_anchors in _pending_questions(
+            args, judgments, anchors, human_seeds
+        ):
             if args.limit is not None and graded >= args.limit:
                 break
-            judgments, failed = await grade_question(
-                q, candidates, client, url, headers,
-                args.batch_size, args.concurrency,
+            if not targets:
+                _record_result(args, judgments, q,
+                               human_seeds.get(q["id"], {}), {}, q_anchors,
+                               0, [])
+                continue
+            print(f"  grading {q['id']}: {len(targets)} pending id(s) in "
+                  f"{n_batches} batch(es)")
+            new_grades, failed = await grade_question(
+                q, targets, client, url, headers,
+                args.batch_size, args.concurrency, q_anchors,
             )
-            if _record_result(args, qrels, q, judgments, n_batches, failed):
+            if _record_result(args, judgments, q, human_seeds.get(q["id"], {}),
+                              new_grades, q_anchors, n_batches, failed):
                 questions_with_failures[q["id"]] = len(failed)
             graded += 1
 
