@@ -1,0 +1,1102 @@
+[
+  {
+    "document_id": "f0618ec0-34e9-5f3a-8c41-b9216eafaea5",
+    "title": "Dark Soul",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Dark Soul -  Dark Souls - item - trivia \n trivia : While the sprites of Humanity are pitch black and bear white eyes, the Dark Soul itself is an actual flame, implying that the sprites are more creations than exact replications.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.6623287300703037,
+    "bm25_score": 28.601731284343217
+  },
+  {
+    "document_id": "fa947944-abd7-5751-aa1b-a57c284b313b",
+    "title": "Soul of Manus",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Soul of Manus -  Dark Souls - item - description \n description : Soul of Manus, Father of the Abyss. This extraordinary soul is a viscous, lukewarm lump of gentle humanity.\n\nAncient Manus was clearly once human. But he became the Father of the Abyss after his humanity went wild, eternally seeking his precious broken pendant.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.6567450669067383,
+    "bm25_score": 29.144879046138865
+  },
+  {
+    "document_id": "a5a4c269-86ea-5558-b32d-8e6d505d0529",
+    "title": "Abyss",
+    "section": "items",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - items \n items : Red Eye Orb",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.7194836180718702,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2aa56742-5a66-54f3-8e3d-07712fa1fcef",
+    "title": "Abyss",
+    "section": "armor",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - armor \n armor : Dark Set",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.7168597650333635,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b73d5828-bbec-5d4b-8d90-8eaf0ec4cbb4",
+    "title": "Abyss",
+    "section": "covenant",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - covenant \n covenant : Darkwraith Covenant",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.7153140582713212,
+    "bm25_score": null
+  },
+  {
+    "document_id": "66a85198-7731-525a-81f4-e534bad40f73",
+    "title": "Timeline",
+    "section": "abyss_watchers_the_abyss_watchers",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Timeline -  Dark Souls III - storyline - abyss_watchers_the_abyss_watchers \n abyss_watchers_the_abyss_watchers : TBA",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.7111047766646814,
+    "bm25_score": 28.616025620777453
+  },
+  {
+    "document_id": "70ffecc1-69b6-5e3f-8518-b5e84560c1dc",
+    "title": "Chasm of the Abyss",
+    "section": "pyromancies",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - pyromancies \n pyromancies : Black Flame",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.7094485282069491,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d3e6e6ca-817b-5b5c-bacd-225b0ee15cb0",
+    "title": "Abyss",
+    "section": "boss",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - boss \n boss : Four Kings",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.701555426972978,
+    "bm25_score": null
+  },
+  {
+    "document_id": "65c38f5d-5359-5fc3-984f-fd4492ef05f3",
+    "title": "Dark Lord",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Dark Lord -  Dark Souls III - character - dark_souls_iii \n dark_souls_iii : Sister Friede\nAshen One*",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6968783336317655,
+    "bm25_score": null
+  },
+  {
+    "document_id": "72de66c7-6ad4-58dd-907f-d04fdb8fafc7",
+    "title": "Abyss",
+    "section": "souls",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - souls \n souls : Bequeathed Lord Soul Shard",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6949430870582765,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8f7abae3-9f23-5853-8810-a29ee2339339",
+    "title": "Abyss",
+    "section": "weapons",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - weapons \n weapons : Darksword\nDark Hand",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6920144600376119,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1d51a74c-97e6-5109-b7b6-08c300755cc7",
+    "title": "Chasm of the Abyss",
+    "section": "sorceries",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - sorceries \n sorceries : Dark Bead",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6918774973907972,
+    "bm25_score": null
+  },
+  {
+    "document_id": "545ad981-54a7-5202-a288-36de71d30647",
+    "title": "Bonfire (Dark Souls)",
+    "section": "reverse_hollowing",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Bonfire (Dark Souls) -  Dark Souls - mechanic - reverse_hollowing \n reverse_hollowing : Revives the player back to Human at the cost of one Humanity.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6906133858450436,
+    "bm25_score": null
+  },
+  {
+    "document_id": "99d2df09-7336-5640-b580-1221670e7df9",
+    "title": "Chasm of the Abyss",
+    "section": "boss",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - boss \n boss : Manus, Father of the Abyss",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.681754881408555,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a15e6f53-4357-5429-84b4-adf38b3f20ec",
+    "title": "Chasm of the Abyss",
+    "section": "adjacent_locations",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - adjacent_locations \n adjacent_locations : Oolacile Township Dungeon\nRoyal Wood",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6806069097593463,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d4dd76cf-6d94-5dea-bdb1-d0d196c433b7",
+    "title": "Dark Soul",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Using the Dark Soul, the Pygmy created black sprites of darkness called Humanity, which was given to his descendants. These dark-souled beings risen from the Abyss were called Humans, and each bore a small fragment of the Dark Soul. When the other Lords began fighting against the Everlasting Dragons, they conscripted the Humans into the forces, who aided the Lords by forging quasi-living arms and armor deep within the Abyss. But the Humans were betrayed by the Lords, for they feared the Dark that resides within each and every one of them. Their contributions to the War of the Ancients went completely unrecorded, and upon their Humanity, the Gods placed a sealing ring of fire, later to be known as the Darksign.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6748802705319276,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a6c7ca69-b221-5ab7-b820-ed1381c0a204",
+    "title": "Dark Souls: Prepare to Die Edition",
+    "section": "see_also",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Dark Souls: Prepare to Die Edition -  Dark Souls - mechanic - see_also \n see_also : **Artorias of the Abyss* - Article detailing the contents of the DLC.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6732362623380405,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1d74ee42-c101-54a7-87b6-798ae1ad8d1f",
+    "title": "Manus, Father of the Abyss",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - attacks \n attacks : {'name': 'Abyss Cage', 'description': 'Dark Orbs propagate from above Manus, surrounding the entire arena before homing back in on Manus. This attack covers the entire arena, except for the area right next to Manus, like an inverted AoE. Dodge it by getting as close as possible to Manus once he starts casting. The Silver Pendant can also block this attack.'}",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6709939930008346,
+    "bm25_score": null
+  },
+  {
+    "document_id": "82503a08-09bc-50b6-bd79-9d2353dcb99a",
+    "title": "Hollow Mage",
+    "section": "see_also",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Hollow Mage -  Dark Souls II - enemy - see_also \n see_also : Necromancer",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6704781493742292,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7f1f7e6c-816f-591f-9d15-f8f59b1d03e1",
+    "title": "Dark Lord",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Dark Lord -  Dark Souls III - character - dark_souls_ii \n dark_souls_ii : Bearer of the Curse*\nNashandra",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6701041468969733,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7a01c85d-984a-523b-86d9-15bedd80e116",
+    "title": "Silver Knight (Dark Souls III)",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Silver Knight (Dark Souls III) -  Dark Souls III - enemy - see_also \n see_also : Black Knight",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.664697516725079,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6c6971d9-de3a-5434-bb06-53c9c00f7784",
+    "title": "Age of Dark",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Through another questline, the player can cooperate with Yuria, a leader of the Sable Church of Londor, who urges the Ashen One to take the Flame for themselves, to usher in an Age of Dark; for the Sisters of the Sable Church were under the guidance of Kaathe. This is Ending 4: \"The Usurpation of Fire\", where the Flame is wrested by the Ashen One, who is to lead the Age of Man as the Lord of Hollows. By the time of *Dark Souls III*, the undead curse has been accepted by the people of Londor, who have come to view it as a blessing, and their Hollow form as the \"true face of man\".",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6634539072430377,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a570a172-6445-5af2-afec-1c5facc88f5e",
+    "title": "Black Knight (Dark Souls III)",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Black Knight (Dark Souls III) -  Dark Souls III - enemy - see_also \n see_also : Silver Knight",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.662956199974789,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fa6b1bb5-5a41-5f0c-9555-0e88dc104784",
+    "title": "Necromancer (Dark Souls II)",
+    "section": "see_also",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Necromancer (Dark Souls II) -  Dark Souls II - enemy - see_also \n see_also : Hollow Mage",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.660592310507575,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c8db5968-64ce-5ef9-b203-3988d38eefb0",
+    "title": "Praying Hollow Soldier",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Praying Hollow Soldier -  Dark Souls III - enemy - see_also \n see_also : Hollow Soldier",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6602452332236626,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4fa9de46-41c4-5e69-a0a5-bc2193a2880c",
+    "title": "Manus, Father of the Abyss",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - dark_souls \n dark_souls : Manus was a primordial human who possessed an extraordinary soul consisting of a viscous, lukewarm lump of gentle humanity, an immense Dark Soul. He was also a sorcerer who used a rough and old wooden catalyst, very crude but large enough to be used as a weapon. His sorceries could grant a fleeting will to the Dark of humanity, induced to relentlessly chase enemies through channeling innate human affinities. Manus also possessed one half of an ancient stone pendant, a precious magical artifact that emanated a distinct, wrenching nostalgia as well as reverence.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.660037162521443,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b9ea9b35-1658-578e-bed9-ad7b6dd7d8d4",
+    "title": "Manus, Father of the Abyss",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - plot \n plot : Once the Chosen Undead has the Broken Pendant in their possession, Manus pulls them through a magical rift from Darkroot Basin into the past land of Oolacile.\n\nHe kidnapped Princess Dusk and is eventually confronted in the Chasm of the Abyss.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6599680647149335,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9684c3e2-e3f7-5e7c-9490-88e051819aca",
+    "title": "Chasm of the Abyss",
+    "section": "non_respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - non_respawning \n non_respawning : Crystal Lizard",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6596824893009903,
+    "bm25_score": null
+  },
+  {
+    "document_id": "179707ee-9138-5f4d-8d83-4ad6c4f87fa7",
+    "title": "Ending (Dark Souls III)",
+    "section": "availability_2",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ending (Dark Souls III) -  Dark Souls III - mechanic - availability_2 \n availability_2 : {'name': 'Ending', 'description': 'Having witnessed visions of a world without the First Flame, the summoned Fire Keeper takes the First Flame into her hands, where she lets it wither and die out entirely. The light in the sky quickly fades together with the Flame and soon as the world descends into complete darkness, ending the Age of Fire.\\n\\nAlthough the world has now entered the long-postponed Age of Dark which would have naturally succeeded Fire had Lord Gwyn not started the tradition of linking the First Flame prior to the original *Dark Souls*. The shape that this new Age of Dark will take, and the part that the Unkindled One will play within it, are left unclear.'}",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6586872659021856,
+    "bm25_score": null
+  },
+  {
+    "document_id": "850ea100-9778-5673-ae46-fae733baff4b",
+    "title": "Dark Lord",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Dark Lord -  Dark Souls III - character - dark_souls \n dark_souls : Furtive Pygmy\nChosen Undead*",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6564736110545102,
+    "bm25_score": null
+  },
+  {
+    "document_id": "af29937f-30c3-57ed-a41f-da4614944fb8",
+    "title": "Darkroot Garden",
+    "section": "miscellaneous",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Darkroot Garden -  Dark Souls - location - miscellaneous \n miscellaneous : Twin Humanities",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.656160142060847,
+    "bm25_score": null
+  },
+  {
+    "document_id": "edaa9b72-53d3-5cf5-b948-ea076b7a98c8",
+    "title": "Manus, Father of the Abyss",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - dark_souls_ii \n dark_souls_ii : Although he was killed, the Dark Soul of Manus was so large and powerful that he was reborn in death, and his soul split into miniscule fragments that retained some will. These pieces began to coalesce once again by absorbing other humanities, becoming the incarnations of different emotions of Manus and then human in shape, with their own self-awareness: Elana was the embodiment of Manus' wrath, Alsanna of his fear, Nadalia of his solitude and Nashandra, the tiniest fragment of Manus, the embodiment of his want. These new entities had some recollection of their father and his dark powers and when the Abyss that they called home was dissipated they scattered across the land. To sustain themselves and seek power, they reached Drangleic where in one way or another they came into contact with the holders of magnificent souls, drawn to their awesome strength.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6546305270478969,
+    "bm25_score": null
+  },
+  {
+    "document_id": "830c100b-bfad-5cd6-8195-343efd6380a9",
+    "title": "Dark Soul",
+    "section": "capabilities",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Dark Soul -  Dark Souls - item - capabilities \n capabilities : Any fragment of the Dark Soul that separates from the original can be fueled by emotions and willpower, and increase its usable power, making it the most unique of the four Lord Souls.\n\nMost notable of its functions is the power to animate life and raise sentient beings from the Abyss, for the Dark Soul is the only Lord Soul which is intrinsically tied to the Abyss, unlike the other forms of life that take energy from Souls. The main lifeform connected to it is the Human race, but lesser creatures are said to have also risen from the Dark, such as the White-faced Locust. The Dark Soul is also linked to the Dark Hand, and by extension, the art of Lifedrain. This is the legendary power of the fabled Dark Lord, used to gain humanity from others. The Darkwraiths used this power to steal Humanity from their victims.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 34.419878229946775
+  },
+  {
+    "document_id": "27f78230-5975-5046-b648-c69cb2888ebd",
+    "title": "Humanity Phantom",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Humanity Phantom -  Dark Souls - enemy - location \n location : They are found in various groups in the Chasm of the Abyss.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 33.504863811943736
+  },
+  {
+    "document_id": "bc545255-28ab-5a58-b4c5-43aa0df33981",
+    "title": "Abyss",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - lead \n lead : The **Abyss** is a location in *Dark Souls*, as well as a storyline concept featured in all three games in the series.\n\nThe in-game location is at the heart of the New Londo Ruins, a featureless expanse where the Chosen Undead must slay the Four Kings and can encounter Darkstalker Kaathe. As a concept, \"Abyss\" is the name given to both a force that consumes or corrupts most forms of life, and to the areas in which it dwells; it is tied to the Age of Dark, and also gave birth to a twisted offshoot known as The Deep.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.74627020574107
+  },
+  {
+    "document_id": "f549938f-61fd-500d-a229-47d7fed5f60f",
+    "title": "Artorias of the Abyss",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Artorias of the Abyss -  Dark Souls - mechanic - lore \n lore : Artorias of the Abyss* takes place approximately 200 to 300 years before the events of *Dark Souls*, in the land of Oolacile. It features three of the Four Knights of Gwyn‎. The events of the DLC are also related to the story of *Dark Souls II*, as Nashandra was born from a fragment of Manus' soul.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.400266480518326
+  },
+  {
+    "document_id": "607b0731-e8e5-59a9-ac98-76e8920c8399",
+    "title": "Black Flame (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Black Flame (Dark Souls III) -  Dark Souls III - spell - description \n description : Pyromancy discovered by grave wardens after High Lord Wolnir fell to the Abyss.\n\nCreates a giant, black flame in hand.\n\nBlack flames born from the Abyss bear no shadow. They are said to be the impenetrable fires of humanity.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.45191293586263
+  },
+  {
+    "document_id": "a3c3640d-2a14-5b06-890f-1286f72d24b7",
+    "title": "Abyss Greatsword",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Abyss Greatsword -  Dark Souls - weapon - description \n description : This greatsword belonged to Lord Gwyn's Knight Artorias, who fell to the abyss.\n\nSwallowed by the Dark with its master, this sword is tainted by the abyss, and now its strength reflects its wielder's humanity.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.296232760376853
+  },
+  {
+    "document_id": "4281d8f2-9b05-57b8-9390-ed76a7c13882",
+    "title": "Chasm of the Abyss",
+    "section": "respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - respawning \n respawning : Bloathead Sorcerer\nBloathead\nHumanity Phantoms",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.99188607233926
+  },
+  {
+    "document_id": "62f10f17-4785-5604-aba5-83bbd6c1ebf8",
+    "title": "Age of Dark",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "What exactly the term \"Age of Dark\" implies is never made explicitly clear in the games, however it is stated in the canonical *Dark Souls Trilogy Compendium* to be a time when the Light fades, a Dark Lord is heralded, and humanity dominates the world. When the protagonists are given information about the Age of Dark, it typically comes from the mouths of potentially unreliable narrators, of whom Kaathe and his counterpart, Kingseeker Frampt, are examples. Kaathe asserts that the Age of Dark is \"the age of men,\" presumably meaning the Age of those possessing Humanity in contrast to the Age of the Gods, and also declares that Gwyn \"resisted the course of nature\" when he linked the Flame and prolonged the Age of Fire.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.84379193183919
+  },
+  {
+    "document_id": "e669f343-0c4d-511b-9ad7-12527fa5be69",
+    "title": "Black Flame (Dark Souls)",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Black Flame (Dark Souls) -  Dark Souls - spell - availability \n availability : Found on a corpse in the Chasm of the Abyss on the path to Manus, it is found down a path marked by a Prism Stone. The corpse is guarded by several Humanity Phantoms.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.53489206354947
+  },
+  {
+    "document_id": "552e96fa-2159-57d1-8101-7eaa49aca2ea",
+    "title": "Chasm of the Abyss",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - lead \n lead : The **Chasm of the Abyss** is a location in *Dark Souls*, and can only be accessed through the *Artorias of the Abyss* DLC.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.32363132616087
+  },
+  {
+    "document_id": "61b3a5e4-be4b-50ca-9ada-6f8383399f60",
+    "title": "Locations (Dark Souls)",
+    "section": "artorias_of_the_abyss",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Locations (Dark Souls) -  Dark Souls - location - artorias_of_the_abyss \n artorias_of_the_abyss : The *Artorias of the Abyss* DLC takes place in the land of Oolacile, far back in the past. It includes the following locations:",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.118133755355153
+  },
+  {
+    "document_id": "4a8c0261-1e57-52bd-82ca-3bcabbad91c0",
+    "title": "Age of Dark",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Age of Dark -  Dark Souls - storyline - description \n description : In the Age of Dark, the sun itself, which is connected to the status of the First Flame, is extinguished along with the Flame, and the world is enveloped in total darkness. However, it is not necessarily an existence completely devoid of fire and illumination as it might seem, as the Dark Soul of humanity itself is capable of producing everlasting flames, even if cold and generating light sources.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.984780547414736
+  },
+  {
+    "document_id": "59017915-8f59-5199-b41a-267c072f2cea",
+    "title": "Abyss Attack Dog",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Abyss Attack Dog -  Dark Souls - enemy - lead \n lead : **Abyss Attack Dogs** are enemies in *Dark Souls*. They can only be found in the Artorias of the Abyss DLC.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.966818811647315
+  },
+  {
+    "document_id": "80bc391c-7afa-54ff-bd5f-b6929685a9ed",
+    "title": "Humanity (item)",
+    "section": "drops",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Humanity (item) -  Dark Souls - item - drops \n drops : Baby Skeleton (Tomb of the Giants) - Semi-rare\nHumanity Phantom (Chasm of the Abyss) - Common\nPisaca (The Duke's Archives) - Rare\nSnow Rat (Painted World of Ariamis) - Uncommon\nUndead Rat - Uncommon",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.926893468341486
+  },
+  {
+    "document_id": "cbf8ccb7-9941-5424-a039-d12fcb6d7318",
+    "title": "Abyss Greatsword",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Abyss Greatsword -  Dark Souls - weapon - lead \n lead : The **Abyss Greatsword** is a boss soul weapon and greatsword in *Dark Souls*. It was introduced in the *Artorias of the Abyss* DLC.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.374340681426848
+  },
+  {
+    "document_id": "eb7a867e-7eda-52f7-8391-eed42d199562",
+    "title": "Manus, Father of the Abyss",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - lead \n lead : is a character in *Dark Souls* and a boss in *Dark Souls: Artorias of the Abyss*.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.284825073460322
+  },
+  {
+    "document_id": "05c6624f-3efc-5511-88ef-490c94eb1307",
+    "title": "Sorcery (Dark Souls)",
+    "section": "achievements_trophies",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Sorcery (Dark Souls) -  Dark Souls - spell - achievements_trophies \n achievements_trophies : ***Note**: Even on the PC version, the Abyss Sorceries are never needed to obtain the achievement.*",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.255365045208325
+  },
+  {
+    "document_id": "eeaa1771-ac8b-5773-8196-8b079d23dd5b",
+    "title": "Xanthous Crown (Dark Souls III)",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Xanthous Crown (Dark Souls III) -  Dark Souls III - armor - trivia \n trivia : Differing in appearance from the previous two games, the Xanthous Crown greatly resembles the Monk's Head Collar from *Demon's Souls*.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.217690505644917
+  },
+  {
+    "document_id": "3614ed10-1f00-57c1-a916-6fdadb70bb32",
+    "title": "Dark Hand",
+    "section": "humanity_absorption_on_npcs",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Dark Hand -  Dark Souls - weapon - humanity_absorption_on_npcs \n humanity_absorption_on_npcs : Depending on the player's Darkwraith covenant rank, one may need to use the Dark Hand several times to fully drain an NPC's Humanity.\nSome NPCs may end up Hollowed if their quests are finished or when all their items are purchased. Hollowed NPCs yield no Humanity when the Dark Hand is used on them.\nFor the sake of completion, the list below also contains NPCs that have no drainable Humanity, but can be targeted by the drain move of the Dark Hand.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.186851018751277
+  },
+  {
+    "document_id": "93ad5b0d-dd1a-50d5-bd07-1e05ed24d0e5",
+    "title": "Dark Orb (Dark Souls)",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Dark Orb (Dark Souls) -  Dark Souls - spell - description \n description : Abyss sorcery discovered by an Oolacile sorcerer on the brink of madness. Fire giant Dark Orb.\n\nIn contrast to standard soul sorceries, Abyss sorceries are weighty and inflict physical damage. Perhaps human souls, because of their humanity, produce sorceries with a more tangible presence.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.04963178828274
+  },
+  {
+    "document_id": "dd323fe0-20a9-56e2-bcc6-70baac9a6eec",
+    "title": "Negative Status Effects (Dark Souls II)",
+    "section": "effects",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Negative Status Effects (Dark Souls II) -  Dark Souls II - mechanic - effects \n effects : Compared to the original games, *Dark Souls II* adjusted many of the game mechanics, particularly death and hollowing, and therefore changed some status effects in relation to the original.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.947217809275386
+  },
+  {
+    "document_id": "d9a92758-1045-54f9-bc27-fab7117df6d8",
+    "title": "Age of Dark",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Age of Dark -  Dark Souls - storyline - lore \n lore : The Age of Dark begins when the First Flame fades completely, thus ending the Age of Fire and the rule of the gods that gained their power from it.\nSince the Flame continues to burn until it goes out naturally, the Dark Age should have arrived, as naturally, when it had exhausted its fuel.\n\nDespite the Age of Dark being a ubiquitous concept throughout the *Dark Souls* series, it is never the \"current\" state of the world in any of the existing games. Each of the *Dark Souls* games takes place during a late point in the Age of Fire, a point which could theoretically lead to the beginning of the Age of Dark, but which does not do so during the normal course of gameplay, with one possible exception.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.72978437536175
+  },
+  {
+    "document_id": "5513cbc0-4d16-5bbf-86aa-836e511648c2",
+    "title": "Carvings (Dark Souls III)",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Carvings (Dark Souls III) -  Dark Souls III - item - notes \n notes : As in the previous *Dark Souls* games, the carvings speak with the voice of Hawkeye Gough.\nOnly one of each carving can be obtained by the player. Attempting to trade in subsequent New Game cycles will yield nothing.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.493773629810104
+  },
+  {
+    "document_id": "c4c13a3c-386d-5d65-a091-4aac92177803",
+    "title": "Dark Hand",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Dark Hand -  Dark Souls - weapon - general_information \n general_information : As a shield, the Dark Hand has an 80% damage reduction from all damage types, is able to parry, is tied with the Small Leather Shield for lowest weight in the game, and one of the highest lightning damage reductions of all shields. This makes the Dark Hand a very well rounded Small Shield alternative. It also has the highest durability available and is hidden when not actively blocking, helping to offset its very low stability negative.\n\nAs a weapon, the Dark Hand's special right handed strong attack is the only action capable of stealing liquid humanity from NPCs and other players. How much it steals is dependent on the rank the player has progressed in the Darkwraith Covenant, as listed:\n+0 (or not in the Darkwraith covenant): 1 humanity stolen\n+1: 3 humanity stolen\n+2: 5 humanity stolen\n+3: 10 humanity stolen",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.451237777363215
+  },
+  {
+    "document_id": "3c0e7f30-e130-57ba-99b0-d61e2cb1db6a",
+    "title": "Furtive Pygmy",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Furtive Pygmy -  Dark Souls - character - dark_souls \n dark_souls : The Furtive Pygmy is one of the primordial humanoids that appeared underground following the advent of the First Flame which brought \"disparity\"—heat and cold, life and death, light and dark. He was the one who found the Dark Soul among the four Lord Souls, the other three of which were discovered by Gwyn, Lord of Sunlight, Gravelord Nito, and the Witch of Izalith.\n\nThe Furtive Pygmy fragmented his Dark Soul among his descendants, creating the first Humans in the form of the Pygmies. The pygmies harnessed their peculiar Lord Soul and unlocked the life-generating capabilities of its Abyss, forging weapons and armor that adopted the properties of darkness.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.4267509772205
+  },
+  {
+    "document_id": "384f6091-5fbb-5746-849d-ebf88447819e",
+    "title": "Dark Souls II",
+    "section": "plot",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark Souls II -  Dark Souls II - mechanic - plot \n plot : The story of *Dark Souls II* is not directly connected to *Dark Souls*, though they are set in the same world.\n\nThe game takes place in Drangleic, a once prosperous land under the rule of King Vendrick, which has fallen to ruin throughout the ages with the raging war between humans and giants, the sudden disappearance of the King, and the spreading of the Undead Curse. Like many others, the protagonist has come to the crumbling kingdom in search of a cure for their crippling affliction, the Curse of the Undead.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.423440810685552
+  },
+  {
+    "document_id": "1a687600-6490-5aed-b05f-bcabb9c0173e",
+    "title": "Timeline",
+    "section": "dark_soul_the_second_linking_of_the_flame",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Timeline -  Dark Souls III - storyline - dark_soul_the_second_linking_of_the_flame \n dark_soul_the_second_linking_of_the_flame : (The events before Dark Souls I)\n(**INCOMPLETE**)",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.700002599809622,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8ab10735-35c0-597f-abc8-bcba85bcaa2e",
+    "title": "Angel",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Angel -  Dark Souls III - enemy - see_also \n see_also : Darklurker",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6849324445582242,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0cc545b3-3485-52e6-942f-5e7d0ab735bc",
+    "title": "Timeline",
+    "section": "the_rise_and_fall_of_drangleic",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Timeline -  Dark Souls III - storyline - the_rise_and_fall_of_drangleic \n the_rise_and_fall_of_drangleic : These events before Dark Souls II\n\nSee Drangleic",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6787331965948102,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4fd1dc61-d523-502c-ab58-39d85ecf7d19",
+    "title": "Timeline",
+    "section": "the_rise_of_the_dark_lord",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Timeline -  Dark Souls III - storyline - the_rise_of_the_dark_lord \n the_rise_of_the_dark_lord : (The events of Dark Souls III)\n\n**Yuria and Dark Lord stuff still need to be added**",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6760451327838373,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8d8223db-2265-5f0c-8612-679adea21a99",
+    "title": "Ashes of Ariandel",
+    "section": "boss_souls",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - boss_souls \n boss_souls : Soul of Sister Friede",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6755197020843986,
+    "bm25_score": null
+  },
+  {
+    "document_id": "569ea945-0702-5c2d-bbec-843de507fdd7",
+    "title": "Tomb of the Giants",
+    "section": "miscellaneous",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Tomb of the Giants -  Dark Souls - location - miscellaneous \n miscellaneous : Humanity\nEye of Death x3",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6733871059197181,
+    "bm25_score": null
+  },
+  {
+    "document_id": "df010e20-459b-5321-95b5-aa451dbde7a4",
+    "title": "The Deep",
+    "section": "cathedral_of_the_deep",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "The Deep -  Dark Souls III - storyline - cathedral_of_the_deep",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6705991464103469,
+    "bm25_score": null
+  },
+  {
+    "document_id": "da9d3d41-2bab-53db-aa2c-ea7587be9492",
+    "title": "Deacons of the Deep",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Deacons of the Deep -  Dark Souls III - boss - see_also \n see_also : Deacon",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6690235410987528,
+    "bm25_score": null
+  },
+  {
+    "document_id": "90baa696-1c8a-5ea9-81e8-34cd14da8f50",
+    "title": "Lore",
+    "section": "external_links",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Lore -  Dark Souls - storyline - external_links \n external_links : [http://soulslore.wikidot.com Souls Lore]",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.668138530721226,
+    "bm25_score": null
+  },
+  {
+    "document_id": "367a046c-2567-5675-a27a-86805406fe0b",
+    "title": "Timeline",
+    "section": "the_age_of_disparity",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Timeline -  Dark Souls III - storyline - the_age_of_disparity \n the_age_of_disparity : (**INCOMPLETE**)",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.667502093526223,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7c8b9f2e-2f18-5d8c-ba1b-e299ac7e7c55",
+    "title": "Timeline",
+    "section": "the_age_of_fire",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Timeline -  Dark Souls III - storyline - the_age_of_fire \n the_age_of_fire : (**INCOMPLETE**)",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6662772652485016,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6668e309-0e7c-5539-912c-52493fb62f91",
+    "title": "Large Devout of the Deep",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Large Devout of the Deep -  Dark Souls III - enemy - see_also \n see_also : Devout of the Deep\nLarge Hollow Soldier",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6647431666734627,
+    "bm25_score": null
+  },
+  {
+    "document_id": "aa2ccdaf-e989-5175-b9d2-0f18637bd31f",
+    "title": "The Deep",
+    "section": "aldrich_devourer_of_gods_aldrich_saint_of_the_deep",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "The Deep -  Dark Souls III - storyline - aldrich_devourer_of_gods_aldrich_saint_of_the_deep",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6632571905955706,
+    "bm25_score": null
+  },
+  {
+    "document_id": "82d2b7c8-f3e6-5e24-9783-9f45c1a43ecf",
+    "title": "Humans",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Humans -  Dark Souls III - character - description \n description : Like the Gods, the race of Men varies in size and physical appearance, but are almost consistently amongst the shortest of the races. It seems that size is naturally varied and has been for all time, as the Ringed Knights are towering figures, while the Pygmy Lords are slightly shorter than modern man.\n\nAll human beings are made Human by a fragment of the Dark Soul, known as their Humanity, which looks like a black sprite with blank white eyes. Humans are also capable of withstanding the Abyss, provided that they have not become untuned to it, and even find a sort of comfort in it.\n\nBy the time of that human's death, their Humanity could be in any number of states. Emotion seems to make Humanity stronger, but also unstable, and the human body can be mutated by its own essence if control is lost.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6606141555048846,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0054ff83-cc8c-582e-86ad-e959b0a656af",
+    "title": "Giant Man Serpent",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Giant Man Serpent -  Dark Souls III - enemy - see_also \n see_also : Man Serpent\nMan Serpent Summoner",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6602454346356941,
+    "bm25_score": null
+  },
+  {
+    "document_id": "befd98cd-d195-5a23-ba25-fb983ccfca27",
+    "title": "Witch of Izalith",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "dark_souls : {'name': 'Theories', 'description': \"It is possible to theorize that Izalith, in her experiment to create a new First Flame with the power of her Lord Soul, used the Dark Soul as an added element.\\n**The power of weapons infused with the power of chaos scales with humanity like an Abyss-tainted weapon. In addition Chaos Flame Embers are able to infuse weapons with the power of the flames of chaos but are also augmented by humanity.\\n**Quelaag's Sister was able to become a Fire Keeper despite being corrupted by chaos, allowing her body to become the host of an immense mass of humanity. Furthermore, she's able to regain her power and body, debilitated by a blight, by feeding herself with humanities.\\n**The majority of demons encountered possess humanities, either because they gained them to absorb their power or because they already possessed them—either of which imply a compatibility between demons and humans.\\n**Izalith could have been enticed to utilize humanity due to",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6588088020657087,
+    "bm25_score": null
+  },
+  {
+    "document_id": "21374d06-ddbb-5c29-a3de-d36408c1d866",
+    "title": "The Embedded",
+    "section": "see_also",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "The Embedded -  Dark Souls II - character - see_also \n see_also : Ring of the Embedded",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.655867553048128,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c0f316b2-d922-5f81-be92-0170fb6290ef",
+    "title": "Cooperative Gameplay",
+    "section": "normal_summons",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Cooperative Gameplay -  Dark Souls - mechanic - normal_summons \n normal_summons : Players using the White Sign Soapstone can be summoned and earn humanity when the area boss is killed. Their summon signs have black text with a white outline.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6548627057587587,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cc842cfe-1310-5872-9364-fc020aad5e2d",
+    "title": "Corvian (Lore)",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Corvian (Lore) -  Dark Souls III - character - trivia \n trivia : With the exception of Humans, Gods and Dragons, who are key players in the narrative of *Dark Souls*, Corvians are the most recurring race, appearing in all three games.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 34.5104277998908
+  },
+  {
+    "document_id": "70f421e5-c322-57dc-96b8-8416a7c6d5bf",
+    "title": "Bloathead",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bloathead -  Dark Souls - enemy - lore \n lore : Bloatheads are the disturbed remnants of the populace of Oolacile, whose humanity went out of control after the Dark of Manus, father of the Abyss, overtook them.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 33.24757901332715
+  },
+  {
+    "document_id": "0f06cbc7-db35-57b0-8622-8912c0b28d82",
+    "title": "Timeline",
+    "section": "catacombs_of_carthus_the_catacombs_of_carthus",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "The Catacombs of Carthus, an immense underground necropolis, are built to keep and bury the bones of countless people and soldiers\nHigh Lord Wolnir uses necromancy to reanimate himself and control a skeleton army and empire, wishing to remain the last being\nAn Abyss opens in the Catacombs of Carthus and Wolnir falls into it, experiencing the terror of true darkness and he pleads to the gods for the first time\nThe sword and three sacred armlets he stole give him a semblance of comfort and prevent him from being corrupted by the Abyss, which is contained in a magical artifact\nAfter falling into the Abyss, Wolnir discovers a form of pyromancy that uses the dark souls, and since it's connected with humanity it gained a will of its own\nAfter Wolnir's fall into the Abyss, the pyromancers become the guardians of the catacombs\nAfter Wolnir's fall into the Abyss, the pyromancers discover the dark flame, born from the Abyss and shadowless, that spawned from the flames of humanity",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 33.24250430645826
+  },
+  {
+    "document_id": "ab633e52-7713-5e7d-9c85-561dafe7363b",
+    "title": "Stray Hound",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Stray Hound -  Dark Souls II - enemy - trivia \n trivia : According to the Beyond the Bonfire website, the Stray Hound is the most killed enemy in *Dark Souls II* across all three platforms.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.76258639159795
+  }
+]

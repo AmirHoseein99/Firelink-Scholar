@@ -1,0 +1,3336 @@
+[
+  {
+    "document_id": "ed2aeba5-3b04-5478-ab69-8ebee194681a",
+    "title": "Abyss",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - general_information \n general_information : Dropping into the Abyss will immediately trigger the area boss, the Four Kings, to spawn. After the Four Kings have been defeated, a bonfire will appear. At this point, the Abyss will cease being hostile, making the Covenant of Artorias ring useless.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.7688472573240532,
+    "bm25_score": 32.89147535131979
+  },
+  {
+    "document_id": "5890636a-9324-5c21-96f6-f94b4001303d",
+    "title": "Four Kings",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Four Kings -  Dark Souls - boss - location \n location : The Four Kings are found in the Abyss, accessed through New Londo Ruins. The player must first acquire the Key to the Seal from Ingward to drain the water from the ruins, as well as the Covenant of Artorias, a ring obtained from Great Grey Wolf Sif, to safely enter their battle arena.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.7017329888788035,
+    "bm25_score": 36.01881782479268
+  },
+  {
+    "document_id": "8c262ffc-c98f-5ace-aac0-4d8aed6ae408",
+    "title": "Covenant of Artorias",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Once the player has defeated the Four Kings, the Abyss will cease killing the player in their world and the ring is no longer required to traverse it. Though, if the player is summoned as a phantom to help another player defeat the Four Kings, the ring will once again be required to traverse the Abyss.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.6936997624072072,
+    "bm25_score": 35.14128749526439
+  },
+  {
+    "document_id": "6b29fe29-3e4b-59b3-894e-b05482ac6b97",
+    "title": "Abyss",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - notes \n notes : It is possible to reach and kill the Four Kings by killing Ingward, even if the player hasn't acquired the Lordvessel yet.\nThe bonfire that appears *will* allow warping to escape the Abyss, even without the Lordvessel.\n**This can be used as a shortcut for far away locations, such as Anor Londo, Tomb of the Giants or Ash Lake. If the player avoids resting at other bonfires, the Abyss can be used as a \"home base\", warping to locations in Lordran, and returning via Homeward Bone.\nAlthough it appears to be a black void of nothingness, the \"ground\" of the abyss actually floats a few meters above an unseen cobblestone floor. This can be observed by using a light source, such as the Skull Lantern or Sunlight Maggot.\nItems that require hitting a surface to activate, such as Prism Stones and Carvings, will not work in the Abyss as they simply fall through the \"floor\".",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.6911494026373037,
+    "bm25_score": 24.539757526232854
+  },
+  {
+    "document_id": "d3e6e6ca-817b-5b5c-bacd-225b0ee15cb0",
+    "title": "Abyss",
+    "section": "boss",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - boss \n boss : Four Kings",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.6775403279723193,
+    "bm25_score": 21.25712841635446
+  },
+  {
+    "document_id": "56bc8b00-f060-576b-8881-ee78c40a9c96",
+    "title": "Four Kings",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Four Kings -  Dark Souls - boss - attacks \n attacks : {'name': 'Life Drain', 'description': \"This is a Humanity stealing grab attack, and, like all grab attacks, it is unblockable. Its animation is similar to Wrath of the Kings: the King will spin around and pause, holding its wing/arm in preparation while emanating a colorless aura. If the player is slow to react, his forward grabbing dash will be inescapable. Counter-intuitively, it can be avoided by moving *closer* to the attacking king before they begin their lunge. In extreme proximity the attack will simply go over the player's head. Unlike other grab attacks, the King can still be damaged by aiding phantoms as a player is drained; however, this will only deal damage to the Four Kings' collective health bar rather than the individual King.\"}",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.6004021218906016,
+    "bm25_score": 24.26895879455504
+  },
+  {
+    "document_id": "8d7f3344-f80d-5818-90f5-30a3408b0e72",
+    "title": "Four Kings",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Although decades have passed since New Londo was reduced to rubble and submerged, the Four Kings remained alive in their Abyss, while the Darkwraiths continued to wait and patrol the area. When a Chosen Undead was able to ring the Bells of Awakening, overcome the challenges of Sen's Fortress and reach Anor Londo, thus being rewarded with the Lordvessel, they would be guided by Kingseeker Frampt to find immense souls to fill the receptacle and link the fading First Flame to succeed Gwyn in his sacrifice. The Undead would thus have proved their strength to Ingward to open the floodgates of the city and find a way to traverse the Abyss until they reached the Four Kings, challenging and killing them to obtain the fragment of a Lord Soul which they still possessed.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5806920139866831,
+    "bm25_score": 25.8115710252966
+  },
+  {
+    "document_id": "bc545255-28ab-5a58-b4c5-43aa0df33981",
+    "title": "Abyss",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - lead \n lead : The **Abyss** is a location in *Dark Souls*, as well as a storyline concept featured in all three games in the series.\n\nThe in-game location is at the heart of the New Londo Ruins, a featureless expanse where the Chosen Undead must slay the Four Kings and can encounter Darkstalker Kaathe. As a concept, \"Abyss\" is the name given to both a force that consumes or corrupts most forms of life, and to the areas in which it dwells; it is tied to the Age of Dark, and also gave birth to a twisted offshoot known as The Deep.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5668407976030058,
+    "bm25_score": 24.595435741637417
+  },
+  {
+    "document_id": "212dec23-e0fb-5d09-a3d5-d4ee96521a97",
+    "title": "Four Kings",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Four Kings -  Dark Souls - boss - lead \n lead : The are a boss in *Dark Souls*.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.55017739847721,
+    "bm25_score": 23.239580887676773
+  },
+  {
+    "document_id": "2b1f335e-4e45-5d68-9e5d-f862b9d8bff5",
+    "title": "Four Kings",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "20% bonus damage is dealt to the Kings and other Servants of the Dark by the Greatsword of Artorias true variant.\nIt is possible to bypass most of the ruins and reach the Kings by starting from the bonfire between Darkroot Basin and the Valley of Drakes, cross the bridge in the Valley of Drakes and enter New Londo. From there, take the elevator on the left that leads up to the seal and drop down right next to the fog gate. This route is about 20 seconds faster than starting from the Firelink Shrine bonfire.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5447542569865285,
+    "bm25_score": 23.219921050640917
+  },
+  {
+    "document_id": "90ebb67d-5003-5b22-b6a2-b0409dfe0397",
+    "title": "Four Kings",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Four Kings -  Dark Souls - boss - notes \n notes : The battle arena is pitch-black with no visible features. While there are invisible walls, rarely do they create complications.\nThe Kings spawn in one after another at a rate of about 1 every 35-40 seconds, and all four can be present at once. If one is killed before 35 seconds elapses, another will take its place, immediately resetting the spawn timer. Kings will continue to spawn for as long as the battle lasts, unless there are already four Kings present.\nAlthough up to four may be present during the fight, the additional kings will only become hostile after about 30-40 seconds, they will glide back and forth across the arena until the timer ends, the player engages with them, or the player wanders too far from them. The other Kings, however, are able to attack with their sword if the player is close enough, or cast magic homing missiles when the player is too far.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5412269086318151,
+    "bm25_score": 27.732816719526596
+  },
+  {
+    "document_id": "0dd93af1-e802-58a2-8f34-4c8ee9e67d4b",
+    "title": "Abyss",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - trivia \n trivia : Due to what was observed from Artorias, the phrase \"falling into the Abyss\" does not actually constitute entering it, but rather the near infinite and unconscious darkness of it seeking out lifeforms.\n**This likely means that Wolnir was very much alive when he fell, which explains how he was able to teach grave wardens his pyromancy, though what exactly it really was that actually caused his death is uncertain.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5310222900009196,
+    "bm25_score": 21.364950062933374
+  },
+  {
+    "document_id": "6a526081-9a33-52ac-8cbf-3d95bc679b99",
+    "title": "Four Kings",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "A nation of humans freed from the shackles of the Darksign, and who not only began to understand the powers of their Dark Soul but had an entire army at their disposal that shared this power, represented an unparalleled threat to the gods of Anor Londo, who branded the Darkwraiths as diabolical enemies of man and of every living thing. For this reason, Artorias, one of the Four Knights of Gwyn, was sent to fight the soldiers of New Londo and was given a Silver Pendant to deflect the Dark of the Abyss in its magical forms. However this did not prove sufficient to cross the Abyss of the Four Kings, and Artorias was forced to forge a covenant with the \"beasts of the Abyss\", obtaining a ring that would allow him to cross the Abyss, while also cursing his Greatsword. Artorias thus became known as the \"Abysswalker\", and hunted the Darkwraiths, but failed to eliminate the Four Kings and thus eliminate the Abyss of New Londo.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5287750000847568,
+    "bm25_score": 27.516845273207487
+  },
+  {
+    "document_id": "180cb761-8b61-5b7b-8b3b-aa853e4c1443",
+    "title": "Four Kings",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Four Kings -  Dark Souls - boss - strategy \n strategy : Unequipping the Covenant of Artorias will result in the player dying immediately; you cannot unequip this ring while fighting the Four Kings. After the battle has been completed, the ring is no longer necessary and may be unequipped without dying.\nUpon entry, the player will have time to cast any sort of buffs, during which a single king will appear; the second will join 35 seconds later; the last two appearing after the next 35 seconds. It is vital to eliminate each King quickly to avoid being surrounded.\nThere is no obligation to kill any specific amount of kings, so it is possible to spread out the damage to several of them. This can be done by dealing massive postmortem damage to a single King, as they can still be hurt during their death animation.\nPower Within adds decent amounts of damage to attacks and can help destroy individual Kings quickly before the next one appears.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5219005851939718,
+    "bm25_score": 23.75297599512142
+  },
+  {
+    "document_id": "c5f5b6f3-d501-595e-b90c-b92d745c15ee",
+    "title": "Manus, Father of the Abyss",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - description \n description : Manus is the final boss of the *Artorias of the Abyss* DLC. He is encountered in the Chasm of the Abyss.\n\nIt is possible to summon the past version of Great Gray Wolf Sif to aid in the battle. Sif's summon sign is found in the arena where the player fights Manus, inside the fog door.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5125124415872797,
+    "bm25_score": 21.057531442759647
+  },
+  {
+    "document_id": "01cbeb1d-de16-565d-8687-0b86108569b3",
+    "title": "Four Kings",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Four Kings -  Dark Souls - boss - lore \n lore : The Four Kings were once the great leaders of a country of humans. During the Age of Fire, Gwyn, Lord of Sunlight recognized their abilities and foresight and rewarded them with a fragment of his powerful Lord Soul and the title of kings, using his power to bind and hold close to him the powerful humans. The god also allowed them to build their civilization of New Londo near Anor Londo as a lower vassal of the city of the gods. Over time their city of humans grew to host countless lives, becoming a robust and flourishing culture. Although at some point the First Flame began to fade out, leading to the emergence of the Curse of Undeath, the city continued to exist and function as an Undead city, implying the good governance of the four kings who managed to adapt to the change.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5063718620943801,
+    "bm25_score": 24.527622592804455
+  },
+  {
+    "document_id": "752d026a-7201-5187-b8c9-3e93af4fd66a",
+    "title": "Covenant of Artorias",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Covenant of Artorias -  Dark Souls - ring - general_information \n general_information : Covenant of Artorias allows the player to reach the Abyss. As such, it is necessary in order to reach the Four Kings boss battle. Without wearing the ring, it is impossible to survive the fall into the Abyss. Taking off the ring during the fight with the Four Kings will cause the player to be devoured by the Abyss. Other than this, the ring has no other purpose.\n\nThe Covenant of Artorias is one of the very few rings that do not carry over to NG+; players are required to kill Great Grey Wolf Sif every playthrough to obtain the ring and beat the game. This ring, when dropped, will end up in the chest behind Kingseeker Frampt after the player has quit and reloaded the game. However, in the remaster, it will automatically be in the player’s inventory.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5058759428028697,
+    "bm25_score": 28.90300396468987
+  },
+  {
+    "document_id": "a5a4c269-86ea-5558-b32d-8e6d505d0529",
+    "title": "Abyss",
+    "section": "items",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - items \n items : Red Eye Orb",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6182081541075348,
+    "bm25_score": null
+  },
+  {
+    "document_id": "542fa741-9a4a-50f0-b62e-c0c587e7f205",
+    "title": "Abyss",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - location \n location : In Dark Souls the Abyss is located at the end of the New Londo Ruins. To reach to the Abyss, the floodgates must be lowered and the Covenant of Artorias ring, a reward for killing Great Grey Wolf Sif, must be worn. After climbing down a spiral staircase within a tower, the path will abruptly end, making it necessary to descend into the darkness of the Abyss.\n\nThe DLC *Artorias of the Abyss* allows us to explore a more recent Abyss, despite being located in a past era, deep within the dungeons of Oolacile.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6085643796199751,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2aa56742-5a66-54f3-8e3d-07712fa1fcef",
+    "title": "Abyss",
+    "section": "armor",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - armor \n armor : Dark Set",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5960665507645002,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8f7abae3-9f23-5853-8810-a29ee2339339",
+    "title": "Abyss",
+    "section": "weapons",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - weapons \n weapons : Darksword\nDark Hand",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5836513688942909,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1d51a74c-97e6-5109-b7b6-08c300755cc7",
+    "title": "Chasm of the Abyss",
+    "section": "sorceries",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - sorceries \n sorceries : Dark Bead",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.578649952130854,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a4565120-e607-57a7-a392-bd29db8a4847",
+    "title": "Knight Artorias",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "the Four Kings and close the Abyss of New Londo. Following Artorias's failure, an agonizing and terrible decision was made in order to contain the Abyss: flooding the entirety of New Londo, despite the realization that countless lives would be lost along with its prosperous culture. For this task, sorcerers were called forth and the feat was accomplished without evacuating the city's civilians, sealing away the Four Kings, their Darkwraiths and the entire population with them. The victims were cursed and became Ghosts roaming the ruins of their country.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5750936355553369,
+    "bm25_score": 28.56993249728051
+  },
+  {
+    "document_id": "b73d5828-bbec-5d4b-8d90-8eaf0ec4cbb4",
+    "title": "Abyss",
+    "section": "covenant",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - covenant \n covenant : Darkwraith Covenant",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5726907801847811,
+    "bm25_score": null
+  },
+  {
+    "document_id": "99d2df09-7336-5640-b580-1221670e7df9",
+    "title": "Chasm of the Abyss",
+    "section": "boss",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - boss \n boss : Manus, Father of the Abyss",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5716025887406633,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a15e6f53-4357-5429-84b4-adf38b3f20ec",
+    "title": "Chasm of the Abyss",
+    "section": "adjacent_locations",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - adjacent_locations \n adjacent_locations : Oolacile Township Dungeon\nRoyal Wood",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5638139909250452,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1d74ee42-c101-54a7-87b6-798ae1ad8d1f",
+    "title": "Manus, Father of the Abyss",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - attacks \n attacks : {'name': 'Abyss Cage', 'description': 'Dark Orbs propagate from above Manus, surrounding the entire arena before homing back in on Manus. This attack covers the entire arena, except for the area right next to Manus, like an inverted AoE. Dodge it by getting as close as possible to Manus once he starts casting. The Silver Pendant can also block this attack.'}",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5619819776606052,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9684c3e2-e3f7-5e7c-9490-88e051819aca",
+    "title": "Chasm of the Abyss",
+    "section": "non_respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - non_respawning \n non_respawning : Crystal Lizard",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5609024616202613,
+    "bm25_score": null
+  },
+  {
+    "document_id": "70ffecc1-69b6-5e3f-8518-b5e84560c1dc",
+    "title": "Chasm of the Abyss",
+    "section": "pyromancies",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - pyromancies \n pyromancies : Black Flame",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5562506092345837,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6b5dd397-fd03-50c8-a23a-9058cee4a670",
+    "title": "Abyss",
+    "section": "characters",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - characters \n characters : Darkstalker Kaathe will appear after the boss has been defeated. The player cannot have placed the Lordvessel under Kingseeker Frampt's guidance yet; if they do so before having met Kaathe, Kaathe will not appear.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5501964477502155,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6fa591de-1eb6-5855-88e4-54436d2388b5",
+    "title": "Chasm of the Abyss",
+    "section": "upgrade_materials",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - upgrade_materials \n upgrade_materials : Twinkling Titanite\nWhite Titanite Slab",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5471179426116644,
+    "bm25_score": null
+  },
+  {
+    "document_id": "db63a697-065d-5b76-834f-a6ae1aa09fa8",
+    "title": "Chasm of the Abyss",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - description \n description : Located at the lower portion of Oolacile, it is found after the player exits the Oolacile Township Dungeon, and a shortcut to the Royal Wood can be opened via an elevator. In this area, the player will fight Manus, Father of the Abyss, the final boss of the DLC. At the bottom of the chasm, a circle of stones surrounding a grave can be found, alluding to the upturned grave of Primeval Man.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5469182041459824,
+    "bm25_score": null
+  },
+  {
+    "document_id": "251c3a30-c2e7-5bb2-b4b4-64ee1dc9942a",
+    "title": "Abyss",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - lore \n lore : The Abyss is a realm of Dark born from the Dark Soul or its fragments. It's an ecosystem capable of creating life, as generated by one of the core components of the First Flame, and of expanding while slowly absorbing everything in its path; it is uninhabitable to all beings aligned with Fire including the Gods, as they require special equipment or protection to prevent corruption (both in the spiritual and physical sense). In contrast, any beings aligned with or indifferent to the Abyss (such as Humans) are able to roam it with no risk of harm or corruption.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5464966998025352,
+    "bm25_score": null
+  },
+  {
+    "document_id": "58d857ef-6748-5e0a-9c7c-84e48496a96e",
+    "title": "Four Kings",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Four Kings -  Dark Souls - boss - description \n description : The Four Kings are humans several meters tall with profoundly changed bodies and completely gray skin. Bark-like wooden membranes spread out chaotically from their heart, where their Dark Sign once stood, almost entirely covering their chest and left arm and spreading like branches. Several root-like horns extend from their heads and their spindly legs appear to be covered in bark. They all wield an enormous but terribly distorted and segmented sword, similar to the roots of their body.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.546227840082085,
+    "bm25_score": null
+  },
+  {
+    "document_id": "72de66c7-6ad4-58dd-907f-d04fdb8fafc7",
+    "title": "Abyss",
+    "section": "souls",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - souls \n souls : Bequeathed Lord Soul Shard",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5452609683107901,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e0a9614c-c3a0-51c6-bbe3-aa7978f5940c",
+    "title": "Knight Artorias",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "A nation of humans freed from the shackles of the Darksign, in possession of an army empowered by their boundless Dark Soul, represented an unparalleled threat to the gods of Anor Londo, who branded the Darkwraiths diabolical enemies of man and of every living thing. Artorias, as one of the Four Knights of Gwyn, was sent to fight the dark soldiers of New Londo, being granted a Silver Pendant to deflect the Dark of the Abyss he would face. However this did not prove sufficient to cross into the Abyss of the Four Kings, and Artorias was forced to forge a covenant with the \"beasts of the Abyss\", obtaining a ring that would allow him to cross the Abyss, but also cursed his sword in the process. Artorias thus became known as the \"Abysswalker\" and hunted the Darkwraiths, but failed to eliminate the Four Kings and close the Abyss of New Londo. Following Artorias's failure, an agonizing and terrible decision was made in order to contain the Abyss: flooding the entirety of New Londo, despite",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5349489010734781,
+    "bm25_score": 30.087187210222574
+  },
+  {
+    "document_id": "8be7b14c-8004-5926-82a0-6dc631f92f5f",
+    "title": "Chasm of the Abyss",
+    "section": "weapons",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - weapons \n weapons : Cleansing Greatshield",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5253870282473365,
+    "bm25_score": null
+  },
+  {
+    "document_id": "552e96fa-2159-57d1-8101-7eaa49aca2ea",
+    "title": "Chasm of the Abyss",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - lead \n lead : The **Chasm of the Abyss** is a location in *Dark Souls*, and can only be accessed through the *Artorias of the Abyss* DLC.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5222096502865932,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4ef5e30a-45de-5e12-9bcb-ad05797c3c01",
+    "title": "Artorias of the Abyss",
+    "section": "reaching_oolacile",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Artorias of the Abyss -  Dark Souls - mechanic - reaching_oolacile \n reaching_oolacile : The player must first travel to Darkroot Basin, defeat the Hydra, then defeat the Golden Crystal Golem further in to free Dusk of Oolacile. From there, the player must acquire the Broken Pendant from The Duke's Archives. After acquiring the pendant, a floating dark rift will appear in Darkroot Basin close to where the Gold Golem was encountered, at the very rear of the area. Upon inspection, the player will be transported to Oolacile.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5184364121937854,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9abf34cc-6504-54b7-8cd8-5ffead9dff54",
+    "title": "Humans",
+    "section": "age_of_gods",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Meanwhile, in a place called Oolacile, the land of golden sorceries, humans loyal to the Gods were convinced by the Darkwraith leader named Kaathe, a primordial serpent loyal to the Pygmy, to raise up a primeval man who had been buried there. He went mad, and his Humanity bubbled over from his uncontrollable rage, mutating him into a dark monster. His Humanity overflowed and consumed the very world around him, generating another Abyss, and corrupting the citizens of Oolacile. Knight Artorias, one of the four knights of Gwyn, would be tasked to face the outbreak of the Abyss, only to be corrupted by it.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5115949497390951,
+    "bm25_score": 22.771745282220657
+  },
+  {
+    "document_id": "4f4ddd31-23e5-595b-95f0-cde35ec94578",
+    "title": "Warrior of Sunlight",
+    "section": "how_to_join",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Warrior of Sunlight -  Dark Souls - mechanic - how_to_join \n how_to_join : Once all requirements are met, the player may kneel in front of the broken statue on the balcony behind the Hellkite Dragon.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5111061823345658,
+    "bm25_score": 21.439917166042402
+  },
+  {
+    "document_id": "20068273-0dea-5f0e-8ba5-9df006d5f6c1",
+    "title": "Dark Chasm of Old",
+    "section": "overview",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "After completing three challenges, the end of the last area cleared will lead the player to face a boss: the Darklurker. Killing him will grant the player victory and the final rank in the covenant.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5108548650644451,
+    "bm25_score": 21.69732872319646
+  },
+  {
+    "document_id": "3e75c382-ea86-5338-a7a5-201d0994661c",
+    "title": "Abyss Seal",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Abyss Seal -  Dark Souls II - ring - effect \n effect : Wearing the Abyss Seal increases the Dark damage of hexes by 7% at the cost of 30 HP per cast.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5104000793624853,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ad71548b-e936-500e-8970-c76142083baf",
+    "title": "Abyss Attack Dog",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Abyss Attack Dog -  Dark Souls - enemy - location \n location : They are encountered in an isolated area of the Royal Wood within Oolacile, along the river leading to Black Dragon Kalameet.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5095948900441936,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0d6176d3-ebad-525b-ad13-dbf86c32c0f9",
+    "title": "Abyss Watchers",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Abyss Watchers -  Dark Souls III - boss - location \n location : Found at the end of Farron Keep, from the Farron Keep Perimeter bonfire (which is near two Darkwraiths fighting multiple Ghrus). From there is a stone path (or alternatively a side path along the right exit of where the bonfire is) where the Ashen One will encounter closed chamber doors where the fighting of the Watchers can be heard.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5087228317768373,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b9ea9b35-1658-578e-bed9-ad7b6dd7d8d4",
+    "title": "Manus, Father of the Abyss",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - plot \n plot : Once the Chosen Undead has the Broken Pendant in their possession, Manus pulls them through a magical rift from Darkroot Basin into the past land of Oolacile.\n\nHe kidnapped Princess Dusk and is eventually confronted in the Chasm of the Abyss.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5063571915129028,
+    "bm25_score": null
+  },
+  {
+    "document_id": "42e3edab-1d8b-5af4-a6fe-403c35464c17",
+    "title": "Way of Blue",
+    "section": "how_to_join",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Way of Blue -  Dark Souls II - mechanic - how_to_join \n how_to_join : Talk to Crestfallen Saulden, who sits at the base of a tall monument in Majula, four times. Doing so will make him offer the player to join the covenant and accepting will have them recieve the Blue Seal.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5036610468329428,
+    "bm25_score": 23.824070177568007
+  },
+  {
+    "document_id": "7471b26b-9515-58d0-8d49-96990b1abd13",
+    "title": "Blade of the Darkmoon",
+    "section": "how_to_join",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Blade of the Darkmoon -  Dark Souls - mechanic - how_to_join \n how_to_join : First, acquire the Darkmoon Seance Ring in The Catacombs. Go to the bottom level of the rotating elevator in Anor Londo to find the Darkmoon Tomb bonfire. Past the bonfire, Gwyn's statue will disappear to reveal a fog gate if the player is wearing the Darkmoon Seance Ring. If the player has killed Gwynevere, the statue will just disappear when approached. Go toward the fog gate and Dark Sun Gwyndolin will ask the player to swear fealty to the Blades of the Darkmoon. Kneel at the fog door to join the covenant.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5003771453725403,
+    "bm25_score": 20.697004176365613
+  },
+  {
+    "document_id": "73226f16-cf94-5ee7-a679-24718ddae62a",
+    "title": "Abyss Seal",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Abyss Seal -  Dark Souls II - ring - availability \n availability : Given to the player by Darkdiver Grandahl upon joining the Pilgrims of Dark covenant.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.49990009577528244,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2f8fff4d-7e70-5bcb-af09-e434475ce469",
+    "title": "Abyss Greatsword",
+    "section": "scaling_percentages",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Abyss Greatsword -  Dark Souls - weapon - scaling_percentages \n scaling_percentages : ***Strength - 55%**\n***Dexterity - 55%**\n***Intelligence - 0%**\n* **Faith - 0%**",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.49960679195782143,
+    "bm25_score": null
+  },
+  {
+    "document_id": "71b064a2-381f-56a6-96a7-732394c64b7e",
+    "title": "New Londo Ruins",
+    "section": "bosses",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - bosses \n bosses : Four Kings",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.4992017176367043,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5a04b222-a88f-50f6-8524-5b6acc629e43",
+    "title": "Manus, Father of the Abyss",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - strategies \n strategies : It is possible for the player to kill Manus outside his fog gate:\n#Kill all the surrounding Humanity Phantoms.\n#Unequip all armor, then equip a fully upgraded longbow, Feather Arrows, the Symbol of Avarice, the Red Tearstone Ring, and the Hawk Ring.\n#Unequip the Symbol of Avarice after the Red Tearstone Ring activates.\n#Stand on the right side of the bridge that leads to the fog gate. There are a set of ridges, and on the third from the bridge, Manus's red eyes will be visible.\n#Shoot towards the eyes until you successfully hit Manus. Keep shooting until his health is low. Now you have two options:\n##Enter the fog door and finish him off.\n##Kill him from the ledge. The fog gate will disappear and you'll gain his reward souls. When you approach the platform that Manus usually grabs you off of, you can roll off to land without damage.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.4971329456231111,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e947674a-dfdc-53bc-a588-29e51999059d",
+    "title": "High Lord Wolnir",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "High Lord Wolnir -  Dark Souls III - boss - location \n location : At the end of the Catacombs of Carthus, the player will come upon a grim chalice. Interacting with it will send the player to the Abyss to face Wolnir.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.4965500934661893,
+    "bm25_score": 25.261490068305367
+  },
+  {
+    "document_id": "5b52eb4d-c71d-5439-bde2-0cc72077a581",
+    "title": "Knight Artorias",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Sometime after Lord Gwyn sacrificed himself to link the fading First Flame, the Primordial Serpent Kaathe began searching for a human strong enough to become the Dark Lord capable of leading humans and usher in an Age of Dark. Kaathe eventually arrived in New Londo and managed to entice the Four Kings, powerful humans who had received a fragment of Gwyn's Lord Soul, into following his ideals, teaching them the art of Lifedrain. The Serpent's dark influence extended to their entire army: The knights of New Londo became Darkwraiths, servants of the Dark who learned the art of Lifedrain and used it to absorb humanity. The Four Kings opened an Abyss in the center of their city, with their Darkwraiths beginning to employ the Red Eye Orbs granted by Kaathe to plunder humanity and expand the reach of the Abyss.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.49545129811512983,
+    "bm25_score": 25.290789264443983
+  },
+  {
+    "document_id": "a4ca87e9-49ef-51a6-87ba-e376e41196fa",
+    "title": "Great Grey Wolf Sif",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Before the player enters through the fog gate, there is a broken piece of bridge to the left that can be jumped onto. This is most easily accomplished by unequipping all gear beforehand. After reaching the bridge there is another pile of rock resting at the top that can easily be reached through jumping. When at the top, Sif will be visible. Sif will be unable to reach the player, but the player will be able to damage Sif with arrows or other ranged attacks.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.494771032867237,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b0122752-465b-5807-ade3-a3e649c8be88",
+    "title": "Artorias of the Abyss",
+    "section": "locations",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Artorias of the Abyss -  Dark Souls - mechanic - locations \n locations : In order of appearance:\nSanctuary Garden\nOolacile Sanctuary\nRoyal Wood\nOolacile Township\nOolacile Township Dungeon\nChasm of the Abyss",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.49453688033004783,
+    "bm25_score": null
+  },
+  {
+    "document_id": "db549071-dd75-52a2-a36c-c82d255d9752",
+    "title": "Four Knights of Gwyn",
+    "section": "artorias_the_abysswalker",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Four Knights of Gwyn -  Dark Souls - character - artorias_the_abysswalker \n artorias_the_abysswalker : Artorias had an unbreakable will of steel and his skill with greatswords was unmatched, making him a fierce opponent. Additionally, he was known as the first mortal to traverse the Abyss.\n\nAlthough Artorias is only scarcely mentioned during the Chosen Undead's journey to the Kiln of the First Flame, he is one of the many obstacles the Chosen Undead encounters in Oolacile. Gravely injured and corrupted by the Abyss by the time he is encountered, Artorias still proves a formidable foe although the Chosen Undead eventually prevails. Hawkeye Gough will thank the player for setting Artorias free with honor.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.4942459505263929,
+    "bm25_score": 20.923231980598075
+  },
+  {
+    "document_id": "cfaf4b87-7c3c-5427-bf80-adb6fb449f1e",
+    "title": "Abyss Attack Dog",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Abyss Attack Dog -  Dark Souls - enemy - description \n description : Abyss Attack Dogs are similar in appearance and behavior to Attack Dogs.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.49372006435162336,
+    "bm25_score": null
+  },
+  {
+    "document_id": "182e3d46-fdee-56d1-8f7e-dacc19ce04b1",
+    "title": "Four Kings",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Four Kings -  Dark Souls - boss - trivia \n trivia : The Four Kings' title uses the kanji \"公王\", a term that was used to define a nobleman that married a daughter of the King.\nThe sword used by the Four Kings was intended to be in the game, however, it was removed from the final version of the game.\nThe Four Kings are the only holders of a Lord Soul or Bequeathed Lord Soul Shard that are not shown in the opening cinematic.\nThe name of the boss may reference a group of 1980s boxing legends also known as the Four Kings. One of them, Sugar Ray Leonard, is referenced in the Rayleonard Corporation of *Armored Core 4* and *For Answer*. Ironically, however, the Four Kings are weaker when at close range.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.597088399140862
+  },
+  {
+    "document_id": "c31db6e6-1621-54ce-a7f3-fededfa7a215",
+    "title": "Four Kings Sword",
+    "section": "overview",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Four Kings Sword -  Dark Souls - weapon - overview \n overview : As the name states, this weapon was intended to be connected to the Four Kings in the New Londo Ruins, either as a dropped weapon, or as a boss soul weapon. However, as it was cut from the final release of the game, it is unknown how the player would have obtained it.\n\nDue to its nature as cut content, the Four Kings Sword is simply 3 textures and a model in the game files. This means that it cannot effectively be added by itself with save editors or cheat softwares, since its stats do not exist. Instead an existing weapon's model has to be overridden in order to 'obtain' it, in turn making the Four Kings Sword use the overridden weapon's animations and stats. Hence, the weapon can only be seen by those who are modifying the game to use its model.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.038953018507883
+  },
+  {
+    "document_id": "8131281b-b352-550f-9b7a-2f839e3a09f0",
+    "title": "Four Kings",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Each of the Kings' health is equal to a bit less than ¼ of the total bar. This means that after killing four individual Kings, the boss itself may not yet be defeated and a fifth King will spawn. This can be avoided by attacking the Kings as they are dying, which can do additional damage to the life bar.\n**This is because the total boss health bar belongs to a King hidden under the arena, that is hit whenever one of the other Kings is hit (even if it is a King's dead body that is being hit). This is also what causes the Lifehunt Scythe's self-inflicted Bleeding to be applied twice whenever one of the Four Kings is hit.\n20% bonus damage is dealt to the Kings and other Servants of the Dark by the Greatsword of Artorias true variant.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.830228951385216
+  },
+  {
+    "document_id": "ed1bd7f3-88e9-5305-bab3-a426b51ea003",
+    "title": "Four Kings",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "After Gwyn sacrificed himself to link the fading First Flame, the Primordial Serpent Kaathe began searching for a human strong enough to become the Dark Lord capable of leading humans and usher in an Age of Dark. At some point Kaathe arrived in New Londo and managed to seduce the Four Kings to follow his ideals, teaching them the art of Lifedrain so that they could preserve their humanity even while Undead and so cast off the shackles placed upon them by the gods. But his dark influence did not stop with the kings and, in fact, their entire army followed them. The knights of New Londo became Darkwraiths, servants of the Dark who learned the art of Lifedrain and used it to absorb humanity. As the Four Kings' were able to open an Abyss in the center of their city, their very bodies were mutated by their freed Dark Soul, and the Darkwraiths' armor transformed, too, as they began to employ the Red Eye Orbs granted by Kaathe to seek humanity and plunge further into the powers of the Dark,",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.588156299861776
+  },
+  {
+    "document_id": "ad1cfccf-9ec4-53a8-a157-11d9ea980469",
+    "title": "Four Kings Sword",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Four Kings Sword -  Dark Souls - weapon - lead \n lead : The ** ** is a weapon, presumably an Ultra Greatsword, which was removed from the final release of *Dark Souls*.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.849458482127858
+  },
+  {
+    "document_id": "efb54357-ee49-576d-8b0f-2381214843ea",
+    "title": "Four Kings",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Using a ranged attack and staying at around 1-1.5 roll distance away in front of the king (just within the reach of his sword) makes him rely mostly on the vertical slashes and the occasional Homing Abyss Arrow or Life Drain. The Life Drain is also easier avoided since it looks less like Wrath of the Kings at this distance then it does close up, and the player already has a head start on getting out of reach.\nTheir homing attacks can be deflected by using Force or Wrath of the Gods, although it is safer to avoid the attacks entirely. Due to the speed at which the King approaches, the player will become vulnerable to other attacks during the casting animation. Deflecting the large homing shot will likely be fatal, since the duration of the attack lasts a fair while and doesn't collide with anything other than the player.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.043765877952794
+  },
+  {
+    "document_id": "15b233d6-e976-5555-99a7-51fdd65f4a07",
+    "title": "Great Grey Wolf Sif",
+    "section": "artorias_of_the_abyss",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Great Grey Wolf Sif -  Dark Souls - boss - artorias_of_the_abyss \n artorias_of_the_abyss : Sif makes an appearance in the *Artorias of The Abyss* DLC. The player finds the wolf located behind an Illusory Wall after being led about by Alvina in the Chasm of the Abyss. Sif is found protected by a magical barrier, which was created by Artorias using his Greatshield in order to shield the wolf from the corruption of the Abyss. Upon reaching Sif after defeating the Humanity Phantoms, Sif will vanish and leave behind Artorias' shield. Sif can be summoned during the battle against Manus, Father of the Abyss, after being rescued by the player.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.712893123353016
+  },
+  {
+    "document_id": "f549938f-61fd-500d-a229-47d7fed5f60f",
+    "title": "Artorias of the Abyss",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Artorias of the Abyss -  Dark Souls - mechanic - lore \n lore : Artorias of the Abyss* takes place approximately 200 to 300 years before the events of *Dark Souls*, in the land of Oolacile. It features three of the Four Knights of Gwyn‎. The events of the DLC are also related to the story of *Dark Souls II*, as Nashandra was born from a fragment of Manus' soul.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.71121730287001
+  },
+  {
+    "document_id": "ba62f18f-fad5-52fa-8bdf-636e41fdfca3",
+    "title": "Four Kings Sword",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Four Kings Sword -  Dark Souls - weapon - notes \n notes : Its icon and textures were improved in the Remastered edition. While remaining unused.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.47274977228055
+  },
+  {
+    "document_id": "a46b2f79-b753-51d5-aa68-8328993bfee9",
+    "title": "Player versus Player (Dark Souls II)",
+    "section": "alternate_invasion_methods",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Player versus Player (Dark Souls II) -  Dark Souls II - mechanic - alternate_invasion_methods \n alternate_invasion_methods : {'name': 'Abyss Spirit', 'description': 'Players inside the Chasms of old may invade using a Cracked Red Eye Orb or Red Sign Soapstone withing the Chasms. The reward for winning this match is a Bonfire Ascetic.'}",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5655698611443883,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f637fd1e-4d88-5f7f-ba8a-f0e97041b8a4",
+    "title": "Princess's Guard",
+    "section": "how_to_join",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Princess's Guard -  Dark Souls - mechanic - how_to_join \n how_to_join : Talk to Gwynevere, Princess of Sunlight to join the covenant.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5638344088813866,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d422d9b4-093c-5b9f-82b8-e7126d4fb4bc",
+    "title": "Pilgrims of Dark",
+    "section": "how_to_join",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "After speaking to Grandahl in all of these locations, the player will be able to join the covenant at any of them, recieving the Abyss Seal.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5519616644179899,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a1c0d20a-04ee-5ebf-86dc-d57566ab7879",
+    "title": "Rat King (covenant)",
+    "section": "how_to_join",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Rat King (covenant) -  Dark Souls II - mechanic - how_to_join \n how_to_join : Talk to the Rat King, located in either the Grave of Saints or the Doors of Pharros, after their respective bosses. While a Rat Tail is required to join the king's covenant, it's unlikely that players won't have one when they meet him, especially since they are dropped by the bosses who need to be defeated in order to reach him in the first place. Upon accepting his offer, players will be awarded the Crest of the Rat.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5406680897339232,
+    "bm25_score": null
+  },
+  {
+    "document_id": "86304e0d-8f00-5708-b108-fe317fb03b9c",
+    "title": "Path of the Dragon",
+    "section": "how_to_join",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Path of the Dragon -  Dark Souls - mechanic - how_to_join \n how_to_join : Talk to the Stone Dragon in Ash Lake. To access Ash Lake, travel from Blighttown to The Great Hollow and get to its very bottom; upon arriving there, follow the path along the beach to its end.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5394310855265587,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e5c641ce-b299-5026-8e9d-3619007042a1",
+    "title": "Player versus Player (Dark Souls II)",
+    "section": "invasions",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Player versus Player (Dark Souls II) -  Dark Souls II - mechanic - invasions \n invasions : {'name': \"Bell Keeper's Seal\", 'description': \"Wearing the Bell Keeper's Seal will cause the player to invade as a Grey Spirit when a match is found in either Belfry Sol or Belfry Luna.\\nThe Bell Keeper Player does not have to remain in the Belfries in their own world and passively search for a match.\\nBell Keepers will gain sin if the host is killed.\\nOnce the Host or Bell Keeper wins, they will as be rewarded with 1 of the following: Titanite Chunk, Titanite Slab, Twinkling Titanite, or Petrified Dragon Bone; most commonly Titanite Chunks and also souls relative to the other player's Soul Level.\\nThis method gives the invader a timer of 10m.\"}",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5339954043348907,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3fc6904e-4694-5aa2-9bcd-177bddb1182f",
+    "title": "Drangleic",
+    "section": "drangleic_s_fall",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "As the First Flame continued to wane, an Abyss opened beneath Drangleic, the result of the scattered fragments of an ancient abyss and the dissipated Manus, Father of the Abyss. Coalescing again, this abyss expanded across the region and assimilated all things into its growth, with its darkness felt even by those attuned to magic in neighbouring regions. A group of Undead led by Darkdiver Grandahl, called the Pilgrims of Dark, started to make pilgrimages to what they considered holy sites and delved into the Dark Chasm, to overcome the trials that lurked in the depths to refine the darkness within them. In the heart of the abyss, the Darklurker manifested: A dark, angelic creature that manipulated darkness along with sorcery, pyromancy and miracles and demonstrated superhuman abilities.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5327578551301566,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6a333c0d-0780-594f-aa02-9de0a1bb79b5",
+    "title": "Ruin Sentinels",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "When entering the boss room, players are initially faced with only Ruin Sentinel Yahim on an elevated platform above the rest of the arena; Alessia will be on the ground level on the opposite side of the room, with Ricce on another elevated platform. If the player does not leave the initial platform, Alessia and Ricce will not attempt to assist Yahim, making the fight considerably easier. Once Yahim is defeated, Alessia and Ricce will join the fight, both approaching to attack the player.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5323261120167952,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6b440a02-2a3e-5b6f-a65c-ac71de06c3f1",
+    "title": "Bearer of the Curse",
+    "section": "the_three_crowns",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - the_three_crowns \n the_three_crowns : Should the Bearer of the Curse choose to do so, they may use the Ashen Mist Heart on Vendrick's belongings in the Undead Crypt. Doing so will allow the Bearer to speak directly to the king as he was before he hollowed. Bitter and resigned to defeat, the king will council the Bearer of the Curse, warning them of the futility in seeking fire, of the dark that lies within them, and of the children of Manus, Father of the Abyss. He will tell the Bearer to seek three crowns of power, belonging to fallen kings. He will also warn the Bearer of his wife, Nashandra, revealing that she too is a child of the Abyss.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5313395254581461,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1403c09a-29f2-5fde-9922-6b2ced52f3d2",
+    "title": "Soul of a Proud Knight",
+    "section": "corpse_locations",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "**Near the edge of the impaled frozen Red Hollow yard, you are likely to trigger King Jeremiah's invasion when getting close to it (being in human form of course).\n**Close to the previous.\n**In the sewer section, guarded by 6 Bonewheel Skeletons.\nRoyal Wood [AotA DLC]\n**Behind the building of the stone elevator leading to Sir Artorias the Abysswalker.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5273628333236564,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d8d677e6-bcd9-5999-a65c-8f43424f15fa",
+    "title": "Consumed King's Knight",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Consumed King's Knight -  Dark Souls III - enemy - see_also \n see_also : Cathedral Knight",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5211162074445975,
+    "bm25_score": null
+  },
+  {
+    "document_id": "33a71c16-66c4-5d06-910e-1ce0c41b59fc",
+    "title": "King's Passage",
+    "section": "boss",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "King's Passage -  Dark Souls II - location - boss \n boss : Looking Glass Knight",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5200787525262399,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a6c7ca69-b221-5ab7-b820-ed1381c0a204",
+    "title": "Dark Souls: Prepare to Die Edition",
+    "section": "see_also",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Dark Souls: Prepare to Die Edition -  Dark Souls - mechanic - see_also \n see_also : **Artorias of the Abyss* - Article detailing the contents of the DLC.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5164539671062525,
+    "bm25_score": null
+  },
+  {
+    "document_id": "38b59426-b41f-5d12-bd0c-24cf50f230f3",
+    "title": "King's Passage",
+    "section": "adjacent_locations",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "King's Passage -  Dark Souls II - location - adjacent_locations \n adjacent_locations : Drangleic Castle\nShrine of Amana",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5145430925076744,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5d208935-bbc9-5608-9402-ecf342d53aab",
+    "title": "Consumed King's Garden",
+    "section": "adjacent_locations",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Consumed King's Garden -  Dark Souls III - location - adjacent_locations \n adjacent_locations : Untended Graves\nLothric Castle",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5113378200098835,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b8f5f34c-746d-5b56-b461-a08556a7a1ed",
+    "title": "Covenants (Dark Souls II)",
+    "section": "changing_covenants",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Covenants (Dark Souls II) -  Dark Souls II - mechanic - changing_covenants \n changing_covenants : Players may only join one covenant at a time. Speak to Sweet Shalquoir to abandon a covenant or view covenants the player has already found and your ranks in them.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5110028238614155,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7be95612-669f-5677-9b5f-6ecdfebde013",
+    "title": "Company of Champions",
+    "section": "how_to_join",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Company of Champions -  Dark Souls II - mechanic - how_to_join \n how_to_join : The player can join this covenant as soon as they arrive to Majula. Going between the houses of Lenigrast and Shalquoir, a ledge extending from the cliffside can be found which leads to the Victor's Stone. Upon interacting with the stone, the player must confirm multiple times that they are certain about joining the covenant, and doing so will have them recieve the Champion's Tablet.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5092800214163951,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4fdc4707-0606-5f58-9b55-0a33f333e96c",
+    "title": "The Catacombs",
+    "section": "covenant",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Catacombs -  Dark Souls - location - covenant \n covenant : Gravelord Servant - Although technically within the Tomb of the Giants, players can only reach the covenant by climbing into a coffin within The Catacombs.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5084891591784367,
+    "bm25_score": null
+  },
+  {
+    "document_id": "64f2e3a2-a0dc-5adc-9a75-579507e653cb",
+    "title": "Memory of the King",
+    "section": "vendrick_s_blessing",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Memory of the King -  Dark Souls II - location - vendrick_s_blessing \n vendrick_s_blessing : If the player has obtained the King's Crown along with the rest of the ancient crowns (Crown of the Sunken King, Old Iron King and Ivory King) and bring them to Vendrick in this place, he will grant them his blessing, which infuses them all with a hidden ability that prevents the player from becoming hollow by any means while wearing any of them and also grants immunity against the Curse status ailment.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5073165585214242,
+    "bm25_score": null
+  },
+  {
+    "document_id": "879ac02c-5402-5e9a-9b74-7d9816491ef5",
+    "title": "Catacombs of Carthus",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "In these caverns, a strained, rickety rope bridge spans the gap between the catacombs and High Lord Wolnir's tomb. While safe to walk on, this bridge will snap and fall apart if any part of it is struck, and anyone on it will risk falling into the deep pit below if they do not manage to cross promptly. This makes combat on the bridge highly risky.\n\nIn the tomb, Wolnir is initially nowhere to be found. Only a skull goblet on a stone table can be found. Touching the goblet will cause the Abyss to start pouring out of it to the point of engulfing the entire room. Wolnir, who fell into the Abyss, will then appear. Once he is defeated, the Abyss recedes and the door to Irithyll of the Boreal Valley will open.\n\nReturning to the bridge on the side of Wolnir's tomb allows access to the lowest chambers of the catacombs, by breaking the bridge and using it to climb down. A Demon awaits here, and beyond it lies the entrance to the Smouldering Lake.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5059289240987369,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fd9f5672-55bf-57ee-a621-a147974d9583",
+    "title": "Chaos Servant",
+    "section": "how_to_join",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Chaos Servant -  Dark Souls - mechanic - how_to_join \n how_to_join : After defeating Chaos Witch Quelaag, reach the circular room beneath the Bell of Awakening where there are cobwebs lining eggs on the sides. The wall to the right is illusory. Inside, there will be an egg-infected man named Eingyi. The player must answer \"Yes\" to his question in order for him to move. If the player has answered \"No\", quitting and reloading will prompt Eingyi to pose his question again. The player may also kill him and join without repercussion. However, this will cost the player his services. Talking to Quelaag's Sister will give the option to join the covenant.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5050212729135336,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e114c313-662d-5b4d-be4d-1f3cc798abcd",
+    "title": "High Lord Wolnir",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Upon entering the Abyss, the Grave Warden Pyromancy Tome will be lying ahead to be picked up. If it is picked up, the boss fight will begin immediately. Instead of picking it up, the player can take this opportunity to attack and possibly destroy one of Wolnir's bracelets on his left arm. The tome can be retrieved at any time during or after the fight, or once the player has returned to the chalice room and has reloaded the area.\n\nAlthough it is not immediately apparent, there is essentially a time limit to this battle. Wolnir constantly climbs up the incline and, even though he will be blocked by a wall, the area left to the player will be minimal, making dodging attacks much more difficult. Destroying a bracelet will cause him to slip back down the incline, giving the player more room.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5044989543350518,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fc88a5b0-2dcd-54ef-b387-dcc748088dd0",
+    "title": "Dark Spirit Aurous Knight",
+    "section": "farming_strategy_ps3",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Dark Spirit Aurous Knight -  Dark Souls II - enemy - farming_strategy_ps3 \n farming_strategy_ps3 : Since farming this enemy is the only way to obtain the full visible Aurous' Set in the regular version of Dark Souls II, PS3 players can exploit the slow loading times of the console to obtain his drops without actually despawning the Dark Spirit by following this method:\n\nKill all the enemies around to prevent any interference.\nDeplete Aurous Knight's health until the player is sure they can finish him off with a single hit.\nLure him to the Flexile Sentry's fog gate.\nKill Aurous Knight, pick his drop and immediately enter the fog gate.\nQuit the game right after.\n\nIf these steps have been executed correctly, the game will save whichever item he dropped in the player's inventory, but will not register his death, meaning the player will be able to fight him again without consuming a Bonfire Ascetic or entering a New Game cycle.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5037543400424052,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c1802253-8139-5367-b2a1-723aabcf4a6c",
+    "title": "Player versus Player (Dark Souls II)",
+    "section": "forced_summoning",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Player versus Player (Dark Souls II) -  Dark Souls II - mechanic - forced_summoning \n forced_summoning : {'name': 'Crest of the Rat', 'description': 'If the summoned player can get through the world and enter a fog gate at the end of the area or kill the Rat player, they will be sent home to that location and receive a Rat Tail.\\nIf the Rat King player successfully kills the summoned player, the Rat King player will instead receive the Rat Tail.\\nThis form of PvP combat can only occur in Grave of Saints or Doors of Pharros.\\nThe Rat Covenant Member must be in one of the available areas while wearing the ring.\\nThis Match lasts up to 10m. The host must be using the Crest of the Rat ring.'}",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5034501844635981,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a93b7ae2-a086-572d-a9b5-99329efe3f73",
+    "title": "Player versus Player (Dark Souls II)",
+    "section": "counter_invasions",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Player versus Player (Dark Souls II) -  Dark Souls II - mechanic - counter_invasions \n counter_invasions : {'name': 'Guardian Seal', 'description': \"Dedicated to counter invasion method for fighting Dark Spirits who invade by using Cracked Red Eye Orbs.\\nThis method is available to the Blue Sentinels.\\nHost must be in Way of Blue Host, be invaded, and in the same area of the world as the Blue Sentinel player.\\nThe Blue Sentinel player must not Hollowed, be wearing the Guardian's Seal, and be in the same area as where the Host is being invaded.\\nThe player summoned from this cannot interact with enemies and can only give and receive damage from the Dark Spirit.\\nUpon defeating the Dark Spirit, the friendly Blue Sentinel member will return to their world with no reward.\\nThere is no timer for counter invaders.\"}",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5032128358503084,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0e61cbbb-d126-5aaa-8909-a3104e41d209",
+    "title": "Royal Sorcerer Navlaan",
+    "section": "releasing_navlaan",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Royal Sorcerer Navlaan -  Dark Souls II - character - releasing_navlaan \n releasing_navlaan : {'name': 'Invasions', 'description': \"If Navlaan is released, he will invade the player in the following locations:\\nForest of Fallen Giants: At the Place Unbeknownst bonfire, after the player has defeated the Giant Lord.\\nBrightstone Cove Tseldora: At the entrance of Duke Tseldora's manor (on the bridge over the crystals).\\nThe Gutter: In the platform near to the room where the Havel's Set is found.\\nDrangleic Castle: At Nashandra's throne room.\\nAldia's Keep: In the corridor where an ogre breaks a wall for the second time, right before the Guardian Dragon's arena.\\nDragon Aerie: In the hanging bridge located between the nest of the third Guardian Dragon and the entrance to the Dragon Shrine.\"}",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5030868794897955,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2dc7aa2c-413b-5efa-9161-6ebf25ff3ef0",
+    "title": "Fog Door (Dark Souls II)",
+    "section": "drangleic",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "**Entrance to the Old Iron King fight.\nBelfry Sol\n**Entrance to the area.\n**Exit of the area.\nShaded Woods\n**Entrance to the Scorpioness Najka fight.\nDoors of Pharros\n**Entrance to the Royal Rat Authority fight.\nBrightstone Cove Tseldora\n**Entrance to the Prowling Magus and Congregation fight.\n**Entrance to The Duke's Dear Freja fight.\nGrave of Saints\n**Entrance to the Royal Rat Vanguard fight.\nThe Gutter\n**Near where the Corrosive Ant Queen is located, near the end of the area.\nBlack Gulch\n**Entrance to the area\n**Entrance to The Rotten fight.\nDrangleic Castle\n**Entrance to the Dual Dragonriders fight.\n**Entrance to the Looking Glass Knight fight.\n**Entrance to the Throne Watcher and Defender and Nashandra fights, as they both take place in the same room.\nShrine of Amana\n**After killing multiple Amana Shrine Maidens and Lindelt Clerics, leading to the third bonfire of the area.\n**Entrance to the Demon of Song fight.\nUndead Crypt",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5013883936455653,
+    "bm25_score": null
+  },
+  {
+    "document_id": "926fbeef-783e-5dc2-8683-a6f7f6e37f2a",
+    "title": "Northern Undead Asylum",
+    "section": "enemies",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Northern Undead Asylum -  Dark Souls - location - enemies \n enemies : {'name': 'Boss', 'description': 'Asylum Demon'}",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5010434375188683,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5d8fed58-7762-5358-9e90-d997f77bf6af",
+    "title": "Painted World of Ariamis",
+    "section": "entering",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariamis -  Dark Souls - location - entering \n entering : In order to access this world, the player must first pick up the Peculiar Doll located in the Northern Undead Asylum, upon the return visit later in the game. When examining the large guarded painting in Anor Londo, the player will be mysteriously pulled into the cloistered area.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5009113123917266,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e140121e-101c-5db0-9015-430139dc632a",
+    "title": "Crown of the Sunken King",
+    "section": "access",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Crown of the Sunken King -  Dark Souls II - mechanic - access \n access : To access the content, defeat The Rotten in Black Gulch and proceed to the Primal Bonfire. Use the altar behind the bonfire to travel to the starting area. Upon loading, the Dragon Talon will be added to the player's inventory.\n\nThis changes in the *Scholar of the First Sin* edition of the game; the Dragon Talon can be found on a body behind the 'Forgotten Door' unlocked with the Forgotten Key, at the bottom of the well in Majula. This door grants access to Shulva, Sanctum City.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5009083937414217,
+    "bm25_score": null
+  },
+  {
+    "document_id": "27687b6a-92d3-5f44-97ea-97bd7bf968ab",
+    "title": "Player versus Player (Dark Souls II)",
+    "section": "summonings",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Player versus Player (Dark Souls II) -  Dark Souls II - mechanic - summonings \n summonings : {'name': 'Dragon Eye', 'description': 'The Dragon Eye will cause the summoned player to appear as a Dragon Spirit.\\nNo other players may join the session and both may use Estus Flasks and healing items.\\nDragon Eye matches reward who ever wins with a Dragon Scale.\\nDragon Eye Matches have a timer of 25m or 37m and 30s if both Host and Summon wear the Name Engraved Ring.'}",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5005542101134721,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8884c6dd-e6d1-5ad5-9f09-c0121a8b866d",
+    "title": "Tomb of the Giants",
+    "section": "embers",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Tomb of the Giants -  Dark Souls - location - embers \n embers : Large Divine Ember",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.49933251388458244,
+    "bm25_score": null
+  },
+  {
+    "document_id": "18b38c12-bd2d-5b4c-8ca9-774f76ac9922",
+    "title": "Knight Set (Dark Souls)",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Knight Set (Dark Souls) -  Dark Souls - armor - availability \n availability : Starting equipment for the Knight class.\nDarkroot Basin, on a corpse in front of the Hydra.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.49880098021005076,
+    "bm25_score": null
+  },
+  {
+    "document_id": "34ad6b3a-808c-5bb6-b95e-db2489e3a929",
+    "title": "Painted World of Ariandel",
+    "section": "entering",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariandel -  Dark Souls III - location - entering \n entering : In order to access this area, the player must travel to the Cleansing Chapel in the Cathedral of the Deep and speak with Slave Knight Gael, near the bonfire. Exhausting his dialogue will start a cutscene and the Ashen One will be teleported into the Painted World.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.49801351394440285,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6171e7ab-c4a7-5945-bec4-6547224257e7",
+    "title": "Big Pilgrim's Key",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Big Pilgrim's Key -  Dark Souls - item - general_information \n general_information : Opens the door in the room where the Asylum Demon is fought.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4974554296807731,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6db6cbe6-cbb0-5c7b-983d-a384671494c1",
+    "title": "Asylum Demon",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Asylum Demon -  Dark Souls - boss - attacks \n attacks : {'name': 'Double Hammer Swing', 'description': \"A combo of Hammer Swings. It has slightly better tracking than it's predecessor, and may be followed up with a Hammer Smash attack.\"}",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4962576908134045,
+    "bm25_score": null
+  },
+  {
+    "document_id": "29e9ac90-92c5-55de-b5a8-a6e984380249",
+    "title": "Chosen Undead",
+    "section": "artorias_of_the_abyss",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - artorias_of_the_abyss \n artorias_of_the_abyss : In the *Artorias of the Abyss* DLC the Chosen Undead travels back in time to the ancient realm of Oolacile, where they discover the truth about the death of the Knight Artorias and the fall of Oolacile. The quest presented in this DLC is completely optional and therefore, it is not required to complete the game.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.49591487219217417,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bf0895cc-ef57-57cf-8603-2139d8d6c5d8",
+    "title": "Ashes of Ariandel",
+    "section": "access",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - access \n access : Accessed by interacting with Slave Knight Gael at the Cleansing Chapel bonfire in the Cathedral of the Deep.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.49493770880296756,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b54927ec-bcf9-5c93-bfbd-3a270ebd26c7",
+    "title": "Cathedral Knight",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Cathedral Knight -  Dark Souls III - enemy - see_also \n see_also : Consumed King's Knight",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.49460595860316714,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5b4dedfb-b5a3-5742-b20e-247ca3bd5b98",
+    "title": "Timeline",
+    "section": "the_rise_of_the_dark_lord",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "The Ashen One defeats the deacons and comes into possession of a Small Doll that comes from Irithyll\nThe Ashen One returns to the swamp and reaches the Farron Keep, a fortress surrounded by a poisonous swamp\nThe Ashen One fights their way through Ghru's hordes, overcoming the ritual trials of Farron's guardians and lighting the three flaming towers that open the doors of the fortress\nThe Ashen One enters the fortress but finds themselves confronted by the Lord of Cinder Abyss Watchers while they are fighting each other\nThe Ashen One defeats the Abyss Watchers, gaining their Lord Cinders, and enters the fortress's dungeons\nThe Ashen One reaches the Catacombs of Carthus, an immense necropolis, and fights their way through legions of reanimated skeletons\nThe Ashen One travels through the catacombs but finds the exit blocked by a magical artifact that teleports him into an Abyss\nThe Ashen One defeats High Lord Wolnir, sending him back into his Abyss and clearing the path ahead",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.49427285191088854,
+    "bm25_score": null
+  },
+  {
+    "document_id": "66a85198-7731-525a-81f4-e534bad40f73",
+    "title": "Timeline",
+    "section": "abyss_watchers_the_abyss_watchers",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Timeline -  Dark Souls III - storyline - abyss_watchers_the_abyss_watchers \n abyss_watchers_the_abyss_watchers : TBA",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.49399735343425855,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3670cd19-e03e-561c-90e3-18abb7b7dab2",
+    "title": "Bonfire (Dark Souls III)",
+    "section": "catacombs_of_carthus",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": ":Alternatively, if the player entered by the Demon Ruins side, the bonfire can also be reached by traveling through the complex of tunnels below that conform the rest of the area.\n\n***Demon Ruins**\n:From the Abandoned Tomb, follow the tunnel down to reach the Smouldering Lake. Head toward the opposite side of the lake whilst hugging the left wall. To the right of the staircase that leads to the Old Demon King, look for an inclined path that goes upward. Follow it to reach a tunnel where the bonfire is found.\n\n***Old Demon King**\n:From the Abandoned Tomb, follow the tunnel down to reach the Smouldering Lake. A large fog door will be visible in the distance, beyond from where the Carthus Sand Worm attacks. Enter the mist into an optional boss arena, where one must face the Old Demon King; the bonfire will appear once the boss has been defeated.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.49357443437581244,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6ba04430-6a60-5a7d-bc0b-eea3801dfaf8",
+    "title": "Darkwraith (covenant)",
+    "section": "how_to_join",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Darkwraith (covenant) -  Dark Souls - mechanic - how_to_join \n how_to_join : Accessing the Darkwraith covenant requires a few more steps than the others, as one must be able to speak with Kaathe. In order to access Kaathe, the Covenant of Artorias ring is required (obtained from killing the Great Grey Wolf Sif), as well as the Key to the Seal (obtained from Ingward) and defeating the Four Kings.\n\nAfter defeating the Four Kings, Kaathe should appear if the player has not placed the Lordvessel for Frampt. Answering \"Yes\" to his question will make him transport the player to the Firelink Altar. Speaking to him again in the Abyss, after this event, will allow the player to join the Darkwraiths.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.34346630316731
+  },
+  {
+    "document_id": "6b0a6dd3-4384-53d4-8e5c-a4fcaa2efcbe",
+    "title": "Darkstalker Kaathe",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Darkstalker Kaathe -  Dark Souls - character - location \n location : Darkstalker Kaathe will appear in the Abyss, after defeating the Four Kings, if the player has not already placed the Lordvessel through Kingseeker Frampt.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.890679448889923
+  },
+  {
+    "document_id": "735ac6e0-b150-5cc2-a8f6-c75d5c6886d4",
+    "title": "Chosen Undead",
+    "section": "the_lord_souls",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - the_lord_souls \n the_lord_souls : To gain access to Gwyn, Lord of Cinder, the Chosen Undead must satiate the Lordvessel. There are several beings who possess souls powerful enough to do so: Gravelord Nito, the Witch of Izalith, Seath the Scaleless and the Four Kings of New Londo.\n\nIn order to defeat the Four Kings, the Chosen Undead needs to acquire the Covenant of Artorias, a ring that is kept by the Great Grey Wolf Sif. The ring allows one to traverse the dark void called the Abyss. Upon arriving in the ruins of New Londo, the Chosen Undead, with the help of Ingward, drains the flooded city, earning passage to the Darkwraiths and their masters. If the player has not yet placed the Lordvessel before defeating the Four Kings, Darkstalker Kaathe will appear in the abyss.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.495657587678927
+  },
+  {
+    "document_id": "5d7ca116-c149-5f2d-a7af-915aba313ce5",
+    "title": "Witch Beatrice",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Witch Beatrice -  Dark Souls - character - plot \n plot : Aside from being a summon-able NPC for the boss fights labeled above, Witch Beatrice has no obvious contribution to the game through either story or gameplay, although her attire can be obtained.\n\nAfter defeating the Four Kings, her robes and catalyst may be found on a corpse near the Firelink Shrine shortcut at the Valley of the Drakes.\n\nDuring the Four Kings boss fight, Beatrice is close to becoming a hindrance to the player as her damage-per-second does not always provide enough output to quickly kill each King. On most occasions, since having an NPC increases a boss's health, having Beatrice summoned occasionally only benefits the player with a harder fight as her accuracy issues and time gaps in-between attacks gives players a much harder time killing the Four Kings.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.66350721625468
+  },
+  {
+    "document_id": "bd707670-4c88-5485-bc4b-bcd2ef9ee1a6",
+    "title": "Key to the Seal",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Key to the Seal -  Dark Souls - item - description \n description : Key to the floodgates of New Londo, which seal away the Four Kings who fell to Dark.\n\nThe Sealers flooded New Londo to banish the Darkwraiths and the Four Kings. The agonizing decision was made with the realization that countless lives, and the robust culture of the city, would be lost. The victims now roam the ruins as ghosts.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.94043491327908
+  },
+  {
+    "document_id": "7861631c-18d0-5ceb-84ea-81a965a6bdb8",
+    "title": "Witch Beatrice",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "She has a habit of occasionally not showing up for the Four Kings boss fight, this is not a bug or glitch. As soon as she is summoned, staying too long outside of the fog door will allow a ghost, to the player's right if they face the fog door, to aggro the player and Beatrice and because she has no transient curses, she will be stuck firing sorceries at the ghost and remain unable to assist in the boss fight until the ghost is killed.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.57102391403739
+  },
+  {
+    "document_id": "3db40b0c-af61-50d8-bdb0-ab38d1b67710",
+    "title": "Darksword",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Darksword -  Dark Souls - weapon - description \n description : The sword of the knights of the Four Kings of New Londo. Its blade is wide and thick, and it is wielded in an unusual manner.\n\nWhen the Four Kings were seduced by evil, their knights became Darkwraiths, servants of the Dark who wielded these darkswords.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.560640303260037
+  },
+  {
+    "document_id": "be9011ec-fa29-58f8-b714-b616b7cb37e6",
+    "title": "Yulva",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Yulva -  Dark Souls - character - lore \n lore : Yulva was once a healer of New Londo, dedicating herself to curing the sick with her signature spell: Remedy.\n\nDuring the rise of the corrupt Four Kings and their Darkwraith servants, she would take part in the flooding of the entire city, along with Ingward and a third unknown mage. This desperate attempt to seal the threat of the Abyss seemingly worked, but it came at the cost of the lives of many of the city's citizens and its unique culture. All three mages stayed behind after the fact, watching over the seal of the Four Kings and awaiting someone capable of finally vanquishing them. This also served as atonement for all those who were sacrificed.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.874933377077486
+  },
+  {
+    "document_id": "fcae118d-82d4-51e1-8789-c20608f3f3e1",
+    "title": "Grab",
+    "section": "bosses",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Grab -  Dark Souls - mechanic - bosses \n bosses : Black Dragon Kalameet\nCentipede Demon\nDragonslayer Ornstein\nFour Kings\nGaping Dragon\nGravelord Nito\nGwyn, Lord of Cinder\nIron Golem\nManus, Father of the Abyss",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.446217425874742
+  },
+  {
+    "document_id": "633ea28a-b644-50d1-93e5-497518825b47",
+    "title": "Anri of Astora",
+    "section": "locations",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Anri of Astora -  Dark Souls III - character - locations \n locations : Road of Sacrifices — Halfway Fortress bonfire.\nFirelink Shrine — after the player defeats the Deacons of the Deep and acquires the Small Doll.\nCatacombs of Carthus\n# After the Abyss Watchers bonfire, enter the large room connecting the first bridge and the top of the central staircase, and head into a pocket with a balcony where a crystal lizard is found. Four skeletons will awaken after you enter their room, so take caution as you speak to Anri.\n# After the Catacombs of Carthus bonfire, to the right of the hanging bridge, in the area with spiky rock formations.\nIrithyll of the Boreal Valley — Church of Yorshka bonfire. See the section below for the conditions of this encounter.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.275974386334916
+  },
+  {
+    "document_id": "abe6f6bd-b648-5397-8b3e-aeee2d8b8d1a",
+    "title": "Witch Set",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Witch Set -  Dark Souls - armor - availability \n availability : Found on a corpse in the Valley of Drakes, after defeating the Four Kings.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.882921961200754
+  },
+  {
+    "document_id": "07ff9baf-347a-5371-a64c-236eb309c5e5",
+    "title": "Kiln of the First Flame",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Kiln of the First Flame -  Dark Souls - location - description \n description : This area is accessed by offering to the Lordvessel the souls of Bed of Chaos, the Four Kings, Gravelord Nito, and Seath the Scaleless in the Firelink Altar.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.846922104110263
+  },
+  {
+    "document_id": "2f3c0369-2681-54a6-9573-c7f61fb9a013",
+    "title": "Witch Cloak",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Witch Cloak -  Dark Souls - armor - availability \n availability : Found on a corpse in the Valley of Drakes, close to the Firelink Shrine shortcut. The set only spawns after the Four Kings have been defeated.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.669866891312886
+  },
+  {
+    "document_id": "95c8335f-41d0-5eb7-89e7-6607026f146a",
+    "title": "Witch Gloves",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Witch Gloves -  Dark Souls - armor - availability \n availability : Found on a corpse in the Valley of Drakes, close to the Firelink Shrine shortcut. The set only spawns after the Four Kings have been defeated.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.669866891312886
+  },
+  {
+    "document_id": "f85d4953-2e35-5d87-8b37-3e1385c2b7da",
+    "title": "Witch Hat",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Witch Hat -  Dark Souls - armor - availability \n availability : Found on a corpse in the Valley of Drakes, close to the Firelink Shrine shortcut. The set only spawns after the Four Kings have been defeated.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.669866891312886
+  },
+  {
+    "document_id": "1727f198-5a58-51bf-9154-fe0eb2e2c40b",
+    "title": "Witch Skirt",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Witch Skirt -  Dark Souls - armor - availability \n availability : Found on a corpse in the Valley of Drakes, close to the Firelink Shrine shortcut. The set only spawns after the Four Kings have been defeated.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.669866891312886
+  },
+  {
+    "document_id": "9f220b9e-ef70-55b1-a723-f336ffc8bd59",
+    "title": "Dragon Remnants",
+    "section": "how_to_join",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dragon Remnants -  Dark Souls II - mechanic - how_to_join \n how_to_join : Talk to Magerold of Lanafir in Iron Keep, who will beg the player to be given the Petrified Egg if it's in their inventory. Giving him the treasure will allow players to enter the Dragon Remnants covenant, and they recieve an Ancient Dragon Seal and a Dragon Eye upon joining.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.253611386070517
+  },
+  {
+    "document_id": "a1b6fbf2-e500-5163-b19d-4eeb6c94dd60",
+    "title": "Beatrice's Catalyst",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Beatrice's Catalyst -  Dark Souls - weapon - availability \n availability : Found off a corpse (presumably Beatrice's) along with Beatrice's set in the Valley of the Drakes after defeating the Four Kings.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.165017138966544
+  },
+  {
+    "document_id": "0f021e66-8f73-5bf0-b38e-f35f5ec3b9cf",
+    "title": "Ingward",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Ingward -  Dark Souls - character - plot \n plot : Ingward awaits the one that has obtained the Lordvessel, granting them the Key to the Seal which is required to drain water from the lower ruins in order to enter the Abyss.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.155576157025447
+  },
+  {
+    "document_id": "993def8a-0b82-51ad-b068-a1bc5a6a3734",
+    "title": "Humans",
+    "section": "age_of_gods",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Kaathe also manipulated the inhabitants of New Londo, where he enticed the Four Kings with the art of Lifedrain, which ancient Humans used to steal Humanity from others. The Kings too were corrupted, and New Londo was flooded —presumably by the Gods— to contain the Abyss that generated there. But despite these failures, Kaathe kept searching for a human who could become the Dark Lord, and usher in the Age of Man.\n\nAt the close of the Age of Gods, Gwyn realized that the power of the Dark Soul would wax to its utmost maximum, while the power of the other Lord Souls would fade. Fearing that the world would be ruled by the Humans, Gwyn cast himself into the First Flame, artificially extending the Age of Fire for another thousand years. At Gwyn's command, The Gods shepherded the Human race afterwards.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.08759873487687
+  },
+  {
+    "document_id": "21542ac5-48bd-5d83-a1ea-90c8b5ee091a",
+    "title": "Lordvessel",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Lordvessel -  Dark Souls - item - notes \n notes : It is possible to access the Kiln of the First Flame without interacting with either Frampt or Kaathe by dropping down the opening Frampt springs from. However, doing so before placing the Lordvessel will alienate the serpents and cause both of them to leave.\nIt is impossible to summon any phantoms at any of the Lord Boss' (excluding the Four Kings) locations without placing the Lordvessel with Frampt or Kaathe. Bloodstains, Messages and player ghosts will appear as usual and it is possible to be summoned, but not *to* summon.\nTo place the Lordvessel under the guidance of Kaathe, one must first continue on to the New Londo Ruins and defeat the Four Kings in order to gain access to him.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.077695733343518
+  },
+  {
+    "document_id": "0663ddf6-a7c3-5e20-8a89-0410e2bc1942",
+    "title": "Primordial Serpents",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Kaathe resides in the darkness of the Abyss, but seems to be more involved in the affairs of Lordran than Frampt. Kaathe gave the Four Kings the art of lifedrain and consequently founded the Darkwraith covenant. He also seems to have tricked the residents of Oolacile into uncovering the corpse of Manus, driving him mad in the process. This sparked the spread of the Abyss, transforming the townsfolk into monstrous beings whose humanity has run wild, akin to Manus.\n\nIn the ending of Dark Lord, ten additional primordial serpents are seen, whose names are unknown. They appear to want to serve the newly-appointed Dark Lord, and possibly usher in the Age of Dark. An interesting note in this ending is that Kaathe states that both himself and Frampt will serve the Chosen Undead, disregarding any actions the player has taken before reaching this point, like placing the Lordvessel with Frampt instead of Kaathe, which would make the latter refuse to cooperate with the player, and vice-versa.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.886343742722886
+  },
+  {
+    "document_id": "3b6d4d99-02de-5d7c-b2df-2879c99215e3",
+    "title": "Bequeathed Lord Soul Shard",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Bequeathed Lord Soul Shard -  Dark Souls - item - availability \n availability : Both the Four Kings and Seath the Scaleless drop a Bequeathed Lord Soul Shard upon their defeat.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.849458482127858
+  },
+  {
+    "document_id": "9d35389b-adff-551c-bc2e-2b7fca7e8dfa",
+    "title": "Lore",
+    "section": "the_age_of_fire",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Gwyn, in a final effort to save the Age of Fire, marches with a great deal of his army to the Kiln of the First Flame and sacrifices himself to link with the First Flame, turning the Kiln to ash and incinerating his entire army (making them the Black Knights, who later walk Lordran). The attempt is temporarily successful, however, as the Age of Fire was only extended for at least 1000 years. Gwyn became a Hollow and is from then on known as \"Gwyn, Lord of Cinder\".\n\nThe Four Kings became corrupted and were seduced by evil at some point by Kaathe after Gwyn's fall and their servants turned into Darkwraiths. In an effort to stop them New Londo was flooded with all of its population, trapping the Four Kings with their Darkwraiths in the Abyss.\n\nSoon after, the deities began leaving Lordran. Gwyndolin was the only one of Gwyn's children to stay behind...",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.846626695243675
+  },
+  {
+    "document_id": "8cde3a36-6ff5-50a4-8654-454949592830",
+    "title": "Witch Beatrice",
+    "section": "locations",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Witch Beatrice -  Dark Souls - character - locations \n locations : Darkroot Garden – Witch Beatrice can be summoned as a phantom for the Moonlight Butterfly boss fight. Her summon sign can be found under the staircase leading up to the Moonlight Butterfly (only if the player has had hollowing reversed).\nNew Londo Ruins – Her summon sign is later found behind a pillar before the fog door leading to the Four Kings fight in the Abyss. The Moonlight Butterfly must be defeated with Beatrice's help for her sign to appear here. (Summoning and Challenging Moonlight Butterfly is enough, Usage of Black Separation Crystal after the fight has begun still counts as helping.)",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.678380224016344
+  },
+  {
+    "document_id": "241da467-7018-5036-94cf-4871aa7a36d2",
+    "title": "Crimson Gloves",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Crimson Gloves -  Dark Souls - armor - description \n description : Gloves of the sorcerers who flooded New Londo to seal away the Darkwraiths, and the Four Kings who descended into Dark.\n\nThe Sealers were once known as healers, and the bright crimson was a symbol of that.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.65227585940645
+  },
+  {
+    "document_id": "d51488ac-5516-54c6-a5d4-4e87e747cf88",
+    "title": "Crimson Robe",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Crimson Robe -  Dark Souls - armor - description \n description : Robe of the sorcerers who flooded New Londo to seal away the Darkwraiths and the Four Kings who descended into Dark.\n\nThe Sealers were once known as healers, and the bright crimson was a symbol of that.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.65227585940645
+  },
+  {
+    "document_id": "db5de52b-609a-5ec8-b2dd-9a646f9e006a",
+    "title": "Crimson Waistcloth",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Crimson Waistcloth -  Dark Souls - armor - description \n description : Waistcloth of the sorcerers who flooded New Londo to seal away the Darkwraiths, and the Four Kings who descended into dark.\n\nThe Sealers were once known as healers, and the bright crimson was a symbol of that.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.65227585940645
+  },
+  {
+    "document_id": "53d7007e-1cbd-55c2-a293-93b6ab99bb9d",
+    "title": "Chosen Undead",
+    "section": "the_lordvessel",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Once in Anor Londo, the player makes their way into the Anor Londo cathedral, where they face Dragonslayer Ornstein, of the Four Knights of Gwyn, and Executioner Smough. The Chosen Undead triumphs over them and gains access into the chamber of Gwynevere, where they are greeted by the Princess and awarded the Lordvessel. When Frampt sees that the player had completed their quest, he declares the prophecy set in motion and that the character is indeed the incarnation of the Chosen Undead.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.40347494573885
+  },
+  {
+    "document_id": "9c5ce2bf-a0c3-599a-9f8e-b660fd349270",
+    "title": "Spears of the Church",
+    "section": "how_to_join",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Spears of the Church -  Dark Souls III - mechanic - how_to_join \n how_to_join : The player must simply equip the Spears of the Church covenant item.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.384446049689743
+  },
+  {
+    "document_id": "02adce1c-1690-57dd-9636-6cb55d08002e",
+    "title": "Lords",
+    "section": "aftermath",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Darkstalker Kaathe, who opposed Gwyn's actions, attempted to bring about the Age of Dark and the coming of its ruler, the Dark Lord; most travelling to Oolacile and manipulating the citizens into upturning the grave of \"primordial man\". This resulted in Oolacile's fall as it began to be swallowed by the Abyss, consuming the land and corrupting its citizens. Kaathe also went to New Londo, seducing the Four Kings with the art of lifedrain, which corrupted them and their knights. In an effort to contain his darkwraiths, New Londo was flooded -an act that ultimately cost the lives of the city's inhabitants.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.181335794898526
+  },
+  {
+    "document_id": "6009e9f3-8868-5614-bd8f-cde2d60d86a8",
+    "title": "Royal Rat Authority",
+    "section": "fight_overview",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Royal Rat Authority -  Dark Souls II - boss - fight_overview \n fight_overview : Once you enter the fog door, the boss fight does not start immediately. This gives the player some time to devise a plan to take on the first phase. Whatever choice the player makes, it needs to be acted on quickly once the rats are aggroed because the boss will soon jump down and join the fight. The small rats can inflict large amounts of Toxic and stunlock the player, while the Rat Authority can take the player out with one attack.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.140167551607618
+  },
+  {
+    "document_id": "05fd886f-2c21-54f4-a8bd-7e9f89919514",
+    "title": "Knight Artorias",
+    "section": "abyss_sludge",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Knight Artorias -  Dark Souls III - boss - abyss_sludge \n abyss_sludge : When the player is behind Artorias, he may use his Abyss Sludge attack. This move does little damage but can stun and even knock down players with little to no poise. If timed right, the player can roll forward through the attack and get a hit on him, then immediately retreat.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.071777130608513
+  },
+  {
+    "document_id": "b1b1d2ea-b75e-568c-8e7a-0f240c56c4cc",
+    "title": "Mound-makers",
+    "section": "how_to_join",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Mound-makers -  Dark Souls III - mechanic - how_to_join \n how_to_join : The Mound-makers can be joined in the Undead Settlement. By navigating to a hidden area patrolled by numerous Thralls, the player can discover a non-hostile Hollow Manservant carrying an empty cage on its back. By examining the hollow, the player will enter the cage and be transported to the Pit of Hollows, below the Curse-rotted Greatwood's boss arena. This Manservant will be hostile if the Greatwood has been confronted or defeated, and thus cannot be interacted with.\n\nOnce there, the player must talk to Holy Knight Hodrick, who stands next to the covenant's Sacrificial Altar and who will give them the Mound-makers covenant item. If talked to again, he will give the player a Homeward Bone, which is required to leave the area without using the Darksign or committing suicide.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.92773100167569
+  },
+  {
+    "document_id": "ddbdfc71-e96e-5c7b-91f2-2eefd474ef62",
+    "title": "Bonfire (Dark Souls)",
+    "section": "lordran",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "***Painted World of Ariamis** (warping point)\n**At the beginning, before entering the fortress. Can only warp to, but not from, the bonfire.\n\n***The Abyss** (warping point)\n**Appears after defeating the Four Kings, at the end of New Londo Ruins. Since there's no way to escape Abyss by just walking, it's the only bonfire that allows you to warp before acquiring the Lordvessel, although in this case the Chosen Undead can only warp to, but not from, other bonfires.\n\n***The Catacombs**\n**Next to the first switch and guarded by a Necromancer.\n**Behind an illusory wall beside the ladder to the switch controlling the second bridge.\n****The Catacombs** (warping point, Remastered only) - In Vamos's workshop.\n\n***Tomb of the Giants**\n****Tomb of the Giants** (warping point) - Near Patches, at the bottom of a ladder.\n**Around a tight corner, before reaching three Skeletal Beasts.\n****Altar of the Gravelord** (warping point) - Appears after defeating Gravelord Nito.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.92267168887458
+  },
+  {
+    "document_id": "fe71f1e5-fbbe-54e8-bf4f-8bf33cbc89fc",
+    "title": "Old Sorcerer Boots",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Old Sorcerer Boots -  Dark Souls III - armor - availability \n availability : Found in Irithyll Dungeon. In the initial cell block, navigate down to the lower level and enter the first cell encountered. It can be found with the rest of the set, guarded by four Infested Corpses.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.902437715453033
+  },
+  {
+    "document_id": "8bee9e61-1dd3-54d3-a9bf-c87f75f3d845",
+    "title": "Old Sorcerer Coat",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Old Sorcerer Coat -  Dark Souls III - armor - availability \n availability : Found in Irithyll Dungeon. In the initial cell block, navigate down to the lower level and enter the first cell encountered. It can be found with the rest of the set, guarded by four Infested Corpses.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.902437715453033
+  },
+  {
+    "document_id": "50d09c02-d36c-55f9-9f6d-bf09ff608f55",
+    "title": "Old Sorcerer Gauntlets",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Old Sorcerer Gauntlets -  Dark Souls III - armor - availability \n availability : Found in Irithyll Dungeon. In the initial cell block, navigate down to the lower level and enter the first cell encountered. It can be found with the rest of the set, guarded by four Infested Corpses.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.902437715453033
+  },
+  {
+    "document_id": "7c3e48b1-9423-5865-b81b-0c2fc0d99e93",
+    "title": "Old Sorcerer Hat",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Old Sorcerer Hat -  Dark Souls III - armor - availability \n availability : Found in Irithyll Dungeon. In the initial cell block, navigate down to the lower level and enter the first cell encountered. It can be found with the rest of the set, guarded by four Infested Corpses.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.902437715453033
+  },
+  {
+    "document_id": "143fc390-e37f-57ea-bd99-e33b8f761044",
+    "title": "Darkwraith (enemy)",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Darkwraith (enemy) -  Dark Souls - enemy - lore \n lore : Darkwraiths were once knights of the Four Kings of New Londo before descending into Dark along with their masters. Provoked by Darkstalker Kaathe, they use the art of Lifedrain, the power of the Dark Soul to absorb Humanity. Their threat grew so large that all of New Londo was flooded, trapping them in the Abyss.\n\nDespite being consistently hostile, it seems that they are all part of the actual Darkwraith covenant, and appear as dark servants in other places besides New Londo.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.871423116207154
+  },
+  {
+    "document_id": "b0548846-1836-5cb0-a2bf-1a2a870a5c9d",
+    "title": "Ingward",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Ingward -  Dark Souls - character - location \n location : On a platform atop the ladder located in the fireplace-like nook in the New Londo Ruins.\n\nHe is later found tucked in a corner in Firelink Shrine near Griggs if he is spoken to after defeating the Four Kings.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.81305978984232
+  },
+  {
+    "document_id": "9f0ebe1e-19d2-5b04-a0c8-31686e921012",
+    "title": "Cage Spider",
+    "section": "cage_madman",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Cage Spider -  Dark Souls III - enemy - cage_madman \n cage_madman : Hidden somewhere in the Undead Settlement, in the small hamlet past the stables' side path, is the Cage Madman, a non-hostile cage spider. If talked to, he will sing a vague hint on how to enter the Mound-makers covenant.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.700860653425156
+  },
+  {
+    "document_id": "6dc57736-8776-5ee9-9fb2-e449043501bd",
+    "title": "Curse (auxiliary effect)",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Curse (auxiliary effect) -  Dark Souls - item - lore \n lore : When New Londo was flooded to seal the Four Kings, its inhabitants were also sacrificed to contain them. Now they wander the city as ghosts.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.64289413757223
+  },
+  {
+    "document_id": "0b05c493-f365-562e-8abd-f3b795ac042b",
+    "title": "Heirs of the Sun",
+    "section": "how_to_join",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Heirs of the Sun -  Dark Souls II - mechanic - how_to_join \n how_to_join : To join the Heirs of the Sun, the player must simply reach the Altar of Sunlight, located in Harvest Valley, and interact with it. Joining the covenant will have the recieve the Sun Seal.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.6119135407625
+  },
+  {
+    "document_id": "57995e1c-6cbb-55b4-92a6-81f12614fc8b",
+    "title": "Old Sorcerer Set",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Old Sorcerer Set -  Dark Souls III - armor - availability \n availability : Found in Irithyll Dungeon. In the initial cell block, navigate down to the lower level and enter the first cell encountered. The set will be found in this cell, guarded by four Infested Corpses.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.57746477079948
+  },
+  {
+    "document_id": "431ea630-c1f4-57b5-8a79-c11154e875c3",
+    "title": "Ending (Dark Souls III)",
+    "section": "availability_4",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The following steps are required:\nMeet and recruit Yoel of Londor at the Undead Settlement; after he relocates to Firelink Shrine, allow him to \"Draw out True Strength\" five times to receive one Dark Sigil every time. This must only be done before the player enters the Catacombs of Carthus after defeating the Abyss Watchers.\n** Every time the player dies, hollowing points equal to the amount of sigils gained are accrued.\n** One sigil is available the moment Yoel arrives at the Shrine. The remaining 4 sigils are given at or above 2, 6, 12, and 18 hollowing respectively. Dying twice after each sigil gained will accrue enough hollowing to gain the next. As long as the player does not enter the Catacombs, there are no time constraints regarding when to recruit Yoel or acquire the Sigils.\nMeet Anri and Horace at the Road of Sacrifices and exhaust dialogue between both characters.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.572771255020328
+  },
+  {
+    "document_id": "72b51cf7-90c4-5a97-8c63-62f55c89478a",
+    "title": "Four Knights of Gwyn",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Four Knights of Gwyn -  Dark Souls - character - lead \n lead : The **Four Knights of Gwyn** were Lord Gwyn's most trusted warriors. Only one knight is encountered in the original console version of *Dark Souls*: Dragon Slayer Ornstein.\n\nThe other three knights, Artorias the Abysswalker, Lord's Blade Ciaran and Hawkeye Gough, are only mentioned; Artorias is deceased by the events of the game, and the fates of the other two are left unrevealed, although they are presumed deceased as well.\n\nIn the *Artorias of the Abyss* DLC, the player is dragged into the past, allowing them to meet the other three knights in Oolacile.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.43659773123145
+  },
+  {
+    "document_id": "665bf8cf-ef2f-5b10-aafa-f363f089bf2c",
+    "title": "Bequeathed Lord Soul Shard",
+    "section": "backstory",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Bequeathed Lord Soul Shard -  Dark Souls - item - backstory \n backstory : Bequeathed Lord Soul Shards differ from Lord Souls in that they are shards of the Lord Soul of Gwyn. The owners of these shards were awarded them because Gwyn recognized the talent of the Four Kings of New Londo as leaders, and because Seath aided the Lords in the war of the Dragons.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.397437590519875
+  },
+  {
+    "document_id": "8e74b7db-5936-5240-ae6c-5849c5aff13a",
+    "title": "Oolacile",
+    "section": "artorias_of_the_abyss",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Oolacile -  Dark Souls - location - artorias_of_the_abyss \n artorias_of_the_abyss : In *Dark Souls: Prepare to Die Edition* or *Artorias of the Abyss* DLC, the Chosen Undead passes through part of Oolacile after traveling into the past; however, despite it taking place centuries before the rest of the game, the Oolacile Township is still fraught with hopelessness. The township has become filled with enemies (specifically Bloatheads, Bloathead Sorcerers, and a Chained Prisoner) as the Abyss spreads, and is seemingly deserted.\n\nOne of the Four Knights of Gwyn, Artorias the Abysswalker, arrived in Oolacile to rescue Dusk of Oolacile from Manus, Father of the Abyss, but fell victim to the Abyss. By the time the Chosen Undead found him, Artorias was hostile and engaged them in combat. After the Chosen Undead defeated the brave knight, they finish what Artorias had started, continuing through Oolacile Township and onward, eventually defeating Manus and rescuing Dusk.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.336375164633132
+  },
+  {
+    "document_id": "4d6c1e20-c0ef-521d-aeed-27f21bd7cfba",
+    "title": "Bell Keepers",
+    "section": "how_to_join",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bell Keepers -  Dark Souls II - mechanic - how_to_join \n how_to_join : To join the Bell Keepers, the player must speak to the Bell Keeper of Alken at the entrance of Belfry Luna or Belfry Sol. Exhausting his dialogue will allow the player to join the covenant and accepting will have them recieve the Bell Keeper's Seal.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.289820396070077
+  },
+  {
+    "document_id": "218bc1a7-a66f-57eb-99de-0e7ce4987889",
+    "title": "Gauntlets of Artorias",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Gauntlets of Artorias -  Dark Souls - armor - description \n description : Gauntlets Of Artorias the Abysswalker, one of Gwyn's four knights.\n\nThe death of the their owner can be surmised from the corrosive Dark of the Abyss, which has compromised their protective utility.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.264046533547873
+  },
+  {
+    "document_id": "6f901a0b-ef78-5043-9ab3-091b2bed98c4",
+    "title": "Leggings of Artorias",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Leggings of Artorias -  Dark Souls - armor - description \n description : Leggings of Artorias the Abysswalker, one of Gwyn's four knights.\n\nThe death of the their owner can be surmised from the corrosive Dark of the Abyss, which has compromised their protective utility.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.264046533547873
+  },
+  {
+    "document_id": "6ade13d3-496e-5b02-b66f-ef82148023fe",
+    "title": "Memory of the King",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Memory of the King -  Dark Souls II - location - notes \n notes : Each crown obtained unlocks Vendrick's next dialogue.\nIn order to receive Vendrick's Blessing, the player must actually have to bring all four crowns to him (just having them stored in the item box won't be enough).\nUpon attacking Vendrick, he will say *\"Foolish...\"* in a disgruntled tone and the ashen mist will fade, removing the player from the memory. The player may still re-enter the memory without any consequence.\nOnce Vendrick has given his blessing to the crowns, the Memory of the King cannot be entered again.\nIf the player attempts to run back through Velstadt's arena while in the memory, the ashen mist will fade and the player will be returned to the Undead Crypt.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.208210645854482
+  },
+  {
+    "document_id": "f5a64042-1c62-53ee-b42f-37811f237c4c",
+    "title": "Mask of the Sealer",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Mask of the Sealer -  Dark Souls - armor - description \n description : Mask of the sorcerers who flooded New Londo to seal away the Darkwraiths, and the Four Kings who descended into Dark.\n\nIt symbolizes their resolve to keep the seal shut forever and their atonement for all who were sacrificed, but two of the three forsook New Londo upon tiring of their duty.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.20451183748454
+  },
+  {
+    "document_id": "f4f80ddb-ec7e-5cae-903b-cf37e56d6864",
+    "title": "Fog Door",
+    "section": "oolacile_fog_doors",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Fog Door -  Dark Souls - mechanic - oolacile_fog_doors \n oolacile_fog_doors : Sanctuary Garden\n**Just ahead of the bonfire, before the encounter with the Sanctuary Guardian.\nRoyal Wood\n**The entrance to the coliseum area, before the encounter with Knight Artorias. Another one will be on the left side of the arena connecting to Oolacile Township.\n**There will be a Fog Door when arriving at the top of the waterfall face Black Dragon Kalameet but only after initiating the fight and if re-entering the arena before Kalameet is defeated.\nChasm of the Abyss\n**Before the encounter with Manus, Father of the Abyss.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.14767143394222
+  },
+  {
+    "document_id": "03bef784-bfda-5690-8f5f-170905ad4f7a",
+    "title": "Ashen One",
+    "section": "farron_keep",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - farron_keep \n farron_keep : Returning to the Crucifixion Woods and progressing towards Farron Keep, the Ashen One finds a massive swamp, the corrupted remnants of the once-vibrant Royal Wood. In order to make their way to the Abyss Watchers, the Ashen One must extinguish three flames, per the ceremony of admission into the Undead Legion. After doing so, the path to the Keep opens, allowing the Ashen One to face the Abyss Watchers.\n\nThe Abyss Watchers, reduced to fighting amongst themselves, are defeated by the Ashen One, who claims their ashes in order to restore them to their throne in Firelink Shrine. Killing the Watchers opens the way to the Catacombs of Carthus, an underground tomb filled with skeletal warriors.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.1102969452652
+  },
+  {
+    "document_id": "224210cc-5383-5917-966e-74b42d516c7c",
+    "title": "Reah of Thorolund",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "If Reah moves to the Undead Parish before the player defeats the Berenike Knight, she will not appear. However, killing the knight and returning to the area after resting at a bonfire or reloading the game will make her appear.\nReah can teach the player the \"Prayer\" gesture, if it has not already been obtained.\nIf attacked in the Undead Parish, she will not retaliate, but this will also result with her not selling her wares to the player until their sins are absolved.\nAfter rescuing Reah from the Tomb of the Giants, killing two of any of the following bosses results in her death: Bell Gargoyles, Gaping Dragon, Sif, Quelaag, the Bed of Chaos, Iron Golem, Priscilla, Ornstein and Smough, Seath, the Four Kings and Nito.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.089883079621046
+  },
+  {
+    "document_id": "aa4a04df-e9ed-5d2f-9cc5-ca7173b5165a",
+    "title": "Darkstalker Kaathe",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Darkstalker Kaathe -  Dark Souls - character - lead \n lead : is a character in *Dark Souls* and a mentioned character in *Dark Souls III*. He is voiced by Peter Marinker, who also voiced Kingseeker Frampt and Eingyi.\n\nA primordial serpent with the goal of bringing about the Age of Dark and whom opposes Frampt and the Gods of Anor Londo, he only appears, besides The Dark Lord ending, if the player slays the Four Kings without having placed the Lordvessel under Frampt's guidance, acting as leader of the darkwraith covenant.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.964849627970274
+  },
+  {
+    "document_id": "c25a7b58-cb7e-5875-b116-c7ad269568e7",
+    "title": "Demon of Song",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Demon of Song -  Dark Souls II - boss - description \n description : A giant, grotesque frog demon with a long tail. It has a skull-like face and two arms protruding from its mouth. Upon entering the boss area the player will find the Demon of Song sitting and waiting, as if to lure prey in. The face will use its arms to pull the upper jaw of the frog body down to protect the face from harm.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.81900375263721
+  },
+  {
+    "document_id": "a736b1d8-4ad0-54b1-9175-e4e457d0a4bc",
+    "title": "Armor of Artorias",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Armor of Artorias -  Dark Souls - armor - description \n description : Armor of Artorias the Abysswalker, one of Gwyn's four knights.\n\nThe death of the armor's owner can be surmised from the corrosive Dark of the Abyss, and the tattered azure-blue cape, once a symbol of pride and glory.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.80615428653467
+  },
+  {
+    "document_id": "5a384204-6270-5904-987b-511320d3f9da",
+    "title": "Helm of Artorias",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Helm of Artorias -  Dark Souls - armor - description \n description : Helm of Artorias the Abysswalker, one of Gwyn's four knights.\n\nThe death of the helm's owner can be surmised from the corrosive Dark of the Abyss, and the musty azure-blue tassel, once a symbol of pride and glory.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.80615428653467
+  },
+  {
+    "document_id": "62770ea7-4f98-5ae2-8677-2d4b391d283e",
+    "title": "Purple Coward's Crystal",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Purple Coward's Crystal -  Dark Souls - item - availability \n availability : Granted to the player the first time they enter the Battle of Stoicism duel arena, right before the Oolacile Township.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.769975404094136
+  },
+  {
+    "document_id": "b66b06d9-1e51-5204-bfd9-d116470ddba8",
+    "title": "Pilgrims of Dark",
+    "section": "advancing_in_the_covenant",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Pilgrims of Dark -  Dark Souls II - mechanic - advancing_in_the_covenant \n advancing_in_the_covenant : Players may talk to Darkdiver Grandahl to open the portal to the Dark Chasm of Old. The first time is free, but every subsequent trek costs one Human Effigy. In the Dark Chasm of Old, players may fight NPC black phantoms, and clearing the area will add one cleared dungeon to the player's count. The dungeon players enter is dependent on where they speak to Darkdiver Grandahl when opening the portal, with there being one unique portal in each of the locations the player spoke to Darkdiver Grandahl initially. Each dungeon contains a beacon, which must be lit with a torch. Lighting all three beacons and clearing all three dungeons allows the player to face the Darklurker.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.75877085173951
+  },
+  {
+    "document_id": "8718b600-fae2-51ff-ae2e-10fe32ff6e45",
+    "title": "Parasitic Wall Hugger",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "**However, a virtually safe method of engaging the creature in melee combat is to climb up a nearby ladder located opposite of the Parasite and enter an area that leads to its exposed and completely defenseless underside. In this case, long range thrusting weapons like a Spear can work quite well at dispatching the creature with little to no risk, though care does need to be taken to ensure the player does not accidentally slip underneath the creature and likely get instantly eviscerated.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.667544354786095
+  },
+  {
+    "document_id": "d372eb42-476a-5429-bdf5-bd5e869a834e",
+    "title": "Abyss",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Knight Artorias famously traversed New Londo's Abyss and hunted the Darkwraiths therein. He was protected by the power of a magical ring, which he gained after making a covenant with the beasts there. The ring prevented him from being swallowed by the void, but it led to his sword becoming cursed. In recognition of his actions, he was awarded one of Anor Londo's treasures, a Silver Pendant that allowed him to repel Dark sorceries; eventually he traveled to Oolacile to combat the threat of Manus, the lord of the Abyss. He ultimately failed in his mission he was overtaken by the dark, leaving behind his companion Sif.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "59017915-8f59-5199-b41a-267c072f2cea",
+    "title": "Abyss Attack Dog",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Abyss Attack Dog -  Dark Souls - enemy - lead \n lead : **Abyss Attack Dogs** are enemies in *Dark Souls*. They can only be found in the Artorias of the Abyss DLC.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "141552e5-ba93-5b53-9afd-91cfef36c768",
+    "title": "Abyss Greatsword",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Unusual for a weapon, the Abyss Greatsword has fairly good magic resistance, although most shields are still preferable.\n\nLike Chaos weapons, the Abyss Greatsword scales with Humanity (up to 10). When fully upgraded, with 10 Humanity, and 40/40 in Strength and Dexterity, the Abyss Greatsword deals the most raw physical damage among all of the Greatsword class weapons, beaten only by ultra greatswords and Great Hammers/Axes in this regard. This damage difference is not significant and when factoring in that Abyss Greatsword cannot be buffed, other weapons are capable of vastly out performing this sword without putting points into two different casting stats.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4f7faab6-151c-5b65-8d6f-c260770d9708",
+    "title": "Abyss Greatsword",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "If one does not meet the Intelligence and Faith requirements but still meet the required Strength and Dexterity, they will still be able to do full damage with the sword, but, will get a stagger animation that makes them immune to backstabs. This occurs because since the Intelligence and Faith requirements don't actually affect the damage output, but rather the Strength and Dexterity, they can completely disregard investing to get the Intelligence and Faith stats to 18. However, the drawback to this is that it will not allow one to do any follow ups, as once this sword makes contact, it will bounce off, stopping the user from doing anything for a few seconds.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9260cee5-8e3a-5aac-b78d-5b14f18fcebc",
+    "title": "Abyss Greatsword",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Abyss Greatsword -  Dark Souls - weapon - characteristics \n characteristics : Compared to its Greatsword of Artorias' true version, the Abyss Greatsword has a distinct moveset, lower stat requirements, weighs one unit less, has a heavily deteriorated appearance, and deals purely physical damage. The strong attacks are reminiscent of those performed by Artorias himself. Despite requiring 18 Faith and Intelligence, the Abyss Greatsword does not scale off of these parameters. This should discourage most builds from utilizing this weapon.\n\nUnusual for a weapon, the Abyss Greatsword has fairly good magic resistance, although most shields are still preferable.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a3c3640d-2a14-5b06-890f-1286f72d24b7",
+    "title": "Abyss Greatsword",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Abyss Greatsword -  Dark Souls - weapon - description \n description : This greatsword belonged to Lord Gwyn's Knight Artorias, who fell to the abyss.\n\nSwallowed by the Dark with its master, this sword is tainted by the abyss, and now its strength reflects its wielder's humanity.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ac6500df-62c4-5b6d-badd-b53d9a0ed902",
+    "title": "Abyss Greatsword",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Abyss Greatsword -  Dark Souls - weapon - availability \n availability : The Abyss Greatsword is created by ascending any Standard +10 greatsword, ultra greatsword, straight sword (other than the Broken Straight Sword or Straight Sword Hilt) or dagger at the Giant Blacksmith in Anor Londo with the Soul of Artorias and 5,000 souls.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cbf8ccb7-9941-5424-a039-d12fcb6d7318",
+    "title": "Abyss Greatsword",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Abyss Greatsword -  Dark Souls - weapon - lead \n lead : The **Abyss Greatsword** is a boss soul weapon and greatsword in *Dark Souls*. It was introduced in the *Artorias of the Abyss* DLC.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "01c733ac-df58-5bb4-985f-a6780095b44f",
+    "title": "Abyss Seal",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Abyss Seal -  Dark Souls II - ring - description \n description : Ring of the Pilgrims of Dark covenant.\nIncreases the attack strength of hexes,\nbut casting them reduces HP.\n\nWhat is dark?\nPerhaps we already know.\nWe fear dark, yet find solace in it.\n\nThose who join this covenant can see the hidden Dark Chasm.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ce993d6c-d7ab-58b8-8b41-4df6788e8ef9",
+    "title": "Abyss Seal",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Abyss Seal -  Dark Souls II - ring - lead \n lead : The **Abyss Seal** is a ring in *Dark Souls II*.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ff189376-dc2d-5a4d-ba6a-3cf75465c521",
+    "title": "Abyss Seal",
+    "section": "patch_notes",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Abyss Seal -  Dark Souls II - ring - patch_notes \n patch_notes : Due to calibration 1.06, the damage boost for hexes has been changed from 20% to 7%.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1da17849-e505-5e83-b9eb-f1f380347b11",
+    "title": "Abyss Watchers",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Along with the \"elite\" Abyss Watchers, the complete Undead Legion consisted of two other levels. The Abyss Watchers recruited acolytes for assistance, who provided support via miracles, sorceries, and other concoctions. At some point, they made a pact of uncertain terms with one of the Crystal Sages of the kingdom of Lothric, who agreed to come to their headquarters in Farron and train their acolytes in sorcerous arts. Due to the Legion's emphasis of speed over physical power, they asked the skilled sorcerer to develop unique variations of existing sorceries for the acolytes to use. Some of them were created by a scholar named Heysel, the daughter of the head acolyte, and further refined by the Crystal Sage.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2d8a500c-340b-5ace-9cc6-be5874857cfc",
+    "title": "Abyss Watchers",
+    "section": "summons",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Yellowfinger Heysel: If the player has defeated Heysel when she invades the player either in Crucifixion Woods or Farron Keep, and then encountered Rosaria, Mother of Rebirth at the Cathedral of the Deep and deepened devotion to her covenant, Heysel can be summoned for this fight. Her sign can be found between the Keep Ruins bonfire and the door leading to the mausoleum, next to the ruined tower covered in Rotten Slugs.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3599e04b-db2f-59d6-8612-f35467d14159",
+    "title": "Abyss Watchers",
+    "section": "second_phase",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Abyss Watchers -  Dark Souls III - boss - second_phase \n second_phase : Depleting the main Watcher's HP will trigger a cutscene, which shows the main Watcher absorbing power from the corpses around the arena. After this, the second phase of the battle commences.\n\nAt this point, the Watcher's sword will ignite, causing it to deal additional Fire damage and leaving trails in the floor that erupt into large pillars of flame. The Watcher himself will also take on an Embered appearance, revealing his true form as one of the Lords of Cinder.\n\nThe other Watchers no longer rise during the second phase, but the main Watcher is considerably more aggressive and powerful. The fight plays out in a similar fashion, but most of the Watcher's greatsword attacks are altered in some way. Killing the Watcher at this point will end the fight, but dying will reset it entirely, requiring the player to beat the first phase again.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "395f8246-8557-59c5-ad58-b04d4a8aef83",
+    "title": "Abyss Watchers",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Abyss Watchers -  Dark Souls III - boss - trivia \n trivia : Hawkwood the Deserter is a former member of the Watchers, and is speculated that he eventually deserted the Legion in part because of the mockery he received for his shield.\nFrom the description of their soul and the ability to create the Wolf Knight's Greatsword, it seems that the massive soul of the Undead Legion is a reincarnation of Artorias himself, as many souls have been known to eventually reincarnate.\nThe design of the Abyss Watchers appears to be based on the Keeper of the Old Lords from *Bloodborne*.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "53763a58-975b-5a9e-be7e-7f4d4780c408",
+    "title": "Abyss Watchers",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "The Watchers that resurrect in the first phase of the fight are actually the same two Watchers, they will resurrect on the spot where they were killed.\nAfter defeating the Watchers, the Undead Legion Set will become available for purchase with the Shrine Handmaid, and the Hornet Ring will be found outside the Dark Firelink Shrine resting upon a grave next to a Black Knight.\nThe Wolf Knight Set also becomes available from the Shrine Handmaid in the Untended Graves following their defeat.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5efaf2a2-f7c8-5e0c-a766-b1e934901539",
+    "title": "Abyss Watchers",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Abyss Watchers -  Dark Souls III - boss - lead \n lead : The **Abyss Watchers**, also known as the **Undead Legion of Farron**, are a collective boss in *Dark Souls III*, and are the first of the four main enemies that the Ashen One is tasked with slaying.\n\nFound at the end of Farron Keep, the first phase of their boss battle is unusual: it involves a \"main\" Watcher whose health bar must be depleted, and who is joined as time passes by others with their own health bars, but also Watchers corrupted by the Abyss, who will indiscriminately target both the Ashen One and the uncorrupted Watchers, the latter of whom will fight back, turning the fight at times into a three-sided battle. Once the main Watcher's health is depleted, they regenerate for a second phase where they are the sole opponent.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "655f961c-7029-5db4-a196-f3cfe5d97dfd",
+    "title": "Abyss Watchers",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Perhaps the most telling of their fall were the number of foot soldiers tasked with the covert disposal of corrupted members. As the Abyss slowly morphed the Legion's lost members, the so-called \"Followers\" would be sent to execute them before they were transformed into abyssal beasts. Their primary technique was to surround the target, burning and stabbing them, and finishing them with honor using javelins thrown with great force.\n\nBeneath their home in Farron Keep are the Catacombs of Carthus, which contain a chalice holding High Lord Wolnir, who fell to the Abyss long ago. Along with the cindered Smouldering Lake, nearby is the Cathedral of the Deep, resting place of Aldrich, Devourer of Gods.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "70b22139-adfc-51a0-a95c-d178d35cb344",
+    "title": "Abyss Watchers",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Eventually, the Watchers linked the Fire, although it is unknown if one or all had done so. With the Watchers becoming Lords of Cinder, the wolf blood dried up. The Followers, now having nothing to live for, went hollow, roaming the land and eventually disappearing into the Painted World of Ariandel. With no one remaining to execute the corrupted, the acolytes were slowly devolved by the Abyss, and Farron was consumed in a rotting bog. When the Abyss Watchers were awakened to kindle the Flame once again, they returned home to find it corrupted and their mission unsuccessful. The Watchers in the keep now fight against themselves, endlessly slaying their brethren corrupted by the Abyss.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "86d8fddb-7ce8-517f-a6d6-71dfeb87c737",
+    "title": "Abyss Watchers",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Abyss Watchers -  Dark Souls III - boss - description \n description : The Abyss Watchers are a legion of troops that all wear a distinctive armor consisting of leather over chainmail, a long cloak, and a distinctive, pointed helm concealing a mask, seen as a sinister symbol by the masses. They are known for combating the Abyss wherever it may break out, and eradicating any of its abominations. They are believed to serve in the name of Artorias the Abysswalker, who was sworn to the same duty.\n\nAll of them use a greatsword and curved dagger. The dagger is not primarily used for offense, or even parrying, but as a hook for the Watchers to utilize their wild, unpredictable fighting style.\n\nBy the time the Ashen One encounters the Legion, they are mercilessly fighting one another, seemingly because some of the remaining Watchers have gone mad from exposure to the Abyss, hence their glowing red eyes.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ab29f1e2-2531-5e96-b205-9d626c7b3b9f",
+    "title": "Abyss Watchers",
+    "section": "summons",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Abyss Watchers -  Dark Souls III - boss - summons \n summons : Black Hand Gotthard: His summon sign will appear before the stairs leading up to the boss arena.\nLondor Pale Shade: If the player has done Yoel of Londor's questline and met Yuria of Londor, the Londor Pale Shade can be summoned for the fight. His summon sign can be found near the Farron Keep Perimeter bonfire.\nSirris of the Sunless Realms: If the player has given the Dreamchaser's Ashes to the Shrine Handmaid and then talked to Sirris afterward, she can be summoned for this fight. Her sign will be located to the left of the door leading into the boss arena.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c918fea4-daaf-5320-bf54-fcf29aec53f0",
+    "title": "Abyss Watchers",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Abyss Watchers -  Dark Souls III - boss - strategy \n strategy : The fight consists of the player fighting a lone Abyss Watcher, who is present during the entire battle. More Abyss Watchers will awaken to join the battle as it progresses. These Watchers are much more fragile than the main Watcher, but they can still deal a considerable amount of damage, especially when multiple attack at once.\n\nEvery other Watcher that awakens, starting from the second, will be red-eyed and hostile toward other Watchers. They can directly attack the player or each other, but they will mostly focus on the other watchers. These Watchers can be used to the player's advantage, as they assist in dealing damage and taking aggro. As such, it may be a good idea to switch to a more defensive playstyle while the player waits for these Watchers to even out the odds.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ccf9aef0-0e3c-53e5-a2e9-5ce5482bee59",
+    "title": "Abyss Watchers",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Abyss Watchers -  Dark Souls III - boss - notes \n notes : Can be parried, riposted and backstabbed in both phases of the encounter.\nThe Watchers wake up based on a timer. Damage dealt has an effect on how many of them are active.\nAll Watchers are instantly killed when the first phase of the fight is finished.\nThe Abyss-corrupted (red-eyed) Watchers are capable of finishing off the main Watcher. This has no direct effect on gameplay, however.\nIf an enemy followed the player up to the fog door, it may attract the corrupted Watcher's attention and he will keep trying to attack it for the rest of the first phase, rendering him unable to help against the others.\nThe Watchers that resurrect in the first phase of the fight are actually the same two Watchers, they will resurrect on the spot where they were killed.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dad6d4de-fcc6-51ea-8cb5-103d1f967f35",
+    "title": "Abyss Watchers",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Abyss Watchers -  Dark Souls III - boss - lore \n lore : The Abyss Watchers were the main component of the Undead Legion of Farron, a special fighting force formed to combat the threat of the Abyss. Taking inspiration from the Wolf Knight (Sir Artorias, the Abysswalker), the Abyss Watchers themselves sought to utilize the techniques of Artorias, and partook of \"wolf blood\" to do so. Empowered by the legacy of Artorias, they became intensely strong and agile, fighting in a coordinated and sporadic pack akin to wolves.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f5055b7e-6eb3-5b45-9735-23d0592616c2",
+    "title": "Abyss Watchers",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "The main Watcher, although carrying a greatsword, is extremely fast and dexterous. He is constantly jumping around and evading the players swings by doing so. He will also try to take an advantage by swinging his greatsword around the floor of the arena. Never let your guard down, each and every attack can take you by surprise.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f6d06d8e-f5dc-5631-a386-31feb0cf411a",
+    "title": "Abyss Watchers",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Though the Legion was not inherently evil or overtly violent, they quickly became known for their scorched-earth tactics, said to \"bury\" entire kingdoms at the first sign of exposure. Their distinct outfits, topped off with a tall, pointed helm, became an ill omen for its beholders. Their fighting style was enhanced by the revolutionary use of an ultra greatsword—modeled after Artorias' sword—along with a carved dagger, utilizing the dagger as support for utilizing their own unique, highly agile fighting techniques that was even more unpredictable and vicious than their predecessor. As such, they disdained the use of shields and preferred a constant offense.\n\nThe wolf's blood did more than enhance their bodies; the very essence of each Watcher who partook of the blood was interlinked, coalescing their souls into one. As such, instead of each body hosting distinct souls, all that partook the wolf blood shared the one soul, that of the \"wolf blood master\", distributed amongst them.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a2de1a94-3dd4-5d13-95ac-0d20e10838d6",
+    "title": "Artorias of the Abyss",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Artorias of the Abyss -  Dark Souls - mechanic - lead \n lead : ***Artorias of the Abyss*** is additional content for the game *Dark Souls*. It was originally released for PC as part of the *Dark Souls: Prepare to Die Edition*, and later for consoles as the eponymous DLC. A console version of the *Prepare to Die Edition* was also released at a later date. The DLC content is also automatically available in the Dark Souls Remastered Editions.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e25da2cc-cfd3-5c53-b396-3b7f140a5db1",
+    "title": "Artorias of the Abyss",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Artorias of the Abyss -  Dark Souls - mechanic - plot \n plot : While everything about *Artorias of the Abyss* is technically optional, the main storyline consists of the Chosen Undead taking the place of Knight Artorias, rescuing Dusk of Oolacile and killing Manus, Father of the Abyss.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4281d8f2-9b05-57b8-9390-ed76a7c13882",
+    "title": "Chasm of the Abyss",
+    "section": "respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - respawning \n respawning : Bloathead Sorcerer\nBloathead\nHumanity Phantoms",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "922f4282-98e5-5691-a137-d4d1560d418f",
+    "title": "Chasm of the Abyss",
+    "section": "characters",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - characters \n characters : Alvina of the Darkroot Wood\nDusk of Oolacile\nSif (summonable phantom)",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "004ab82e-a5d1-5a88-a9d1-16d0d8b1c4cb",
+    "title": "Covenant of Artorias",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Covenant of Artorias -  Dark Souls - ring - description \n description : This ring symbolizes Knight Artorias' covenant with the beasts of the Abyss.\n\nIts wearer, like Artorias himself, can traverse the abyss.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "10911a13-f1fd-5c6a-ab26-1bc3b88dffd7",
+    "title": "Covenant of Artorias",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Covenant of Artorias -  Dark Souls - ring - lead \n lead : **Covenant of Artorias** is a ring in *Dark Souls*.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "32b4e52f-035b-51e3-8181-0cc1f601b2b1",
+    "title": "Covenant of Artorias",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Covenant of Artorias -  Dark Souls - ring - availability \n availability : The Covenant of Artorias is obtained by killing Great Grey Wolf Sif.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8d0a98f5-dc4a-5a37-a368-43a144a5161e",
+    "title": "Four Kings",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Having failed to eliminate the dark threat, an agonizing and terrible decision was made: flooding the entire land of New Londo despite the realization that countless lives and the rich culture of the country would be lost. For this task, sorcerers were called, and the feat was accomplished without even evacuating the city's civilians, sealing away the Four Kings, their Darkwraiths and the entire population with them. The victims were thus cursed, and became Ghosts roaming the ruins of their country, seeking to make mincemeat of every living being.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "903875a2-5606-591f-80ac-6a2eb5b6e655",
+    "title": "Four Kings",
+    "section": "summoning",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Four Kings -  Dark Souls - boss - summoning \n summoning : Summon signs are most commonly found at the beginning of the New Londo Ruins, before crossing the bridges. Some can also be found right before the boss door.\n\nWitch Beatrice's summon sign can be found hidden around a corner just before crossing the short bridge to the Fog Door, but only if you have already summoned her for the Moonlight Butterfly fight. It may prove more than useful if you are a light build.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9f2efd82-611f-55fb-bf87-75f0919335ac",
+    "title": "Four Kings",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Initially, it can be hard to determine how close a king is; they can appear close, when they are in fact out of reach. It's a good idea to run into a king before attacking, not only to be sure your attacks will land, but also because being close to a king can cause his attacks to miss.\nUsing armor with good poise (Havel's Set will be the best for this as it has good defense without using materials) while staying close to the kings will allow you to tank through the hits (as they deal significantly less damage while you are next to them) and constantly hit them. Be wary, though, as full heavy armor is extremely heavy so fat rolling or even no rolling is likely. Using Green Blossoms and the Grass Crest Shield is also recommended.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c5137c11-25e4-58b7-a414-f19bf856fcd2",
+    "title": "Four Kings",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Power Within adds decent amounts of damage to attacks and can help destroy individual Kings quickly before the next one appears.\nThe use of Great Magic Barrier, Magic Barrier, or any equipment with high magic resistance can help, as all of their attacks deal at least partial magic damage. The Dark Hand, dropped by nearby Darkwraiths, can be used in the left hand as a shield with 80% MagDef.\nThe damage dealt by the Kings in NG+ is far greater than in NG, so it may prove difficult to absorb their attacks with heavy armor.\nStaying close to a King will force the lower portion of the blade to hit, minimizing damage. This is true even on NG+, as getting hit by the upper section of their blade will deal heavy damage. This will also prevent it from using some magic attacks (namely, the homing shot) and the unengaged Kings tend to use melee at most distances.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "288014c6-f1e3-5b25-b68d-3d52f955aab4",
+    "title": "Great Grey Wolf Sif",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Despite sharing a name with a Norse goddess, Sif's gender is unconfirmed, and is not directly stated in either the English or Japanese versions of the game.\n**In translations for languages that have grammatical gender, the masculine form of \"wolf\" is often used when referring to Sif. In French, Sif is called *Le Grand Loup Gris*, using the masculine \"loup\" rather than the feminine \"louve\", In Spanish, Sif is called *El Gran Lobo Gris*, using the masculine \"lobo\" rather than the feminine \"loba\", In Russian, Sif is called *Великий Волк*, using the masculine \"волк\" rather than the feminine \"волчица\", In Italian, Sif is called *Il Grande Lupo Grigio*, using the masculine \"lupo\" rather than the feminine \"lupa\".\n**In the strategy guide by FuturePress, Sif is referred using masculine pronouns.\nAnother possible naming influence is the Arabic *saif* or *sayf*, meaning \"sword\".",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "37b4a9aa-e4bf-5a8d-a6b4-b0d4bf1a3bb3",
+    "title": "Great Grey Wolf Sif",
+    "section": "artorias_of_the_abyss",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "If the Chosen Undead saves Sif in the Chasm of the Abyss before killing Sif in Darkroot Garden, a different cutscene will play before the fight; however this will prevent you from meeting Kaathe, because you need to place the Lordvessel and visit the Duke's Archives to access the DLC. In the cutscene, Sif will recognize the player as they approach and let out a whimper. The protagonist reaches out to pet the wolf, but Sif pulls away and howls mournfully before sadly picking up Artorias' greatsword. The fight will continue as normal after this point.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6531072e-1ae2-5489-b7aa-cd702f0fd7cf",
+    "title": "Great Grey Wolf Sif",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Using miracles, sorcery, or pyromancy to soften Sif up before moving in with melee attacks can also prove to be effective.\nUsing a summoned phantom as a decoy can make positioning oneself under Sif easier. In a party of two or more players only one should try to get under Sif, otherwise players may bump into each other when trying to dodge Sif's attacks.\nSif's attacks can be blocked, but most of them will cause a significant loss of stamina, even with a good shield. Learning Sif's attack patterns and avoiding them completely, either by dodging or simply walking out of the way, is highly recommended.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "71c7695a-2d5b-5d39-8426-c5f5dae64e76",
+    "title": "Great Grey Wolf Sif",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Great Grey Wolf Sif -  Dark Souls - boss - location \n location : Sif can be found in Darkroot Garden behind large, glowing doors, guarding the grave of Artorias the Abysswalker, one of Gwyn's four knights.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "71f47f72-589b-5c8b-9352-646da4cb25f6",
+    "title": "Great Grey Wolf Sif",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Great Grey Wolf Sif -  Dark Souls - boss - strategies \n strategies : For melee fighters, getting underneath Sif is generally the best strategy, as it makes most attacks miss the player character completely. Care must still be taken to dodge, block or move out of the way of the slam attack, though. Locking on is not always a good idea when doing this, as it can make the camera spin and make it harder to control one's position. Two-handing is more effective, as it will make the fight shorter and reduce the number of slams that need to be dodged.\nFor ranged characters, players can simply target-lock Sif and kite Sif backwards around the edge of the arena. Staying as far as possible away from Sif will cause most, if not all, of Sif's attacks to miss.\nUsing miracles, sorcery, or pyromancy to soften Sif up before moving in with melee attacks can also prove to be effective.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c36ab3a7-618e-5cc5-a140-318425f22491",
+    "title": "Great Grey Wolf Sif",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Great Grey Wolf Sif -  Dark Souls - boss - notes \n notes : Sif will start visibly limping at critical health, which vastly decreases the wolf's speed and agility. Sif's moveset also changes, having less attacks and the ones remaining being much slower and having much more ending lag.\nSif also limps at critical health when summoned to assist the player with Manus.\nIt may be hard to summon a phantom before the battle, as Darkroot Garden is a PvP hotspot, allowing invasions.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cd750cde-742b-53bb-89b2-4b2223341c3d",
+    "title": "Great Grey Wolf Sif",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Great Grey Wolf Sif -  Dark Souls - boss - trivia \n trivia : In Norse mythology, Sif is the golden-haired wife of the god Thor.\n** The goddess Sif's name in Old Norse is pronounced /siːf/, \"seef\", though it is often anglicized to /sɪf/, \"siff\". It is also a female given name in modern day Iceland.\n**The name \"Sif\" is believed to be a singular form derived from Old Norse *sifjar*, \"connection by marriage\". The modern English \"sib\", as in \"sibling\", comes from the same root, as does the German \"Sippe\", meaning \"tribe\" or, coloquially, \"family\".\n** In *Advanced Dungeons & Dragons* sourcebook *Legends & Lore* (1984), the goddess Sif is depicted wielding a longsword and wearing white and silver. These traits are shared with the Dark Souls boss Sif.\nDespite sharing a name with a Norse goddess, Sif's gender is unconfirmed, and is not directly stated in either the English or Japanese versions of the game.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ce8aa623-976c-5c9f-a39a-8816f583764b",
+    "title": "Great Grey Wolf Sif",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "In the fight against the Chosen Undead, Sif wields the sword of Artorias, former companion who sacrificed himself in order to protect Sif.\nThe sword Sif carries in their mouth appears to be a replica of Artorias' sword. The sword also apparently changes size between the events of Artorias of the Abyss and the main game.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cfd5ec3f-4e15-5def-8b7b-7a03eb80b956",
+    "title": "Great Grey Wolf Sif",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "**In the strategy guide by FuturePress, Sif is referred using masculine pronouns.\nAnother possible naming influence is the Arabic *saif* or *sayf*, meaning \"sword\".\nIn Japanese, Sif is named 灰色の大狼シフ (*Haiiro no Ookami Shifu*), meaning \"Grey (literally \"ash-colored\") Wolf Sif\". \"Ookami\", \"wolf\", is often written in Japanese with 狼 alone (such as in the Japanese title of the anime *Spice and Wolf*, 狼と香辛料), but here is written 大狼, also read \"ookami\", with the first kanji carrying the meaning \"great\" or \"large\". 大狼 is also used in the Japanese translations of *A Song of Ice and Fire* to refer to the direwolves, though in that series it is read ダイアウルフ (katakana for the English \"direwolf\"). The alternative reading \"Dairou\" for 大狼 has been suggested, but this is not attested in the game.\nIn the fight against the Chosen Undead, Sif wields the sword of Artorias, former companion who sacrificed himself in order to protect Sif.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e0f5d2d9-67f9-56ac-adc8-9eeb785deb09",
+    "title": "Great Grey Wolf Sif",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Great Grey Wolf Sif -  Dark Souls - boss - attacks \n attacks : {'name': 'Finishing Combo', 'description': 'Sif will slice twice and then finish with a **Sword Slam**. The last attack has poor tracking and a small hitbox, so use this as an opportunity to get some hits in.'}",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f4a3fc43-0c7b-5c42-a30e-a0360ceff140",
+    "title": "Great Grey Wolf Sif",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Great Grey Wolf Sif -  Dark Souls - boss - lead \n lead : is a boss in *Dark Souls*.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0722c2d1-2c45-524d-872e-a60cc49d83bd",
+    "title": "Key to New Londo Ruins",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Key to New Londo Ruins -  Dark Souls - item - lead \n lead : The **Key to New Londo Ruins** is a key in *Dark Souls*.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2ee44142-9781-5567-a795-aef78ba5b303",
+    "title": "Key to New Londo Ruins",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Key to New Londo Ruins -  Dark Souls - item - description \n description : Key to the iron bars separating the ruins of New Londo and Drake Valley.\n\nThe ruins of New Londo were blocked off, for the cursed ghosts posed danger to life and spirit, and the legends speak of a terrible Dark that was sealed away.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cba99469-60d2-5c5f-b30b-f481a0183385",
+    "title": "Key to New Londo Ruins",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Key to New Londo Ruins -  Dark Souls - item - general_information \n general_information : Opens the gate between New Londo Ruins and the Valley of Drakes. This gate can also be opened with the Master Key.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fd9613c1-d5ba-51fb-9e25-af6fd7cb3a5e",
+    "title": "Key to New Londo Ruins",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Key to New Londo Ruins -  Dark Souls - item - availability \n availability : Found in a chest in Blighttown, close to the entrance to the Valley of Drakes.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "23ef5287-cc9b-54e9-bd22-93eece69df3b",
+    "title": "Manus, Father of the Abyss",
+    "section": "notes_2",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - notes_2 \n notes_2 : Physical defenses: Regular 108, Slash 108, Strike 108, Pierce 108 (Raw entity data, for comparison only)\nElemental defenses: Magic 256, Fire 208, Lightning 240 (Raw entity data, for comparison only)\nStatus defenses: Poison 999, Toxic 999, Bleed 999 (Raw entity data, for comparison only)",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4fa9de46-41c4-5e69-a0a5-bc2193a2880c",
+    "title": "Manus, Father of the Abyss",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - dark_souls \n dark_souls : Manus was a primordial human who possessed an extraordinary soul consisting of a viscous, lukewarm lump of gentle humanity, an immense Dark Soul. He was also a sorcerer who used a rough and old wooden catalyst, very crude but large enough to be used as a weapon. His sorceries could grant a fleeting will to the Dark of humanity, induced to relentlessly chase enemies through channeling innate human affinities. Manus also possessed one half of an ancient stone pendant, a precious magical artifact that emanated a distinct, wrenching nostalgia as well as reverence.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5cd1ada2-7923-5f33-a49d-099d31911def",
+    "title": "Manus, Father of the Abyss",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - trivia \n trivia : Manus may be named for Mannus, the father of mankind in Germanic mythology. According to the Roman writer Tacitus, the Germanic tribes believed a god *Tuisto* sprang from the ground and had a son, *Mannus*, from whom all humans were descended. Manus is also the Latin word for “hand”, alluding to Manus’s massive left hand.\n**However a more accurate translation of \"深淵の主マヌス\" would be \"Manus, Lord of the Abyss\".",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6a7d7821-0001-5013-8923-5a7fe893a5af",
+    "title": "Manus, Father of the Abyss",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - notes \n notes : The Silver Pendant, although not required, can be of great help as it blocks his magic attacks if used with correct timing.\n\nGreat Grey Wolf Sif can help in this battle. Whilst Sif's attacks are not very damaging, the extra summon can keep Manus distracted and give the player time to heal. It is wise to only summon Sif after Manus is below half health, to distract him in his harder phase, making it less likely the player will be targeted by the Dark Orb barrage attack.\n\nSif's summon sign is *inside* the Manus's arena, directly to the left of where the player spawns. As a result, Sif can only be summoned *during* the fight. Thankfully, Sif is summoned instantly after touching the sign, without the usual white phantom-summoning animation. Since it is summoned during the fight it does not increase Manus' Hp.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "848e3f9f-7d66-53ab-b79a-78e10702b84d",
+    "title": "Manus, Father of the Abyss",
+    "section": "appearance",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - appearance \n appearance : Manus appears to be a massive beast-like humanoid with a long spiked tail and multiple chaotic horns sprouting from his head and neck, covered with red-glowing eyes. He wields a staff in his right hand to attack and to cast dark sorceries, while his larger, furry left arm, capable of extending to reach enemies, is complete with a hand laden with teeth inside the palm.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8e3fd917-80ba-5511-9e4d-c56055791296",
+    "title": "Manus, Father of the Abyss",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus at one point kidnapped Princess Dusk of Oolacile—possibly after her rescue from a Golden Crystal Golem—and imprisoned her deep within the Chasm of the Abyss. In the meantime, his prized pendant came under the possession of Seath the Scaleless and then a Chosen Undead in the future; Manus, driven by his unrelenting search for his pendant, snatched the Undead from the future and brought them into the old Oolacile. There, the Chosen Undead put down the corrupted Knight Artorias and journeyed within the Chasm of the Abyss, where they finally defeated Manus and put him to rest. While Dusk was rescued in the process, she was driven by Elizabeth into thinking that she was saved by Artorias, preserving the legacy of the Wolf Knight. Nevertheless, Dusk came to recognize the Chosen Undead's similarity to the fabled knight, and developed doubts of her own as to her true savior.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "985958be-9408-5ac2-9cf6-6f0e9be514f6",
+    "title": "Manus, Father of the Abyss",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus was a sorcerer of Oolacile, and after he died, his body was buried in the caverns beneath the city. 200 to 300 years prior to the journey of the Chosen Undead, the Primordial Serpent Kaathe arrived in Oolacile, in search of a potential Dark Lord following the flooding of New Londo. He manipulated the country to upturn the grave of the primordial man, Manus, buried beneath the dungeons of their city and resurrect him. Manus awakened to find his pendant missing, and was eventually driven into a beastly frenzy as his Dark Soul went wild, transforming him into the \"Father of the Abyss\".",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a7613f3f-c43a-5352-b93e-02e295d503f4",
+    "title": "Manus, Father of the Abyss",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "If the player wishes to face Manus conventionally, it is advisable to equip stamina-boosting items that such as the Cloranthy Ring, as well as a high-Stability shield that blocks physical damage. Only attack Manus after he finishes his jumping smash or frenzy combo, lest you be caught in the middle of his strikes.\n\nManus will start using his magic attacks at around 50% health. Use the Silver Pendant to deflect them, as they are difficult to dodge.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a9891f4e-16b7-59e2-b86c-fe8ee35c4b76",
+    "title": "Manus, Father of the Abyss",
+    "section": "artifacts",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - artifacts \n artifacts : Soul of Manus\nManus Catalyst\nPursuers\nBroken Pendant",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dd7afd29-89a5-5c70-85e3-a2c319c5308a",
+    "title": "Manus, Father of the Abyss",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "His immense mass of humanity out of control led to the manifestation of an Abyss that spread, threatening to devour the entire land. The Dark emanating from Manus generated countless Humanity Phantoms and seeped among the residents of Oolacile, making their humanity go wild and mutating their bodies, their bloated heads lined with innumerable tiny red eyeballs and brain parts protruding from cracks. Corrupted Oolacile sorcerers discovered abyssal sorceries, more weighty and dealing physical damage instead of magical, since the Dark produced sorceries with a more tangible, \"human\" presence.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "eb7a867e-7eda-52f7-8391-eed42d199562",
+    "title": "Manus, Father of the Abyss",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - lead \n lead : is a character in *Dark Souls* and a boss in *Dark Souls: Artorias of the Abyss*.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "edaa9b72-53d3-5cf5-b948-ea076b7a98c8",
+    "title": "Manus, Father of the Abyss",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - dark_souls_ii \n dark_souls_ii : Although he was killed, the Dark Soul of Manus was so large and powerful that he was reborn in death, and his soul split into miniscule fragments that retained some will. These pieces began to coalesce once again by absorbing other humanities, becoming the incarnations of different emotions of Manus and then human in shape, with their own self-awareness: Elana was the embodiment of Manus' wrath, Alsanna of his fear, Nadalia of his solitude and Nashandra, the tiniest fragment of Manus, the embodiment of his want. These new entities had some recollection of their father and his dark powers and when the Abyss that they called home was dissipated they scattered across the land. To sustain themselves and seek power, they reached Drangleic where in one way or another they came into contact with the holders of magnificent souls, drawn to their awesome strength.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f28309f9-75e6-5837-8aa5-1086014a8e52",
+    "title": "Manus, Father of the Abyss",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "As the Abyss spread across the land of Oolacile, Knight Artorias arrived to halt its advance and confront Manus, as the Knight of Gwyn already had experience with fighting the Abyss and its creatures after the events of New Londo and his hunt for the Darkwraiths, and possessed a Silver Pendant that protected him from the Dark. However, Artorias's pendant was stolen by Oolacile's inhabitants and hidden behind an illusory wall, depriving Artorias of protection against Manus's dark sorceries. Together with his trusted companion Sif, Artorias faced Manus but his strength proved insufficient to defeat him, and he succumbed to the Abyss. Injured in the battle, Artorias used his Cleansing Greatshield to form a magic barrier that protected Sif from the Dark. Now corrupted to his soul by the Abyss and with his armor corroded, Artorias was left to fight alone and hold back the treacherous citizens of Oolacile.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "09b41cce-dbb7-5d3c-bc96-1055fafde7ab",
+    "title": "New Londo Ruins",
+    "section": "rings",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - rings \n rings : Cursebite Ring\nRare Ring of Sacrifice",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "143332cc-5c32-57d0-8eb8-de5350d282b0",
+    "title": "New Londo Ruins",
+    "section": "characters_2",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - characters_2 \n characters_2 : Crestfallen Warrior",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1967a9d3-17f6-5bb1-a64b-8d2e18dafd22",
+    "title": "New Londo Ruins",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - notes \n notes : It is possible to obtain the Fire Keeper Soul immediately after arriving in Lordran.\nIf the Key to the Seal is desired before receiving the Lordvessel, Ingward will drop it if killed.\nPlayers can hear the scream of the Four Kings, similar to that of a Wisp's, when they perform their explosive magic attack during a boss fight from another player's world.\nThere are two shortcuts in New Londo Ruins that can be used after reaching a certain point in the area and unlocking them.\n**One is up the first set of stairs, to the right of the narrow walkway, behind the ghost that spawns. Players can roll onto the level below the small archways where the ghosts that attack through the floors and ceilings can be seen. A ladder must be kicked prior to dropping down in order to use this shortcut properly.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "252b014d-915f-56b6-982a-e4dd871c11d4",
+    "title": "New Londo Ruins",
+    "section": "embers",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - embers \n embers : Very Large Ember",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "39cfc820-4fd3-533d-8946-5d999466644e",
+    "title": "New Londo Ruins",
+    "section": "weapons",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - weapons \n weapons : Composite Bow and Large Arrow ×16\nEstoc\nParrying Dagger",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3ddb6281-37d6-59a7-a8f7-b4b7e310cae0",
+    "title": "New Londo Ruins",
+    "section": "non_respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - non_respawning \n non_respawning : Mass of Souls\nWisp",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4e2a0ed9-66a5-5556-9d08-be1e6df6711e",
+    "title": "New Londo Ruins",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - description \n description : These water-filled ruins are located deep underground, and can be accessed by taking the elevator directly beneath Firelink Shrine. It is populated by a multitude of passive Hollows and dangerous Ghosts. Once the water has been drained, the lower levels will be traverseable, but the area is prowled by numerous Darkwraiths. Piles of sodden corpses fill the ground near the floodgates, a grim reminder of New Londo's tragic past.\n\nThe area is highly dangerous: ghosts will constantly ambush the player from walls, floors, and ceilings. Falling into deep water is a major hazard and will result in death. The numerous Darkwraiths can also prove to be challenging enemies to new players.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "57623a1c-f0d7-5b35-9114-2f7317bf92cd",
+    "title": "New Londo Ruins",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - dark_souls \n dark_souls : {'name': 'Theories', 'description': 'The numerous female statues accompanying a child present in New Londo may represent the advent of the Dark Lord awaited by humanity, as opposed to the statues present at the Undead Burg, Undead Parish and Firelink Shrine which awaited a Chosen Undead who would have brought him back to the splendor of the Age of Fire. Unlike the statues outside the city, those in New Londo represent the child standing on their legs instead of being held in the lap of the female figure, who only accompanies them.\\nAdditionally the female figure may represent Velka, Goddess of Sin as New Londo was a city of humans whose sins and salvation were her responsibility to administer, and the same statue can be found in the Painted World of Ariamis, where multiple artifacts affiliated with Velka or considered heretical, like the potential message about the coming of the Dark Lord, can be found'}",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5a526819-251f-523d-981c-d73d4113e08f",
+    "title": "New Londo Ruins",
+    "section": "keys",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - keys \n keys : Key to the Seal",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "622ade94-aaa6-5267-b1f5-7fc52f0f0437",
+    "title": "New Londo Ruins",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - dark_souls_ii \n dark_souls_ii : Although the Four Kings had been defeated, the seal that contained the ruins of New Londo and the water that had submerged it had been removed and as a result the remaining Darkwraiths were free to spread across the rest of the world, continuing to wreak havoc. Although these knights subsumed by dark never reached Drangleic in strength, knowledge of their existence has come to the region through foreign legends as poor souls who chased the art of Lifedrain and were able to freely manipulate the Dark, implying that they attacked the countries around Drangleic.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6b02944a-402a-5f5d-8e8d-a620880dd027",
+    "title": "New Londo Ruins",
+    "section": "characters",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - characters \n characters : Crestfallen Warrior - Appears as a Hollow in the area should he be spoken to after Kingseeker Frampt arrives. He is found near where the first two Transient Curses are located.\nRickert of Vinheim - He can be found early on in the New Londo Ruins. He is behind some bars down a flight of stairs near the beginning. Rickert is a magical blacksmith who can perform Magic and Enchanted ascension. He sells two basic spells and a catalyst, albeit at a more expensive price than Griggs of Vinheim.\nIngward - Up a ladder, to the roof of the church infested with ghosts. Ingward provides the Key to the Seal after the player acquires the Lordvessel. He sells Transient Curses and the spell Resist Curse. He can also break Curse for one Humanity. He will move to Firelink Shrine if spoken to after defeating the Four Kings.\nWitch Beatrice - White Phantom.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6e512ad2-77d2-5691-bfad-df9bb26c627b",
+    "title": "New Londo Ruins",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - dark_souls_iii \n dark_souls_iii : Although countless centuries had passed since the fall of New Londo to the dark, remnants of the Darkwraiths continued to exist as dark invaders, wearing armor now worn to the point of looking like they may crumble to dust at any moment, and they reached the region of Farron which was converging toward that of Lothric.\n\nBy this point the name of New Londo itself had been lost but the Red Eye Orbs rooted in the small country continued to be used. In fact, the followers of Rosaria, Mother of Rebirth, as members of the covenant of Rosaria's Fingers, would employ themto invade other locations and times and collect the Pale Tongues from other Undead and offer them to their speechless goddess.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  }
+]

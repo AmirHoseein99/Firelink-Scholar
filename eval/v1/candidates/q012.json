@@ -1,0 +1,1055 @@
+[
+  {
+    "document_id": "7589984f-ebb7-5b41-a49e-0c34ff093149",
+    "title": "Lordvessel",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "The Lordvessel itself acts as a bonfire after being placed, and will grant Estus according to how many Lord Souls have been added to it.\n\nPlayers lose the Lordvessel and with it, the ability to warp after they progress to the next difficulty level.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.6561167097369969,
+    "bm25_score": 22.704584100210777
+  },
+  {
+    "document_id": "4da5433f-e331-54c4-bdf0-693165564cc3",
+    "title": "Lordvessel",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Lordvessel -  Dark Souls - item - trivia \n trivia : In *Dark Souls II*, shards of a shattered Lordvessel can be found scattered about the ground of the basin of the mansion in Majula. Another Lordvessel, whole and unbroken, is hidden underneath the map in the same mansion: it untimately wasn't used in the finished game, but it was meant to probably be obtained once again by the player.\nThe presence of the Lordvessel as the basin in which the Firelink Shrine's bonfire is placed and the broken one found in Majula (despite being, in this case, a less natural consequence than the first case) explain why, unlike in *Dark Souls*, the player can teleport between bonfires from the very beginning.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.589109044537427,
+    "bm25_score": 19.665367633179468
+  },
+  {
+    "document_id": "7f83a41d-0f5a-5e0b-bb0f-68bc58f40776",
+    "title": "Lordvessel",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Lordvessel -  Dark Souls - item - availability \n availability : Given or dropped by Gwynevere, Princess of Sunlight after the player gains access to Anor Londo and defeats Dragon Slayer Ornstein and Executioner Smough.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6548600417077046,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4183a53b-316d-5267-a28c-eefd6a54a36f",
+    "title": "Lordvessel",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Lordvessel -  Dark Souls - item - lead \n lead : The **Lordvessel** is a plot item in *Dark Souls*.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6496338584494669,
+    "bm25_score": null
+  },
+  {
+    "document_id": "17f95ce3-162a-5150-81ac-91de0170fa64",
+    "title": "Lordvessel",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Lordvessel -  Dark Souls - item - description \n description : Lordvessel bestowed upon the chosen Undead who is destined to succeed Lord Gwyn. The chosen Undead is granted the art of warping between bonfires.\n\nTo open the final door, place this vessel on the Firelink Altar, and fill it with powerful souls.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.6171275145103137,
+    "bm25_score": null
+  },
+  {
+    "document_id": "21542ac5-48bd-5d83-a1ea-90c8b5ee091a",
+    "title": "Lordvessel",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Lordvessel -  Dark Souls - item - notes \n notes : It is possible to access the Kiln of the First Flame without interacting with either Frampt or Kaathe by dropping down the opening Frampt springs from. However, doing so before placing the Lordvessel will alienate the serpents and cause both of them to leave.\nIt is impossible to summon any phantoms at any of the Lord Boss' (excluding the Four Kings) locations without placing the Lordvessel with Frampt or Kaathe. Bloodstains, Messages and player ghosts will appear as usual and it is possible to be summoned, but not *to* summon.\nTo place the Lordvessel under the guidance of Kaathe, one must first continue on to the New Londo Ruins and defeat the Four Kings in order to gain access to him.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5875000618104542,
+    "bm25_score": null
+  },
+  {
+    "document_id": "803f8919-5ae9-5dae-b49c-e84091cd1a95",
+    "title": "Lordvessel",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Lordvessel -  Dark Souls - item - general_information \n general_information : Upon acquiring the Lordvessel, players can warp to select bonfires. Players must rest at a bonfire in order to use the warping ability. It is possible to warp from any bonfire, excluding the ones in the Painted World of Ariamis, The Duke's Archives, Prison Tower (though this bonfire can actually be warped from if you use it from *outside* the cell), and the Undead Burg. Extinguished bonfires can still be warped to.\n\nUnder the guidance of either Darkstalker Kaathe or Kingseeker Frampt, the player may place the Lordvessel at the Firelink Altar. In doing so, boss areas containing the Lord Souls and Bequeathed Lord Soul Shards will become accessible. Once the Lordvessel is satiated, the doors to the Kiln of the First Flame are made open, where they may finally face the Lord of Cinder. Players still have the ability to warp, even after placing the Lordvessel.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.578100182714848,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d8af51c5-d73c-53a9-b780-f4395ad73a85",
+    "title": "Bonfire (Dark Souls)",
+    "section": "lordran",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "***Firelink Altar**\n**The Lordvessel acts as a bonfire, and grants up to 20 Estus flask charges when rested at, based on how many Lord Souls have been given to it.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5133859814733698,
+    "bm25_score": 19.029839813127964
+  },
+  {
+    "document_id": "1dc70ac2-dbf5-544f-9bf9-ab722f50ef5b",
+    "title": "Sacred Flame",
+    "section": "how_to_obtain",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Sacred Flame -  Dark Souls III - spell - how_to_obtain \n how_to_obtain : In order to survive the trip inside the lava, there are many strategies that can be followed and even combined before venturing inside. The main idea is to slow down the loss of HP, allowing the player to heal up and advance a bit further, repeating the process as many times as necessary until they have successfully obtained the item.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.4776963833750091,
+    "bm25_score": 21.89960399577198
+  },
+  {
+    "document_id": "8c49c836-c289-5f8d-b931-31b59aca745a",
+    "title": "Key to the Seal",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Key to the Seal -  Dark Souls - item - availability \n availability : Given by Ingward to the player after he/she obtains the Lordvessel. Killing Ingward will cause him to drop the key, regardless of whether or not the player has the Lordvessel.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.4597359085032361,
+    "bm25_score": 19.687866674295226
+  },
+  {
+    "document_id": "f24fbe9d-49f3-50d1-a8a3-fafe90a1e5bf",
+    "title": "Darkwraith (covenant)",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "As long as the player does not place the Lordvessel when Kaathe is present in Firelink Altar, Frampt will not leave, regardless of whether or not the player is a member of the Darkwraiths.\nHowever, the next time the player approaches Frampt, he will unavoidably transport them to the Firelink Altar too and \"force\" them to place the Lordvessel for him. Using a Homeward Bone or similar methods, to escape the altar without placing the Lordvessel, will allow the player to benefit from both of Kaathe's and Frampt's services, while still being part of the Darkwraith covenant.\nPlacing the Lordvessel while under Frampt's care will not remove the player from the Darkwraith covenant, although Kaathe will leave forever the next time they approach him at the Abyss.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.4533512891938873,
+    "bm25_score": 23.58646525765368
+  },
+  {
+    "document_id": "bf638d4f-71e7-5dde-860e-fef95367a496",
+    "title": "Chosen Undead",
+    "section": "the_lordvessel",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - the_lordvessel \n the_lordvessel : After passing the trials to ring the two bells, Kingseeker Frampt, a primordial serpent, appears to task the character with another quest before they are deemed worthy as Chosen. The player must go into the city of Anor Londo and retrieve the Lordvessel from Gwynevere, Lord Gwyn's daughter. In order to complete the quest the player needs to traverse Sen's Fortress, an old proving ground built by the gods. After passing through the fortress and its many dangerous traps, the player battles the Iron Golem, and with its defeat gains the entrance into the forsaken city.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5374091853563927,
+    "bm25_score": null
+  },
+  {
+    "document_id": "416b16e6-6d85-5f44-8d85-5c1ebd2740f8",
+    "title": "Soul Vessel",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul Vessel -  Dark Souls II - item - description \n description : A vessel that will accept your souls.\n\nIt can allow reallocation of levels, but without proper assistance, it may simply drain you of souls.\n\nIf you truly wish to start again, go to the place where your journey began.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.49607984377056324,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0f021e66-8f73-5bf0-b38e-f35f5ec3b9cf",
+    "title": "Ingward",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Ingward -  Dark Souls - character - plot \n plot : Ingward awaits the one that has obtained the Lordvessel, granting them the Key to the Seal which is required to drain water from the lower ruins in order to enter the Abyss.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4794205046090733,
+    "bm25_score": null
+  },
+  {
+    "document_id": "903906cb-abb1-5a3a-b8cd-14ed691a5c18",
+    "title": "Lord Soul",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Lord Soul -  Dark Souls - item - lead \n lead : A **Lord Soul** (王のソウル) is a unique soul item in *Dark Souls*. They are used to satiate the Lordvessel in the Firelink Altar, and gain access to the Kiln of the First Flame.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.47835488023126965,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7b5bcf46-f40e-5a0a-b7be-769db6040460",
+    "title": "Soul of the Lords",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Soul of the Lords -  Dark Souls III - item - availability \n availability : Obtained after defeating the Soul of Cinder in Kiln of the First Flame.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.47747987658600294,
+    "bm25_score": null
+  },
+  {
+    "document_id": "82345ea3-92af-53f4-b19f-dbe75c27b38d",
+    "title": "Vessel Shield",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "shield",
+    "snippet": "Vessel Shield -  Dark Souls II - shield - availability \n availability : Inside a chest just outside of Alsanna's room in the Grand Cathedral. It can only be obtained by speaking to her and unfreezing the area.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4772569997854895,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d6cccded-ed91-5144-be26-a080bcdd5132",
+    "title": "Lord's Blade Robe",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Lord's Blade Robe -  Dark Souls - armor - availability \n availability : Dropped by Lord's Blade Ciaran.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4746834029454964,
+    "bm25_score": null
+  },
+  {
+    "document_id": "038703eb-1b38-538b-ba55-0d09b9b567fb",
+    "title": "Souls of Lords",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Souls of Lords -  Dark Souls - item - plot \n plot : Two Lord Souls and both of the Bequeathed Lord Soul Shards are required to satiate the Lordvessel, allowing the Chosen Undead to enter the Kiln of the First Flame so that he or she may confront Gwyn, Lord of Cinder.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4729528100756115,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d5e2e780-aa9a-54f0-80ae-6bba95782e23",
+    "title": "Lord's Blade Waistcloth",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Lord's Blade Waistcloth -  Dark Souls - armor - availability \n availability : Dropped by Lord's Blade Ciaran.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.47252159294459306,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e5403b68-11d6-509b-923d-b04cc84f6a40",
+    "title": "Soul of High Lord Wolnir",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Soul of High Lord Wolnir -  Dark Souls III - item - availability \n availability : Obtained after defeating High Lord Wolnir in the Catacombs of Carthus.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4719325199662114,
+    "bm25_score": null
+  },
+  {
+    "document_id": "efc36d95-bbbc-500c-8c77-6c30ff64f34a",
+    "title": "Ingward",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Ingward -  Dark Souls - character - notes \n notes : Killing Ingward before accessing the Lordvessel allows players to explore the New Londo Ruins in its entirety before reaching Anor Londo.\nFour liquid humanity can be stolen using the Dark Hand.\nKilling Ingward early on the PC version can sometimes result in a glitch where he will not drop the Key to the Seal, rendering that save useless because the key can be obtained no other way.\nDespite helping flood New Londo to protect Lordran from the Darkwraiths, Ingward will not become hostile if the player places the Lordvessel for Kaathe. Even if the player joins the Darkwraith covenant, he will still be friendly and provide his services.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4700174062701179,
+    "bm25_score": null
+  },
+  {
+    "document_id": "aefb87ee-4e86-5784-bded-f8d1747dc92a",
+    "title": "Lord's Blade Set",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Lord's Blade Set -  Dark Souls - armor - availability \n availability : Dropped by Lord's Blade Ciaran.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4689327898881718,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1bc6edf1-6714-5550-9af5-d6da26f051ad",
+    "title": "Large Soul of an Intrepid Hero",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Large Soul of an Intrepid Hero -  Dark Souls III - item - availability \n availability : Can only be obtained in NG+ onward, where it replaces the Large Soul of an Unknown Traveler.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.46463319256957464,
+    "bm25_score": null
+  },
+  {
+    "document_id": "107ac193-e3fd-529e-9750-2f7d7df811f4",
+    "title": "Soul of the Lords",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Soul of the Lords -  Dark Souls III - item - usage \n usage : Consume to acquire 20,000 souls or transpose with Ludleth to create either the Firelink Greatsword or the Sunlight Spear miracle.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.46138733695518874,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b2d6db97-6c4e-53c8-b974-f5ee80b9b20c",
+    "title": "Black Serpent",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Black Serpent -  Dark Souls III - spell - availability \n availability : Obtained by transposing the Soul of High Lord Wolnir with Ludleth of Courland.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4610152601323086,
+    "bm25_score": null
+  },
+  {
+    "document_id": "78cdbd91-d4ff-5723-9c20-df1e040f16d8",
+    "title": "Chaos Bed Vestiges",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Chaos Bed Vestiges -  Dark Souls III - spell - availability \n availability : Obtained by transposing the Soul of the Old Demon King with Ludleth of Courland for 5,000 souls.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4609253710018454,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2e9e6274-5879-5f9a-b41e-38fd52a6bc4c",
+    "title": "Darkstalker Kaathe",
+    "section": "story",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Darkstalker Kaathe -  Dark Souls - character - story \n story : Placing the Lordvessel while under the care of either of the serpents will result in the loss of the other. Frampt provides the service of breaking down larger Titanite pieces and can get rid of items in exchange for souls, while Kaathe provides Cracked Red Eye Orbs to the player while a member of his covenant.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.45999367206888764,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6fea4678-7502-554f-94fc-d8f309a7b455",
+    "title": "Large Soul of an Unknown Traveler",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Large Soul of an Unknown Traveler -  Dark Souls III - item - availability \n availability : A total of nineteen can be obtained per playthrough.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4596945653333425,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3ae0c08f-942d-5a09-81e0-dadd4296121f",
+    "title": "Soul (Dark Souls II)",
+    "section": "the_old_chaos",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "By using the Crown of the Old Iron King, the player may use any Spells for free, for an indefinite amount of time. Spells like Repair, Great Heal and Denial can prove invaluable to sustain the player.\n\nThis method is also the most efficient way to farm Loyce Souls, as well as Charred Loyce gear. It also doesn't require the use of Bonfire Ascetics or the Company of Champions.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.45857201105517814,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4d1796c5-b340-58bc-b19e-2857f1172850",
+    "title": "Skeleton Lord's Soul",
+    "section": "location",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Skeleton Lord's Soul -  Dark Souls II - item - location \n location : Obtained after defeating the Skeleton Lords in Huntsman's Copse.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4570751560948747,
+    "bm25_score": null
+  },
+  {
+    "document_id": "44db2e6a-940a-57e9-bd2d-0b54e469a7ec",
+    "title": "Valorheart",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Valorheart -  Dark Souls III - weapon - availability \n availability : Obtained after defeating the Champion's Gravetender and Gravetender Greatwolf.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4567610510766872,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4f34e0d0-4745-580c-b160-b66d2804243d",
+    "title": "Large Soul of a Proud Paladin",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Large Soul of a Proud Paladin -  Dark Souls III - item - availability \n availability : Can only be obtained in NG+ onward, where it replaces the Large Soul of a Deserted Corpse.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.45668400335426296,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1967a9d3-17f6-5bb1-a64b-8d2e18dafd22",
+    "title": "New Londo Ruins",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - notes \n notes : It is possible to obtain the Fire Keeper Soul immediately after arriving in Lordran.\nIf the Key to the Seal is desired before receiving the Lordvessel, Ingward will drop it if killed.\nPlayers can hear the scream of the Four Kings, similar to that of a Wisp's, when they perform their explosive magic attack during a boss fight from another player's world.\nThere are two shortcuts in New Londo Ruins that can be used after reaching a certain point in the area and unlocking them.\n**One is up the first set of stairs, to the right of the narrow walkway, behind the ghost that spawns. Players can roll onto the level below the small archways where the ghosts that attack through the floors and ceilings can be seen. A ladder must be kicked prior to dropping down in order to use this shortcut properly.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4551360234891367,
+    "bm25_score": null
+  },
+  {
+    "document_id": "12e2852e-29c6-525c-a6d9-bf68165ef032",
+    "title": "Vengarl of Forossa",
+    "section": "head_of_vengarl",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "After defeating his headless body and returning to Vengarl, he will thank the player and make his weapons and shield available for purchase. He will also become an available summon for the Ancient Dragon, Throne Watcher and Defender, Nashandra, and Lud and Zallen boss battles.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.454964357511126,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3755cc51-1ae9-5731-8e03-e592ad9fd7cd",
+    "title": "Knight's Honor",
+    "section": "looted_weapons",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Knight's Honor -  Dark Souls - weapon - looted_weapons \n looted_weapons : These weapons are obtained by looting corpses or chests throughout the game.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4546743038619843,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e164b60b-e38a-5e11-a3ed-18786e2a0404",
+    "title": "Chancellor Wellager",
+    "section": "plot",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "After the Looking Glass Knight is defeated, he will begin selling new weapon variants that came included with the pre-ordered Black Armor edition of the game. Once NG++ is reached, Wellager will also sell all Covenant rewards of the Blue Sentinels and Brotherhood of Blood, allowing those who do not wish to grind the PVP-oriented covenants with no offline grinding method a way to still obtain that equipment. Note that increasing the bonfire intensity with Bonfire Ascetics won't work, and a proper NG+ playthrough must be initiated.\n\nIf the Giant Lord is defeated in the Memory of Jeigh, speaking to Wellager will have him gift the player with the Royal Dirk and the Espada Ropera, as well as the full Llewellyn Set in the Scholar of the First Sin edition of the game.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.45336632118298714,
+    "bm25_score": null
+  },
+  {
+    "document_id": "05439860-6cb8-5440-ae24-c8cd831efa48",
+    "title": "Shrine of Winter",
+    "section": "overview",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Crown of the Ivory King* DLC can be accessed from this area by interacting with the glowing statue in the middle of the shrine. This will transport the player to Frozen Eleum Loyce.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.45269086180928464,
+    "bm25_score": null
+  },
+  {
+    "document_id": "462b786a-c588-5372-a9f3-addec643eb85",
+    "title": "Sword of Avowal",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Sword of Avowal -  Dark Souls III - item - availability \n availability : Given to the player by a Londor pilgrim outside of the Darkmoon Tomb in Irithyll of the Boreal Valley, just before reaching Anor Londo.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4521867626095858,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0ce211e9-c3a4-5124-aeb3-a4ad13f702b2",
+    "title": "Soul of Lud, the King's Pet",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of Lud, the King's Pet -  Dark Souls II - item - availability \n availability : Obtained after defeating Lud, the King's Pet & Zallen, the King's Pet.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.45189304501259886,
+    "bm25_score": null
+  },
+  {
+    "document_id": "caa92afd-6f7c-5c7e-89b7-2e0c930dcf8a",
+    "title": "Soul of an Intrepid Hero",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Soul of an Intrepid Hero -  Dark Souls III - item - availability \n availability : Can only be obtained in NG+ onward, where it replaces the Soul of an Unknown Traveler.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.45141141596340184,
+    "bm25_score": null
+  },
+  {
+    "document_id": "92bd1398-708d-58e5-9292-1310b80c1911",
+    "title": "Soul Vessel",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul Vessel -  Dark Souls II - item - effect \n effect : Given to the Strowen in Things Betwixt in order to reallocate soul levels. The soul level cannot drop below the base class stat and the Soul Vessel is consumed upon use.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4504054795045227,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5e6d984a-eb38-5d6a-83c3-9c46398baede",
+    "title": "Boulder Heave",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Boulder Heave -  Dark Souls III - spell - availability \n availability : Obtained by transposing the Soul of a Stray Demon with Ludleth of Courland for 0 souls.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4503743416957924,
+    "bm25_score": null
+  },
+  {
+    "document_id": "77313fa2-38ea-5e21-85aa-031c5484043a",
+    "title": "Soul of a Venerable Old Hand",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Soul of a Venerable Old Hand -  Dark Souls III - item - availability \n availability : Can only be obtained in NG+ onward, where it replaces the Large Soul of a Weary Warrior.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.45032275300071617,
+    "bm25_score": null
+  },
+  {
+    "document_id": "afe3da64-9cb1-5843-8ca2-cdd87eb1a924",
+    "title": "Vengarl's Helm",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Vengarl's Helm -  Dark Souls II - armor - availability \n availability : Given to the player after exhausting all of Vengarl's dialogue.\nDropped by Vengarl's head.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.45002441410876975,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8842e29b-d191-52f4-afc0-8a17129b0da9",
+    "title": "Lord's Blade Gloves",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Lord's Blade Gloves -  Dark Souls - armor - availability \n availability : Dropped by Lord's Blade Ciaran.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.44886724313320914,
+    "bm25_score": null
+  },
+  {
+    "document_id": "28ed3145-7c29-5c12-80ed-b2724e951cbb",
+    "title": "Lord Soul",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Lord Soul -  Dark Souls - item - availability \n availability : Gravelord Nito and the Bed of Chaos both drop a Lord Soul upon their defeat.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4488072042032846,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e8095a91-fa37-5122-9c2c-6dc790bf95a3",
+    "title": "Large Soul of a Seasoned Warrior",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Large Soul of a Seasoned Warrior -  Dark Souls III - item - availability \n availability : Can only be obtained in NG+ onward, where it replaces the Large Soul of a Nameless Soldier.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.44792379281855077,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1634d4ac-458d-505c-8642-8450d958d5e3",
+    "title": "Soul of the Lords",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Soul of the Lords -  Dark Souls III - item - description \n description : Soul of the Lords.\nOne of the twisted souls, steeped in strength.\n\nUse to acquire numerous souls, or transpose to extract its true strength.\n\nSince Lord Gwyn, the first Lord of Cinder, many exalted lords have linked the First Flame, and it is their very souls that have manifested themselves as defender of the flame.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4476864929506513,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3d98f627-b08e-53cd-9b32-a897f9237693",
+    "title": "Wolnir's Holy Sword",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Wolnir's Holy Sword -  Dark Souls III - weapon - availability \n availability : Obtained by transposing the Soul of High Lord Wolnir with Ludleth of Courland.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.44737842386704746,
+    "bm25_score": null
+  },
+  {
+    "document_id": "af15b4f4-e1d7-52de-a224-7e250a4f2355",
+    "title": "Stone Greatsword",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Stone Greatsword -  Dark Souls - weapon - trivia \n trivia : When the Stone Knights use this weapon, it does not do Magic damage like it does when the player uses it.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.366725951496534
+  },
+  {
+    "document_id": "cc83dad2-dfca-55ca-ab0c-f7f3fdaabe5f",
+    "title": "Kingseeker Frampt",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - notes \n notes : When Frampt transports the player to the Firelink Altar after retrieving the Lordvessel, it is not necessary to place it. By using a Homeward Bone or the Homeward miracle, it is possible to exit and continue using Frampt's feeding service and at the same time interact with Kaathe and join the Darkwraiths. As long as the player does not place the Lordvessel, neither serpent will depart.\nThe player should avoid attacking Frampt (unless he is asleep) as it may result in him leaving for the rest of the playthrough. If this happens, the player loses access to his feeding service and must either place the Lordvessel with Kaathe or do it alone by dropping down the hole Frampt was in.\nDropping down to the Firelink Altar after acquiring the Lordvessel without his help will make Frampt leave, whether the player placed it or not.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.166138827882676
+  },
+  {
+    "document_id": "e84d2e48-8f2a-5c6f-a592-18ff08b16b49",
+    "title": "Darkstalker Kaathe",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Darkstalker Kaathe -  Dark Souls - character - notes \n notes : It is possible to join the Darkwraith Covenant without placing the Lordvessel and thus not alienate Kingseeker Frampt. After answering \"Yes\" to Darkstalker Kaathe's question and being transported to the Firelink Altar - do not place the Lordvessel. Instead, use a Homeward Bone or the Homeward miracle to exit. As long as one does not place the Lordvessel, neither serpent will depart. In this way, the player can be both part of the Darkwraith Covenant and use Frampt's \"Feeding\" service.\nIn an [http://soulslore.wikidot.com/das1-game-no-shokutaku interview], it is confirmed by Miyazaki that the Chosen Undead's ancestor, that Kaathe mentions, is the Furtive Pygmy.\nKaathe will depart if the Chosen Undead places the Lordvessel while Kaathe is not present.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.750224158294746
+  },
+  {
+    "document_id": "7b82f581-96f0-5602-aabd-9f8f98dbda53",
+    "title": "Kingseeker Frampt",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - plot \n plot : Kingseeker Frampt appears in Firelink Shrine after the player rings both Bells of Awakening. He instructs the player to go to Anor Londo and obtain the Lordvessel. After the player obtains the Lordvessel, Frampt transports them to the entrance of the Kiln of the First Flame, and instructs the player to place the Lordvessel to gain access to the Kiln, and to ultimately kill Gwyn and prolong the Age of Fire.\n\nShould the player give the Lordvessel to Kaathe instead, Frampt will become irate and leave the player for the rest of the playthrough.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.24208554449299
+  },
+  {
+    "document_id": "5c7453b4-e7b8-58b0-bb0e-bc27b4519646",
+    "title": "Great Chaos Fireball",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Great Chaos Fireball -  Dark Souls - spell - general_information \n general_information : The player hurls a giant fireball, which does a large amount of damage on impact with a good area of effect, identical to Great Fireball. The fireball has a fire attack power of 3.0 times the Pyromancy Flame's magic adjust and the lava pool has a fire attack power of 2.0 times the Pyromancy Flame's magic adjust.\n\nContrary to what the name suggests, Great Chaos Fireball does not scale with the player's amount of humanity (like Chaos weapons do). It can only be improved by upgrading and ascending the Pyromancy Flame used to cast it.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.90688601407252
+  },
+  {
+    "document_id": "951b6e0f-e67d-53a2-8a1a-e8dc886d13f1",
+    "title": "Lost Sinner",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Lost Sinner -  Dark Souls II - boss - trivia \n trivia : The original Japanese term used for \"sinner\" (罪人) does not possess any gender meaning to it, being instead neutral.\nIn the JP text Sweet Shalquoir says that she tried to create (生みだ) the First Flame rather than light it, which is more equivalent to what the Witch of Izalith tried to do.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.332763562647443
+  },
+  {
+    "document_id": "0dd93af1-e802-58a2-8f34-4c8ee9e67d4b",
+    "title": "Abyss",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - trivia \n trivia : Due to what was observed from Artorias, the phrase \"falling into the Abyss\" does not actually constitute entering it, but rather the near infinite and unconscious darkness of it seeking out lifeforms.\n**This likely means that Wolnir was very much alive when he fell, which explains how he was able to teach grave wardens his pyromancy, though what exactly it really was that actually caused his death is uncertain.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.179600017059066
+  },
+  {
+    "document_id": "477ece6f-904d-5dcc-b64f-4a043603f7ac",
+    "title": "Darkwraith (covenant)",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Darkwraith (covenant) -  Dark Souls - mechanic - notes \n notes : Dying as a red phantom will cause the player to lose souls and humanity, which are dropped as a bloodstain where the player loads out of the game into the other player's world. This does not cause the player to become hollowed. As long as players can easily reach their bloodstain, this means that invading other worlds becomes completely free, as long they have a Red Eye Orb.\nLeaving the covenant in any way will cause the Red Eye Orb (but not Cracked Red Eye Orbs) to become unusable.\nIt is not necessary to place the Lordvessel for Kaathe in order to join the Darkwraiths. One can simply use a Homeward Bone, commit suicide or similar methods, to exit the Firelink Altar after being transported there by Kaathe.\nAs long as the player does not place the Lordvessel when Kaathe is present in Firelink Altar, Frampt will not leave, regardless of whether or not the player is a member of the Darkwraiths.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.950168316343813
+  },
+  {
+    "document_id": "1ac7c8db-af4e-51d5-856c-3385e255de60",
+    "title": "Miniboss",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Miniboss -  Dark Souls - enemy - lead \n lead : A **miniboss** is an enemy in *Dark Souls* that does not respawn when the player character dies or rests at a bonfire. Unlike bosses, minibosses do not have their health bar displayed in the center of the screen, and do not have special music.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.600351920557983
+  },
+  {
+    "document_id": "3f055e8a-3b73-598c-a7ec-d1fb83c3e463",
+    "title": "White Hair Talisman",
+    "section": "how_to_obtain",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "White Hair Talisman -  Dark Souls III - weapon - how_to_obtain \n how_to_obtain : In order to survive the trip inside the lava, there are many strategies that can be followed and even combined before venturing inside. The main idea is to slow down the loss of HP enough time, allowing the player to heal up and advance a bit further, repeating the process as many times as necessary until they have successfully gotten the item and returned to solid ground. Each time the player's health reaches half of the HP bar, they should heal.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.166725687524416
+  },
+  {
+    "document_id": "f1d8cb3a-d63d-54b4-8a66-a67b622ba437",
+    "title": "Starting Armor Sets",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Starting Armor Sets -  Dark Souls - armor - lead \n lead : **Starting armor sets** are the armor sets that are worn by the starting classes in *Dark Souls*. All classes except the Deprived class have their own armor set. The armor sets can also be found later on in the game, the player does not have to start as a particular class to obtain the armor.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.981822611292387
+  },
+  {
+    "document_id": "3ef3d1ef-a244-5be4-aa6c-c4f1572c2496",
+    "title": "Unknown Talisman",
+    "section": "overview",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Unknown Talisman -  Dark Souls - weapon - overview \n overview : It was cut from the final release of the game, it is unknown how the player would have obtained it.\n\nDue to its nature as cut content, the Unknown Talisman is simply a texture in the game files. This means that even if the player modified their save file to obtain it, it would have no stats.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.947363931564105
+  },
+  {
+    "document_id": "8346e572-fe64-5450-a052-473dd8643717",
+    "title": "Invaders",
+    "section": "demon_ruins",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Invaders -  Dark Souls - mechanic - demon_ruins \n demon_ruins : Kirk, Knight of Thorns: Invades on the ledge right before the Capra Demon congregation. May drop Barbed Straight Sword and/or Spiked Shield. Kirk does not invade here if the Lordvessel has not been placed yet.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.933364127128225
+  },
+  {
+    "document_id": "19f135d9-7025-589c-82fa-fe282f8713a1",
+    "title": "Backstep",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "During the backstep, from frame 11 to 14, the player has hyperarmor, i.e. infinite poise. That means, no matter what hits the player, they will not stumble and stay on their feet. For example, the player can backstep through the boulders in Sen's Fortress without being knocked down. Keep in mind that you will still take damage, since the hyperarmor frames do not grant invincibility. The backwards ninja flip does not have hyperarmor frames.\nWhen inputing an attack directly after the backstep, the player will perform a running attack. This can be very useful in combat, by dodging an enemy's attack with the backstep, then striking back with a running attack.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.86524468022296
+  },
+  {
+    "document_id": "adb9264d-0f73-5bf5-b188-8bf1ecd2dd4d",
+    "title": "Darksign",
+    "section": "overview",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Usage of the Darksign can, however, be occasionally advantageous. Since it does not cause previous bloodstains to disappear, it may be preferable to use it over dying if players are faced with a dangerous situation and do not wish to permanently replace their old, valuable bloodstain with a new and relatively worthless one. The Darksign can be used if a player is stuck through glitching or some accident that caused them to be trapped, and does not have Homeward or Homeward Bones at hand. Manual use of the Darksign also does not cause un-hollowed status to be forfeited the way death would, so it's viable to use it instead of homeward bone if the player has less than 500 souls.\n\nThe Darksign can also be used when being invaded, but also having a bloodstain to recover.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.76424574006295
+  },
+  {
+    "document_id": "8ff8c361-5ace-55c2-8ac5-68debb32bee0",
+    "title": "Ring of Knowledge",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Ring of Knowledge -  Dark Souls II - ring - effect \n effect : The Ring of Knowledge grants +5 points to the Intelligence stat. Note that this does not work to obtain level requirements to talk to other characters.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.65285429710658
+  },
+  {
+    "document_id": "15487bc6-df28-596f-85b1-8841abb14494",
+    "title": "Talisman",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Talisman -  Dark Souls - weapon - characteristics \n characteristics : Unless playing as the Cleric class, the standard talisman is the first talisman that players are able to obtain. It is worse than the other talismans (except the Thorolund Talisman at higher levels of Faith, which does not scale) in terms of faith scaling for miracle adjust, but it has a lower faith requirement.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.529197594930622
+  },
+  {
+    "document_id": "75eee310-826b-5a28-95c4-0501e4646e44",
+    "title": "Petrified Dragon Bone",
+    "section": "videos",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Petrified Dragon Bone -  Dark Souls II - item - videos \n videos : [https://www.youtube.com/watch?v=ijh9vUbptOI This video] shows how to quickly get as much Twinkling Titanite and Petrified Dragon Bone as desired. The use of Yearn facilitates the process, though the *Crown of the Sunken King* DLC needs to be installed. This method does not work in since using a Bonfire Ascetic does not reset chest loot.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.425751737869714
+  },
+  {
+    "document_id": "54079b9f-994e-5e40-bcd0-a84879b35da4",
+    "title": "Painted World of Ariamis",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariamis -  Dark Souls - location - notes \n notes : After exiting the Painted World safely, casting Homeward or using a Homeward Bone will return the player to the bonfire in Anor Londo, near the Darkmoon Knightess, and not the bonfire within the Painted World.\nLater warping to the Painted World via the use of the Lordvessel and then using Homeward or a Homeward Bone will cause the player to be taken to the last outside bonfire rested at, so long as one does not rest at the bonfire within the Painted World of Ariamis. This method only works if warping into the Painted World through the use of the Lordvessel and will therefore be impossible if entering for the first time.\nThe player can hear eerie ambiance in the graveyard, near the prison blocks in the area to the right of Phalanx from the bonfire.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.34337871427473
+  },
+  {
+    "document_id": "ca577cd9-7e01-51e7-b7c7-590929b1ac3c",
+    "title": "Parry and Riposte",
+    "section": "parrying",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Additionally, it is possible to parry attacks with a shield that the player does not meet the requirements to use, although the timing window is much shorter.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.247641621555257
+  },
+  {
+    "document_id": "68dcc4ec-4136-56ba-94a9-37c21dc8ae10",
+    "title": "Mounted Overseer",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Mounted Overseers are often encountered in poison-filled areas so close combat is not advised unless the player has a strong poison resistance. It is safer to dispatch them from a safe distance with ranged weapons.\n\nShooting the Overseer itself does the same amount of damage as it does to its Mount.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.176463118233958
+  },
+  {
+    "document_id": "e0e53435-a47b-5f5f-b7df-795f5b72c6e0",
+    "title": "Rusted Coin (Dark Souls III)",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Rusted Coin (Dark Souls III) -  Dark Souls III - item - notes \n notes : Effect stacks with other items that boosts Item Discovery.\nUsing this coin along with the Symbol of Avarice, the Covetous Gold Serpent Ring +3, and the Crystal Sage's Rapier will increase Item Discovery up to 315 units.\nCan be used on ladders.\nCopper does not rust, though it does oxidize, becoming green or bluish green. This is very likely what is covering most of the coin.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.14986789029432
+  },
+  {
+    "document_id": "666f83aa-4de9-51d0-9dff-945e75e44829",
+    "title": "Darksign",
+    "section": "general_information",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Darksign -  Dark Souls II - item - general_information \n general_information : Using the Darksign causes the player to return to the last Bonfire they rested at, but also causes the player to lose all humanity and souls on the person at the time.\n\nUsing the Darksign does not cause a bloodstain to appear; the souls and Humanity lost are permanent. Using the Darksign does not affect the previous bloodstain left by the player, which will still be available for reclamation.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.136352858114865
+  },
+  {
+    "document_id": "df1c9686-e3c7-51bb-adb6-14de5d71a33f",
+    "title": "Demon Firesage",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "The Chosen Undead encountered the Demon Firesage in the Demon Ruins, after they had placed the Lordvessel at the Firelink Altar, in their mission to destroy the Bed of Chaos and obtain the Lord Soul of Izalith contained within it. They proceeded to fight and slay the demon in combat thus gaining access to the ruins of Lost Izalith.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.948571797148112
+  },
+  {
+    "document_id": "a96a8196-2ebf-5e84-958d-25ef3977926a",
+    "title": "Oscar, Knight of Astora",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "If the player answers \"No\" to his question (refusing to hear his tale and request), the only way to obtain the Estus Flask and the keys is to kill Oscar or rest at a bonfire. Despite being hurt by the player's refusal, Oscar still gracefully requests them to leave so that he does not hurt them after turning hollow.\n\nRegardless of whether the player killed him in the first meeting or left him to die, Oscar is encountered again in the same area upon revisiting the Asylum, now a hollow enemy.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.947689377116816
+  },
+  {
+    "document_id": "e9f4c52d-643f-590c-9cba-fdbebb0887e9",
+    "title": "Corrosive Ant Queen",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Corrosive Ant Queen -  Dark Souls II - enemy - description \n description : A gigantic ant found in a cave in The Gutter. She will spray a constant mist of corrosive acid which will degrade the durability of equipment over time. This mist will also cure poison.\n\nThe Queen is a stationary enemy and will not directly attack the player, apart from damaging their equipment, so it is advisable to use ranged weapons if the player does not wish to risk getting too close. She can also be assaulted from the back or front and does not react. She does not respawn.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.876522807627452
+  },
+  {
+    "document_id": "db6af3ce-a3ff-5b3d-bc8f-7c63998047c2",
+    "title": "Prowling Magus",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Prowling Magus -  Dark Souls II - enemy - notes \n notes : The Magus encountered in the original game does not respawn.\nThe Magus encountered in *Scholar of the First Sin* does respawn.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.702972441755794
+  },
+  {
+    "document_id": "e69862f5-77e9-5a74-9a3d-5aa14cf91fe8",
+    "title": "Ringed City Pygmy",
+    "section": "plot",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ringed City Pygmy -  Dark Souls III - character - plot \n plot : The Ringed City Pygmy is the first character the player will meet when making their way past the Demon Prince. He doesn't have much of a purpose outside of pointing the player towards a new objective once they've finally reached the fabled city, which is to disturb Princess Filianore's slumber. He mainly serves an expository role.\n\nHe will disappear completely once the player does what he suggested and Filianore is awakened.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.69586326965559
+  },
+  {
+    "document_id": "14d7af4e-2dbf-5923-96ee-38f1d5b6d8a1",
+    "title": "Arstor's Spear",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Arstor's Spear -  Dark Souls III - weapon - characteristics \n characteristics : Upon killing an enemy with Arstor's Spear equipped, the wielder restores 30 HP. This effect is identical to the Ring of the Evil Eye, and can be stacked with it for additional healing per kill. It also shares all the same rules as the ring, which means that the player does not have to deliver the killing blow to get the heal, but the effect does not activate when hostile players die.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.67189982152808
+  },
+  {
+    "document_id": "6b5dd397-fd03-50c8-a23a-9058cee4a670",
+    "title": "Abyss",
+    "section": "characters",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - characters \n characters : Darkstalker Kaathe will appear after the boss has been defeated. The player cannot have placed the Lordvessel under Kingseeker Frampt's guidance yet; if they do so before having met Kaathe, Kaathe will not appear.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.601687912865117
+  }
+]

@@ -1,0 +1,3310 @@
+[
+  {
+    "document_id": "863e00cd-9064-5f65-aec6-c84b6156fce0",
+    "title": "Lost Izalith",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Lost Izalith -  Dark Souls - location - lead \n lead : **Lost Izalith** is a location in *Dark Souls*. It is found beyond the Centipede Demon's room, or right before the Demon Firesage if you activate the Chaos Servant shortcut.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.6609689321379946,
+    "bm25_score": 12.981318508504021
+  },
+  {
+    "document_id": "71a2689b-9edc-5bc9-bd64-9fef330cd1ed",
+    "title": "Lost Izalith",
+    "section": "bosses",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Lost Izalith -  Dark Souls - location - bosses \n bosses : Bed of Chaos",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.6188260010046911,
+    "bm25_score": 12.677089635786594
+  },
+  {
+    "document_id": "0b6d1693-5c8d-5553-bdd8-def1ebbe7c70",
+    "title": "Lost Izalith",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Lost Izalith -  Dark Souls - location - description \n description : Lower Lost Izalith is a magma rich environment, thus the Orange Charred Ring will be needed to traverse much of the area safely if the shortcut is not used. The natural path is reached by making one's way through the Demon Ruins and entering the tunnel to the left of the Centipede Demon fog door.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.6009414447046737,
+    "bm25_score": 11.327988784847888
+  },
+  {
+    "document_id": "acb59141-dd10-59da-836c-290a7b82d8dd",
+    "title": "Lost Izalith",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Lost Izalith -  Dark Souls - location - lore \n lore : Izalith was once the domain of the Witch of Izalith, and was seemingly a great and booming city. However, when The Witch attempted to recreate the First Flame from her own Lord Soul, she failed to control it and was transformed into the Bed of Chaos. Izalith was subsequently overrun by the demons born from the Bed of Chaos. The demons fought against Gwyn, Lord of Sunlight and his knights, were defeated, and after hearing Quelaag's cut dialogue, were apparently punished by being contained to their fallen city.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5992390296133345,
+    "bm25_score": 10.073308752966279
+  },
+  {
+    "document_id": "354879d3-3e7c-5908-8b3e-e562c86be157",
+    "title": "Lost Izalith",
+    "section": "pyromancies",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Lost Izalith -  Dark Souls - location - pyromancies \n pyromancies : Chaos Fire Whip",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5976770881782657,
+    "bm25_score": 12.677089635786594
+  },
+  {
+    "document_id": "f6c29e4d-5af7-5e88-b8cf-8e78381cdf64",
+    "title": "Lost Izalith",
+    "section": "miscellaneous",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Lost Izalith -  Dark Souls - location - miscellaneous \n miscellaneous : Divine Blessing x2",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5898027809059558,
+    "bm25_score": 12.677089635786594
+  },
+  {
+    "document_id": "11764d0e-b499-56d9-9572-e5c319663675",
+    "title": "Lost Izalith",
+    "section": "upgrade_materials",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Lost Izalith -  Dark Souls - location - upgrade_materials \n upgrade_materials : Green Titanite Shard x2\nRed Titanite Chunk x2\nRed Titanite Slab",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5831748570927405,
+    "bm25_score": 11.285116253392005
+  },
+  {
+    "document_id": "4e1e0f85-f6a1-599e-bc1d-b9636fda2ecd",
+    "title": "Lost Izalith",
+    "section": "rings",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Lost Izalith -  Dark Souls - location - rings \n rings : Speckled Stoneplate Ring\nRare Ring of Sacrifice",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5663348417137274,
+    "bm25_score": 12.081031132169304
+  },
+  {
+    "document_id": "3407da19-1f15-533c-838f-c8dcf7899428",
+    "title": "Lost Izalith",
+    "section": "non_respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Lost Izalith -  Dark Souls - location - non_respawning \n non_respawning : Bounding Demons of Izalith\nCrystal Lizard\nFour Chaos Eaters related to Siegmeyer's quest",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5661725169419969,
+    "bm25_score": 12.68377695948773
+  },
+  {
+    "document_id": "30f8e8fa-e406-52ea-a7d0-7ed979794674",
+    "title": "Lost Izalith",
+    "section": "armor",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Lost Izalith -  Dark Souls - location - armor \n armor : Iron Set\nSunlight Maggot",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5657008920172633,
+    "bm25_score": 12.522628090261696
+  },
+  {
+    "document_id": "10d4b1b3-e6dc-5559-a3e8-d7401c7da20f",
+    "title": "Lost Izalith",
+    "section": "respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Lost Izalith -  Dark Souls - location - respawning \n respawning : Chaos Eater\nChaos Bug\nDemonic Statue\nTitanite Demon",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5274217114261174,
+    "bm25_score": 11.94067282087164
+  },
+  {
+    "document_id": "528c09dd-fce9-5c02-bf11-94593953a1c0",
+    "title": "Lost Izalith",
+    "section": "characters",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Lost Izalith -  Dark Souls - location - characters \n characters : Siegmeyer of Catarina\nSolaire of Astora",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.5217307712779887,
+    "bm25_score": 12.224728414734953
+  },
+  {
+    "document_id": "c79601ae-4b6f-5860-ab1e-7ac14f92ca36",
+    "title": "Demon Ruins",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Demon Ruins -  Dark Souls - location - location \n location : Found shortly after Quelaag's Domain. The Demon Ruins lead to Lost Izalith; however, Lost Izalith cannot be accessed until the player has retrieved the Lordvessel from Anor Londo and placed it in the Firelink Altar.\n\nOn arrival, most of the area is flooded with lava until the Ceaseless Discharge is slain. Once the lava is drained, the lower section of the area may be accessed, and it is here that the route to Lost Izalith lies, initially blocked by the Lordvessel-related orange fog gate.\n\nThe area just after the Demon Firesage has an elevator that will transport the player back up to the Bell of Awakening in Queelag's Domain.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.4979417918747745,
+    "bm25_score": 10.775974853293953
+  },
+  {
+    "document_id": "000ded43-8b42-56db-b956-73fa1d571d17",
+    "title": "Lost Izalith",
+    "section": "characters_2",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Lost Izalith -  Dark Souls - location - characters_2 \n characters_2 : Daughter of Chaos\nKirk, Knight of Thorns\nSolaire of Astora",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.48189030667404353,
+    "bm25_score": 11.410405106328023
+  },
+  {
+    "document_id": "2b9259a6-c9d3-57b3-b08c-e24afeebe948",
+    "title": "Chaos (mechanic)",
+    "section": "overview",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Chaos (mechanic) -  Dark Souls - mechanic - overview \n overview : The Chaos concept is associated with the lost city of Izalith, and applies to several things, from imbued and upgraded weapons, to specialized pyromancies, and a host of demon enemies.",
+    "sources": [
+      "dense",
+      "bm25",
+      "entity"
+    ],
+    "dense_score": 0.4753538756303205,
+    "bm25_score": 9.873534128878305
+  },
+  {
+    "document_id": "3111d240-fddf-51eb-bff6-6b56095f2c1d",
+    "title": "Lost Izalith",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Lost Izalith -  Dark Souls - location - notes \n notes : It's possible to avoid most of the magma area by using the shortcut before the Demon Firesage boss door. It is unlocked by reaching Chaos Servant +2.\nExiting and continuing the game just outside the structure over the poisonous pit where Siegmeyer can be found, will make the floor crumble by itself, allowing players to avoid taking the risk of falling into the pit and be overwhelmed by Chaos Eaters.\nThis is the only area of the game to have a respawning Titanite Demon.\nThe city of Lost Izalith is completely based off the Angkor Wat, the world's largest religious temple, situated in Cambodia.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.617265165275074,
+    "bm25_score": null
+  },
+  {
+    "document_id": "44985456-c095-5d82-9d10-2ac11b852fc8",
+    "title": "Soul of a Brave Warrior",
+    "section": "locations",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Oolacile Township [AotA DLC]\n** Near the 1st Bloathead Sorceress inside a shaded room, guarded by her and 2 Bloatheads.\n** Hanged from the wooden walkway around the top level of the tower housing the Silver Pendant.\nLost Izalith\n** At the end of the branch-walkway coming from the normal entrance, whirled around the 3rd support of the Lost Izalith shortcut's bridge.\n** Washed on the shore of the lava lake's 1st tower.\n** In the poisonous pits of Izalith, guarded by 4 Chaos Eaters.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5419745558359907,
+    "bm25_score": 11.216866979276348
+  },
+  {
+    "document_id": "e03202e0-afa6-51d3-8790-e4ca575949bf",
+    "title": "Illusory Wall",
+    "section": "lost_izalith",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Illusory Wall -  Dark Souls - mechanic - lost_izalith \n lost_izalith : The second four-sided structure's wall, in the lava pit filled with Bounding Demons, facing the center of the ruins of Izalith is an illusory wall leading to a bonfire.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5414167913357395,
+    "bm25_score": 13.679789606550864
+  },
+  {
+    "document_id": "6b518290-7578-5647-b7c0-21183406354a",
+    "title": "Witch of Izalith",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Witch of Izalith -  Dark Souls - character - dark_souls_ii \n dark_souls_ii : Despite the Bed of Chaos having been destroyed by a Chosen Undead, a fragment of the Flames of Chaos managed to survive and drifted to settle underground in the far north of Drangleic. Here it reformed as an expanse of fire, lava and roots and started to give birth to atrocities and monsters that cursed the region, leading people to flee in fear. Eventually the Ivory King and his knights managed to eliminate the demons that arose from the Old Chaos and drive them back into the depths. The sovereign, thanks to the power of his soul, thus built the kingdom of Eleum Loyce over that land and erected an immense cathedral, a fortress city and a Garrison Wall above the Chaos, in an attempt to contain it and its horrors with all his efforts, even going so far as to use the power of his own soul to stem his raging flames.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5345096734760407,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f23fee1b-6153-5cd2-ae0a-0fa90e7a312a",
+    "title": "Witch of Izalith",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Ages after her Lord Soul was used to link the First Flame, Izalith's very name was lost. In the region of Drangleic, only few remained who remembered her—only that she was the mother of pyromancy, and that she was devoured by her chaos flame. However, some remnants of her soul manifested again in Drangleic, continuing to exert their influence on the region.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5205035625850225,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e8a0525b-af36-5bd5-9bfe-2fcc5e6b7f04",
+    "title": "Witch of Izalith",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "At some point, a pyromancer was imprisoned inside the furthest cell of the Sinners' Rise, an isolated tower apart from the The Lost Bastille. While the Bastille was used to contain the Undead that plagued the region, this pyromancer was imprisoned and contained in an extreme manner, with Penal Handcuffs to restrain their powers and a Penal Mask with spikes pointing inward to bind and torture them, to be punished for their sins. One day the prisoner came into contact with the soul of Izalith deep inside the Lost Bastille, and a Chaos Bug similar to one Izalith had been reduced came to inhabit their body. The remnants of Izalith's will influenced the prisoner, leaving them eternally to punish themselves for the sins of her past, for trying to light a First Flame in her arrogance. Their sword became cursed with a power similar to that of the ancient Chaos Blade, symbolizing the burden of Izalith's misdeeds.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.517999628767321,
+    "bm25_score": null
+  },
+  {
+    "document_id": "85b331ce-db4a-5c84-ad68-6ae97f0d9fba",
+    "title": "Witch of Izalith",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Witch of Izalith -  Dark Souls - character - dark_souls",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5149063960041724,
+    "bm25_score": null
+  },
+  {
+    "document_id": "917a711e-7d1b-5e46-b5bb-d8cbecd17f73",
+    "title": "Invaders",
+    "section": "lost_izalith",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Invaders -  Dark Souls - mechanic - lost_izalith \n lost_izalith : Kirk, Knight of Thorns: Spawns next to the Fog Door leading to the Bed of Chaos. May drop Barbed Straight Sword and/or Spiked Shield.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5116094955426,
+    "bm25_score": 13.385246395983012
+  },
+  {
+    "document_id": "c86e4022-70c3-55a7-b50c-3ace13b0749a",
+    "title": "Bounding Demon of Izalith",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bounding Demon of Izalith -  Dark Souls - enemy - location \n location : A total of 29 Bounding Demons are located in the lava filled area of Lost Izalith. Only one can be found outside of Izalith, lying dormant on the bridge in the Painted World of Ariamis, behind the Undead Dragon. This one cannot be killed.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5103042749500123,
+    "bm25_score": 11.202149220618175
+  },
+  {
+    "document_id": "1174d054-d092-5653-ace3-275407622ebf",
+    "title": "Quelana of Izalith",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Following the destruction of the Bed of Chaos, Quelana appears to have returned to Izalith, or what remains of it, at some point. Within the Demon Ruins, now neighbouring the Catacombs of Carthus, Quelana's pyromancy tome is found on a corpse clutching onto what seems like the petrified corpse of her sister. If these two fossils are indeed those of Quelana and the Fair Lady, it would show that Quelana ultimately ended her self-imposed exile to be reunited with her last extant sister, in the final hours of her life.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5080062056866115,
+    "bm25_score": 13.567367071583774
+  },
+  {
+    "document_id": "96afac64-516b-5314-8a46-07ff1016c834",
+    "title": "Witch of Izalith",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Witch of Izalith -  Dark Souls - character - lead \n lead : The **Witch of Izalith** or simply **Izalith** (イザリス) is a mentioned character in *Dark Souls*. She is also mentioned in *Dark Souls II*, although by that time her name is lost to history and only her nickname of \"mother of pyromancy\" remains.\n\nA legendary fire sorcerer who found one of the four Lord Souls, she helped bring an end to the Age of Ancients and the rule of the dragons to establish the Age of Fire, and established an underground civilization named after her. She had many daughters, nicknamed the \"Daughters of Chaos\", which included Quelaag, Quelana and \"The Fair Lady\", as well as a son. By the time of the game's events, her magical experiments backfired, fusing her soul and two of her daughters' into a new horrible being, the Bed of Chaos. Although the Bed was eventually slain by the Chosen Undead and its soul fed to the Lordvessel, fragments of the Witch's soul survived.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.5067311747731027,
+    "bm25_score": null
+  },
+  {
+    "document_id": "36f34201-f250-59bc-94dc-706508460e93",
+    "title": "Witch of Izalith",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Witch of Izalith -  Dark Souls - character - dark_souls_iii \n dark_souls_iii : In the times and region of Lothric, both the bed and the flame have gone out, and the demons are now a dying species, as no new members of their race are being generated. Some remain in a secret city of demons, found amidst Izalith's decrepit structures, most of its citizens being demons and corrupted Izalith citizens. The Old Demon King sits alone amidst fallen combatants, with his flames dying out, the last of the original citizens of Izalith to have remembered the birth of Chaos, and the Witch of Izalith.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.504566690885945,
+    "bm25_score": null
+  },
+  {
+    "document_id": "052d4b96-efac-5a8f-9fac-fdf65e98daa3",
+    "title": "Demon (lore)",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Although the lower half of their bodies were transformed into a chaos spider, Quelaag and her sister managed to carve out a domain for themselves on the edge of the realm of Izalith, near what was called Blighttown. While the older Quelaag maintained control over their refuge thanks to her strength, the younger one, who was a Fire Keeper with an immense amount of humanity within her, began producing eggs by the dozen, until they covered their entire lair. In time, the Undead exiled to the depths of the Undead Burg and who had ended up in the rotten Blighttown chose to serve the Flame of Chaos and the two demonic daughters of Izalith of their own free will.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.5007612604628608,
+    "bm25_score": 10.501243741536209
+  },
+  {
+    "document_id": "4406b7d8-e149-57f4-ab22-20447ba5496e",
+    "title": "Upgrade Materials",
+    "section": "locations_7",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Upgrade Materials -  Dark Souls - item - locations_7 \n locations_7 : Trade Snuggly the Crow an unupgraded Ascended Pyromancy Flame for 1 Red Titanite Slab\nChaos Eaters in Lost Izalith (0.2% drop)\n1 can be found in a chest in Lost Izalith - in the poisonous pit containing multiple Chaos Eaters.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.49492405976410525,
+    "bm25_score": 11.967332367928545
+  },
+  {
+    "document_id": "df1c9686-e3c7-51bb-adb6-14de5d71a33f",
+    "title": "Demon Firesage",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "The Chosen Undead encountered the Demon Firesage in the Demon Ruins, after they had placed the Lordvessel at the Firelink Altar, in their mission to destroy the Bed of Chaos and obtain the Lord Soul of Izalith contained within it. They proceeded to fight and slay the demon in combat thus gaining access to the ruins of Lost Izalith.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.49439068019540433,
+    "bm25_score": 10.00373002596783
+  },
+  {
+    "document_id": "6cb9ede3-b3ff-5129-9f22-197da0e0b8bd",
+    "title": "Smouldering Lake",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Smouldering Lake -  Dark Souls III - location - description \n description : The Smouldering Lake is a shallow lake that lies deep underground. Enormous trees that smoulder with embers grow up to the ceiling and their roots reach far into the chambers below the lake. It has been known to be the remains of the once molten Lost Izalith, or an area adjacent to the lost city. After many years, the lava had subsided significantly; the evidence to this being the presence of the demon corpses that litter the ground in the Demon Ruins, which in *Dark Souls* was the area one would have to go through to reach Lost Izalith.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.49337760436851147,
+    "bm25_score": 10.00495184981141
+  },
+  {
+    "document_id": "a8777631-f69d-5247-9fa1-1ee8933a88f1",
+    "title": "Demon Firesage",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "learned to coexist with the already present society of Izalith, becoming \"demon priests\" of the Flame of Chaos and Izalith and even going as far as to learn the primordial flame sorceries developed by the Lord and her daughters. After Izalith lost control over the Flame of Chaos that devoured her city, this Demon Firesage managed to survive the war that the Silver Knights of Gwyn, Lord of Sunlight waged against its kind and it remained to protected its domain inside the ruins of its home, still wielding its Demon's Catalyst and retaining the knowledge of the now lost flame sorceries",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.48895749830142604,
+    "bm25_score": 10.51521834149464
+  },
+  {
+    "document_id": "012ff611-f71a-5cbb-a515-fa90886e33ac",
+    "title": "Chaos Storm",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Chaos Storm -  Dark Souls - spell - description \n description : Art of the Flame of Chaos, which engulfed the Witch of Izalith and her daughters. Erects localized chaos fire pillars.\n\nThe Witch of Izalith, in an ambitious attempt to copy the First Flame, created instead the Flame of Chaos, a twisted bed of life.",
+    "sources": [
+      "dense",
+      "entity"
+    ],
+    "dense_score": 0.4856654959852089,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4ad84343-c161-5217-bb69-6a0b8e7ab940",
+    "title": "Izalith Catalyst",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Izalith Catalyst -  Dark Souls - weapon - availability \n availability : Dropped by the Daughter of Chaos found in late Lost Izalith, close to the Fog Door leading to the Bed of Chaos.",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.48310639703097596,
+    "bm25_score": 12.0827167852107
+  },
+  {
+    "document_id": "4c181995-a1e2-50aa-bbb8-ebb88b840887",
+    "title": "Quelaag's Domain",
+    "section": "adjacent_locations",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Quelaag's Domain -  Dark Souls - location - adjacent_locations \n adjacent_locations : Blighttown\nDemon Ruins\nLost Izalith (only available after activating the elevator shortcut from Lost Izalith)",
+    "sources": [
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.4741220732422538,
+    "bm25_score": 13.91110550332764
+  },
+  {
+    "document_id": "48e2fdfd-d818-5f7b-b9d0-5e1c6557981e",
+    "title": "Bed of Chaos",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Bed of Chaos -  Dark Souls - boss - lead \n lead : The **Bed of Chaos** (混沌の苗床) is a boss in *Dark Souls*. A hideous lifeform which the Witch of Izalith has turned into, it is found in what remains of her land, Lost Izalith. It is a \"puzzle boss\" with unconventional mechanics.\n\nAlthough the traditional way of reaching the Bed involves slaying both the Demon Firesage and the Centipede Demon, a shortcut can be opened by offering Quelaag's Sister 30 Humanity through the Chaos Servant covenant.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 15.64362946569411
+  },
+  {
+    "document_id": "6c6685e6-f867-5a87-9060-087c23fbf79d",
+    "title": "Lost Izalith",
+    "section": "weapons",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Lost Izalith -  Dark Souls - location - weapons \n weapons : Izalith Catalyst\nSunlight Shield\nSunlight Straight Sword\nSunlight Talisman",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 13.469683581379986
+  },
+  {
+    "document_id": "15702c98-81e3-5d09-bc71-ce2b8644e66f",
+    "title": "Chaos Eater",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Chaos Eater -  Dark Souls - enemy - location \n location : There are two found on the upper levels of Lost Izalith and six more (four don't respawn) located through a destructible floor, in a pit close to Siegmeyer of Catarina. A total of four chaos eaters can be farmed each pass.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 12.08707053914934
+  },
+  {
+    "document_id": "65c15e7f-3a69-5de6-ad36-cf88000c239b",
+    "title": "Chaos (mechanic)",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Chaos (mechanic) -  Dark Souls - mechanic - lore \n lore : In the Age of Ancients, the Witch of Izalith and her Daughters of Chaos wove great and powerful firestorms. At the time, the Witch and her followers were powerful flame sorcerers who lived in the city of Izalith. Blacksmiths of the ancient city crafted powerful weapons using Chaos arts. Thus, during the earliest known ages of the world, Chaos developed its reputation as a powerful force.\n\nEventually, the Witch of Izalith attempted to duplicate the First Flame. What she instead produced was a twisted being of chaotic fire: the Bed of Chaos, source of all demons. Several of the Witch's daughters were transformed into chaos demons, and her son became the monstrous Ceaseless Discharge.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 11.490075336835577
+  },
+  {
+    "document_id": "d3d51677-a82c-56d8-acff-7c1616e31af3",
+    "title": "Chaos Bug",
+    "section": "locations",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Chaos Bug -  Dark Souls - enemy - locations \n locations : Chaos Bugs are found in the shortcut connecting Demon Ruins to Lost Izalith.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 11.285116253392005
+  },
+  {
+    "document_id": "36ed22a2-5944-5f25-846e-2d61db16346a",
+    "title": "Chaos Eater",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Chaos Eater -  Dark Souls - enemy - lead \n lead : **Chaos Eaters** are enemies in *Dark Souls*. They are located exclusively in Lost Izalith.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 11.162548917986783
+  },
+  {
+    "document_id": "de691355-2795-53cf-acc7-a3ed3706bfee",
+    "title": "Lost Izalith",
+    "section": "souls",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Lost Izalith -  Dark Souls - location - souls \n souls : Lord Soul\nSoul of a Great Hero\nSoul of a Hero\nLarge Soul of a Brave Warrior\nSoul of a Brave Warrior",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.270194528905254
+  },
+  {
+    "document_id": "20866945-5800-56a4-b076-cea913e9fe55",
+    "title": "Chaos Fire Whip",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Chaos Fire Whip -  Dark Souls - spell - availability \n availability : Found in a chest in Lost Izalith, fairly close to where the Daughter of Chaos is located. The chest is guarded by a Chaos Eater.",
+    "sources": [
+      "bm25",
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": 9.99351870508633
+  },
+  {
+    "document_id": "1f1e1e4a-78ed-5c38-b4f9-38887b6c97f1",
+    "title": "Ceaseless Discharge",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "After Izalith lost control over the Flame of Chaos that devoured her city and some of her daughters managed to escape it, Ceaseless Discharge managed to survive the war that the Silver Knights of Gwyn, Lord of Sunlight waged against its kind and he remained to protect the ruins of its home, gazing up at where his remaining sisters live, as the only source of comfort in his pitiful, painful existence is the belief that they are watching over him.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.6031458008292957,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f76aa087-4895-56e5-b46a-3f775e613d44",
+    "title": "Demon (lore)",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "At one point Izalith, aiming to gain greater sway over the Flame of Chaos, lost all control of the power again and never regained it: Chaos engulfed the Lord and her daughters before scorching their city with them. Izalith and her two daughters directly involved in the experiment were left permanently scarred, reduced to a monstrous lignified creature anchored in the throne room at the center of the city. Of the daughters of Izalith, few managed to escape. Quelaag and her sister's lower bodies were molded into deformed demonic spiders and the flames of chaos engulfed them but they managed to escape the city and survive on its borders, carving out a domain for themselves. The only other survivor, who managed to avoid the corruption of chaos and retain a normal body, was Quelana, who remained in self-imposed exile around the ruins of her country for centuries.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5950869534226552,
+    "bm25_score": null
+  },
+  {
+    "document_id": "aae4f31c-339e-57dc-8d1a-051ee27b59a0",
+    "title": "Lore",
+    "section": "the_age_of_fire",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "The Age of Fire began prosperous and rich, but soon the fires started to go out again and with them the power of the Lords. In an effort to prolong Age of Fire, the Witch of Izalith tried to recreate the First Flame, but the experiment failed and a flame called \"The Flame of Chaos\" is created instead, which transformed her into the Bed of Chaos and many creatures into the demons that roam Lordran. Her children are transformed as well, with her son becoming a flame demon called Ceaseless Discharge and her daughter Quelaag and her sister partially into spiders. Her followers stay loyal to her, however, and become known as the \"Witches of Chaos\". Only her daughter, Quelana, escaped the fire and becomes the mother of pyromancy. This being said, Mother Izalith did eventually *succeed* in stabilizing the Chaos Flame with 2 of her sisters.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5516349498052093,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7d8ab888-64a3-56db-baad-12db150e37f4",
+    "title": "Ceaseless Discharge",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Around the same time, Izalith was experimenting with her Lord Soul and the power of fire and souls and at a certain point, driven by ambition and arrogance, she tried to create a \"First Flame\" of her own, using her own Lord Soul as a basis to make a power similar to the primordial force that had brought life into the world. The experiment, however, was not entirely successful because the result was a Flame of Chaos, an unstable power that the witch was unable to control. Izalith herself was initially consumed by it and became a beast of chaos fire along with two of her daughters in the process transforming themselves into a \"Bed of Chaos\". This creature, fueled by the power of the Flame of Chaos, became a seebed for a new life form: Demons.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5432320164857514,
+    "bm25_score": null
+  },
+  {
+    "document_id": "24ecfc93-a306-529f-9d97-5d69024af216",
+    "title": "Archtree",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Despite the brutal conflict, several specimens of archtrees continue to survive and in particular in the Ash Lake, an immense underground cave, many of them are still intact, offering shelter to one of the last examples of archdragon descendants: the Stone Dragon. Additionally, following the war against the dragons, Izalith developed her civilization underground, building the city bearing her name around the framework of a surviving archtree. The demons created by Izalith's Bed of Chaos would have used the tree's stone bark to forge their great hammers. The few archtrees that survived evolved in the giant trees found in Lordran, considered their distant offspring, and their wood still inherited the magic resistant properties of their ancestors.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5308603817578041,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c83ac560-7b59-5c39-89a8-8105e06047fc",
+    "title": "Chosen Undead",
+    "section": "the_lord_souls",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Lastly, the Chosen Undead advances into the deepest part of Lordran: Lost Izalith. If the player speaks to Quelana in Blighttown it will be discovered that her mother tried to use her power to replicate the First Flame, but failed and was engulfed within it; eventually succeeding but at the cost of their former forms. This killed some of her daughters in the process and turned others into deformed creatures, and only Quelana and a Daughter of Chaos maintained the entirety of their human forms. Within the city, the Chosen Undead comes upon the Bed of Chaos, the source of all the demons that wander Lordran, and overcomes it.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.528192106474962,
+    "bm25_score": null
+  },
+  {
+    "document_id": "28f20020-62c8-5e52-86f0-ebad79fed028",
+    "title": "Lothric",
+    "section": "the_outrider_knights",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "The fading of the Flame and the erosion of their faith made the citizens of Lothric more and more desperate, some of whom were transformed into humanoid trees that were turned in prayer towards Lothric Castle. Furthermore, the undead of the city began to show signs of an epidemic, in which their Dark Soul would explode from their bodies and manifest as an amorphous black blob with bestial features which attacked anything with destructive ferocity. The infestation of these Pus of Man led to the permanent closure of the Grand Archives' doors, with the scholars isolating themselves from the desperate situation of the kingdom to continue their work.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5264653895912097,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6e10d76d-46fe-51f4-a221-421b539181ec",
+    "title": "Demon (lore)",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "beastly; rather, they learned to coexist with the already-present society of Izalith, becoming \"demon priests\" of the Flame of Chaos and even going so far as to learn the primordial flame sorceries from their Lord and her daughters. The city of Izalith expanded to accommodate its new citizens, building structures for the demons on its borders.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5234239857840757,
+    "bm25_score": null
+  },
+  {
+    "document_id": "abd923b7-b8fb-50ff-9925-6fb393db04de",
+    "title": "Primordial Serpents",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "During the events of *Dark Souls III*, when the First Flame was almost fading out, their fate or the number of their survivors is unknown.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5216603708628053,
+    "bm25_score": null
+  },
+  {
+    "document_id": "01226ef0-0e49-5a38-95c9-49dee11d9cd0",
+    "title": "Eygil",
+    "section": "about_their_potential_identity",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "If this were true, then the sins that the Lost Sinner constantly punishes herself for could include the aforemantiond creation of the Smelter Demon, mirroring the Witch of Izalith's own conceit leading to the creation of the demon race. Why Eygil would be imprisoned in the Lost Bastille, a place belonging to the rival kingdom of Venn, is unclear, though the Old Iron King may have conquered it just as he conquered the land where Brume Tower was erected. Alternatively, they may have just captured and imprisoned the magus when the king perished and his kingdom fell.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.520540581102555,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bb6006ad-8546-5c19-88fe-fa4af4e4dc32",
+    "title": "Road of Sacrifices",
+    "section": "non_respawning",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Road of Sacrifices -  Dark Souls III - location - non_respawning \n non_respawning : Crystal Lizard\nIsabella the Mad\nExile Watchdog\nExile Watchdog",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5167159933807548,
+    "bm25_score": null
+  },
+  {
+    "document_id": "87436d62-6e37-5aa7-a900-72aac4edef7f",
+    "title": "Demon (lore)",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Bed of Chaos, still fused with her two daughters and her original body reduced to that of a Chaos Bug under all her roots. The Chosen Undead thus challenged and killed her to obtain her powerful Lord Soul. The destruction of the original Flame of Chaos ended Izalith's misery, but it also marked the beginning of the end for the demons who, without the Bed of Chaos that had spawned them, became a dying race.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5148428399648128,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3463f21e-61b5-5b8b-9337-0c43ade52154",
+    "title": "Smouldering Lake",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "This was once the home to the daughters of the Witch of Izalith and the demons born from the Flame of Chaos. Unlike the First Flame, which is tied to the souls of the undead, the faded Flame of Chaos was tied to the souls of the demons, and so the lifeless bodies of Capra, Taurus, Asylum and a single Centipede Demon can be found strewn throughout the ruins and piled high near the Old Demon King, one of the last remaining demons of old. A petrified arachnoid body, resembling Quelaag's Sister, lies within the ruins, where a humanoid corpse holds the Quelana Pyromancy Tome, indicated that the sisters lived here at one point.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5117539043366891,
+    "bm25_score": null
+  },
+  {
+    "document_id": "920065bb-e09a-5ed0-a419-289ddced36bd",
+    "title": "Lucatiel of Mirrah",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "After she contracted the curse of undeath, Lucatiel traveled to Drangleic as it was rumored that the cure could be found in this land. With time, she became certain that her brother must have come here too. Lucatiel later confides that she feels the curse is taking over her, and that her memories begin to fade away, starting with the oldest.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5112066185537776,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4d6d5f47-47d2-5351-bd19-43448916aa09",
+    "title": "Demon (lore)",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "When a Chosen Undead was able to ring the Bells of Awakening, overcome the challenges of Sen's Fortress and reach Anor Londo thus being rewarded with the Lordvessel, they would be guided by Kingseeker Frampt to find immense souls to fill the receptacle and link the fading First Flame to succeed Gwyn in his sacrifice. The Undead would thus have delved into the dangerous and pestilent Blighttown until they reached the edges of the ancient domain of Izalith. Here their path would be blocked by the half-demon daughter of Izalith Chaos Witch Quelaag but, after killing her, the Undead was able to gain access to the Demon Ruins. Making their way through the demons that infested the area, they reached the lost city of Izalith and the throne room where Izalith resided, having turned into the distorted Bed of Chaos, still fused with her two daughters and her original body reduced to that of a Chaos Bug under all her roots. The Chosen Undead thus challenged and killed her to obtain her powerful",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5100552451347162,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cfeae3e2-9d22-502c-b098-0c721f98722b",
+    "title": "Belfry Luna",
+    "section": "adjacent_locations",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Belfry Luna -  Dark Souls II - location - adjacent_locations \n adjacent_locations : The Lost Bastille",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5092065808010484,
+    "bm25_score": null
+  },
+  {
+    "document_id": "57623a1c-f0d7-5b35-9114-2f7317bf92cd",
+    "title": "New Londo Ruins",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - dark_souls \n dark_souls : {'name': 'Theories', 'description': 'The numerous female statues accompanying a child present in New Londo may represent the advent of the Dark Lord awaited by humanity, as opposed to the statues present at the Undead Burg, Undead Parish and Firelink Shrine which awaited a Chosen Undead who would have brought him back to the splendor of the Age of Fire. Unlike the statues outside the city, those in New Londo represent the child standing on their legs instead of being held in the lap of the female figure, who only accompanies them.\\nAdditionally the female figure may represent Velka, Goddess of Sin as New Londo was a city of humans whose sins and salvation were her responsibility to administer, and the same statue can be found in the Painted World of Ariamis, where multiple artifacts affiliated with Velka or considered heretical, like the potential message about the coming of the Dark Lord, can be found'}",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5081283940272343,
+    "bm25_score": null
+  },
+  {
+    "document_id": "477e329b-a3e4-5d00-b72f-26577f00cb8f",
+    "title": "Lothric",
+    "section": "the_outrider_knights",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Due to the Convergence, a massive seismic upheaval raised the Lothric plateau high above the land, cutting it off from its neighbouring regions. This new feature was called the High Wall, and removed all means of transportation in or out of the city. Lothric messengers had no means of returning, and pilgrims of Londor were unable to seek refuge, leading to the total isolation of the kingdom during its final days. The Stray Demon that was once the gatekeeper of Lothric would remain trapped on the kingdom's broken bridge, without even a trace of its flame.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5071778289848968,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3ddb6281-37d6-59a7-a8f7-b4b7e310cae0",
+    "title": "New Londo Ruins",
+    "section": "non_respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - non_respawning \n non_respawning : Mass of Souls\nWisp",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5050732061807296,
+    "bm25_score": null
+  },
+  {
+    "document_id": "afaaa773-10cc-5f08-ad87-de83e3d4c910",
+    "title": "The Lost Bastille",
+    "section": "enemies",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "The Lost Bastille -  Dark Souls II - location - enemies \n enemies : {'name': 'Boss', 'description': 'Ruin Sentinels'}",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.504862720088568,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b27fd6b3-a7e5-5c37-82af-6526a48a0786",
+    "title": "Astora",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "At some point Astora was assaulted by a dark beast, bearing an evil eye that absorbed the vitality of its victims, that ravaged the country until the land was almost destroyed. However this horrid spirit was eventually defeated by one of the noblest knights. Although it was killed, the strength of the creature did not waver and its spirit was captured into a magic ring with its eye that kept its life-absorbing power.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5030165442598827,
+    "bm25_score": null
+  },
+  {
+    "document_id": "86815c29-1cc5-558c-b270-423b6e9cbd0b",
+    "title": "Darkroot Garden",
+    "section": "adjacent_locations",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Darkroot Garden -  Dark Souls - location - adjacent_locations \n adjacent_locations : Darkroot Basin\nUndead Parish",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.5001626866445039,
+    "bm25_score": null
+  },
+  {
+    "document_id": "28fa620a-2f6b-5eb7-8939-8b443962ca10",
+    "title": "Archtree",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "At some point the creatures that found the Lord Souls near the First Flame underground and developed their powers emerged to the surface with the intention of exterminating the Dragons and conquer the world for themselves. During the war that followed, Izalith and her daughters used sorcery and their powers to manipulate flames and weaved great firestorms that scorched the very earth, destroying the archtrees and burning the dragons while Nito unleashed a miasma of death, rotting the archtrees and infecting the dragons and Gwyn and his knights battled the dragons with their their mighty lightning bolts. After the long struggle the Lords emerged victorious, exterminating most of the archdragons and archtrees, thus conquering the surface world for themselves.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.49822526137360074,
+    "bm25_score": null
+  },
+  {
+    "document_id": "566254db-e930-592f-99d1-d5924e379a6b",
+    "title": "Demon (lore)",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The societal collapse of Izalith, left without their Lord and devoured by the out-of-control Flame of Chaos, pushed Gwyn to wage war against the chaos demons that were now free, developing weapons and fighting techniques strong enough to face the size of their new enemies and sending his Silver Knights to Izalith. During the war their armor and weapons were charred black but despite their strength Gwyn's knights failed to defeat the demons or destroy the Bed of Chaos; they eventually retreated, only managing to banish the demons underground although they enslaved some lesser demons who would become servants of the gods. At some point after Gwyn linked the First Flame and Gwyn's firstborn son was dethroned and exiled, nearly all of the other deities abandoned Anor Londo. Despite the conflict, many demons survived, and the Bed of Chaos meanwhile continued to generate new demons; with no leadership present in Anor Londo and the Silver Knights remaining relegated to protecting the city of",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.49807964167491803,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9684c3e2-e3f7-5e7c-9490-88e051819aca",
+    "title": "Chasm of the Abyss",
+    "section": "non_respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - non_respawning \n non_respawning : Crystal Lizard",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4978661421766286,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7941ff22-52e9-5fb0-9eda-a9e502990562",
+    "title": "Irithyll Dungeon",
+    "section": "adjacent_locations",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Irithyll Dungeon -  Dark Souls III - location - adjacent_locations \n adjacent_locations : Archdragon Peak\nIrithyll of the Boreal Valley\nProfaned Capital",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.49771688078902654,
+    "bm25_score": null
+  },
+  {
+    "document_id": "88d6bc34-b4b3-55a8-83d4-3b69723b9323",
+    "title": "Grand Archives",
+    "section": "adjacent_locations",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Grand Archives -  Dark Souls III - location - adjacent_locations \n adjacent_locations : Lothric Castle",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.49464903434007157,
+    "bm25_score": null
+  },
+  {
+    "document_id": "387b1207-25e4-5b1a-8349-54108f24a37c",
+    "title": "Chosen Undead",
+    "section": "artorias_of_the_abyss",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "After being dragged back in time, the Chosen Undead wakes up inside a cave beneath some trees. Outside, they are confronted by the Sanctuary Guardian. After slaying the beast, the Chosen Undead finds some sort of garden temple where they encounter a giant, talking mushroom named Elizabeth, who informs the player that the realm of Oolacile is being consumed by the darkness of the Abyss, She also tells the player that Princess Dusk has been kidnapped by a creature from the abyss and that Knight Artorias has ventured unto Oolacile to put an end to the spread. However, she assures the player that Artorias will be overwhelmed by the darkness.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4937024941751489,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6bba1f90-1a4b-57b3-b0e1-0c27c9e5847d",
+    "title": "Londor",
+    "section": "close_of_an_age_of_fire",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Many pilgrims of Londor would perish on their journey north; few made it to the city gates, and even fewer were those who made it inside the walls. The journeys of many pilgrims were cut short when the High Wall appeared: a massive seismic upheaval raised the city of Lothric high above the land and formed a plateau, destroying its bridge and cutting it off from neighbouring regions. Dozens of pilgrims were unable to get inside the city, and expired just outside the High Wall.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4936597127491693,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ccc318bc-afae-5198-a632-ef0b0335060a",
+    "title": "Timeline",
+    "section": "irithyll_of_the_boreal_valley",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Timeline -  Dark Souls III - storyline - irithyll_of_the_boreal_valley \n irithyll_of_the_boreal_valley : (**INCOMPLETE**)",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4918240104676732,
+    "bm25_score": null
+  },
+  {
+    "document_id": "77a488c1-22d1-5afe-818a-15dc49535ca2",
+    "title": "Undead Settlement",
+    "section": "adjacent_locations",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Undead Settlement -  Dark Souls III - location - adjacent_locations \n adjacent_locations : High Wall of Lothric\nRoad of Sacrifices",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.490349017693405,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c51a4a7b-7af1-50af-a2ec-e31f8d75eaa5",
+    "title": "Oolacile Sanctuary",
+    "section": "miscellaneous",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Oolacile Sanctuary -  Dark Souls - location - miscellaneous \n miscellaneous : Elizabeth's Mushroom x1 x3\nHumanity",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4901914451258492,
+    "bm25_score": null
+  },
+  {
+    "document_id": "26138047-d942-527e-94ef-0b3e642b75d8",
+    "title": "Irithyll Dungeon",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Irithyll Dungeon -  Dark Souls III - location - lore",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4888884743416289,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b3ada763-a1ba-5e89-8dc6-8a58e2031f15",
+    "title": "Twinkling Titanite (Dark Souls III)",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Catacombs of Carthus\n**Dropped by a Crystal Lizard located on a ledge on the left side of the large room with the large staircase, just after meeting Anri of Astora.\nSmouldering Lake\n**Dropped by a Crystal Lizard found in the tunnel that leads to Horace the Hushed.\nIrithyll of the Boreal Valley\n**Dropped by a Crystal Lizard on a small terrace past the second Fire Witch.\n**Dropped by a Crystal Lizard hidden behind an illusory wall in the first niche of the quay, just as one reaches the lake that surrounds the city.\n**Dropped by a Crystal Lizard in the small courtyard past the Pontiff Sulyvahn bonfire.\n**Dropped by another Crystal Lizard in the same area.\nProfaned Capital\n**Dropped by a Crystal Lizard along the corridors that lead to the toxic swamp.\n**Dropped by another Crystal Lizard further from the one mentioned above.\nLothric Castle\n**Found on a corpse in the room where the axe-wielding Winged Knight ambushes the player.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.48789113981496324,
+    "bm25_score": null
+  },
+  {
+    "document_id": "837ab43e-a2fa-5bff-9063-cd9cff6cbcae",
+    "title": "Gwynevere, Princess of Sunlight",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "In the final days of Lothric, the citizens of the kingdom forgot even the miracles of the goddess of sunlight, and ended up recounting childish but earnest stories to try to recall her blessings and the back of her figure, as the last image of their queen before she left.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.48780004382448977,
+    "bm25_score": null
+  },
+  {
+    "document_id": "13e252ce-7b66-5d05-adb3-0d6a0835404c",
+    "title": "Izalith Catalyst",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Izalith Catalyst -  Dark Souls - weapon - description \n description : Catalyst of the Witch of Izalith of long ago, when her daughters were still flame witches, before they were engulfed by the Chaos Flame. Before the birth of pyromancy, their wands were mediums for sorcery, but knowledge of this flame sorcery has long since vanished.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4869626658093898,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5684a415-5cb8-5e00-a80a-1f979f09ff21",
+    "title": "Irithyll of the Boreal Valley",
+    "section": "casting_tools",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Irithyll of the Boreal Valley -  Dark Souls III - location - casting_tools \n casting_tools : Witchtree Branch",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4866371822139467,
+    "bm25_score": null
+  },
+  {
+    "document_id": "771f16fa-2b07-5164-b680-ce8550b52fe4",
+    "title": "Gwyn, Lord of Cinder",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "At one point, the Witch of Izalith used her Lord Soul in an attempt to replicate the generative properties of the First Flame, resulting in her producing a Flame of Chaos and transforming herself into a Bed of Chaos that began producing Demons. Izalith and her daughters would eventually bring the Flame of Chaos under their control, and learn how to use it, moving from being fire sorcerers to developing pyromancy and creating a new society together with the demons generated by the Bed of Chaos. These developments pushed Gwyn to wage war against the chaos demons, developing weapons and fighting techniques strong enough to face their sizable new enemies and sending his Silver Knights to Izalith, in a war where their armor and weapons were charred black. Gwyn's knights fell short of total victory, unable to exterminate the demons or destroy the Bed of Chaos, and ended up retreating and only managing to banish the demons underground while enslaving some lesser demons who would become",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4866334464397432,
+    "bm25_score": null
+  },
+  {
+    "document_id": "75ec0839-a126-5317-96e8-2ff3f7512b63",
+    "title": "Undead Asylum F2 West Key",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Undead Asylum F2 West Key -  Dark Souls - item - general_information \n general_information : Opens the gate on the west side of the Undead Asylum, allowing the player to obtain the Rusted Iron Ring.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4856450634679325,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fe40966f-aec6-53a2-8493-107ba0e019ea",
+    "title": "Undead Settlement",
+    "section": "key_items",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Undead Settlement -  Dark Souls III - location - key_items \n key_items : Mortician's Ashes",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4855752343165844,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cba99469-60d2-5c5f-b30b-f481a0183385",
+    "title": "Key to New Londo Ruins",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Key to New Londo Ruins -  Dark Souls - item - general_information \n general_information : Opens the gate between New Londo Ruins and the Valley of Drakes. This gate can also be opened with the Master Key.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.48480089113837277,
+    "bm25_score": null
+  },
+  {
+    "document_id": "db3b9322-d727-5b7f-b772-979c8d72b11d",
+    "title": "Dark Chasm of Old",
+    "section": "drangleic_castle",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Dark Chasm of Old -  Dark Souls II - location - drangleic_castle",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4837449081403658,
+    "bm25_score": null
+  },
+  {
+    "document_id": "60c7d7e4-2f17-53c9-b41d-8533ef759106",
+    "title": "Valley of Drakes",
+    "section": "non_respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Valley of Drakes -  Dark Souls - location - non_respawning \n non_respawning : Undead Dragon",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4830136503928735,
+    "bm25_score": null
+  },
+  {
+    "document_id": "143332cc-5c32-57d0-8eb8-de5350d282b0",
+    "title": "New Londo Ruins",
+    "section": "characters_2",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - characters_2 \n characters_2 : Crestfallen Warrior",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.48190972436829754,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f88f7d26-d9ed-56f1-8372-13ee9c933e90",
+    "title": "Dragon's Rest",
+    "section": "adjacent_locations",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Dragon's Rest -  Dark Souls II - location - adjacent_locations \n adjacent_locations : Dragon's Sanctum",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4807280774453889,
+    "bm25_score": null
+  },
+  {
+    "document_id": "02d59f0b-02ad-565b-9c65-8dd488f525e9",
+    "title": "Demon (lore)",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The first demon who manifested itself was the youngest son of Izalith. He was a younger brother of the other witches who gifted him a magic ring to negate his pain from the lava sores that tortured him. However, the still-unstable Flame of Chaos led him to transform into a monstrous demon and drop his ring, leaving the flames of chaos to burn him constantly as he couldn't control them, while also generating another distorted Centipede Demon. Despite becoming the first distorted creature created by the Flame of Chaos, at a certain point Izalith and her daughters managed to stabilize the new power they had created and began to generate the first real demons: life forms with stable bodies and capable of controlling the flame of chaos within each of them. These new creatures were not absolutely beastly; rather, they learned to coexist with the already-present society of Izalith, becoming \"demon priests\" of the Flame of Chaos and even going so far as to learn the primordial flame sorceries",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.48072579589948644,
+    "bm25_score": null
+  },
+  {
+    "document_id": "895958e7-a3ed-5e9b-9add-60caabb6ae4a",
+    "title": "Undead Crypt",
+    "section": "adjacent_locations",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Undead Crypt -  Dark Souls II - location - adjacent_locations \n adjacent_locations : Shrine of Amana",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4805025918949316,
+    "bm25_score": null
+  },
+  {
+    "document_id": "252b014d-915f-56b6-982a-e4dd871c11d4",
+    "title": "New Londo Ruins",
+    "section": "embers",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - embers \n embers : Very Large Ember",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4798249078556025,
+    "bm25_score": null
+  },
+  {
+    "document_id": "98387cda-2603-578b-b6bf-a07c6dc6a505",
+    "title": "Undead Purgatory",
+    "section": "adjacent_locations",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Undead Purgatory -  Dark Souls II - location - adjacent_locations \n adjacent_locations : Huntsman's Copse",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4794859516767738,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d5e8f7bb-4498-57ae-9c5b-ad5cc6ced991",
+    "title": "Suspicious Shadow",
+    "section": "description_and_locations",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Suspicious Shadow -  Dark Souls II - enemy - description_and_locations \n description_and_locations : {'name': 'Dark Souls II: Scholar of the First Sin', 'description': \"Many Suspicious Shadows are hidden around Drangleic, ready to attack the player when they come near. Most of them are hanging from the ceilings of buildings and will drop down, throwing poisoned knives at them.\\nOne can be found in The Lost Bastille, in the area the player can use to skip the Ruin Sentinels boss fight.\\nTwo can be found in No-man's Wharf, in the area below the lever and bell.\\nOne can be found near the end of Earthen Peak, down the stairs from the Upper Earthen Peak bonfire.\"}",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.479291204052565,
+    "bm25_score": null
+  },
+  {
+    "document_id": "37f646e3-b206-5dd4-a11b-d0537ad90924",
+    "title": "Soul of a Lost Undead (Dark Souls II)",
+    "section": "enemy_drops",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of a Lost Undead (Dark Souls II) -  Dark Souls II - item - enemy_drops \n enemy_drops : Dropped by Stray Hounds.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4790166423776559,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a8f5464f-7f5c-5f91-a10e-677a22eb34ea",
+    "title": "Ceaseless Discharge",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Unfortunately, this affected the son of Izalith too and he became the first demon to manifest itself and transformed into Ceaseless Discharge, dropping his ring in the process. The Centipede Demon spawned where it fell. As the first demon, the Flame of Chaos inside his body was still unstable, leaving it to burn him constantly. Izalith and her daughters managed to stabilize the new power they had created and began to generate the first real demons, life forms with stable bodies and capable of controlling the flame of chaos within each of them.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4786844364008144,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8d0a98f5-dc4a-5a37-a368-43a144a5161e",
+    "title": "Four Kings",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Having failed to eliminate the dark threat, an agonizing and terrible decision was made: flooding the entire land of New Londo despite the realization that countless lives and the rich culture of the country would be lost. For this task, sorcerers were called, and the feat was accomplished without even evacuating the city's civilians, sealing away the Four Kings, their Darkwraiths and the entire population with them. The victims were thus cursed, and became Ghosts roaming the ruins of their country, seeking to make mincemeat of every living being.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.47865276213079716,
+    "bm25_score": null
+  },
+  {
+    "document_id": "48b88ec4-3d2a-5ad4-b4f9-05c04b00272c",
+    "title": "Bonfire (Dark Souls)",
+    "section": "lordran",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "***The Duke's Archives**\n**Beyond the corridors guarded by the two Armored Tusks, at the bottom of the lift.\n**In a prison cell, after being defeated during the first encounter with Seath the Scaleless at the top of the Archives. Cannot warp from Bonfire.\n****The Duke's Archives** (warping point) - On a balcony, towards the back end of the Archives, overlooking the inner gardens containing Crystal Golems.\n\n***Crystal Cave** (warping point)\n**Appears after defeating Seath the Scaleless.\n\n***Demon Ruins**\n**Just beyond Quelaag's Domain, surrounded by Egg Burdened.\n**Below the group of Capra Demons, next to a Burrowing Rockworm.\n**After the Demon Firesage boss fight and before the Centipede Demon boss battle.\n\n***Lost Izalith**\n**Immediately after the Centipede Demon arena.\n**Within the structure that is in the middle of the Lava Lake, amidst the Bounding Demons of Izalith. The bonfire is behind an illusory wall.\n**Appears after defeating the Bed of Chaos.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.47788443378750733,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3f297faf-a2aa-5b39-b43b-52fb74af3520",
+    "title": "Archdragon Peak",
+    "section": "adjacent_locations",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Archdragon Peak -  Dark Souls III - location - adjacent_locations \n adjacent_locations : Irithyll Dungeon",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.477804517245398,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bdc8a401-a588-5d31-8929-97559b1b27db",
+    "title": "The Great Hollow",
+    "section": "non_respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Great Hollow -  Dark Souls - location - non_respawning \n non_respawning : Crystal Lizard",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.47773218252786587,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6da799be-dfcc-599a-a0c4-8cb3747ffd2a",
+    "title": "Firelink Shrine",
+    "section": "miracles",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Firelink Shrine -  Dark Souls - location - miracles \n miracles : Emit Force",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.477006157318853,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e26d2b5e-6f51-569c-83c1-3a7764739374",
+    "title": "Izalith Staff",
+    "section": "upgrades",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Izalith Staff -  Dark Souls III - weapon - upgrades \n upgrades : Reinforced with Twinkling Titanite.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.47673283587682863,
+    "bm25_score": null
+  },
+  {
+    "document_id": "69c4f4af-2e40-56db-90bb-92cdfeac97af",
+    "title": "Ash Lake",
+    "section": "non_respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Ash Lake -  Dark Souls - location - non_respawning \n non_respawning : Black Hydra",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4765626221734283,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9abf34cc-6504-54b7-8cd8-5ffead9dff54",
+    "title": "Humans",
+    "section": "age_of_gods",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Meanwhile, in a place called Oolacile, the land of golden sorceries, humans loyal to the Gods were convinced by the Darkwraith leader named Kaathe, a primordial serpent loyal to the Pygmy, to raise up a primeval man who had been buried there. He went mad, and his Humanity bubbled over from his uncontrollable rage, mutating him into a dark monster. His Humanity overflowed and consumed the very world around him, generating another Abyss, and corrupting the citizens of Oolacile. Knight Artorias, one of the four knights of Gwyn, would be tasked to face the outbreak of the Abyss, only to be corrupted by it.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.47634517935288784,
+    "bm25_score": null
+  },
+  {
+    "document_id": "05ec99c5-58f7-54be-b271-8dd45f822f1f",
+    "title": "Soul of a Lost Undead",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Soul of a Lost Undead -  Dark Souls - item - general_information \n general_information : Soul items are not lost upon death, so it is useful to keep some in case players lose their bloodstain but need some souls for leveling up or repairs.\n\nSouls of Lost Undead can be fed to Kingseeker Frampt for 500 souls, which is more than they would give if consumed (200), so it's a good idea to save them up until he is encountered.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.47598568031988164,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9fc7f459-87a7-5ffa-9a16-1aae6f66023e",
+    "title": "Dragon Shrine",
+    "section": "adjacent_locations",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Dragon Shrine -  Dark Souls II - location - adjacent_locations \n adjacent_locations : Dragon Aerie",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.47546242844056774,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fa9c7400-45e2-5d23-9faa-0c9e682ee91a",
+    "title": "Sinners' Rise",
+    "section": "adjacent_locations",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Sinners' Rise -  Dark Souls II - location - adjacent_locations \n adjacent_locations : The Lost Bastille",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.47481071262019664,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dd7afd29-89a5-5c70-85e3-a2c319c5308a",
+    "title": "Manus, Father of the Abyss",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "His immense mass of humanity out of control led to the manifestation of an Abyss that spread, threatening to devour the entire land. The Dark emanating from Manus generated countless Humanity Phantoms and seeped among the residents of Oolacile, making their humanity go wild and mutating their bodies, their bloated heads lined with innumerable tiny red eyeballs and brain parts protruding from cracks. Corrupted Oolacile sorcerers discovered abyssal sorceries, more weighty and dealing physical damage instead of magical, since the Dark produced sorceries with a more tangible, \"human\" presence.",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.4741478073275741,
+    "bm25_score": null
+  },
+  {
+    "document_id": "70ffecc1-69b6-5e3f-8518-b5e84560c1dc",
+    "title": "Chasm of the Abyss",
+    "section": "pyromancies",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - pyromancies \n pyromancies : Black Flame",
+    "sources": [
+      "dense"
+    ],
+    "dense_score": 0.47397122773250805,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7e815df8-3384-52f2-96c8-147cc9fc7bcb",
+    "title": "Felkin the Outcast",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "In spite of his magical abilities, Felkin struggled with his studies due to motivation issues; no magic appealed to him, to the point where he considers that he has learned \"nothing at all\" during those years. However, while at that school in the South, he \"happened upon the dark\". It is unclear what exactly he means by this, but the result, or perhaps the event itself, was his discovery of hexes, a form of magic different from all others he had studied before.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.37489368344884
+  },
+  {
+    "document_id": "7d2e17c6-6846-5db8-a90e-333dd923ad69",
+    "title": "Twinkling Titanite (Dark Souls II)",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Twinkling Titanite (Dark Souls II) -  Dark Souls II - item - description \n description : A form of titanite with special power.\nReinforce equipment that cannot normally be reinforced to +5.\n\nWhat cosmic event could have created such a powerful class of titanite?",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.217348271443694
+  },
+  {
+    "document_id": "951b6e0f-e67d-53a2-8a1a-e8dc886d13f1",
+    "title": "Lost Sinner",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Lost Sinner -  Dark Souls II - boss - trivia \n trivia : The original Japanese term used for \"sinner\" (罪人) does not possess any gender meaning to it, being instead neutral.\nIn the JP text Sweet Shalquoir says that she tried to create (生みだ) the First Flame rather than light it, which is more equivalent to what the Witch of Izalith tried to do.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 16.271601548543643
+  },
+  {
+    "document_id": "e6dc67fb-afa9-545c-be1a-85ad82a6ec06",
+    "title": "Azal, Sage of Forossa",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Azal, Sage of Forossa -  Dark Souls II - character - lore \n lore : Azal was an accomplished sage of Forossa, one of the Northwarders who earn their title after surviving a journey of great hardship. He was exceptionally skilled as he imbued his staff with magic, granting it unique powers. This made the tool unwieldy for the inexperienced, which proved the sage's magical prowess.\n\nWhat became of him is unknown, but his staff can be retrieved on a corpse in Eleum Loyce, a kingdom ruled by a Forossan champion. It's possible, then, that Azal died in the frozen city, perhaps while investigating what had happened to it.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.581219606974548
+  },
+  {
+    "document_id": "670f1fb2-40af-57d2-abbd-c291558106db",
+    "title": "Penal Straightjacket",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Penal Straightjacket -  Dark Souls II - armor - description \n description : Straightjacket of the Lost Sinner.\n\nA tightly cinched belt presses against the waist.\nBy now no one knows who this was used to punish, or for what reason.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.215451347907177
+  },
+  {
+    "document_id": "ff457b1a-34f3-5e53-967f-1635816c6095",
+    "title": "Ring of Binding",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Ring of Binding -  Dark Souls II - ring - description \n description : An unusual ring of unknown origin. Limits the wearer's HP reduction when hollow.\n\nAlas, this ring will not make you human. What is lost is not easily retrieved.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.069175091466995
+  },
+  {
+    "document_id": "d13eeeba-120e-5936-94db-852c6f5c9c1c",
+    "title": "Manikin",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Manikin -  Dark Souls II - enemy - description \n description : There are four variations of this enemy; the variations wield daggers, sabres, bows or claws. What they lack in raw power, they make up for in speed.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 13.963564889463903
+  },
+  {
+    "document_id": "c0e51e18-2244-566d-a682-24eb3f699d2d",
+    "title": "Penal Skirt",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Penal Skirt -  Dark Souls II - armor - description \n description : Skirt worn by the Lost Sinner\n\nA tattered skirt that the guilty wear in shame.\nBy now no one knows who this was used to punish, or for what reason.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 13.95479144096086
+  },
+  {
+    "document_id": "6c262ccb-8cdb-5efd-832b-104c84554aa2",
+    "title": "Fang Key",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "shield",
+    "snippet": "Fang Key -  Dark Souls II - shield - description \n description : A strange key shaped like a wild beast's fang.\n\nWhat manner of dilettante would create such a key, and what might it unlock?",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 13.931021143367342
+  },
+  {
+    "document_id": "ae9a9743-d697-5366-80ee-b83201313955",
+    "title": "Rusted Coin (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Rusted Coin (Dark Souls III) -  Dark Souls III - item - description \n description : An old rusted copper coin.\n\nCrushing the coin boosts item discovery.\n\nThose who have lost their fortunes rely upon this superstitious practice, hoping to retrieve what was once theirs and more.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 13.634741856411985
+  },
+  {
+    "document_id": "f3556141-a223-521d-a413-ab93bef49dc1",
+    "title": "Giant's Kinship",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "shield",
+    "snippet": "Giant's Kinship -  Dark Souls II - shield - description \n description : Each king has his rightful throne. And when he sits upon it, he sees what he chooses to see.\n\nOr perhaps, it is the throne, which shows the king only what he wants.\n\nThe flames roar, but will soon begin to fade, and only a worthy heir might burnish their light. What is it, truly, a claimant of the throne could desire?",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 13.293088603196427
+  },
+  {
+    "document_id": "fa9c6a06-d612-52dd-a259-f9988d3dff03",
+    "title": "Lion Clan",
+    "section": "metamorphosis_through_devotion",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Lion Clan -  Dark Souls II - character - metamorphosis_through_devotion \n metamorphosis_through_devotion : The second possibility is that they transformed into lions through their devotion to the War God Faraam. This wouldn't be an unprecedented event, as a similar process happened to the humans who worshipped the Goddess Velka back in the times of Lordran. Through their faith and obsession, they had turned into half-crow humanoids. The same could have happened to the most devoted of the Lion Knights, changing to better embody their mighty god. Their affinity to curses would then just be a result of handling or crafting the Curse Jars in the area.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 12.900302958901502
+  },
+  {
+    "document_id": "f244e534-8af3-520e-a96b-a568b1a1a29a",
+    "title": "Penal Handcuffs",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Penal Handcuffs -  Dark Souls II - armor - description \n description : Hand restraints of the Lost Sinner.\nIncreases the power of pyromancy.\n\nA device used to restrict use of the hands.\nBy now no one knows who this was used to punish, or for what reason.\n\nEffect: Raises power of pyromancies",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 12.782836730828393
+  },
+  {
+    "document_id": "4b2c7a83-1683-5cd6-ac14-8c1871b2dee9",
+    "title": "Grana, Daughter of Izalith",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Grana, Daughter of Izalith -  Dark Souls - enemy - location \n location : Found in Lost Izalith, right near the fog wall before the Bed of Chaos.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 12.68377695948773
+  },
+  {
+    "document_id": "c273f594-d1a7-592b-b5e2-dd34c8bef494",
+    "title": "Solaire of Astora",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "After defeating the Centipede Demon and continuing towards Lost Izalith from the boss arena, the player will encounter him again. If the player speaks to Solaire immediately after or enters Lost Izalith from this location, Solaire will later become hostile, attacking the player on their next meeting and will be unavailable as a phantom in the Kiln of the First Flame. If the player instead takes the shortcut to Lost Izalith (which can only be accessed through being a +2 Chaos Servant), and kills the glowing red-eyed Chaos Bug (which drops Sunlight Maggot Helm) found there and kills the Centipede Demon, Solaire can be found sitting in the Chaos Bug room saddened that he could not find his own sun. In his lucid state, Solaire can later be summoned for the fight against Gwyn. Solaire goes on to defeat Gwyn and link the Flame in his own world, if he survives Lost Izalith with the player's help.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 12.654554161335337
+  },
+  {
+    "document_id": "ce43adc9-5c59-550c-a3dd-09ba40729082",
+    "title": "Darklurker Soul",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Darklurker Soul -  Dark Souls II - item - description \n description : Soul of what lurks in the Dark Chasm.\n\nThe Dark Chasm of Old is the remnant of some ancient, dissipated being.\n\nUse the special soul of what lurks within to acquire numerous souls, or to create something of great worth.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 12.530327551842625
+  },
+  {
+    "document_id": "7e03c9ce-981f-54fa-8b29-dcdc7d35394e",
+    "title": "Warmth",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "spell",
+    "snippet": "Warmth -  Dark Souls II - spell - description \n description : One of the lost pyromancies preserved only in the Undead Crypt. Creates a gentle, warm flame that heals those who touch it.\n\nFire can be a show of strength, but it is also a symbol of wisdom and comfort. Fire is what the caster wishes it be.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 12.430598358570663
+  },
+  {
+    "document_id": "16d8d281-81a6-5deb-958d-42dbc95ea4bc",
+    "title": "Captain Drummond",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "What happened to Drummond afterwards is never stated, but his armor, sword and shield can be found in the ruins of the fort, now enveloped by the surrounding forest, around the wall where the Giant Lord was felled in the past. It is therefore likely that he perished shortly after the victory on the Giants, becoming the last of his family line. The absence of his helm is also meaningful, as he gifted it to the Bearer of the Curse in the past for helping his remaining army in their hour of need.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 12.351386632447156
+  },
+  {
+    "document_id": "7857740e-b605-5841-9bc8-c6566efc89f3",
+    "title": "Area of Effect",
+    "section": "environmental_hazards_environmental_hazards",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Area of Effect -  Dark Souls - mechanic - environmental_hazards_environmental_hazards \n environmental_hazards_environmental_hazards : Blighttown poison swamp - Poison build-up and impaired movement.\nDemon Ruins magma - Fire damage.\nLost Izalith magma - Fire damage.\nLost Izalith poison pit - Poison build-up and impaired movement.\nSen's Fortress tar pit - Impaired movement.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 12.125313797959544
+  },
+  {
+    "document_id": "e15862e1-6882-5d9d-a11f-e8c535d70e0b",
+    "title": "Quelana of Izalith",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Quelana of Izalith -  Dark Souls - character - plot \n plot : Upon meeting Quelana, she offers to teach the player pyromancy. After a while, she asks the player to defeat what is left of her corrupted sisters, Quelaag and the Daughter of Chaos, and the Bed of Chaos to free the consumed souls of her mother and sisters. Upon completing her requests, she gifts the player her final pyromancy: Fire Tempest.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 12.04529733169437
+  },
+  {
+    "document_id": "bb0b9198-344a-5653-b7ef-8fc3f07e11c3",
+    "title": "Demonic Statue",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Demonic Statue -  Dark Souls - enemy - location \n location : They are encountered in Demon Ruins and Lost Izalith.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 12.028985075634013
+  },
+  {
+    "document_id": "b53513e3-bb79-5a6f-b852-6ed7a14a1191",
+    "title": "Bluemoon Greatsword",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Bluemoon Greatsword -  Dark Souls II - weapon - description \n description : The blade of this greatsword shines like the brilliant rays of the moon. In the oldest legends, rarely spoken of today, it is said that the sword was born of a great white being.\n\nThen, what explains this lifeless weapon?\nPerhaps there has been some mistake...",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 11.804206123343652
+  },
+  {
+    "document_id": "a41cd970-8584-5639-97bf-b1ad2f7b5f41",
+    "title": "Royal Kite Shield",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "shield",
+    "snippet": "Royal Kite Shield -  Dark Souls II - shield - description \n description : A metal shield issued to knights.\n\nNothing special about this shield, which is precisely why it is so easy to use, and the likely reason for its popularity.\n\nPeople rarely agree over what constitutes quality, but the broad popularity of these shields proves that there are exceptions.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 11.803411748362603
+  },
+  {
+    "document_id": "4c5ba402-49df-5cbb-9165-957329770d79",
+    "title": "Milfanito",
+    "section": "dialogue",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "|-\n|*\"Is there anything wrong? Perhaps this will help.\n[Gives Smooth & Silky Stone × 1]*\nThis is all that we can do.\"*\n|-\n| scope=\"row\" rowspan=\"5\" style=\"width: 50px; background-color: #151515;\" |**Talk — Milfanito at the Shrine of the Living**\n|*\"Who are you... And what do you want from us?\"*\n|-\n|*\"Milfanito, that is what we are called. My name? Do you mean our name? We know nothing of the outside world...\"*\n|-\n|*\"We sing eternally for those who bear death and Dark within themselves. We have been here forever. We know nothing of the outside world, and we do not need to.\"*\n|-\n|*\"The little ones were born from the Great Dead One. And the Great Dead One taught us song. We have sung ever since. To comfort those bound by death and Dark. This is what we were taught.\"*\n|-\n|*\"Do you seek comfort too? You poor thing... Take this, at the very least.\n[Gives Petrified Something × 1]*\nThis is all that we can do.\"*\n|-",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 11.577876813968476
+  },
+  {
+    "document_id": "c5068f51-4699-5f01-b2ee-cca31f1e5d9e",
+    "title": "Critical attack",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Critical attack -  Dark Souls III - mechanic - lead \n lead : **Critical attacks** (also known as **critical hits** or just **criticals**) are a gameplay mechanic in *Dark Souls*, *Dark Souls II* and *Dark Souls III*. Critical attacks are performed in what is considered the most vulnerable areas of enemies. There are four types of critical attacks: backstabs, ripostes, headshots and plunging attacks.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 11.5664518316411
+  },
+  {
+    "document_id": "fc099ccf-4552-5058-9506-09990a140319",
+    "title": "Dungeon Cell Key",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Dungeon Cell Key -  Dark Souls - item - description \n description : Key to the dungeon of the Undead Asylum to the North.\n\nA mysterious knight, without saying a word, shoved a corpse down into the cell, and on its person was this key. Who was this knight? And what was his purpose? There may be no answer, but one must still forge ahead.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 11.408527064747013
+  },
+  {
+    "document_id": "bfc1bfce-c1ac-593f-8deb-5c7b1f6c5306",
+    "title": "Bounding Demon of Izalith",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bounding Demon of Izalith -  Dark Souls - enemy - description \n description : Bounding Demons are the decomposed bottom halves of immortal dragons still roaming the ruined city of Izalith. What looks to be a faceless head with horns was once part of a spine. Its legs remain mostly intact with half of its tail still useful for attacking. Even without proper sensory organs they are able to detect players when they venture too close.\n\nThe name comes from the Official Dark Souls Guidebook by FuturePress, although it isn't reflective of its internal name, which is instead ドラゴンゾンビ（下半身）which translates to \"Undead Dragon (Lower Body)\".",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 11.317770791009924
+  },
+  {
+    "document_id": "cec57d37-2cda-5cb2-bdc4-50dfc8532c72",
+    "title": "Llewellyn",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "It's unclear what became of the blacksmith after the fall of the kingdom, as he doesn't reside in Drangleic Castle anymore.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 11.302521421678621
+  },
+  {
+    "document_id": "4d00638d-52ca-5f47-b022-d5f56c1f5ae0",
+    "title": "Petrus of Thorolund",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "After the Capra Demon in the lower Undead Burg is defeated, Petrus is joined by Reah of Thorolund and two companions from the Thorolund Order (named Vince and Nico) in the Firelink Shrine. They are on a secret mission and will not talk much about what is going on. Once the game has been reloaded or the player leaves Firelink Shrine, the visitors will be gone and Petrus will not talk much about what happened.\n\nIf the player talks to Lautrec of Carim he will offer information to the player for souls based upon level. He tells the player about how the lady and two companions went down to The Catacombs and got attacked, while Petrus escaped and left the others behind. If the player talks to Petrus after this, he will tell his side of the story and about how the lady is left alone and her companions have been turned to hollow.\n\nTalking to Oswald of Carim will result in some implications and accusations against Petrus, claiming that his soul is drenched in sin.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 11.245442510622254
+  },
+  {
+    "document_id": "451ce827-1f39-5df4-8565-b5fd98c81509",
+    "title": "Titanite Demon",
+    "section": "locations",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Anor Londo — A Titanite Demon can be found on the floor above the bonfire where Solaire rests, across from the room with Drake trophy heads.\nLost Izalith — A Titanite Demon can be found on the bridge connecting the shortcut from the Demon Ruins to Lost Izalith. This particular demon is much stronger than the others. It is also the only one that respawns, making Lost Izalith the only place where Demon Titanite can be farmed. Unlike most respawning enemies, the Demon does not respawn after resting at a bonfire; the area must be reloaded, done by actions like warping with the Lordvessel or quitting and reloading.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 11.185308468113936
+  },
+  {
+    "document_id": "3f359ee9-b6a8-57d3-a27e-48f39565be45",
+    "title": "Herald Set",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "What is most peculiar of this set is that the cloth garments are not as reliable as the game states them to be, with the gloves and leggings both having terrible absorption in what they should protect more effectively against lightning and strike damage.\n\nIt is best to replace both of the gloves and leggings with a more suitable, protective choice in those slots, to help balance out the set's drawbacks more efficiently.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 11.155617252575675
+  },
+  {
+    "document_id": "d2f71e19-ae66-5f14-8abe-857f05577a4e",
+    "title": "Spirit (Dark Souls)",
+    "section": "appearance",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Spirit (Dark Souls) -  Dark Souls - mechanic - appearance \n appearance : Spirits appear as transparent light blue hollowed figures. They do not wear any armor and do not directly show what equipment that player was wearing. Instead what weapons they carry represent what class of weapon they actually have. Quivers and Bolt Quivers can also be seen if they are equipped. Spirits also ignore the aspects of character creation, and all use the *Average* body type, while all males are represented with the *Receding* hairstyle, and all females are represented with the *Ponytail A* hairstyle.\n\nWhile most of the time a spirit's appearance is left vague and undefined, their true form can be seen when they approach within range of a bonfire.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 11.127792581437458
+  },
+  {
+    "document_id": "7e502ba3-f558-520c-ad38-0431ef76970e",
+    "title": "Old Ones",
+    "section": "the_lost_sinner_witch_of_izalith",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Old Ones -  Dark Souls II - boss - the_lost_sinner_witch_of_izalith \n the_lost_sinner_witch_of_izalith : The Lost Sinner, wielder of the Old Witch Soul, is burdened by her past misdeeds. In the same manner, the Witch of Izalith attempted to recreate the First Flame using her Lord Soul, but instead created the Flame of Chaos. Other correlations that can be pointed are the creature similar to a Chaos Bug seen crawling into the eyehole of the Lost Sinner’s mask, her Handcuffs having the power to augment pyromancy and the phantoms of Pyromancers that aid her in battle in NG+.\n\nShalquoir comments \"Trying to light the First Flame\", and again it's hard to say if she's referring to the Sinner or the Witch possessing her.\n\nSecond Playthroughs and onward will cause the Lost Sinner to drop the Old Witch Soul.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.995544948030883
+  },
+  {
+    "document_id": "0dd93af1-e802-58a2-8f34-4c8ee9e67d4b",
+    "title": "Abyss",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - trivia \n trivia : Due to what was observed from Artorias, the phrase \"falling into the Abyss\" does not actually constitute entering it, but rather the near infinite and unconscious darkness of it seeking out lifeforms.\n**This likely means that Wolnir was very much alive when he fell, which explains how he was able to teach grave wardens his pyromancy, though what exactly it really was that actually caused his death is uncertain.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.950247412144877
+  },
+  {
+    "document_id": "12a24bda-71bf-5b8d-88cf-2d56a87fa8be",
+    "title": "Titanite Demon",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Titanite Demon -  Dark Souls - enemy - strategies \n strategies : Titanite Demons seem to be weak to Lightning, even though they wield it.\nRanged attacks work so long as the player takes cover behind indestructible debris or walls between shots. The Lost Izalith demon has no cover nearby, but it is possible to strafe between attacks since the lightning bolts do not track the player. Ranged attacks with long windup/cooldown between movement may not work, such as the Longbow.\nThe Lost Izalith demon can be sniped from the Demon Ruins side of the bridge by using a Greatbow and the Hawk Ring to stay out of the range of its attention. Aiming for the tip of its tail results in the greatest amount of damage, as well as staggering it occasionally. In the event that the player accidentally gets too close when firing, they can run for cover behind the walls on either side of the bridge and wait for the demon to lose interest.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.923864438813474
+  },
+  {
+    "document_id": "72427777-20bc-5ce5-99c4-7bf0eff6e773",
+    "title": "Royal Sorcerer Navlaan",
+    "section": "dialogue",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "|-\n| scope=\"row\" rowspan=\"2\" style=\"width: 50px; background-color: #151515;\" |**Talk**\n|*\"This? This contains my power. Long ago...This...naive vessel of mine set about devising new spells. The fool dreamt of bringing new forms of magic into the world. But instead, he created me. Mostly by chance, but he did a fine job, I must say. What he sought was strength. And so, I decided to demonstrate. While my vessel slept, I'd find my mark, and hunt him down. But my vessel did not approve. And so while I slept, he sealed the both of us away.\"*\n|-\n|*\"Now, I don't have anything against humans, but how is it that you go about defining good and evil? I'm only using what the Gods gave me. How can that be so wrong? So, what say you to a spot of murder on my behalf? If you don't, I'll leave this place, and take more lives. Many more. I couldn't give a fig either way. So, what's your choice?\"*\n|-",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.883605791696063
+  },
+  {
+    "document_id": "87616aec-f4c7-5cfb-81d1-431f4b135c8b",
+    "title": "Valorheart",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Valorheart -  Dark Souls III - weapon - trivia \n trivia : The Valorheart's design is based on the Greek *xiphos* and *aspis*, and its moveset resembles what would be used by a hoplite.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.867713804113464
+  },
+  {
+    "document_id": "f6858934-38cc-5ded-afd0-75318f4237b1",
+    "title": "Yhorm the Giant",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "It is possible to theorize that the event in which the Profaned Flame went out of control, destroying the Profaned Capital, was the result of a Court Sorcerers ritual gone awry. In fact, these sorcerers did not care about their creations even when they were as dangerous as the dark flame, continuing to live as if nothing had happened, driven by an unethical and unruly pursuit of knowledge. In addition, the only survivors of the destruction of the city are a noble court sorcerer and the handmaids, possibly in the noble's service, implying that someone had somehow managed to avoid being devoured by the flame. Furthermore, the detail of the Profaned Flame \"falling\" from the sky and devouring only human beings implies an unnatural event in which the flame was not in its previous controlled conditions but was activated toward human targets.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.817933795568749
+  },
+  {
+    "document_id": "7cb287f4-d6b7-591f-91d1-9489fa672a01",
+    "title": "Upgrade Materials",
+    "section": "locations_6",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Upgrade Materials -  Dark Souls - item - locations_6 \n locations_6 : Trade Snuggly the Crow an unupgraded Pyromancy Flame for 1 Red Titanite Chunk\nFeed Kingseeker Frampt: one Red Titanite Slab for 2 Red Titanite Chunks\nBurrowing Rockworms in Demon Ruins (5% drop)\nChaos Eaters in Lost Izalith (10% drop)\nChaos Bugs at the Lost Izalith shortcut (0.5% drop)\nBlack Knights in the Northern Undead Asylum (100% drop)\nBlack Knight (greatsword) in Kiln of the First Flame (100% drop)\nA total of 2 can be found on corpses in Lost Izalith\nA total of 2 can be found on corpses in The Great Hollow\nPotential loot from a Black Phantom Good Vagrant",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.80149237299679
+  },
+  {
+    "document_id": "e2b34274-562a-5060-8957-414fbab3018f",
+    "title": "Izalith Catalyst",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Izalith Catalyst -  Dark Souls - weapon - trivia \n trivia : The original Japanese description for the Izalith Catalyst is \"呪術はまだ生まれておらず 彼女たちの杖も魔術の触媒であったが その炎の魔術は完全に失われてしまった\".\nA more accurate translation of this description would be \"Pyromancy was yet to be born, so their staves were catalysts for sorceries, but these flame sorceries have been completely lost\".",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.740200076968556
+  },
+  {
+    "document_id": "e9c3ea5d-9923-56bd-8181-3cd2c477052b",
+    "title": "Vitality (Dark Souls)",
+    "section": "stat_development",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Vitality (Dark Souls) -  Dark Souls - mechanic - stat_development \n stat_development : The following is a table of what the maximum HP the player will have at each level of vitality.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.716739286168512
+  },
+  {
+    "document_id": "ca86a250-a0a7-557e-a3d2-dfe431dfca35",
+    "title": "Wolnir's Crown",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Wolnir's Crown -  Dark Souls III - armor - notes \n notes : Contrary to what one would expect from a unique boss armor piece, the crown does not grant any special abilities.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.624863388166823
+  },
+  {
+    "document_id": "165490d4-4698-5d3b-9bf5-979a333a016e",
+    "title": "Lost Sinner",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Lost Sinner -  Dark Souls II - boss - lore \n lore : The Lost Sinner is a forgotten entity who imprisoned herself for unknown sins committed long ago. Donning the Penal Set, she lives in constant agony and shame. The true nature of her weapon is unknown, even to the Lost Sinner herself. Those who choose this sword will share the burden of the Lost Sinner's misdeeds.\n\nJust like the other Old Ones, the Lost Sinner is possessed by one of the great lords of Lordran, specifically the Witch of Izalith, as suggested by the Chaos Bug from Lost Izalith in *Dark Souls* and the Old Witch Soul she drops in NG+ (which can also be traded for a Chaos Blade), as well as having Pyromancers assist her in battle. Additionally, equipping the Penal Handcuffs enhances pyromancies.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.613248647755297
+  },
+  {
+    "document_id": "9ea10e28-a1be-5c9b-a325-4deaffc0fac5",
+    "title": "Darkmoon Longbow",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "At its maximum potential, the Darkmoon Longbow can inflict very strong damage against foes at long range, comparable to what a Greatbow can deal if it can land a headshot.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.519742478488656
+  },
+  {
+    "document_id": "97d8353c-35f8-5a1d-afa7-c5d5cec531ee",
+    "title": "Antiquated Key",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "shield",
+    "snippet": "Antiquated Key -  Dark Souls II - shield - description \n description : This key is very old, but in very good condition, such that it should still function.\n\nOnly, what lock does this key fit?",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.506756987728044
+  },
+  {
+    "document_id": "e4f6249b-fdc0-57b1-bcb8-69008378ad72",
+    "title": "Carthus of the Sands",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Carthus of the Sands -  Dark Souls III - location - lead \n lead : is a mentioned location in *Dark Souls III*. What the player passes through are only the catacombs of the ancient kingdom.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.506756987728044
+  },
+  {
+    "document_id": "adcba18f-bc3e-5201-80c6-d73190a9c6ff",
+    "title": "Titanite Catch Pole",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Titanite Catch Pole -  Dark Souls - weapon - availability \n availability : 2% drop from Titanite Demons that are found throughout Lordran. A respawning one is located at the Lost Izalith shortcut.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.4666609069574
+  },
+  {
+    "document_id": "b43e265f-93d7-53da-9d28-e2b44e3ba263",
+    "title": "Sunlight Maggot",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Sunlight Maggot -  Dark Souls - armor - availability \n availability : The Sunlight Maggot is obtained as a drop from the red-eyed Chaos Bug, a unique mob that is found past the shortcut door separating the Demon Ruins from Lost Izalith (opening the door requires the player to have reached Rank 2 in the Chaos Servant covenant) or by going behind the Titanite Demon in Lost Izalith. There are total of nine Chaos Bugs on both sides of the shortcut door. The Sunlight Maggot can only be obtained once per playthrough, since the red-eyed Chaos Bug will not respawn.\n\nIt can also be obtained by killing Solaire of Astora if the red-eyed Chaos Bug has not been killed before speaking to him after killing the Centipede Demon.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.386625761952919
+  },
+  {
+    "document_id": "af6b98e8-6342-5c84-ae14-f28237c422df",
+    "title": "Archive Tower Cell Key",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Archive Tower Cell Key -  Dark Souls - item - description \n description : Key to the cell of the Duke's Archive Tower.\n\nThe Archive Tower, once a trove of precious tomes and letters, became a prison after the onset of Seath's madness. The serpent men who guard the prison know not the value of what they hide. In the basement of the tower are the writhing \"mistakes\" of the terrifying experiments which were conducted there.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.319929113496551
+  },
+  {
+    "document_id": "fb0d6a76-3ac6-5e5a-824b-89e92b716522",
+    "title": "Champion's Bones",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Champion's Bones -  Dark Souls III - item - description \n description : The charred but warm bones of a champion.\n\nLong ago, an Undead declared a fight. A fight to celebrate their undeath, and so to preserve what remained of their souls. So it was that the Undead Matches were born. The merit of an Undead is measured in deaths. Could there be a greater gift for such a creature, than a fight that has no end?",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.3121698921118
+  },
+  {
+    "document_id": "e961b5ca-e77a-5310-91c4-e9b9bcb0a3ef",
+    "title": "Ammunition (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Ammunition (Dark Souls II) -  Dark Souls II - item - lead \n lead : Ammunition are a class of items in Dark Souls II. They are divided by what weapons use them, these being Bows, Crossbows and Greatbows.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.306093413206163
+  },
+  {
+    "document_id": "9290cbbc-55bd-5875-a88b-776b77599047",
+    "title": "Demon Titanite",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Demon Titanite -  Dark Souls - item - availability \n availability : A total of 16 Demon Titanites can be obtained in a single playthrough without farming.\nDropped by Titanite Demons. A respawning demon can be found on the shortcut path between Demon Ruins and Lost Izalith; Rank +2 in the Chaos Servant covenant is not needed to reach it, as the demon can be encountered on the Lost Izalith side of the shortcut path (however, it is a *lot* easier to farm if the shortcut is opened). Most Titanite Demons drop one Demon Titanite, but those found in Anor Londo and Lost Izalith drop two each.\nTwo per playthrough can be obtained from Snuggly the Crow by trading one Dung Pie and one Prism Stone.\nA total of five can be found in chests scattered throughout Anor Londo.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.276415495213318
+  },
+  {
+    "document_id": "86198d92-70c9-5b95-bfd0-6c60d535edc4",
+    "title": "Rosabeth of Melfia",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Thankfully for her, the Bearer of the Curse would find and release her from her horrible state with a Fragrant Branch of Yore. She will be extremely grateful for their help, though greatly embarrassed due to the state of her attire. After a change of clothing provided by her benefactor, she'll move to Majula, in hopes of meeting up with her teacher there. She will begin to wonder if Carhillion hadn't simply ditched her after she first lost track of him, though in truth the old master hoped she was safe and wondered where she disappeared to.\n\nEven should they reunite in Majula, Rosabeth will decide to practice on her own, wishing to see what she can achieve by herself.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.136013687588143
+  },
+  {
+    "document_id": "70e88a72-455d-5f08-b2ad-12e89ae83b69",
+    "title": "Blood Stained Skirt (Dark Souls II)",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Blood Stained Skirt (Dark Souls II) -  Dark Souls II - armor - description \n description : An unassuming dingy skirt.\nOriginally pure white.\n\nA close inspection reveals old dried blood.\nWhat tragedy could have befallen its original owner?",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.119267999514776
+  },
+  {
+    "document_id": "ccfa52f2-ed81-53b7-bca7-ffbe999934e9",
+    "title": "Soul",
+    "section": "gathering_souls",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Soul -  Dark Souls - mechanic - gathering_souls \n gathering_souls : Souls are gained by doing the following:\n\n1. Slaying enemies\nBosses\nUndead\nOther players, whether phantoms or masters of the world\n2. Feeding items to Kingseeker Frampt\nThe “Lost Undead” soul items contain fewer souls than what Frampt offers if they are fed to him.\nBoss souls from female bosses can be fed to Frampt for more than the amount obtained if the player consumes them.\n3. Consuming items that give souls",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.075196383568388
+  },
+  {
+    "document_id": "8cb21e09-d3fd-50aa-988c-b1a97483a965",
+    "title": "Red Rust Sword",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Red Rust Sword -  Dark Souls II - weapon - characteristics \n characteristics : What makes the Red Rust Sword unique is that its entire moveset is that of an axe, (apparently due to its weight as mentioned in its description).",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.046075978168929
+  },
+  {
+    "document_id": "eeb65db1-76c7-5679-8ac2-8b5a91b55b2b",
+    "title": "Petrified Egg",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Petrified Egg -  Dark Souls II - item - description \n description : A large petrified egg. Surely bears no life.\n\nEggs are vessels that harbor life itself, and symbolize the deepest secrets of existence. But what does a petrified egg harbor?",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.020005852278786
+  },
+  {
+    "document_id": "c0d40cb5-48fd-509e-a738-1636fb67bc49",
+    "title": "Gods Grave",
+    "section": "environment",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Gods Grave -  Dark Souls III - mechanic - environment \n environment : While having no textures or objects, rudimentary level geometry contained in the map data for Dark Souls 3 resembles the Catacombs from Dark Souls 1 and/or the section of Lost Izalith containing the Bed of Chaos. Despite no assets pertaining to the area itself, references to the area are found in data strings within objects that were later used within the Ringed City: the gravestones located in the first section of the Ringed City that block arrows from the archers, and strange pots which have roots growing out of them.\n\nThis being said, it is known that the top half of the area was in a forest, for standard trees present in various areas of the final game are also present here.\n\nWhat was in the bottom half of the area is still unknown.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 9.984750365327997
+  },
+  {
+    "document_id": "38952316-69d5-5868-a69a-9758a96bc9f4",
+    "title": "Londor",
+    "section": "organization",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Londor -  Dark Souls III - location - organization \n organization : Elfriede, as the eldest sister, became the leader of the organization. There being three founding sisters ensured that their legacy would survive in the event of any one's demise, each sister able to carry on their mission and ensure that the Dark Lord would one day emerge.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 9.958240027608241
+  },
+  {
+    "document_id": "212c6ba6-a4fd-534f-bf3b-1e63d108d63c",
+    "title": "Speckled Stoneplate Ring",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Speckled Stoneplate Ring -  Dark Souls - ring - availability \n availability : Drop from Siegmeyer of Catarina.\nGift from Siegmeyer if the player kills the Chaos Eaters in Lost Izalith before he jumps down to fight them.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 9.875463312243177
+  },
+  {
+    "document_id": "6a273e68-cccb-5c4d-b278-671c21384b08",
+    "title": "Fire (damage type)",
+    "section": "environmental_hazards",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Fire (damage type) -  Dark Souls - mechanic - environmental_hazards \n environmental_hazards : Fire Damage can also be encountered in the environment, such as in the Demon Ruins and Lost Izalith. Safe traversal requires the Orange Charred Ring.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 9.87432579530996
+  },
+  {
+    "document_id": "4124fe87-f342-5149-a893-1d4c89498c37",
+    "title": "Sieglinde of Catarina",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "***Firelink Shrine #2**: She can be talked to there again after you save Siegmeyer in Lost Izalith (see his page for more information on progression of his questline).\n***Ash Lake**: After you talk to her in Firelink Shrine the second time, she will be last found in Ash Lake, at the first bonfire. (If you didn't talk to Sieglinde at the Firelink Shrine *before* saving Siegmeyer, you simply have to talk to her there twice, exiting the location or reloading the game to trigger the second dialogue. Only after that she'll appear at Ash Lake.)",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 9.79108659989355
+  },
+  {
+    "document_id": "7892e122-b26b-55d3-bb9b-15050e492b53",
+    "title": "Greirat's Ashes",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Greirat's Ashes -  Dark Souls III - item - usage \n usage : Give to the Shrine Handmaid to expand her inventory to include items that Greirat was selling upon death, as well as what his next pillaging journey would have yielded.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 9.74816652822639
+  },
+  {
+    "document_id": "826e4bc6-8d14-5aa6-af65-127d9eba78d2",
+    "title": "Havel's Armor",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Havel's Armor -  Dark Souls - armor - availability \n availability : Found in a chest, in a basement hidden behind an illusory wall in Anor Londo. The wall is the blocked off opening to what looks like an old fenced off fireplace.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 9.743134500756131
+  },
+  {
+    "document_id": "91c06742-1eac-5f15-a6bc-b4c96acaa209",
+    "title": "Black Knight",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Black Knight -  Dark Souls - enemy - trivia \n trivia : In *Dark Souls: The Age of Fire*, it is revealed that the Black Knight in the Northern Undead Asylum is actually what remains of the protagonist of the comic series, Silver Knight Arkon.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 9.685617108054121
+  },
+  {
+    "document_id": "59397bd4-4285-58bc-825a-9839dc79fbe4",
+    "title": "Bed of Chaos",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Another common strategy is to summon one or two phantoms and position both next to each orb, with the host out of reach of the Bed of Chaos' arm sweeps, but in a direct line towards the entrance to the core. After both phantoms break the orbs, the host can then head to the entrance of its mouth and kill the boss.\nA simple solo strategy involves \"corpse-running\" to the fog door and then running to each orb and then to the Bed of Chaos itself. Some players prefer to stay hollowed so that humanity is not wasted, since many deaths may follow after the first orb breaks.\nPlayers with a high number of Humanities or souls may be interested in investing in some Rings of Sacrifice.\nThe chaos scythe/fire pick(s) attacks will almost always miss unless the player stays in one spot for too long.\nIts bug-like core is immune to fire damage.\nIt is possible to make the Bed of Chaos's arm push the player towards the branch that leads to the core.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6037d0a3-bd1c-5502-aafc-46efd9562b49",
+    "title": "Bed of Chaos",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "The greatest concerns to the player over the encounter will be dealing with the boss' broad, sweeping attacks and the large, bottomless holes that open in different parts of the arena.\nOnce both roots have been cut, the player must reach the boss' heart to access and kill the Chaos Bug, however it is important to be aware that directly in front of the boss is a large bottomless hole. The primary way across is a wide branch that runs from the boss toward where the encounter begins, just below the height of the floor.\nA relatively safe method of dealing with both attacks and holes is to hug the walls around the outside of the arena, on the ledges behind the holes and out of reach of the boss (though, not the Volcanic Chaos attack, see below). From here, the player may sprint and jump to cross the holes and reach the orbs if their weight is low enough, or attack the branches and roots from range with magic or a bow.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8acad408-595d-5a2d-a197-db0200146f04",
+    "title": "Bed of Chaos",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Bed of Chaos -  Dark Souls - boss - strategy \n strategy : Unlike most boss encounters, the goal here is not to whittle away the boss's health, but to strike at three vulnerable nodes. Thus, the difficulty in defeating this boss mostly lies in discovering the points to strike while avoiding being knocked in a hole rather than in defeating the boss via conventional methods.\nThe vulnerable nodes are two roots within glowing spheres, visible to the right and left of the boss at the start of the encounter, and the Chaos Bug within this boss' heart. Striking the roots expands the boss' list of available attacks and 'unlocks' access to the boss' heart.\nIt is also noteworthy that progress made in damaging one or both of the roots does not reset upon the player's death, allowing repeated attempts at the boss to add incremental progress to the encounter.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8cc33d20-f2d2-5595-af3f-e55b4afb26f2",
+    "title": "Bed of Chaos",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Bed of Chaos -  Dark Souls - boss - trivia \n trivia : In internal game files, the Bed of Chaos is referred to as \"King Izalith\" ().",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cb747a48-6c28-5814-913d-ced72c6b1e67",
+    "title": "Bed of Chaos",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Its bug-like core is immune to fire damage.\nIt is possible to make the Bed of Chaos's arm push the player towards the branch that leads to the core.\nMagic Shield and Strong Magic Shield can be extremely useful against Bed of Chaos, as they can easily block both the scythe and swiping attack with a medium shield without breaking player's guard. This creates a relatively long opening and player can use the remaining stamina to quickly run towards the heart/orb and deal the fatal blow. Lingering Dragoncrest Ring is recommended to counter the short duration of both spells.\nOne last potential strategy involves the use of shields with high stability. By two-handing a shield such as Havel's Greatshield, and with sufficient Stamina, a player can become almost completely immune to both the damage and knockback effects of the Bed of Chaos's sweeping attacks.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f2be6def-503f-5ffe-875f-4a2ce1d4dd8d",
+    "title": "Bed of Chaos",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Bed of Chaos -  Dark Souls - boss - attacks \n attacks : {'name': 'Flame Aura', 'description': 'Used if the player lingers at the mouth of the Tree Beast without going inside. The Fire Aspect crosses its arms and then swings them open after a distinctive shriek, engulfing the entire area in fire. Hits multiple times.'}",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0b8cf157-4452-5771-b924-2bda9ed1f064",
+    "title": "Chaos (mechanic)",
+    "section": "pyromancy",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Chaos (mechanic) -  Dark Souls - mechanic - pyromancy \n pyromancy : Chaos pyromancies leave behind pools of lava on the point of impact, which deal an additional 33% of the initial damage as a second hit.\nGreat Chaos Fireball\nChaos Storm\nChaos Fire Whip\n\nChaos pyromancies do not scale with humanity. Pyromancies can only be improved by upgrading and ascending the Pyromancy Flame used to cast them.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "552f33ee-71ac-5355-be07-c8f8765baa6e",
+    "title": "Chaos (mechanic)",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Chaos (mechanic) -  Dark Souls - mechanic - general_information \n general_information : Chaos is an effect possessed by specific weapons, that can be attained by either upgrading a weapon down the Chaos Upgrade Path or using one that is innately imbued.\n\nAscension is achieved through Vamos, a Fire +5 Weapon, and the Chaos Flame Ember.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "66ab6c2e-7c02-54e0-b495-e0a21cab465b",
+    "title": "Chaos (mechanic)",
+    "section": "see_also",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Chaos (mechanic) -  Dark Souls - mechanic - see_also \n see_also : Chaos (upgrade path)",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c6322925-2c77-5d99-88e8-58c144afbe67",
+    "title": "Chaos (mechanic)",
+    "section": "weapons",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Chaos (mechanic) -  Dark Souls - mechanic - weapons \n weapons : The following is a list of weapons that are innately imbued with the Chaos mechanic.\nChaos Blade\nQuelaag's Furysword\nAbyss Greatsword\n\nThe following is a list of weapons that were created by chaos demons but do not have the Chaos mechanic.\nDemon's Catalyst\nDemon's Great Hammer\nDemon's Greataxe\nDemon's Spear",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d488d48a-db7a-5f6e-b73b-dd32b0725a69",
+    "title": "Chaos (mechanic)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Chaos (mechanic) -  Dark Souls - mechanic - lead \n lead : **Chaos** is a gameplay mechanic in *Dark Souls*.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dc7cdd7b-4f1c-505e-b264-11511984948a",
+    "title": "Chaos (mechanic)",
+    "section": "effects",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Chaos (mechanic) -  Dark Souls - mechanic - effects \n effects : Chaos weapons inherit the nature of the Chaos Flame. The Chaos aspect adds Fire Damage to a weapon, but removes all stat scaling bonuses. Instead, Chaos weapons scale with humanity (up to 10).",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7f5ee6c0-5fa3-5941-8180-8c093120ab2c",
+    "title": "Chaos (upgrade path)",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Chaos (upgrade path) -  Dark Souls - mechanic - general_information \n general_information : The Chaos path adds Fire Damage to a weapon, but removes all stat scaling bonuses. This makes it a good choice for lower levels. However, Chaos cannot be augmented. This, along with the lack of stat scaling, ultimately means that Chaos weapons have an inferior damage potential in the long run.\n\nUniquely for weapon upgrade paths, the Chaos path scales with humanity (up to 10). At 10 humanity, Chaos weapons are superior to Fire weapons (and, indeed, nearly all the other weapon paths in terms of raw damage) that are upgraded to the same level. However, they are inferior if the player is lacking in liquid humanity.\n\nCompared with Lightning weapons, Chaos weapons with optimal humanity deal more damage against unprotected foes; however, as most enemies possess more Flame than Lightning Defense, Lightning weapons are often a better choice.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "86ebaf13-282c-5c68-adaf-2efd0ec9af4e",
+    "title": "Chaos (upgrade path)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Chaos (upgrade path) -  Dark Souls - mechanic - lead \n lead : **Chaos** is an upgrade path in *Dark Souls*.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "edd6142b-9275-53d3-96f1-67b5f90a506c",
+    "title": "Chaos (upgrade path)",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Chaos (upgrade path) -  Dark Souls - mechanic - availability \n availability : Vamos gains the ability to ascend weapons down the Chaos path after receiving the Chaos Flame Ember. Creation of a Chaos weapon requires a +5 Fire weapon (which in turn requires a standard weapon +5), Red Titanite Chunks for upgrading to +4 and a Red Titanite Slab for upgrading to +5, as well as the requisite souls.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2f630a4e-36e3-5f7d-a3f4-1ea63e453763",
+    "title": "Chaos Bed Vestiges",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Chaos Bed Vestiges -  Dark Souls III - spell - effect \n effect : The caster quickly conjures a fragment of the Bed of Chaos and throws it at the target; the casting time is very short and the resulting projectile travels extremely quickly. Targets hit directly by the projectile or the explosion upon impact will take 3.4 times the Spell Buff of the catalyst as Fire damage. If they are merely scorched by the projectile's corona as it passes them, they will take only 1.1 times the Spell Buff of the catalyst as Fire damage, and will not be staggered.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3ccc0da9-56a9-5ec4-bd17-21a73e5ad4d0",
+    "title": "Chaos Bed Vestiges",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Chaos Bed Vestiges -  Dark Souls III - spell - usage \n usage : If this spell hits directly, it causes great damage; excluding the lava pool produced by Great Chaos Fire Orb, this spell is the most powerful direct-damage pyromancy in the game. While both Great Chaos Fire Orb and Seething Chaos can deal more damage under optimal circumstances, enemies can move away from the lava pool left by Great Chaos Fire Orb, and Seething Chaos requires manipulation and timing in order to deal the most damage.\n\nUnlike its predecessor, Chaos Bed Vestiges does not leave a lava pool, has less range and will begin to arc after a shorter distance (approximately slightly longer than Fire Orb). However, it is easier to reach enemies at higher elevations with this spell than it is with the various \"fireball\" spells. As well, like its predecessor, its extremely short cast time and fast travel speed allows players to use this spell to quickly punish enemies' openings.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "78cdbd91-d4ff-5723-9c20-df1e040f16d8",
+    "title": "Chaos Bed Vestiges",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Chaos Bed Vestiges -  Dark Souls III - spell - availability \n availability : Obtained by transposing the Soul of the Old Demon King with Ludleth of Courland for 5,000 souls.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "958db941-9a33-54da-85cd-375a48e1a15e",
+    "title": "Chaos Bed Vestiges",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Chaos Bed Vestiges -  Dark Souls III - spell - lead \n lead : **Chaos Bed Vestiges** is a soul-transposed pyromancy in *Dark Souls III*.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c12f3212-9abf-5f22-abcf-cc8f60ba295d",
+    "title": "Chaos Bed Vestiges",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Chaos Bed Vestiges -  Dark Souls III - spell - description \n description : Traces of the tumultuous seedbed that birthed the beings known as Demons.\n\nHurls chaos flame that scorches vicinity.\n\nDemons born from fire bore its smoldering essence and perished soon after. Man shares this rapport with the flames to this day.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "04fd6ae7-fcd7-5eef-87c2-6b7b7c71fc92",
+    "title": "Chaos Blade",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "The self-damage of Chaos Blade can be partially mitigated by equipping the Ring of the Evil Eye or by casting a heal-over-time Miracle like Replenishment. Chaos Blade does not damage its wielder if it does not hit anything. However, it still deals damage to its wielder if the player swings at an enemy during their dying animation. This is especially noticeable on large enemies with slow dying animations.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "202f2501-e6ee-58bf-bbe0-fba0d6c3f0d9",
+    "title": "Chaos Blade",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Chaos Blade -  Dark Souls - weapon - lead \n lead : The **Chaos Blade** is a katana in *Dark Souls*.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3f70815c-7d4c-5788-a27d-17730fd49ce7",
+    "title": "Chaos Blade",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Chaos Blade -  Dark Souls - weapon - characteristics \n characteristics : The Chaos Blade drains 20 HP from its wielder with each successful attack, making it one of the only weapons that can kill its wielder. However, as it scales well with Dexterity as well as with Humanity due to the Chaos mechanic, it is capable of inflicting extreme amounts of damage to make up for this weakness.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4f155398-1860-5838-ab5d-1295b65cde7c",
+    "title": "Chaos Blade",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Chaos Blade -  Dark Souls - weapon - trivia \n trivia : The Chaos Blade is based on the Hiltless/Gripless from *Demon's Souls*, which also drained users' HP upon damaging its foe and had an Uchigatana-like moveset.\n**The unique two-handed strong attack for the Chaos Blade is identical to the two-handed strong attack for the katana weapon class from *Demon's Souls*.\nDuring development, the Chaos Blade was going to be part of a side story involving Shiva of the East, but was cut from the final game. The scrapped story arc was based on one in *Demon's Souls*, in which Satsuki would ask the player to search for the Magic Sword \"Makoto\", and then attack the player with it upon obtaining the weapon.\nThe Chaos Blade, and its other variants, is the only occurrence of \"Chaos\" in the entire series that doesn't deal fire damage.\nThe Chaos Blade resembles a *[https://en.wikipedia.org/wiki/Tachi tachi]*, which has a longer and more curved blade than a standard katana.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "603d9ba2-2620-52ab-848b-ac6f754c9c4b",
+    "title": "Chaos Blade",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Chaos Blade -  Dark Souls - weapon - availability \n availability : The Chaos Blade is forged at the Giant Blacksmith in Anor Londo from the Soul of Quelaag and a katana, such as the Iaito or Uchigatana, that has been upgraded to +10.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "799c4d9c-c430-5d8b-8d34-a02229c70dd0",
+    "title": "Chaos Blade",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Chaos Blade -  Dark Souls - weapon - description \n description : A curved sword born from the soul of Quelaag, daughter of the Witch of Izalith, who was transformed into a chaos demon. This blade inherits only the chaotic nature of Quelaag, and has a unique speckled design. Blade wielder erodes along with opponents.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "82081816-fbdd-5337-827d-b9498a0bf793",
+    "title": "Chaos Blade",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "The Chaos Blade has the potential for the highest physical damage of the Katanas, with easily the highest Physical damage per second with 10 Humanity and 40 Dexterity at around 450 damage per hit. Do not confuse this with this sword being capable of dealing the most damage of any Katana overall. It causes more Bleed build up than other katanas (36 compared to the default 33 of other katanas). It also has the highest durability of any Katanas, having 50% more than both the Uchigatana and Iaito and twice the amount of the Washing Pole. Like most boss weapons, the Chaos Blade cannot be enchanted by spells or consumables, which lowers its overall damage potential.\n\nIn practice, the Chaos Blade is arguably the best Katana for players who don't mind the feedback damage and do not have access to weapon buffs as long as the player can keep up with the requirement of 10 held Humanity to keep full damage, if not Uchi or Iaito would be a better choice.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "90f8d4eb-d2a3-51ba-94fe-07c76f8dca99",
+    "title": "Chaos Blade",
+    "section": "scaling_percentages",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Chaos Blade -  Dark Souls - weapon - scaling_percentages \n scaling_percentages : ***Strength - 0%**\n***Dexterity - 85%**\n***Intelligence - 0%**\n***Faith - 0%**",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6993b2df-b767-50b8-830b-ce6173e36c10",
+    "title": "Chaos Blade (Dark Souls II)",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Chaos Blade (Dark Souls II) -  Dark Souls II - weapon - availability \n availability : The Chaos Blade can be obtained after trading the Old Witch Soul with Weaponsmith Ornifex for 10,000 souls. To obtain the soul, the player must defeat the Lost Sinner in NG+.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "98fe6492-54ec-503f-9093-e01177935698",
+    "title": "Chaos Blade (Dark Souls II)",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Chaos Blade (Dark Souls II) -  Dark Souls II - weapon - notes \n notes : The self-damage will not activate when landing critical hits, such as backstabs or ripostes. It will, however, activate when striking breakable objects in the world.\nThe self-damage cannot be used to activate the effects of the Old Sun Ring and the Ring of Thorns as they require hits that cause durability damage to them.\nCan be used as a rather unorthodox method of activating the Tearstone Rings.\nThe damage dealt to the wielder is always 50 HP and cannot be altered by any means.\nUpon upgrading the Chaos Blade, the B scaling with Dexterity changes to an S.\nThe effect of the weapon can be somewhat offset through the use of passive healing sources, such as the Ring of the Evil Eye, Ring of Restoration or the Replenishment miracle.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9f3e17cc-7d22-5ab0-8b07-6214630e64a6",
+    "title": "Chaos Blade (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Chaos Blade (Dark Souls II) -  Dark Souls II - weapon - lead \n lead : The **Chaos Blade** is a katana in *Dark Souls II*.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a4351818-225b-55a6-93dd-993330fbf57f",
+    "title": "Chaos Blade (Dark Souls II)",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Chaos Blade (Dark Souls II) -  Dark Souls II - weapon - characteristics \n characteristics : Much like its original counterpart, the Chaos Blade drains health from its wielder with every successful hit. However, it deals very high damage with each swing, making it a popular choice for PvP or against tougher enemies. The two-handed strong attacks, if they connect, can inflict devastating amounts of damage in the blink of an eye, especially if the weapon is buffed with either resins or spells. It also possesses the highest durability of any katana, though still below average when compared to other weapon classes.\n\nThe high damage, along with its ability to be infused and augmented, means that the Chaos Blade can be used for almost any build, providing the high Dexterity requirement and self-damage are not too off-putting.\n\nThe Chaos Blade has the highest counter strength of all available katanas, on par with the Lances.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f4fa319d-ac05-5fc2-8a6c-7f595d411260",
+    "title": "Chaos Blade (Dark Souls II)",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "The effect of the weapon can be somewhat offset through the use of passive healing sources, such as the Ring of the Evil Eye, Ring of Restoration or the Replenishment miracle.\nInfusing the Chaos Blade with an elemental type (Fire, Magic, Lightning, or Dark) will split the damage evenly, meaning both the physical attack and the attack of the element chosen will be equal to each other. This can be both positive and negative, as the lower physical damage will result in enemies sustaining less damage if they are resistant to the element of choice. However, buffing the weapon with a spell that complements the secondary damage type (i.e. using Sunlight Blade on a Lightning Chaos Blade) will result in a much more formidable weapon for the duration of the effect.\nHitting an opponent while they are invulnerable, such as when rolling or interacting with certain objects, will still activate the self-damage.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fa247fb9-e52a-5dcc-820e-c40d7aa857ed",
+    "title": "Chaos Blade (Dark Souls II)",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Chaos Blade (Dark Souls II) -  Dark Souls II - weapon - description \n description : A katana of unknown origin. Damage to foes also damages its owner.\n\nThe peculiar pattern upon the blade suggests the sinister nature of this cursed blade. It is an alluring vortex, and a lonely soul.\n\nEffect: attacks also damage the player.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fd93a566-51cd-54e0-a938-84fcb9f95956",
+    "title": "Chaos Blade (Dark Souls II)",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Chaos Blade (Dark Souls II) -  Dark Souls II - weapon - trivia \n trivia : The Chaos Blade, and its other variants, is the only occurrence of \"Chaos\" in the entire *Souls* series that does not deal fire damage.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "22188693-b551-5e22-8908-9286fb5960d1",
+    "title": "Chaos Blade (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Chaos Blade (Dark Souls III) -  Dark Souls III - weapon - lead \n lead : The **Chaos Blade** is a katana in *Dark Souls III*.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7364f5e2-0ee3-5253-b891-209df8740c4b",
+    "title": "Chaos Blade (Dark Souls III)",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "However, the Chaos Blade damages the wielder for slightly more than 1% of their maximum health every time they hit an opponent. This damage can kill the wielder and is not affected by the wielder's defenses or the damage dealt to the target, and will occur even if the target did not take damage from the strike, such as if they blocked or rolled through it. In longer fights, the extra damage taken on top of the opponent's own damage can result in otherwise avoidable deaths if the wielder doesn't manage their health carefully. Equipment such as the Ring of the Evil Eye, Sun Princess Ring, or an off-hand weapon infused with a Blessed Gem, can help with off-setting this damage. Additionally, the weapon cannot be buffed or infused in any way, meaning some specialized builds will be able to gain more benefit from using other katanas.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "97f03113-50bf-538f-aebf-56b19731e459",
+    "title": "Chaos Blade (Dark Souls III)",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Chaos Blade (Dark Souls III) -  Dark Souls III - weapon - characteristics \n characteristics : The Chaos Blade provides excellent base damage, Dexterity scaling and reach, emphasizing the natural strengths of the katana class. It provides this with modest stat requirements and a standard katana moveset. At high levels of dexterity its physical damage is only outperformed by the Frayed Blade and the buffed Bloodlust.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9cbd81da-d600-5e96-901b-d2805415f6b6",
+    "title": "Chaos Blade (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Chaos Blade (Dark Souls III) -  Dark Souls III - weapon - description \n description : A cursed sword of unknown origin bearing uncanny streaks on its blade.\n\nAttacks also damage its wielder.\n\nThe sword is not unlike a thing misshapen, granted life, but never welcome in this world. In other words, chaos itself.\n\nSkill: Hold\nAssume a holding stance to rapidly execute a lunging slash with normal attack, or a deflecting parry with strong attack.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f1c8314f-532c-5c1f-bf7f-b1335f01e6ab",
+    "title": "Chaos Blade (Dark Souls III)",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Chaos Blade (Dark Souls III) -  Dark Souls III - weapon - availability \n availability : Found in the Untended Graves, uphill the left path before entering the remains of Firelink Shrine, on the same spot where the Sword Master was encountered in the Cemetery of Ash.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2ead6018-9d82-51b9-972a-f4ec2b603573",
+    "title": "Chaos Boots",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Chaos Boots -  Dark Souls II - armor - lead \n lead : The **Chaos Boots** are a legs armor piece in *Dark Souls II*.\nThey are part of the Chaos Set.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3c051cfe-628d-5bb2-a017-72cacf3e2c97",
+    "title": "Chaos Boots",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Chaos Boots -  Dark Souls II - armor - availability \n availability : The Chaos Boots can be acquired two ways:\nThey are gifted to the player by Royal Sorcerer Navlaan after completing all his assassination quests and speaking to him.\nKilling Navlaan will make them available for purchase from Merchant Hag Melentia for 4,800 souls.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "40340915-cb82-5dd2-8c8d-0df7fc7a7790",
+    "title": "Chaos Boots",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Chaos Boots -  Dark Souls II - armor - description \n description : Boots worn by a chaos sorcerer.\n\nHe calls himself Navlaan, now.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c3e224aa-a82b-5f72-a7a3-49ae1082b353",
+    "title": "Chaos Bug",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Chaos Bug -  Dark Souls - enemy - general_information \n general_information : A total of nine Chaos Bugs are in the shortcut and they have no means of inflicting damage.\n\nA single Chaos Bug appears in *Dark Souls II*; during the introductory cutscene of the Lost Sinner, one is seen hanging out of the eye socket of her mask, before briskly crawling back inside.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d5886546-4785-5ff5-9201-02b1493c710d",
+    "title": "Chaos Bug",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Chaos Bug -  Dark Souls - enemy - lead \n lead : **Chaos Bugs** are enemies in *Dark Souls*.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ee16f09f-11e6-5fda-b2f2-50d82565b676",
+    "title": "Chaos Bug",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Chaos Bug -  Dark Souls - enemy - notes \n notes : If left alone for too long, Solaire of Astora will somehow perish whilst among the Chaos Bugs.\nOnly eight of the Chaos Bugs respawn. The red-eyed Chaos Bug that drops the Sunlight Maggot does not respawn.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1424698d-6a5f-536d-9014-4ae5a45daccf",
+    "title": "Chaos Eater",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Chaos Eater -  Dark Souls - enemy - attacks \n attacks : Hits multiple times.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3b926b63-7cd2-514d-82b4-4cd7c56ebdcc",
+    "title": "Chaos Eater",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Chaos Eater -  Dark Souls - enemy - notes \n notes : Despite having multiple eyes, it is still possible to sneak up behind them.\nFalling or using a plunging attack on the ones tied to Siegmeyer's questline will result in them eating the player as if they were grabbed. It can be escaped in the same way as if being normally grabbed.\nThey are the only way in the game to farm Red Titanite Slabs, although due to its extremely low drop rate, using Humanity or a Covetous Gold Serpent Ring is recommended.\nThe Chaos Eater vaguely resembles the transcended Kushan Emperor from Berserk.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6a3e34c1-b894-55e3-b32a-578364b54b01",
+    "title": "Chaos Eater",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Chaos Eater -  Dark Souls - enemy - description \n description : Chaos Eaters are large and sickly yellow colored creatures with six trunk-like appendages that act both as arms and as acid sprayers while their cylindrical body, vaguely reminiscent of a sea anemone, a gaping maw on the top and a myriad of almost-human eyes that never stop rolling and scanning the surroundings.\n\nThey are able to grab and throw their opponent into their gigantic mouths, located on top of their heads, swallowing and excreting them through one of their \"legs\". They can also spray a corrosive white mist through said legs, quickly damaging the player's equipment.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "12d1bddb-17c8-56ac-952f-f7ea442e2675",
+    "title": "Chaos Fire Whip",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Chaos Fire Whip -  Dark Souls - spell - general_information \n general_information : Chaos Fire Whip is identical to regular Fire Whip, except that it requires an additional attunement slot and also leaves a trail of lava behind for a brief time. The whip itself has a fire attack power of 2.6 times the Pyromancy Flame's magic adjust and the lava it leaves behind has a fire attack power of 2.0 times the Pyromancy Flame's magic adjust.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "226b09fd-4471-5a3f-a419-35e1d5673154",
+    "title": "Chaos Fire Whip",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Chaos Fire Whip -  Dark Souls - spell - description \n description : Art of the Flame of Chaos, which engulfed the Witch of Izalith and her daughters. Sweep foes with chaos fire whip.\n\nThis spell was wielded by the eldest of The Daughters of Chaos.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "36a8a3df-f81c-5fc7-b7d3-8706500f0435",
+    "title": "Chaos Fire Whip",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Chaos Fire Whip -  Dark Souls - spell - lead \n lead : **Chaos Fire Whip** is a Pyromancy in *Dark Souls*.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "81ee5e85-dbaf-5696-bb20-7cc2c503b2f0",
+    "title": "Chaos Fire Whip",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Chaos Fire Whip -  Dark Souls - spell - trivia \n trivia : Since the hostile Daughter of Chaos encountered in Lost Izalith uses this pyromancy, it can be assumed that she is the eldest of the Daughters of Chaos mentioned in the item description.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3587229a-88f0-531d-859f-4c00901e28c4",
+    "title": "Chaos Flame Ember",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Chaos Flame Ember -  Dark Souls - item - description \n description : Ember required for weapon ascension. Chaos Flame Ember is an art of the lost city of Izalith. Handled only by blacksmiths knowledgeable in ancient methods.\n\nAscends +5 fire weapon to chaos weapon. (chaos weapon can be reinforced to +5)\n\nChaos weapons are demon weapons augmented by humanity which inflict fire damage.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "475e2e09-37b4-545d-9bb5-f9f46459c74a",
+    "title": "Chaos Flame Ember",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Chaos Flame Ember -  Dark Souls - item - availability \n availability : Found in the Demon Ruins, behind the seven Taurus Demons, in a pool of lava (even if Ceaseless Discharge is defeated). Wearing the Orange Charred Ring while attempting to obtain it is almost necessary due to the high damage lava inflicts when not wearing said ring; however, it is possible to reach it without the Orange Charred Ring. Flash Sweat and high hit points helps.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "61dedf8c-b8a4-59b6-824c-7f0cc112a3a9",
+    "title": "Chaos Flame Ember",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Chaos Flame Ember -  Dark Souls - item - general_information \n general_information : If Vamos is given the Chaos Flame Ember, he gains the ability to ascend +5 fire weapons down the chaos path, allowing for further chaos weapon reinforcement to +5 (the highest).",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c22ae1af-db43-503f-92f6-c26cec17956d",
+    "title": "Chaos Flame Ember",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Chaos Flame Ember -  Dark Souls - item - lead \n lead : The **Chaos Flame Ember** is an Ember in *Dark Souls*.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2fb45ce3-ea6d-5c9f-8885-bf87754490fd",
+    "title": "Chaos Gem",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Chaos Gem -  Dark Souls III - item - notes \n notes : In order to start using Chaos Gems for infusions, the player is first required to collect the Giant's Coal and give it to Blacksmith Andre.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5bae69e4-980a-510c-aa9a-4e78c78e18d7",
+    "title": "Chaos Gem",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Chaos Gem -  Dark Souls III - item - description \n description : A gem of infused titanite.\nRelics of lands scorched by the Chaos Flame.\n\nUsed in infusion to create chaos weapons.\n\nChaos weapons inflict fire damage, and scale with intelligence and faith.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6f8c26f8-907e-5983-ba46-1d4dba0b4940",
+    "title": "Chaos Gem",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Chaos Gem -  Dark Souls III - item - usage \n usage : Infuses weapons with Fire damage, adding Intelligence and Faith scaling but reducing Strength and Dexterity scaling, as well as reducing base damage. Intelligence and Faith scaling will also be increased for any pre-existing Magic, Lightning and Dark damage.\n\nFor the Fire damage, scaling soft caps at 30 Intelligence and 30 Faith.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fa02753f-67b4-50f0-97e3-85ded9047a5d",
+    "title": "Chaos Gem",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Chaos Gem -  Dark Souls III - item - availability \n availability : Smouldering Lake\nFound at the end of a cave located within the area's main cavern, guarded by several Great Crabs.\nDropped by Demon Clerics.\nDropped by the Crystal Lizard closest to the destructible floor that leads from the lake to the Old King's Antechamber bonfire.\n\nGrand Archives\nDropped by a Crystal Lizard in the room after the first wax pool.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fa3f3683-400a-59a5-92d5-8e61b2b681d4",
+    "title": "Chaos Gem",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Chaos Gem -  Dark Souls III - item - lead \n lead : **Chaos Gems** are upgrade materials in *Dark Souls III*.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2fd55cee-83c9-58fa-b0b3-3a7a364954db",
+    "title": "Chaos Gloves",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Chaos Gloves -  Dark Souls II - armor - availability \n availability : The Chaos Gloves can be acquired two ways:\nThey are gifted to the player by Royal Sorcerer Navlaan after completing all his assassination quests and speaking to him.\nKilling Navlaan will make them available for purchase from Merchant Hag Melentia for 4,200 souls.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c56fa8f0-4732-5fd3-b574-d421e3210a23",
+    "title": "Chaos Gloves",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Chaos Gloves -  Dark Souls II - armor - lead \n lead : The **Chaos Gloves** are a hands armor piece in *Dark Souls II*.\nThey are part of the Chaos Set.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e69f3d09-66f0-55e8-8eab-8be6e9bfb853",
+    "title": "Chaos Gloves",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Chaos Gloves -  Dark Souls II - armor - description \n description : Gloves worn by a chaos sorcerer.\n\nHe calls himself Navlaan, now.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "23a3a766-a183-5612-b9f4-0807cb7debe8",
+    "title": "Chaos Hood",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Chaos Hood -  Dark Souls II - armor - characteristics \n characteristics : This hood increases casting speed by 14 and grants the player 3 Intelligence. This means the player only needs 13 Intelligence to wear the Hood effectively.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ca4fec17-7e47-5f73-a7c1-254ec2b40fa3",
+    "title": "Chaos Hood",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Chaos Hood -  Dark Souls II - armor - availability \n availability : Gifted with the rest of the Chaos Set by Royal Sorcerer Navlaan.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f5ec21c2-7e26-51fd-90e2-123584d3b6df",
+    "title": "Chaos Hood",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Chaos Hood -  Dark Souls II - armor - lead \n lead : The **Chaos Hood** is a head armor piece in *Dark Souls II*. It is a part of the Chaos Set.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2a311c07-4fed-5ccd-b9ed-8810868b2ce6",
+    "title": "Chaos Rapier",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Chaos Rapier -  Dark Souls II - weapon - availability \n availability : Dropped by the Enhanced Undead in a cage near the Ritual Site bonfire in Aldia's Keep.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2bbccd7a-7aa8-59bb-8523-43ed1f163d8a",
+    "title": "Chaos Rapier",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Chaos Rapier -  Dark Souls II - weapon - lead \n lead : The **Chaos Rapier** is a thrusting sword in *Dark Souls II*.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e1f44bf5-3350-5552-9f90-8aa2cf58d00a",
+    "title": "Chaos Rapier",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Chaos Rapier -  Dark Souls II - weapon - characteristics \n characteristics : Appears unimpressive and has very poor infusion synergy, except for Bleed andPoison. If infused with either of those, the blade will gain 96 base damage in that status effect and its fire damage scaling will increase to \"A\". Afterward, upgrading it with Twinkling Titanite once will further increase the fire damage scaling to \"S\".",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fc2d9955-45d5-56ce-a8bb-b04105baa6ea",
+    "title": "Chaos Rapier",
+    "section": "dark_souls_ii_scholar_of_the_first_sin_scholar_of_the_first_sin",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Chaos Rapier -  Dark Souls II - weapon - dark_souls_ii_scholar_of_the_first_sin_scholar_of_the_first_sin \n dark_souls_ii_scholar_of_the_first_sin_scholar_of_the_first_sin : Sold by Felkin the Outcast for 7,500 souls.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1f388c5c-e77c-5b2e-aedb-47aceb29b61b",
+    "title": "Chaos Robe",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Chaos Robe -  Dark Souls II - armor - lead \n lead : The **Chaos Robe** is a chest armor piece in *Dark Souls II*.\nIt is part of the Chaos Set.\n\n__TOC__",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6b27a893-b799-57c9-8498-3822fcc327c8",
+    "title": "Chaos Robe",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Chaos Robe -  Dark Souls II - armor - description \n description : Robe worn by a chaos sorcerer.\n\nHe calls himself Navlaan, now.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8ea0f6dd-5237-590d-9f83-c9aa391db799",
+    "title": "Chaos Robe",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Chaos Robe -  Dark Souls II - armor - availability \n availability : Gifted by Royal Sorcerer Navlaan by speaking to him while in Hollow form after completing his assassination quests.\n\nAlternatively, it can be acquired by releasing Navlaan, killing him, and purchasing it from Merchant Hag Melentia for 6,000 souls.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3a2d0bec-7b63-5348-9ff7-e1e6b9f38738",
+    "title": "Chaos Servant",
+    "section": "benefits",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Humanities are offered to Quelaag's Sister to gain ranks in the Chaos Servant Covenant.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "464a2aa2-990f-5421-a543-ba937e7f6b35",
+    "title": "Chaos Servant",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Chaos Servant -  Dark Souls - mechanic - notes \n notes : Eingyi will sell a Servant Roster to the player which can keep track of the amount of humanity other Chaos Servants have donated.\nIf the player becomes infected with eggs by an Egg Burdened, Eingyi will also sell the player the Poison Mist and Toxic Mist pyromancies.\nIf the player wears the Old Witch's Ring, they become able to understand Quelaag's Sister.\nIt is important to note that to access the Lost Izalith shortcut, players must be in that covenant when activating it.",
+    "sources": [
+      "entity"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  }
+]
