@@ -333,6 +333,14 @@ def _clip_ks(k: int) -> list[int]:
     return [x for x in dict.fromkeys([*KS, k]) if x <= k]
 
 
+def _qrels_ref(path: Path) -> str:
+    """Repo-relative qrels path for run-file provenance (absolute input ok)."""
+    try:
+        return str(path.resolve().relative_to(REPO_ROOT))
+    except ValueError:
+        return str(path)
+
+
 def cmd_run(args: argparse.Namespace) -> None:
     questions = json.loads(QUESTIONS_PATH.read_text(encoding="utf-8"))
     qrels = json.loads(args.qrels.read_text(encoding="utf-8"))
@@ -373,7 +381,7 @@ def cmd_run(args: argparse.Namespace) -> None:
             "fn": args.fn,
             "k": args.k,
             "min_grade": args.min_grade,
-            "qrels": str(args.qrels.relative_to(REPO_ROOT)),
+            "qrels": _qrels_ref(args.qrels),
             "created_at": datetime.now(UTC).isoformat(timespec="seconds"),
         },
         "diagnostics": diag,
