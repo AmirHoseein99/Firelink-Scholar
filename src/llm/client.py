@@ -106,7 +106,6 @@ class OpenAICompatibleAPI:
                 headers=self._headers(),
                 timeout=60,
             )
-        print(response.text)
         if response.status_code == 200:
             return response.json()
 
