@@ -76,8 +76,6 @@ class OpenAICompatibleAPI:
         }
 
         session = self._session()
-        print(self.url)
-        print(self.model)
         response = session.post(
             self.url,
             json=data,
