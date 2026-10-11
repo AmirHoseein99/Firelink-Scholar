@@ -1,0 +1,2700 @@
+[
+  {
+    "document_id": "039f93b5-f0ee-552e-bcd7-1e0874ea7ab3",
+    "title": "Corvian (Lore)",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "It's likely they had a good relationship with Priscilla, who considers them kind, much like every other inhabitant of the painting. They might have taken care of her, perhaps a duty given to them by their beloved goddess, who seemed to favor the poor crossbreed. However, the specifics of their relationship are never made clear.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.900554347031973
+  },
+  {
+    "document_id": "04b3ac74-de93-57d5-ac4a-444276830db8",
+    "title": "Drangleic",
+    "section": "drangleic_s_rise",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Vendrick's influence extended beyond his kingdom's borders, going so far as ordering his chancellor to hire a craftsman from Mirrah who knew how to manufacture the \"geisteel\" alloy produced in that country, to give his army an edge over his enemies. Chancellor Wellager managed to bring the artisan Llewellyn to Drangleic with the promise of an immense salary, uncovering the secrets of the alloy of Mirrah. Llewellyn became the castle's resident master smith and began working for Vendrick, distinguishing himself for his lack of ostentation and focus on simplicity and sturdiness. Only for a select few including the chancellor, he also forged armor and shields that combined lightness and strength, as well as a long dagger for the king that Vendrick then gifted to his Chancellor.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.47394372554045894,
+    "bm25_score": null
+  },
+  {
+    "document_id": "08ab3b58-0a29-5361-acd6-ee55c758115b",
+    "title": "Forossa",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "the lion clansmen were also mages, similar to Forossan sages who led the warriors into battle and venerated the god of war. After the collapse of Vendrick's kingdom, a group of these lion warriors entered Drangleic and settled in the Shaded Woods.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.4349811721797901,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0ac9682c-5f87-54e7-abba-8b30f392ffc7",
+    "title": "Four Knights of Gwyn",
+    "section": "rings",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Four Knights of Gwyn -  Dark Souls - character - rings \n rings : Each of the Four Knights was gifted a unique ring imbued with special powers. The Chosen Undead can find them scattered throughout Lordran, and their item descriptions give minor insight into who the knights were and what they did.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 16.812290478926062
+  },
+  {
+    "document_id": "0b8491cc-f186-57d8-8600-5e9fb3d37e88",
+    "title": "Bonfire (Dark Souls III)",
+    "section": "the_ringed_city_location_the_ringed_city",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "***Slave Knight Gael**\n:This bonfire will spawn at the end of the arena where Slave Knight Gael is fought, once he has been defeated. It is located between the thrones of the Pygmy Kings.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.400734854141788
+  },
+  {
+    "document_id": "0dd93af1-e802-58a2-8f34-4c8ee9e67d4b",
+    "title": "Abyss",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - trivia \n trivia : Due to what was observed from Artorias, the phrase \"falling into the Abyss\" does not actually constitute entering it, but rather the near infinite and unconscious darkness of it seeking out lifeforms.\n**This likely means that Wolnir was very much alive when he fell, which explains how he was able to teach grave wardens his pyromancy, though what exactly it really was that actually caused his death is uncertain.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.370622150388083
+  },
+  {
+    "document_id": "0eea94fe-4d88-5e65-8f6f-925d9df22b35",
+    "title": "Drangleic Castle",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Drangleic Castle -  Dark Souls II - location - description \n description : Drangleic Castle was the central point and seat of power of Drangleic during the country's height. King Vendrick and his queen, Nashandra, ruled Drangleic.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.740025341359097
+  },
+  {
+    "document_id": "10a0d884-75b8-5a43-8684-3d5f05e32f50",
+    "title": "Drangleic",
+    "section": "drangleic_s_fall",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "In the darkest hour of his reign, Vendrick also realized that his Queen, Nashandra, was a creature of the Abyss, and harbored an insatiable desire for strength. She was a fragment of a dark creature taken a human form, obsessed with the King's powerful soul. Impelled by her cravings, Nashandra sought souls, and strove to make the strength of the Giants her own, everything to reach the Throne of Want and the link for the First Flame so it could spread the Dark. Her painting in the castle was in fact able to curse the undead, making them hollow and draining their life, and only the king knew whether the depiction of the Queen was a resentful mockery, or an affectionate exaltation. At this point Vendrick had achieved a profound understanding of the truths of the world. He understood how the fire of souls was not enough to harness the curse, and how the Flame would soon fade and the souls of ancient beings would reemerge, before Dark would descend as a curse on humans, making them take",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6058246886621715,
+    "bm25_score": null
+  },
+  {
+    "document_id": "19763a95-2ba6-5b44-a3f2-e8180d22f3f3",
+    "title": "Nashandra",
+    "section": "location",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Nashandra -  Dark Souls II - boss - location \n location : Drangleic Castle, before the acquisition of the Giant's Kinship, Nashandra can be found in the throne room as an NPC, right before the Dragonrider duo boss.\nThrone of Want, after defeating the Throne Watcher and Defender, and having the Giant's Kinship in the player's possession. The King's Ring is also required to open the King's Gate that leads to Nashandra.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.4264108518111397,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1c574e87-be0c-53f6-9b04-aa07b99a8af9",
+    "title": "Drangleic",
+    "section": "drangleic_s_fall",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "As the war dragged on, Vendrick's army began a decline caused by attrition in the face of the Giants' will of steel. The king was forced to hire mercenaries from Forossa and Volgen to reinforce his ranks, and Desert Sorceresses from Jugo were added to the defense of the Royal Castle. The endless battles also began to take their toll on the population. Those who could afford it ran away to other countries while the poor were left without a place to sleep, the kingdom now reduced to ruins. The conflict continued for three generations unabated, with the Giants sustaining their attacks on northern fortifications and trying to push their way inland towards the Royal Castle. The bodies of the many dead giants that littered the region slowly grew into great trees, covering the area around Cardinal Tower in a dense forest.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.4269385160073264,
+    "bm25_score": null
+  },
+  {
+    "document_id": "20acdd80-bc44-5a47-be8a-c50731b6268a",
+    "title": "Four Knights of Gwyn",
+    "section": "hornet_ring",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Four Knights of Gwyn -  Dark Souls - character - hornet_ring \n hornet_ring : Engraved with a hornet, the Hornet Ring belonged to Lord's Blade Ciaran. Increasing the power of critical attacks, it allows its wearer to lay waste to their foes much like how Ciaran did to Lord Gwyn's enemies.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.34287162552298
+  },
+  {
+    "document_id": "22368e82-b074-5064-bd41-7ed9c4ca7c79",
+    "title": "Olenford",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "He was certainly a key figure at that time, and may have been one of the founders of the Melfian Magic Academy due to his importance to the sorcerers of Melfia. Yet Olenford was seemingly unsatisfied with his current standing, instead seeking knowledge that surpassed that of mere men. This search would lead him to the Undead Crypt, a treasure trove of ancient wisdom kept safe by the Fenito, and it is there that he did away with his humanity. What that entails is a mystery, but all that remains now is his staff, stored away in that very crypt.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.491342326408763
+  },
+  {
+    "document_id": "235cd353-75f0-5213-b6c9-e3aa1c5d6b84",
+    "title": "Drangleic",
+    "section": "drangleic_s_fall",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "they had once sought the truth about souls and a mean to free humans from the curse, their means were different and the fervor of their desperate search had eventually withered their familial ties. Understanding how his older brother had now abandoned morality to experiment on humans, Vendrick decided to confine him and his servants in his mansion, leaving him alive but building a King's Gate that would limit anyone from entering or leaving that wasn't the king himself, but consequently also losing access to the wyverns raised in the Dragon Aerie beyond the villa that represented an important military asset.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.4802481241851595,
+    "bm25_score": null
+  },
+  {
+    "document_id": "26955a2f-2b84-5ade-8971-86258d6e5659",
+    "title": "Nashandra",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "When Drangleic was ravaged by the second war with the giants and the spread of the Undead Curse, Vendrick came to realize the true nature and identity of Nashandra, and what she had coveted all along. Knowing that his time was short and that his queen had to be stopped, Vendrick created several impasses that would prevent Nashandra from seizing the throne, and sealed himself away in the Undead Crypt. This left Nashandra the sole ruler of Drangleic, albeit without much left to rule at all, as the kingdom had been all but destroyed.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6839821108449009,
+    "bm25_score": null
+  },
+  {
+    "document_id": "291a74fe-5ecf-558d-925b-3c6dce95ce16",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "locations",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - locations \n locations : #He is first encountered in the final primal bonfire room that remains unlit. If all bonfires have been lit prior to downloading the patch, he will automatically appear in the Black Gulch primal bonfire room, after The Rotten.\n#Upon speaking to the player at the primal bonfire, Aldia will proceed to the first bonfire in the Undead Crypt.\n#After exhausting his dialogue in the Undead Crypt, Aldia can be found in the Dragon Shrine bonfire room, at a significantly reduced size compared to the first bonfire.\n#Finally, after completing the dialogue in Dragon Shrine, Aldia will appear as a boss in the Throne of Want in Drangleic Castle after killing Nashandra, but only if Vendrick is killed before Nashandra. The game can be completed without fighting Aldia here, if Nashandra is killed before Vendrick is.",
+    "sources": [
+      "human",
+      "template",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 15.489753749241764
+  },
+  {
+    "document_id": "2c3f2a63-e138-5b1e-a6dd-2c96c9972f3e",
+    "title": "Way of Blue (Dark Souls III)",
+    "section": "how_to_join",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Way of Blue (Dark Souls III) -  Dark Souls III - mechanic - how_to_join \n how_to_join : Given by Emma, High Priestess of Lothric Castle at the end of the High Wall of Lothric, along with the Small Lothric Banner.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.685623621334198
+  },
+  {
+    "document_id": "3e008303-c20c-57c0-88b3-ea71f953a0a1",
+    "title": "Drangleic",
+    "section": "drangleic_s_fall",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "At a certain point Raime and Velstadt clashed and Raime was defeated and deemed a traitor, leading him to resign from his post and reconsider his way of life. Reborn as a stalwart warrior, he started to seek someone to whom he could dedicate his life. Velstadt continued to serve at Vendrick's side, as if he was his lord's own shadow.\n\nTo make things worse, Vendrick also found himself dealing with the fate of all kingdoms in the history of the region: the First Flame began to weaken, and the number of undead grew. The king himself was forced to draw from the power of his immense soul to keep the curse at bay, feeling it growing despite the strength he had pillaged from the Giants.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.4543565094899727,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3e6b4e65-0d02-514a-996d-687964eaf239",
+    "title": "Drangleic",
+    "section": "drangleic_s_rise",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "The artisans and blacksmiths of Vendrick studied the advanced metallurgical technologies of the fallen civilization of Heide, to try and replicate the composition of their mysterious alloy. Even though they failed, their attempt to imitate it resulted in a similar bradden steel. This fine alloy was forged from ores that were mined in the south of the kingdom and were widely used, particularly to craft armors that provides a sturdy defense with the design of the ancient elite knights of Astora. The king was also interested in sorcery, coming into possession of magic from Melfia like the Soul Greatsword and rediscovering ancient sorceries from Olaphis like Soul Bolt. Vendrick was also concerned with the history of the kingdoms before his own, collecting different types of Golems created by different civilizations throughout the history of Drangleic like the Old Knights of Heide, the Ruin Sentinels from Olaphis, the Belfry Gargoyles from Venn, the Manikins from Earthen Peak and the Old",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.4089856653467996,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3e9a3d5d-a98f-5ca5-9273-5b6c56838f42",
+    "title": "Drangleic",
+    "section": "drangleic_s_fall",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Initially the king took over the existing structures that had helped contain the curse under previous countries such as the Lost Bastille and the No-man's Wharf, using the golems and creatures already present such as the Flexile Sentries and the Ruin Sentinels as jailers. Undead Citizens of the kingdom who died and returned to life cursed would thus be locked in the squalid fortress and, once the numbers swelled to fill the cells, forced inside rickety ships and sent to certain death in the open sea. But the ongoing conflict and the resulting increase in deaths would only lead to more undead and more hollows. In an attempt to stave off the curse of undeath that was plaguing his kingdom, Vendrick hired some deserted members of the shadow knights from Mirrah, skilled assassins, to put down the hollows, making them work in the No-man's Wharf where they sent the imprisoned undead to die in the sea, but before long they became hollow themselves. More and more desperate, Vendrick came to",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.4100000784665191,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3f6e974d-b8e2-53fe-82d0-b9ccb9e5e328",
+    "title": "Drangleic",
+    "section": "drangleic_s_fall",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Left to his own devices after his brother's failure to grant humans the immortality of dragons, Vendrick desperately sought to purge the curse of Undeath that was slowly devouring his kingdom. One of these experiments was conducted on the Milfanito, creatures conceived by Gravelord Nito to keep Undead under control. They resided in the ruins of the Shrine of Amana close to the Drangleic Castle. At least one Milfanito was taken as prisoner inside the castle and she was bound to a magic ring that was capable of making even hollows appear like humans, as the king was fascinated with reclaiming what he feared he would soon lose. At some point Vendrick learned of the monstrous rituals and experiments that his brother carried out in his Keep even on the subjects of his kingdom. Although they had once sought the truth about souls and a mean to free humans from the curse, their means were different and the fervor of their desperate search had eventually withered their familial ties.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.43007098782026243,
+    "bm25_score": null
+  },
+  {
+    "document_id": "42e7d776-3588-5fc4-8ea9-aab5c9de79c5",
+    "title": "Giant (Dark Souls II)",
+    "section": "war_with_drangleic",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Giant (Dark Souls II) -  Dark Souls II - enemy - war_with_drangleic \n war_with_drangleic : Giants are primarily known through their conflict with King Vendrick and his kingdom. According to legend, a mysterious woman named Nashandra, said to be of unparalleled beauty, came to Vendrick long ago and warned him of a looming threat across the seas, in the land of the Giants. King Vendrick named Nashandra his queen and crossed the ocean with her to combat the Giants. During this conflict, he pillaged the Giant's lands, and stole an unspecified \"prize\", which he brought back to Drangleic. Using this acquired power, Vendrick created various types of Golems, who in turn built Drangleic Castle.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.4362199287081917,
+    "bm25_score": null
+  },
+  {
+    "document_id": "45e985b2-5a23-573c-9026-79120c73e59d",
+    "title": "Drangleic",
+    "section": "drangleic_s_curses",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Studying and experimenting on the inhuman creatures and their souls, and via studies on artifacts from older kingdoms, Vendrick and Aldia pioneered the creation of Golems, very similar in appearance to the captured giants. Vendrick made Nashandra his queen, and had the golems build his Royal Castle, as proof of his gratitude and affection to her. Beneath the royal castle was the ancient Throne of Want, an artifact capable of connecting to the First Flame, the source of souls and beginning of all that the king was seeking. Studying the First Flame and the mysteries of the soul with his brother Aldia, the king acquired a profound understanding of the history of the world and the rules of reality, how the Flame brought Disparity and everything from it, propagating souls in the world every time someone linked it, giving it new strength. He also understood how the Dark was kept under control as long as the fire flourished, and that once the fire naturally weakened the curse would strike",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.4235685944800598,
+    "bm25_score": null
+  },
+  {
+    "document_id": "466f0e12-4bb5-5138-b833-88d9919eab63",
+    "title": "Dragonslayer Armour",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "The army of Lothric successfully hunted down the wyverns in their region; moreover, by observing how their god commanded such creatures, they even learned how to tame and ride them, and wyverns became a symbol of Lothric alongside its knights. With the wyverns dead or domesticated, the dragonslayers were rendered obsolete, and their armour was retired in favor of lighter, more conventional knight armor. The armour of an ancient Dragonslayer, however, remained in the barracks of the Lothric army, on the bridge between the Altar of Sunlight and the Grand Archives, a monument to the legendary past of Lothric knights.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.515176336276642
+  },
+  {
+    "document_id": "497e1971-07c7-55d0-8283-7712876c2666",
+    "title": "Nashandra",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Any summoned characters or players who survived the fight between the Throne Watcher and Defender will stay with the host to defeat Nashandra; however, they will not receive two rewards (Token of Fidelity or Sunlight Medal).\nBy burning a Bonfire Ascetic on the King's Gate bonfire in Drangleic Castle, Nashandra can be respawned.\nWearing the Black Witch Veil, Hollow Skin, or any of the four crowns already infused with Vendrick's blessing will grant immunity to Curse; however, the player will still take continual damage whenever near the curse fountains.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.43300753554446375,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5064b081-18e5-5106-a75b-143399568ec0",
+    "title": "Drangleic",
+    "section": "drangleic_s_fall",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "the hollows, making them work in the No-man's Wharf where they sent the imprisoned undead to die in the sea, but before long they became hollow themselves. More and more desperate, Vendrick came to call into his kingdom even mad warriors almost resembling beasts, that came from well beyond his borders and unknown lands.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.44497429772931435,
+    "bm25_score": null
+  },
+  {
+    "document_id": "52aa550f-550b-51dd-a677-016f1a0154da",
+    "title": "Drangleic",
+    "section": "drangleic_s_fall",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "As Vendrick went hollow, Drangleic still suffered the onslaught of the Giants; when its army seemed about to be overwhelmed, an unknown warrior felled the Lord of the Giants, whose beaten and broken remains were then dragged beneath a stronghold to be sealed away, leaving the remaining Giant forces to scatter and flee without the resonance of their leader to guide them. In the meantime, the soldiers of Vendrick defending their fortress died and eventually became hollows, though they continued to defend their country with honor, patrolling the area. Even with the Giants eventually defeated, victory had come all too late. Without a king, an exhausted army and with a country reduced to rubble, depopulated and infested with hollows, the kingdom of Drangleic fell apart. With the collapse of Vendrick's kingdom, the defense of the region's borders deteriorated and the mountains surrounding Drangleic became the refuge of countless brigands that would prey on travellers trying to cross into",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.4321507244404158,
+    "bm25_score": null
+  },
+  {
+    "document_id": "53f8bf7e-9c4a-533b-92f0-c771ec248da8",
+    "title": "Vendrick",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Vendrick -  Dark Souls II - boss - trivia \n trivia : When spoken to in the Memory of the King, Vendrick claims that he \"*is no King\",* and that he is *\"more fit to be a jester*\". This is likely a subtle nod to the voice actor's previous role as Marvelous Chester in *Dark Souls*.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.43984661495848915,
+    "bm25_score": null
+  },
+  {
+    "document_id": "584e5d6e-d7e5-55fc-9b3e-9b10956a93d8",
+    "title": "Bow of Want",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Bow of Want -  Dark Souls II - weapon - lead \n lead : The ** ** is a bow in *Dark Souls II*.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5aa76c85-6c48-59cd-815e-1947e5c02705",
+    "title": "Drangleic",
+    "section": "drangleic_s_curses",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Thanks to this discovery Vendrick became the monarch who came closest to becoming a true \"King\" and turning his wants into reality. He had access to the primordial Flame whose power could decide the fate of the world, either by linking it to prolong the state of the world or refusing this fate and leading the world to darkness as a Dark Lord. Vendrick, however, never made either decision and continued to reign over Drangleic. Both he and his brother were not convinced by the two possible choices and, anchored to the illusion of the form that life had during the Age of Fire, they looked for a way to maintain it, searching for a way to free humans from the curse of Undeath and breaking the seal of fire that imprisoned them. As he deepened his knowledge of souls and curses, Vendrick effectively reigned over Drangleic, protecting the country from any external threats. Nashandra helped bring peace to the kingdom, a peace so profound that it reminded humans of the Dark from which they came.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6246104990314583,
+    "bm25_score": null
+  },
+  {
+    "document_id": "600769b5-97eb-5228-9eb9-1423a26f7954",
+    "title": "Bow of Want",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Bow of Want -  Dark Souls II - weapon - availability \n availability : The Bow of Want can be obtained by trading the Soul of Nashandra and 10,000 souls with Weaponsmith Ornifex.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "641d710a-93f1-5156-b8dd-e8909a6b0da4",
+    "title": "Nashandra",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Nashandra -  Dark Souls II - boss - lead \n lead : **Nashandra** or **Queen Nashandra** is a boss and the main antagonist of *Dark Souls II*. She is fought at the end of the Throne of Want area, only after the player has obtained the Giant's Kinship; if the Throne Watcher and Defender have not already been defeated, Nashandra's boss fight will trigger automatically after theirs.\n\nAlthough she is the final boss of the base game, the *Scholar of the First Sin* expansion added Aldia as a potential \"true\" final boss, whose battle triggers after Nashandra's if conditions are met. Prior to her boss fight, she appears as a special character in human form atop Drangleic Castle, where she can be talked to from afar.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.44437523767106457,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6844b9e6-76b9-5b5d-aa74-81a0e69302e2",
+    "title": "Drangleic",
+    "section": "drangleic_s_fall",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Vendrick's kingdom, the defense of the region's borders deteriorated and the mountains surrounding Drangleic became the refuge of countless brigands that would prey on travellers trying to cross into the realm.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5287734418001068,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6b7e5dff-333c-5406-8c4d-eaf627e057e3",
+    "title": "Old Ones",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Old Ones -  Dark Souls II - boss - trivia \n trivia : Despite Wellager claims, it's impossible for Vendrick to have defeated \"the Old Ones of his time\"\n** The Old Iron King predates Vendrick's rule by many years, and he's still in possession of Gwyn's soul in the present.\n** If the Lost Sinner and the Rotten are respectively the princess of Venn and the Sunken King, they too are much older than Vendrick.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.44314872182372506,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6cb8c169-351d-5219-8438-8c12f858843c",
+    "title": "Vendrick",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Vendrick -  Dark Souls II - boss - lead \n lead : **Vendrick** is an optional boss in *Dark Souls II* and a non-playable character in .\n\nHe is voiced by William Houston, who also voiced Marvelous Chester in *Dark Souls* and Oceiros in *Dark Souls III*.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.415918759356928,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6d2d7c4a-e594-5f9b-90d1-825fa4113b86",
+    "title": "Vendrick",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Vendrick holds his sword with the blade dragging behind him even as he winds up for the horizontal slash attacks. Staying close to him and strafing to his left will make it very hard for him to hit the player. He will sometimes jump back to put distance between him and the player. If he backs up into a wall, the player may back up in an attempt to get behind him again. Keeping a good shield ready can help, but not always, as most of Vendrick's attacks have extremely high stamina damage.\n\nA good way to approach the fight is to stay directly behind or next to his left foot. If he gets too close to a wall where any part of the player or him is bumping into it, try to lure him back out toward the center of the arena.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.42794179607332156,
+    "bm25_score": null
+  },
+  {
+    "document_id": "72427777-20bc-5ce5-99c4-7bf0eff6e773",
+    "title": "Royal Sorcerer Navlaan",
+    "section": "dialogue",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "|-\n| scope=\"row\" rowspan=\"2\" style=\"width: 50px; background-color: #151515;\" |**Talk**\n|*\"This? This contains my power. Long ago...This...naive vessel of mine set about devising new spells. The fool dreamt of bringing new forms of magic into the world. But instead, he created me. Mostly by chance, but he did a fine job, I must say. What he sought was strength. And so, I decided to demonstrate. While my vessel slept, I'd find my mark, and hunt him down. But my vessel did not approve. And so while I slept, he sealed the both of us away.\"*\n|-\n|*\"Now, I don't have anything against humans, but how is it that you go about defining good and evil? I'm only using what the Gods gave me. How can that be so wrong? So, what say you to a spot of murder on my behalf? If you don't, I'll leave this place, and take more lives. Many more. I couldn't give a fig either way. So, what's your choice?\"*\n|-",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.531895916103537
+  },
+  {
+    "document_id": "7476f668-bc26-55ac-822d-a1d151a1460c",
+    "title": "Throne of Want",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "At a certain moment during his reign, Nashandra came to Drangleic, she coveted the Throne of Want and the power of the First Flame, and seduced Vendrick in order to use him as a means to accomplish her goal, becoming his queen.\n\nMuch time later, after Drangleic was ravaged due to both the war with the Giants and the undead curse, which all of Vendrick’s and Aldia’s plans to cure were in vain, Vendrick found out about Nashandra's plan: to use the throne to claim the First Flame for herself. Vendrick reacted quickly and sent the Throne Watcher and the Throne Defender to guard the throne. He then fled to the Undead Crypt, where he eventually went Hollow, to keep his ring and soul from the wrong hands. He did all this in an attempt to stop Nashandra.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6838081226439424,
+    "bm25_score": null
+  },
+  {
+    "document_id": "78e2b7b0-9e97-5abf-903c-794cec471bd8",
+    "title": "Drangleic",
+    "section": "drangleic_s_rise",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "As the King of Drangleic, Vendrick proved himself a fair and just monarch, and expected similar behavior from his subjects, whom he trusted and rewarded according to their loyalty and deeds. Drangleic prospered and became an influential nation to the point of making Vendrick known as \"the one that ruled over the world of man\" Having obtained total political dominion over the lands of Drangleic, he left extant religious institutions and their traditions intact. The king had a lukewarm opinion of their holy powers, and clerics were kept at a distance from the royal court, their inherited roles relegated to ceremonial positions, without opportunities for attaining greater power.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.4979097931143188,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7a69398b-a932-5fb1-bda5-02167f7773ce",
+    "title": "Giant (Dark Souls II)",
+    "section": "war_with_drangleic",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "While the Giants invasion was largely stopped, their souls remained powerful. King Vendrick's elder brother, Lord Aldia, kept Giants in his manor and performed experiments on them in an attempt to recreate a dragon. The outcome of Lord Aldia's experiments is unknown, but oddly when the Ancient Dragon roosting at the summit of Aldia's realm was slain, the soul of a Giant was found in its remains. Legend holds that the Giants' resentment of King Vendrick was possibly emboldened in death. This was proven true when the Bearer of the Curse fought the hollowed remains of Vendrick. With the souls of several Giants in the Bearer's possession, Vendrick was significantly weakened and subsequently defeated.",
+    "sources": [
+      "human",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 15.751955125903901
+  },
+  {
+    "document_id": "7dab68f7-372d-504f-8e72-259ab60d9018",
+    "title": "Sir Yorgh",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "** The myth itself is more closely adapted in the description of the miracle Replenishment, contextualized as a false retelling of Shulva's tragedy spread by the Archdrake Sect.\nHis personal ring bears the crest used by Drangleic. This is peculiar, as according to the Crown of the Sunken King DLC steam page King Vendrick once owned the Crown of the Sunken King, implying he helped the Sunken King establish his rule. It could be that the Drakeblood Knights were sent as a contingent from Drangleic, suggesting a withering in relations. After his victory over the giants, King Vendrick's countenance could be seen to grow darker with each passing day. Vendrick's trust was seen as an honor, until his transfiguration.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.44925741496147265,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7eab9ed8-a265-569b-981f-b1627c869f67",
+    "title": "Mirrah",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Towards the end of his reign, Vendrick hired some of the deserting Shadow Knights from Mirrah to fight against the hollows in an attempt to stave off the curse that was plaguing his kingdom. He put them to work in the No-man's Wharf where they sent the imprisoned undead to die in the sea, but before long they became hollow themselves.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5902841407144709,
+    "bm25_score": null
+  },
+  {
+    "document_id": "80e0ee9e-d48a-5d5b-9308-5937d8639f6b",
+    "title": "Drangleic",
+    "section": "drangleic_s_rise",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Vendrick was the leader of a people of skilled warriors whose cavalry did not employ ordinary horses but instead rode wyrms, a race of land wyverns. Those who fought on the backs of these creatures held the title of Dragonriders, a rank obtained only by their strongest. As a frontline commander, Vendrick favored simple, honest warriors who relied only on their own brute strength; as such, his army avoided dependence on sorceries or miracles, valuing physical ability alone. Before they could aspire to ride wyrms, Vendrick's warriors had to learn to wield great bows that required inhuman strength just to merely draw and great skill to shoot. To become fully-fledged Dragonriders, these knights were then called to tame their wyrms; those who failed to handle the beasts were torn apart and devoured. Those who emerged victorious boasted unmatched strength, and the sight of magic imbued halberd-wielding Dragonriders on wyrm-back soon became a feared sight on the battlefield. Dragonrider",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.47279508671602805,
+    "bm25_score": null
+  },
+  {
+    "document_id": "822ee919-88de-535c-a87e-1239d4b859cb",
+    "title": "Drangleic",
+    "section": "drangleic_s_fall",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Centuries after the end of Vendrick's reign, Drangleic would be known in Lothric as \"Drang\", the land of the legend of the Linking of the Fire. Vendrick's name has been lost to history, who is remembered only as the \"Old King of Want\", an ancient ruler that was cursed by an all-consuming thirst, making him no king at all in the end. The Dragonriders of his royal guard and their immense strength are also properly remembered. A group of soldiers, who proclaimed themselves descendants of Drangleic and wore the geisteel armor made by the blacksmith of Vendrick's Castle, abandoned the region and became sellswords. Known as Drang Knights, they scattered across the lands and quickly became known for shieldless, aggressive fighting tactics that utilized twinspears and hammers, striking fear into the hearts of their enemies.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.4993898222028369,
+    "bm25_score": null
+  },
+  {
+    "document_id": "833c4c47-7523-5fbe-8f7b-e0a228d71681",
+    "title": "Vendrick",
+    "section": "plot",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Vendrick -  Dark Souls II - boss - plot \n plot : After an untold amount of time in confinement, the King of Drangleic remains a hollowed husk of his former self. The player may choose to spare the king, leaving him to wander eternally, or slay him and end his misery.\n\nUsing the Ashen Mist Heart, the Bearer of the Curse may also enter the Memory of the King, where they may interact with King Vendrick as he was before he went hollow. Bitter and grieving his failures, Vendrick tells the Bearer to seek the crowns of old kings of yore. Once they have brought him all the crowns, Vendrick will unlock their power, making the Bearer of the Curse immune to the hollowing effects of the curse. He advises the Bearer of the Curse to seek a third path beyond Light and Dark, echoing his brother.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.4202562293247477,
+    "bm25_score": null
+  },
+  {
+    "document_id": "86304e0d-8f00-5708-b108-fe317fb03b9c",
+    "title": "Path of the Dragon",
+    "section": "how_to_join",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Path of the Dragon -  Dark Souls - mechanic - how_to_join \n how_to_join : Talk to the Stone Dragon in Ash Lake. To access Ash Lake, travel from Blighttown to The Great Hollow and get to its very bottom; upon arriving there, follow the path along the beach to its end.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.514855617489545
+  },
+  {
+    "document_id": "86ac1bc3-cba9-5588-8986-225e4b261682",
+    "title": "Guardian Dragon",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Guardian Dragon -  Dark Souls II - boss - lore \n lore : The \"Guardian Dragon\" is a wyvern that guards the way to Dragon Aerie. Thanks to his experiments and magic, Aldia learned how to control wyverns, commanding this subject to act as a guardian and closing it inside a improvised cage located between his Keep and the Aerie.\n\nIn the ruins of Heide, another \"Guardian Dragon\" can be found guarding the Cathedral of Blue. It is possible that it is the mount of the Dragonrider who resides nearby in Heide, the elite knights of Vendrick who once rode earth dragons and that would mount wyverns after Aldia learned to control them.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 15.124489071216288
+  },
+  {
+    "document_id": "8915bcc6-eb56-5d54-bfe8-980507b82ae6",
+    "title": "Drangleic",
+    "section": "drangleic_s_fall",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "With his army exhausted by losses and desertions, Vendrick was forced to use the arts of the Old Iron King to produce the ancient Ironclad Golems, iron husks that were granted life with an enchantment of souls. These warriors wearing decrepit armor one day emerged from the Drangleic Castle and quietly assumed positions among the royal army, without speaking a word or revealing their faces. At the peak of the war against the Giants, Vendrick abandoned all moral reservations and attempted to revive the terrible experiments that his brother had carried out and which had led to the birth of the Primal Knights. Even if only fragments of the rituals remained, the king restored the forbidden art to create the inhuman abominations, to obtain warriors that would match their enemies in brute strength thanks to immensely heavy shields, swords and armor.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.42029288398789166,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8c643282-fc62-5c96-913f-cda408aeb390",
+    "title": "Burnt Ivory King",
+    "section": "fight_overview",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Once all of the Knights are dead, the Burnt Ivory King will appear from a massive portal that rises at the end of the arena. Note that the player will have a good amount of time between when the Knights are killed and when the King appears. If the player did not rescue at least two other Knights of Eleum Loyce, two of the portals will remain open and spawning Knights during the fight with the king, possibly proving to be a fatal distraction.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 15.242223682662186
+  },
+  {
+    "document_id": "8d7045e1-694f-5be0-bb31-76f25bc98c04",
+    "title": "Bone Scythe",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Bone Scythe -  Dark Souls II - weapon - description \n description : Scythe forged from the soul of the Covetous Demon.\n\nThe curved spine of the Covetous Demon is as hard as rock, and rather than slicing through flesh, this weapon seems to grind it apart.\n\nThat thing that ended up a monstrous fiend, what was it to begin with, and why did it never leave the queen? Perhaps it was entranced by some perversion of love.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.50211385691122
+  },
+  {
+    "document_id": "8e3c6bba-d45f-56da-bcba-b49e20aed220",
+    "title": "Giant (Dark Souls II)",
+    "section": "giant_memories",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Giant (Dark Souls II) -  Dark Souls II - enemy - giant_memories \n giant_memories : Once the Ashen Mist Heart has been obtained, it can be used to interact with the corpses of three fallen Giants who fought in the war against Vendrick. The heart grants access to the memories of Jeigh, Orro and Vammar. In these memories, the player can witness various battles that took place between the Giants and Vendrick's army. According to Sweet Shalquoir, the Giants savour their memories of glory on the battlefield.",
+    "sources": [
+      "human",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.523527958921614
+  },
+  {
+    "document_id": "900fa853-6b7d-5e84-845d-e05917a576cf",
+    "title": "Drangleic",
+    "section": "drangleic_s_fall",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "fire of souls was not enough to harness the curse, and how the Flame would soon fade and the souls of ancient beings would reemerge, before Dark would descend as a curse on humans, making them take their true, immortal form. With the fire extinguished men would finally regain their true form and bury the shackles that the gods imposed on them. Yet he continued to look for an alternative, a way to maintain the world and life as it had always been, frightened by a future of Dark. As the kingdom was on the verge of being overwhelmed by the Giant Lord's offensive, King Vendrick disappeared. As every last attempt to purge the curse of Undeath had failed, he understood that the only solution available was to link the Fire himself, sacrificing his immense soul to temporarily eliminate the undead curse and give a glimmer of hope to his ruined kingdom.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.4060273867983807,
+    "bm25_score": null
+  },
+  {
+    "document_id": "97f9cf18-ff75-5f52-8e70-44498360342b",
+    "title": "Bow of Want",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Bow of Want -  Dark Souls II - weapon - characteristics \n characteristics : While the Bow of Want appears to have unimpressive scaling with Strength and Faith (lightning), it generally performs much better than most other bows, excluding the Dragonrider Bow, though the latter lacks a unique attack and has a much more costly attack pattern. This bow is *very useful* for Faith-based builds/characters who wish to have a reliable ranged weapon when their own offensive Miracles are exhausted.\n\nPlayers can get the most out of this bow by using lightning arrows, as it complements the bow's innate lightning damage.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9a4ec3dc-53d5-5e13-86ba-451e9ca02aab",
+    "title": "Soul of Nashandra",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of Nashandra -  Dark Souls II - item - availability \n availability : Obtained after defeating Nashandra.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.40825237371625134,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ac9f9463-a800-5c7d-b4cc-af97adb02e98",
+    "title": "Northern Sea",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "During his reign, King Vendrick was advised by Queen Nashandra that across the sea there was the looming thretat of the Giants. Vendrick gathered an army and crossed the ocean, defeated the Giants, pillaged their land and took control of their great power, using it to create the golems and further develop his kingdom. However, the giants, angered by the invasion and barbarism of the king of Drangleic, responded by crossing the sea and directly invading the human kingdom with the desire to take revenge on Vendrick, bringing war that consumed Drangleic for centuries with their directed and burning rage..",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5594619896092372,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ad43e5b2-85ba-5f7f-9241-b3b6fab2d3ec",
+    "title": "Hollow Mage",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Hollow Mage -  Dark Souls II - enemy - lore \n lore : These mages are related to the Necromancers. As described by their Set, the ones in this group that did not practice necromancy were all male. While these individuals were generally sorcerers, they carry Skeptic's Spice and Rouge Water, thus implying that either they belonged to a religious group, or that they also used some Miracles.\n\nWhile the women went under the service of the Iron King, it's unknown what these sorcerers did or where they went.\n\nCenturies later, these sorcerers would reach Tseldora (whether before or after the city was ruined by the spiders is unknown)",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 15.449053438996168
+  },
+  {
+    "document_id": "ad95b70d-6375-5a53-9ed8-a81889427bc8",
+    "title": "Throne of Want",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Throne of Want -  Dark Souls II - location - lore \n lore : The Throne of Want serves as a means to link the First Flame, in a way similar to the thrones of Lothrics’s Firelink Shrine, as it is built inside a kiln and the ashes that cover it seems to indicate the remains of previous Lords of Cinder.\n\nWhile it’s exact origins are unknown, the structure and ashes surrounding the Throne imply that it is much more ancient than the Kingdom of Drangleic.\n\nAccording to Vendrick and Nashandra, once Vendrick sougth the fire, for he believed that by linking it he could end the Undead Curse. But he would later discover that this was a lie, since the flame would fade again and the curse return every time, he then refused to sit on the Throne and decided to search for a permanent way to end the curse.",
+    "sources": [
+      "human",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.70141014979034
+  },
+  {
+    "document_id": "b1fcf41c-4fd9-52c5-a620-9e9965e66f1e",
+    "title": "Drangleic",
+    "section": "drangleic_s_curses",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "drangleic_s_curses : At a certain point Nashandra, a woman of exceptional beauty, arrived in Drangleic from a foreign country, and entered Vendrick's good graces, becoming his consort. The woman warned the king of a country of Giants beyond the Northern Sea, creatures that possessed souls of immense power and that apparently presented an impending threat to his kingdom. Vendrick was himself interested in the strength of the Giants, which he coveted as a means to step closer to fire, to end the curse of Undeath. The king was seduced by Nashandra's words, and followed her advice to gather an army and cross the Northern Sea, in an effort to subjugate the Giants and claim their souls for himself. When Vendrick landed on the realm of the Giants, a brutal war ensued, where he slaughtered, pillaged and conducted every act of barbarism with Nashandra at his side. Once his army \"triumphed\" in subjugating his enemies, they returned to Drangleic with a number of captive Giants and an immense",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6393782881334655,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b48662fe-b60a-55d5-8ca4-88f70a64f3ab",
+    "title": "Nashandra",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Once the Bearer of the Curse has finally cleared the way to the Throne and acquired the means to access it, Nashandra will intercept them and reveal her true form. She then declares the Bearer of the Curse worthy to assume her intended role for Vendrick, to have their power usurped by her so she can claim the throne for herself.\n\nThe Bearer of the Curse has grown too strong however, and Nashandra falls at their hand.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5668457843237692,
+    "bm25_score": null
+  },
+  {
+    "document_id": "be32a8ef-2348-5508-905a-bc258ccca1a2",
+    "title": "Drangleic",
+    "section": "drangleic_s_curses",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "and conducted every act of barbarism with Nashandra at his side. Once his army \"triumphed\" in subjugating his enemies, they returned to Drangleic with a number of captive Giants and an immense number of souls as their prize.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5021451713267278,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c39839cc-6eaf-5328-a817-8f5aaaf2387f",
+    "title": "Nashandra",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Left without a king and with no means to claim the Throne of Want, Nashandra’s plans were stalled until the arrival of the Bearer of the Curse, an undead powerful enough to defeat the Four Old Ones and gain access to Drangleic Castle. Nashandra manipulated the Bearer of the Curse into opening the way to the Throne of Want by aiding them in seizing the Throne of Want. She directs the Bearer of the Curse toward the Undead Crypt, suggesting that they put an end to the now-hollowed King Vendrick and claim his ring. She then directs the Bearer of the Curse to journey to Aldia's Keep to acquire the Ashen Mist Heart, and warns them that the Ancient Dragon there is no more than a prop and a false deity. At last, she directs the Bearer of the Curse toward the Forest of Fallen Giants to visit the memories of the Giants and obtain the last key to the Throne: the Giant's Kinship.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5270277061429044,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d047c074-d1dc-5636-951b-13be74d55f20",
+    "title": "Drangleic",
+    "section": "drangleic_s_rise",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Vendrick organized his army under simple ranks like Royal Guards, Knights, Soldiers and Infantry. He valued his royal army greatly, and included in its ranks even mere infantry, equipping each royal soldier with high-quality equipment crafted by the royal blacksmiths and armor with a design inspired by a brave knight from an old legend. The stalwart soldiers of Vendrick did not abandon their posts even as they became hollows, guarding their stations without relent. Distinguished soldiers were rewarded with magical rings that empowered them to carry more equipment, as proof of their meritorious deeds. Velstadt and Raime, two distinguished knights, became the left and right arms of Vendrick. Raime was enticed by the strength of his lord and acknowledged him as a father figure, while Velstadt was lured into Drangleic from a faraway home and devoted himself in life and death to his lord, eventually forgetting why he even came to the realm. Velstadt also became the leader of the elite",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.48198987540189775,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d46e41d8-2ddd-5904-8e74-82bfecf279b1",
+    "title": "Drangleic",
+    "section": "drangleic_s_fall",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "into the Undead Crypt. Here, left alone, he isolated himself in a secluded room wearing only his robes, crown, sword and his ring. Overcome by nihilism, Vendrick was consumed by the curse and soon became a hollow, mindlessly roaming the empty crypt forever to protect the ring that would grant access to the Throne of Want. Velstadt protected his king even in death, although the darkness of the Crypt soon corrupted his soul and equipment and eroded their divine protection. The knights and soldiers left at the Castle waited patiently for the return of their king and leader but turned to stone after decades of service, becoming Stone Knights and Stone Soldiers.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.4535942542902212,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d5302823-0d11-5b1b-b9f5-39d46f17ecfc",
+    "title": "King's Ring",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "King's Ring -  Dark Souls II - ring - availability \n availability : Found at the very end of Undead Crypt, in the room where Vendrick is after the player has defeated Velstadt, the Royal Aegis.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.373937979829115
+  },
+  {
+    "document_id": "d87581bd-d8b8-5838-bdbb-d4347cc15e1e",
+    "title": "Soul of Nashandra",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of Nashandra -  Dark Souls II - item - description \n description : Soul of Nashandra, Queen of Drangleic.\n\nNashandra was born of the Dark with an insatiable lust for strength.\n\nUse the special soul of this prisoner of desire to acquire numerous souls, or to create something of great worth.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.43060493639914005,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d9fe46e9-d24e-5b3d-9b5c-9435f17623f2",
+    "title": "Dark Soul",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Near the end of the Age of Fire, a slave knight called Gael traveled to the Ringed City, seeking the Pygmy Lords to gain their blood. The blood of the Dark Soul was intended to be used to paint a new Painted World, but to Gael's shock, Filianore's spell was broken and the Pygmy Lords were aged to the point that their blood did not flow, for it was dried in their veins. Even though he knew he had not the strength to survive bearing it, Gael slew the Pygmy Lords and drank from their wounds, absorbing the Dark Soul into himself. It imbued him with a dark miasma and warped his mind, but in the end he was successful, slain by the Ashen One to extract the soul's blood. The current state of the Dark Soul is unknown, but given the eternal nature of Lord Souls, it is unlikely that it was truly destroyed.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 15.847963927292867
+  },
+  {
+    "document_id": "dc476bd8-dab8-56b9-9d4b-dac37c285668",
+    "title": "Nashandra",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Nashandra -  Dark Souls II - boss - trivia \n trivia : According to the *Dark Souls II: Design Works* interview, Nashandra's design was inspired by Gravelord Nito's, and in the early versions of the story she was not meant to be the Final Boss, instead she had a role closer to Nito's from the first game. However, it is clarified that the two characters aren't directly linked.\n**Her design also serves to link well with *Dark Souls II's* theme of \"deep curse\" - the world's curse of Undeath and the grim fate of the Undead to be chosen to perform an impossible task - that director Yu Tanimura wanted to draw out in the game.\nIn the Memory of the King, Vendrick refers to her under the shortened name \"Shandra\", likely his nickname for her.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.46457071143664,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dcc6a844-3798-5116-9d74-a809f4676d0f",
+    "title": "Drangleic",
+    "section": "drangleic_s_rise",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "devoured. Those who emerged victorious boasted unmatched strength, and the sight of magic imbued halberd-wielding Dragonriders on wyrm-back soon became a feared sight on the battlefield. Dragonrider knights who served in the campaigns that founded Drangleic were rewarded with service as Vendrick's royal guard.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.417059954291107,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e5368213-67c0-5824-a83c-52b80e3dbde8",
+    "title": "Giant Lord",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Giant Lord -  Dark Souls II - boss - lore \n lore : The Giant Lord is the king of all Giants. After his kingdom was invaded by King Vendrick, who was under the influence of Nashandra, the Giant Lord invaded Drangleic to avenge his losses, and to retrieve the prize that Vendrick stole from him. Possessing a will of iron, the giants laid siege to Drangleic in a war that lasted for generations, and laid waste to the once proud kingdom. Eventually the Giant Lord was defeated by an unknown hero, and the giants retreated, crossing the sea to return home. The Giant Lord himself, broken and beaten, was dragged beneath the fort where he fell, and imprisoned there.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.40756850852648
+  },
+  {
+    "document_id": "e5692941-5b1d-5f88-bab4-d7cac6a414d0",
+    "title": "Drangleic",
+    "section": "drangleic_s_fall",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Vendrick fled the Castle through the King's Passage never to return, fearing Nashandra's wickedness. He left the Looking Glass Knight behind him, ready to expunge those who would challenge him, forever true to his original command, as the first line of defense against those who would attempt to pursue the runaway king into the Undead Crypt. The king took with him only a handful of Royal Soldiers and the faithful Sir Velstadt, and found refuge in the Shrine of Amana. Vendrick was initially intent on reaching the Throne of Want and link the First Flame but in the end the king understood that if he did so, Nashandra would have gained an easy access to the throne connected to the Flame. Vendrick thus decided to free himself from his soul, abandoning it among the ruins, to descend even deeper into the Undead Crypt. Here, left alone, he isolated himself in a secluded room wearing only his robes, crown, sword and his ring. Overcome by nihilism, Vendrick was consumed by the curse and soon",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.612035433378554,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ed477dc1-cba3-58ee-b824-a58e1aa1c306",
+    "title": "Emerald Herald",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "She eventually finds this someone in the Bearer of the Curse, an undead with no memory of their origins from a far away land. Shanalotte guides the Bearer of the Curse in their quest, telling them to seek souls and to seek the king. She will guide the Bearer of the Curse to seek out the Four Old Ones in order to claim their powerful souls. Once the Bearer of the Curse has done this, the way to Drangleic Castle, the home of Vendrick, will be open. Shanalotte will wait outside the castle, directing the Bearer of the Curse to enter.\n\nShe will next appear in the Undead Crypt, where Vendrick now wanders aimlessly. After the Bearer of the Curse has claimed the king's ring, she will direct them to follow the mark of the king and journey east, and warn them that if they continue on this path, they too will one day walk these same grounds, without really knowing why.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.41431250936693675,
+    "bm25_score": null
+  },
+  {
+    "document_id": "eebfa8e1-559e-5d83-9305-0180849b3317",
+    "title": "Nashandra",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Nashandra -  Dark Souls II - boss - strategy \n strategy : Nashandra specializes in dark magic and will immediately summon four Curse-inducing \"fountains\" once the battle starts. She has two methods of attack in addition to inflicting Curse on your character and eating away at their health:\n\n**Scythe**: She will swing her scythe sideways one, two, or three times (the third having a slightly longer windup and dealing heavy stamina damage on block), or do an overhead swing with a long recovery time. Her scythe swings can easily stagger characters with low adaptability and poise. Rolling diagonally backwards is the most effective way at dodging both of these attacks when close to her.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.4150468043918223,
+    "bm25_score": null
+  },
+  {
+    "document_id": "eefc8843-0a80-5c55-91e8-38ed849e4d3a",
+    "title": "Vendrick",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Vendrick -  Dark Souls II - boss - notes \n notes : Vendrick is initially passive, and will aggro only upon taking enough damage from the player. This is affected by the number of Giant Souls in the player's possession, so attacking him in his initial encounter after the battle with Velstadt will not aggro him.\nBy using a Bonfire Ascetic at the Undead Ditch bonfire, Vendrick can be respawned, but so will Velstadt.\nIf Vendrick is killed before going and slaying Nashandra, the player will have to fight Aldia, Scholar of the First Sin, which can ultimately cause Aldia to be the third boss in a row, assuming the Throne Watcher and Defender are not yet defeated.\nIf a player summoned for the Velstadt fight has any Souls of a Giant in their possession they will reduce Vendrick's defense immediately after the fight. If the area is abandoned or the player dies in that first fight he will reset and only calculate the player's Giant Souls.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.4822260991354267,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ef4e9192-38c6-5f92-862b-127da4466664",
+    "title": "Bearer of the Curse",
+    "section": "drangleic_castle",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - drangleic_castle \n drangleic_castle : Now with the strength of the four Great Ones, the Bearer of the Curse may pass through the Shrine of Winter to reach Drangleic Castle, the stronghold of Vendrick himself. The Emerald Herald awaits outside, directing the Bearer of the Curse to enter the castle. There is no trace of the King inside the castle however, instead the Bearer of the Curse finds his Queen, Nashandra. Nashandra tells the Bearer of the Curse that Vendrick was less of a king than one might imagine, and that he never took the true throne. She will direct the Bearer of the Curse to the Undead Crypt, to put an end to Vendrick.",
+    "sources": [
+      "human",
+      "template",
+      "dense"
+    ],
+    "dense_score": 0.4629257992279869,
+    "bm25_score": null
+  },
+  {
+    "document_id": "efa8a349-e145-5312-b3ff-6ad602446463",
+    "title": "Bearer of the Curse",
+    "section": "throne_of_want",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "If Vendrick is defeated before Nashandra, and the Bearer of the Curse has spoken to Aldia in the three mentioned locations, answering yes to both questions asked by Aldia, after Nashandra's defeat, Aldia will appear saying that \"many monarchs have come and gone\" and requires the Bearer of the Curse's answer as \"conqueror of adversities\". Aldia will then test the Bearer of the Curse to see if they are truly worthy of receiving the throne by confronting them himself. The Bearer of the Curse defeats Aldia. After Aldia, The Scholar of the First Sin is defeated, the Bearer of the Curse is given two endings.",
+    "sources": [
+      "human",
+      "template",
+      "dense"
+    ],
+    "dense_score": 0.46477054926245376,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f05687a0-de69-5cf4-b208-01e8b6e463f8",
+    "title": "Heide's Tower of Flame",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "founders had inherited a strong relationship with the knowledge of the city of the gods. Another element that proves the connection between Heide and Anor Londo is the fact that the Cathedral of Blue is defended by an Old Dragonslayer, whose appearance and artifacts are identical to that of the knights who served Dragon Slayer Ornstein, thus implying that some of them or knowledge of their heritage had come to the city of Drangleic.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.498580968985456
+  },
+  {
+    "document_id": "f3ee1724-b37a-545a-b58a-3cf99a6c0912",
+    "title": "Emerald Herald",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Emerald Herald -  Dark Souls II - character - lore \n lore : The Emerald Herald's real name is Shanalotte, a name given to her by the dragons. Born of dragons but contrived by men, she was created specifically to break the undead curse, but her creators failed and she did not come out as intended. Despite this, she guides undead towards the Throne of Want, waiting for a powerful undead that might defeat the Four Old Ones, succeed Vendrick and end the undead curse.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.738314241196825
+  },
+  {
+    "document_id": "f7a1ce8f-ffc9-5c71-89df-77f7bf5d1721",
+    "title": "Bearer of the Curse",
+    "section": "throne_of_want",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - throne_of_want \n throne_of_want : Below Drangleic Castle, the Throne of Want awaits. Here the Emerald Herald will meet the Bearer of the Curse one final time, declaring her journey completed. She warns that if the Bearer of the Curse proceeds, Nashandra, knowing the Bearer of the Curse will link the fire, and coveting the power of the First Flame and the Great Soul, will come for them. She urges the Bearer of the Curse to put an end to Nashandra.\n\nAfter defeating the Throne Watcher and Defender, the Bearer of the Curse will be greeted by Nashandra, now in her true form, as a child of Manus, Father of the Abyss. The Bearer of the Curse defeats Nashandra.",
+    "sources": [
+      "human",
+      "template",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 15.308282177312666
+  },
+  {
+    "document_id": "fc777fc6-5d37-53c1-95f7-9e30f0e94fcd",
+    "title": "Nashandra",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Nashandra -  Dark Souls II - boss - lore \n lore : Nashandra began her life as a small fragment of Manus, Father of the Abyss. When Manus was defeated, he was reborn as many fragments varying in sizes. Nashandra was the incarnation of her \"father's\" want, and thus began desiring what she did not have: power.\n\nNashandra travelled to the land of Drangleic, and set her sights on its powerful ruler, King Vendrick. Deciding to seduce Vendrick, Nashandra assumed a human form of unparalleled beauty and warned him of a supposed looming threat beyond the sea: the Giants. She convinced him to invade the land of the giants to claim their power, which Vendrick did successfully. Vendrick then made Nashandra his queen, and under their leadership, Drangleic entered into a Dark-like peace. The rulership of Drangleic however, was not enough to quell Nashandra’s want, and she desired an even greater power: the First Flame, which she intended to claim for herself by using Vendrick and the Throne of Want.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5269887580731036,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fd4fde4e-5f0d-5b26-b715-64aed6609068",
+    "title": "Company Captain Yorshka",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "At some point, after Gwyndolin had become the \"Chief Deity\" of the Anor Londo clan, Yorshka reached Irithyll of the Boreal Valley, the city her brother had built on the ruins of Anor Londo to house the Irithyllians, hybrids between the race of the gods of Anor Londo and humans. Here she was welcomed by Gwyndolin who formed a relationship of deep affection with his newfound sister, giving her a sacred chime and even the name Yorshka. Eventually a church was built in her name inside Irithyll—exactly where the Painted World of Ariamis was once kept— in which she was venerated as a goddess by the humans who worked in the city.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 16.070626508976115
+  },
+  {
+    "document_id": "fdd38d17-9eb8-5b70-ac2f-7790d8919bbd",
+    "title": "Boss (Dark Souls II)",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Darklurker *\nShrine of Amana\nDemon of Song\nUndead Crypt\nVelstadt, the Royal Aegis\nVendrick *\nAldia's Keep\nGuardian Dragon\nDragon Shrine\nAncient Dragon *\nMemory of Jeigh\nGiant Lord\nThrone of Want\nThrone Watcher and Defender\nNashandra\nAldia, Scholar of the First Sin *",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 15.360346770872832
+  },
+  {
+    "document_id": "114016b5-629b-5e1a-9153-8bcfa241089d",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "When Aldia has about half of his health left, he will buff himself, intensifying the flames that cover him. He will keep this form throughout the battle. At this point, he'll start combining various of his previous attacks and cast them in succession.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "37daca5b-a161-5be4-87d7-e2edd0c99874",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - trivia \n trivia : Aldia shares some traits with King Allant from *Demon's Souls*. Their voices are very similar, and their appearances are both that of deformed creatures which were once human.\nIf Aldia manifests to the player at the Shrine Entrance bonfire in the Dragon Shrine, due to the small area where it's located, a very tiny version of Aldia will emerge.\nBoth of Aldia's tree root attacks are very similar to pyromancies the Bearer of the Curse can find, such as Fire Snake or Firestorm.\nAldia is passively referenced in Dark Souls III, based on the Japanese item description and name (Soul Geyser) for Soul Stream. He may also be the subject depicted in the statue of the \"root man\" with a book present at Grand Archives.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3b2d03c4-04fd-5594-87d9-dcc1e74614ce",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - strategy \n strategy : Aldia is immobile when fought, but is able to teleport, releasing an area of effect attack around the area he teleports to.\n\nSeveral of Aldia's attacks deal mixed Fire and Dark damage, so some form of fire defense is recommended for this fight. All of his attacks deal either pure physical or Fire/Dark damage. This means that a shield that is highly resistant to both physical and Fire/Dark damage, such as the Rebel's Greatshield, will reduce his damage output greatly.\n\nThe Fire Orbs have moderate tracking, so rolling may be needed to fully evade. Forbidden Sun can be cast in any direction, even directly behind him. The Fire Orb and Forbidden Sun attacks can be avoided by rolling, strafing around Aldia or running perpendicular to their trajectory.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4676aff5-e564-5610-ac43-0b3560a5645f",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "dialogue",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "The deformed Aldia is encountered several times by the Bearer of the Curse, to whom he imparts his extensive knowledge on the nature of life. He expresses outrage over the actions of the Lord of Light, who cursed humans into mortality and introduced the cycle of light and dark by linking the First Flame. Aldia's bleak worldview considers mankind as \"props on the stage of life\", persevering merely through obsession. While acknowledging the merits of the Age of Fire, he labels the roots of this \"warm, resplendent\" world as a lie, with the linking of the Fire as its original sin. Nevertheless, Aldia realizes that one could wish to inherit this order, even if built on a \"tender, exquisite\" lie. Instead of submission to the peace provided by the status quo, he offers a third \"path\"; obscure and unpaved, yet could perhaps ascend the scope of Light and Dark.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6f70d848-61c4-5719-b5c4-ce6d11fff187",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "summoning",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - summoning \n summoning : Vengarl of Forossa, Benhart of Jugo, and Bradley of the Old Guard can all be found for summoning directly outside the fog gate.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "71657a27-1fd4-5dec-8d36-25dff16e6441",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia drops nothing upon defeat, not even souls. The only reward from defeating him is that the player has the option to leave the throne, giving the player an alternate ending.\nIf a weapon is swung within close vicinity to any of the bonfires he has manifested at, its durability will degrade unusually fast. This goes for all Primal Bonfires as well as the entrance to the Undead Crypt, and Shrine Entrance bonfire in Dragon Shrine.\nHe's one of the main antagonists of *Dark Souls II*. He was added in patch 1.10 and is only accessible to players who have installed Compatibility Pack 4.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "81c7e209-8b0c-5df3-813d-0a7de862473e",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "initial_stats",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - initial_stats \n initial_stats : (Stats are from Param Studio and are not estimated)\nStrike/Slash/Thrust defense are applied on top of Physical Defense. -10% slash means taking 110% damage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8c277e09-b8f4-5b04-a650-a61851646e8b",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "dialogue",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "The Scholar alludes to the fates of the three kings, whether or not the player has played through *The Lost Crowns* DLCs. He also seems to speak of Vengarl of Forossa*—\"One man lost his own body, but lingered on, as a head.\"*—though he could equally be referring to himself, given his diminished form as little more than a head.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8c7e59d6-3cc9-5225-b369-fab0faf591d8",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "attacks",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - attacks \n attacks : **Fire Orbs:**\n\nAldia will fire out four orbs of dark fire, placing them above his head. After a short time, the orbs will begin homing in on his target. He can cast this multiple times in a row. **How to avoid:** block with Gyrm Greatshield or roll a few times.\n\nDark **Forbidden Sun:**\n\nAldia charges a large dark fireball above his head. While he does this the fire around him will disperses leaving him vulnerable. Attack him while he's charging. **How to avoid:** the fireball is rather easy to dodge if you roll away right before it hits.\n\n**Tree Root Dance**:",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8f675e3b-8465-54a1-80d4-87e075d760fe",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "attacks",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "**Tree Root Dance**:\n\nAldia slams a root into the ground, causing numerous tree roots to protrude from the ground, moving towards the player rapidly. Just like the Fire Snake pyromancy. **How to avoid:** the roots start appearing right in front of Aldia at the center; a root never appears twice in the same location. Knowing this, first stand closer to his left or right side to avoid the initial roots, then quickly move to stand right in front of him, where the first roots appeared, and the other roots won't be able to follow you.\n\n**Circular Tree Root Dance**:\n\nAldia slams a root into the ground, causing numerous tree roots to come out of the ground around him, not moving towards the player. **How to avoid:** watch the fire patches appearing on the ground before the roots and move away from them.\n\n**Teleport:**",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9c793983-b876-5da2-8ec5-3c877d3e2714",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - notes \n notes : Aldia during his boss fight can be in either \"flame\" mode or “burnt out\" mode.\n**In \"flame\" mode, he has very high damage reduction and creates an aura, which may seriously wound the player.\nIf the player killed Nashandra before downloading the patch, Aldia will not appear in the Throne of Want, even if he has been spoken to in all three previous locations. A Bonfire Ascetic must be burned at the King's Gate bonfire to spawn Aldia, which means the player must defeat Nashandra as well as the Throne Watcher and Defender again before being able to fight Aldia.\nDuring the fight, spears and shields with high fire resistance are recommended.\nAldia drops nothing upon defeat, not even souls. The only reward from defeating him is that the player has the option to leave the throne, giving the player an alternate ending.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9ec92bc6-3e47-5db6-b8d1-5013ccac7236",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - lore \n lore : Aldia is the elder brother of King Vendrick, and aided his brother in founding the kingdom of Drangleic. He secluded himself in his manor, searching for secrets of life, viewing the Undead as the key to finding it. For his reverence of the Undead, Aldia was shunned by Vendrick, banished to his Keep forever. People who were invited to his manor commonly disappeared and were replaced with malformed beasts. The Southern and Northern Ritual Bands were created by Aldia and his acolytes after cruel, horrible experiments were performed on these people. Many valuable objects came out of Aldia's Keep, including the Sunset Staff, the Spitfire Spear, Soul Geyser, Unleash Magic, and Forbidden Sun.\n\nThrough his experiments, Aldia sought to learn the nature of the undead curse, and to shed the yoke of fate. He failed, however, and turned into a monstrosity, inhabiting the bonfires.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b394be89-ec48-53fb-a0a1-484e0bf54cd0",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "attacks",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "**Teleport:**\n\nAldia can teleport at any time. Upon finishing a teleport, he emits an area of effect attack immediately. **How to avoid:** watch the red light that appears at the location where Aldia is teleporting, then stand back to avoid the blast (similar to Smelter Demon's fire blast). After that immediately run up to him to land a few hits before his flames go up.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bc6aea0f-5e8a-53f5-97e9-e70f5b19989b",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "plot",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - plot \n plot : Aldia serves as a lore-centric character, alluding to a great deal of things in relation to the lore of *Dark Souls II*.\n\nWhen the Bearer of the Curse has defeated the Four Great Ones and lit the Primal Bonfires he will emerge and guide the Bearer of the Curse towards his brother Vendrick, now a mindless hollow. He continues to appear to the Bearer of the Curse, seeking to learn their intentions and telling them of the nature of the curse and the fabric of their world.\n\nHe will finally attack the Bearer of the Curse before they can take the Throne of Want, seeking to test them. When Aldia is defeated, he will ask what the Bearer of the Curse wants: light, dark or something else entirely. If the Bearer of the Curse chooses to reject the throne and leave, Aldia will narrate the Bearer of the Curse's departure from the throne.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bfefc9f6-9d62-5ba3-bf8c-0b061cbd4e23",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "dialogue",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - dialogue \n dialogue : With the introduction of *Scholar of the First Sin*, a great deal of lore-centric dialogue was added to the game, changing much of the preconceived lore.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c4ac6d64-24e0-580a-887a-e88ea1a71fbf",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "In *Scholar of the First Sin*, Aldia, the older brother of King Vendrick, hints at a path for the Bearer of the Curse that differs from the one presented to them. If the conditions are met, he can serve as the final boss of *Dark Souls II*, with his fight triggering after Nashandra's; he, notably, is the only boss in any *Dark Souls* game not to die when defeated, and as such drops no souls nor items, with the player instead gaining the option of an alternate ending in which the Bearer of the Curse is hinted to as following this mysterious other path at Aldia's side. He is also a mentioned character in *Dark Souls III* via the Soul Stream description, which refers to him as \"**the first of the Scholars**\". He is voiced by David Gant, who also voiced Oswald of Carim in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cf34461b-829a-5a09-8778-df30f750ba9f",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - lead \n lead : **Aldia, Scholar of the First Sin** is an optional boss as well as a character in *Dark Souls II*. He was originally only a mentioned character as **Lord Aldia**, a mysterious researcher who conducted horrible experiments in his mansion, Aldia's Keep, but was added into the game proper via the *Scholar of the First Sin* enhanced edition named after him.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d6be5250-9516-543a-a86a-18777a7c17eb",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "The withered tree branches he utilizes inflict physical damage only, making them especially prone to being blocked. At a distance, the branches extend out of the ground in a path in front of him, with moderate tracking, making it harder to roll out of the path of the attack. This is easily noted when one rolls away from the attack, but gets grazed by one of the branches, yet doesn't flinch or stagger upon getting hit.\n\nThroughout the fight, Aldia will surround himself in a fiery aura that makes close contact with him difficult without the risk of dying to the flames. However, an ultra greatsword can still reach. This aura also bolsters his own defenses, reducing the damage he receives from all attacks by a significant amount. The fiery aura fades when he performs certain moves, giving the player a small window to attack up close. The first opening is just after he teleports to a new location, and the second is when he is charging up his Forbidden Sun attack.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e026ab5c-b091-5cfa-93cb-60e9a9e2b533",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - description \n description : The Scholar of the First Sin appears to be a giant, charred human head covered in flames and large branches. The ground around the Scholar will be on fire. There is a single red orb near the center of his body, which is possibly an eye. His head and shoulders are all the Bearer of the Curse sees as he rises from the ground, but this could imply that there is a body below it, invisible to the player.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e138f072-63dc-5f51-ae23-a588e4437bb5",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "defenses",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - defenses \n defenses : \"Burnt out\" mode: low Lightning and Physical-type damage resistance, moderate resistance to Magic and Fire.\n\n\"Flame\" mode, 1st phase: moderate resistance to Lightning and Physical-type damage, high resistance to Magic and Fire.\n\n\"Flame\" mode, 2nd phase: high resistance to Lightning and Physical-type damage, very high resistance to Magic and Fire.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "25380414-bbfd-5583-8210-eb76d0b16a14",
+    "title": "Bearer of the Curse",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - lead \n lead : The **Bearer of the Curse** is the player character and the protagonist of *Dark Souls II* and its expansions, *The Lost Crowns*.\n\nThe Bearer of the Curse travels to Drangleic by a compulsion to find a way to break the curse of the undead and avoid Hollowing at any cost.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "290ce4af-a175-51f9-8c39-9afd8e3b8aa8",
+    "title": "Bearer of the Curse",
+    "section": "four_great_ones",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "At the bottom of the gaping hole in Majula lurks things long forgotten. Here, The Rotten, a hideous amalgamation of corpses awaits. After making their way through The Gutter, a place where unwanted things have been discarded, the Bearer of the Curse faces down the Rotten itself in its lair, slaying it and claiming its soul for their own.\n\nAfter freeing Rosabeth of Melfia from her petrification, the path is now open from Majula to Brightstone Cove Tseldora. The Brightstone Cove Tseldora once housed a prosperous town, grown rich after its founder, the Duke Tseldora, discovered its massive crystal deposits. The Duke was always a peculiar figure however, obsessed with spiders, and one day, a massive spider known as The Duke's Dear Freja and her countless children overran the town, and the Duke was never seen again. Fighting their way to the spider's lair, the Bearer of the Curse slays the beast and finds the final Great Soul hidden in her lair.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4657d82c-1000-5dec-a4e6-f2eb468dc426",
+    "title": "Bearer of the Curse",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - trivia \n trivia : While not mentioned in the game, according to the official *Dark Souls II* twitter, the Bearer of the Curse for both genders have birthdates; April 8th for the female character, and May 8th for the male character. This was agreed upon by the developers as it represents them well and is a fun additional fact. This extra information is recent and mentioned on twitter after the game's online servers went online.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5557c279-354d-5f52-a5e3-be50ec1fb102",
+    "title": "Bearer of the Curse",
+    "section": "dragon_aerie",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - dragon_aerie \n dragon_aerie : Following the symbol of the King will lead the Bearer of the Curse to Aldia's Keep. Aldia was the King's brother, who sought to create dragons, and has long since disappeared. Journeying through the Keep, home to the results of Aldia's mad experiments, will eventually bring the Bearer to the Dragon Aerie, where they will find the Emerald Herald awaiting them. She directs the Bearer to the very top of the Aerie, the Dragon Shrine, to seek the Ancient Dragon. She claims that the dragon has been watching over the world for aeons, and awaits the Bearer of the Curse.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6484a53c-96d2-5457-bda6-7c0162cab9a6",
+    "title": "Bearer of the Curse",
+    "section": "undead_crypt",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "The Bearer of the Curse fights their way through the knights and defeats Velstadt, finding Vendrick at last. The King, however, has been reduced to a hollow, wandering the grounds aimlessly. The Bearer may choose to put the king out of his misery, or leave him to wander endlessly. Here, the Bearer of the Curse finds the King's Ring, and the Emerald Herald, who tells them that the ring will open the way to the far east, where the Bearer of the Curse must journey next. She proceeds to warn the Bearer that if they continue on this path, they too will one day walk these grounds without really remembering why.\n\nShould the Bearer of the Curse seek her council, Nashandra too will direct the Bearer of the Curse to follow the symbol of the King.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "677bc659-70b4-5828-a438-a8c3f3b98de4",
+    "title": "Bearer of the Curse",
+    "section": "prologue",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - prologue \n prologue : The Bearer of the Curse became undead at some point, hollowing until they had no recollection of their former life. Desperate to find a cure, they were drawn to the walled off kingdom of Drangleic, where a cure to the undead curse was rumored to exist. Journeying through a portal and guided by a Fire Keeper, the Bearer of the Curse found themselves in the Things Betwixt. Finding there a hut with the remaining Fire Keepers, the Bearer of the Curse is made to remember more of their past and is cured of their hollowing through a Human Effigy. The Bearer is then guided towards Majula to seek the Emerald Herald.\n\nThe Herald, in turn, tells the Bearer of the Curse to seek the king, Vendrick, to find their answers and claim the throne, but warns that the Bearer will never find the king with a soul so pallid, instructing them to seek out the four Great Ones and to claim their power.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6b440a02-2a3e-5b6f-a65c-ac71de06c3f1",
+    "title": "Bearer of the Curse",
+    "section": "the_three_crowns",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - the_three_crowns \n the_three_crowns : Should the Bearer of the Curse choose to do so, they may use the Ashen Mist Heart on Vendrick's belongings in the Undead Crypt. Doing so will allow the Bearer to speak directly to the king as he was before he hollowed. Bitter and resigned to defeat, the king will council the Bearer of the Curse, warning them of the futility in seeking fire, of the dark that lies within them, and of the children of Manus, Father of the Abyss. He will tell the Bearer to seek three crowns of power, belonging to fallen kings. He will also warn the Bearer of his wife, Nashandra, revealing that she too is a child of the Abyss.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6d382dff-e6e5-51c0-9cf0-2725057c2112",
+    "title": "Bearer of the Curse",
+    "section": "undead_crypt",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - undead_crypt \n undead_crypt : After traveling through the Shrine of Amana, the Bearer of the Curse will come upon the Undead Crypt, a place that has stood since the dawn of time, and where men and gods alike have been interred. Here, Vendrick came along with his loyal knights and his right hand, Velstadt, the Royal Aegis. Many servants of Vendrick have come to find the King, only to meet their end at the hands of the Royal Aegis and the King's knights.\n\nUpon descending from the elevator, the Bearer of the Curse will stumble upon the Scholar once more if met at the last primal bonfire. The Scholar will ask the Bearer if they still desire peace, if answered yes, he will tell them that Vendrick is here and not far off. He will state that the Bearer was neither born with greatness nor granted it by the fates, before once again disappearing into the flames.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7096fb6f-96b3-5ac5-8192-28fa00134672",
+    "title": "Bearer of the Curse",
+    "section": "the_three_crowns",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "The Bearer of the Curse will journey through the Black Gulch to find the fallen kingdom of Shulva, Sanctum City, once ruled by the Sunken King. The king ruled the city, centred around the worship of a slumbering dragon known as Sinh, until his kingdom was invaded by the Drakeblood Knights lead by Sir Yorgh, who sought to claim the dragon's blood. Sir Yorgh slew the king, and awoke the dragon, which proceeded to kill him and lay waste to the city with its poison. The Bearer of the Curse slays Elana, the Squalid Queen, a child of the Abyss, and the dragon Sinh to claim the Sunken King's crown.\n\nNext, the Bearer of the Curse returns to the Old Iron Kingdom, to seek the Old Iron King's crown. Finding the kingdom under the sway of another child of the Abyss, Nadalia, Bride of Ash, the Bearer braves their way through the ruined towers to find the Fume Knight, who guards the crown of the Old Iron King.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "89b5af06-8ed3-512a-86a3-20ae57ef6323",
+    "title": "Bearer of the Curse",
+    "section": "the_three_crowns",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Finally, the Bearer of the Curse travels to Frozen Eleum Loyce, once ruled by the Ivory King. Built to contain the Old Chaos, the city was abandoned and froze over when its king vanished into the chaos. Guided by the last child of the Abyss, Alsanna, Silent Oracle, the Bearer of the Curse seeks out the remaining knights of Eleum Loyce to gain their help in braving the Old Chaos. Finding the Burnt Ivory King there, the Bearer of the Curse defeats him and claims his crown.\n\nOnce the Bearer of the Curse has found all three crowns of old, along with Vendrick's own crown, the fallen king will unleash the hidden power of the crowns, making the Bearer of the Curse immune to the hollowing effects of the curse. Bidding the Bearer to seek strength, and asking them whether allowing the flames to fade is truly their only choice, the king sends the Bearer of the Curse on their way.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8ac1f311-c5e1-5edf-afdd-77532b3330b7",
+    "title": "Bearer of the Curse",
+    "section": "four_great_ones",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "When about to light the last primal bonfire, the Bearer of the Curse is surprised by the Scholar of the First Sin, who emerges from the bonfire. The Scholar asks if they want to \"shed the curse\", unless they have already joined the crestfallen, he tells them that there are two paths: to inherit the order of the world, or destroy it. He admits that very few have come this far, and yet the Bearer's journey is far from over. The Scholar asks of the Bearer to seek Vendrick, \"he who almost became a true monarch\", for he will guide their way. After this, the Scholar will disappear, letting the Bearer of the Curse light the primal bonfire.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8d20a47f-429a-5983-8d6b-8d556cf10fc5",
+    "title": "Bearer of the Curse",
+    "section": "four_great_ones",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - four_great_ones \n four_great_ones : The Bearer of the Curse sets out to find the Four Great Ones.\n\nThrough the rotunda in Majula, the Bearer of the Curse makes their way to the ancient domain of the Old Iron King, whose hubris led to his death beneath the molten iron, where he was possessed by the soul of one whose name must not be repeated. Making their way through the king's old hunting grounds and the now poison-filled valley surrounding the castle, the Bearer of the Curse finds and slays the Old Iron King, claiming his soul for their own.\n\nBy way of ship or on the wings of an eagle, the Bearer of the Curse makes their way to The Lost Bastille, a forgotten prison where the Lost Sinner is held. The Lost Sinner was imprisoned for the sin of attempting to relight the First Flame. The Bearer of the Curse fights their way down into the very bottom of the prison, where they face the Sinner and take her soul for their own.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a178cfff-414e-58f7-855d-7892a5407fd0",
+    "title": "Bearer of the Curse",
+    "section": "giant_memories",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - giant_memories \n giant_memories : Using the Ashen Mist Heart on the corpse of the giant Jeigh will allow the Bearer of the Curse to enter the giant's memories and fight the Giant Lord during the final days of the war between Drangleic and the Giants. Upon defeating the Giant Lord, they will acquire the Giant's Kinship which will allow them to claim the Throne of Want.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d401e569-35eb-5763-b183-8468deb6c2fc",
+    "title": "Bearer of the Curse",
+    "section": "dragon_aerie",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Once arriving at the Dragon Shrine bonfire, the Scholar appears once more. He will reveal that he is in fact Aldia, the elder brother of Vendrick. Aldia says that he \"sought to shed the yoke of fate, but failed\" and that he now only awaits an answer. He asks of the Bearer of the Curse to \"seek the Throne, seek light, dark and what lies beyond\", for the last time, he'll vanish into the flames, allowing the Bearer of the Curse to light the bonfire.\n\nThe Ancient Dragon will give the Bearer the Ashen Mist Heart, which allows one to peer into the memories of things long withered. Should the Bearer of the Curse again seek out Nashandra's council, she will warn that the dragon is a false deity and is in fact no more than a prop. Still, she will direct the Bearer of the Curse to go to the Forest of Fallen Giants, to use the Ashen Mist Heart to peer into the Giants' memories.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d93c2039-f671-5b9a-8291-e42a66e1e54f",
+    "title": "Bearer of the Curse",
+    "section": "epilogue",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - epilogue \n epilogue : ***Proceed to the Throne:** In this ending, the Bearer of the Curse will accept their part in the cycle of the world, and take the throne. Doing so means that they will either sacrifice themselves to link the flame, or allow the flame to continue fading and become the Dark Lord. Which the Bearer of the Curse chooses is unknown.\n\n***Leave the Throne: **In this ending, the Bearer of the Curse rejects the throne, and bitterly walks away, seemingly to seek another, more permanent way to end the curse.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ecea3dd1-3f60-5575-b850-3c7b3fb6295b",
+    "title": "Bearer of the Curse",
+    "section": "appearance",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - appearance \n appearance : In the trailers, artwork, and promotional artwork for *Dark Souls II*, the Bearer of the Curse is depicted wearing the Faraam Set as well as using the Longsword and Spear (dual-wielding) along with the Golden Wing Shield as their main weapons. In the intro video of *Dark Souls II*, the Bearer of the Curse is seen wearing the Imported Set.\n\nIn-game, like the Chosen Undead from *Dark Souls*, the Bearer of the Curse's appearance and attributes are determined by the player, including their face/body, sex, origin, starting class and equipment.\n\nAlso, like the Chosen Undead, the character's personality is portrayed as an archetypal silent protagonist who doesn't have any sort of spoken dialogue during the game (aside from making some grunts or cries whenever they are hurt or killed).",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "09f3ea8b-452e-5e19-a95d-60b7c55b32f6",
+    "title": "Big Hat Logan",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Big Hat Logan -  Dark Souls - character - lead \n lead : is a character in *Dark Souls*. First met in Sen's Fortress, from which he relocates to Firelink Shrine, he is a merchant of advanced sorceries, including new ones upon following his questline into The Duke's Archives.\n\nVoiced by Ian Thompson in his final role before his passing in 2022, Logan is also a mentioned character in *Dark Souls II* and a mentioned character in *Dark Souls III*, although *Dark Souls II* refers to him as an unnamed \"master sorcerer\" due to his name being forgotten in Drangleic.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1dd4509c-5c7c-5fb1-b5f8-3245da54dc28",
+    "title": "Big Hat Logan",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Big Hat Logan -  Dark Souls - character - lore \n lore : Master Logan was a famous Sorcerer and a royal member of the Vinheim Dragon School before he turned Undead about one hundred years ago. His nickname stems from the gigantic hat he wore which completely hid his face; he used it to block the noise and stares from those around him in order to focus his thoughts. His weapon was once an ordinary catalyst employed by the Sorcerers of Vinheim, but it has since been strengthened due to lengthy use over time. His sage robe, called prototype, meaning it goes back the School foundation of the Dragon School, therefore the School was founded around the times Logan was alive.\n\nLogan is credited with having developed the Soul Spear Sorcery, among others, which is referenced repeatedly in the legends and is said to be on par with Lord Gwyn's lightning.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "32d464d1-5f0a-5c15-b0f9-769a3815804e",
+    "title": "Big Hat Logan",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Big Hat Logan -  Dark Souls - character - trivia \n trivia : Big Hat Logan seems to prefer sitting down in a meditative position, except for the first encounter when he's in a hanging jail cage.\nIf you get the Man-Serpent leaning against the wall next to the cage he is in, It will break, meaning you don't need to get the boulder trap to break it, with careful planning.\nLogan shares many similarities with Sage Freke from *Demon's Souls*. Both are first found trapped in cages and rescued by the player. Both are preceded by apprentices looking for them, have an unhealthy fascination with magic, and are found sitting in the main hub area.\nRickert of Vinheim mentions to the player that Big Hat Logan is famous in Vinheim; however, he also mentions that Logan was from \"a hundred years ago\". Either Logan has remained sane for as long as he has been undead, or time warping in Lordran has brought Logan to a time where one does not belong.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3893f177-aa87-545b-9c6a-b1d3d536aabc",
+    "title": "Big Hat Logan",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "When Logan is encountered hostile, he is not hollowed, but was driven insane in a more \"traditional\" sense. All other NPCs appear in their charred, undead forms when they attack players after hollowing.\nIf the player dies fighting against Big Hat Logan while in Seath's arena, the player will respawn in the prison as if they were killed by Seath himself, which underlines that Logan became just as mad as Seath.\nLogan's Tin Crystallization Catalyst is actually 結晶の錫杖 (\"Crystall Staff\"). 錫杖 (khakkhara), is a ringed staff used by Buddhist monks. This implies that Logan venerated Seath as a God.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3c259af1-66d2-5f67-9148-a3c852cfe7d3",
+    "title": "Big Hat Logan",
+    "section": "locations",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Big Hat Logan -  Dark Souls - character - locations \n locations : #Caged in Sen's Fortress behind a destructible wall (can be broken by a Serpent Soldier, a strong weapon, or rolling a boulder down the middle groove).\n#Prison in the Duke's Archives.\n#Library in the Duke's Archives, near the room leading to the Crystal Cave.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3ce67832-6ce4-51b5-befd-51dac4bde1cc",
+    "title": "Big Hat Logan",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Big Hat Logan -  Dark Souls - character - plot \n plot : Big Hat Logan is first encountered in Sen's Fortress. His cage is hidden behind a wall, which can be destroyed by manipulating the iron ball trap mechanism, using a powerful enough weapon, or goading the sleeping man-serpent guard to attack the wall. After freeing him with either the Cage Key or Master Key, Big Hat Logan thanks the player and later retreats to Firelink Shrine. There, he accompanies Griggs of Vinheim and offers to sell the player advanced Sorceries.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "455ba02e-7593-5c09-b631-ccefb8584b34",
+    "title": "Big Hat Logan",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Logan is credited with having developed the Soul Spear Sorcery, among others, which is referenced repeatedly in the legends and is said to be on par with Lord Gwyn's lightning.\n\nHe is also the creator of Homing Soulmass, a sinister spell similar to Pursuers and therefore closer to dark sorceries, which enlights a more shady side of Logan. Griggs affirms that Logan has not concern for others, and that he is an unreasonable and troublesome man.\n\nIn his attempt to reach Anor Londo, presumably to gain access to The Duke's Archives and its vast store of endless knowledge, he became imprisoned in Sen's Fortress, where he first encounters the Chosen Undead.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "60233997-ee10-572a-9dfc-941d48ced272",
+    "title": "Big Hat Logan",
+    "section": "wares",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Big Hat Logan -  Dark Souls - character - wares \n wares : Logan will not sell anything to the player unless they have at least 15 Intelligence.\n\nOnly available at The Duke's Archives",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "984b5ce7-03d9-537e-8656-77c9e98496c1",
+    "title": "Big Hat Logan",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Big Hat Logan -  Dark Souls - character - notes \n notes : Big Hat's Set and Logan's Catalyst are found in a chest where he normally sits in The Duke's Archives after he goes insane and travels to the arena where Seath is first encountered. (The elevator is likely at the top of its shaft and the lever will need to be used to bring it back. It is recessed and hidden on the first floor.) The player must kill Logan then trigger a loading screen (either by logging out or using a Homeward Bone) to make the chest appear.\nWhen Big Hat Logan is battled, he wears no clothes except for his big hat, because he has gone insane.\nWhen spoken to in the Duke's Archives there is no Intelligence requirement to purchase his spells.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ae6bf3ae-74d2-555a-844d-e38b138b4cf9",
+    "title": "Big Hat Logan",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Big Hat Logan soon leaves Firelink Shrine after the Lordvessel has been obtained. He is then jailed in The Duke's Archives. Logan explains that he is there to study Seath the Scaleless and his magic. After freeing him with the Archive Tower Giant Cell Key, players can find Logan in an ancillary library close to the third bonfire in The Duke's Archives, where he sells Crystal Sorceries as well as his prior spells. Alternatively, if not freed by you by Seath's defeat, he will free himself and move to the library.\n\nUnfortunately, Logan's infatuation with Seath's magic eventually drives him insane after Seath has been defeated and his entire stock of spells has been purchased. Speaking with him again, after the above conditions are met, will cause him to move to the large chamber where Seath the Scaleless was first encountered and become hostile.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b651f000-9e27-5a69-bcf7-ed05315793d1",
+    "title": "Big Hat Logan",
+    "section": "theory",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Big Hat Logan -  Dark Souls - character - theory \n theory : Given Logan's obsession with Seath and his Archives, it's possible that he let himself be captured by the Serpent Men in order to reach The Duke's Archives easily, as the two locations we find him jailed yet not much concerned are the Archives and Sen's fortress, areas crowd by Serpent Men.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e9e1d8fe-e821-52ad-9a43-f4625d1a8968",
+    "title": "Big Hat Logan",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Big Hat Logan -  Dark Souls - character - strategy \n strategy : Big Hat Logan has a repertoire of dangerous Sorceries, including Soul Spear and Homing Soulmass. If attacked later in the game, he also possesses their augmented crystal variants. However, he is fairly fragile and can be killed before he deals too much damage.\n\nIf killed when encountered in Sen's Fortress or Firelink Shrine, he will **not** drop anything.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f5e528fc-9e3b-5da6-8773-c96e15790a52",
+    "title": "Big Hat Logan",
+    "section": "notes_2",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Big Hat Logan -  Dark Souls - character - notes_2 \n notes_2 : </references>",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "52af3c5b-4bfd-573d-b506-d89e44a80198",
+    "title": "Bradley of the Old Guard",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bradley of the Old Guard -  Dark Souls II - character - lead \n lead : **Bradley of the Old Guard** is a summon in .",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "54866e41-1db0-56e9-9d21-175e1356d3d7",
+    "title": "Bradley of the Old Guard",
+    "section": "locations",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bradley of the Old Guard -  Dark Souls II - character - locations \n locations : Bradley of the Old Guard can be summoned at the following locations:\nNo-man's Wharf (as a shade)\nHis summon sign is found in the first area, next to the first hollow using fire arrows on the docks.\nShaded Ruins\nHis summon sign will appear between the two ruined towers leading up to Scorpioness Najka after all the Forest Guardians past the Shaded Ruins bonfire are defeated.\nThrone of Want\nHis summon sign will be located before the Throne Watcher and Defender boss fight, if Aldia is available as the final boss.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d3d9c167-1ae1-57dc-8b35-74c717e4ac8a",
+    "title": "Bradley of the Old Guard",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bradley of the Old Guard -  Dark Souls II - character - trivia \n trivia : His spear, unlike that the player can wield, doesn't deal lighting damage.\nAlthough the torch-wielding Hollow in No-man's Wharf isn't hostile to the player, Bradley (and Lucatiel) will still aggro on him.\nHe can't perform backstabs nor ripostes. He can still guardbreak opponents though.\nHe's immune to Curse.\nHe can't be backstabbed.\nHe won't aggro on Forest Guardians and they won't aggro on him. Both can still hurt eachother accidentaly.\nIn both No-man's Wharf and the Shaded Ruins, Bradley will only use the Duel Bow gesture on arrival and departure. However, during the final battles in Drangleic Castle, he will use a variety of gestures after the bosses are defeated which includes Joy, Warcry and Fist Pump, followed by Duel Bow.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e11f1be9-21c1-57a6-b667-3c2198b2d663",
+    "title": "Bradley of the Old Guard",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bradley of the Old Guard -  Dark Souls II - character - description \n description : Bradley is equipped with the full Alva Set and fights with a Heide Spear and a Disc Chime. He can also heal himself up with Estus.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "edf15d78-e3b4-5d4a-85b4-3bd2b31296e5",
+    "title": "Bradley of the Old Guard",
+    "section": "overview",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bradley of the Old Guard -  Dark Souls II - character - overview \n overview : Bradley relies on a variety of miracles in battle: he'll apply Sunlight Blade on his spear when engaging a strong enemy or a horde of mobs, if surrounded he'll use Force and Emit Force to take down enemies from the distance. Although uncommon, he may also use Heavenly Thunder against bosses.\n\nWhen not in combat, if the player is wounded, he'll use the \"I won't bite\" gesture to beckon the player and cast Heal.\n\nHis high HP and defense paired with the ability to use up to ten Estus and regenerate both his and the player's health infinitely makes him one of the most valuable summon in the game, and he has the potential to solo most, if not all of the bosses he can be summoned for, even on higher levels of NG+.\n\nIn No-man's Wharf he might kill himself if he targets and attempts to attack a Varangian Sailor that is hanging from the docks.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "16d8d281-81a6-5deb-958d-42dbc95ea4bc",
+    "title": "Captain Drummond",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "What happened to Drummond afterwards is never stated, but his armor, sword and shield can be found in the ruins of the fort, now enveloped by the surrounding forest, around the wall where the Giant Lord was felled in the past. It is therefore likely that he perished shortly after the victory on the Giants, becoming the last of his family line. The absence of his helm is also meaningful, as he gifted it to the Bearer of the Curse in the past for helping his remaining army in their hour of need.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1b573204-18fd-5b01-bc5d-0256f233f73a",
+    "title": "Captain Drummond",
+    "section": "location",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Captain Drummond -  Dark Souls II - character - location \n location : He is encountered at the very beginning of the Memory of Vammar. He is found close to the door that leads forward, crouched next to a lantern and surrounded by the corpses of his men, and will remain here for the entire game.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1c9f46ad-cc25-5464-a982-459d246492f0",
+    "title": "Captain Drummond",
+    "section": "theories",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Captain Drummond -  Dark Souls II - character - theories \n theories : It's possible that Drummond is related to Raulmond, a knight of Drangleic who served Vendrick by guarding and defending the fort until his own death, just like Drummond's family line. The captain also claims that both his father and grandfather fought in the same war, so Raulmond could be one of these two family members who perished during the struggle. The names of the two soldiers are also remarkably similar, which would make a lot of sense if they were related in some way.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "201cf465-f44b-53aa-8fa8-712f81350900",
+    "title": "Captain Drummond",
+    "section": "plot",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Speaking with Drummond also has an unseen effect: he claims he'll order his men to stand down and allow the player to pass through, and indeed, the soldiers encountered in the memories from this point forward will not be hostile to the player and will instead assist them in fighting the Giants. However, if the player attacks a soldier, even accidentally, they will all turn hostile again and will remain hostile for the rest of the playthrough, even if the player speaks to Drummond again.\n\nAfter defeating the Giant Lord he'll gift the Drangleic Helm to the player, which also allows them to obtain the \"**Holder of the Fort**\" Achievement. Note that he doesn't need to be summoned for the boss, as he will gift his helmet regardless after the king of the invading Giants is beaten.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8e83e5c6-3d28-524e-942b-093a65a67391",
+    "title": "Captain Drummond",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Captain Drummond -  Dark Souls II - character - lead \n lead : is a character and summonable phantom in *Dark Souls II*.\n\nHe is voiced by Andy Beckwith.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a5628c78-cd60-51d1-aa27-2afadb270619",
+    "title": "Captain Drummond",
+    "section": "plot",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Captain Drummond -  Dark Souls II - character - plot \n plot : Drummond is one of the last NPCs that the player can meet on their journey, only accessible after retrieving the Ashen Mist Heart from the Dragon Shrine. With it, one can return to the Forest of Fallen Giants and interact with the Tree of Giants near where Mild-Mannered Pate was first encountered.\n\nOnce there, it takes very little for the player to see him. Talking to him provides insight on the war against the Giants, as well as mentioning their powerful leader. After exhausting his dialogue, players can learn the \"**Hurrah!**\" gesture from him, and he will also become available for summoning against the Giant Lord in the Memory of Jeigh. His summon sign is located at the side of the staircase that leads to the fog gate.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ae2174b6-48e0-5a29-91a6-d07ab294ea47",
+    "title": "Captain Drummond",
+    "section": "artifacts",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Captain Drummond -  Dark Souls II - character - artifacts \n artifacts : Drangleic Sword\nDrangleic Shield\nDrangleic Set",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "da19fdac-ae1f-5933-84d2-18a05eb42933",
+    "title": "Captain Drummond",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Captain Drummond -  Dark Souls II - character - lore \n lore : Captain Drummond descends from a family line of high-ranking army captains of Vendrick, entrusted with his seaside fort. The helm in their possession is proof of the king's great trust.\n\nHowever, a long time after the king had subdued the Giants and stolen their prized possession in his conquest, the beings would cross the sea to enact their vengance in a war that continued for generations. The fort overseen by Drummond's family was the main stage of the long-winded massacre, with his grandfather and father both having to face the threat of the Giants, until the duty would be passed down to him, as well as their equipment.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dda78684-2b88-5fc0-bd0c-5f0b79315a03",
+    "title": "Captain Drummond",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Although Drummond and his forces fought valiantly against their foes, the war of attrition had left the armies of Drangleic crippled. They were simply no match for the Giants, fueled by a singular rage against Vendrick and his sins. Despite the captain's fielty to the kingdom, he too believed the king's barbarism to have been misguided, and he saw greater intellect in the actions of his foes, despite their seemingly barbaric appearance and disposition.\n\nWhile his men were on the brink of defeat, he still wished to topple the leader of the invading Giants no matter the cost, knowing it would surely bring an end to the conflict. It is then that he met with a mysterious hero not from around those parts: the Bearer of the Curse, who had traveled back in time with the Ancient Dragon's gift. Together, they can team up against the Giant Lord and dispell the invading army for good, signaling the end of the generational war, though it came all to late and most of the kingdom was already lost.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "428b2a50-87e1-5d4d-87de-0e3222b8a0ed",
+    "title": "Chancellor Wellager",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Chancellor Wellager -  Dark Souls II - character - trivia \n trivia : Wellager claims Vendrick defeated the Old Ones to build Drangleic, but the claim is quite dubious, as they are present when the Bearer of the Curse starts their adventure. This is either an outdated line of dialogue that reflects an earlier version of the plot, or implies there were different Old Ones when Vendrick founded Drangleic.\nHis model is actually completely textured, but it never shows up like that in-game through normal means due to his ghostly filter, a trait he shares with the Wall Warrior enemy.\nAlthough he is transparent, messages can't be seen through him.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "59cd1462-798d-5c08-97c1-695633b2845d",
+    "title": "Chancellor Wellager",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Chancellor Wellager -  Dark Souls II - character - lead \n lead : is a character and merchant in *Dark Souls II*.\n\nHe is voiced by Andrew Tiernan.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6f59c540-7387-59c9-b4f8-49c404cab5e4",
+    "title": "Chancellor Wellager",
+    "section": "location",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Chancellor Wellager -  Dark Souls II - character - location \n location : He is encountered at the entrance of Drangleic Castle, standing on the stairway to the throne room. He remains here for the entire game.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7fd66f32-29b9-5b20-9dbd-7a55371ca578",
+    "title": "Chancellor Wellager",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Chancellor Wellager -  Dark Souls II - character - lore \n lore : Chancellor Wellager was one of Vendrick's most important servants, having been present for all of his greatest accomplishments; the founding of the kingdom of Drangleic, the arrival of his queen Nashandra, the construction of the castle and the invasion of the land of Giants, which resulted in the creation of the Golems. This led to a period of peace that the advisor described to be akin to the Dark, a hint to the queen's true nature.\n\nHis king had once ordered him to enlist the great blacksmith Llewellyn from the land of Mirrah with a lifetime contract, so that the kingdom of Drangleic could have access of the rare geisteel from the eastern land, which had been secret until then. Wellager would succeed in this, even being gifted the Espada Ropera by the blacksmith. His exploits would strengthen the kingdom greatly.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ac2d2728-4a58-506c-9cfa-d6c0c5dcaf75",
+    "title": "Chancellor Wellager",
+    "section": "wares",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Chancellor Wellager -  Dark Souls II - character - wares \n wares : {{WaresTab|Weapons={{Wares\n|Flamberge (Dark Souls II) Flamberge | num1= | Flamberge II.png 100px | 4,200\n|Lucerne (Dark Souls II) Lucerne | num2= | Lucerne II.png 100px | 4,800\n|Crescent Sickle Crescent Sickle | num3=1 | Crescent Sickle.png 100px | 10,000",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ae0fca80-2d5c-5475-8e4d-9520e5e42b82",
+    "title": "Chancellor Wellager",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "However, the Giants would return with a vengance, and shortly after the king would vanish too. At some point after that, the chancellor would meet his end and linger on as a ghost, seemingly stuck in time and unable to move on, completely unaware of his current predicament.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e164b60b-e38a-5e11-a3ed-18786e2a0404",
+    "title": "Chancellor Wellager",
+    "section": "plot",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "After the Looking Glass Knight is defeated, he will begin selling new weapon variants that came included with the pre-ordered Black Armor edition of the game. Once NG++ is reached, Wellager will also sell all Covenant rewards of the Blue Sentinels and Brotherhood of Blood, allowing those who do not wish to grind the PVP-oriented covenants with no offline grinding method a way to still obtain that equipment. Note that increasing the bonfire intensity with Bonfire Ascetics won't work, and a proper NG+ playthrough must be initiated.\n\nIf the Giant Lord is defeated in the Memory of Jeigh, speaking to Wellager will have him gift the player with the Royal Dirk and the Espada Ropera, as well as the full Llewellyn Set in the Scholar of the First Sin edition of the game.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e51a9985-ec19-5593-96f1-95e06e80abe6",
+    "title": "Chancellor Wellager",
+    "section": "plot",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Chancellor Wellager -  Dark Souls II - character - plot \n plot : Wellager appears as a ghostly, translucent figure, which makes him impervious to any damage, meaning he cannot be killed and his services will always be available to the player. He acts as a merchant, selling various goods, and will also offer exposition to the player, giving them a good idea of Drangleic's history. Players can also learn the \"**This one's me**\" gesture from him upon going through his introduction speech.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "014c24ae-6824-5600-82e2-1f738babb6a0",
+    "title": "Drangleic",
+    "section": "artifacts",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Drangleic -  Dark Souls II - location - artifacts \n artifacts : Dragonrider Set\nDragonrider Greatshield\nDragonrider Bow\nDragonrider Twinblade\nDragonrider's Halberd\nSyan's Halberd\nSyan's Set\nRoyal Swordsman Set\nRoyal Greatsword\nDrangleic Helm\nHollow Soldier Set (Dark Souls II)\nHollow Soldier Shield (Dark Souls II)\nRoyal Soldier's Ring\nElite Knight Set (Dark Souls II)\nInfantry Set\nInfantry Axe\nFoot Soldier Sword\nFoot Soldier Shield\nWhite Priest Set\nPriest's Chime\nKing's Crown\nRoyal Dirk\nLlewellyn Set\nLlewellyn Shield\nLooking Glass Set\nKing's Shield\nThorned Greatsword\nOld Ironclad Set\nDrakekeeper Set\nKing's Crown\nKing's Set\nRuler's Sword\nKing's Shield\nKing's Ultra Greatsword\nKing's Ring\nAldia Hammer\nSpitfire Spear\nNorthern Ritual Band\nSouthern Ritual Band\nSoul Geyser\nUnleash Magic\nForbidden Sun\nDragon Acolyte Set\nBone Shield\nMalformed Claws\nMalformed Shell\nMalformed Skull\nWarlock Mask\nCursed Bone Shield\nDrakekeeper Set\nDrakekeeper's Ultra Greatsword\nDrakekeeper's Warpick",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "13debe0f-8354-5ff3-920e-32d054ea66a0",
+    "title": "Drangleic",
+    "section": "drangleic_s_fall",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "bravest men with the best equipment available, very few managed to return alive, much less victorious. The king even commissioned replicas of Syan's armor and halberd to commemorate their heroism, which he then bestowed to promising knights, but not long after they donned the armor they would go thoroughly mad.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1838ca2f-2ce4-57a0-9363-015f1e9ab68a",
+    "title": "Drangleic",
+    "section": "drangleic_s_curses",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "time someone linked it, giving it new strength. He also understood how the Dark was kept under control as long as the fire flourished, and that once the fire naturally weakened the curse would strike humans again.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1aa719a8-a28a-5de4-9eb4-6e24ae84d9c4",
+    "title": "Drangleic",
+    "section": "drangleic_s_curses",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Having accumulated immense knowledge through his vast, twisted experiments, Aldia directed his research towards infusing the qualities of the everlasting dragons into humans, to free them from the shackles of their fleeting form and transcend, like the followers of the Dragon Remnants were trying to do using stones infused with the power of the dragons. The scholar obtained some of the Giants that his brother had captured and kept them in his manor as experimental subjects in an attempt to use their bodies and souls to recreate a dragon, only producing creatures with bones resembling draconic features that were killed once they had outlived their usefulness. His sustained efforts resulted in humans that turned into half-dragons, transformed into undead aberrations with deformed skulls that became close to those of the dragons but still degraded into hollows.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1b224cc6-28ea-5382-8428-e482679f8bb0",
+    "title": "Drangleic",
+    "section": "artifacts",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Shield of Want\nDragonrider Bow (Dark Souls III)\nDrang Set\nDrang Twinspears\nDrang Hammers",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1d68baeb-6ea1-5fe1-9cf7-e950415121a6",
+    "title": "Drangleic",
+    "section": "artifacts",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Forbidden Sun\nDragon Acolyte Set\nBone Shield\nMalformed Claws\nMalformed Shell\nMalformed Skull\nWarlock Mask\nCursed Bone Shield\nDrakekeeper Set\nDrakekeeper's Ultra Greatsword\nDrakekeeper's Warpick\nDrakekeeper's Great Hammer\nDrakekeeper's Greataxe\nDrakekeeper's Greatshield\nDrakekeeper's Sword\nDrakekeeper's Shield\nPriestess Set\nStone Twinblade\nStone Soldier Spear\nStone Parma\nForlorn Set\nGreatsword of the Forlorn\nScythe of the Forlorn",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "24025904-e0ea-5d5f-8ba2-33454e01c2d9",
+    "title": "Drangleic",
+    "section": "drangleic_s_curses",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Drangleic -  Dark Souls II - location - drangleic_s_curses",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3285c3bb-54cc-50a9-8f93-52896d9b3595",
+    "title": "Drangleic",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Drangleic -  Dark Souls II - location - description \n description : The region of Drangleic is geographically defined by natural barriers: to the north stretches a vast coastline while the other three sides are surrounded by mountains.\n\nFar in the north of Drangleic, beyond the great sea, there is an unexplored continent where the race of the giants lives. To the east, Drangleic borders with the kingdom of Mirrah while in the distant east the land of Jugo and the ruins of the kingdom of Forossa are located. To the northeast, Drangleic borders with the frozen ruins of the kingdom of Eleum Loyce. To the west, Drangleic borders with the city of Volgen. To the south, Drangleic borders with the kingdom of Melfia while in the distant south the land of Lanafir is located.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3fc6904e-4694-5aa2-9bcd-177bddb1182f",
+    "title": "Drangleic",
+    "section": "drangleic_s_fall",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "As the First Flame continued to wane, an Abyss opened beneath Drangleic, the result of the scattered fragments of an ancient abyss and the dissipated Manus, Father of the Abyss. Coalescing again, this abyss expanded across the region and assimilated all things into its growth, with its darkness felt even by those attuned to magic in neighbouring regions. A group of Undead led by Darkdiver Grandahl, called the Pilgrims of Dark, started to make pilgrimages to what they considered holy sites and delved into the Dark Chasm, to overcome the trials that lurked in the depths to refine the darkness within them. In the heart of the abyss, the Darklurker manifested: A dark, angelic creature that manipulated darkness along with sorcery, pyromancy and miracles and demonstrated superhuman abilities.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "40975848-d74f-597f-ac36-5cd93e0a3d72",
+    "title": "Drangleic",
+    "section": "drangleic_s_curses",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "While Drangleic prospered under Vendrick, the king's older brother Aldia never took an interest in the political affairs of the kingdom he had helped found, preferring to remain in his mansion and dedicating himself to the research of the truths of the world. His keep attracted the greatest minds of the kingdom, who were keen to help with his studies and strange rituals. However, his research, motivated by a boundless desire to understand life, eventually took a dark turn, leading him to create blasphemous spells with a will of their own that chased their enemies, a characteristic of the Dark. He also created excessively destructive pyromancies just to test the limits of the Chaos flame through rituals, along with sorceries that augmented the magic imbued in a body well beyond their limits, damaging the life of the caster.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "42edc360-6365-568c-9040-ae71ee8c08f5",
+    "title": "Drangleic",
+    "section": "drangleic_s_curses",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "With the knowledge gained from his research on giants, the king also realized a particular golem in the form of the Looking Glass Knight, a ritual trial for those among his brave knights that wanted to become a part of his royal guards. This knight awaited his challengers in the King's Passage, the route taken by those that wanted to prove themselves, and was equipped with armor with high lightning defense, a thorned greatsword and a mirror that was able to deflect spells and summon warriors from other times and worlds. Similar to his army's trials before the conquest of Drangleic, those who failed in overcoming the Looking Glass Knight were slain by the golem as sacrifices.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "556a21d1-b9a3-5cda-b85e-9ab8d0065633",
+    "title": "Drangleic",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Drangleic -  Dark Souls II - location - lead \n lead : **Drangleic** (ドラングレイグ) is a location in *Dark Souls II*.\nDrangleic is the region where the events of *Dark Souls II* take place.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5674c382-81b6-573c-94ab-5a3a68e1b8d8",
+    "title": "Drangleic",
+    "section": "drangleic_s_rise",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Drangleic -  Dark Souls II - location - drangleic_s_rise \n drangleic_s_rise : The kingdom of Drangleic was founded by Vendrick when he, together with his older brother Aldia and his mighty army, invaded and trampled the domains of the Old Iron King, the ruins of previous realms, and the surrounding lands, uniting the inhabitants of the region under his banner.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "722e8dbf-af23-58e9-8cdb-253d30ceb7a4",
+    "title": "Drangleic",
+    "section": "drangleic_s_fall",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Sir Syan, the king's most faithful knight, volunteered to lead the vanguard against the invaders, to give his lord time to mobilize the army; however his forces were slaughtered without honor by the Giants. The sacrifice of Syan and his party gave the royal army enough time to repel the first wave of Giants. On the north coast of Drangleic, the immense fortress of Cardinal Tower was built, which would become the cornerstone of the kingdom's defense. The army blacksmiths began to produce armor characterized by a shape that favored movement and offered great defense, ignoring all ornamentation in favor of suitability for battle. However, even the magnificent Royal Greatswords used by Drangleic knights were terribly inadequate when fighting the mighty Giants. Despite Vendrick supplying his bravest men with the best equipment available, very few managed to return alive, much less victorious. The king even commissioned replicas of Syan's armor and halberd to commemorate their heroism,",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8b6573e6-d6f6-5adb-ab8f-08f5a0b44d92",
+    "title": "Drangleic",
+    "section": "drangleic_s_curses",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "From the day the king returned from his incursion into the land of the Giants, a dark shadow had gradually covered his expression, with even his vassals noticing a change in his character. The king of Drangleic became interested in the fate of other rulers of the past who might have found themselves in a situation similar to his and undertook expeditions on the ruins of the Brume Tower, Shulva and Frozen Eleum Loyce, but later decided to leave those lands cursed by several catastrophes, partially withdrawing his forces and sealing their access via magical altars.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8d3d3925-1480-5fce-8e46-5573e251cce4",
+    "title": "Drangleic",
+    "section": "drangleic_s_rise",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "different civilizations throughout the history of Drangleic like the Old Knights of Heide, the Ruin Sentinels from Olaphis, the Belfry Gargoyles from Venn, the Manikins from Earthen Peak and the Old Ironclad Soldiers from the Iron Keep.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8f3150c5-53da-5a6b-9903-5f9523d0bd4e",
+    "title": "Drangleic",
+    "section": "drangleic_s_curses",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "mystery of life; to understand how souls could maintain life, he infused corpses with souls, leaving these people horribly disfigured, their lifeforce barely sustained by unstable and highly-volatile souls. Aldia also carried out atrocious experiments to free humans from the Darksign; the result was the Forlorn, beings that lost both their corporeal forms and homes, remaining ghosts who ended up spreading in a Drangleic where time began to stagnate. Their separation from the body also deprived them of their consciousness, leaving them only to wander in and out of worlds.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "960374e3-e182-549f-ba23-cd18aa67901a",
+    "title": "Drangleic",
+    "section": "drangleic_s_curses",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "In the mountains east of Drangleic, Aldia also created the Dragon Aerie to raise hundreds of wyverns under the control of his spells. The Dragon Shrine was also built at the center of the wyverns' nest, as a site of worship for the Ancient Dragon. It was a place where members of the Dragon Remnants and those who venerated the dragons in an attempt to transform to obtain their immortality and transcend human existence were welcomed, while also collecting artifacts such as the Petrified Egg to study dragon biology. After the king's brother had developed the nest to raise the creatures, the Dragonriders of Vendrick's royal guard stopped riding the obsolete wyrms and moved on to creatures closer to the ancient dragons.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a5ebd106-824d-5d80-bb14-a2c06562040d",
+    "title": "Drangleic",
+    "section": "drangleic_s_fall",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Drangleic -  Dark Souls II - location - drangleic_s_fall \n drangleic_s_fall : The peace of Drangleic was disrupted with the landing of an invasion army on its northern shores, led by the Giant Lord, intent on avenging the slaughter of their people by Vendrick.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b02fd948-8073-5560-aa23-6790b24080da",
+    "title": "Drangleic",
+    "section": "characters",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Drangleic -  Dark Souls II - location - characters \n characters : King Vendrick\nAldia, Scholar of the First Sin\nQueen Nashandra\nChancellor Wellager\nSir Velstadt\nSir Raime\nCaptain Drummond\nDragonriders\nRoyal Guards\nRoyal swordsmen\nRoyal soldiers\nRoyal infantrymen\nDrangleic priests\nDrangleic priestesses\nGolems\nLooking Glass Knight\nDragon Acolytes\nProwling Maguses\nUndead Abominations\nGuardian Dragons\nAncient Dragon\nShanalotte\nOld Ironclad Soldiers\nDrakekeepers\nUndead Citizens\nUndead Laborers\nStone Knights\nStone Soldiers\nForlorns\n\nDrang Knights",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b976a89a-0033-54c2-92e4-b6d292368d7a",
+    "title": "Drangleic",
+    "section": "drangleic_s_fall",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "In the lands outside of Drangleic, the legend spread that, with the help of souls found in the region, the Undead could save themselves from the curse, avoiding losing their humanity and remaining Hollow forever. For this reason, those who died and returned to life as undead came to the ruined kingdom beyond the mountains with the hope of avoiding their fate.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bebf1dff-9493-5884-9d25-0fd0510695c0",
+    "title": "Drangleic",
+    "section": "drangleic_s_rise",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "was lured into Drangleic from a faraway home and devoted himself in life and death to his lord, eventually forgetting why he even came to the realm. Velstadt also became the leader of the elite knights and soldiers that guarded the Royal Castle, who were equipped with refined shields and armors crafted by the castle blacksmith.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cd3d4a32-9d92-534b-9790-37edbc351578",
+    "title": "Drangleic",
+    "section": "drangleic_s_curses",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Aldia's studies soon turned towards humans, with his acolytes employing every instrument available to dissect the bodies of their victims, in the name of their research. Their dark rituals involved human sacrifice. Those invited to Aldia's mansion became victims of unspeakable deeds; their subjection to cruel experiments resulted in magical rings that turned lifeforce into magic, monstrous creatures like the Ogres, or deformed and malformed abominations, examples of Aldia's experimentation of hybridizing different life forms and pushing the biology and souls of every creature to the limit, driven by a boundless desire for knowledge. Lord Aldia went so far as to experiment directly on citizens of Drangleic who were starting to become undead. He came to view the undead as the key to the mystery of life; to understand how souls could maintain life, he infused corpses with souls, leaving these people horribly disfigured, their lifeforce barely sustained by unstable and highly-volatile",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d2ab297d-18c2-547a-8265-1cadd74f5a40",
+    "title": "Drangleic",
+    "section": "drangleic_s_curses",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "After continuous failures he finally succeeded in a feat bordering on the impossible: creating an Ancient Dragon. Using a Petrified Dragon Bone found on the fossilized corpse of a dragon discovered deep within the mines of Tseldora, a Giant Soul, and knowledge on souls and golems gained through decades of study, Aldia artificially created a dragon, giving it a great soul to power it as a construct and the fake memories of one of the authentic creatures that dated directly to the Age of Ancients. The ultimate goal was to transfer the immortality of primordial dragons to a human being, and so Aldia continued his project by artificially contriving Shanalotte as a daughter of dragons. However, she was not deemed a success by the scholar, either because she was unable to maintain a sufficiently humanoid form or because she was unable to overcome the shackles of the Darksign. In the end, despite the immense resources, research, sacrifices, time and horrors committed to try to overcome the",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f3e97863-2156-559c-bc1e-a38dfa411ba1",
+    "title": "Drangleic",
+    "section": "drangleic_s_curses",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "humanoid form or because she was unable to overcome the shackles of the Darksign. In the end, despite the immense resources, research, sacrifices, time and horrors committed to try to overcome the Undead Curse, Aldia failed.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "157ccb71-2764-5ab0-ba41-ec5e24ce0ae9",
+    "title": "Giant (Dark Souls II)",
+    "section": "variants",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Giant (Dark Souls II) -  Dark Souls II - enemy - variants \n variants : Giants specialize in several different types of combat and can be differentiated by their appearance. Giants use their brute strength to great effect. Many of the soldiers who invaded Drangleic used large clubs, or even just their fists in battle. Some giants utilized a form of pyromancy, while others were known to have the ability to produce toxic projectiles from their bodies.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2e8a61b0-de4c-5891-97bf-bb783fa3979a",
+    "title": "Giant (Dark Souls II)",
+    "section": "appearance",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Giant (Dark Souls II) -  Dark Souls II - enemy - appearance \n appearance : Their heads are largely absent of facial features, apart from a large gaping mouth-like hole at the center. Its function seems to be similar to a mouth, as indicated by the roars that are emanated from within, but Giants have also been known to extract balls of poison and fire from them. Their bodies are covered in a rough, rock-like skin. The upper half of their bodies is generally bulky, with huge protruding shoulders and massive arms, however some are more slender in appearance. They largely wear rudimentary clothing, such as loincloths and ragged robes.\n\nTheir brutish appearance and primitive weaponry has led some citizens of Drangleic to view them as being no more than uncivilized barbarians, but contrary evidence shows that they utilize magic and employ concepts such as monarchy and military hierarchy.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "323deb37-4ee7-5343-80dc-11f45e7be98d",
+    "title": "Giant (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Giant (Dark Souls II) -  Dark Souls II - enemy - lead \n lead : **Giants** are a race of enormous humanoids from a land vaguely described as \"across the seas\" from Drangleic. They can vary in size, but generally they tower over most beings. Possessing colossal strength, their willpower is said to be as strong as steel and their souls are incredibly powerful.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "33ea44f9-be72-58d7-be95-d881b2680b39",
+    "title": "Giant (Dark Souls II)",
+    "section": "giant_lord",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Giant (Dark Souls II) -  Dark Souls II - enemy - giant_lord \n giant_lord : The king of the Giants who invaded Drangleic. This towering leader fought wearing his crown and wielding an enormous greatsword. He is encountered during the Memory of Jeigh.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "49d1cc61-3f18-51c1-841a-5041a79f0b31",
+    "title": "Giant (Dark Souls II)",
+    "section": "war_with_drangleic",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Battles waged endlessly between Vendrick's forces and the Giants, and much of Drangleic's citizens fled the kingdom to escape the conflict. Ultimately, the Giants were defeated by an unnamed hero. In the aftermath, much of Drangleic had been reduced to rubble, and visitors to the kingdom were rare. Many Giants were killed in the conflict, and their corpses eventually grew into large trees that sprawled across the once prosperous kingdom. The last known Giant to have survived the conflict was terribly wounded and kept prisoner in a cavern beneath the Forest of Fallen Giants. It was later discovered another two Giants survived the war, but remained hidden in a cavern in Black Gulch.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4c24438f-71bf-52af-96f6-d73b0e807a67",
+    "title": "Giant (Dark Souls II)",
+    "section": "poison_giant",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Giant (Dark Souls II) -  Dark Souls II - enemy - poison_giant \n poison_giant : Relatively rare, this type of Giant looks similar to the Melee Giant, but can also throws balls of poison in combat. They wear a hooded robe and their left arm is coated in a green substance, which can poison anything it hits. This type of Giant can be encountered in the Memory of Vammar.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6acbed25-a4b3-5957-855b-7dec8d6944a7",
+    "title": "Giant (Dark Souls II)",
+    "section": "melee_giant",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Giant (Dark Souls II) -  Dark Souls II - enemy - melee_giant \n melee_giant : A more common, gray, shorter type of Giant that fights mainly with a large club or fists in battle. They can be encountered in the Memory of Vammar and Orro.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9efb033e-4fb7-54a6-a931-cb0002867541",
+    "title": "Giant (Dark Souls II)",
+    "section": "war_with_drangleic",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Seeking vengeance for the subjugation of his kingdom, the king of the Giants amassed an army in a vengeful counter-invasion of Drangleic. He also sought to reclaim the invaluable \"prize\" stolen from him. Unwilling to forgive the actions of Vendrick, the Giants crossed the sea and landed on the northern shores of Drangleic. They set siege to Drangleic Castle and relentlessly attacked various settlements, forts and keeps across the land for several generations.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ab9a8749-c4f9-5a4c-b80b-2f19360767b5",
+    "title": "Giant (Dark Souls II)",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Giant (Dark Souls II) -  Dark Souls II - enemy - notes \n notes : According to concept art and early trailers, Giants were designed with faces, including jagged teeth and possibly even large horns, but these didn't make it into the final game. During the Memory of Jeigh, charred remains of a Giant oddly shows one of these faces.\nA plunging attack against the smaller Giant variants will trigger a sync attack that causes the player to stand on their shoulders for several seconds and then strike them directly in the face before stepping off. However this opportunity is rare and can only be performed in several choice areas, due to the relative rarity of Giants.\nThe Giants are weak to Dark and Magic.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bfd6f661-3022-50eb-83ce-dff968c7be82",
+    "title": "Giant (Dark Souls II)",
+    "section": "elite_giant",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Giant (Dark Souls II) -  Dark Souls II - enemy - elite_giant \n elite_giant : Senior soldiers of the army of Giants. They're typically brown in color and wear a loincloth. They often wield two enormous, obelisk sized stone clubs in combat. Far larger and more formidable than their subordinates, the only Elite Giants to have survived the war reside in a hidden cavern in Black Gulch. They can also be encountered in the Memory of Vammar, Memory of Orro and Memory of Jeigh.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c60c34f9-6ce0-5bf0-b92d-aa1188f60ae9",
+    "title": "Giant (Dark Souls II)",
+    "section": "pyromancer_giant",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Giant (Dark Souls II) -  Dark Souls II - enemy - pyromancer_giant \n pyromancer_giant : A Giant who exclusively throws balls of fire produced from the hole in their face. They wear a hooded robe and large engraved bracelets. Several can be encountered in the Memory of Vammar and Orro.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6f469a71-a994-5a58-8b79-b6fa248b33c2",
+    "title": "Nashandra",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Nashandra -  Dark Souls II - boss - notes \n notes : Throwing a Holy Water Urn at the right positioning, angle and time, will freeze Nashandra completely due to a glitch, making the fight very easy.\nIf the player has obtained the Giant's Kinship before defeating the Throne Watcher and Defender, then Nashandra's cutscene will trigger as soon as they are defeated and the fight with her will begin immediately.\n**This cutscene will be slightly different from obtaining the Kinship after defeating the Throne Watcher and Defender. Obtaining the Kinship beforehand will cause Nashandra to enter the arena through the fog gate. Obtaining the Kinship after the first boss fight will cause Nashandra to already be waiting inside the arena. The cutscene will also play in this manner if the player dies while fighting her, when reentering the arena after respawning.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "907f08e0-cac3-523f-b46a-ae15f345d5c0",
+    "title": "Nashandra",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Nashandra -  Dark Souls II - boss - description \n description : A tall humanoid creature wielding a long scythe in her right hand. Her left hand emanates a purple light that can become an energy beam or cause an explosion when she puts it near her chest. Her legs are covered by a skirt made of a black goo filled with bones. She can also summon four black fountains that curse those who stand near them. She can speak and can change into a more human, yet still gigantic, form.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9a4634ae-1774-5fa9-b03c-e8ae8e6eb596",
+    "title": "Nashandra",
+    "section": "attacks",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Nashandra -  Dark Souls II - boss - attacks \n attacks : ***Curse Fountains**: Summons several white fountains that build up your curse meter. They can be destroyed by a single strike or by a roll.\n***Laser Beam**: Her hand fills with darkness and fires a beam at the player. Can be either an easily dodged vertical, or a sweeping shot much like the Duke's Dear Freja. (Can be dodged by rolling backwards; Just be wary of the holes in the arena.)\n***Dark Explosion**: Her hand fills with darkness and she brings it closer to her chest. Once her whole body begins to emanate darkness, she releases an area of effect dark attack, similar to Wrath of the Gods.\n***Overhead Strike**: Performs an overhead attack with her scythe. Easily dodged.\n***Swings**: Swings her scythe twice in a row.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b582e7c1-6565-5225-b742-6448cd21461d",
+    "title": "Nashandra",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "All of her attacks inflict Curse Build-up.\n\nFor melee characters it is also possible to equip light armor and dodge her attacks, ignoring the Curse buildup and only healing when your health starts draining. Also a good method for melee users is to wait at a distance for her to come towards the player, baiting her away from the four curse fountains. The curse fountains can be broken, stopping the curse buildup and health drain.\n\nSummoning help will make the fight easier, even if it's only the two characters Vengarl of Forossa and Benhart of Jugo, as they will draw attention, leaving you with a good amount of room to deal damage and heal as needed.\n\nAn effective strategy if one has pyromancies is to stay far away until she fires her vertical \"laser\", then simply lobbing flame attacks at her.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d3acf0fb-14fa-5209-974f-68c8f8c50fef",
+    "title": "Nashandra",
+    "section": "defenses",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Nashandra -  Dark Souls II - boss - defenses \n defenses : (Stats are from Param Studio and are not estimated)\nStrike/Slash/Thrust defense are applied on top of Physical Defense. -10% strike means taking 110% damage.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "da863f4f-9005-5088-bab0-b48895f4162d",
+    "title": "Nashandra",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "**Dark Magic**: She will either fire a beam that starts on the floor close to her and emits outward from the floor vertically, which can easily be avoided by strafing, or execute a small area of effect attack similar to Wrath of the Gods. If she begins casting and her body is *not* being covered in dark energy, then she will use the beam; otherwise, it is the area-of-effect attack and you must back away. If you look closely, you will also notice that her hand movement is different for each attack (she draws her hand close to her chest when using Wrath of the Gods). She also has another type of beam which sweeps horizontally, so be aware of the direction of the beams as these beams are usually fatal when combined with the health drain.\n\nAll of her attacks inflict Curse Build-up.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "151134f3-39cb-545a-9190-49dd577ef235",
+    "title": "Throne of Want",
+    "section": "phantoms",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Throne of Want -  Dark Souls II - location - phantoms \n phantoms : Benhart of Jugo\nBradley of the Old Guard\nVengarl of Forossa",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3458a3d4-dec2-5256-a636-82b9bd4ba306",
+    "title": "Throne of Want",
+    "section": "bosses",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Throne of Want -  Dark Souls II - location - bosses \n bosses : Throne Watcher and Defender\nNashandra\nAldia, Scholar of the First Sin",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "52687972-c29b-56ff-9d47-f7e177885ee3",
+    "title": "Throne of Want",
+    "section": "plot",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Throne of Want -  Dark Souls II - location - plot \n plot : The Throne of Want is the final location in *Dark Souls II*, where the Bearer of the Curse must best the Throne Watcher and Defender and Nashandra to become a true monarch and claim the Throne. However, if the player has killed Vendrick before Nashandra, Aldia will appear as the final boss.\n\nThe Emerald Herald also makes an appearance at the Throne’s entrance where she reveals her true name. In the aftermath, either she or Aldia will narrate the game’s ending.\n\nThe area can only be accessed through use of the King's Ring. And the throne itself and only be reached with the Giant's Kinship.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ccf87ca3-a1c9-55ad-a8fa-56ea38a7f98b",
+    "title": "Throne of Want",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Throne of Want -  Dark Souls II - location - description \n description : The true throne of Drangleic, hidden away deep beneath Drangleic Castle in a great cavern accessible only to those with the symbol of the King. A long, jagged pathway extending down from the final gate in the depths of the castle leads to a kiln guarded by the last of Vendrick's guardians, the Throne Watcher and Defender. These warriors serve as the last bulwark against Nashandra claming the throne, and by extension, gaining the power of the First Flame.\n\nThe actual throne takes the form of a great stone slab carved into the form of a throne, surrounded by a kiln of ash-covered stone, across a gap filled with Golems that aid the true monarch to their rightful place",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "db44bea0-a45f-5093-a876-58274ea4c46e",
+    "title": "Throne of Want",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Throne of Want -  Dark Souls II - location - lead \n lead : The **Throne of Want** (渇望の玉座, *Katsubō no gyokuza*) is a location in *Dark Souls II.*",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  }
+]

@@ -1,4 +1,35 @@
 {
+  "q001": {
+    "gold": {
+      "doc_id": "3cc52c8d-5ea6-5d47-882a-a5d886f76dd5",
+      "title": "Gwyn, Lord of Cinder",
+      "section": "dark_souls",
+      "snippet": "Gwyn proved himself a skilled ruler, using his power to bind and hold close to him the potential powers of the world. He amply rewarded the betrayal of the dragon Seath and his indispensable contribution to the war, giving him the title of Duke and inducting him into the nobility of the gods through a marriage to one of his daughters. Gwyn also gave him a fragment of his powerful Lord Soul along with the Archives, and left him to his studies near Anor Londo. As for humans, cognizant of the abilities of four of their great leaders, Gwyn bequeathed on them another shard of his powerful Soul, and let them build their civilization of New Londo near the divine capital. Gwyn would also befriend th"
+    },
+    "contrast": {
+      "doc_id": "04a5c78a-4e0f-5c72-a7e4-b3234d4d9527",
+      "title": "Lord Gwyn's Firstborn",
+      "section": "identity",
+      "snippet": "The battle theme of the Nameless King's second phase contains motifs similar to that of Gwyn, Lord of Cinder.\nAs described below, the Warrior of Sunlight covenant is closely related to Gwyn's firstborn. In Archdragon Peak the symbol of this covenant is printed on metal plates laying all around."
+    },
+    "probes": [
+      "09429b55-1290-5abd-adfd-9c55e6ccad11",
+      "2e37a32a-978d-574c-93ed-cdb466877f0e",
+      "3cae45fc-1ae5-5bf3-b0f0-a89fe6ba9b10",
+      "47a4945c-37f8-5c51-8ae7-bfedabf35488",
+      "57fb7329-53b5-5d25-8958-47b250063740",
+      "62f10f17-4785-5604-aba5-83bbd6c1ebf8",
+      "70ae555d-3845-571f-99e8-7f7eedbbb2fb",
+      "7b54b752-048f-5e66-a863-47112d9c5109",
+      "95e44975-403f-5b3d-9880-c41dc5c83f84",
+      "9d35389b-adff-551c-bc2e-2b7fca7e8dfa",
+      "add6aa5b-3446-5116-b9b6-292bf81cfc02",
+      "c3631e29-b2d7-5198-8d8d-eb579f99298c",
+      "d75ba177-8a65-55dd-ad4a-50c3391cf2c8",
+      "e96aa17c-65e8-5025-a40a-8c3b0c53207c",
+      "fafae428-ccf8-50c2-925a-2edb6671efd4"
+    ]
+  },
   "q002": {
     "gold": {
       "doc_id": "10fc8d45-509d-5954-a5b2-dbafd1598772",
@@ -29,6 +60,70 @@
       "db549071-dd75-52a2-a36c-c82d255d9752",
       "e54e784d-4347-57ff-8394-02744179e66a",
       "f953afc6-9950-566e-b48f-8bf86c5ae1cf"
+    ]
+  },
+  "q003": {
+    "gold": {
+      "doc_id": "02d59f0b-02ad-565b-9c65-8dd488f525e9",
+      "title": "Demon (lore)",
+      "section": "dark_souls",
+      "snippet": "The first demon who manifested itself was the youngest son of Izalith. He was a younger brother of the other witches who gifted him a magic ring to negate his pain from the lava sores that tortured him. However, the still-unstable Flame of Chaos led him to transform into a monstrous demon and drop his ring, leaving the flames of chaos to burn him constantly as he couldn't control them, while also generating another distorted Centipede Demon. Despite becoming the first distorted creature created by the Flame of Chaos, at a certain point Izalith and her daughters managed to stabilize the new power they had created and began to generate the first real demons: life forms with stable bodies and c"
+    },
+    "contrast": {
+      "doc_id": "03d172e2-54a5-5fa3-9121-d4953e8ba541",
+      "title": "Age of Dark",
+      "section": "lore",
+      "snippet": "In *Dark Souls III*, countless beings have prolonged the Age of Fire, preventing its end and holding off the coming of the Age of Dark. By the time the game begins, there are countless Lords of Cinder - those who successfully linked the First Flame before - and even more Unkindled who were unsuccessful. Eventually the one anointed to next link the Flame (and indeed, who was born for that very purpose), Prince Lothric, rejected the idea that the Age of Fire should be prolonged any further and instead desired to end what he called the \"fire-linking curse.\" A contingency plan was then activated, in which previous Lords of Cinder were resurrected in hopes that they, who had linked the First Flam"
+    },
+    "probes": [
+      "08d50a00-3fd9-5054-b56e-9a70b11454c7",
+      "1f5b002f-b022-5141-af27-5ac5acaa808d",
+      "2f2839df-8328-57c6-b582-5c9eea78ce54",
+      "4644cc68-a322-5741-8ed0-a65d4158f536",
+      "6a7ae93c-9524-5f05-808b-7027c21e025e",
+      "6cc7cf58-2581-5a81-a711-ac78390a67e2",
+      "771f16fa-2b07-5164-b680-ce8550b52fe4",
+      "83a7e3e3-3b47-5c83-9f7e-e0ef38521bb8",
+      "9623f2d4-b240-5625-a8a8-945ab9860c57",
+      "9ea00b86-6a3c-5f98-9fcd-3c9a657fa748",
+      "a3ea31f3-6886-5de4-b5c8-d38564c72297",
+      "b9fe0a38-714c-5c06-8afd-1a76794ebe3d",
+      "c904f93d-d150-55f2-8e27-dd6946a40941",
+      "d75ba177-8a65-55dd-ad4a-50c3391cf2c8",
+      "e96aa17c-65e8-5025-a40a-8c3b0c53207c",
+      "fea29c23-e143-5f46-85cc-d003f1332cd0"
+    ]
+  },
+  "q004": {
+    "gold": {
+      "doc_id": "16795989-f803-5757-a9c2-7bfb1d91bf7a",
+      "title": "Dragon Slayer Ornstein and Executioner Smough",
+      "section": "lead",
+      "snippet": "Dragon Slayer Ornstein and Executioner Smough -  Dark Souls - boss - lead \n lead : **Dragon Slayer Ornstein and Executioner Smough** (竜狩りオーンスタイン / 処刑者スモウ) are dual bosses in *Dark Souls*. They are both fought at once with individual health bars; when one is slain, the other powers up and regains their health for the battle's second phase."
+    },
+    "contrast": {
+      "doc_id": "08e17fa1-32ef-518c-b32e-701d5bc0d7b0",
+      "title": "Gods",
+      "section": "old_gods_of_anor_londo",
+      "snippet": "Gods -  Dark Souls III - character - old_gods_of_anor_londo \n old_gods_of_anor_londo : Powerful beings who lived in Anor Londo and were worshipped by Humans in the time before the events of *Dark Souls*. Outside of those explicitly stated as related to Gwyn, their connections to him in blood or species are otherwise unclear."
+    },
+    "probes": [
+      "0bdb5716-512c-5420-88f7-a1cfd3e042d6",
+      "242b7300-d9fd-564c-be3d-b3d912d6b2d9",
+      "2e117670-efc0-59cf-b995-bacace8d6e66",
+      "3eed78f6-7c9e-5aa4-a2b0-63f3b926def5",
+      "53d7007e-1cbd-55c2-a293-93b6ab99bb9d",
+      "602c86d7-5804-54da-a04b-ba60a4e4e052",
+      "72f8b330-7602-5416-9c0b-7bdbf43bf682",
+      "7eb4b487-606a-5dc7-9359-646260542154",
+      "8ab5fef7-c388-527e-bce8-ffa24a6a6be5",
+      "9248a904-f1dc-5944-83e3-1871668b0312",
+      "a0f8dbc8-34ed-59d0-9e0e-ffdbc5006262",
+      "b947d5b2-8132-5a20-a5ce-cbe75679c937",
+      "c9b52ca6-7fac-5eb9-8501-087e7382270d",
+      "dffd514b-26e9-5ea4-80f5-9227ff8b56a3",
+      "e8508787-3a6b-52ff-8883-acb247179a25",
+      "faa3c6ca-7b9e-50f5-88a2-6ed77d2aaddd"
     ]
   },
   "q005": {
@@ -63,6 +158,228 @@
       "fc45125f-ad7f-50c9-a9bd-c7a00d7499f1"
     ]
   },
+  "q006": {
+    "gold": {
+      "doc_id": "02adce1c-1690-57dd-9636-6cb55d08002e",
+      "title": "Lords",
+      "section": "aftermath",
+      "snippet": "Darkstalker Kaathe, who opposed Gwyn's actions, attempted to bring about the Age of Dark and the coming of its ruler, the Dark Lord; most travelling to Oolacile and manipulating the citizens into upturning the grave of \"primordial man\". This resulted in Oolacile's fall as it began to be swallowed by the Abyss, consuming the land and corrupting its citizens. Kaathe also went to New Londo, seducing the Four Kings with the art of lifedrain, which corrupted them and their knights. In an effort to contain his darkwraiths, New Londo was flooded -an act that ultimately cost the lives of the city's inhabitants."
+    },
+    "contrast": {
+      "doc_id": "0286faa6-5662-52ec-823f-8378ea0a3b88",
+      "title": "Tattered Cloth Manchette",
+      "section": "notes",
+      "snippet": "Tattered Cloth Manchette -  Dark Souls - armor - notes \n notes : Grants 100 souls when fed to Kingseeker Frampt."
+    },
+    "probes": [
+      "0addec6c-8878-5903-b788-0e201cb84218",
+      "16feafb9-2961-524e-bb6e-b8adbf0c9e64",
+      "2483ee55-c8ff-5cf8-84b6-f3c1fa2927e7",
+      "4046d9ae-2bc8-539c-b0ed-4ebd0adf7f06",
+      "5c7453b4-e7b8-58b0-bb0e-bc27b4519646",
+      "6cf3d123-4a58-5a01-8802-cf109d2e1d92",
+      "803f8919-5ae9-5dae-b49c-e84091cd1a95",
+      "87f741bf-bce8-5814-a0b5-6ff7d1cd8b1a",
+      "9925c105-e106-542a-ac0d-4542e092ce29",
+      "a689d3ba-266f-527b-b2b9-a6d00e9d5ec8",
+      "b691576e-c1e7-533e-bc12-9e88378ae829",
+      "c1ed30af-75bb-581c-a886-e8339ac07d14",
+      "d2f71e19-ae66-5f14-8abe-857f05577a4e",
+      "dcf6bac8-5874-5839-bea9-784b99446bc8",
+      "e48fc852-0c6e-53f5-b500-09d593a92a1c"
+    ]
+  },
+  "q007": {
+    "gold": {
+      "doc_id": "08d50a00-3fd9-5054-b56e-9a70b11454c7",
+      "title": "Witch of Izalith",
+      "section": "trivia",
+      "snippet": "Witch of Izalith -  Dark Souls - character - trivia \n trivia : The name of the Witch is literally **Izalith**, as stated by Quelana in the Japanese version, where she calls the Witch \"my mother Izalith\".\nDuring her dialogue, Quelana mentions that most humans are unable to perceive her, and implies that they absolutely cannot, so long as she actively does not want them to.\nDespite herself being consumed by the Chaos Flame, Izalith was partially successful in replicating the First Flame. Not only does Chaos generate life, it also has its own fire-linking quality, wherein a demon Champion is destined to rekindle it, becoming the Demon Prince. This system parallels the prophecy of the Chosen Und"
+    },
+    "contrast": {
+      "doc_id": "000ded43-8b42-56db-b956-73fa1d571d17",
+      "title": "Lost Izalith",
+      "section": "characters_2",
+      "snippet": "Lost Izalith -  Dark Souls - location - characters_2 \n characters_2 : Daughter of Chaos\nKirk, Knight of Thorns\nSolaire of Astora"
+    },
+    "probes": [
+      "0c9f3967-4171-53e7-89a2-ab8f355ba3d5",
+      "1c11496c-08ad-550b-b803-6018ebafeab7",
+      "20d67c85-bbd8-56d1-a47d-d55d2799b91e",
+      "3463f21e-61b5-5b8b-9337-0c43ade52154",
+      "42711b4a-8c6b-5599-839b-d7383c37228b",
+      "60578bfa-0843-503c-b17b-2289f988187f",
+      "6ba2a2f5-67ae-5685-a59f-8cc6455bcc08",
+      "74daf418-b9cf-5935-b9bb-a0a033c22294",
+      "81ee5e85-dbaf-5696-bb20-7cc2c503b2f0",
+      "98f82eb2-2d58-5149-91a0-a0d1a6b84f92",
+      "a7da0351-7833-5694-9d32-d11c0887b864",
+      "b91d3b53-dd2c-5f50-b9f7-57bb48343835",
+      "d63371b2-2b9d-53bf-befc-96f46a9a8894",
+      "e15862e1-6882-5d9d-a11f-e8c535d70e0b",
+      "f4ede646-a62a-5916-8611-d70ea6008f8b",
+      "ffa0a56d-dd75-5205-b61d-ca1b5abd7fa2"
+    ]
+  },
+  "q008": {
+    "gold": {
+      "doc_id": "079acb48-a891-543e-ab88-80ae3f9db370",
+      "title": "Knight Artorias",
+      "section": "dark_souls",
+      "snippet": "As centuries passed, the ruins of Oolacile overgrew into the \"Darkroot Garden\", where the remnants of the ancient Guardians of the city still patrol the area as Stone Knights. Sif survived the battle with Manus thanks to the intervention of the Chosen Undead. The wolf inherited Artorias's divine greatsword and the magical ring that had allowed the knight to cross the Abyss. The wolf settled in the forest where Artorias's tomb had been erected and, wielding his companion's sword in his jaws, continued to fight to guard Artorias's rest, slaughtering the numerous Undead who arrived with the intention of plundering the tomb of the legendary knight."
+    },
+    "contrast": {
+      "doc_id": "004ab82e-a5d1-5a88-a9d1-16d0d8b1c4cb",
+      "title": "Covenant of Artorias",
+      "section": "description",
+      "snippet": "Covenant of Artorias -  Dark Souls - ring - description \n description : This ring symbolizes Knight Artorias' covenant with the beasts of the Abyss.\n\nIts wearer, like Artorias himself, can traverse the abyss."
+    },
+    "probes": [
+      "079acb48-a891-543e-ab88-80ae3f9db370",
+      "10fc8d45-509d-5954-a5b2-dbafd1598772",
+      "29e9ac90-92c5-55de-b5a8-a6e984380249",
+      "3592912e-1194-5c15-8434-b157f32a2812",
+      "3f653231-1d67-54fc-ab31-fd9b9d2c28fe",
+      "630cc331-60b9-5517-a6b1-6c9f6d1964e6",
+      "6b29fe29-3e4b-59b3-894e-b05482ac6b97",
+      "8140a5b2-fa7c-5340-bcc0-eed39042a8f1",
+      "96f0aeb8-40a2-5a4e-9405-ef3b36408aa1",
+      "a4565120-e607-57a7-a392-bd29db8a4847",
+      "b8a29fe5-5dcc-5fb7-8c09-3c6ad923e513",
+      "c8b467d4-c6c1-56a7-9f99-f7f7c548a207",
+      "dad6d4de-fcc6-51ea-8cb5-103d1f967f35",
+      "e25da2cc-cfd3-5c53-b396-3b7f140a5db1",
+      "f02a3057-9d04-56cd-815d-e55109b7d7e4",
+      "fdcced5b-5c72-5ab1-9ff0-76f3745991d8"
+    ]
+  },
+  "q009": {
+    "gold": {
+      "doc_id": "02adce1c-1690-57dd-9636-6cb55d08002e",
+      "title": "Lords",
+      "section": "aftermath",
+      "snippet": "Darkstalker Kaathe, who opposed Gwyn's actions, attempted to bring about the Age of Dark and the coming of its ruler, the Dark Lord; most travelling to Oolacile and manipulating the citizens into upturning the grave of \"primordial man\". This resulted in Oolacile's fall as it began to be swallowed by the Abyss, consuming the land and corrupting its citizens. Kaathe also went to New Londo, seducing the Four Kings with the art of lifedrain, which corrupted them and their knights. In an effort to contain his darkwraiths, New Londo was flooded -an act that ultimately cost the lives of the city's inhabitants."
+    },
+    "contrast": {
+      "doc_id": "03734d78-a332-51b5-af9f-52f91ed3a8af",
+      "title": "Oolacile Township Dungeon",
+      "section": "adjacent_locations",
+      "snippet": "Oolacile Township Dungeon -  Dark Souls - location - adjacent_locations \n adjacent_locations : Oolacile Township\nChasm of the Abyss"
+    },
+    "probes": [
+      "079acb48-a891-543e-ab88-80ae3f9db370",
+      "1c9bdbd2-3d5a-534a-9080-18689cd294b3",
+      "24cec2d2-3ada-526f-8733-9a6f359ee048",
+      "2ab456c3-cbcd-5b40-8d4f-9411cef57b41",
+      "39ca40dd-147c-53c5-9e76-7f4296539401",
+      "5061c232-37ad-5d67-a949-01a78fadd2b1",
+      "5cd1ada2-7923-5f33-a49d-099d31911def",
+      "70f421e5-c322-57dc-96b8-8416a7c6d5bf",
+      "8874c823-8033-525a-aae4-2e737c7b26c8",
+      "985958be-9408-5ac2-9cf6-6f0e9be514f6",
+      "b0122752-465b-5807-ade3-a3e649c8be88",
+      "d195f089-1cc1-541e-8776-5fac25a27dcf",
+      "dc4a3ccc-46ed-50b8-a1a4-533c826f95a0",
+      "eb4694c5-7e5c-51e8-a8d0-d6e887e07066",
+      "f4f80ddb-ec7e-5cae-903b-cf37e56d6864",
+      "fc45125f-ad7f-50c9-a9bd-c7a00d7499f1"
+    ]
+  },
+  "q010": {
+    "gold": {
+      "doc_id": "4ef5e30a-45de-5e12-9bcb-ad05797c3c01",
+      "title": "Artorias of the Abyss",
+      "section": "reaching_oolacile",
+      "snippet": "Artorias of the Abyss -  Dark Souls - mechanic - reaching_oolacile \n reaching_oolacile : The player must first travel to Darkroot Basin, defeat the Hydra, then defeat the Golden Crystal Golem further in to free Dusk of Oolacile. From there, the player must acquire the Broken Pendant from The Duke's Archives. After acquiring the pendant, a floating dark rift will appear in Darkroot Basin close to where the Gold Golem was encountered, at the very rear of the area. Upon inspection, the player will be transported to Oolacile."
+    },
+    "contrast": {
+      "doc_id": "004ab82e-a5d1-5a88-a9d1-16d0d8b1c4cb",
+      "title": "Covenant of Artorias",
+      "section": "description",
+      "snippet": "Covenant of Artorias -  Dark Souls - ring - description \n description : This ring symbolizes Knight Artorias' covenant with the beasts of the Abyss.\n\nIts wearer, like Artorias himself, can traverse the abyss."
+    },
+    "probes": [
+      "0f02ec23-c56f-5682-bc29-7862f631a0e4",
+      "15b233d6-e976-5555-99a7-51fdd65f4a07",
+      "21048ed6-2e66-57dc-a08b-c2770f21cb81",
+      "2ad776c6-69b2-510d-847e-db6744d06806",
+      "4ef5e30a-45de-5e12-9bcb-ad05797c3c01",
+      "552e96fa-2159-57d1-8101-7eaa49aca2ea",
+      "61b3a5e4-be4b-50ca-9ada-6f8383399f60",
+      "752d026a-7201-5187-b8c9-3e93af4fd66a",
+      "879cef9a-d5b5-5608-9b6c-081625044f8e",
+      "97d58b07-ac7b-5644-9055-062e46f44b72",
+      "a9891f4e-16b7-59e2-b86c-fe8ee35c4b76",
+      "b7155490-3d48-5761-9708-abb9dde2ea16",
+      "c39e3660-4c58-5b01-b8be-d4803617ee54",
+      "d65c8007-3a82-5c45-b03f-240b72acce4a",
+      "e25da2cc-cfd3-5c53-b396-3b7f140a5db1",
+      "f549938f-61fd-500d-a229-47d7fed5f60f"
+    ]
+  },
+  "q011": {
+    "gold": {
+      "doc_id": "08af4ed8-c9b7-5fab-a319-c84d58f41552",
+      "title": "Crest of Artorias",
+      "section": "general_information",
+      "snippet": "Crest of Artorias -  Dark Souls - item - general_information \n general_information : It is used to open the magical door in Darkroot Garden that leads to the Forest Hunter Covenant and the Great Grey Wolf Sif. Though an impression for the crest resides on both sides of the door, unlocking of the door can only be accomplished from the Darkroot Garden side and not the Forest Hunter Covenant side."
+    },
+    "contrast": {
+      "doc_id": "07ccc6e6-80fa-5b88-ab7a-7cc8b4a8faff",
+      "title": "Leggings of Artorias",
+      "section": "upgrades",
+      "snippet": "Leggings of Artorias -  Dark Souls - armor - upgrades \n upgrades : Requires 200 souls per upgrade."
+    },
+    "probes": [
+      "0b05c493-f365-562e-8abd-f3b795ac042b",
+      "12d26e41-b7bd-533a-a4ba-6dbed562c843",
+      "18d24052-9bd8-54c8-8704-6287f234bb79",
+      "2f0238fd-32cc-5f07-bcd8-2ad32578cc8e",
+      "42dcde8e-6b36-599e-bfa6-5898c8959499",
+      "61b3a5e4-be4b-50ca-9ada-6f8383399f60",
+      "72629669-c64f-528d-b112-fbfba6891a07",
+      "81f72df5-5a12-595d-9189-86bfcee55d86",
+      "885fcfb1-adf7-5744-b577-563e23fbc3e3",
+      "96719c5a-88fd-542a-b793-06eb2618f1a2",
+      "a65685c8-e85e-5fca-ab38-9114aedbb97c",
+      "afecb782-3d8a-5fd5-bd95-65eb19a5b4e9",
+      "b8f73257-953d-54f6-8bf3-f762d72d0767",
+      "c574794c-18d9-530c-a6ab-d07e47b18809",
+      "cdce626f-f1d5-57d2-8803-3b2a7fbff6df",
+      "fed7481b-dd79-522f-976d-7e26760a57bf"
+    ]
+  },
+  "q012": {
+    "gold": {
+      "doc_id": "17f95ce3-162a-5150-81ac-91de0170fa64",
+      "title": "Lordvessel",
+      "section": "description",
+      "snippet": "Lordvessel -  Dark Souls - item - description \n description : Lordvessel bestowed upon the chosen Undead who is destined to succeed Lord Gwyn. The chosen Undead is granted the art of warping between bonfires.\n\nTo open the final door, place this vessel on the Firelink Altar, and fill it with powerful souls."
+    },
+    "contrast": {
+      "doc_id": "05439860-6cb8-5440-ae24-c8cd831efa48",
+      "title": "Shrine of Winter",
+      "section": "overview",
+      "snippet": "Crown of the Ivory King* DLC can be accessed from this area by interacting with the glowing statue in the middle of the shrine. This will transport the player to Frozen Eleum Loyce."
+    },
+    "probes": [
+      "0f021e66-8f73-5bf0-b38e-f35f5ec3b9cf",
+      "1634d4ac-458d-505c-8642-8450d958d5e3",
+      "1bc6edf1-6714-5550-9af5-d6da26f051ad",
+      "3755cc51-1ae9-5731-8e03-e592ad9fd7cd",
+      "416b16e6-6d85-5f44-8d85-5c1ebd2740f8",
+      "4d1796c5-b340-58bc-b19e-2857f1172850",
+      "5e6d984a-eb38-5d6a-83c3-9c46398baede",
+      "7589984f-ebb7-5b41-a49e-0c34ff093149",
+      "7b82f581-96f0-5602-aabd-9f8f98dbda53",
+      "8842e29b-d191-52f4-afc0-8a17129b0da9",
+      "951b6e0f-e67d-53a2-8a1a-e8dc886d13f1",
+      "b2d6db97-6c4e-53c8-b974-f5ee80b9b20c",
+      "d5e2e780-aa9a-54f0-80ae-6bba95782e23",
+      "e0e53435-a47b-5f5f-b7df-795f5b72c6e0",
+      "e84d2e48-8f2a-5c6f-a592-18ff08b16b49"
+    ]
+  },
   "q013": {
     "gold": {
       "doc_id": "0b6d1693-5c8d-5553-bdd8-def1ebbe7c70",
@@ -93,6 +410,290 @@
       "e03202e0-afa6-51d3-8790-e4ca575949bf",
       "f244e534-8af3-520e-a96b-a568b1a1a29a",
       "ff457b1a-34f3-5e53-967f-1635816c6095"
+    ]
+  },
+  "q014": {
+    "gold": {
+      "doc_id": "03d172e2-54a5-5fa3-9121-d4953e8ba541",
+      "title": "Age of Dark",
+      "section": "lore",
+      "snippet": "In *Dark Souls III*, countless beings have prolonged the Age of Fire, preventing its end and holding off the coming of the Age of Dark. By the time the game begins, there are countless Lords of Cinder - those who successfully linked the First Flame before - and even more Unkindled who were unsuccessful. Eventually the one anointed to next link the Flame (and indeed, who was born for that very purpose), Prince Lothric, rejected the idea that the Age of Fire should be prolonged any further and instead desired to end what he called the \"fire-linking curse.\" A contingency plan was then activated, in which previous Lords of Cinder were resurrected in hopes that they, who had linked the First Flam"
+    },
+    "contrast": {
+      "doc_id": "07d9d8a1-bb33-5f49-b76e-dda5ca3a4f87",
+      "title": "Achievements/Trophies (Dark Souls III)",
+      "section": "notes",
+      "snippet": "Achievements/Trophies (Dark Souls III) -  Dark Souls III - mechanic - notes \n notes : None of the DLC spells or rings are needed for achievements/trophies that require all spells or rings.\nIn order to get the Master of Rings achievement/trophy with the Sorcerer as the starting class, the Young Dragon Ring needs to be dropped on the ground and picked up again."
+    },
+    "probes": [
+      "0cc545b3-3485-52e6-942f-5e7d0ab735bc",
+      "18e4aa71-db57-5d7f-a9b9-2999a955d38e",
+      "367a046c-2567-5675-a27a-86805406fe0b",
+      "4a8c0261-1e57-52bd-82ca-3bcabbad91c0",
+      "5c051ec7-d208-52b7-9b5a-5177802a7e58",
+      "6c6971d9-de3a-5434-bb06-53c9c00f7784",
+      "749c5147-3863-5cfd-8d33-11381be52426",
+      "7c8b9f2e-2f18-5d8c-ba1b-e299ac7e7c55",
+      "8d8ab5b9-8b9a-56f4-a74f-2375f359ce9e",
+      "9623f2d4-b240-5625-a8a8-945ab9860c57",
+      "b18ec5ac-8874-599f-9ce4-698261ba2bb0",
+      "b9fe0a38-714c-5c06-8afd-1a76794ebe3d",
+      "cedb0d21-489c-51ed-be23-d9a90188bdc8",
+      "d9a92758-1045-54f9-bc27-fab7117df6d8",
+      "e96aa17c-65e8-5025-a40a-8c3b0c53207c",
+      "fb8fd2d5-e99e-5770-9a10-9434e1d10b49"
+    ]
+  },
+  "q015": {
+    "gold": {
+      "doc_id": "04b3ac74-de93-57d5-ac4a-444276830db8",
+      "title": "Drangleic",
+      "section": "drangleic_s_rise",
+      "snippet": "Vendrick's influence extended beyond his kingdom's borders, going so far as ordering his chancellor to hire a craftsman from Mirrah who knew how to manufacture the \"geisteel\" alloy produced in that country, to give his army an edge over his enemies. Chancellor Wellager managed to bring the artisan Llewellyn to Drangleic with the promise of an immense salary, uncovering the secrets of the alloy of Mirrah. Llewellyn became the castle's resident master smith and began working for Vendrick, distinguishing himself for his lack of ostentation and focus on simplicity and sturdiness. Only for a select few including the chancellor, he also forged armor and shields that combined lightness and strength"
+    },
+    "contrast": {
+      "doc_id": "08ab3b58-0a29-5361-acd6-ee55c758115b",
+      "title": "Forossa",
+      "section": "lore",
+      "snippet": "the lion clansmen were also mages, similar to Forossan sages who led the warriors into battle and venerated the god of war. After the collapse of Vendrick's kingdom, a group of these lion warriors entered Drangleic and settled in the Shaded Woods."
+    },
+    "probes": [
+      "12bebd8a-562d-52f0-b1ae-c3f4e0db1115",
+      "26955a2f-2b84-5ade-8971-86258d6e5659",
+      "3e008303-c20c-57c0-88b3-ea71f953a0a1",
+      "42e7d776-3588-5fc4-8ea9-aab5c9de79c5",
+      "4ddb20f9-3165-5cef-8973-13bbbc6c2f8f",
+      "53f8bf7e-9c4a-533b-92f0-c771ec248da8",
+      "6844b9e6-76b9-5b5d-aa74-81a0e69302e2",
+      "784d603c-92d0-5ee9-a499-3f43d0d1c663",
+      "7eab9ed8-a265-569b-981f-b1627c869f67",
+      "833c4c47-7523-5fbe-8f7b-e0a228d71681",
+      "988138ee-3261-5e25-87e5-51e287614d19",
+      "b1fcf41c-4fd9-52c5-a620-9e9965e66f1e",
+      "ba3da5c7-f79b-50d8-a552-8eb4b2725430",
+      "d46e41d8-2ddd-5904-8e74-82bfecf279b1",
+      "e5692941-5b1d-5f88-bab4-d7cac6a414d0",
+      "fc777fc6-5d37-53c1-95f7-9e30f0e94fcd"
+    ]
+  },
+  "q016": {
+    "gold": {
+      "doc_id": "40975848-d74f-597f-ac36-5cd93e0a3d72",
+      "title": "Drangleic",
+      "section": "drangleic_s_curses",
+      "snippet": "While Drangleic prospered under Vendrick, the king's older brother Aldia never took an interest in the political affairs of the kingdom he had helped found, preferring to remain in his mansion and dedicating himself to the research of the truths of the world. His keep attracted the greatest minds of the kingdom, who were keen to help with his studies and strange rituals. However, his research, motivated by a boundless desire to understand life, eventually took a dark turn, leading him to create blasphemous spells with a will of their own that chased their enemies, a characteristic of the Dark. He also created excessively destructive pyromancies just to test the limits of the Chaos flame thro"
+    },
+    "contrast": {
+      "doc_id": "001194bf-6409-52b1-a427-ade6efc994f8",
+      "title": "Oswald of Carim",
+      "section": "lead",
+      "snippet": "Oswald of Carim -  Dark Souls - character - lead \n lead : **Oswald of Carim** (カリムのオズワルド) is a character in *Dark Souls*. He is also known as **Oswald the Pardoner**. He is voiced by David Gant, who also voices Aldia, Scholar of the First Sin in *Dark Souls II.*"
+    },
+    "probes": [
+      "0d8f5df9-8326-532d-90c5-b9b0d22bedce",
+      "20e84ced-e36a-56e0-a9ae-5fa706621069",
+      "37daca5b-a161-5be4-87d7-e2edd0c99874",
+      "40975848-d74f-597f-ac36-5cd93e0a3d72",
+      "526d603e-f67d-5087-a5e4-318a888226bf",
+      "6f70d848-61c4-5719-b5c4-ce6d11fff187",
+      "7e947534-25ed-51bf-98d0-2fc7b911ab56",
+      "8affa6e3-b68c-555f-a667-1ac6f1cee5ce",
+      "9c793983-b876-5da2-8ec5-3c877d3e2714",
+      "bc6aea0f-5e8a-53f5-97e9-e70f5b19989b",
+      "c007aa38-d49f-5f12-ba32-15386e282ced",
+      "cd3d4a32-9d92-534b-9790-37edbc351578",
+      "d401e569-35eb-5763-b183-8468deb6c2fc",
+      "e138f072-63dc-5f51-ae23-a588e4437bb5",
+      "f3e97863-2156-559c-bc1e-a38dfa411ba1"
+    ]
+  },
+  "q017": {
+    "gold": {
+      "doc_id": "10a0d884-75b8-5a43-8684-3d5f05e32f50",
+      "title": "Drangleic",
+      "section": "drangleic_s_fall",
+      "snippet": "In the darkest hour of his reign, Vendrick also realized that his Queen, Nashandra, was a creature of the Abyss, and harbored an insatiable desire for strength. She was a fragment of a dark creature taken a human form, obsessed with the King's powerful soul. Impelled by her cravings, Nashandra sought souls, and strove to make the strength of the Giants her own, everything to reach the Throne of Want and the link for the First Flame so it could spread the Dark. Her painting in the castle was in fact able to curse the undead, making them hollow and draining their life, and only the king knew whether the depiction of the Queen was a resentful mockery, or an affectionate exaltation. At this poin"
+    },
+    "contrast": {
+      "doc_id": "01f5c503-2ee1-5080-8b70-8479c353617c",
+      "title": "Lucatiel of Mirrah",
+      "section": "lore",
+      "snippet": "Lucatiel of Mirrah -  Dark Souls II - character - lore \n lore : Lucatiel was born into a family of peasants in Mirrah, an unprivileged part of the society of this kingdom. In order to ensure the well-being of her family, Lucatiel and her older brother joined the army. At an early age, she and her brother took up fencing together and, eventually, Lucatiel's skills on the battlefield allowed her to become a knightess of the Order.\n\nAlthough Lucatiel was a skilled combatant, she was no match for her brother. She claims that her brother was a far better swordsman than she was, as she was never able to defeat him. At some point in her life, her brother disappeared without a trace. Lucatiel though"
+    },
+    "probes": [
+      "075050da-6989-563f-a5cd-9329b3d4af85",
+      "12529dd0-dcc9-5307-b7d8-2379550f8a31",
+      "23920578-f735-5135-b148-ce93477b047b",
+      "32fa3b4c-1c47-51de-8415-0bcebd99430b",
+      "497e1971-07c7-55d0-8283-7712876c2666",
+      "5c8e954a-e59f-54ae-9083-b026ca0dede7",
+      "6f469a71-a994-5a58-8b79-b6fa248b33c2",
+      "7cc0759c-5c37-5491-b44a-089447c77dc3",
+      "867c7b41-7333-5dcb-8cc4-4d98a0fe28a0",
+      "9a4ec3dc-53d5-5e13-86ba-451e9ca02aab",
+      "b4161ec0-9645-541f-a6f0-ba43a297c84d",
+      "be32a8ef-2348-5508-905a-bc258ccca1a2",
+      "d87581bd-d8b8-5838-bdbb-d4347cc15e1e",
+      "f23fee1b-6153-5cd2-ae0a-0fa90e7a312a",
+      "fc099ccf-4552-5058-9506-09990a140319",
+      "ffd70c28-2dac-5723-8222-1a6c1928c29d"
+    ]
+  },
+  "q018": {
+    "gold": {
+      "doc_id": "10a0d884-75b8-5a43-8684-3d5f05e32f50",
+      "title": "Drangleic",
+      "section": "drangleic_s_fall",
+      "snippet": "In the darkest hour of his reign, Vendrick also realized that his Queen, Nashandra, was a creature of the Abyss, and harbored an insatiable desire for strength. She was a fragment of a dark creature taken a human form, obsessed with the King's powerful soul. Impelled by her cravings, Nashandra sought souls, and strove to make the strength of the Giants her own, everything to reach the Throne of Want and the link for the First Flame so it could spread the Dark. Her painting in the castle was in fact able to curse the undead, making them hollow and draining their life, and only the king knew whether the depiction of the Queen was a resentful mockery, or an affectionate exaltation. At this poin"
+    },
+    "contrast": {
+      "doc_id": "039f93b5-f0ee-552e-bcd7-1e0874ea7ab3",
+      "title": "Corvian (Lore)",
+      "section": "dark_souls",
+      "snippet": "It's likely they had a good relationship with Priscilla, who considers them kind, much like every other inhabitant of the painting. They might have taken care of her, perhaps a duty given to them by their beloved goddess, who seemed to favor the poor crossbreed. However, the specifics of their relationship are never made clear."
+    },
+    "probes": [
+      "0b8491cc-f186-57d8-8600-5e9fb3d37e88",
+      "1c574e87-be0c-53f6-9b04-aa07b99a8af9",
+      "291a74fe-5ecf-558d-925b-3c6dce95ce16",
+      "3f6e974d-b8e2-53fe-82d0-b9ccb9e5e328",
+      "5064b081-18e5-5106-a75b-143399568ec0",
+      "600769b5-97eb-5228-9eb9-1423a26f7954",
+      "6d2d7c4a-e594-5f9b-90d1-825fa4113b86",
+      "7dab68f7-372d-504f-8e72-259ab60d9018",
+      "86304e0d-8f00-5708-b108-fe317fb03b9c",
+      "8e3c6bba-d45f-56da-bcba-b49e20aed220",
+      "ad43e5b2-85ba-5f7f-9241-b3b6fab2d3ec",
+      "c39839cc-6eaf-5328-a817-8f5aaaf2387f",
+      "d9fe46e9-d24e-5b3d-9b5c-9435f17623f2",
+      "ed477dc1-cba3-58ee-b824-a58e1aa1c306",
+      "f05687a0-de69-5cf4-b208-01e8b6e463f8",
+      "fdd38d17-9eb8-5b70-ac2f-7790d8919bbd"
+    ]
+  },
+  "q019": {
+    "gold": {
+      "doc_id": "21ec5dec-8dd3-5133-83de-2691133e1165",
+      "title": "Emerald Herald",
+      "section": "lore",
+      "snippet": "Shanalotte will once again appear once the Bearer of the Curse has reached the Dragon Aerie. Here, she will reveal that it was her manifestations that led them here, and has been guiding them all along. She directs the Bearer to the top of the aerie, where the Ancient Dragon awaits them.\n\nShanalotte will appear one final time when the Bearer of the Curse is approaching the Throne of Want. She will tell the Bearer of her origins and her true name. She will warn them that Nashandra, desiring the power of the Flame and the Great Soul will come after them, but that they must persist nonetheless.\n\nShould the Bearer of the Curse choose to claim the throne, Shanalotte will narrate their ascent, exp"
+    },
+    "contrast": {
+      "doc_id": "013ebb90-9da8-5e86-bcdc-efd8bade2feb",
+      "title": "Ember",
+      "section": "general_information",
+      "snippet": "Ember -  Dark Souls III - item - general_information \n general_information : When an Ember is consumed, the player will become a Host of Embers. This will enable invasions and summoning, as well as restoring all of the player's HP and increase their maximum HP by 30%."
+    },
+    "probes": [
+      "1042d3a5-8269-567d-90e2-c401a1c50be4",
+      "21ec5dec-8dd3-5133-83de-2691133e1165",
+      "2a73fe73-ed1e-59c9-94ec-ef71fd068fba",
+      "4657d82c-1000-5dec-a4e6-f2eb468dc426",
+      "5557c279-354d-5f52-a5e3-be50ec1fb102",
+      "6484a53c-96d2-5457-bda6-7c0162cab9a6",
+      "6b440a02-2a3e-5b6f-a65c-ac71de06c3f1",
+      "7300d0cd-5934-52fa-9f79-3f8bf6c21c7c",
+      "89b5af06-8ed3-512a-86a3-20ae57ef6323",
+      "9d95f344-6d43-5f94-aa19-77355496d208",
+      "bddf65bb-d288-504f-877a-81a807ed2b24",
+      "d37ac5a6-ba80-552b-942b-ef95c06e93d8",
+      "d93c2039-f671-5b9a-8291-e42a66e1e54f",
+      "e7e2c436-2125-5d43-99e4-f84fbaacfa6b",
+      "f3ee1724-b37a-545a-b58a-3cf99a6c0912"
+    ]
+  },
+  "q020": {
+    "gold": {
+      "doc_id": "10a0d884-75b8-5a43-8684-3d5f05e32f50",
+      "title": "Drangleic",
+      "section": "drangleic_s_fall",
+      "snippet": "In the darkest hour of his reign, Vendrick also realized that his Queen, Nashandra, was a creature of the Abyss, and harbored an insatiable desire for strength. She was a fragment of a dark creature taken a human form, obsessed with the King's powerful soul. Impelled by her cravings, Nashandra sought souls, and strove to make the strength of the Giants her own, everything to reach the Throne of Want and the link for the First Flame so it could spread the Dark. Her painting in the castle was in fact able to curse the undead, making them hollow and draining their life, and only the king knew whether the depiction of the Queen was a resentful mockery, or an affectionate exaltation. At this poin"
+    },
+    "contrast": {
+      "doc_id": "0acf8f7e-a51d-5809-963a-35551ccdc111",
+      "title": "Throne Watcher Soul",
+      "section": "availability",
+      "snippet": "Throne Watcher Soul -  Dark Souls II - item - availability \n availability : Obtained after defeating the Throne Watcher and Defender."
+    },
+    "probes": [
+      "114016b5-629b-5e1a-9153-8bcfa241089d",
+      "21ec5dec-8dd3-5133-83de-2691133e1165",
+      "3458a3d4-dec2-5256-a636-82b9bd4ba306",
+      "45e985b2-5a23-573c-9026-79120c73e59d",
+      "4d3bd740-8e43-54f7-8ed7-683e931b7b03",
+      "600769b5-97eb-5228-9eb9-1423a26f7954",
+      "6b440a02-2a3e-5b6f-a65c-ac71de06c3f1",
+      "76dca7f7-6caf-54c6-9e7c-9dc5b705b367",
+      "907f08e0-cac3-523f-b46a-ae15f345d5c0",
+      "9e0e09b7-6345-55d7-b1f2-f839f8303f82",
+      "b1fcf41c-4fd9-52c5-a620-9e9965e66f1e",
+      "c4864d37-fc35-5773-b9d2-9b0032bf4a22",
+      "d37ac5a6-ba80-552b-942b-ef95c06e93d8",
+      "db44bea0-a45f-5093-a876-58274ea4c46e",
+      "f3556141-a223-521d-a413-ab93bef49dc1",
+      "fdd38d17-9eb8-5b70-ac2f-7790d8919bbd"
+    ]
+  },
+  "q021": {
+    "gold": {
+      "doc_id": "1c574e87-be0c-53f6-9b04-aa07b99a8af9",
+      "title": "Drangleic",
+      "section": "drangleic_s_fall",
+      "snippet": "As the war dragged on, Vendrick's army began a decline caused by attrition in the face of the Giants' will of steel. The king was forced to hire mercenaries from Forossa and Volgen to reinforce his ranks, and Desert Sorceresses from Jugo were added to the defense of the Royal Castle. The endless battles also began to take their toll on the population. Those who could afford it ran away to other countries while the poor were left without a place to sleep, the kingdom now reduced to ruins. The conflict continued for three generations unabated, with the Giants sustaining their attacks on northern fortifications and trying to push their way inland towards the Royal Castle. The bodies of the many"
+    },
+    "contrast": {
+      "doc_id": "014c24ae-6824-5600-82e2-1f738babb6a0",
+      "title": "Drangleic",
+      "section": "artifacts",
+      "snippet": "Drangleic -  Dark Souls II - location - artifacts \n artifacts : Dragonrider Set\nDragonrider Greatshield\nDragonrider Bow\nDragonrider Twinblade\nDragonrider's Halberd\nSyan's Halberd\nSyan's Set\nRoyal Swordsman Set\nRoyal Greatsword\nDrangleic Helm\nHollow Soldier Set (Dark Souls II)\nHollow Soldier Shield (Dark Souls II)\nRoyal Soldier's Ring\nElite Knight Set (Dark Souls II)\nInfantry Set\nInfantry Axe\nFoot Soldier Sword\nFoot Soldier Shield\nWhite Priest Set\nPriest's Chime\nKing's Crown\nRoyal Dirk\nLlewellyn Set\nLlewellyn Shield\nLooking Glass Set\nKing's Shield\nThorned Greatsword\nOld Ironclad Set\nDrakekeeper Set\nKing's Crown\nKing's Set\nRuler's Sword\nKing's Shield\nKing's Ultra Greatsword\nKing's Ring\nAldia H"
+    },
+    "probes": [
+      "0eea94fe-4d88-5e65-8f6f-925d9df22b35",
+      "1aa719a8-a28a-5de4-9eb4-6e24ae84d9c4",
+      "235cd353-75f0-5213-b6c9-e3aa1c5d6b84",
+      "384f6091-5fbb-5746-849d-ebf88447819e",
+      "42e7d776-3588-5fc4-8ea9-aab5c9de79c5",
+      "4ba79514-eb0d-5e88-be76-b8ca1abb4c3b",
+      "57fb7329-53b5-5d25-8958-47b250063740",
+      "666a0d46-1a19-5247-ab76-0ad4d1b59514",
+      "78e2b7b0-9e97-5abf-903c-794cec471bd8",
+      "80e0ee9e-d48a-5d5b-9308-5937d8639f6b",
+      "8e3c6bba-d45f-56da-bcba-b49e20aed220",
+      "a116dca4-0023-5386-ad13-f89fc5e698ec",
+      "b9341b96-2027-57c6-9d90-f394d26a306c",
+      "cec57d37-2cda-5cb2-bdc4-50dfc8532c72",
+      "df74127d-a676-5c9e-b41a-2a3c231c4c75"
+    ]
+  },
+  "q022": {
+    "gold": {
+      "doc_id": "1a550fa1-d150-5a4c-b146-452185652af2",
+      "title": "Dragon Shrine",
+      "section": "plot",
+      "snippet": "Dragon Shrine -  Dark Souls II - location - plot \n plot : After acquiring the King's Ring then journeying through Aldia's Keep and the Dragon Aerie, the player makes their way to the top of the shrine where they acquire the Ashen Mist Heart from the Ancient Dragon."
+    },
+    "contrast": {
+      "doc_id": "08f39ba6-37fc-594b-a1ea-4e40c6cd2cf4",
+      "title": "Ashen One",
+      "section": "firelink_shrine_dark_souls_iii_firelink_shrine",
+      "snippet": "firelink_shrine_dark_souls_iii_firelink_shrine : Inside the shrine, they encounter the Fire Keeper, who tells the Ashen One that the Lords of Cinder—Aldrich, Devourer of Gods, Yhorm the Giant, the Abyss Watchers, and Lothric, Younger Prince—have abandoned their thrones, and charges them with bringing the lords back. The Fire Keeper offers to channel souls in order to increase the Ashen One's strength. Also in the shrine are Blacksmith Andre, a smith from the Age of Gods; the Shrine Handmaid, who offers an expanding store of goods in exchange for souls; Hawkwood the Deserter, a crestfallen warrior; Ludleth of Courland, the last remaining Lord of Cinder who offers the Ashen One advice and the "
+    },
+    "probes": [
+      "1d74ee42-c101-54a7-87b6-798ae1ad8d1f",
+      "2bdb2cba-eefb-5f09-85f8-5ba8a67131d8",
+      "4078e255-0ddc-5d78-80a8-92dc99507516",
+      "4b77d803-97a8-500c-ba29-85f44ed4ad1d",
+      "626e76e1-7ac8-5c65-b0e3-8e229604116a",
+      "6b2163a5-6468-5380-a784-1bc4c3462cbd",
+      "6f03162d-e692-50c4-bc73-95ce8c8abe23",
+      "89b5af06-8ed3-512a-86a3-20ae57ef6323",
+      "91db3bd7-1549-594c-9db8-bdc73109bb8d",
+      "a178cfff-414e-58f7-855d-7892a5407fd0",
+      "b3a445df-f371-5a69-bb6a-ab7c34b0b637",
+      "bc6aea0f-5e8a-53f5-97e9-e70f5b19989b",
+      "d14b6451-a377-5b0e-8c92-f0b964fe72bb",
+      "df2beffa-4e12-5c5b-9592-813ebd780d5b",
+      "ed477dc1-cba3-58ee-b824-a58e1aa1c306"
     ]
   },
   "q023": {
@@ -127,6 +728,38 @@
       "f604ee35-65f9-5712-a4a8-34db702920c4"
     ]
   },
+  "q024": {
+    "gold": {
+      "doc_id": "3523d5fb-84c7-5758-ac23-bd2e3015148b",
+      "title": "Amana Shrine Healer",
+      "section": "lore",
+      "snippet": "Amana Shrine Healer -  Dark Souls II - enemy - lore \n lore : These priestesses maintained the Shrine of Amana and contained the Demon of Song there through use of sacred rituals. They kept the Demon appeased, but the line of these priestesses soon died off, setting the Demon free."
+    },
+    "contrast": {
+      "doc_id": "0499f002-5cc4-594b-b65e-cbe66ff45806",
+      "title": "Lindelt Cleric",
+      "section": "location",
+      "snippet": "Lindelt Cleric -  Dark Souls II - enemy - location \n location : Shrine of Amana"
+    },
+    "probes": [
+      "0a583bf5-ca55-5e88-946b-804f519e8403",
+      "16a49044-ed3b-563e-a984-8fb67537faac",
+      "26f09a90-7e5f-5301-ae7c-e4d2c1ec55ab",
+      "3523d5fb-84c7-5758-ac23-bd2e3015148b",
+      "3f359ee9-b6a8-57d3-a27e-48f39565be45",
+      "4f9507ed-4d7b-5965-baaf-54e5d39a9340",
+      "69bbb5b0-c87b-5e2b-8188-d74bc5aee17d",
+      "7ecb87c7-ee45-5a2a-8f1e-f5f99c270c34",
+      "900dee93-d3b2-5d8f-9b7a-75acad5e08e6",
+      "9fc7f459-87a7-5ffa-9a16-1aae6f66023e",
+      "be8870a8-7994-5381-9f07-52dea77be5e6",
+      "d0b38b05-3f82-54e6-b086-0cd80d3cf86c",
+      "d4fb8dbf-f27f-5a65-94c4-334f9f1be4ca",
+      "e4f6249b-fdc0-57b1-bcb8-69008378ad72",
+      "f3f271a7-7342-5db9-8a21-821203b764e5",
+      "fedb7ced-e667-5a98-a448-aa488912fea5"
+    ]
+  },
   "q025": {
     "gold": {
       "doc_id": "290160f1-1cf5-5a75-9d7d-e3c4da08cd71",
@@ -157,6 +790,417 @@
       "d9dcb027-a46a-5edf-9fb5-7d02b0d8ba83",
       "efa8a349-e145-5312-b3ff-6ad602446463",
       "fe9b9bb4-aa73-57e2-9146-131307d3c13a"
+    ]
+  },
+  "q026": {
+    "gold": {
+      "doc_id": "03d172e2-54a5-5fa3-9121-d4953e8ba541",
+      "title": "Age of Dark",
+      "section": "lore",
+      "snippet": "In *Dark Souls III*, countless beings have prolonged the Age of Fire, preventing its end and holding off the coming of the Age of Dark. By the time the game begins, there are countless Lords of Cinder - those who successfully linked the First Flame before - and even more Unkindled who were unsuccessful. Eventually the one anointed to next link the Flame (and indeed, who was born for that very purpose), Prince Lothric, rejected the idea that the Age of Fire should be prolonged any further and instead desired to end what he called the \"fire-linking curse.\" A contingency plan was then activated, in which previous Lords of Cinder were resurrected in hopes that they, who had linked the First Flam"
+    },
+    "contrast": {
+      "doc_id": "08f39ba6-37fc-594b-a1ea-4e40c6cd2cf4",
+      "title": "Ashen One",
+      "section": "firelink_shrine_dark_souls_iii_firelink_shrine",
+      "snippet": "firelink_shrine_dark_souls_iii_firelink_shrine : Inside the shrine, they encounter the Fire Keeper, who tells the Ashen One that the Lords of Cinder—Aldrich, Devourer of Gods, Yhorm the Giant, the Abyss Watchers, and Lothric, Younger Prince—have abandoned their thrones, and charges them with bringing the lords back. The Fire Keeper offers to channel souls in order to increase the Ashen One's strength. Also in the shrine are Blacksmith Andre, a smith from the Age of Gods; the Shrine Handmaid, who offers an expanding store of goods in exchange for souls; Hawkwood the Deserter, a crestfallen warrior; Ludleth of Courland, the last remaining Lord of Cinder who offers the Ashen One advice and the "
+    },
+    "probes": [
+      "119ac195-88df-59f5-9040-5664976e85d6",
+      "1f5b002f-b022-5141-af27-5ac5acaa808d",
+      "2decdd12-ea15-567c-bc5a-5efec31fedc2",
+      "4196ac76-aec0-53d6-90af-1b32c9bf24ef",
+      "5bde3986-871c-5e1b-9760-649c8565ed8d",
+      "667fc6fa-90d0-57bb-9968-bdf5ad9d8612",
+      "6cee28ea-0ae3-5a7f-b0e2-8c9b44130705",
+      "710aaee6-ed70-5531-b178-9071c24dd307",
+      "8d8ab5b9-8b9a-56f4-a74f-2375f359ce9e",
+      "9c970d59-9bb1-5494-bd90-b64b58edca20",
+      "a97b27b5-3f73-5234-8c3a-831aa501a3c9",
+      "bce79125-d6bd-5341-8f9c-74b8b9d5ce1f",
+      "cbf435d5-c24e-59cf-b7a4-420e94226648",
+      "dcb103ab-516c-5600-8dc0-32fcc471cf83",
+      "ed17f063-c031-5695-a2ff-fc82e004f66f",
+      "fcd15b3a-a6bc-5f3d-aac7-e10ab992bd16"
+    ]
+  },
+  "q027": {
+    "gold": {
+      "doc_id": "1a3a96b3-b772-5e00-8038-3012e2c5f447",
+      "title": "Lothric, Younger Prince",
+      "section": "lore",
+      "snippet": "However, the hopes of the royal family would soon fade as Lothric remained a shriveled child from birth into adulthood, never even growing out of his baby clothes. Furthermore, the first scholar of the Grand Archives seemingly became a private mentor to young Prince Lothric, and likely divulged his skepticism on the nature of the Age of Fire to his student. The frail prince also demonstrated talent for sorcery, and learned several powerful and refined spells."
+    },
+    "contrast": {
+      "doc_id": "032d08da-7e92-57e4-9ec6-0870c4ad6926",
+      "title": "Ashen One",
+      "section": "lead",
+      "snippet": "Ashen One -  Dark Souls III - character - lead \n lead : The **Ashen One,** also referred to as the **Champion of Ash** or **the Unkindled One,** is the playable character and the protagonist of *Dark Souls III*.\n\nThe title of Ashen One is given to the player by the Fire Keeper of Firelink Shrine. The Ashen One is an Unkindled, an Undead who failed to link the First Flame and became ash, who has been raised from their grave, and is tasked with a journey to defeat four Lords of Cinder and return them to their thrones, since the link of the Flame is threatened and the Lords refuse to serve as its fuel once again."
+    },
+    "probes": [
+      "0dad13ba-f74a-5984-87f6-988510cc8ee5",
+      "1c03b4ad-3210-55b7-903e-96c1a1148dbe",
+      "2d2cf58d-19ce-5375-83d6-c585c3e20a79",
+      "3707a6db-d595-52b0-ac82-d3be206e8654",
+      "4cd0cf98-dd80-501d-950f-0383a4ba3ee1",
+      "6231ee30-62fa-59ca-b7ca-b38af9656268",
+      "6b3638ce-6a4d-52f0-a311-1bb8c22b0d8b",
+      "710aaee6-ed70-5531-b178-9071c24dd307",
+      "837ab43e-a2fa-5bff-9063-cd9cff6cbcae",
+      "9ea00b86-6a3c-5f98-9fcd-3c9a657fa748",
+      "ab0a7ae7-4f5d-5f22-b5c1-3e5bb920bb87",
+      "ba4b3711-e623-5c67-82f3-b3f6145e5556",
+      "c4123c3b-18b0-5c4c-95e8-4bd039fc0dbd",
+      "e0b9d474-d2ca-59a8-8530-8c5eff46bf84",
+      "f23fee1b-6153-5cd2-ae0a-0fa90e7a312a",
+      "fdd7ba06-0a58-5688-8f69-8d5c4eb9dde2"
+    ]
+  },
+  "q028": {
+    "gold": {
+      "doc_id": "0a1d829e-35d3-5e31-b9f2-99e95f88c0de",
+      "title": "The Deep",
+      "section": "aldrich_devourer_of_gods_aldrich_saint_of_the_deep",
+      "snippet": "At his new posting at the Cathedral, Aldrich was provided a steady flow of sustenance in the form of the Road of Sacrifices. The Cathedral would dispatch Evangelists to establish missions and gain influence at the Undead Settlement; these preachers would tell stories of enlightenment to the cursed Undead, who were shipped off en masse to become feed to Aldrich's gluttony. At some point, he would desire for others to share in the elation of devouring men; to this end he fashioned warped magic rings that allowed one to feel the same depraved sensations as the repulsive maneater. The bearers of these rings mutated into accursed bestial creatures with stomachs filled with the remains of their me"
+    },
+    "contrast": {
+      "doc_id": "0054ff83-cc8c-582e-86ad-e959b0a656af",
+      "title": "Giant Man Serpent",
+      "section": "see_also",
+      "snippet": "Giant Man Serpent -  Dark Souls III - enemy - see_also \n see_also : Man Serpent\nMan Serpent Summoner"
+    },
+    "probes": [
+      "0b1de054-d916-50a6-a557-351960f8ac32",
+      "1d8a291b-c847-5c8a-bdf6-d06f6e7a3a0a",
+      "27544b5a-60ba-5196-b599-f48fd249af3e",
+      "346072d8-1c86-5504-920e-a8f2dcede660",
+      "43dfc789-3f7f-5d58-aff1-48154c8f4158",
+      "5e279f7e-6249-5af6-96ee-74192c8c2f51",
+      "6aa53920-e255-5c58-aae3-de833cc46514",
+      "796eb7dd-34da-5ec6-baee-23c6755f695a",
+      "7ed6c2c2-293d-5cb8-98ed-a8cefb8ae6f1",
+      "850ea100-9778-5673-ae46-fae733baff4b",
+      "9086184e-19fb-57cd-9625-55865ae03a0c",
+      "a256119a-d32e-58ca-8fa6-319b2bc9fbb9",
+      "b77cedc8-14bc-53d3-ae6d-2928bbae7700",
+      "e0160806-e9e8-58a4-8dc7-7f40c9ab7bd6",
+      "f174ce11-9420-5c57-aaf2-8d95b79fdbb3",
+      "fbc810be-1613-5e5e-af4c-2fe65792b4aa"
+    ]
+  },
+  "q029": {
+    "gold": {
+      "doc_id": "1507f04c-d1ca-5210-ac7e-b2900eae5688",
+      "title": "Dark Sun Gwyndolin",
+      "section": "dark_souls_iii",
+      "snippet": "dark_souls_iii : {'name': \"Sulyvahn's Coup and the Downfall\", 'description': 'One day Sulyvahn, a young sorcerer, arrived in Irithyll from the Painted World and was welcomed among the inhabitants despite not being a descendant of the gods, earning Gwyndolin\\'s favor thanks to a crude replica of his magical catalyst presented to his Darkmoon Knights, demonstrating the young man\\'s talent. Eventually Sulyvahn discovered the Profaned Capital deep within the region and the Profaned Flame contained therein, an unfading flame that became the fuel and instrument of his ambitions. Armed with this new power, the young sorcerer thus climbed the ranks of Irithyll\\'s clergy, corrupting the city\\'s holy "
+    },
+    "contrast": {
+      "doc_id": "0f3786fc-8d3b-5bb9-8be1-86666f890a1b",
+      "title": "Aldrich Faithful",
+      "section": "description",
+      "snippet": "Aldrich Faithful -  Dark Souls III - mechanic - description \n description : The Aldrich Faithfuls protect Lord Aldrich from harmful ash, such as the Ashen One, and claim Human Dregs as their prizes. These may be used to rank up in the covenant for rewards."
+    },
+    "probes": [
+      "12fc1e6e-0da7-5cbc-8d3c-3de6565043d2",
+      "238b2e9c-f0eb-5efe-a491-c0928e291840",
+      "41a9959f-194d-52dc-a414-27a129ef070d",
+      "4f08399c-55d6-5fe9-89b7-2dadb0eec54e",
+      "59d35aa7-2421-5335-9db4-e7572486f722",
+      "666d8515-e619-53bc-9701-bddd30326a3f",
+      "740bc956-eafd-509b-8a2a-9c5890cde510",
+      "7e947534-25ed-51bf-98d0-2fc7b911ab56",
+      "8cff7505-1479-5b4e-8324-4f1d1f8af1aa",
+      "918b5e27-ce74-5880-9203-05c7957a3f05",
+      "a607bcf6-206e-52d5-8ee4-ed01f9305549",
+      "bea056db-217f-5313-bd5c-8daf9727de46",
+      "cec6914c-45e7-5577-8956-0450bdb6dec1",
+      "e3405009-de37-565c-946d-695f145a95a1",
+      "f1395193-7c4c-55e9-95e5-2b76b0cd7891",
+      "fd1ac7b8-a8dc-5642-837a-ca74001162d9"
+    ]
+  },
+  "q030": {
+    "gold": {
+      "doc_id": "2c46afc8-9410-5ca9-8823-a78ba25dffcb",
+      "title": "Lothric",
+      "section": "royal_madness",
+      "snippet": "When the royal family realized that Lothric would not improve from his condition, they resorted to repulsive acts in an attempt to obtain a worthy Champion for the linking: the rulers bound the souls of the two princes together with a curse. Although the exact motive behind this act is unknown, it is likely that the rulers intended for Prince Lothric to draw out some of the strength of his elder brother's soul, which could have allowed him to qualify as worthy Ash for the First Flame. It was even said that Lorian willingly submitted to the curse, even as it crippled him. The resulting Soul of the Twin Princes was one worthy of providing kindling for the First Flame, even as the princes were "
+    },
+    "contrast": {
+      "doc_id": "017d95b7-954e-5af4-bc8f-96b318314346",
+      "title": "Lorian, Elder Prince and Lothric, Younger Prince",
+      "section": "strategy",
+      "snippet": "The best way to fight Lorian is to always stay near him, giving him no opportunity to teleport to close the distance and attack the player from blind angles. Beware that using greatswords and larger is not recommended, as their long animations will give Lorian ample time to counter. Try to get in one or two quick swings, and then prepare to roll to dodge Lorian's retaliations.\n\nDuring the second phase, the player must defeat Lothric by getting behind Lorian during his attacks and striking Lothric directly. Depending on the weapon being used, Lothric may take less damage than Lorian from attacks that hit them both; Lothric is weak to slash and thrust damage, so weapons like katanas or thrusti"
+    },
+    "probes": [
+      "1681a273-76d5-5114-abc8-548d2a9e1ef3",
+      "22e01904-4342-5671-b92d-f1a2cd62deed",
+      "2c46afc8-9410-5ca9-8823-a78ba25dffcb",
+      "34391436-f5ee-530a-847d-3ec0e4713d41",
+      "43d9845e-a118-5c54-8d03-6abcf733dcac",
+      "5ec4f1ca-7e02-5f2c-aecd-092baae31fcc",
+      "6df3a928-df69-515f-9076-11dba528a04b",
+      "7e5e4bce-c015-511b-809a-e0b9f7e32386",
+      "9ea00b86-6a3c-5f98-9fcd-3c9a657fa748",
+      "a4e7a9cc-eb0d-5be4-97e3-557112d68c6b",
+      "bf5a51b7-a1b7-5d56-8d1a-9462e418429f",
+      "e0180916-f4ee-5d74-9ed4-51e61b7abb89",
+      "f9fe8037-354b-52ef-bb9f-216dc0d010a2"
+    ]
+  },
+  "q031": {
+    "gold": {
+      "doc_id": "8140a5b2-fa7c-5340-bcc0-eed39042a8f1",
+      "title": "Knight Artorias",
+      "section": "dark_souls_iii",
+      "snippet": "Knight Artorias -  Dark Souls III - boss - dark_souls_iii \n dark_souls_iii : Artorias's legacy of battling the Abyss lived on through the ages into the days of Lothric. While the name of the \"Wolf Knight\" was seemingly lost to history, there were many who swore themselves into a new covenant with the goal of fighting Abyss's abominations. These warriors would come to be known as Farron's Undead Legion, The Abyss Watchers. It was said that the Undead Legion vowed to partake of \"wolf blood\", binding their souls into one that traced its roots to Artorias, the first Abyss Watcher, in an eternal mandate to hold back the tides of the Abyss. They imitated the fighting style of their first master, b"
+    },
+    "contrast": {
+      "doc_id": "004ab82e-a5d1-5a88-a9d1-16d0d8b1c4cb",
+      "title": "Covenant of Artorias",
+      "section": "description",
+      "snippet": "Covenant of Artorias -  Dark Souls - ring - description \n description : This ring symbolizes Knight Artorias' covenant with the beasts of the Abyss.\n\nIts wearer, like Artorias himself, can traverse the abyss."
+    },
+    "probes": [
+      "0d6176d3-ebad-525b-ad13-dbf86c32c0f9",
+      "10fc8d45-509d-5954-a5b2-dbafd1598772",
+      "218bc1a7-a66f-57eb-99de-0e7ce4987889",
+      "29e9ac90-92c5-55de-b5a8-a6e984380249",
+      "37d51c5e-5be0-5fab-91f9-b317a2934f40",
+      "5a384204-6270-5904-987b-511320d3f9da",
+      "66a85198-7731-525a-81f4-e534bad40f73",
+      "70b22139-adfc-51a0-a95c-d178d35cb344",
+      "86d8fddb-7ce8-517f-a6d6-71dfeb87c737",
+      "9abf34cc-6504-54b7-8cd8-5ffead9dff54",
+      "ae6f21e8-6fb0-5025-aa3b-87c2528eb3e9",
+      "b973ad28-00f7-51da-98d8-954179376f9a",
+      "c918fea4-daaf-5320-bf54-fcf29aec53f0",
+      "d372eb42-476a-5429-bdf5-bd5e869a834e",
+      "e25da2cc-cfd3-5c53-b396-3b7f140a5db1",
+      "f549938f-61fd-500d-a229-47d7fed5f60f"
+    ]
+  },
+  "q032": {
+    "gold": {
+      "doc_id": "22e275c5-5018-572d-9244-e7b299974fd5",
+      "title": "Aldrich, Devourer of Gods",
+      "section": "lore",
+      "snippet": "He gathered an army of deacons, who cast off their red robes and crowns—symbolic of their clerical duties— for new dark-blue ones and swore fealty as Aldrich Faithful, their venerance of the Deep finally codified under Aldrich's banner. He then marched on Irithyll, home to the old gods of Anor Londo and the residence of Chief Deity Gwyndolin. Likely forcing his way through the city's magical barrier, he would confront the forces of Pontiff Sulyvahn, who had no intention of relinquishing his power and authority over the city. From the battle that ensued, Aldrich emerged victorious, slaughtering Sulyvahn's troops and forcing him into capitulation. Seemingly, the two eventually struck a deal: t"
+    },
+    "contrast": {
+      "doc_id": "02bd7e05-b553-54fe-b09e-b7df3a35959e",
+      "title": "Timeline",
+      "section": "irithyll_of_the_boreal_valley",
+      "snippet": "During the exploration of the Profaned Capital, Sulyvahn discovers the Profaned Flame and its immense power. He takes a greatsword imbued of its power and returns to the capital. With the power to control an everlasting, terrible Flame he's seeing as the carrier of an unprecedented power and begins to rapidly climb the Church's ranks\nOnce he achieved a key position within the clergy, he de facto takes control of the city and declares himself Pontiff, therefore leader of the Church. Gwyndolin, the worshipped deity, is secluded in the cathedral and Yorshka is promptly imprisoned away from the rest of the world.\nThe Way of White refuses to officially recognize Sulyvahn new course, therefore a s"
+    },
+    "probes": [
+      "0eba7f90-0235-5e5e-85de-26433012d472",
+      "1feb4cca-c1ca-50a1-b559-6bc688818e67",
+      "33be595d-cc93-5787-bdbd-e93fcca806bc",
+      "494b51aa-e598-5800-ad92-042ebe06a9bd",
+      "4f16e21f-1fb2-5831-a7e2-598f85f90d14",
+      "5d1bdf08-059f-51b6-9732-81331e74c18a",
+      "67b2297a-d182-59e2-8348-379292b13930",
+      "75a32633-fb8e-55d8-a4db-cb1f05eeed05",
+      "847e603f-d013-525f-a9a5-624810b48b81",
+      "90a32cde-76a5-5ee0-a226-10b3d4d37b3e",
+      "acc0a14f-86f6-5acb-9c54-11884d8ac8d3",
+      "c48f5285-8b98-552c-bce5-5cc904e44187",
+      "e04af313-e5ac-5429-adc4-4f1b774acfdf",
+      "f1395193-7c4c-55e9-95e5-2b76b0cd7891",
+      "f9b9a66d-6b83-538e-9a7e-44a0d4c1b82b",
+      "fdcced5b-5c72-5ab1-9ff0-76f3745991d8"
+    ]
+  },
+  "q033": {
+    "gold": {
+      "doc_id": "0296cf6a-519d-52d4-b9b6-d559b70eaec4",
+      "title": "Aldrich, Devourer of Gods",
+      "section": "lore",
+      "snippet": "As the First Flame continued to fade and Prince Lothric refused to link it, the Lords of Cinder of the past were exhumed from their graves to once again be used as fuel. However, most Lords refused the call to action, with Aldrich denouncing his throne based on an epiphany: that an Age of Deep would soon be cast upon the world. The Cathedral had by then become a shrine to unspeakable horrors, to all repulsive rejects that sought a cure in its cleansing waters. Within the Cathedral—in McDonnell's sorceries, and their taboo miracles— Aldrich observed a stagnation that seemed inherent to the world, belike rotten remains which find their way down into a dark, deep seabed. Following these ruminat"
+    },
+    "contrast": {
+      "doc_id": "032d08da-7e92-57e4-9ec6-0870c4ad6926",
+      "title": "Ashen One",
+      "section": "lead",
+      "snippet": "Ashen One -  Dark Souls III - character - lead \n lead : The **Ashen One,** also referred to as the **Champion of Ash** or **the Unkindled One,** is the playable character and the protagonist of *Dark Souls III*.\n\nThe title of Ashen One is given to the player by the Fire Keeper of Firelink Shrine. The Ashen One is an Unkindled, an Undead who failed to link the First Flame and became ash, who has been raised from their grave, and is tasked with a journey to defeat four Lords of Cinder and return them to their thrones, since the link of the Flame is threatened and the Lords refuse to serve as its fuel once again."
+    },
+    "probes": [
+      "119ac195-88df-59f5-9040-5664976e85d6",
+      "1d60f855-0318-5bec-a1c7-a37146ebdfe7",
+      "2d2cf58d-19ce-5375-83d6-c585c3e20a79",
+      "361ebb6f-030f-5784-9fbe-d289af6f0d27",
+      "466f0e12-4bb5-5138-b833-88d9919eab63",
+      "5ea59a67-441b-54dc-989b-b307a1e3af80",
+      "667fc6fa-90d0-57bb-9968-bdf5ad9d8612",
+      "6cee28ea-0ae3-5a7f-b0e2-8c9b44130705",
+      "70ae555d-3845-571f-99e8-7f7eedbbb2fb",
+      "838192e7-9522-5149-a2b2-d19cd907b7b2",
+      "9d35389b-adff-551c-bc2e-2b7fca7e8dfa",
+      "ba4b3711-e623-5c67-82f3-b3f6145e5556",
+      "cbf435d5-c24e-59cf-b7a4-420e94226648",
+      "db75c7ea-8f1b-5420-9200-746f1eac9d60",
+      "fce4a312-42b8-5bbb-8520-7ad1fc6cd522"
+    ]
+  },
+  "q034": {
+    "gold": {
+      "doc_id": "6cee28ea-0ae3-5a7f-b0e2-8c9b44130705",
+      "title": "Ashen One",
+      "section": "soul_of_cinder",
+      "snippet": "Ashen One -  Dark Souls III - character - soul_of_cinder \n soul_of_cinder : After returning to the shrine, the Ashen One places the ashes of the Lords on their thrones, and the Firekeeper channels their strength to the Ashen One. The Firekeeper bids the Ashen One travel to the First Flame. Accepting the strength of the Lords, the Ashen One is transported to a copy of the Firelink shrine, standing amid the wreckage of kingdoms. From there, the Ashen One proceeds to the Kiln of the First Flame.\n\nThere they encounter the Soul of Cinder, a manifestation of the Lords that had previously linked the flame. The Soul of Cinder takes on many forms and fighting styles, mimicking those who had linked th"
+    },
+    "contrast": {
+      "doc_id": "02236ed7-5f36-5130-990b-f3d3a8bc622f",
+      "title": "Soul of a Deserted Corpse",
+      "section": "notes",
+      "snippet": "Soul of a Deserted Corpse -  Dark Souls III - item - notes \n notes : Replaced by Soul of a Proud Paladin in NG+ cycles."
+    },
+    "probes": [
+      "1174d054-d092-5653-ace3-275407622ebf",
+      "23a90fb0-0b86-5695-a5da-78f33a329ab1",
+      "376f4b8f-c5e5-54b6-b88a-5e2ffed9faca",
+      "5410fd93-8129-5a9c-afcc-b4375380775f",
+      "65192e74-6e8d-5628-a5d7-210ba2f31a86",
+      "6cee28ea-0ae3-5a7f-b0e2-8c9b44130705",
+      "74daf418-b9cf-5935-b9bb-a0a033c22294",
+      "87cf5732-2cdd-5afa-92ce-7c06b87c72aa",
+      "91494328-61f9-5d00-adea-23b8b0044f77",
+      "9d29a7a8-da38-5a66-ad68-252b26f7ddcf",
+      "c3f18f8b-144a-535a-a5ef-427755db9e6a",
+      "ce43adc9-5c59-550c-a3dd-09ba40729082",
+      "e0e53435-a47b-5f5f-b7df-795f5b72c6e0",
+      "e6dc67fb-afa9-545c-be1a-85ad82a6ec06",
+      "f03c656f-dd3a-5772-a8e6-43ee6eb4fa36"
+    ]
+  },
+  "q035": {
+    "gold": {
+      "doc_id": "0246a911-ca1f-53b5-b5b9-bdde1f2981d6",
+      "title": "Profaned Capital",
+      "section": "theories",
+      "snippet": "Multiples Statues in the Capital portray sages pointing a snake-shaped object in the sky. Sage is a term used multiple times for the sorcerers, and since the flame which burned the Capital is said to have come from the sky, it's possible that the Court Sorcerers were burned in a failed ritual involving the profaned flame."
+    },
+    "contrast": {
+      "doc_id": "06805e58-a3d5-560c-bf98-7cce97aeea6c",
+      "title": "Giant",
+      "section": "description",
+      "snippet": "Giant -  Dark Souls - enemy - description \n description : Gigantic humanoids that perform various tasks in Sen's Fortress. They look identical to the Giant Blacksmith and have similar attacks.\n\nAlthough they share the same name, they share only a few similarities with the Giants in *Dark Souls II*."
+    },
+    "probes": [
+      "16d8d281-81a6-5deb-958d-42dbc95ea4bc",
+      "2acb3bbe-c9d1-5ab2-bdd3-4768a3f9f95b",
+      "3c709b62-e7de-5d98-88c9-d17d1881913a",
+      "46fc7b09-cce7-534e-a0ab-df7f37656446",
+      "50528443-2903-5314-b005-274d16bfc68f",
+      "69ce5075-e0d5-5e21-919d-0907bab897c1",
+      "7a9625b7-a24d-5545-8468-349da48db6dc",
+      "915b20c1-3ada-5aeb-a676-5093426e357b",
+      "9bcf942f-cd95-5cc5-88ba-7e58744a5881",
+      "a9144be3-1b6e-514a-b916-6eba39e0a506",
+      "b2216246-11ba-5ba5-807c-939cf9b9e068",
+      "bff1785e-b7c6-59af-9aef-a9d89b4b98db",
+      "dc335b1d-5e63-5e05-b642-023f9f5108ee",
+      "e6dc67fb-afa9-545c-be1a-85ad82a6ec06",
+      "f1395193-7c4c-55e9-95e5-2b76b0cd7891",
+      "f9c04958-5cf3-567b-8d3b-d26fd2d19705"
+    ]
+  },
+  "q036": {
+    "gold": {
+      "doc_id": "12859196-24ae-5d8f-a0ef-633d2751b90a",
+      "title": "The Painter",
+      "section": "lore",
+      "snippet": "After Friede (formerly *Elfriede*) left behind her role as a leader of the Sable Church of Londor, she was eventually drawn into the Painted World of Ariandel. She came to accept the Painted World as her new home; she also discovered that she wished to \"protect\" its forlorn inhabitants. Over time Friede earned their trust, to the point that the Corvian Knights who protected the village became infatuated with her; above all, she managed to get close to Father Ariandel, a Great Corvian who had the task of guarding the Flame within the Painted World and to burn it when the painting began to rot. This was done to bring the Painting back to life, thus avoiding the fate of the stagnant outside wor"
+    },
+    "contrast": {
+      "doc_id": "02a6c1c6-2a46-59d9-a194-cd0de4ce8a20",
+      "title": "Corvian Knight",
+      "section": "locations",
+      "snippet": "Corvian Knight -  Dark Souls III - enemy - locations \n locations : Found throughout the Corvian Settlement in the Painted World of Ariandel."
+    },
+    "probes": [
+      "1522a7f6-059a-5b72-b73a-af33fb80824e",
+      "20234969-678e-5fe1-aace-a39ab2c42397",
+      "2c68f462-c7dd-52bd-9b78-dc87b6c2f231",
+      "3620f077-379d-5c07-81d2-b223f038b91c",
+      "44f1ddc8-2266-5c96-8a92-1cb702936ed2",
+      "503100a2-d1be-50ec-88aa-03330b34c378",
+      "60a4a317-0b65-5437-b653-c723be48c484",
+      "680c5efc-f3b4-5d60-bc14-55a2035150e1",
+      "8064f1a8-85c3-5a74-9c55-89948b2cff91",
+      "96c73edb-4afe-58bc-b882-7e085b267105",
+      "a0937baa-d217-5f5c-886f-38a2e7ede7da",
+      "acb5e89d-7aa6-5aa1-a1ce-da1f6f6a48ad",
+      "c33a0c8f-abcf-5de4-bf98-5d90a5693100",
+      "d3cb97a3-e469-545b-964b-78aa018ad4ed",
+      "e39619e5-31e5-5513-b549-b2cfcd3648f3",
+      "fe5b9414-034e-568f-a1d9-b69ceff57d0c"
+    ]
+  },
+  "q037": {
+    "gold": {
+      "doc_id": "07f9b09a-1643-55ca-ad18-d080d5ed5642",
+      "title": "Stats (Dark Souls II)",
+      "section": "attributes",
+      "snippet": "Stats (Dark Souls II) -  Dark Souls II - mechanic - attributes \n attributes : ; Vigor\nAn attribute that determines HP.*\n\n; Endurance\nAn attribute that determines your overall stamina.*\n\n; Vitality\nAn attribute that determines your maximum equipment load.*\n\n; Attunement\nAttribute governing number of spells that can be attuned.*\nBoosts spell-casting speed.*\n\n; Strength\nAttribute required to wield heavy, powerful weapons.*\nAlso boosts attack.*\n\n; Dexterity\nAttribute required to wield weapons requiring finesse.*\nAlso boosts attack.*\n\n; Adaptability\nRaises various attributes to ensure one's survival.*\nBoosts agility and various resistances.*\n\n; Intelligence\nAttribute required for sorceries.*\nBoos"
+    },
+    "contrast": {
+      "doc_id": "085c3fe8-5b08-590a-a956-7eb8de1c34d2",
+      "title": "Icons",
+      "section": "resistances",
+      "snippet": "Icons -  Dark Souls - mechanic - resistances \n resistances : Resistances are values that appear on armor pieces and determine bonus resistances."
+    },
+    "probes": [
+      "0fc3c493-079a-577e-aef7-e9256b760ab6",
+      "1d9db396-bd22-5416-b476-39f54e858ccb",
+      "3bf89b28-d391-54e4-a024-80c8412ee40c",
+      "5337546d-5e1f-58ca-988e-3722eab52a25",
+      "60930b03-4068-5536-acda-2bc4136d25c4",
+      "710470a7-907f-54bb-bf79-a24b75c73bdf",
+      "7e6e6f5d-9ee9-5cd5-8ade-835ef20a67e9",
+      "8ff8c361-5ace-55c2-8ac5-68debb32bee0",
+      "94ab0642-2e88-5132-9018-d09e20d3c281",
+      "9910de4a-3333-517d-868e-faf7ee247d56",
+      "ac3627a4-3301-5eb5-8299-bd4401cdbd24",
+      "bf214c95-8d4c-5d30-87b6-e76644a3d624",
+      "d3e4ca5a-931b-5566-bcd8-9c3562d85b4f",
+      "e4de76ee-2ef5-5fc4-8cd6-4441231f238c",
+      "ec9a7d5c-d731-56e0-888c-afc5c0b61b24",
+      "fd93a566-51cd-54e0-a938-84fcb9f95956"
+    ]
+  },
+  "q038": {
+    "gold": {
+      "doc_id": "032d08da-7e92-57e4-9ec6-0870c4ad6926",
+      "title": "Ashen One",
+      "section": "lead",
+      "snippet": "Ashen One -  Dark Souls III - character - lead \n lead : The **Ashen One,** also referred to as the **Champion of Ash** or **the Unkindled One,** is the playable character and the protagonist of *Dark Souls III*.\n\nThe title of Ashen One is given to the player by the Fire Keeper of Firelink Shrine. The Ashen One is an Unkindled, an Undead who failed to link the First Flame and became ash, who has been raised from their grave, and is tasked with a journey to defeat four Lords of Cinder and return them to their thrones, since the link of the Flame is threatened and the Lords refuse to serve as its fuel once again."
+    },
+    "contrast": {
+      "doc_id": "01e8e92f-9aac-5284-a6e2-1d1a4552d2b6",
+      "title": "Classes (Dark Souls III)",
+      "section": "closed_network_test",
+      "snippet": "Classes (Dark Souls III) -  Dark Souls III - mechanic - closed_network_test \n closed_network_test : The below classes and starting equipment are from the Closed Network Test version of the game only."
+    },
+    "probes": [
+      "048d4572-a46a-5ad6-96cc-a975ea8aa518",
+      "0e77baa2-7948-5608-b68e-5c3357b34d3e",
+      "1ee09828-0844-5890-9cc3-550d7203214b",
+      "344c3aae-846b-5598-bbc9-12ffe4a24758",
+      "45f85a59-c9dd-5c91-a151-76cc66672709",
+      "51a86bb9-8f0d-560e-a384-a14af4e39c92",
+      "65c38f5d-5359-5fc3-984f-fd4492ef05f3",
+      "75ca017d-4466-5b6d-b586-6b7349499d54",
+      "818ee41f-e8cd-54da-a0e3-414a9e711a26",
+      "8d8223db-2265-5f0c-8612-679adea21a99",
+      "9623f2d4-b240-5625-a8a8-945ab9860c57",
+      "b54927ec-bcf9-5c93-bfbd-3a270ebd26c7",
+      "ce43adc9-5c59-550c-a3dd-09ba40729082",
+      "d8d677e6-bcd9-5999-a65c-8f43424f15fa",
+      "e5172a58-2441-5434-901c-85aa259c40c7",
+      "fe40966f-aec6-53a2-8493-107ba0e019ea"
     ]
   },
   "q039": {
@@ -192,6 +1236,357 @@
       "edaa9b72-53d3-5cf5-b948-ea076b7a98c8",
       "f674271f-7585-51b9-a264-906c64698883",
       "ff421020-0f2f-5428-982b-5e47ae93605a"
+    ]
+  },
+  "q040": {
+    "gold": {
+      "doc_id": "0135a10e-692b-50ca-b42b-d64e88993fc9",
+      "title": "Ending",
+      "section": "to_link_the_fire",
+      "snippet": "Ending -  Dark Souls - mechanic - to_link_the_fire \n to_link_the_fire : This ending is obtained by lighting the bonfire that appears after defeating Gwyn, Lord of Cinder. In sacrifice, the Chosen Undead links the First Flame as Gwyn had done before him/her, thus fulfilling Kingseeker Frampt's goal of continuing the Age of Fire. The Curse of the Undead will be broken, but one day the flames will fade again, and all will play out as before."
+    },
+    "contrast": {
+      "doc_id": "016d52fa-af55-52d0-bf7c-71e67f2bafac",
+      "title": "Chosen Undead",
+      "section": "trivia",
+      "snippet": "Chosen Undead -  Dark Souls - character - trivia \n trivia : In the trailers and concept art for *Dark Souls*, the Chosen Undead uses the same weapons and armor as Oscar, Knight of Astora."
+    },
+    "probes": [
+      "06f1537c-4c3b-50c6-a8e4-efc0a5da513d",
+      "0d8f5df9-8326-532d-90c5-b9b0d22bedce",
+      "155bfb95-5dcf-5f89-b5b8-235cff79cd48",
+      "1d8b0532-aa36-5637-8de3-47c11f37b8e7",
+      "2c3f2a63-e138-5b1e-a6dd-2c96c9972f3e",
+      "3d2b3079-5fcb-5b75-8437-dab3bcea7b67",
+      "5a3ee34a-4246-55c6-bd7a-ffe5b8295051",
+      "67b77ccf-4c4a-5767-831d-2c67ee82451e",
+      "6e093abc-7425-59b7-a20c-67ea568ccbc6",
+      "79f24ccf-ea28-5b77-9c7c-4a796d0e5854",
+      "88e444b6-058f-5f84-b8c9-e6af3197061b",
+      "977c65ab-f4e6-52a9-a076-2f838ba89683",
+      "c2eadf96-f176-5a86-860e-2bee48f2add8",
+      "d9a92758-1045-54f9-bc27-fab7117df6d8",
+      "edc697ff-ae10-5e8c-88b6-e360c5153d1f"
+    ]
+  },
+  "q041": {
+    "gold": {
+      "doc_id": "3c0e7f30-e130-57ba-99b0-d61e2cb1db6a",
+      "title": "Furtive Pygmy",
+      "section": "dark_souls",
+      "snippet": "Furtive Pygmy -  Dark Souls - character - dark_souls \n dark_souls : The Furtive Pygmy is one of the primordial humanoids that appeared underground following the advent of the First Flame which brought \"disparity\"—heat and cold, life and death, light and dark. He was the one who found the Dark Soul among the four Lord Souls, the other three of which were discovered by Gwyn, Lord of Sunlight, Gravelord Nito, and the Witch of Izalith.\n\nThe Furtive Pygmy fragmented his Dark Soul among his descendants, creating the first Humans in the form of the Pygmies. The pygmies harnessed their peculiar Lord Soul and unlocked the life-generating capabilities of its Abyss, forging weapons and armor that adopt"
+    },
+    "contrast": {
+      "doc_id": "0054ff83-cc8c-582e-86ad-e959b0a656af",
+      "title": "Giant Man Serpent",
+      "section": "see_also",
+      "snippet": "Giant Man Serpent -  Dark Souls III - enemy - see_also \n see_also : Man Serpent\nMan Serpent Summoner"
+    },
+    "probes": [
+      "179707ee-9138-5f4d-8d83-4ad6c4f87fa7",
+      "27f78230-5975-5046-b648-c69cb2888ebd",
+      "3c0e7f30-e130-57ba-99b0-d61e2cb1db6a",
+      "545ad981-54a7-5202-a288-36de71d30647",
+      "607b0731-e8e5-59a9-ac98-76e8920c8399",
+      "66a85198-7731-525a-81f4-e534bad40f73",
+      "7a01c85d-984a-523b-86d9-15bedd80e116",
+      "82d2b7c8-f3e6-5e24-9783-9f45c1a43ecf",
+      "8f7abae3-9f23-5853-8810-a29ee2339339",
+      "a15e6f53-4357-5429-84b4-adf38b3f20ec",
+      "aa2ccdaf-e989-5175-b9d2-0f18637bd31f",
+      "bc545255-28ab-5a58-b4c5-43aa0df33981",
+      "cbf8ccb7-9941-5424-a039-d12fcb6d7318",
+      "da9d3d41-2bab-53db-aa2c-ea7587be9492",
+      "edaa9b72-53d3-5cf5-b948-ea076b7a98c8",
+      "fa947944-abd7-5751-aa1b-a57c284b313b"
+    ]
+  },
+  "q042": {
+    "gold": {
+      "doc_id": "01370a6c-9598-53b0-aca0-e8790a0cf585",
+      "title": "Raime's Gauntlets",
+      "section": "description",
+      "snippet": "Raime's Gauntlets -  Dark Souls II - armor - description \n description : Gauntlets worn by the fume knight.\n\nThe rebel Raime, after his defeat at the\nhands of Velstadt, came to Brume Tower\nin search of greater strength.\n\nWhen he found it, it came not from\na regal father figure like before,\nbut from a newfound mother,\nwho gave him a new purpose."
+    },
+    "contrast": {
+      "doc_id": "018d92a9-d74d-5596-9b7c-030ac3b4014e",
+      "title": "Velstadt's Armor",
+      "section": "availability",
+      "snippet": "Velstadt's Armor -  Dark Souls II - armor - availability \n availability : Sold by Maughlin the Armorer for 13,000 souls after defeating Velstadt, the Royal Aegis."
+    },
+    "probes": [
+      "07806d15-2312-5d41-856f-3016e3b7c81f",
+      "15db9d03-c4b2-520b-93b6-d1262a4dce04",
+      "3394e2ff-c024-533a-b6b7-7b27fbbaf455",
+      "3e008303-c20c-57c0-88b3-ea71f953a0a1",
+      "4a6a44a5-8736-5757-8e2f-347bb26b7d41",
+      "63bcd41c-ac84-594c-ac99-2d50610e8a6e",
+      "750c0b7f-35dc-57ef-9e37-797408ab7943",
+      "850c4310-7ba0-5a47-bec3-4995e0d03e35",
+      "aa94c301-cbf8-5aab-839f-4ff32bb4c9d2",
+      "b5479972-0cc6-50c7-b1f6-81f90809760a",
+      "bb220e90-080b-5db4-8cef-59f31b758375",
+      "cde986be-b2ee-5c84-bfe1-514dc38249d6",
+      "d5302823-0d11-5b1b-b9f5-39d46f17ecfc",
+      "e4466b5f-7de1-5df7-97a7-3aa0a5b882a4",
+      "f1a9f524-5d03-5ee9-8c7a-8742224c6b18",
+      "ffcf430c-4538-5790-98bd-6416f4e474f8"
+    ]
+  },
+  "q043": {
+    "gold": {
+      "doc_id": "055045d8-8b86-5031-8b78-351df2251199",
+      "title": "Demon (lore)",
+      "section": "dark_souls_ii",
+      "snippet": "Alsanna, as the heiress to her Lord's wishes and in reverence of the apocalypse, devoted herself and the power of her Dark Soul to a ritual in the hopes of appeasing the raging flame. With the ivory gates opened, the land of Eleum Loyce grew cold and lifeless, turning into a frigid expanse, in an attempt to freeze Chaos along with the entire country. The remaining Knights of Eleum Loyce remained to watch over the Garrison Ward under the King's final orders to contain the Chaos, waiting patiently for a new leader strong enough to guide them into its depths, while Alsanna remained in prayer inside the Cathedral over the depths to continue the ritual. The Old Chaos was thus contained, albeit it"
+    },
+    "contrast": {
+      "doc_id": "03cf1431-e488-5755-8d1c-202a7717bd9b",
+      "title": "Frozen Eleum Loyce",
+      "section": "lore",
+      "snippet": "In addition the Ivory King was served by seven beasts infused with wondrous souls and each of them were conferred a specific duty. Aava became the guardian of Alsanna as the King's beloved child while Lud and Zallen were tasked with the mercy killing of exiles\n\nHowever the flames of Chaos would not be sated and the Ivory King was forced to use the power of his own soul to keep it at bay. Over time he was drained of his vigour and when he sensed the degradation of his power he decided to plunge into Chaos' heart in an attempt to reduce its flames alone. He decided to leave without a word to his subjects and left everything to Alsanna who had now found her place at his side, conferring a sword"
+    },
+    "probes": [
+      "075050da-6989-563f-a5cd-9329b3d4af85",
+      "17b33993-14cf-5423-994d-ae71906e629c",
+      "28498ba4-151c-5eec-8330-573055e576c9",
+      "365a4bdb-6a7b-591c-9fe9-fd40ee3f317c",
+      "48e2fdfd-d818-5f7b-b9d0-5e1c6557981e",
+      "5bbc1ac9-4e83-5167-a33a-b18deb23975e",
+      "6b869979-fe11-5b03-ab5c-7c9d4041e687",
+      "7aaa1b08-abda-5a38-aaa2-ab552fdbecfe",
+      "89b5af06-8ed3-512a-86a3-20ae57ef6323",
+      "983f9ccf-2a6c-5b89-b09b-907f0b24c1d4",
+      "aacb8206-0f44-588b-bb92-69093742b7ae",
+      "b25fb5d2-f8c4-58b5-8db1-a0f667b9e8a9",
+      "c6cb029c-49a0-5a8f-bed9-f63109ce3363",
+      "d5c9a44d-941a-50b8-b8b9-a65691f11c68",
+      "e231b010-0c13-553e-8913-8d8f8200ae67",
+      "f68ab51c-4c45-52bc-a097-4a2aeaa36987"
+    ]
+  },
+  "q044": {
+    "gold": {
+      "doc_id": "35795752-f63d-51b1-b835-d9bea200e969",
+      "title": "Seath the Scaleless",
+      "section": "dark_souls",
+      "snippet": "At some point, the Four Lords who had found immense Lord Souls and built their civilizations underground emerged to the surface with the intention of waging war against the Dragons and conquering the world for themselves. Seath decided to betray his race to ally with Gwyn, Lord of Sunlight, and help the Lords in the war. He was instrumental in the gods' eventual victory, and the triumphant Lords would exterminate much of the Ancient Dragons, cementing their rule. Seath would also pillage the Ancient Dragons' sacred treasure, the Primordial Crystal, the centerpiece of his efforts to achieve immortality."
+    },
+    "contrast": {
+      "doc_id": "0663ddf6-a7c3-5e20-8a89-0410e2bc1942",
+      "title": "Primordial Serpents",
+      "section": "dark_souls",
+      "snippet": "Kaathe resides in the darkness of the Abyss, but seems to be more involved in the affairs of Lordran than Frampt. Kaathe gave the Four Kings the art of lifedrain and consequently founded the Darkwraith covenant. He also seems to have tricked the residents of Oolacile into uncovering the corpse of Manus, driving him mad in the process. This sparked the spread of the Abyss, transforming the townsfolk into monstrous beings whose humanity has run wild, akin to Manus.\n\nIn the ending of Dark Lord, ten additional primordial serpents are seen, whose names are unknown. They appear to want to serve the newly-appointed Dark Lord, and possibly usher in the Age of Dark. An interesting note in this ending"
+    },
+    "probes": [
+      "10b15a64-3a88-5b43-915b-a421e7adf0f1",
+      "2576ba39-b25c-537c-9460-b196d6bba9f9",
+      "2e5d4529-5015-59f6-aac6-1eaf469fce6f",
+      "36fe3603-acc9-5c57-8c25-ba7c42e9bee2",
+      "40cc3953-6953-536b-b0b1-6be5284ed04d",
+      "54da1a16-ca10-52f9-b1e0-bbab8b9bee57",
+      "673b1d07-1a31-5397-9c89-b37ba0662dd9",
+      "848283e9-ed6d-5842-9a26-e9b40953dfeb",
+      "9140c4f0-4332-5b9a-91af-65ab52d98f4b",
+      "9f5baaa0-38b2-50da-96c9-8a956bec1ab9",
+      "a86300f7-cf28-5613-beb2-4211829d8141",
+      "aff39f57-bfeb-55f4-bdac-70c6368178d2",
+      "cdf69c5a-3c7c-5e8f-8864-c5d736d6795f",
+      "deaa3e18-869a-5f09-beb0-8c9005d62309",
+      "f00ff11e-ea4f-51a4-8282-6939e524ba4b",
+      "ff1de590-55bc-5373-a657-8a2f8053ea4b"
+    ]
+  },
+  "q045": {
+    "gold": {
+      "doc_id": "542fa741-9a4a-50f0-b62e-c0c587e7f205",
+      "title": "Abyss",
+      "section": "location",
+      "snippet": "Abyss -  Dark Souls - location - location \n location : In Dark Souls the Abyss is located at the end of the New Londo Ruins. To reach to the Abyss, the floodgates must be lowered and the Covenant of Artorias ring, a reward for killing Great Grey Wolf Sif, must be worn. After climbing down a spiral staircase within a tower, the path will abruptly end, making it necessary to descend into the darkness of the Abyss.\n\nThe DLC *Artorias of the Abyss* allows us to explore a more recent Abyss, despite being located in a past era, deep within the dungeons of Oolacile."
+    },
+    "contrast": {
+      "doc_id": "07ff9baf-347a-5371-a64c-236eb309c5e5",
+      "title": "Kiln of the First Flame",
+      "section": "description",
+      "snippet": "Kiln of the First Flame -  Dark Souls - location - description \n description : This area is accessed by offering to the Lordvessel the souls of Bed of Chaos, the Four Kings, Gravelord Nito, and Seath the Scaleless in the Firelink Altar."
+    },
+    "probes": [
+      "1403c09a-29f2-5fde-9922-6b2ced52f3d2",
+      "1d74ee42-c101-54a7-87b6-798ae1ad8d1f",
+      "2f3c0369-2681-54a6-9573-c7f61fb9a013",
+      "42e3edab-1d8b-5af4-a6fe-403c35464c17",
+      "5890636a-9324-5c21-96f6-f94b4001303d",
+      "6a333c0d-0780-594f-aa02-9de0a1bb79b5",
+      "6b5dd397-fd03-50c8-a23a-9058cee4a670",
+      "735ac6e0-b150-5cc2-a8f6-c75d5c6886d4",
+      "8be7b14c-8004-5926-82a0-6dc631f92f5f",
+      "95c8335f-41d0-5eb7-89e7-6607026f146a",
+      "a15e6f53-4357-5429-84b4-adf38b3f20ec",
+      "a5a4c269-86ea-5558-b32d-8e6d505d0529",
+      "bc545255-28ab-5a58-b4c5-43aa0df33981",
+      "d422d9b4-093c-5b9f-82b8-e7126d4fb4bc",
+      "e947674a-dfdc-53bc-a588-29e51999059d",
+      "fcae118d-82d4-51e1-8789-c20608f3f3e1"
+    ]
+  },
+  "q046": {
+    "gold": {
+      "doc_id": "2a665837-49e3-5d85-8283-2fa9b98203d9",
+      "title": "Gwynevere, Princess of Sunlight",
+      "section": "plot",
+      "snippet": "Gwynevere, Princess of Sunlight -  Dark Souls III - character - plot \n plot : Upon meeting with Gwynevere for the first time, she grants the player the Lordvessel, which enables the ability to warp between most bonfires. Gwynevere can also initiate players into the Princess's Guard covenant.\n\nKilling Gwynevere, which requires a single hit with any attack, will reveal that she is an illusion created by Gwyndolin. Gwyndolin then removes the rest of his enchantment, causing the sun to permanently set in Anor Londo. In addition, any player that darkens Anor Londo will become more susceptible to Blade of the Darkmoon invasions when human. All deaths within Anor Londo will return the player to the"
+    },
+    "contrast": {
+      "doc_id": "0734792e-aff7-599c-934b-82a6257b5995",
+      "title": "Ending (Dark Souls III)",
+      "section": "availability_4",
+      "snippet": "** If the player finds but does not kill Horace, then proceeds to tell Anri where he is, Anri will seek him out but be killed by the hollowed Horace, prematurely and voiding this ending.\nAt this point, it is best to ensure that the player has talked to Yuria of Londor at least once and exhausted her dialogue, where she will inform the player of an upcoming wedding ceremony between the Ashen One and Anri.\nTalk to Anri in the Church of Yorshka bonfire in Irithyll of the Boreal Valley. Be sure to exhaust their dialogue, receiving the \"Quiet resolve\" gesture.\n** the Old Woman of Londor, disguised as a statue in a corner of the room. It is better to avoid interacting with her entirely.\nDefeat Pon"
+    },
+    "probes": [
+      "0e61cbbb-d126-5aaa-8909-a3104e41d209",
+      "180da0ac-14ee-5621-bd2c-2366889d83f8",
+      "265d6544-86c3-582f-940e-86665ba2a5b7",
+      "31af5d09-8011-5169-a7fd-68d7d197550a",
+      "35f3a1d8-867a-598f-819d-d180de47ae2b",
+      "4725fe46-f28b-50d9-a4e2-f3d767cd1ddf",
+      "53d7007e-1cbd-55c2-a293-93b6ab99bb9d",
+      "5da932e5-3124-5d3a-b15c-0257f8c7f171",
+      "6cbc9d89-f1b5-5079-8370-122861b6c88b",
+      "7b2f91f8-9eb5-529c-810f-dffb2557d3f2",
+      "9f8ca346-e99f-50d7-90f0-832600ed4c28",
+      "a996b44c-38dc-52ea-b4a9-dc9658adf7be",
+      "bd3a56a0-dd55-5d1e-ab0b-fb0785ceab33",
+      "ce671786-cdf4-5832-95cd-082e17a218c4",
+      "e5c641ce-b299-5026-8e9d-3619007042a1",
+      "f88c48f1-1f28-559e-bd28-cdecfc3c8515"
+    ]
+  },
+  "q047": {
+    "gold": {
+      "doc_id": "02489e82-d97a-51e3-afd1-7bc8659a0433",
+      "title": "The Nameless King",
+      "section": "dark_souls",
+      "snippet": "The eldest son of Gwyn eventually decided to \"sacrifice everything\" to ally himself with the dragons. In the eyes of the other deities of Anor Londo, archenemies of the dragons, his actions amounted to an unforgivable sin; he was therefore dethroned and exiled from the city. The former king was deprived of his deific status, his statues destroyed and his name erased from the annals of history. Before leaving Anor Londo, the eldest left his sunlight blade miracle and ring on Gwyn's empty tomb in his mausoleum as a final farewell, still paying respects for his father. Now excommunicated from the pantheon of the gods and without a home, the god of war continued to watch closely over his warrior"
+    },
+    "contrast": {
+      "doc_id": "01226ef0-0e49-5a38-95c9-49dee11d9cd0",
+      "title": "Eygil",
+      "section": "about_their_potential_identity",
+      "snippet": "If this were true, then the sins that the Lost Sinner constantly punishes herself for could include the aforemantiond creation of the Smelter Demon, mirroring the Witch of Izalith's own conceit leading to the creation of the demon race. Why Eygil would be imprisoned in the Lost Bastille, a place belonging to the rival kingdom of Venn, is unclear, though the Old Iron King may have conquered it just as he conquered the land where Brume Tower was erected. Alternatively, they may have just captured and imprisoned the magus when the king perished and his kingdom fell."
+    },
+    "probes": [
+      "09ea0265-8938-56dc-aa37-52ec7160dc6e",
+      "182e3d46-fdee-56d1-8f7e-dacc19ce04b1",
+      "299c8d99-c3d3-58cc-865b-5cffd7760e0b",
+      "4843fc07-a07b-576f-9a05-058ea19b84c1",
+      "58632a14-6ca3-54a5-b479-321e02915c79",
+      "62e5804b-567e-5e42-8eef-260f9d6b889b",
+      "7096fb6f-96b3-5ac5-8192-28fa00134672",
+      "783ec718-d167-5697-a616-e9dc766a7f8a",
+      "829f6f0f-7cb0-5055-9d1e-17651e189053",
+      "9b0fb806-8993-5072-8544-f50d0327af90",
+      "b6decb33-68b9-5507-8371-43d7dd328f43",
+      "cafd6cea-079f-5340-b9e8-f18ae195383e",
+      "d76a25b7-93bc-5798-86b6-472293167129",
+      "f0a40e6b-905a-5ee2-8fee-d784961df515",
+      "f8fd17e5-3af4-563e-8b3a-d8ce01b8057f",
+      "fec30fbc-5913-587c-96d9-0f5d4c65bd01"
+    ]
+  },
+  "q048": {
+    "gold": {
+      "doc_id": "552bb631-1f8f-5a6b-99e7-eebb9ef5362d",
+      "title": "Humans",
+      "section": "last_days_of_fire",
+      "snippet": "On their quest, the Ashen One encounters the Painted World of Ariandel, and a little girl whose duty it is to become the new Painter, and replace it with a fresh, unrotted version. To do this, she reveals that she needs the blood of the bearer of the Dark Soul, and that her guardian Gael has gone to find it. At the end of time, as the flames are reduced to embers and sparks, the entire world has begun to collapse in on itself, surrounding the ageless Ringed City. Gael travels to this heap of reality to find the Dark Soul, with the Ashen One following suit, eventually slaying Argo, the leader of the Spears of the Church."
+    },
+    "contrast": {
+      "doc_id": "005648e6-6dbc-5b9c-9e39-26c3c67b8565",
+      "title": "Soul of Slave Knight Gael",
+      "section": "usage",
+      "snippet": "Soul of Slave Knight Gael -  Dark Souls III - item - usage \n usage : Consume to acquire 20,000 souls or transpose with Ludleth to create either Gael's Greatsword or Repeating Crossbow."
+    },
+    "probes": [
+      "155267c9-d70e-5c59-a154-8b55e6f7420f",
+      "19c45690-aac6-5b74-9574-201d5ed7e6f5",
+      "26537093-6b12-5a8f-833e-a88da3a198aa",
+      "46471db7-aa32-57b7-92a8-e250cba19504",
+      "552bb631-1f8f-5a6b-99e7-eebb9ef5362d",
+      "66c4900c-6fff-5e5d-ba30-7a472a889a7d",
+      "74bbda4a-03db-5d9d-bc46-6cc3b0f389b6",
+      "86ecd952-0840-5eb2-8be6-91e06b3d4ec7",
+      "98824d1e-5832-5197-b07a-1c20bbe80bcb",
+      "a3ba4ee6-e391-5984-a140-36485c6bc0b3",
+      "b3fdcd3b-656f-5631-b607-ba8d7e681ad1",
+      "bc7f13c9-f636-5eda-853f-080ee40c18a2",
+      "d841ac1c-afa7-5da5-b63f-f5ce1b5af864",
+      "e029bf75-dad2-5ecd-b400-8a4376f31533",
+      "fa526814-1d27-511c-82f4-842c2765a8e0",
+      "fc280a7d-ceb9-5f79-9304-94bcdfd84022"
+    ]
+  },
+  "q049": {
+    "gold": {
+      "doc_id": "6264313b-c0bf-5a5c-a147-f6a326524eb3",
+      "title": "Hollow",
+      "section": "dark_souls_ii",
+      "snippet": "Hollow -  Dark Souls III - mechanic - dark_souls_ii \n dark_souls_ii : Hollowing in *Dark Souls II* is similar to the previous game, with a few key differences:\n\n#Being hollow does not prevent being invaded by NPCs and other players.\n#Each death suffered will reduce the player's max HP in increments of 5%. This will continue until it caps at 50% of maximum HP, unless the player has a sin level of wretch, which will cap it at 5%. With the Ring of Binding equipped, the HP cap is halved.\n#The player's appearance visually degrades with each death.\n\nReverse Hollowing can be made instantly using a Human Effigy from the inventory. Alternatively, seeking Vendrick's blessing and wearing one of the fou"
+    },
+    "contrast": {
+      "doc_id": "004ad9c0-b138-5d4c-889a-7311a5d6b30a",
+      "title": "Hollow Thief's Tights",
+      "section": "upgrades",
+      "snippet": "Hollow Thief's Tights -  Dark Souls - armor - upgrades \n upgrades : Requires 200 souls per upgrade."
+    },
+    "probes": [
+      "15dac276-2924-54de-94ef-1c34cf511f2a",
+      "2f0bdbc0-8143-5d4c-8f98-a80253602b4a",
+      "387fa414-e248-5e45-b01f-14ef5fd33554",
+      "42f85916-813c-5836-bd66-7481a42c68a0",
+      "4f4ddd31-23e5-595b-95f0-cde35ec94578",
+      "5b12b48c-f81d-58d1-b8e3-00cef2083a8c",
+      "6687032c-1aed-5f5e-9fe8-4ec345865e73",
+      "82503a08-09bc-50b6-bd79-9d2353dcb99a",
+      "8a0dea78-361a-57fd-a7e7-cb28ff618a0f",
+      "9b9ef8e9-52df-5973-809f-8ddbfca26344",
+      "a37e9e8a-c020-5840-8ce7-ba7ccbc9306c",
+      "bd4b0a5d-3086-5dc3-801a-270df627b2b9",
+      "d0b38b05-3f82-54e6-b086-0cd80d3cf86c",
+      "dd323fe0-20a9-56e2-bcc6-70baac9a6eec",
+      "e8e4806e-7a5f-50f5-acd8-9c47f272dc5e",
+      "feba0266-1a9a-5d98-8665-aaed58cf15e7"
+    ]
+  },
+  "q050": {
+    "gold": {
+      "doc_id": "296b4ca6-a12e-5131-a6e3-fda0e4204a14",
+      "title": "Ending (Dark Souls III)",
+      "section": "availability_4",
+      "snippet": "Talk with Yuria at Firelink Shrine and exhaust her dialogue.\nThe questline is now complete: After defeating the Soul of Cinder, simply interact with the First Flame to trigger this ending.\n** The infobox will say \"Link the First Flame\" even after the questline is completed; this is expected. If the player wishes to ensure that the Usurpation ending will be triggered, they may return to Firelink Shrine at any time and talk to Yuria. Unless she voices her displeasure with the Ashen One, this will confirm that The Usurpation of Fire ending will take place upon interacing with the First Flame instead of the To Link the First Flame ending."
+    },
+    "contrast": {
+      "doc_id": "0135a10e-692b-50ca-b42b-d64e88993fc9",
+      "title": "Ending",
+      "section": "to_link_the_fire",
+      "snippet": "Ending -  Dark Souls - mechanic - to_link_the_fire \n to_link_the_fire : This ending is obtained by lighting the bonfire that appears after defeating Gwyn, Lord of Cinder. In sacrifice, the Chosen Undead links the First Flame as Gwyn had done before him/her, thus fulfilling Kingseeker Frampt's goal of continuing the Age of Fire. The Curse of the Undead will be broken, but one day the flames will fade again, and all will play out as before."
+    },
+    "probes": [
+      "08d50a00-3fd9-5054-b56e-9a70b11454c7",
+      "15a9c618-7b45-5eac-9903-aa9ff86b291e",
+      "2293644a-9497-5e89-9f8e-164f65924a7d",
+      "38044ee0-d2aa-578d-ab67-ceea2c59f1d1",
+      "475a6edc-de31-5162-912a-16a8542c7f5f",
+      "5a481ce9-dc5d-56da-9b1a-114779ace6f2",
+      "67b77ccf-4c4a-5767-831d-2c67ee82451e",
+      "6e0abba7-5943-55c8-938b-3f5413a60db2",
+      "885d99b1-07c9-5c79-bad9-fc1548c5e853",
+      "977c65ab-f4e6-52a9-a076-2f838ba89683",
+      "adec5aa3-bd18-54d5-9025-7ba6cb89a47e",
+      "ba4b3711-e623-5c67-82f3-b3f6145e5556",
+      "cbad2912-330a-5872-a290-0d3c9928d08f",
+      "dabc89f5-0d1e-58b9-ae25-7dc775111d45",
+      "e821c0e8-f090-500f-aec3-350d6da16e3e",
+      "feafcf56-7a9a-5bab-9280-8dc3245f887e"
     ]
   }
 }
