@@ -511,35 +511,38 @@ def cmd_seeds(args: argparse.Namespace) -> None:
 
     print("Scrolling Qdrant collection...")
     client = QdrantClient(path=QDRANT_PATH)
-    chunks = scroll_all_chunks(client)
-    chunks_by_id = {c["document_id"]: c for c in chunks}
-    title_to_ids, titles_by_norm = title_indexes(chunks)
-    print(f"  {len(chunks)} chunks, {len(title_to_ids)} titles")
+    try:
+        chunks = scroll_all_chunks(client)
+        chunks_by_id = {c["document_id"]: c for c in chunks}
+        title_to_ids, titles_by_norm = title_indexes(chunks)
+        print(f"  {len(chunks)} chunks, {len(title_to_ids)} titles")
 
-    print("Tokenizing corpus for BM25...")
-    bm25 = BM25Okapi([_tokenize(c["page_content"]) for c in chunks])
-    print("  done")
+        print("Tokenizing corpus for BM25...")
+        bm25 = BM25Okapi([_tokenize(c["page_content"]) for c in chunks])
+        print("  done")
 
-    args.out.mkdir(parents=True, exist_ok=True)
-    for q in questions:
-        human_judgments = human.get(q["id"], {})
-        pool, counts = build_pool(
-            q, human_judgments, chunks_by_id, title_to_ids, titles_by_norm,
-            link_index, client, bm25, chunks, args.dense_k, args.bm25_k,
-            args.cap,
-        )
-        out_path = args.out / f"{q['id']}.json"
-        tmp = out_path.with_suffix(".json.tmp")
-        tmp.write_text(json.dumps(pool, ensure_ascii=False, indent=2),
-                       encoding="utf-8")
-        os.replace(tmp, out_path)
-        print(
-            f"  {q['id']}: pool={len(pool)} "
-            f"(human={counts['human']} template={counts['template']} "
-            f"gold={counts['gold']} dense={counts['dense']} "
-            f"bm25={counts['bm25']}) -> {out_path.name}"
-        )
-    print(f"\nWrote {len(questions)} pool file(s) to {args.out}")
+        args.out.mkdir(parents=True, exist_ok=True)
+        for q in questions:
+            human_judgments = human.get(q["id"], {})
+            pool, counts = build_pool(
+                q, human_judgments, chunks_by_id, title_to_ids, titles_by_norm,
+                link_index, client, bm25, chunks, args.dense_k, args.bm25_k,
+                args.cap,
+            )
+            out_path = args.out / f"{q['id']}.json"
+            tmp = out_path.with_suffix(".json.tmp")
+            tmp.write_text(json.dumps(pool, ensure_ascii=False, indent=2),
+                           encoding="utf-8")
+            os.replace(tmp, out_path)
+            print(
+                f"  {q['id']}: pool={len(pool)} "
+                f"(human={counts['human']} template={counts['template']} "
+                f"gold={counts['gold']} dense={counts['dense']} "
+                f"bm25={counts['bm25']}) -> {out_path.name}"
+            )
+        print(f"\nWrote {len(questions)} pool file(s) to {args.out}")
+    finally:
+        client.close()
 
 
 def cmd_build_anchors(args: argparse.Namespace) -> None:
@@ -552,7 +555,10 @@ def cmd_build_anchors(args: argparse.Namespace) -> None:
 
     print("Scrolling Qdrant collection...")
     client = QdrantClient(path=QDRANT_PATH)
-    chunks = scroll_all_chunks(client)
+    try:
+        chunks = scroll_all_chunks(client)
+    finally:
+        client.close()
     chunks_by_id = {c["document_id"]: c for c in chunks}
     print(f"  {len(chunks)} chunks")
 

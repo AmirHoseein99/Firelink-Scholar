@@ -1,3 +1,5 @@
+import atexit
+
 from langchain_openai import OpenAIEmbeddings
 from langchain_qdrant import QdrantVectorStore
 
@@ -15,6 +17,26 @@ qdrant = QdrantVectorStore.from_existing_collection(
     path=settings.QDRANT_PATH,
     collection_name=settings.COLLECTION_NAME,
 )
+
+
+def _close_qdrant_client() -> None:
+    """Close the module-level client before interpreter teardown.
+
+    Without this, the client's __del__ runs during interpreter shutdown
+    after module teardown has begun, and qdrant_local.close()'s lazy
+    `import portalocker` fails with
+    "ImportError: sys.meta_path is None, Python is likely shutting down".
+    """
+    client = getattr(qdrant, "client", None)
+    if client is None:
+        return
+    try:
+        client.close()
+    except Exception:  # unactionable during exit; keep shutdown quiet
+        pass
+
+
+atexit.register(_close_qdrant_client)
 
 
 def contextfromvectors(query: str, k: int = 5):

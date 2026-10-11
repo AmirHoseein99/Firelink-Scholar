@@ -130,9 +130,12 @@ def main() -> None:
 
     print("Scrolling Qdrant collection...")
     client = QdrantClient(path=QDRANT_PATH)
-    chunks_by_id = {
-        c["document_id"]: c for c in scroll_all_chunks(client)
-    }
+    try:
+        chunks_by_id = {
+            c["document_id"]: c for c in scroll_all_chunks(client)
+        }
+    finally:
+        client.close()
     print(f"  {len(chunks_by_id)} chunks")
 
     args.candidates.mkdir(parents=True, exist_ok=True)
