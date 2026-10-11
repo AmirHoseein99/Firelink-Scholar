@@ -1,9 +1,12 @@
 import atexit
+import logging
 
 from langchain_openai import OpenAIEmbeddings
 from langchain_qdrant import QdrantVectorStore
 
 from src.config import settings
+
+logger = logging.getLogger(__name__)
 
 qwen_embeddings = OpenAIEmbeddings(
     model="qwen3-embedding-0.6b",
@@ -46,4 +49,17 @@ def contextfromvectors(query: str, k: int = 5):
     chunk UUID used by the evaluation set (eval/v3/judgments.json).
     """
     vector = qwen_embeddings.embed_query(query)
-    return qdrant.similarity_search_with_score_by_vector(vector, k=k)
+    retrieved = qdrant.similarity_search_with_score_by_vector(vector, k=k)
+
+    lines = [f"query={query!r} k={k} -> {len(retrieved)} chunk(s)"]
+    for i, (doc, score) in enumerate(retrieved, start=1):
+        meta = doc.metadata or {}
+        preview = " ".join(doc.page_content.split())[:100]
+        lines.append(
+            f"  [{i}] score={score:.3f} title={meta.get('title')!r} "
+            f"section={meta.get('section')!r} id={meta.get('document_id')} "
+            f"text={preview!r}"
+        )
+    logger.info("retrieved chunks:\n%s", "\n".join(lines))
+
+    return retrieved
