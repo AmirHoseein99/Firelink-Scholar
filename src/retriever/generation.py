@@ -13,6 +13,13 @@ def generate(query: str, k: int = 5) -> str:
 
 
 if __name__ == "__main__":
+    import logging
+
+    logging.basicConfig(
+        level=logging.INFO,
+        format="%(levelname)s %(name)s: %(message)s",
+    )
+
     user_query = input("write your question about darksouls universe : \n ")
     answer = generate(user_query, k=20)
     print(50 * '#')
