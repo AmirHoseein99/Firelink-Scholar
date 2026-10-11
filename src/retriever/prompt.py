@@ -21,6 +21,8 @@ def build_prompt(query: str, k: int = 5) -> list[dict]:
     context = "\n\n".join(context_blocks)
 
     return [
-        {"role": "system", "content": f"{INSTRUCTIONS}\n\n{context}"},
-        {"role": "user", "content": query},
+        {"role": "system", "content": INSTRUCTIONS},
+        {"role": "user", "content":
+            "<context>\n" + context + "\n</context>\n\n"
+            "Question: " + query},
     ]
