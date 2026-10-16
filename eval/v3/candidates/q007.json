@@ -1,0 +1,2755 @@
+[
+  {
+    "document_id": "000ded43-8b42-56db-b956-73fa1d571d17",
+    "title": "Lost Izalith",
+    "section": "characters_2",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Lost Izalith -  Dark Souls - location - characters_2 \n characters_2 : Daughter of Chaos\nKirk, Knight of Thorns\nSolaire of Astora",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.593439428244137,
+    "bm25_score": null
+  },
+  {
+    "document_id": "012ff611-f71a-5cbb-a515-fa90886e33ac",
+    "title": "Chaos Storm",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Chaos Storm -  Dark Souls - spell - description \n description : Art of the Flame of Chaos, which engulfed the Witch of Izalith and her daughters. Erects localized chaos fire pillars.\n\nThe Witch of Izalith, in an ambitious attempt to copy the First Flame, created instead the Flame of Chaos, a twisted bed of life.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 35.048564331286705
+  },
+  {
+    "document_id": "052d4b96-efac-5a8f-9fac-fdf65e98daa3",
+    "title": "Demon (lore)",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Although the lower half of their bodies were transformed into a chaos spider, Quelaag and her sister managed to carve out a domain for themselves on the edge of the realm of Izalith, near what was called Blighttown. While the older Quelaag maintained control over their refuge thanks to her strength, the younger one, who was a Fire Keeper with an immense amount of humanity within her, began producing eggs by the dozen, until they covered their entire lair. In time, the Undead exiled to the depths of the Undead Burg and who had ended up in the rotten Blighttown chose to serve the Flame of Chaos and the two demonic daughters of Izalith of their own free will.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6636442581024082,
+    "bm25_score": null
+  },
+  {
+    "document_id": "08d50a00-3fd9-5054-b56e-9a70b11454c7",
+    "title": "Witch of Izalith",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Witch of Izalith -  Dark Souls - character - trivia \n trivia : The name of the Witch is literally **Izalith**, as stated by Quelana in the Japanese version, where she calls the Witch \"my mother Izalith\".\nDuring her dialogue, Quelana mentions that most humans are unable to perceive her, and implies that they absolutely cannot, so long as she actively does not want them to.\nDespite herself being consumed by the Chaos Flame, Izalith was partially successful in replicating the First Flame. Not only does Chaos generate life, it also has its own fire-linking quality, wherein a demon Champion is destined to rekindle it, becoming the Demon Prince. This system parallels the prophecy of the Chosen Undead and their becoming a Lord of Cinder.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.7621339142874484,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0c9f3967-4171-53e7-89a2-ab8f355ba3d5",
+    "title": "Witch of Izalith",
+    "section": "known_children",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Witch of Izalith -  Dark Souls - character - known_children \n known_children : Daughter of Chaos\nQuelana of Izalith\nChaos Witch Quelaag\nQuelaag's Sister\nCeaseless Discharge\nThe left root of the Bed of Chaos.\nThe right root of the Bed of Chaos.\nThe body holding the Gold-Hemmed Black Set where Ceaseless Discharge resides.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.7779092261245071,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0ed89f81-b316-5b3c-9f38-41448b0c6300",
+    "title": "Black Witch Set",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Black Witch Set -  Dark Souls II - armor - description \n description : Worn by Zullie the Witch, seducer of Alva the Wayfarer. Boasts excellent magic defense.\n\nWhen Zullie the Witch learned of Alva's dedication to Saint Serreta, she used all manner of tricks and deceit to ruin him, but in the end she would spend her life with him, supporting his endeavors.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5824883476064868,
+    "bm25_score": null
+  },
+  {
+    "document_id": "11393393-c2b3-5daa-98f5-63b1d71eca1b",
+    "title": "Firestorm (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Firestorm (Dark Souls III) -  Dark Souls III - spell - description \n description : Primal pyromancy taught by Quelana, a daughter of the Witch of Izalith.\n\nSurrounds the caster with multiple pillars of flame.\n\nThe raging storm is indiscriminate; such is the intrinsic horror of the flame.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.482864859692896
+  },
+  {
+    "document_id": "1174d054-d092-5653-ace3-275407622ebf",
+    "title": "Quelana of Izalith",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Following the destruction of the Bed of Chaos, Quelana appears to have returned to Izalith, or what remains of it, at some point. Within the Demon Ruins, now neighbouring the Catacombs of Carthus, Quelana's pyromancy tome is found on a corpse clutching onto what seems like the petrified corpse of her sister. If these two fossils are indeed those of Quelana and the Fair Lady, it would show that Quelana ultimately ended her self-imposed exile to be reunited with her last extant sister, in the final hours of her life.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6275492503223266,
+    "bm25_score": null
+  },
+  {
+    "document_id": "13e252ce-7b66-5d05-adb3-0d6a0835404c",
+    "title": "Izalith Catalyst",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Izalith Catalyst -  Dark Souls - weapon - description \n description : Catalyst of the Witch of Izalith of long ago, when her daughters were still flame witches, before they were engulfed by the Chaos Flame. Before the birth of pyromancy, their wands were mediums for sorcery, but knowledge of this flame sorcery has long since vanished.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.614171569183554,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1c11496c-08ad-550b-b803-6018ebafeab7",
+    "title": "Black Witch Set (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Black Witch Set (Dark Souls III) -  Dark Souls III - armor - description \n description : The purple garb of the witch Zullie, who intended to seduce Alva the Wayfarer, but eventually became his closest supporter, spending her entire life with him.\n\nIt is said that Zullie the witch, who was never loved, nor loved another, experienced all manner of misfortune, and yet in the end, found her purpose in life.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5973631369958234,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1d96f381-e746-50b4-9160-d82600f59b0d",
+    "title": "Chaos Witch Quelaag",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Chaos Witch Quelaag -  Dark Souls - boss - lead \n lead : **Chaos Witch Quelaag** (混沌の魔女クラーグ) is a boss in *Dark Souls*.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6049386577336502,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1f1e1e4a-78ed-5c38-b4f9-38887b6c97f1",
+    "title": "Ceaseless Discharge",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "After Izalith lost control over the Flame of Chaos that devoured her city and some of her daughters managed to escape it, Ceaseless Discharge managed to survive the war that the Silver Knights of Gwyn, Lord of Sunlight waged against its kind and he remained to protect the ruins of its home, gazing up at where his remaining sisters live, as the only source of comfort in his pitiful, painful existence is the belief that they are watching over him.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5864182792657011,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1f6870e5-f8da-5f09-95fc-eb373615162c",
+    "title": "Gold-Hemmed Black Skirt",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Gold-Hemmed Black Skirt -  Dark Souls - armor - description \n description : Worn by the witch Quelana of Izalith, mother of pyromancy and Daughter of Chaos.\n\nShe wore this gold-hemmed black skirt before even the Age of Fire, and it offers strong resistance versus fire, poison, and other perils.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6084036423125017,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1fc0166f-40d4-5055-956b-968b7ac82e1d",
+    "title": "Quelaag's Furysword",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Quelaag's Furysword -  Dark Souls - weapon - description \n description : A curved sword born from the soul of Quelaag, daughter of the Witch of Izalith, who was transformed into a chaos demon. Like Quelaag's body, the sword features shells, spikes, and a coating of chaos fire. Power affected by wielder's humanity.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.167509135823217
+  },
+  {
+    "document_id": "20d67c85-bbd8-56d1-a47d-d55d2799b91e",
+    "title": "Chaos Witch Quelaag",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Chaos Witch Quelaag -  Dark Souls - boss - attacks \n attacks : {'name': 'Lava Spew', 'description': 'Quelaag will emit fire jets from her spider body.'}",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6400248392891832,
+    "bm25_score": null
+  },
+  {
+    "document_id": "226b09fd-4471-5a3f-a419-35e1d5673154",
+    "title": "Chaos Fire Whip",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Chaos Fire Whip -  Dark Souls - spell - description \n description : Art of the Flame of Chaos, which engulfed the Witch of Izalith and her daughters. Sweep foes with chaos fire whip.\n\nThis spell was wielded by the eldest of The Daughters of Chaos.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 35.552938623947654
+  },
+  {
+    "document_id": "2693745a-c255-5c7a-95bd-82413159ea75",
+    "title": "Pyromancy (Dark Souls)",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Pyromancy (Dark Souls) -  Dark Souls - spell - lore \n lore : Before the creation of Pyromancy, flame sorceries were used by the Witch of Izalith, her Daughters of Chaos, and they later taught it to the Demon Firesages. The Witch and her daughters used flame sorcery to challenge the ancient dragons, casting it from catalysts just as soul sorceries were. In the wake of her attempt to recreate the First Flame, the Witch of Izalith and some of her daughters were engulfed in the newly formed Bed of Chaos. The witches mastered the power of the Flame of Chaos and gave birth to the Pyromancy and all knowledge of flame sorcery has since vanished.\n\nQuelana of Izalith, a Daughter of Chaos, managed to flee the catastrophe created by her mother. Quelana, who is credited as one of the \"mothers of pyromancy\", after escaping from Izalith, teaches her art to a select few students and now resides in Blighttown.",
+    "sources": [
+      "human",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 41.380153492667645
+  },
+  {
+    "document_id": "271aab93-c6d4-5039-9cab-060e76c92522",
+    "title": "Black Witch Domino Mask",
+    "section": "general_information",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Black Witch Domino Mask -  Dark Souls II - armor - general_information \n general_information : This head gear increases the potency of spells by 2.5-3% while also decreasing the player's max Health by 15%. The Black Witch Domino Mask is an exceedingly rare drop owing to the fact that it drops from a single non-spawnable enemy in Belfry Sol.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2ba0f0af-2071-5275-a28e-989042ac23ed",
+    "title": "Quelaag's Sister",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Quelaag's Sister -  Dark Souls - character - lore \n lore : Quelaag's Sister was a Daughter of Chaos before the disaster that befell Izalith. While most of her sisters were transformed into \"full\" demons, she and Quelaag were able to escape with their sanity intact, although they were fused at the waist to demon spiders in the process. Quelaag and her sister took an entourage of servants with them, who suffered from a parasitic disease. Out of pity, Quelaag's sister did her best to help against Quelaag's orders, weakening and blinding herself in the process.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5963786361020228,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3463f21e-61b5-5b8b-9337-0c43ade52154",
+    "title": "Smouldering Lake",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "This was once the home to the daughters of the Witch of Izalith and the demons born from the Flame of Chaos. Unlike the First Flame, which is tied to the souls of the undead, the faded Flame of Chaos was tied to the souls of the demons, and so the lifeless bodies of Capra, Taurus, Asylum and a single Centipede Demon can be found strewn throughout the ruins and piled high near the Old Demon King, one of the last remaining demons of old. A petrified arachnoid body, resembling Quelaag's Sister, lies within the ruins, where a humanoid corpse holds the Quelana Pyromancy Tome, indicated that the sisters lived here at one point.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6276029797793805,
+    "bm25_score": null
+  },
+  {
+    "document_id": "36f34201-f250-59bc-94dc-706508460e93",
+    "title": "Witch of Izalith",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Witch of Izalith -  Dark Souls - character - dark_souls_iii \n dark_souls_iii : In the times and region of Lothric, both the bed and the flame have gone out, and the demons are now a dying species, as no new members of their race are being generated. Some remain in a secret city of demons, found amidst Izalith's decrepit structures, most of its citizens being demons and corrupted Izalith citizens. The Old Demon King sits alone amidst fallen combatants, with his flames dying out, the last of the original citizens of Izalith to have remembered the birth of Chaos, and the Witch of Izalith.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5954194475308575,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3b8718c7-b19a-5b67-8058-b31e6729aea8",
+    "title": "Zullie the Witch",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Zullie the Witch -  Dark Souls III - character - theories \n theories : It's possible that Zullie shares a connection with Karla, the witch imprisoned in Irithyll Dungeon, perhaps even being her mother.\n\nFor one, the jailed witch is described as a \"spurned child of the abyss\", and Alva, Zullie's companion, gains the title of \"Seeker of the Spurned\" in *Dark Souls III* specifically. He also invades at the entrance of the forsaken dungeon, and his corpse is found right outside her cell should his phantom be killed by the player. Most curiously, one of the two sorceries that Karla can teach from the beginning is Dark Edge, which is said to be passed from mother to daughter. The apparition of Zullie summoned by the Judicator Giants also seems to use a stronger variant of that same spell, one that can't be obtained in-game, possibly lending more credence to the existence of a familial connection between the two witches.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5952821162449936,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3ebb9d58-7c43-569d-b841-42ed1d0d32e3",
+    "title": "Gold-Hemmed Black Set",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Gold-Hemmed Black Set -  Dark Souls - armor - plot \n plot : The Gold-Hemmed Black Set is the uniform of the Daughters of Chaos. Quelana of Izalith wears it, and it is also worn by the hostile Daughter of Chaos found near the end of Lost Izalith. The set the player can obtain also belonged to one of the Daughters of Chaos, whose corpse is guarded by Ceaseless Discharge.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.71440615858137
+  },
+  {
+    "document_id": "3f3554a5-89c7-5963-9c3e-386d37d82e19",
+    "title": "Great Chaos Fireball",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Great Chaos Fireball -  Dark Souls - spell - description \n description : Art of the Flame of Chaos, which engulfed the Witch of Izalith and her daughters. Hurl giant chaos fireball.\n\nThe Flames of Chaos can melt stone, producing a short-lived lava glob.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.4295884311678
+  },
+  {
+    "document_id": "42711b4a-8c6b-5599-839b-d7383c37228b",
+    "title": "Quelana of Izalith",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Quelana of Izalith -  Dark Souls - character - location \n location : Quelana sits on an island in Blighttown directly in front of the entrance to Chaos Witch Quelaag's lair. The most guaranteed way to encounter her is to level up a Pyromancy Flame to +10. Being invaded by or summoning someone with a +10 or above flame reportedly spawns her as well.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6157444724014638,
+    "bm25_score": null
+  },
+  {
+    "document_id": "48e2fdfd-d818-5f7b-b9d0-5e1c6557981e",
+    "title": "Bed of Chaos",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Bed of Chaos -  Dark Souls - boss - lead \n lead : The **Bed of Chaos** (混沌の苗床) is a boss in *Dark Souls*. A hideous lifeform which the Witch of Izalith has turned into, it is found in what remains of her land, Lost Izalith. It is a \"puzzle boss\" with unconventional mechanics.\n\nAlthough the traditional way of reaching the Bed involves slaying both the Demon Firesage and the Centipede Demon, a shortcut can be opened by offering Quelaag's Sister 30 Humanity through the Chaos Servant covenant.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.388136138911538
+  },
+  {
+    "document_id": "49e2a495-7b0e-569b-b19f-d0d75b98b8c6",
+    "title": "Quelana Pyromancy Tome",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Quelana Pyromancy Tome -  Dark Souls III - item - trivia \n trivia : As the name implies, this tome belonged to Quelana of Izalith. Additionally, the pyromancies it unlocks were all unique to Quelana.\nThe giant spider-humanoid corpse most likely belongs to Quelaag's Sister, and the smaller humanoid corpse embracing it may be Quelana's.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5981936100679404,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4d6d5f47-47d2-5351-bd19-43448916aa09",
+    "title": "Demon (lore)",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "When a Chosen Undead was able to ring the Bells of Awakening, overcome the challenges of Sen's Fortress and reach Anor Londo thus being rewarded with the Lordvessel, they would be guided by Kingseeker Frampt to find immense souls to fill the receptacle and link the fading First Flame to succeed Gwyn in his sacrifice. The Undead would thus have delved into the dangerous and pestilent Blighttown until they reached the edges of the ancient domain of Izalith. Here their path would be blocked by the half-demon daughter of Izalith Chaos Witch Quelaag but, after killing her, the Undead was able to gain access to the Demon Ruins. Making their way through the demons that infested the area, they reached the lost city of Izalith and the throne room where Izalith resided, having turned into the distorted Bed of Chaos, still fused with her two daughters and her original body reduced to that of a Chaos Bug under all her roots. The Chosen Undead thus challenged and killed her to obtain her powerful",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.928095298279523
+  },
+  {
+    "document_id": "5d81c651-eff8-57aa-afc7-5fe1ebf3ff02",
+    "title": "Quelaag's Sister",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Quelaag's Sister -  Dark Souls - character - trivia \n trivia : Feeding Quelaag's Sister enough humanity (80+) will cause her limbs to move around less feebly.\nDue to the Chosen Undead never saying a word, and her blindness, Quelaag's Sister believes that the player is, in fact, Quelaag.\nInstead of a ghastly swarm beneath her form, the eggs that surround Quelaag's Domain act as the cradles for each tiny humanity that is only just keeping her alive as keeper of the bonfire.\n**In addition, many of these eggs seem to have been torn open, possibly suggesting that Quelaag's Sister might have had children prior to poisoning herself with blight.\nIn *Dark Souls III*, what appears to be Quelaag's Sister's desiccated corpse can be found near the Smouldering Lake, next to Quelana's.",
+    "sources": [
+      "human",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.31137161107189
+  },
+  {
+    "document_id": "60578bfa-0843-503c-b17b-2289f988187f",
+    "title": "Chaos Witch Quelaag",
+    "section": "removed_content",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Chaos Witch Quelaag -  Dark Souls - boss - removed_content \n removed_content : Quelaag had [https://www.youtube.com/watch?v=1VUzHRBc2bQ dialogue] removed from the final game:\n\nThis indicates that Quelaag had a matriarchal status within the Chaos Servant covenant, along with or instead of her sister.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6166111674597191,
+    "bm25_score": null
+  },
+  {
+    "document_id": "64155fc8-8d6e-5b90-9473-e576258ad012",
+    "title": "Old Witch's Ring",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Old Witch's Ring -  Dark Souls - ring - general_information \n general_information : The Old Witch's Ring allows communication with Quelaag's Sister, as well as unlocking some new dialogue with Eingyi. It has no direct effect on gameplay.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5889231631196297,
+    "bm25_score": null
+  },
+  {
+    "document_id": "650a18c3-7ecb-5459-855a-8eb52154d4ee",
+    "title": "Quelana Pyromancy Tome",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Quelana Pyromancy Tome -  Dark Souls III - item - description \n description : A pyromancy tome of Quelana containing her unique spells. These pyromancies can only be taught by a female master.\n\nGive to a female pyromancy master to learn Quelana's pyromancies.\n\nQuelana, the sole surviving witch of Izalith, once accepted a human pupil, but after the pupil moved on, she never took another.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6252584431319471,
+    "bm25_score": null
+  },
+  {
+    "document_id": "65c15e7f-3a69-5de6-ad36-cf88000c239b",
+    "title": "Chaos (mechanic)",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Chaos (mechanic) -  Dark Souls - mechanic - lore \n lore : In the Age of Ancients, the Witch of Izalith and her Daughters of Chaos wove great and powerful firestorms. At the time, the Witch and her followers were powerful flame sorcerers who lived in the city of Izalith. Blacksmiths of the ancient city crafted powerful weapons using Chaos arts. Thus, during the earliest known ages of the world, Chaos developed its reputation as a powerful force.\n\nEventually, the Witch of Izalith attempted to duplicate the First Flame. What she instead produced was a twisted being of chaotic fire: the Bed of Chaos, source of all demons. Several of the Witch's daughters were transformed into chaos demons, and her son became the monstrous Ceaseless Discharge.",
+    "sources": [
+      "human",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 38.21653823387213
+  },
+  {
+    "document_id": "6a31d2c7-790c-5531-baaf-259a095701ef",
+    "title": "Alva Set",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alva Set -  Dark Souls II - armor - trivia \n trivia : The set descriptions seem to refer to Zullie the Witch, known for having seduced Alva through trickery and deceit, though later developing a bond with the Wayfarer.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5788468858864124,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6ba2a2f5-67ae-5685-a59f-8cc6455bcc08",
+    "title": "Quelana of Izalith",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Quelana of Izalith -  Dark Souls - character - lead \n lead : **Quelana of Izalith** (クラーナ) is a character and merchant in *Dark Souls*.\n\nFound in the swamp at the bottom of Blighttown if special conditions are met, she is one of the Witch of Izalith's \"Daughters of Chaos\", and acts as a seller and trainer of pyromancies.\n\nShe is voiced by Jenny Funnel, who also voiced the Darkmoon Knightess in the same game, Yuria and Selen Vinland in *Demon's Souls*, Annalise and Iosefa in *Bloodborne*, and Karla and the Old Woman of Londor in *Dark Souls III*.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6501365006901667,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6c237de0-f3ba-54d9-9638-691bc533f1ad",
+    "title": "Lords",
+    "section": "the_witch_of_izalith",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Lords -  Dark Souls II - character - the_witch_of_izalith \n the_witch_of_izalith : The Witch used the power of her Lord Soul to weave great storms of fire against the Everlasting Dragons. She passed fragments of this soul to her children, the Daughters of Chaos, and her only son. Like her children, she had ashen skin and blue lips, though she stood much taller than them and seems to be of identical height to the staves her children used for flame sorcery.\n\nAs the fires faded, she tried to create a new flame to replicate the First Flame, but it backfired and ended up costing her life, and gave birth to the race of demons. Her children were also corrupted, except for Quelana, who taught a flame manipulating art to a human and became the mother of pyromancy. Many years later, the demons began to die out, as the flame of chaos began to fade much like the First Flame did.",
+    "sources": [
+      "human",
+      "template",
+      "dense"
+    ],
+    "dense_score": 0.7398232570982054,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6cb9b1d6-a9f1-5e92-a24f-e57ddd0aa1b1",
+    "title": "Quelana of Izalith",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Quelana of Izalith -  Dark Souls - character - dark_souls_iii \n dark_souls_iii : As of the time of Lothric, the primal pyromancies of Quelana and her mother were near-consigned to legend among contemporary pyromancers. Izalith's pyromancies were said to only be known to old Master Salaman, mentioned by Quelana as being her pupil, now lost to time. Even as her pyromancies themselves were all but history, her cautionary tales on the dangers of the flame were passed down through generations of pyromancers.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6633499544719687,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6cc80327-75b2-5eed-9a96-2fa3fa5aac9b",
+    "title": "Black Witch Domino Mask",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Black Witch Domino Mask -  Dark Souls II - armor - description \n description : Domino mask worn by Zullie the Witch, seducer of Alva the Wayfarer. Strengthens magic attacks but reduces max HP.\n\nWhen Zullie the Witch learned of Alva's dedication to Saint Serreta, she used all manner of tricks and deceit to ruin him, but in the end she would spend her life with him, supporting his endeavors.\n\nEffects: Raises magic ATK, Lowers max HP.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6e10d76d-46fe-51f4-a221-421b539181ec",
+    "title": "Demon (lore)",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "beastly; rather, they learned to coexist with the already-present society of Izalith, becoming \"demon priests\" of the Flame of Chaos and even going so far as to learn the primordial flame sorceries from their Lord and her daughters. The city of Izalith expanded to accommodate its new citizens, building structures for the demons on its borders.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5852865192359722,
+    "bm25_score": null
+  },
+  {
+    "document_id": "74daf418-b9cf-5935-b9bb-a0a033c22294",
+    "title": "Old Witch Soul",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Old Witch Soul -  Dark Souls II - item - trivia \n trivia : This soul is likely a reference to the Witch of Izalith mentioned in *Dark Souls*.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6281494117143236,
+    "bm25_score": null
+  },
+  {
+    "document_id": "771f16fa-2b07-5164-b680-ce8550b52fe4",
+    "title": "Gwyn, Lord of Cinder",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "At one point, the Witch of Izalith used her Lord Soul in an attempt to replicate the generative properties of the First Flame, resulting in her producing a Flame of Chaos and transforming herself into a Bed of Chaos that began producing Demons. Izalith and her daughters would eventually bring the Flame of Chaos under their control, and learn how to use it, moving from being fire sorcerers to developing pyromancy and creating a new society together with the demons generated by the Bed of Chaos. These developments pushed Gwyn to wage war against the chaos demons, developing weapons and fighting techniques strong enough to face their sizable new enemies and sending his Silver Knights to Izalith, in a war where their armor and weapons were charred black. Gwyn's knights fell short of total victory, unable to exterminate the demons or destroy the Bed of Chaos, and ended up retreating and only managing to banish the demons underground while enslaving some lesser demons who would become",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.636493633985497,
+    "bm25_score": null
+  },
+  {
+    "document_id": "799c4d9c-c430-5d8b-8d34-a02229c70dd0",
+    "title": "Chaos Blade",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Chaos Blade -  Dark Souls - weapon - description \n description : A curved sword born from the soul of Quelaag, daughter of the Witch of Izalith, who was transformed into a chaos demon. This blade inherits only the chaotic nature of Quelaag, and has a unique speckled design. Blade wielder erodes along with opponents.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.12827509799725
+  },
+  {
+    "document_id": "7d8ab888-64a3-56db-baad-12db150e37f4",
+    "title": "Ceaseless Discharge",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Around the same time, Izalith was experimenting with her Lord Soul and the power of fire and souls and at a certain point, driven by ambition and arrogance, she tried to create a \"First Flame\" of her own, using her own Lord Soul as a basis to make a power similar to the primordial force that had brought life into the world. The experiment, however, was not entirely successful because the result was a Flame of Chaos, an unstable power that the witch was unable to control. Izalith herself was initially consumed by it and became a beast of chaos fire along with two of her daughters in the process transforming themselves into a \"Bed of Chaos\". This creature, fueled by the power of the Flame of Chaos, became a seebed for a new life form: Demons.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5967931246396443,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7e502ba3-f558-520c-ad38-0431ef76970e",
+    "title": "Old Ones",
+    "section": "the_lost_sinner_witch_of_izalith",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Old Ones -  Dark Souls II - boss - the_lost_sinner_witch_of_izalith \n the_lost_sinner_witch_of_izalith : The Lost Sinner, wielder of the Old Witch Soul, is burdened by her past misdeeds. In the same manner, the Witch of Izalith attempted to recreate the First Flame using her Lord Soul, but instead created the Flame of Chaos. Other correlations that can be pointed are the creature similar to a Chaos Bug seen crawling into the eyehole of the Lost Sinner’s mask, her Handcuffs having the power to augment pyromancy and the phantoms of Pyromancers that aid her in battle in NG+.\n\nShalquoir comments \"Trying to light the First Flame\", and again it's hard to say if she's referring to the Sinner or the Witch possessing her.\n\nSecond Playthroughs and onward will cause the Lost Sinner to drop the Old Witch Soul.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5795695259687693,
+    "bm25_score": null
+  },
+  {
+    "document_id": "81ee5e85-dbaf-5696-bb20-7cc2c503b2f0",
+    "title": "Chaos Fire Whip",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Chaos Fire Whip -  Dark Souls - spell - trivia \n trivia : Since the hostile Daughter of Chaos encountered in Lost Izalith uses this pyromancy, it can be assumed that she is the eldest of the Daughters of Chaos mentioned in the item description.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6268713468909053,
+    "bm25_score": null
+  },
+  {
+    "document_id": "85b331ce-db4a-5c84-ad68-6ae97f0d9fba",
+    "title": "Witch of Izalith",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Witch of Izalith -  Dark Souls - character - dark_souls",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6827558635815111,
+    "bm25_score": null
+  },
+  {
+    "document_id": "89821a57-47e1-59ce-a8aa-1da99d60aff2",
+    "title": "Quelana of Izalith",
+    "section": "dark_souls_i",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Quelana of Izalith -  Dark Souls - character - dark_souls_i \n dark_souls_i : Quelana was originally a \"flame witch\" who used fire sorcery. When Izalith was consumed and the demons infested the city, she fled and became the creator of pyromancy. It is unknown whether the knowledge of fire sorcery was forgotten by her or whether she created pyromancy as a safer version of it. Quelana passed on her knowledge to Salaman, who in turn passed on his knowledge of pyromancy to the people of the Great Swamp.\n\nAccording to a developer interview, Quelana and the other Daughters of Chaos are a different species than humans, despite being similar in appearance. Her in-game model may not reflect her \"canon\" appearance, with pale, ash-colored skin, as seen in the opening cutscene and achievement art.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6588509877066142,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8992c83d-fbe1-51af-915c-f94a087048e8",
+    "title": "Witch of Izalith",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Witch of Izalith -  Dark Souls - character - description \n description : Izalith appears as a towering humanoid, visibly taller than both her children and their catalysts. She has blue lips, ashen skin and hands burnt from extracting her soul from the First Flame. She wears a much more refined version of the gold-hemmed black robes her children wear.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.7081615279269965,
+    "bm25_score": null
+  },
+  {
+    "document_id": "96afac64-516b-5314-8a46-07ff1016c834",
+    "title": "Witch of Izalith",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Witch of Izalith -  Dark Souls - character - lead \n lead : The **Witch of Izalith** or simply **Izalith** (イザリス) is a mentioned character in *Dark Souls*. She is also mentioned in *Dark Souls II*, although by that time her name is lost to history and only her nickname of \"mother of pyromancy\" remains.\n\nA legendary fire sorcerer who found one of the four Lord Souls, she helped bring an end to the Age of Ancients and the rule of the dragons to establish the Age of Fire, and established an underground civilization named after her. She had many daughters, nicknamed the \"Daughters of Chaos\", which included Quelaag, Quelana and \"The Fair Lady\", as well as a son. By the time of the game's events, her magical experiments backfired, fusing her soul and two of her daughters' into a new horrible being, the Bed of Chaos. Although the Bed was eventually slain by the Chosen Undead and its soul fed to the Lordvessel, fragments of the Witch's soul survived.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.7537444664293919,
+    "bm25_score": null
+  },
+  {
+    "document_id": "98f82eb2-2d58-5149-91a0-a0d1a6b84f92",
+    "title": "Gold-Hemmed Black Cloak",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Gold-Hemmed Black Cloak -  Dark Souls - armor - description \n description : Worn by the witch Quelana of Izalith, mother of pyromancy and Daughter of Chaos.\n\nShe wore this gold-hemmed black cloak before even the Age of Fire, and it offers strong resistance versus fire, poison, and other perils.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6398490143878319,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a0d78687-841b-5f92-abbd-3288d802aee2",
+    "title": "Chaos Witch Quelaag",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Chaos Witch Quelaag -  Dark Souls - boss - description \n description : Quelaag is a daughter of the Witch of Izalith and, along with most of her family, failed to escape from the chaotic flame and was corrupted by it. Due to exposure to the flame, Quelaag and her sister mutated into spider-like creatures with their upper body being fused to the monsters' backs.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.7277366422171934,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a10e310a-5bc9-5102-a44b-986a88d2d3a8",
+    "title": "Quelaag's Sister",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "In *Dark Souls III*, what appears to be Quelaag's Sister's desiccated corpse can be found near the Smouldering Lake, next to Quelana's.\nAlso in *Dark Souls III*, the White Hair Talisman appears to have been crafted from threading a lock of her hair through the Old Witch's Ring, as she was the only chaos witch known to be both deformed and white-haired.",
+    "sources": [
+      "human",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.06221706038956
+  },
+  {
+    "document_id": "a11b115d-79f9-510d-ab59-80d5b4058123",
+    "title": "Demon Firesage",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "lore : The Firesage Demons were the first generation of demons spawned from the Bed of Chaos, the entity that appeared following the attempt of the Witch of Izalith to make a power similar to the First Flame using her Lord Soul. The attempt was successful and she create the Flame of Chaos but Izalith and her powerful soul became a seedbed for a new lifeform: the mother and source of all demons. While the very first demon, Ceaseless Discharge, was a monstrous and unstable mutation of a son of Izalith while her newly created Flame of Chaos was still unstable, the Firesage Demon is one of the demons that were generated after Izalith and her daughters managed to stabilize their new flame, thus gaining a more defined body and control over the power of chaos inside its body. These new creatures learned to coexist with the already present society of Izalith, becoming \"demon priests\" of the Flame of Chaos and Izalith and even going as far as to learn the primordial flame sorceries developed",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.139521057449876
+  },
+  {
+    "document_id": "a30434e6-9c93-5f88-995f-6d595c6440e5",
+    "title": "Witch's Locks",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Witch's Locks -  Dark Souls III - weapon - notes \n notes : The weapon's description may be a reference to Chaos Witch Quelaag, as she is the only Daughter of Chaos whose hair is seen by the player, and it is black in color.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5786247305552832,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a7da0351-7833-5694-9d32-d11c0887b864",
+    "title": "Black Witch Domino Mask",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Black Witch Domino Mask -  Dark Souls II - armor - lead \n lead : The **Black Witch Domino Mask** is a head armor piece in *Dark Souls II*.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "aae4f31c-339e-57dc-8d1a-051ee27b59a0",
+    "title": "Lore",
+    "section": "the_age_of_fire",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "The Age of Fire began prosperous and rich, but soon the fires started to go out again and with them the power of the Lords. In an effort to prolong Age of Fire, the Witch of Izalith tried to recreate the First Flame, but the experiment failed and a flame called \"The Flame of Chaos\" is created instead, which transformed her into the Bed of Chaos and many creatures into the demons that roam Lordran. Her children are transformed as well, with her son becoming a flame demon called Ceaseless Discharge and her daughter Quelaag and her sister partially into spiders. Her followers stay loyal to her, however, and become known as the \"Witches of Chaos\". Only her daughter, Quelana, escaped the fire and becomes the mother of pyromancy. This being said, Mother Izalith did eventually *succeed* in stabilizing the Chaos Flame with 2 of her sisters.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.7551109127214959,
+    "bm25_score": null
+  },
+  {
+    "document_id": "acb59141-dd10-59da-836c-290a7b82d8dd",
+    "title": "Lost Izalith",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Lost Izalith -  Dark Souls - location - lore \n lore : Izalith was once the domain of the Witch of Izalith, and was seemingly a great and booming city. However, when The Witch attempted to recreate the First Flame from her own Lord Soul, she failed to control it and was transformed into the Bed of Chaos. Izalith was subsequently overrun by the demons born from the Bed of Chaos. The demons fought against Gwyn, Lord of Sunlight and his knights, were defeated, and after hearing Quelaag's cut dialogue, were apparently punished by being contained to their fallen city.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5867477220786468,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ad13e8c1-4ac0-5da6-b617-89c4ca2e98f6",
+    "title": "Quelana of Izalith",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Quelana of Izalith -  Dark Souls - character - notes \n notes : She is the only Trainer that can upgrade the Pyromancy Flame past the limit of +15 and on to the much stronger flame version up to the max of +5.\nShe may not appear if the player has broken either root on the Bed of Chaos prior to meeting her.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5864819836676297,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b839afa2-edd7-5458-8022-938ab6be75cb",
+    "title": "White Hair Talisman",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "White Hair Talisman -  Dark Souls III - weapon - trivia \n trivia : This item is reference to Quelaag's Sister from *Dark Souls*, the only member of the Daughters of Chaos who had white hair.\nOn the in-game model of the talisman, the hairs are secured in place by an Old Witch's Ring, which was required to understand her speech.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.782156280058253
+  },
+  {
+    "document_id": "b91d3b53-dd2c-5f50-b9f7-57bb48343835",
+    "title": "Gold-Hemmed Black Hood",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Gold-Hemmed Black Hood -  Dark Souls - armor - description \n description : Worn by the witch Quelana of Izalith, mother of pyromancy and Daughter of Chaos.\n\nShe wore this gold-hemmed black hood before even the Age of Fire, and it offers strong resistance versus fire, poison, and other perils.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5977054059938739,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c66a150a-a8f8-50cb-a16b-c05cef8c1016",
+    "title": "Grana, Daughter of Izalith",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Grana, Daughter of Izalith -  Dark Souls - enemy - trivia \n trivia : Her name and title, accurately translated from the original Japanese description, should be \"Grana, Daughter of the Witch\" (魔女の娘グラナ).\n**However, according to the English Dark Souls Official Guide, the Daughter of Chaos's name is Quelaana.\n***In addition, the guide also describes the Daughter of Chaos as a male.\nGrana is one of four of the seven daughters of Izalith to physically appear in-game, the others being Quelaag, the Fair Lady and Quelana.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.62981973586461,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c83ac560-7b59-5c39-89a8-8105e06047fc",
+    "title": "Chosen Undead",
+    "section": "the_lord_souls",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Lastly, the Chosen Undead advances into the deepest part of Lordran: Lost Izalith. If the player speaks to Quelana in Blighttown it will be discovered that her mother tried to use her power to replicate the First Flame, but failed and was engulfed within it; eventually succeeding but at the cost of their former forms. This killed some of her daughters in the process and turned others into deformed creatures, and only Quelana and a Daughter of Chaos maintained the entirety of their human forms. Within the city, the Chosen Undead comes upon the Bed of Chaos, the source of all the demons that wander Lordran, and overcomes it.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.607195211084665,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c904f93d-d150-55f2-8e27-dd6946a40941",
+    "title": "Demon (lore)",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Demon (lore) -  Dark Souls III - character - dark_souls \n dark_souls : After The Witch of Izalith found an immense and powerful Lord Soul near the First Flame, she pooled her and her daughters' newfound strength into aiding fellow Lords in winning the war against the Dragons and built their civilization underground. They continued to experiment with the power of fire and souls; at a certain point, driven by ambition and arrogance, Izalith, using her own Lord Soul as a basis, tried to recreate the First Flame, the primordial force that had brought life into the world. This, however, was not entirely successful, resulting in the Flame of Chaos, an unstable power that the witch was unable to control. She was initially consumed by it and became a beast of chaos fire along with two of her daughters: the \"Bed of Chaos\". This creature, fueled by the power of the Flame of Chaos, became a seedbed for a new life form: Demons.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.684281840056414
+  },
+  {
+    "document_id": "cf6b7535-dc6e-58b0-bfa9-950b0ad2d5ed",
+    "title": "Great Chaos Fire Orb",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Great Chaos Fire Orb -  Dark Souls III - spell - description \n description : Art of the Flame of Chaos, from Ancient Izalith. Hurls a great chaos fire orb.\n\nChaotic flame melts even great boulders, and creates a brief surge of molten lava on impact.\n\nThe Witch of Izalith and her daughters birthed the Flame of Chaos, but it devoured them along with their home.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.359325420653292
+  },
+  {
+    "document_id": "d63371b2-2b9d-53bf-befc-96f46a9a8894",
+    "title": "Izalith Staff",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Izalith Staff -  Dark Souls III - weapon - description \n description : Ancient catalyst of the Witch of Izalith and her daughters, used long before the dawn of chaos and of pyromancy.\n\nWith the birth of the Chaos Flame, the flame witches were at once both sorcerers and shamans. Faith adjusts the power of sorceries cast using this catalyst, and the staff also seems to boost the power of dark sorceries.\n\nSkill: Steady Chant\nBoost the strength of sorceries for a very short period. Works while equipped in either hand.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.372298738164208
+  },
+  {
+    "document_id": "db57f4c0-5d19-572c-bc9d-1d63811e22ba",
+    "title": "Rapport",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Rapport -  Dark Souls III - spell - description \n description : Advanced pyromancy of Quelana, a daughter of the Witch of Izalith.\n\nCharms the enemy, making them temporary ally.\n\nThe living are lured by flame, and this tendency is elemental to the art of pyromancy.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.801692553491364
+  },
+  {
+    "document_id": "dbe96752-926f-5224-a6e5-f419d74fe3fd",
+    "title": "Black Witch Domino Mask",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Black Witch Domino Mask -  Dark Souls II - armor - availability \n availability : Rare drop off of dual Avelyn crossbow Phantoms in Belfry Sol.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ddbdeb7c-5c34-55bd-a95e-492ebe06b2e7",
+    "title": "Chaos Witch Quelaag",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "When the Chosen Undead entered Quelaag's Domain, the Chaos Witch looked at them with a gleeful smile at the promise of the plentiful Humanities she would obtain from them.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5888493440513782,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e0cbd668-bf25-503a-9605-67d6f69d95cf",
+    "title": "Fireball",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Fireball -  Dark Souls - spell - availability \n availability : Given to the Pyromancer class by default.\nSold by Laurentius of the Great Swamp for 800 souls. Laurentius can be rescued from the Depths, whereupon he will reside in the Firelink Shrine.\nSold by Quelana of Izalith for 800 souls. Quelana is located in Blighttown, in front of the entrance to Quelaag's Domain.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.829981713214302
+  },
+  {
+    "document_id": "e15862e1-6882-5d9d-a11f-e8c535d70e0b",
+    "title": "Quelana of Izalith",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Quelana of Izalith -  Dark Souls - character - plot \n plot : Upon meeting Quelana, she offers to teach the player pyromancy. After a while, she asks the player to defeat what is left of her corrupted sisters, Quelaag and the Daughter of Chaos, and the Bed of Chaos to free the consumed souls of her mother and sisters. Upon completing her requests, she gifts the player her final pyromancy: Fire Tempest.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6199249872963875,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e2622461-bc68-58a3-bb2c-9a68e4eede87",
+    "title": "Fire Tempest",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Fire Tempest -  Dark Souls - spell - description \n description : Primal pyromancy of Quelana of Izalith. Erect giant fire pillars in vicinity.\n\nThe tempestuous raging flames resemble those summoned by the Daughters of Chaos when they challenged the ancient dragons and scorched the very earth.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.502289467857445
+  },
+  {
+    "document_id": "ef1c04dc-d65f-56d0-892d-2de4f30eff48",
+    "title": "Undead Rapport",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Undead Rapport -  Dark Souls - spell - description \n description : Advanced pyromancy of Quelana of Izalith. Charm Undead and gain temporary allies.\n\nThe living are lured by flame, and this relationship is part and parcel to the art of pyromancy. Can be used by either gender.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.297073781792292
+  },
+  {
+    "document_id": "f23fee1b-6153-5cd2-ae0a-0fa90e7a312a",
+    "title": "Witch of Izalith",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Ages after her Lord Soul was used to link the First Flame, Izalith's very name was lost. In the region of Drangleic, only few remained who remembered her—only that she was the mother of pyromancy, and that she was devoured by her chaos flame. However, some remnants of her soul manifested again in Drangleic, continuing to exert their influence on the region.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5863855426231773,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f4891b16-aec6-5eda-b117-3d3297616347",
+    "title": "Witch's Ring",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Witch's Ring -  Dark Souls III - ring - description \n description : The Witch of Izalith and her daughters, scorched by the Flame of Chaos, taught humans the art of pyromancy and offered them this ring.\n\nGreatly boosts pyromancies.\n\nEvery pyromancer is familiar with the parable that tells of the witches espousing the need to fear the flame, and teaching the art of pyromancy to men in hopes that they might learn to control it.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.537262698975827
+  },
+  {
+    "document_id": "f4ede646-a62a-5916-8611-d70ea6008f8b",
+    "title": "Chaos Witch Quelaag",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Chaos Witch Quelaag -  Dark Souls - boss - lore \n lore : She is the Fair Lady's older sister. When their mother, the Witch of Izalith along with their other two sisters became the Bed of Chaos, she and her sister became half demon spiders.\n\nQuelaag and her sister stationed just outside the Demon Ruins, in a fraction of Blighttown that became known as Quelaag's Domain. The two started to breed demon insects to enlarge the demon army, by offering Humanities to the Fair Lady. People in Blighttown venerated the two witches, and gladly accepted to become hosts of the Fair Lady's eggs.\n\nWhen the people were stricken by a blight, Quelaag's sister chose to absorb their pus to save their lives, which greatly weakened and blinded her while making any further eggs incapable of holding life. Quelaag remained by her side as her guardian and a hunter of undead to gather the humanity necessary to sustain her sister as a Fire Keeper.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6508727776675582,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f578d2ec-44fd-54ac-96bb-acf1b7161a82",
+    "title": "Blighttown",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Blighttown -  Dark Souls - location - plot \n plot : Accessing Blighttown is necessary to ring the second Bell of Awakening, found past Chaos Witch Quelaag in Quelaag's Domain located at the very bottom of the area. Several NPCs visit Blighttown as part of their respective questlines, with Quelana of Izalith and Shiva of the East both acting as merchants.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 33.69806868597984
+  },
+  {
+    "document_id": "f76aa087-4895-56e5-b46a-3f775e613d44",
+    "title": "Demon (lore)",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "At one point Izalith, aiming to gain greater sway over the Flame of Chaos, lost all control of the power again and never regained it: Chaos engulfed the Lord and her daughters before scorching their city with them. Izalith and her two daughters directly involved in the experiment were left permanently scarred, reduced to a monstrous lignified creature anchored in the throne room at the center of the city. Of the daughters of Izalith, few managed to escape. Quelaag and her sister's lower bodies were molded into deformed demonic spiders and the flames of chaos engulfed them but they managed to escape the city and survive on its borders, carving out a domain for themselves. The only other survivor, who managed to avoid the corruption of chaos and retain a normal body, was Quelana, who remained in self-imposed exile around the ruins of her country for centuries.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.7063459512168202,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fa20090a-7ec5-53e7-a569-841511238bdf",
+    "title": "Fire Tempest",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Fire Tempest -  Dark Souls - spell - availability \n availability : Quelana of Izalith will gift the player this pyromancy after the player has defeated the Bed of Chaos.\nDropped by Quelana of Izalith if she has not given the pyromancy to the player yet.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.94800215055436
+  },
+  {
+    "document_id": "fea29c23-e143-5f46-85cc-d003f1332cd0",
+    "title": "Black Witch Wrappings",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Black Witch Wrappings -  Dark Souls III - armor - description \n description : The purple wrappings of the witch Zullie, who intended to seduce Alva the Wayfarer, but eventually became his closest supporter, spending her entire life with him.\n\nIt is said that Zullie the witch, who was never loved, nor loved another, experienced all manner of misfortune, and yet in the end, found her purpose in life.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.598605704807305,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ffa0a56d-dd75-5205-b61d-ca1b5abd7fa2",
+    "title": "Black Witch Domino Mask",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Black Witch Domino Mask -  Dark Souls II - armor - notes \n notes : Due to the fact that it is a very rare drop, and that the dual Avelyn Phantoms in Belfry Sol don't respawn, it may take several Bonfire Ascetics to get.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "59397bd4-4285-58bc-825a-9839dc79fbe4",
+    "title": "Bed of Chaos",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Another common strategy is to summon one or two phantoms and position both next to each orb, with the host out of reach of the Bed of Chaos' arm sweeps, but in a direct line towards the entrance to the core. After both phantoms break the orbs, the host can then head to the entrance of its mouth and kill the boss.\nA simple solo strategy involves \"corpse-running\" to the fog door and then running to each orb and then to the Bed of Chaos itself. Some players prefer to stay hollowed so that humanity is not wasted, since many deaths may follow after the first orb breaks.\nPlayers with a high number of Humanities or souls may be interested in investing in some Rings of Sacrifice.\nThe chaos scythe/fire pick(s) attacks will almost always miss unless the player stays in one spot for too long.\nIts bug-like core is immune to fire damage.\nIt is possible to make the Bed of Chaos's arm push the player towards the branch that leads to the core.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6037d0a3-bd1c-5502-aafc-46efd9562b49",
+    "title": "Bed of Chaos",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "The greatest concerns to the player over the encounter will be dealing with the boss' broad, sweeping attacks and the large, bottomless holes that open in different parts of the arena.\nOnce both roots have been cut, the player must reach the boss' heart to access and kill the Chaos Bug, however it is important to be aware that directly in front of the boss is a large bottomless hole. The primary way across is a wide branch that runs from the boss toward where the encounter begins, just below the height of the floor.\nA relatively safe method of dealing with both attacks and holes is to hug the walls around the outside of the arena, on the ledges behind the holes and out of reach of the boss (though, not the Volcanic Chaos attack, see below). From here, the player may sprint and jump to cross the holes and reach the orbs if their weight is low enough, or attack the branches and roots from range with magic or a bow.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8acad408-595d-5a2d-a197-db0200146f04",
+    "title": "Bed of Chaos",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Bed of Chaos -  Dark Souls - boss - strategy \n strategy : Unlike most boss encounters, the goal here is not to whittle away the boss's health, but to strike at three vulnerable nodes. Thus, the difficulty in defeating this boss mostly lies in discovering the points to strike while avoiding being knocked in a hole rather than in defeating the boss via conventional methods.\nThe vulnerable nodes are two roots within glowing spheres, visible to the right and left of the boss at the start of the encounter, and the Chaos Bug within this boss' heart. Striking the roots expands the boss' list of available attacks and 'unlocks' access to the boss' heart.\nIt is also noteworthy that progress made in damaging one or both of the roots does not reset upon the player's death, allowing repeated attempts at the boss to add incremental progress to the encounter.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8cc33d20-f2d2-5595-af3f-e55b4afb26f2",
+    "title": "Bed of Chaos",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Bed of Chaos -  Dark Souls - boss - trivia \n trivia : In internal game files, the Bed of Chaos is referred to as \"King Izalith\" ().",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cb747a48-6c28-5814-913d-ced72c6b1e67",
+    "title": "Bed of Chaos",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Its bug-like core is immune to fire damage.\nIt is possible to make the Bed of Chaos's arm push the player towards the branch that leads to the core.\nMagic Shield and Strong Magic Shield can be extremely useful against Bed of Chaos, as they can easily block both the scythe and swiping attack with a medium shield without breaking player's guard. This creates a relatively long opening and player can use the remaining stamina to quickly run towards the heart/orb and deal the fatal blow. Lingering Dragoncrest Ring is recommended to counter the short duration of both spells.\nOne last potential strategy involves the use of shields with high stability. By two-handing a shield such as Havel's Greatshield, and with sufficient Stamina, a player can become almost completely immune to both the damage and knockback effects of the Bed of Chaos's sweeping attacks.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f2be6def-503f-5ffe-875f-4a2ce1d4dd8d",
+    "title": "Bed of Chaos",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Bed of Chaos -  Dark Souls - boss - attacks \n attacks : {'name': 'Flame Aura', 'description': 'Used if the player lingers at the mouth of the Tree Beast without going inside. The Fire Aspect crosses its arms and then swings them open after a distinctive shriek, engulfing the entire area in fire. Hits multiple times.'}",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2060ff0c-72d1-575f-8d11-f9e59ad1098d",
+    "title": "Bounding Demon of Izalith",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "If possible, avoid the triple stomp attack to access the left leg and deal some damage.\nLightning miracles, as well as lightning imbued weapons, are particularly effective against this enemy.\nWearing the Slumbering Dragoncrest Ring in the Lost Izalith will make the player completely unnoticeable as long as they do not attack or collide with them. It is recommended to avoid them entirely when using this method, as trying to pass directly under one may still allow it to detect the player.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2a9a3629-c20e-51c8-80cd-6841131f1559",
+    "title": "Bounding Demon of Izalith",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bounding Demon of Izalith -  Dark Souls - enemy - lead \n lead : The **Bounding Demons of Izalith** are non-respawning enemies in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bf27e0bc-b70f-5d3e-b056-0aaa794fded5",
+    "title": "Bounding Demon of Izalith",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bounding Demon of Izalith -  Dark Souls - enemy - strategies \n strategies : The Bounding Demon's attacks can damage one another. For cautious players, one safe method is to lure several enemies from the tower. They will eventually kill each other, leaving only one badly damaged enemy for the player to finish off.\nBounding Demons are limited to jumping and stomp attacks when the player is within close-range.\nWhen a Bounding Demon executes a high jump the player can trick the AI by jogging away from the enemy and back towards it, and away from the enemy again where it should land at a safe distance. One can also utilize the tower's walls where the Demonic Statues are as a safe zone.\nIf possible, avoid the triple stomp attack to access the left leg and deal some damage.\nLightning miracles, as well as lightning imbued weapons, are particularly effective against this enemy.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bfc1bfce-c1ac-593f-8deb-5c7b1f6c5306",
+    "title": "Bounding Demon of Izalith",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bounding Demon of Izalith -  Dark Souls - enemy - description \n description : Bounding Demons are the decomposed bottom halves of immortal dragons still roaming the ruined city of Izalith. What looks to be a faceless head with horns was once part of a spine. Its legs remain mostly intact with half of its tail still useful for attacking. Even without proper sensory organs they are able to detect players when they venture too close.\n\nThe name comes from the Official Dark Souls Guidebook by FuturePress, although it isn't reflective of its internal name, which is instead ドラゴンゾンビ（下半身）which translates to \"Undead Dragon (Lower Body)\".",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c86e4022-70c3-55a7-b50c-3ace13b0749a",
+    "title": "Bounding Demon of Izalith",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bounding Demon of Izalith -  Dark Souls - enemy - location \n location : A total of 29 Bounding Demons are located in the lava filled area of Lost Izalith. Only one can be found outside of Izalith, lying dormant on the bridge in the Painted World of Ariamis, behind the Undead Dragon. This one cannot be killed.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c3e224aa-a82b-5f72-a7a3-49ae1082b353",
+    "title": "Chaos Bug",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Chaos Bug -  Dark Souls - enemy - general_information \n general_information : A total of nine Chaos Bugs are in the shortcut and they have no means of inflicting damage.\n\nA single Chaos Bug appears in *Dark Souls II*; during the introductory cutscene of the Lost Sinner, one is seen hanging out of the eye socket of her mask, before briskly crawling back inside.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d3d51677-a82c-56d8-acff-7c1616e31af3",
+    "title": "Chaos Bug",
+    "section": "locations",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Chaos Bug -  Dark Souls - enemy - locations \n locations : Chaos Bugs are found in the shortcut connecting Demon Ruins to Lost Izalith.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d5886546-4785-5ff5-9201-02b1493c710d",
+    "title": "Chaos Bug",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Chaos Bug -  Dark Souls - enemy - lead \n lead : **Chaos Bugs** are enemies in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ee16f09f-11e6-5fda-b2f2-50d82565b676",
+    "title": "Chaos Bug",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Chaos Bug -  Dark Souls - enemy - notes \n notes : If left alone for too long, Solaire of Astora will somehow perish whilst among the Chaos Bugs.\nOnly eight of the Chaos Bugs respawn. The red-eyed Chaos Bug that drops the Sunlight Maggot does not respawn.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1424698d-6a5f-536d-9014-4ae5a45daccf",
+    "title": "Chaos Eater",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Chaos Eater -  Dark Souls - enemy - attacks \n attacks : Hits multiple times.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "15702c98-81e3-5d09-bc71-ce2b8644e66f",
+    "title": "Chaos Eater",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Chaos Eater -  Dark Souls - enemy - location \n location : There are two found on the upper levels of Lost Izalith and six more (four don't respawn) located through a destructible floor, in a pit close to Siegmeyer of Catarina. A total of four chaos eaters can be farmed each pass.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "36ed22a2-5944-5f25-846e-2d61db16346a",
+    "title": "Chaos Eater",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Chaos Eater -  Dark Souls - enemy - lead \n lead : **Chaos Eaters** are enemies in *Dark Souls*. They are located exclusively in Lost Izalith.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3b926b63-7cd2-514d-82b4-4cd7c56ebdcc",
+    "title": "Chaos Eater",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Chaos Eater -  Dark Souls - enemy - notes \n notes : Despite having multiple eyes, it is still possible to sneak up behind them.\nFalling or using a plunging attack on the ones tied to Siegmeyer's questline will result in them eating the player as if they were grabbed. It can be escaped in the same way as if being normally grabbed.\nThey are the only way in the game to farm Red Titanite Slabs, although due to its extremely low drop rate, using Humanity or a Covetous Gold Serpent Ring is recommended.\nThe Chaos Eater vaguely resembles the transcended Kushan Emperor from Berserk.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6a3e34c1-b894-55e3-b32a-578364b54b01",
+    "title": "Chaos Eater",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Chaos Eater -  Dark Souls - enemy - description \n description : Chaos Eaters are large and sickly yellow colored creatures with six trunk-like appendages that act both as arms and as acid sprayers while their cylindrical body, vaguely reminiscent of a sea anemone, a gaping maw on the top and a myriad of almost-human eyes that never stop rolling and scanning the surroundings.\n\nThey are able to grab and throw their opponent into their gigantic mouths, located on top of their heads, swallowing and excreting them through one of their \"legs\". They can also spray a corrosive white mist through said legs, quickly damaging the player's equipment.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "02d59f0b-02ad-565b-9c65-8dd488f525e9",
+    "title": "Demon (lore)",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The first demon who manifested itself was the youngest son of Izalith. He was a younger brother of the other witches who gifted him a magic ring to negate his pain from the lava sores that tortured him. However, the still-unstable Flame of Chaos led him to transform into a monstrous demon and drop his ring, leaving the flames of chaos to burn him constantly as he couldn't control them, while also generating another distorted Centipede Demon. Despite becoming the first distorted creature created by the Flame of Chaos, at a certain point Izalith and her daughters managed to stabilize the new power they had created and began to generate the first real demons: life forms with stable bodies and capable of controlling the flame of chaos within each of them. These new creatures were not absolutely beastly; rather, they learned to coexist with the already-present society of Izalith, becoming \"demon priests\" of the Flame of Chaos and even going so far as to learn the primordial flame sorceries",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "03f1cb4b-681f-5652-959a-d345d45f0954",
+    "title": "Demon (lore)",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The sorcerers of Oolacile, capable of manipulating the forces of nature with knowledge and means that not even the sorcerers of Vinheim were able to replicate, created the Sanctuary Guardians, an amalgamation of traits from several animals like lions, goats, scorpions and birds, to defend the Sanctuary Garden of their country. Although these creatures were not created by the Bed of Chaos and therefore cannot be defined as \"demons\", the process with which they were obtained, mixing characteristics of different animals thanks to the sorcery of souls and life, makes them very similar to the demons of chaos, produced by a flame created in imitation of the First Flame.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "055045d8-8b86-5031-8b78-351df2251199",
+    "title": "Demon (lore)",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Alsanna, as the heiress to her Lord's wishes and in reverence of the apocalypse, devoted herself and the power of her Dark Soul to a ritual in the hopes of appeasing the raging flame. With the ivory gates opened, the land of Eleum Loyce grew cold and lifeless, turning into a frigid expanse, in an attempt to freeze Chaos along with the entire country. The remaining Knights of Eleum Loyce remained to watch over the Garrison Ward under the King's final orders to contain the Chaos, waiting patiently for a new leader strong enough to guide them into its depths, while Alsanna remained in prayer inside the Cathedral over the depths to continue the ritual. The Old Chaos was thus contained, albeit it corrupted the Ivory King and his knights, nevertheless remaining confined by Alsanna's tireless effort. Chaos was repressed until a Bearer of the Curse came along and destroyed the Burnt King and his corrupted Eleum Loyce knights, definitively eradicating the offshoots of Chaos from Drangleic.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1d60f855-0318-5bec-a1c7-a37146ebdfe7",
+    "title": "Demon (lore)",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Like humanity and the Gods of Anor Londo of old, the demons seek to rekindle the Flame of Chaos to preserve their race. A Demon Prince, a champion of their race, challenged Prince Lorian of Lothric, only to be defeated and retreat without his memory of the flames. No longer able to pursue the rekindling of the Chaos Flame, the demon race was condemned to extinction; as time went on, even the few remaining demons all but lacked any trace of the flame within; one such lost demon, reduced to little more than a wood and stone golem, served as a gatekeeper of Lothric.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2035bbc3-1bb3-5fec-8234-725440a4d3a3",
+    "title": "Demon (lore)",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "By the time of the awakening of the Ashen One, the Flame of Chaos had begun to fail, making the ancient Demons a dying race. The ruins of Izalith are littered with huge piles of corpses of ancient Demons, most of them belonging to lesser Capra Demons and Taurus Demons, while few surviving specimens aimlessly roam a world that has no place for them. These beings, called Stray Demons, look like their ancestors only superficially since their body is smaller and made mostly by rock, wood and lava (much like the Bed of Chaos). They have decayed and petrified to the point of being able to spew mere boulders, instead of flames. The Batwing Demons, a lesser breed of ancient Demons, were unfazed by the Chaos Flame's extinction and kept their duty as \"ferrymen\" for those who followed the legacy of Gwyn (thus proving a deep connection between their kin and the Gods).",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3206784d-0a94-5424-b605-586ccf161a64",
+    "title": "Demon (lore)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Demon (lore) -  Dark Souls III - character - description \n description : Most demons in *Dark Souls* have demonstrated to be intelligent enough to craft their own equipment using archtree wood, titanite and demon bones, and none of them ever used weapons forged by other races. Despite their blasphemous birth and hideous appearance.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "33e5cc52-95d0-5bac-aed2-81605fb4ddae",
+    "title": "Demon (lore)",
+    "section": "other_demons",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Demon (lore) -  Dark Souls III - character - other_demons \n other_demons : In the region of Lordran several creatures are addressed as \"demons\" despite the fact that they are not part of the life generated by the Bed of Chaos:\n**The Titanite Demons are creatures that arose from enchanted Titanite Slabs after the passing of the Nameless Blacksmith Deity.\n**The Crow Demons are humans that worshipped Velka, Goddess of Sin to the point where their bodies were warped and became half-crow.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3d85f038-4105-5c87-a1e9-00dc0e6c1b08",
+    "title": "Demon (lore)",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Demon (lore) -  Dark Souls III - character - theories \n theories : It is possible to theorize that Izalith, in her experiment to create a new First Flame with the power of her Lord Soul, used the Dark Soul as an added element; because of this, Demons and Humans share traces of a connection.\n**The power of weapons infused with chaos scales with humanity like an Abyss-tainted weapon. In addition, Chaos Flame Embers are able to infuse weapons with the power of the flames of chaos but are also augmented by humanity.\n**Quelaag's Sister was able to become a Fire Keeper despite being corrupted by chaos, allowing her body to become the host of an immense mass of humanity. She is able to regain her power and body, although debilitated by a blight, by feeding herself with humanities.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3fedac42-6d19-5ad0-88e2-5a416c01b0d2",
+    "title": "Demon (lore)",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "**The majority of demons encountered possess humanities, either because they gained them to absorb their power or because they possessed them in the first place; either way implying a compatibility between demons and humans.\n**The Dark Soul seems to have some unique properties that would motivate its use by Izalith: its capability of generating life, as well as its seemingly endless capacity to do so, never losing its power in the process.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "566254db-e930-592f-99d1-d5924e379a6b",
+    "title": "Demon (lore)",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The societal collapse of Izalith, left without their Lord and devoured by the out-of-control Flame of Chaos, pushed Gwyn to wage war against the chaos demons that were now free, developing weapons and fighting techniques strong enough to face the size of their new enemies and sending his Silver Knights to Izalith. During the war their armor and weapons were charred black but despite their strength Gwyn's knights failed to defeat the demons or destroy the Bed of Chaos; they eventually retreated, only managing to banish the demons underground although they enslaved some lesser demons who would become servants of the gods. At some point after Gwyn linked the First Flame and Gwyn's firstborn son was dethroned and exiled, nearly all of the other deities abandoned Anor Londo. Despite the conflict, many demons survived, and the Bed of Chaos meanwhile continued to generate new demons; with no leadership present in Anor Londo and the Silver Knights remaining relegated to protecting the city of",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "73faafd8-6769-5488-ac4e-6bae442d3326",
+    "title": "Demon (lore)",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Demon (lore) -  Dark Souls III - character - dark_souls_ii \n dark_souls_ii : Despite the fact that the Bed of Chaos had been destroyed by a Chosen Undead, a fragment of the Flames of Chaos managed to survive and drifted to settle underground in the far north of Drangleic. Here it reformed as an expanse of fire, lava and roots, starting to give birth to atrocities and monsters that cursed the region, leading people to flee in fear. Eventually the Ivory King and his knights managed to eliminate the demons that arose from the Old Chaos and drive them back into the depths. The sovereign, thanks to the power of his soul, thus built the kingdom of Eleum Loyce over that land and erected an immense cathedral, a fortress city and a Garrison Wall above the Chaos, in an attempt to contain it and its horrors with all his efforts, even going so far as to use the power of his own soul to stem his raging flames.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "87436d62-6e37-5aa7-a900-72aac4edef7f",
+    "title": "Demon (lore)",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Bed of Chaos, still fused with her two daughters and her original body reduced to that of a Chaos Bug under all her roots. The Chosen Undead thus challenged and killed her to obtain her powerful Lord Soul. The destruction of the original Flame of Chaos ended Izalith's misery, but it also marked the beginning of the end for the demons who, without the Bed of Chaos that had spawned them, became a dying race.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8891bb66-85b0-574d-94f3-c36b2326395f",
+    "title": "Demon (lore)",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "many demons survived, and the Bed of Chaos meanwhile continued to generate new demons; with no leadership present in Anor Londo and the Silver Knights remaining relegated to protecting the city of the gods, some lesser Capra and Taurus demons began to rise to the surface, making their way through the ruins of the Undead Burg.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "99135799-6634-5178-92ae-b7c288589398",
+    "title": "Demon (lore)",
+    "section": "known_chaos_demons",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Demon (lore) -  Dark Souls III - character - known_chaos_demons \n known_chaos_demons : Ceaseless Discharge\nCentipede Demon\nDemon Firesage\nAsylum Demon\nStray Demon\nCapra Demon\nTaurus Demon\nDemon Statue\nBatwing Demon\nChaos Eater\nQuelaag\nQuelaag's Sister\nCragspider\nOld Demon King\nDemon Prince\nDemon (Dark Souls III)\nStray Demon (Dark Souls III)\nDemon Cleric",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9943d9db-92f4-59ec-b198-43e58d1592aa",
+    "title": "Demon (lore)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Beings twisted by Chaos into something else, like the Bed of Chaos or the Burnt Ivory King (as the Flame of Chaos would survive past the Bed of Chaos' death) are not categorized as Chaos Demons, as the term applies only to beings conceived by the Bed itself. The Bed's eventual demise in *Dark Souls* means that Demons, who cannot reproduce, now exist in a finite number, and by the time of *Dark Souls III* they are a dying race, close to extinction. Besides Chaos Demons are cretures also called 'demons' despite being fundamentally different in their origins, likely due to individuals being unaware of the distinctions.\n\n__TOC__",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "abcde951-c157-5a2a-a5eb-8ca4ca23a5e7",
+    "title": "Demon (lore)",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "As a symbol of their dedication they became Egg Burdened, welcoming the parasitic eggs produced by Quelaag's sister into their bodies. In this way the eggs would hatch inside them, first producing Vile Maggots which would then develop into Giant Mosquitoes and ultimately into smaller insectoid demons: the Cragspiders. Quelaag's plan, with the help of her sister, was therefore to reproduce in miniature a version of the Bed of Chaos that would use humanity as fertilizer for eggs and the undead as hosts to create new, albeit lesser, demons. To receive help in their goal they even created the covenant of the Chaos Servants, which would welcome servants of the Daughter of Chaos with the aim of accumulating humanity by killing other Undead which they would then give to Quelaag's sister and in exchange get the chance to learn their pyromancies and a shortcut to their hometown of Lost Izalith.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b59bb848-a9c2-5707-8061-8680f7971087",
+    "title": "Demon (lore)",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Demon (lore) -  Dark Souls III - character - dark_souls_iii \n dark_souls_iii : **This section lacks sources and needs expansions before being considered useful and complete**",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "be69e3a8-c39c-59f1-b015-857ce77bbdaa",
+    "title": "Demon (lore)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Demon (lore) -  Dark Souls III - character - lead \n lead : **Demons** are a race in the *Dark Souls* universe.\n\n\"True\" Demons (labelled **Chaos Demons** in this article), are beings (some unique, others members of specific sub-species) originating from the fall of Izalith prior to *Dark Souls*, during which the Witch of Izalith lost control of her Lord Soul, causing the creation of the Flame of Chaos that twisted beings in Izalith and turned the Witch into the Bed of Chaos, a creative force that kept on endlessly making new lifeforms: Demons, which spilled from Izalith into the world. They typically have affinities for fire and/or stone.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bea445b5-cb8a-59fc-8033-18b70add6221",
+    "title": "Demon (lore)",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Demon (lore) -  Dark Souls III - character - see_also \n see_also : Izalith Staff",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bfabfc0f-1037-5eca-b679-58519e7f29bd",
+    "title": "Demon (lore)",
+    "section": "other_demons",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "In the region of Drangleic several creatures are addressed as \"demons\" despite the fact that they are not part of the life generated by the Bed of Chaos:\n** The Covetous Demon was once a man whose deep affection for Queen Mytha was unrequited. Despite this he never left the queen and, entranced by some perverse love, he started to devour all thing and even humans in an expression of desire, gorging himself to the point of transforming into a monstrous creature.\n**The Demon of Song was once a man that was unable to resist the temptations of the flesh and developed a taste for humans, to the point of transforming into a monstrous creature.\n**The Smelter Demon was a mass of iron, one of the constructs given life by the Old Iron King when he obtained the power to grant life to heaps of iron and molded a great array of metallic automatons with a soul.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cbd8f071-94f6-52c3-97b7-845b76328783",
+    "title": "Demon (lore)",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "However the flames of Chaos would not be sated, and over time the Ivory King was drained of his vigour; sensing the degradation of his power, he decided to plunge into Chaos' heart in an attempt to reduce its flames alone but was devoured by the chaos, becoming an empty husk controlled by it. After their King was consumed by Chaos, many of Eleum Loyce's faithful knights decided to follow him and put him out of his misery but their souls too were corrupted by the flames, leading them to lose all sense of purpose and being, leaving them driven only by the urge of expunging any who might disturb the flames even if they were former compatriots. With their armor charred and burnt black by fire and still burning in agony, they remained as empty shells controlled by the Chaos alongside their once-proud king.\n\nAs a last resort to stem the advance of the Chaos that couldn't be contained, the decision was made to \"fling open\" the ivory gates of the fortress of Eleum Loyce.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "368973e9-a1f2-537c-a457-63b0239eb620",
+    "title": "Demonic Statue",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Demonic Statue -  Dark Souls - enemy - lead \n lead : **Demonic Statues** are enemies in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bb0b9198-344a-5653-b7ef-8fc3f07e11c3",
+    "title": "Demonic Statue",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Demonic Statue -  Dark Souls - enemy - location \n location : They are encountered in Demon Ruins and Lost Izalith.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f8ab194f-3851-5e41-8b55-ff58ab37e4e9",
+    "title": "Demonic Statue",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Demonic Statue -  Dark Souls - enemy - description \n description : These stone statues breathe fire, and are highly resistant to fire and lightning damage. Slow to move and rotate, with only one heavily telegraphed and easily avoided attack, they pose little to no threat; however, if careless, they can deal somewhat hefty damage in their fire cone. They come in groups in most encounters and, if bunched up, their bulk can box a player in or block their path, but they can be quickly and easily outran, especially because they don't usually follow players to other areas.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4db78acd-5fc0-5e19-a470-b1259d1df5aa",
+    "title": "Divine Blessing",
+    "section": "overview",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Divine Blessing -  Dark Souls - item - overview \n overview : Divine Blessings are some of the best healing items in the game. They heal more quickly than using the Estus Flask, making them superior to using Humanity and the healing miracles in terms of speed. They also cannot be blocked by Lloyd's Talismans, unlike Estus. In addition, they can be used while invading.\n\nHowever, they can only be obtained in very limited quantities, so it is wise to only use them in times of dire emergency.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4f87078d-3d4d-5a01-8cd5-5720c3d5bb42",
+    "title": "Divine Blessing",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Divine Blessing -  Dark Souls - item - lead \n lead : **Divine Blessings** are restorative items in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "59a5aef4-5b88-5b80-bdd7-6ad68501a262",
+    "title": "Divine Blessing",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Divine Blessing -  Dark Souls - item - availability \n availability : Three can be obtained if chosen as a starting gift.\nOne is sold by Reah of Thorolund after saving her in the Tomb of the Giants for 1,000 souls.\nSold by Patches in a limited quantity for 20,000 souls. Patches is available as a merchant in Firelink Shrine after defeating Gravelord Nito.\nGift from Alvina after killing one invader as a Forest Hunter.\nOne can be looted from a chest in Anor Londo (the large room with the painting and the rafters).\nTwo can be looted in Lost Izalith off two of the corpses in the lava pit with the Bounding Demons of Izalith. Obscured by a large branch; difficult to obtain without the Orange Charred Ring.\nIn a chest in Sen's Fortress guarded by Undead Prince Ricard.\nTwo per playthrough can be obtained by trading a Ring of the Sun Princess to Snuggly the Crow.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8db3273c-80df-5611-bdb2-1baaad0c2d3f",
+    "title": "Divine Blessing",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Divine Blessing -  Dark Souls - item - description \n description : Holy Water from the Goddess Gwynevere. Fully restore HP and undo irregularities.\n\nThe Goddess of Sunlight, Gwynevere, daughter of the great Lord of Sunlight Gwyn, is cherished by all as a symbol of bounty and fertility.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9a0eab71-80f0-547f-a657-dd3b013f30d7",
+    "title": "Divine Blessing",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Divine Blessing -  Dark Souls - item - general_information \n general_information : Upon consumption, Divine Blessings fully restore Health and get rid of the build-up of the negative status effects: Bleed, Poison and Toxic as well as the *contracted* effects of Poison and Toxic, but not Curse.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3da9915a-ce8f-5896-bb33-2eb404f74397",
+    "title": "Grana, Daughter of Izalith",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Grana, Daughter of Izalith -  Dark Souls - enemy - strategy \n strategy : Grana, Daughter of Chaos has unlimited casts of Chaos Fire Whip, Chaos Storm, and Great Chaos Fireball. She has no other attacks or skills, but even those few are powerful enough and can be dangerous. She is also highly resistant to Fire, and immune to Poison and Toxic.\n\nShe has no shield and no poise, and will spend most of her time standing still and casting pyromancies. Simply using a normal bow with standard arrows will work exceptionally well, dealing damage while also stunlocking her and interrupting her pyromancies.\n\nSpecial care should be taken if one has decided to fight her in close combat, as the area where she is encountered at is also one of the three locations where Kirk, Knight of Thorns spawns. Additionally, a Chaos Eater can be found further on and may also join into the battle. A careless player could end up having to deal with up to three powerful enemies at once.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4b2c7a83-1683-5cd6-ac14-8c1871b2dee9",
+    "title": "Grana, Daughter of Izalith",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Grana, Daughter of Izalith -  Dark Souls - enemy - location \n location : Found in Lost Izalith, right near the fog wall before the Bed of Chaos.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4d0cd9d6-22ef-5f41-9262-1914ba90c7a8",
+    "title": "Grana, Daughter of Izalith",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Grana, Daughter of Izalith -  Dark Souls - enemy - lead \n lead : **Grana,** **Daughter of Chaos** (魔女の娘グラナ), also known as **Izalith's Daughter**, is an enemy in *Dark Souls*.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "05cd4d5f-1e42-5836-ac14-8815b4f38c52",
+    "title": "Kirk, Knight of Thorns",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kirk, Knight of Thorns -  Dark Souls - character - trivia \n trivia : One of the promotional pictures for Kirk features him invading a player in New Londo Ruins; however, he never invades there in-game.\nIt is entirely possible for Kirk to drop both his sword and shield in a single encounter. Equipping the Covetous Gold Serpent Ring will boost the chances further, and aid players in obtaining his equipment in a single playthrough.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "22c0d46a-a8bc-5028-bf78-1fe6ad1c5f4f",
+    "title": "Kirk, Knight of Thorns",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kirk, Knight of Thorns -  Dark Souls - character - lore \n lore : Due to a context error, he is often mistaken for being a member of the Darkwraith covenant when in reality the original text merely refers to him being a \"dark-wraith\" as in \"dark (black) phantom\".\n\nMiyazaki has stated that Kirk is actually a Chaos Servant, and is invading other worlds in order to gather Humanity so that he may offer them to Quelaag's Sister.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "24013d04-a785-503d-a659-f293512f452c",
+    "title": "Kirk, Knight of Thorns",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kirk, Knight of Thorns -  Dark Souls - character - plot \n plot : Kirk invades the player in the aforementioned places. He has no dialogue whatsoever and does not contribute to the story at all, probably being present only to give the players a taste of PvP experience.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2937b328-a7c2-5062-b990-f5ff9527609d",
+    "title": "Kirk, Knight of Thorns",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kirk, Knight of Thorns -  Dark Souls - character - location \n location : Kirk is an invader that can assault the player three times in a playthrough:\n#Area with several Basilisks in the Depths.\n#Demon Ruins, shortly after the first Capra Demon (only invades after placing the Lordvessel).\n#Lost Izalith, next to the Bed of Chaos.\n\nAs with other dark spirits, Kirk will not invade in the respective areas if the boss of the area has been defeated, or if the player is Hollow.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "59967277-37f2-593d-b5fa-213d13bd5141",
+    "title": "Kirk, Knight of Thorns",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kirk, Knight of Thorns -  Dark Souls - character - notes \n notes : The Set of Thorns spawns in the Daughter of Chaos area in Quelaag's Domain if Kirk has been defeated all three times; however, his sword and shield are not definite drops and may never be dropped for the player.\n\nThe locations at which Kirk invades are not a set order, it is contingent on which order player has chosen to visit while being in a non-hollowed state.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9ffcedd9-f8bf-5152-8821-ca4c20840fda",
+    "title": "Kirk, Knight of Thorns",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kirk, Knight of Thorns -  Dark Souls - character - strategy \n strategy : Kirk is a standard melee fighter. When he rolls his armor deals minimal damage on contact, but will stun low-Poise players, so keeping a shield up makes fighting him considerably easier.\n\nKirk's damage output is unremarkable, making him good practice for parrying. However, his weapons do cause the Bleed effect. He also attacks fairly slowly, giving many opportunities for backstabs.\n\nKirk invades at very inconvenient places: in the first and third instances, he is likely to invade while the player already has their hands full fighting other enemies, and in the second, he fights on the edge of a ledge, making it likely for the player to accidentally fall off.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f9b6a35d-1639-58ff-9346-8b56ac7a6d39",
+    "title": "Kirk, Knight of Thorns",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kirk, Knight of Thorns -  Dark Souls - character - lead \n lead : **Kirk, Knight of Thorns** (トゲの騎士カーク), also known as **Knight Kirk**, is an enemy in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "29472def-84c0-5ea7-93c2-e3bc8a16ecd2",
+    "title": "Large Soul of a Brave Warrior",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Large Soul of a Brave Warrior -  Dark Souls - item - general_information \n general_information : Soul items are not lost upon death, so it is useful to keep some in case players lose their bloodstain but need some souls for leveling up or repairs. Large Souls of Brave Warriors can be consumed for 8,000 souls. They can also be fed to Kingseeker Frampt, but as this grants less souls than simply consuming them, there is no good purpose for doing so.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2cb33500-9a68-536e-ad8a-6f721b04723f",
+    "title": "Large Soul of a Brave Warrior",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Large Soul of a Brave Warrior -  Dark Souls - item - lead \n lead : The **Large Soul of a Brave Warrior** is a consumable soul item in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3c746282-d9df-57db-b477-fe510dedb0d6",
+    "title": "Large Soul of a Brave Warrior",
+    "section": "corpse_locations",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Large Soul of a Brave Warrior -  Dark Souls - item - corpse_locations \n corpse_locations : Darkroot Garden\n**On the outskirts of the area where the Great Felines are encountered.\nSen's Fortress\n**On the bombarded roof of the fortress, the charred corpse was a victim of the Firebomber Giant's 2nd targeted mark.\nThe Duke's Archives\n**Inside the Archive Tower cell accessed using the Archive Prison Extra Key.\nRoyal Wood [AotA DLC]\n**Near the water source of the waterfall, at the dead end of the valley, guarded by 2 Abyss Attack Dogs.\nLost Izalith\n**To the left of the stairs leading up to your 1st Chaos Eater encounter (assuming you entered the fallen city from the normal route).",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7627e9ab-552c-5706-bd18-3d9513d18989",
+    "title": "Large Soul of a Brave Warrior",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Large Soul of a Brave Warrior -  Dark Souls - item - description \n description : Large soul of a brave Undead warrior who has long ago gone Hollow.\n\nUse to acquire a large amount of souls.\n\nSouls are the source of all life, and whether Undead, or even Hollow, one continues to seek them.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ac827470-3295-5eb4-b804-4bc52fde4f63",
+    "title": "Large Soul of a Brave Warrior",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Large Soul of a Brave Warrior -  Dark Souls - item - availability \n availability : Found on various corpses throughout Lordran:",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "02adce1c-1690-57dd-9636-6cb55d08002e",
+    "title": "Lords",
+    "section": "aftermath",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Darkstalker Kaathe, who opposed Gwyn's actions, attempted to bring about the Age of Dark and the coming of its ruler, the Dark Lord; most travelling to Oolacile and manipulating the citizens into upturning the grave of \"primordial man\". This resulted in Oolacile's fall as it began to be swallowed by the Abyss, consuming the land and corrupting its citizens. Kaathe also went to New Londo, seducing the Four Kings with the art of lifedrain, which corrupted them and their knights. In an effort to contain his darkwraiths, New Londo was flooded -an act that ultimately cost the lives of the city's inhabitants.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2e37a32a-978d-574c-93ed-cdb466877f0e",
+    "title": "Lords",
+    "section": "the_fast_fading_flame_and_the_birth_of_chaos",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Fearing the upcoming Age of Dark and potentially humans as well, Gwyn took some of his knights with him left to the Kiln of the First Flame, sacrificing himself to rekindle the First Flame. The Black Knights who followed after Gwyn were reduced to ash, and Gwyn himself became hollow.\n\nThe extension of the Age of Fire was not without consequences. As a result, the undead curse arose from Gwyn's actions. Humans who were afflicted by the curse bore the Darksign. Those that bore it would be revived after death, though their humanity would be lost, and without restoring it would eventually lose their sanity.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "353747d6-787d-53c3-9a86-96d5014308e5",
+    "title": "Lords",
+    "section": "gravelord_nito",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Lords -  Dark Souls II - character - gravelord_nito \n gravelord_nito : The First of the Dead, Nito participated in the war against the Everlasting Dragons. Using his Lord Soul, Nito unleashed a miasma of death upon them.\n\nAfter the war, Nito resided within the Tomb of the Giants, where he governed the death of all living things. He also has a cult devoted to spreading death, called the Gravelord Servants, who kill all over time and space and prove their duty to Nito by presenting him the Eyes of Death.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3f653231-1d67-54fc-ab31-fd9b9d2c28fe",
+    "title": "Lords",
+    "section": "furtive_pygmy",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Lords -  Dark Souls II - character - furtive_pygmy \n furtive_pygmy : Unlike the other Lords, the Dark Soul did not have any instantly apparent effect on the Pygmy. They appear to have looked like a generic hollow before claiming their soul.\n\nThe Furtive Pygmy's ultimate role, actions, and fate are largely unknown. He is mostly forgotten, save for adherents of Kaathe and some inhabitants of the Ringed City.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "62e5804b-567e-5e42-8eef-260f9d6b889b",
+    "title": "Lords",
+    "section": "gwyn_lord_of_cinder",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "In his fear of the Age of Dark, he sacrificed himself to the First Flame, prolonging the Age of Fire and becoming Lord of Cinder. This act rendered Gwyn Hollow.\n\nAt some point, his firstborn son tamed a stormdrake, and allied with the dragon descendants. For this treachery, he was stripped of his godhood and banished (albeit, not by Gwyn), expunged from all records of history.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "731d126d-a1c8-5023-b920-740031a47e1c",
+    "title": "Lords",
+    "section": "age_of_disparity",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Lords -  Dark Souls II - character - age_of_disparity \n age_of_disparity : Little is known of the lives of the Lords before the discovery of Fire. Gwyn had an uncle in Allfather Lloyd, and The Witch was accompanied by her adult daughters when she claimed her soul, so it is possible they may have existed before claiming their Lord Souls.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7cdac1ce-a6ca-56cf-a8a2-604a8134c121",
+    "title": "Lords",
+    "section": "aftermath",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Lords -  Dark Souls II - character - aftermath \n aftermath : Seath was driven to madness as a result of his experiments and accrued knowledge. His attendants would kidnap humans from across the land to be experimented on and even the maidens of Gwynevere. Eventually he discovered a kind of immortality, being invincible so long as the crystal remained. Through the knowledge accumulated by Seath, the human sorcerer Logan would be able to craft new spells and further augment his own spells, though he too would be driven mad much like Seath was.\n\nAt some point the Gwyn's firstborn betrayed the gods and allied with the descendants of the dragons, and his name was stripped from him, being removed from all recorded history such as annals and statues.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9a705583-0f67-59ff-beaa-7a7933ba7d73",
+    "title": "Lords",
+    "section": "the_fast_fading_flame_and_the_birth_of_chaos",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Lords -  Dark Souls II - character - the_fast_fading_flame_and_the_birth_of_chaos \n the_fast_fading_flame_and_the_birth_of_chaos : Gwyn found one day that the First Flame was fading, and that once it had burnt out the Age of Dark would begin.\n\nThe Lords feared the Dark, and sought to prolong the Age of Fire. The Witch of Izalith attempted to create a new flame. However, this new Chaos Flame grew out of control and consumed the Witch of Izalith and many of her children, soon forming into a creation known as the Bed of Chaos, which consumed Izalith and mutated most of the Witch of Izalith's remaining children into abominable creatures, while also turning her only son into a volcanic monstrosity. From the Chaos Flame came the race of Demons, against which Gwyn waged war. The Silver Knights that fought in this war were scorched and became the Black Knights.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0dd5c165-9d2c-5939-b11f-de0abf0191c9",
+    "title": "Ceaseless Discharge",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Ceaseless Discharge -  Dark Souls - boss - description \n description : Ceaseless Discharge is an imposing creature of monstrous size. He wields no weapons, and instead uses his fiery tendrils to fight. His deformed face retains a look of pain, as the sores attained at birth swell with lava. From his head sprout two horns and seven glowing, red eyes that are partially covered by his wrinkled skin. Meanwhile, the right side of his body is framed by a \"rib cage\" made of insect-like appendages. Ten more tendrils appear on his back and his left arm coils around his chest, fused to his body. His body is the source of the lava that floods the lower levels of the Demon Ruins, making the area impassable.\n\nCeaseless Discharge can be found on the far end of his arena, watching over the corpse of his sister, and must be engaged in battle. Once he is defeated, the lower parts of the area will drain of lava, allowing the Chosen Undead to explore the remainder of the Demon Ruins.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "26b2aa29-0970-5846-93ee-111beb78a2fc",
+    "title": "Ceaseless Discharge",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Ceaseless Discharge -  Dark Souls - boss - location \n location : Ceaseless Discharge is found in the Demon Ruins. He stands on a field of lava below a rocky cliff, keeping vigil in front of the corpse of one of his sisters. She is laid to rest on an altar, alongside the Gold-Hemmed Black Set. The path leading into the boss arena crosses over a large pit before leading to the cliff overlooking the lava field.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4b6985a5-be86-59c1-9db6-7830c3e8bcfa",
+    "title": "Ceaseless Discharge",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Ceaseless Discharge will attack the player using a combination of his tendrils and flame projectiles, as well as his left arm should he have access to it. His attacks are primarily physical-focused, though if the player is out of range he can cast a highly-damaging plume of flame instead. Because he stands in the lava field below the cliff, it is impossible to directly attack Ceaseless Discharge with melee weapons unless he swings at the player first. As he is immune to Fire damage, Firebombs cannot hurt him, and the player must instead rely on Bows or non-Pyromancy spells in order to damage him. Dodging his physical attacks and then counter-attacking by hitting his arm or tendrils also allows players without access to ranged combat to damage Ceaseless Discharge.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5a5bc530-d227-5b00-818b-df5b6f017db3",
+    "title": "Ceaseless Discharge",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Ceaseless Discharge -  Dark Souls - boss - strategies \n strategies : Upon entering the boss arena, Ceaseless Discharge does not immediately attack the player, instead standing vigil over his sister's corpse. The player must initiate the fight by attacking Ceaseless Discharge, or by looting the Gold-Hemmed Black Set from his sister. If the fight is initiated through the former method, Ceaseless Discharge will begin fighting the player as normal, and will return to his passive state upon player death, requiring the player to attack him to begin the fight again. However, if his sister's corpse is pillaged, Ceaseless Discharge will become enraged, ripping his arm out of his torso cavity and revealing a large lava sore that was previously kept staunched by the arm, and becomes permanently hostile for all remaining attempts at fighting the boss.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "88b98280-1187-5f22-9429-9e81354636bb",
+    "title": "Ceaseless Discharge",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Ceaseless Discharge -  Dark Souls - boss - attacks \n attacks : {'name': 'Cliff Hanger', 'description': 'If the player retreats back to the fog door Ceaseless Discharge will make a desperate leap over the cliff to try and crush them. Once he lands he will dangle helplessly above the cliff and will no longer be able to move or attack, becoming completely defenseless.'}",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "88ef2891-fd71-5aff-a0f8-18391de1fd1e",
+    "title": "Ceaseless Discharge",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Ceaseless Discharge -  Dark Souls - boss - lead \n lead : **Ceaseless Discharge** (爛れ続けるもの), also known as the **Molten Giant**, is a boss in *Dark Souls*.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a8f5464f-7f5c-5f91-a10e-677a22eb34ea",
+    "title": "Ceaseless Discharge",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Unfortunately, this affected the son of Izalith too and he became the first demon to manifest itself and transformed into Ceaseless Discharge, dropping his ring in the process. The Centipede Demon spawned where it fell. As the first demon, the Flame of Chaos inside his body was still unstable, leaving it to burn him constantly. Izalith and her daughters managed to stabilize the new power they had created and began to generate the first real demons, life forms with stable bodies and capable of controlling the flame of chaos within each of them.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b0a99777-8191-5500-8d27-d8ff6ca4909d",
+    "title": "Ceaseless Discharge",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Ceaseless Discharge -  Dark Souls - boss - lore \n lore : Ceaseless Discharge is the youngest child and only known son of the Witch of Izalith. However he was born with sores inflamed by the lava flowing in Izalith and so his older sisters, the witches of Izalith, gave him a magical ring to ease his pain.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b8b0eee7-4c63-5504-9349-100349cf8a0c",
+    "title": "Ceaseless Discharge",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Ceaseless Discharge -  Dark Souls - boss - notes \n notes : Ceaseless Discharge's name refers to the endless flow of lava pouring from the sores on his body, which floods the lower levels of the Demon Ruins.\nIf the player has aggravated Ceaseless Discharge by looting his sister's corpse, and then dies during the fight, his left arm will reset to its previous state in subsequent attempts. However, he will still be aggressive and immediately attack the player for these later attempts.\n** Traversing the arena and approaching his sister's corpse in subsequent attempts will agitate him and cause him to rip his left arm out of his torso. This allows the player to defeat him using the shortcut method.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d31c80fb-b158-5804-b0ef-8e91b79546e1",
+    "title": "Ceaseless Discharge",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Should the player have enraged Ceaseless Discharge and caused him to rip his arm out of his torso, it is possible to defeat him with only a few attacks. By retreating back to the fog door and crossing over the large pit at the start of the arena, the player puts themselves out of reach of Ceaseless Discharge's physical attacks. In a move of desperation, Ceaseless Discharge will attempt to jump over the pit, but fall short and grab onto the bridge that the player is on. In this state, he is incapable of attacking and is fully at the player's mercy. Attacking his arm at this point will cause him to lose his grip and fall into the pit, ending the battle. However, if Ceaseless Discharge's left arm is still fused to his torso, he will instead perform ranged fire attacks to damage the player, which are very difficult to dodge on the narrow bridge path.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0b8cf157-4452-5771-b924-2bda9ed1f064",
+    "title": "Chaos (mechanic)",
+    "section": "pyromancy",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Chaos (mechanic) -  Dark Souls - mechanic - pyromancy \n pyromancy : Chaos pyromancies leave behind pools of lava on the point of impact, which deal an additional 33% of the initial damage as a second hit.\nGreat Chaos Fireball\nChaos Storm\nChaos Fire Whip\n\nChaos pyromancies do not scale with humanity. Pyromancies can only be improved by upgrading and ascending the Pyromancy Flame used to cast them.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2b9259a6-c9d3-57b3-b08c-e24afeebe948",
+    "title": "Chaos (mechanic)",
+    "section": "overview",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Chaos (mechanic) -  Dark Souls - mechanic - overview \n overview : The Chaos concept is associated with the lost city of Izalith, and applies to several things, from imbued and upgraded weapons, to specialized pyromancies, and a host of demon enemies.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "552f33ee-71ac-5355-be07-c8f8765baa6e",
+    "title": "Chaos (mechanic)",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Chaos (mechanic) -  Dark Souls - mechanic - general_information \n general_information : Chaos is an effect possessed by specific weapons, that can be attained by either upgrading a weapon down the Chaos Upgrade Path or using one that is innately imbued.\n\nAscension is achieved through Vamos, a Fire +5 Weapon, and the Chaos Flame Ember.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "66ab6c2e-7c02-54e0-b495-e0a21cab465b",
+    "title": "Chaos (mechanic)",
+    "section": "see_also",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Chaos (mechanic) -  Dark Souls - mechanic - see_also \n see_also : Chaos (upgrade path)",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c6322925-2c77-5d99-88e8-58c144afbe67",
+    "title": "Chaos (mechanic)",
+    "section": "weapons",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Chaos (mechanic) -  Dark Souls - mechanic - weapons \n weapons : The following is a list of weapons that are innately imbued with the Chaos mechanic.\nChaos Blade\nQuelaag's Furysword\nAbyss Greatsword\n\nThe following is a list of weapons that were created by chaos demons but do not have the Chaos mechanic.\nDemon's Catalyst\nDemon's Great Hammer\nDemon's Greataxe\nDemon's Spear",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d488d48a-db7a-5f6e-b73b-dd32b0725a69",
+    "title": "Chaos (mechanic)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Chaos (mechanic) -  Dark Souls - mechanic - lead \n lead : **Chaos** is a gameplay mechanic in *Dark Souls*.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dc7cdd7b-4f1c-505e-b264-11511984948a",
+    "title": "Chaos (mechanic)",
+    "section": "effects",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Chaos (mechanic) -  Dark Souls - mechanic - effects \n effects : Chaos weapons inherit the nature of the Chaos Flame. The Chaos aspect adds Fire Damage to a weapon, but removes all stat scaling bonuses. Instead, Chaos weapons scale with humanity (up to 10).",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3bd986c8-4b3b-53a1-9212-c8403c557eae",
+    "title": "Chaos Witch Quelaag",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Chaos Witch Quelaag -  Dark Souls - boss - strategy \n strategy : A relatively easy way to beat this boss is to be human and summon Maneater Mildred, whose summon sign is right outside the Fog Door. Let Mildred distract Quelaag and stay away from her lava attack, as this is certain death. When away from her, pick off her health with ranged attacks, while Mildred tanks. This way Quelaag should be dead within a short period of time.\n\nAnother easy way to kill her is to get any halberd with a vertical light attack, such as the Great Scythe or Gargoyle's Halberd, and then repeatedly hitting Quelaag's human part. When aimed properly, she will stagger every time the attack connects, interrupting whatever she's doing. This can be repeated to prevent her from attacking at all.\n\nThere is a spot between the stairs on the far side of the arena and the wall where Quelaag is unable to reach the player, at which point she can safely be killed from a distance using ranged attacks.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "44741281-9af5-518b-aad1-ba112e2e14cd",
+    "title": "Chaos Witch Quelaag",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Chaos Witch Quelaag -  Dark Souls - boss - trivia \n trivia : According to Miyazaki, Quelaag's name is pronounced \"kwee-leg.\"\nAccording to an interview with Miyazaki, Quelaag was inspired by the Cragspider, a unit from the fantasy board game *Dragon Pass*. Dragon Pass received a Japanese release by Hobby Japan.\n**Another possible inspiration is [https://forgottenrealms.wikia.com/wiki/Lolth Lolth the Spider-Queen], a half-spider demon goddess in *Dungeons & Dragons* canon. She is first encountered in the 1978 adventure module *Vault of the Drow*. Like Quelaag, Lolth rules over a subterranean domain.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b3120898-a15e-5070-83b4-356d52a57de2",
+    "title": "Chaos Witch Quelaag",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Chaos Witch Quelaag -  Dark Souls - boss - location \n location : Found in Quelaag's Domain in between Blighttown and Demon Ruins.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f4869d9d-22af-5bcb-83d0-107c4e2bcc70",
+    "title": "Chaos Witch Quelaag",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Chaos Witch Quelaag -  Dark Souls - boss - notes \n notes : Hitting her human body is a critical hit (Double Damage ignoring defense) that will stun her instantly.\nThe Black Knight weapons will do extra damage against Quelaag.\nIt is possible to summon Maneater Mildred for this battle provided she was defeated in Blighttown. Mildred has a large amount of health and can help distract the boss whilst the player attacks from a distance or heals.\nRunning on the right-hand side of the swamp to Quelaag's domain will let the player ignore all enemies with ease, which can speed up the process of retrying the bossfight.\nVery rarely, Quelaag will actually jump at the player from a considerable distance. If this connects, it will knock the player down regardless of their poise, and inflict massive damage.\n**Further, she can follow up with a lava attack, resulting in an almost guaranteed death to an already injured player.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "016d52fa-af55-52d0-bf7c-71e67f2bafac",
+    "title": "Chosen Undead",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - trivia \n trivia : In the trailers and concept art for *Dark Souls*, the Chosen Undead uses the same weapons and armor as Oscar, Knight of Astora.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "09f6afd2-ac69-5585-aebc-478ddac2e910",
+    "title": "Chosen Undead",
+    "section": "the_lord_souls",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "In The Duke's Archives the Chosen Undead confronts Seath the Scaleless, an albino dragon who betrayed the Ancient Dragons and won Lord Gwyn´s trust. During their first encounter, the Chosen Undead is unable to cause any harm to Seath and is captured. Seath imprisons the Chosen Undead inside his prison tower where the player cannot warp out from. Despite the inconveniences, the Chosen Undead eventually escapes.\n\nLater on, the Chosen Undead learns from Big Hat Logan that Seath is immortal due to an ancient artifact known as the Primordial Crystal, an old relic that Seath stole from the Ancient Dragons. The Chosen Undead then departs to the Crystal Cave, where the artifact lies, and shatters it. This annuls Seath's immortality, allowing the Chosen Undead to slay him.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0a3ed6bf-a349-511d-9a5b-019f3217ca63",
+    "title": "Chosen Undead",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - lore \n lore : The title of \"Chosen Undead\" is a reference to a prophecy concerning the end of the Age of Fire. It states that at the very end of the Age of Fire, an undead champion will appear and undertake the pilgrimage to ring the Bells of Awakening in \"the Land of Ancient Lords,\" Lordran.\n\nThe Chosen Undead is a human, and thus, a descendant of the Furtive Pygmy, one of the original Lords who claimed the Dark Soul.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0f1b9ddd-3cf7-5783-9c2b-348c5d39a100",
+    "title": "Chosen Undead",
+    "section": "alternate_paths",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - alternate_paths \n alternate_paths : The player is given the choice to put the Lordvessel on the Firelink Altar and proceed along Frampt's designs. In this instance, Frampt prompts that the Chosen Undead is the hero destined to succeed Lord Gwyn and extend the Age of Fire, continuing the curse of the undead. The player is also given the choice to place the Lordvessel for another ancient serpent named Darkstalker Kaathe, an agent of the Darkwraiths. Following this path will bring about the eradication of the old gods, and usher in the Age of Dark.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "29e9ac90-92c5-55de-b5a8-a6e984380249",
+    "title": "Chosen Undead",
+    "section": "artorias_of_the_abyss",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - artorias_of_the_abyss \n artorias_of_the_abyss : In the *Artorias of the Abyss* DLC the Chosen Undead travels back in time to the ancient realm of Oolacile, where they discover the truth about the death of the Knight Artorias and the fall of Oolacile. The quest presented in this DLC is completely optional and therefore, it is not required to complete the game.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2fa3e5d5-a586-55c5-b6c5-20cc2d02b682",
+    "title": "Chosen Undead",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - lead \n lead : The **Chosen Undead** is the player character and the protagonist of *Dark Souls*.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "38044ee0-d2aa-578d-ab67-ceea2c59f1d1",
+    "title": "Chosen Undead",
+    "section": "epilogue",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - epilogue \n epilogue : After offering the necessary Lord Souls, the doors to the Kiln of the First Flame are opened to the Chosen Undead. Gwyn, now reduced to a Lord of Cinder, breathes his last breath in the final confrontation with the Chosen Undead. It is here that the Chosen Undead may make their decision of either linking the flame or walking away from it. Depending on which course of action is taken, one of the two possible endings will be unlocked. Whether the player has aligned themselves with Kaathe or Frampt will not affect the ending of the game.\n\n***Link the Fire:** This ending is unlocked if the player rekindles the First Flame. The Chosen Undead offers themselves as kindling to the fire. Sacrificing all of their souls, the Chosen Undead is consumed by the flames and the Age of Fire is extended, as life is breathed into the First Flame once more.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "387b1207-25e4-5b1a-8349-54108f24a37c",
+    "title": "Chosen Undead",
+    "section": "artorias_of_the_abyss",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "After being dragged back in time, the Chosen Undead wakes up inside a cave beneath some trees. Outside, they are confronted by the Sanctuary Guardian. After slaying the beast, the Chosen Undead finds some sort of garden temple where they encounter a giant, talking mushroom named Elizabeth, who informs the player that the realm of Oolacile is being consumed by the darkness of the Abyss, She also tells the player that Princess Dusk has been kidnapped by a creature from the abyss and that Knight Artorias has ventured unto Oolacile to put an end to the spread. However, she assures the player that Artorias will be overwhelmed by the darkness.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "53d7007e-1cbd-55c2-a293-93b6ab99bb9d",
+    "title": "Chosen Undead",
+    "section": "the_lordvessel",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Once in Anor Londo, the player makes their way into the Anor Londo cathedral, where they face Dragonslayer Ornstein, of the Four Knights of Gwyn, and Executioner Smough. The Chosen Undead triumphs over them and gains access into the chamber of Gwynevere, where they are greeted by the Princess and awarded the Lordvessel. When Frampt sees that the player had completed their quest, he declares the prophecy set in motion and that the character is indeed the incarnation of the Chosen Undead.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "735ac6e0-b150-5cc2-a8f6-c75d5c6886d4",
+    "title": "Chosen Undead",
+    "section": "the_lord_souls",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - the_lord_souls \n the_lord_souls : To gain access to Gwyn, Lord of Cinder, the Chosen Undead must satiate the Lordvessel. There are several beings who possess souls powerful enough to do so: Gravelord Nito, the Witch of Izalith, Seath the Scaleless and the Four Kings of New Londo.\n\nIn order to defeat the Four Kings, the Chosen Undead needs to acquire the Covenant of Artorias, a ring that is kept by the Great Grey Wolf Sif. The ring allows one to traverse the dark void called the Abyss. Upon arriving in the ruins of New Londo, the Chosen Undead, with the help of Ingward, drains the flooded city, earning passage to the Darkwraiths and their masters. If the player has not yet placed the Lordvessel before defeating the Four Kings, Darkstalker Kaathe will appear in the abyss.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "74fafac1-a866-5fa5-8e35-8719e27db99b",
+    "title": "Chosen Undead",
+    "section": "prologue",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - prologue \n prologue : After becoming an undead the player character was imprisoned in the Northern Undead Asylum. They are rescued by Oscar of Astora, who drops a key into the player's cell so that they may be freed. After escaping from the Asylum Demon, they encounter a fatally wounded Oscar, who tells the player about a prophecy, stating that an undead shall partake in pilgrimage to ring the Bells of Awakening.\n\nOscar gives the player an Estus Flask and dies in peace, trusting the Chosen Undead to take his place. After defeating the Asylum Demon, the Chosen Undead escapes the asylum and is flown to Lordran by a Giant Crow.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "85ddf268-4a37-500d-9321-26fbb80c080a",
+    "title": "Chosen Undead",
+    "section": "the_bells_of_awakening",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - the_bells_of_awakening \n the_bells_of_awakening : Upon arriving in Lordran, the Giant Crow drops the Chosen Undead in Firelink Shrine, which acts as a hub for the player for the rest of the story. After hearing the location of the Bells of Awakening from the Crestfallen Warrior, the Chosen Undead sets out on their journey. Various characters can be encountered throughout Lordran, such as Solaire of Astora, a charismatic warrior seeking \"his own sun\"; the treacherous knight Lautrec of Carim; and Siegmeyer of Catarina, an absent-minded knight who frequently finds himself in danger.\n\nOn a rooftop in the Undead Parish, the player slays the Bell Gargoyles and manages to ring one of the bells. Later on, the player makes their way deep into the infested swamps of Blighttown. There, the player defeats the Chaos Witch Quelaag and rings the other bell. After ringing both bells, the gate to Sen's Fortress is opened.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8874c823-8033-525a-aae4-2e737c7b26c8",
+    "title": "Chosen Undead",
+    "section": "artorias_of_the_abyss",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "During their quest in Oolacile the Chosen Undead also meets Marvelous Chester, a somewhat sinister merchant who, like the player, was dragged into the past. He reveals to the Chosen Undead that the spread of the dark was caused when the inhabitants of Oolacile opened the grave of the primeval man due to the influence of a \"toothy serpent\". The Chosen Undead then treads through Oolacile Township in search of the dark source.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8c927b56-d787-53e2-af13-e11e36a62111",
+    "title": "Chosen Undead",
+    "section": "appearance",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - appearance \n appearance : In the trailers, artwork and promotional art for *Dark Souls*, Oscar of Astora is depicted wearing the Elite Knight Set as well as using the Astora's Straight Sword and the Broadsword along with the Crest Shield as their main weapons. This would eventually come to be the Chosen Undead's canon appearance.\n\nHowever, in the game, the Chosen Undead's appearance and attributes are determined by the player, including their face, sex, origin, starting class, and equipment.\n\nThey are portrayed as an archetypal \"silent character\" who doesn't have any sort of spoken dialogue during the game (aside from making some grunts or cries whenever they are hurt or killed). This trait was made on purpose by the developers so that the player could feel more identified with the character.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "add6aa5b-3446-5116-b9b6-292bf81cfc02",
+    "title": "Chosen Undead",
+    "section": "epilogue",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "***Dark Lord:** This ending is unlocked if the player leaves the arena after killing Lord Gwyn. Upon leaving, the Chosen Undead is greeted by the Primordial Serpents, who bow down before their Dark Lord. Rejecting the Age of Fire, the Chosen Undead instead ushers in the Age of Dark, and becomes a monarch of mankind.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bcee89ac-bc3f-5700-abc9-073a875af5d9",
+    "title": "Chosen Undead",
+    "section": "the_lord_souls",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "The Chosen Undead also travels to the Catacombs, where they defeat Pinwheel and acquire the Rite of Kindling. The Chosen Undead then descends into the Tomb of the Giants, where the scavenger, Trusty Patches tricks the player and kicks them off a cliff. The Chosen Undead survives and rescues Reah of Thorolund, a maiden who ventured into Nito's domain in search of the Rite of Kindling. Finally, the Chosen Undead advances toward the deepest part of the area: Gravelord Nito's tomb. There, they finish off the conductor of death.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bf638d4f-71e7-5dde-860e-fef95367a496",
+    "title": "Chosen Undead",
+    "section": "the_lordvessel",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - the_lordvessel \n the_lordvessel : After passing the trials to ring the two bells, Kingseeker Frampt, a primordial serpent, appears to task the character with another quest before they are deemed worthy as Chosen. The player must go into the city of Anor Londo and retrieve the Lordvessel from Gwynevere, Lord Gwyn's daughter. In order to complete the quest the player needs to traverse Sen's Fortress, an old proving ground built by the gods. After passing through the fortress and its many dangerous traps, the player battles the Iron Golem, and with its defeat gains the entrance into the forsaken city.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f2dffc91-8284-5f08-9d79-c7dd54d31a55",
+    "title": "Chosen Undead",
+    "section": "artorias_of_the_abyss",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "The Chosen Undead then heads towards Oolacile Township in search of Artorias and Dusk. On their way to Oolacile, the player encounters Black Dragon Kalameet, an optional boss that can be fought later in the DLC. Elizabeth's words are proven to be true when, upon entering the Coliseum, the player is attacked by a corrupted Artorias. The Chosen Undead has no other option than finishing him off as he is unable to come back to his senses. After killing Artorias, the Chosen Undead can either give his soul to Lord's Blade Ciaran so that she can complete a proper burial or keep it for their own uses.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fc45125f-ad7f-50c9-a9bd-c7a00d7499f1",
+    "title": "Chosen Undead",
+    "section": "artorias_of_the_abyss",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Finally, the Chosen Undead arrives at the Chasm of the Abyss where an illusion of Alvina guides the player to an illusory wall. Inside, the Chosen Undead discovers an injured Sif, protected by a magic barrier created by Artorias, in order to prevent Sif from being engulfed. Shortly after rescuing Sif the player faces Manus, Father of the Abyss, who is responsible for the spread of the dark. Manus is defeated, and Princess Dusk is saved. Upon returning to Oolacile Sanctuary, they are greeted by Elizabeth, who tells the Chosen Undead that she will let everyone know that Artorias was the one who defeated Manus, so that his honor may prevail. However, she assures them that their great deed will not be forgotten.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3a9f463d-ad47-5115-8c3a-897e9f76bd55",
+    "title": "Izalith Catalyst",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Izalith Catalyst -  Dark Souls - weapon - characteristics \n characteristics : The Izalith Catalyst is nearly identical to the Sorcerer's Catalyst in terms of functionality, with the only differences being that it has a slightly higher Intelligence requirement of 14 instead of 10, as well as a durability of 300, rather than 90.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4ad84343-c161-5217-bb69-6a0b8e7ab940",
+    "title": "Izalith Catalyst",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Izalith Catalyst -  Dark Souls - weapon - availability \n availability : Dropped by the Daughter of Chaos found in late Lost Izalith, close to the Fog Door leading to the Bed of Chaos.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e2b34274-562a-5060-8957-414fbab3018f",
+    "title": "Izalith Catalyst",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Izalith Catalyst -  Dark Souls - weapon - trivia \n trivia : The original Japanese description for the Izalith Catalyst is \"呪術はまだ生まれておらず 彼女たちの杖も魔術の触媒であったが その炎の魔術は完全に失われてしまった\".\nA more accurate translation of this description would be \"Pyromancy was yet to be born, so their staves were catalysts for sorceries, but these flame sorceries have been completely lost\".",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fa4ba043-9fa6-5a59-b9a4-2bcbb5a2816d",
+    "title": "Izalith Catalyst",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Izalith Catalyst -  Dark Souls - weapon - lead \n lead : The **Izalith Catalyst** is a catalyst in *Dark Souls*.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "40cc3953-6953-536b-b0b1-6be5284ed04d",
+    "title": "Lore",
+    "section": "the_war_of_fire",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Lore -  Dark Souls - storyline - the_war_of_fire \n the_war_of_fire : With their new found power the Lords challenged the dominion of the Everlasting Dragons over the World. The Lords allied with one of the dragons, Seath the Scaleless, who sought the immortal scales of the dragons and thus betrayed his own kind. A very long and destructive war was begun by the Lords and their amassed armies. Gwyn used his powerful bolts to peel their stone scales, while the Witch of Izalith and her Daughters of Chaos wove great firestorms against them and finally the Gravelord Nito unleashed a miasma of death upon the dragons. The war was won by the Lords and the dragons were defeated. A golden Age of Fire begun as the World rebuilt under the new rule of the now as deities perceived Lords.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "625509d5-5e52-5375-828f-25842cbd26bf",
+    "title": "Lore",
+    "section": "the_age_of_fire",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Soon after, the deities began leaving Lordran. Gwyndolin was the only one of Gwyn's children to stay behind...\n\nSeath, who became obsessed with his research and experiments, amassed countless tomes and was eventually driven mad - at least, how normal people see it - by his research, becoming the founder of sorcery.\n\nAt least a thousand years pass and the events of \"Dark Souls\" begin to unfold...",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "79bb76a6-eea3-5368-a76b-6f54e8a0686d",
+    "title": "Lore",
+    "section": "the_first_flame",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Lore -  Dark Souls - storyline - the_first_flame \n the_first_flame : The advent of fire occurred, and with it came heat and cold, life and death, and light and dark. The First Flame was born, source of all fire. However, from the dark came humanoid creatures - Hollows. These creatures found the Lord Souls near the flames and took on the powers they gave. They were:\nGravelord Nito, The First of the Dead, who offered much of his own soul to death, granting him the ability to administer the death of all life.\nThe Witch of Izalith, who became the leader of the flame sorcerers, later the so-called \"Daughters of Chaos\".\nGwyn, Lord of Sunlight, who was to achieve great things in his life.\nA fourth unique Lord Soul called the \"Dark Soul\" was found by the Furtive Pygmy, who is the ancestor of the humans. They are supposed to bring about the Age of Dark, in which humanity rules the world. A distant descendant of him is the Chosen Undead.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "90baa696-1c8a-5ea9-81e8-34cd14da8f50",
+    "title": "Lore",
+    "section": "external_links",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Lore -  Dark Souls - storyline - external_links \n external_links : [http://soulslore.wikidot.com Souls Lore]",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  }
+]

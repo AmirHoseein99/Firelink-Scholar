@@ -1,4 +1,4 @@
-"""Score retrieval functions from src/retriever/querying.py against qrels v1.
+"""Score retrieval functions from src/retriever/querying.py against v3 qrels.
 
 Usage:
     # Baseline: the production function at its current k
@@ -10,14 +10,19 @@ Usage:
 
     # Compare saved runs
     python -m eval.score score \
-        --run eval/v1/runs/contextfromvectors_k5.run.json \
-        --run eval/v1/runs/contextfromvectors_hybrid_k10.run.json
+        --run eval/v3/runs/contextfromvectors_k5.run.json \
+        --run eval/v3/runs/contextfromvectors_hybrid_k10.run.json
 
 Retriever contract: any callable ``(query: str, k: int) -> list`` where each
 item is a Document, a (Document, score) pair, or a plain chunk-content
 string. Documents carry the qrels id in ``metadata["document_id"]``; bare
 strings are resolved via a content->id map (ambiguous content = flagged,
 counted, and scored 0). Requires the LLM proxy on localhost:3001.
+
+Unjudged tripwire: retrieved ids missing from the qrels are counted per
+question (``n_unjudged`` in the run payload + printed). They still score as
+grade 0, but a nonzero count means the run found chunks the judgment cycle
+has never seen — extend the pools and delta-grade before trusting a drop.
 
 Deliberately does NOT import src.retriever.indexing (it re-runs indexing at
 import time) or generation.py (input() at import time).
@@ -40,9 +45,9 @@ sys.path.insert(0, str(REPO_ROOT))
 
 from langchain_core.documents import Document
 
-QRELS_PATH = REPO_ROOT / "eval" / "v1" / "qrels.final.json"
+QRELS_PATH = REPO_ROOT / "eval" / "v3" / "judgments.json"
 QUESTIONS_PATH = REPO_ROOT / "eval" / "questions.json"
-RUNS_DIR = REPO_ROOT / "eval" / "v1" / "runs"
+RUNS_DIR = REPO_ROOT / "eval" / "v3" / "runs"
 
 KS = (5, 10, 20)  # score cutoffs; clipped to the run's own k
 
@@ -271,6 +276,21 @@ def score_run(run: dict, qrels: dict, ks: list[int], min_grade: int) -> dict:
 
 
 # --------------------------------------------------------------------------- #
+# Unjudged tripwire
+# --------------------------------------------------------------------------- #
+
+def unjudged_counts(run: dict, qrels: dict) -> dict[str, int]:
+    """Per question: retrieved ids missing from the qrels judgments."""
+    return {
+        qid: sum(
+            1 for d in ids
+            if d not in (qrels.get(qid) or {}).get("judgments", {})
+        )
+        for qid, ids in run.items()
+    }
+
+
+# --------------------------------------------------------------------------- #
 # Reporting
 # --------------------------------------------------------------------------- #
 
@@ -313,6 +333,14 @@ def _clip_ks(k: int) -> list[int]:
     return [x for x in dict.fromkeys([*KS, k]) if x <= k]
 
 
+def _qrels_ref(path: Path) -> str:
+    """Repo-relative qrels path for run-file provenance (absolute input ok)."""
+    try:
+        return str(path.resolve().relative_to(REPO_ROOT))
+    except ValueError:
+        return str(path)
+
+
 def cmd_run(args: argparse.Namespace) -> None:
     questions = json.loads(QUESTIONS_PATH.read_text(encoding="utf-8"))
     qrels = json.loads(args.qrels.read_text(encoding="utf-8"))
@@ -337,6 +365,15 @@ def cmd_run(args: argparse.Namespace) -> None:
     if diag["n_unresolved"]:
         print(f"\n  unresolved retrievals scored as grade 0: {diag['n_unresolved']}")
 
+    unjudged = unjudged_counts(run, qrels)
+    n_unjudged = sum(unjudged.values())
+    if n_unjudged:
+        print(f"\n  UNJUDGED TRIPWIRE: {n_unjudged} retrieved id(s) missing "
+              f"from the qrels (scored as 0):")
+        for qid, n in sorted(unjudged.items()):
+            if n:
+                print(f"    {qid}: {n}")
+
     out = args.out or RUNS_DIR / f"{args.fn}_k{args.k}.run.json"
     out.parent.mkdir(parents=True, exist_ok=True)
     payload = {
@@ -344,11 +381,13 @@ def cmd_run(args: argparse.Namespace) -> None:
             "fn": args.fn,
             "k": args.k,
             "min_grade": args.min_grade,
-            "qrels": str(args.qrels.relative_to(REPO_ROOT)),
+            "qrels": _qrels_ref(args.qrels),
             "created_at": datetime.now(UTC).isoformat(timespec="seconds"),
         },
         "diagnostics": diag,
         "run": run,
+        "n_unjudged": unjudged,
+        "n_unjudged_total": n_unjudged,
         "metrics": metrics,
     }
     tmp = out.with_suffix(".json.tmp")

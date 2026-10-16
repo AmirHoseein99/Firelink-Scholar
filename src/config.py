@@ -26,5 +26,8 @@ class Settings(BaseSettings):
     OPENROUTER_BASE_URL: str= 'https://openrouter.ai/api/v1'
     OPENROUTER_MODEL: str = ''
     OPENROUTER_API_KEY: str =''
+    NEURALWATT_BASE_URL: str = "https://api.neuralwatt.com/v1"
+    NEURALWATT_MODEL: str = "glm-5.3-flash"
+    NEURALWATT_API_KEY: str = ""
 
 settings = Settings()

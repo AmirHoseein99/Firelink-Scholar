@@ -1,0 +1,2488 @@
+[
+  {
+    "document_id": "020ab822-6951-5e72-be02-32cb8788e1fd",
+    "title": "Bone Crown",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Bone Crown -  Dark Souls II - armor - description \n description : Skeleton Lord Crown. High dark defense.\n\nThe Old Iron King led his best men on Undead hunts, but their memories were purged in rebirth.\n\nスケルトンの王の冠\n高い闇防御力を持つ\n\n鉄の古王によって選び出された\n不死を狩る者たちを率いたが\nもはやその記憶は彼方へと去っている\n\nSkeleton King's Crown\nHighly resistant to darkness\n\nSelected by the Old Iron King.\nHe led the hunters of the immortals.\nBut his memories are now long gone.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "05439860-6cb8-5440-ae24-c8cd831efa48",
+    "title": "Shrine of Winter",
+    "section": "overview",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Crown of the Ivory King* DLC can be accessed from this area by interacting with the glowing statue in the middle of the shrine. This will transport the player to Frozen Eleum Loyce.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5335052161977398,
+    "bm25_score": null
+  },
+  {
+    "document_id": "07b9d549-0e39-57d4-a915-4f6067e42670",
+    "title": "King's Crown",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "King's Crown -  Dark Souls II - armor - lead \n lead : The **King's Crown** is a crown in *Dark Souls II*. It is part of the King's Set.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5310184574109598,
+    "bm25_score": null
+  },
+  {
+    "document_id": "12fc1e6e-0da7-5cbc-8d3c-3de6565043d2",
+    "title": "Pontiff Knight Crown",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Pontiff Knight Crown -  Dark Souls III - armor - description \n description : Crown of the Pontiff's Knights, now harrowed spirits of Irithyll.\n\nThe golden crown signifies those who report directly to Sulyvahn. The knights were his watchful eyes, and when needed, his punitive blades.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5067235648804176,
+    "bm25_score": null
+  },
+  {
+    "document_id": "19f3fc24-2081-5120-9eee-e9d896940acc",
+    "title": "Focus Points",
+    "section": "items_that_affect_fp_usage",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Focus Points -  Dark Souls III - mechanic - items_that_affect_fp_usage \n items_that_affect_fp_usage : Farron Ring\nDusk Crown Ring",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5374689671705295,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1c35c3ac-18e7-5ec2-9e00-ee5c564a08dc",
+    "title": "Xanthous Crown (Dark Souls III)",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Xanthous Crown (Dark Souls III) -  Dark Souls III - armor - availability \n availability : Dropped by Yellowfinger Heysel after defeating her at either Crucifixion Woods or Farron Keep. She will only drop it once.\nA second crown can be obtained by killing the Man-grub that spawns in Rosaria's Bed Chamber after the first three Lords of Cinder (excluding Ludleth) have been killed.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5108246333949019,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1ec757bf-ad0c-5c67-9891-85ed7cfaad42",
+    "title": "New Game Plus (Dark Souls II)",
+    "section": "items_lost",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "New Game Plus (Dark Souls II) -  Dark Souls II - mechanic - items_lost \n items_lost : Most key items\nFragrant Branches of Yore\nKey to the Embedded\nKing's Ring\n\nIn the original release of *Dark Souls II*, the keys that grant access to *The Lost Crowns* downloadable content are not lost upon entering New Game Plus.\n\nIn the updated version they are lost, however. Vendrick's blessing is also removed.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6577535658954167,
+    "bm25_score": null
+  },
+  {
+    "document_id": "22604e4e-90f0-512b-a375-ffd5ccf0983e",
+    "title": "Golden Bracelets",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Golden Bracelets -  Dark Souls III - armor - description \n description : Bracelets of a nameless king who was ally to the ancient dragons.\n\nThese golden bracelets, together with the golden breastplate and crown, are said to closely resemble those of the First Lord.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5208343267516549,
+    "bm25_score": null
+  },
+  {
+    "document_id": "23229f54-352e-5b6f-83d8-019e4c13b835",
+    "title": "Crown of Dusk (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Crown of Dusk (Dark Souls III) -  Dark Souls III - armor - description \n description : Feathered crown bestowed upon the princess of Oolacile, land of ancient golden sorceries.\n\nThrough the guardian Elizabeth's blessing, this raises the power and effect of the wearer's magic, but damage suffered by magic attacks rises in tandem.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5643576931826841,
+    "bm25_score": null
+  },
+  {
+    "document_id": "25380414-bbfd-5583-8210-eb76d0b16a14",
+    "title": "Bearer of the Curse",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - lead \n lead : The **Bearer of the Curse** is the player character and the protagonist of *Dark Souls II* and its expansions, *The Lost Crowns*.\n\nThe Bearer of the Curse travels to Drangleic by a compulsion to find a way to break the curse of the undead and avoid Hollowing at any cost.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 33.08050602612279
+  },
+  {
+    "document_id": "29e9ac90-92c5-55de-b5a8-a6e984380249",
+    "title": "Chosen Undead",
+    "section": "artorias_of_the_abyss",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - artorias_of_the_abyss \n artorias_of_the_abyss : In the *Artorias of the Abyss* DLC the Chosen Undead travels back in time to the ancient realm of Oolacile, where they discover the truth about the death of the Knight Artorias and the fall of Oolacile. The quest presented in this DLC is completely optional and therefore, it is not required to complete the game.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.84095678535064
+  },
+  {
+    "document_id": "31010ea8-a4ee-5085-98a0-7ae567b2b526",
+    "title": "Crown of Dusk",
+    "section": "upgrades",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Crown of Dusk -  Dark Souls - armor - upgrades \n upgrades : Cannot be reinforced.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.517210992139077,
+    "bm25_score": null
+  },
+  {
+    "document_id": "32d848fb-1e9d-5137-8097-264254326cfb",
+    "title": "Lloyd's Shield Ring",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Lloyd's Shield Ring -  Dark Souls III - ring - see_also \n see_also : Lloyd's Sword Ring",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5067525924148564,
+    "bm25_score": null
+  },
+  {
+    "document_id": "37c2d39b-cf4b-570d-bf75-20743a477289",
+    "title": "Crown of the Ivory King",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Crown of the Ivory King -  Dark Souls II - mechanic - lead \n lead : **The Crown of the Ivory King** is the third episode of the *The Lost Crowns* downloadable content pack for *Dark Souls II*. It was released on September 30th, 2014 for Steam and Xbox Live and on October 1st, 2014 for the PSN.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6482327075720619,
+    "bm25_score": null
+  },
+  {
+    "document_id": "387578db-d7c5-57a6-b40b-c98acd59e4d1",
+    "title": "The Lost Crowns",
+    "section": "in_game_reward",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "The Lost Crowns -  Dark Souls II - mechanic - in_game_reward \n in_game_reward : Upon obtaining all three DLC-related crowns and Vendrick's crown, a special ability is granted by speaking to Vendrick in the Undead Crypt: the ability prevents the player character from hollowing upon death if any of the crowns was worn, much like the Ring of Life Protection. However, any souls held will be lost.\n\nIn addition, crowns obtained in previous playthroughs do not count towards getting the reward. This means all the crowns must be obtained in a single playthrough for the ability to be granted. The ability does not carry over to the next playthrough.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6813725219223898,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3984da75-9c4b-56d2-8e6c-ad9f53b827c0",
+    "title": "Human Effigy",
+    "section": "alternatives",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Giving Vendrick the King's Crown as well as the Crown of the Sunken King, Old Iron King and Ivory King in Vendrick's Memory lets the player ignore hollowing, and curse, when wearing any of the crowns.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5279770282197978,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3f9278b5-245f-5f97-be0c-2011b7aaca5b",
+    "title": "Dusk Crown Ring (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Dusk Crown Ring (Dark Souls III) -  Dark Souls III - ring - description \n description : Leaf-colored crown ring bestowed upon the princess of Oolacile, ancient land of golden sorceries.\n\nReduces spell FP consumption, but also lowers HP.\n\nOolacile is synonymous for its lost sorceries, of which the xanthous sorcerers are dedicated scholars. This crown ring is a rare artifact of great magic heritage.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5389643823028305,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3fb60ba3-adcc-5a8b-a41b-9b474f86577d",
+    "title": "The Lost Crowns",
+    "section": "crown_of_the_old_iron_king",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "The Lost Crowns -  Dark Souls II - mechanic - crown_of_the_old_iron_king \n crown_of_the_old_iron_king : Released: August 26, 2014. Accessed through Primal Bonfire room in the Iron Keep.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6199557742661383,
+    "bm25_score": null
+  },
+  {
+    "document_id": "44985456-c095-5d82-9d10-2ac11b852fc8",
+    "title": "Soul of a Brave Warrior",
+    "section": "locations",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Oolacile Township [AotA DLC]\n** Near the 1st Bloathead Sorceress inside a shaded room, guarded by her and 2 Bloatheads.\n** Hanged from the wooden walkway around the top level of the tower housing the Silver Pendant.\nLost Izalith\n** At the end of the branch-walkway coming from the normal entrance, whirled around the 3rd support of the Lost Izalith shortcut's bridge.\n** Washed on the shore of the lava lake's 1st tower.\n** In the poisonous pits of Izalith, guarded by 4 Chaos Eaters.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.014180238516285
+  },
+  {
+    "document_id": "458da181-b61b-51d8-94b5-c756436c3e9b",
+    "title": "King's Set",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "King's Set -  Dark Souls II - armor - characteristics \n characteristics : The crown will grant the player Intelligence +3 and Faith +3 when worn. Also, upon visiting the Memory of the King with all four crowns in the player's inventory and exhausting Vendrick's dialogue, having the crown equipped will prevent the player from going hollow when killed.\n\nOverall, his armor set boasts very well-rounded defenses and resistances, most notably its resistance to petrification, a very uncommon trait amongst medium armor sets. However, it offers unremarkable Poise for its weight.\n\nHis gauntlets are notably weaker than average.",
+    "sources": [
+      "human",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.78746072044643
+  },
+  {
+    "document_id": "48444fef-35a8-5d2a-a3ba-f522338b0bd2",
+    "title": "The Lost Crowns",
+    "section": "requirements",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "The Lost Crowns -  Dark Souls II - mechanic - requirements \n requirements : There are no requirements to access the DLC, other than having access to the Primal Bonfire or location where the warp shrine is located. Each warp shrine leads to a cavernous room containing a locked door.\n\nPlayers who own the DLC will receive a key item that will allow them to open the door. Players who don't own the DLC are still able to play through parts of the new content, but only as a summoned phantom.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6838502139055975,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4853aa26-185c-50b1-aca4-74e2ac8b7844",
+    "title": "Crown of the Dark Sun",
+    "section": "upgrades",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Crown of the Dark Sun -  Dark Souls - armor - upgrades \n upgrades : The Crown of the Dark Sun cannot be reinforced.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5191275267519226,
+    "bm25_score": null
+  },
+  {
+    "document_id": "497e1971-07c7-55d0-8283-7712876c2666",
+    "title": "Nashandra",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Any summoned characters or players who survived the fight between the Throne Watcher and Defender will stay with the host to defeat Nashandra; however, they will not receive two rewards (Token of Fidelity or Sunlight Medal).\nBy burning a Bonfire Ascetic on the King's Gate bonfire in Drangleic Castle, Nashandra can be respawned.\nWearing the Black Witch Veil, Hollow Skin, or any of the four crowns already infused with Vendrick's blessing will grant immunity to Curse; however, the player will still take continual damage whenever near the curse fountains.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.525904219227026
+  },
+  {
+    "document_id": "500d2fe8-7606-5257-99c4-cbfbc5929063",
+    "title": "The Lost Crowns",
+    "section": "promotion",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "The Lost Crowns -  Dark Souls II - mechanic - promotion \n promotion : Every week from June 5, 2014 until the release of the *Crown of the Sunken King* expansion, the contents of the treasure chest at the bottom of Cale the Cartographer's house in Majula were updated in the following schedule, at 2:00pm JST:\nJune 5 - June 11: Three Petrified Somethings\nJune 11 - June 18: Two pieces of Twinkling Titanite\nJune 18 - June 25: Five Cracked Red Eye Orbs\nJune 25 - July 1: Four Bonfire Ascetics\nJuly 1 - July 8: One Bleed Stone and one Poison Stone\nJuly 8 - July 15: Three Elizabeth Mushrooms and three Wilted Dusk Herbs\nJuly 15 - July 22: Five Smooth & Silky Stones\nJuly 22: A reskinned Murakumo with a black blade\n\nIf the chest had previously been opened, it would close itself once reset with the new items. However, the chest would not be reset for those who started the game in offline mode.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.574190323020218,
+    "bm25_score": null
+  },
+  {
+    "document_id": "520e1739-a30a-5027-b050-6d7eef1ecee9",
+    "title": "Wolnir's Crown",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Wolnir's Crown -  Dark Souls III - armor - description \n description : Crown of Wolnir, the Carthus conqueror.\n\nOnce upon a time, such things were bequeathed judiciously to each of the rightful lords, until Wolnir brought them to their knees, and ground their crowns to dust. Then the crowns became one, and Wolnir, the one High Lord.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5141837339153545,
+    "bm25_score": null
+  },
+  {
+    "document_id": "57f44311-2f59-5c06-970b-cb43ab851e4b",
+    "title": "Archdeacon White Crown",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Archdeacon White Crown -  Dark Souls III - armor - description \n description : White crown worn by an Archdeacon of the Cathedral of the Deep.\nPresented solely to delegates of the gods.\n\nOf the three Archdeacons of the Deep, one cast off his white crown and left the cathedral to stand by Aldrich.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "585cfe53-aebe-5430-97e1-56496ad06443",
+    "title": "High Lord Wolnir",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "The warriors of Carthus swore their lives to Wolnir, growing ever ruthless and bloody in his name. Under Wolnir's rule, the kingdom of Carthus grew aggressive and expansionist, to the point where it was likened to uncontrollable fire, its beacons being used as war signals. His conquests were spearheaded by his warriors with superior combat skills and combat pyromancies. Wolnir soon subjugated the kingdoms around Carthus, melding the various \"crowns\" that ruled different lands into a single one, thus ascending to \"High Lord\". At some point Wolnir stripped three armlets and a holy sword from the corpses of some clerics, demonstrating how religion and gods counted for nothing in his kingdom.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.744396615501593
+  },
+  {
+    "document_id": "5f3d0e84-e846-564f-9d71-5f78c41c742f",
+    "title": "Bone Crown",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Bone Crown -  Dark Souls II - armor - lead \n lead : The **Bone Crown** is a crown in *Dark Souls II*. It is part of the Bone King Set.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5155970944538194,
+    "bm25_score": null
+  },
+  {
+    "document_id": "64f2e3a2-a0dc-5adc-9a75-579507e653cb",
+    "title": "Memory of the King",
+    "section": "vendrick_s_blessing",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Memory of the King -  Dark Souls II - location - vendrick_s_blessing \n vendrick_s_blessing : If the player has obtained the King's Crown along with the rest of the ancient crowns (Crown of the Sunken King, Old Iron King and Ivory King) and bring them to Vendrick in this place, he will grant them his blessing, which infuses them all with a hidden ability that prevents the player from becoming hollow by any means while wearing any of them and also grants immunity against the Curse status ailment.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5073219820768088,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6ade13d3-496e-5b02-b66f-ef82148023fe",
+    "title": "Memory of the King",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Memory of the King -  Dark Souls II - location - notes \n notes : Each crown obtained unlocks Vendrick's next dialogue.\nIn order to receive Vendrick's Blessing, the player must actually have to bring all four crowns to him (just having them stored in the item box won't be enough).\nUpon attacking Vendrick, he will say *\"Foolish...\"* in a disgruntled tone and the ashen mist will fade, removing the player from the memory. The player may still re-enter the memory without any consequence.\nOnce Vendrick has given his blessing to the crowns, the Memory of the King cannot be entered again.\nIf the player attempts to run back through Velstadt's arena while in the memory, the ashen mist will fade and the player will be returned to the Undead Crypt.",
+    "sources": [
+      "human",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.623683841449854
+  },
+  {
+    "document_id": "6b019648-5365-5c36-becb-700826631cac",
+    "title": "New Game Plus",
+    "section": "items_lost",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "New Game Plus -  Dark Souls - mechanic - items_lost \n items_lost : The Orange Charred Ring.\nThe Covenant of Artorias.\nAll Keys and items that appear under Keys in-game, including Embers, the Rite of Kindling, Weapon Smithbox, Armor Smithbox, Repairbox, the Lordvessel and the Crest of Artorias.\n\nExceptions are the Master Key and the Bottomless Box, which are not lost.\n\nIf the player is human before entering New Game+, they lose their human status and will have to reverse hollowing at a bonfire.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.55115757460655,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6b440a02-2a3e-5b6f-a65c-ac71de06c3f1",
+    "title": "Bearer of the Curse",
+    "section": "the_three_crowns",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - the_three_crowns \n the_three_crowns : Should the Bearer of the Curse choose to do so, they may use the Ashen Mist Heart on Vendrick's belongings in the Undead Crypt. Doing so will allow the Bearer to speak directly to the king as he was before he hollowed. Bitter and resigned to defeat, the king will council the Bearer of the Curse, warning them of the futility in seeking fire, of the dark that lies within them, and of the children of Manus, Father of the Abyss. He will tell the Bearer to seek three crowns of power, belonging to fallen kings. He will also warn the Bearer of his wife, Nashandra, revealing that she too is a child of the Abyss.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 37.680978665097605
+  },
+  {
+    "document_id": "6eafe8d5-68c2-53be-800e-7783899cdcd2",
+    "title": "Weapons (Dark Souls III)",
+    "section": "catalysts",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Weapons (Dark Souls III) -  Dark Souls III - item - catalysts \n catalysts : Designates weapons from the *Ashes of Ariandel* expansion DLC.\n\n** Designates weapons from *The Ringed City* expansion DLC.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.711937684211406
+  },
+  {
+    "document_id": "70fd333e-15cd-5411-adc1-084b54c79639",
+    "title": "Lloyd's Sword Ring",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Lloyd's Sword Ring -  Dark Souls III - ring - see_also \n see_also : Lloyd's Shield Ring",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5109957699604769,
+    "bm25_score": null
+  },
+  {
+    "document_id": "72b51cf7-90c4-5a97-8c63-62f55c89478a",
+    "title": "Four Knights of Gwyn",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Four Knights of Gwyn -  Dark Souls - character - lead \n lead : The **Four Knights of Gwyn** were Lord Gwyn's most trusted warriors. Only one knight is encountered in the original console version of *Dark Souls*: Dragon Slayer Ornstein.\n\nThe other three knights, Artorias the Abysswalker, Lord's Blade Ciaran and Hawkeye Gough, are only mentioned; Artorias is deceased by the events of the game, and the fates of the other two are left unrevealed, although they are presumed deceased as well.\n\nIn the *Artorias of the Abyss* DLC, the player is dragged into the past, allowing them to meet the other three knights in Oolacile.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.146770961401135
+  },
+  {
+    "document_id": "73687376-881b-5d3f-ac61-142c7066299a",
+    "title": "Bone Crown",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Bone Crown -  Dark Souls II - armor - availability \n availability : Sold by Titchy Gren for 3,600 souls only to members of the Brotherhood of Blood and after defeating the Skeleton Lords.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "74d17513-8a54-52a9-82d2-481187a2802f",
+    "title": "Dark Souls II (Media)",
+    "section": "lost_crowns_trilogy",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark Souls II (Media) -  Dark Souls II - mechanic - lost_crowns_trilogy \n lost_crowns_trilogy : 2014",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.542253900065715,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7bf163f7-b1a3-5a44-a426-43d07a35c5cb",
+    "title": "Crown of the Old Iron King (helm)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Crown of the Old Iron King (helm) -  Dark Souls II - armor - lead \n lead : The **Crown of the Old Iron King** is a head armor piece in . It is one of the three Lost Crowns.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5728483942350395,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7f4b7f48-2bf2-5049-b28e-9d2e78c6bb1c",
+    "title": "The Lost Crowns",
+    "section": "crown_of_the_sunken_king",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "The Lost Crowns -  Dark Souls II - mechanic - crown_of_the_sunken_king \n crown_of_the_sunken_king : Released: July 22, 2014.\nAccessed through the Primal Bonfire room in the Black Gulch.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.61768115217373,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8015eb7b-5a77-577f-a3d6-1d9b69cd8b21",
+    "title": "The Lost Crowns",
+    "section": "crown_of_the_ivory_king",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "The Lost Crowns -  Dark Souls II - mechanic - crown_of_the_ivory_king \n crown_of_the_ivory_king : Released: September 30, 2014. Accessed through the Shrine of Winter.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6206649444566864,
+    "bm25_score": null
+  },
+  {
+    "document_id": "80e75fd6-d1fb-5115-8c4d-0e72a3f7c525",
+    "title": "Lion Clan Shield",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "shield",
+    "snippet": "Lion Clan Shield -  Dark Souls II - shield - description \n description : Shield used by the Lion Clan warriors. Made of wood, but reinforced with metal. Light yet sturdy.\n\nThe design on the shield appears to have some religious significance, but we will never know what sort of gods these warriors answer to.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.364300346579444
+  },
+  {
+    "document_id": "821daa78-a871-5c01-bad0-246dd7002390",
+    "title": "The Lost Bastille",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "The Lost Bastille can be accessed from the Forest of Fallen Giants via the bird's nest found past the Pursuer's boss chamber or via the ship accessible in No-man's Wharf.\n\nNote that a gate prevents access to a portion of the Lost Bastille if the player arrives from the Forest of Fallen Giants. There are two ways to get to the other side of the gate without going through No-man's Wharf. The first being by obtaining the Antiquated Key and opening the door found left of the well with a cage containing three Undead Citizens. The second way is by falling off the wall through the hidden door in the room right past the set of two gates while wearing the Silvercat Ring and having around 1,100 HP.\n\nThe Lost Bastille eventually leads to Sinners' Rise, terminating with the boss fight there.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.219281322385243
+  },
+  {
+    "document_id": "833c4c47-7523-5fbe-8f7b-e0a228d71681",
+    "title": "Vendrick",
+    "section": "plot",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Vendrick -  Dark Souls II - boss - plot \n plot : After an untold amount of time in confinement, the King of Drangleic remains a hollowed husk of his former self. The player may choose to spare the king, leaving him to wander eternally, or slay him and end his misery.\n\nUsing the Ashen Mist Heart, the Bearer of the Curse may also enter the Memory of the King, where they may interact with King Vendrick as he was before he went hollow. Bitter and grieving his failures, Vendrick tells the Bearer to seek the crowns of old kings of yore. Once they have brought him all the crowns, Vendrick will unlock their power, making the Bearer of the Curse immune to the hollowing effects of the curse. He advises the Bearer of the Curse to seek a third path beyond Light and Dark, echoing his brother.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.971717810940937
+  },
+  {
+    "document_id": "858adea4-5436-5df1-9a76-e9329b979d80",
+    "title": "Removed Content (Dark Souls III)",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Removed Content (Dark Souls III) -  Dark Souls III - mechanic - notes \n notes : The **Pendant** and **Silver Pendant** are already existing items in Dark Souls.\n***Holy Water Urn** and **Brightbug** are items from Dark Souls II.\nThe **Skull Chalice** is the same chalice that initiates Wolnir's boss fight.\nThe item **Purple Crystal** seems to be missing its knowledge image file used when inspecting an item or in loading screens, making the resolution of its icon low.\nThe glow in the **Active Purple Crystal** resembles the floating glow indicating that a Blade of the Darkmoon or Blue Sentinel is being summoned in a world.\n***Yorgh's Ring** is a ring in Dark Souls II.\nThe **Unused Magic** seems to depict Silver Knight Ledo.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5075268889138829,
+    "bm25_score": null
+  },
+  {
+    "document_id": "859cc7ff-e2a5-5d17-a9a8-628cf964a122",
+    "title": "Archdeacon White Crown",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Archdeacon White Crown -  Dark Souls III - armor - availability \n availability : Found in the Cathedral of the Deep, on Archdeacon Royce's corpse along with the rest of the set. The body will appear after defeating the Deacons of the Deep and resting at the bonfire.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "863615e3-268d-52ad-881e-f8cb5165bf7b",
+    "title": "Battle of Stoicism",
+    "section": "rules",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Battle of Stoicism -  Dark Souls - location - rules \n rules : There are a set of rules that are applied to all the three modes of the , listed below:\n\nNo healing items allowed.\nThe battle is timed (3 minutes); in the end, the winner dons a great crown.\nThe player with the most kills receives a great crown. With equal kills, all players receive tiny crowns (a draw).\nAllies receive credit for every fallen enemy; in Deathmatch, all players except the victim receive credit.\nWin streak resets to zero if the player returns to the gazebo.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.1937969717551
+  },
+  {
+    "document_id": "868d517b-7f93-5f19-8be8-6b064beb7f71",
+    "title": "Crown of the Great Lord",
+    "section": "upgrades",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Crown of the Great Lord -  Dark Souls - armor - upgrades \n upgrades : Cannot be reinforced.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5114960292511711,
+    "bm25_score": null
+  },
+  {
+    "document_id": "88a9597d-f4a8-5dbe-984d-ddafcd3f057c",
+    "title": "King's Crown",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "King's Crown -  Dark Souls II - armor - notes \n notes : It is not listed in the description or stats, but wearing the crown gives the player three extra points in Intelligence and Faith.\nAfter visiting the Memory of the King with all four crowns and exhausting Vendrick's dialogue, the crowns will prevent the player from going hollow by any means, including death and curse. A bloodstain will still appear upon death, however.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.522183190962772,
+    "bm25_score": null
+  },
+  {
+    "document_id": "89b5af06-8ed3-512a-86a3-20ae57ef6323",
+    "title": "Bearer of the Curse",
+    "section": "the_three_crowns",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Finally, the Bearer of the Curse travels to Frozen Eleum Loyce, once ruled by the Ivory King. Built to contain the Old Chaos, the city was abandoned and froze over when its king vanished into the chaos. Guided by the last child of the Abyss, Alsanna, Silent Oracle, the Bearer of the Curse seeks out the remaining knights of Eleum Loyce to gain their help in braving the Old Chaos. Finding the Burnt Ivory King there, the Bearer of the Curse defeats him and claims his crown.\n\nOnce the Bearer of the Curse has found all three crowns of old, along with Vendrick's own crown, the fallen king will unleash the hidden power of the crowns, making the Bearer of the Curse immune to the hollowing effects of the curse. Bidding the Bearer to seek strength, and asking them whether allowing the flames to fade is truly their only choice, the king sends the Bearer of the Curse on their way.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.85527719530397
+  },
+  {
+    "document_id": "8c277e09-b8f4-5b04-a650-a61851646e8b",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "dialogue",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "The Scholar alludes to the fates of the three kings, whether or not the player has played through *The Lost Crowns* DLCs. He also seems to speak of Vengarl of Forossa*—\"One man lost his own body, but lingered on, as a head.\"*—though he could equally be referring to himself, given his diminished form as little more than a head.",
+    "sources": [
+      "human",
+      "template",
+      "dense"
+    ],
+    "dense_score": 0.5342244414884518,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8e99705e-b6d8-5362-a282-049f14fc014c",
+    "title": "Curse (Dark Souls II)",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Curse (Dark Souls II) -  Dark Souls II - mechanic - notes \n notes : During the fight with Nashandra, she will cast four dark orbs that surround her and curse the player, while also draining their health; achieving curse immunity will not negate the health drain.\nIf the player gathers all three crowns from *The Lost Crowns* DLCs as well as the King's Crown, and returns to the Undead Crypt and uses the Ashen Mist Heart to speak to Vendrick, they are awarded Vendrick's Blessing, granting immunity to Curse, and won't hollow upon death as long as they are wearing the King's Crown, Crown of the Sunken King, Crown of the Old Iron King, or Crown of the Ivory King.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 34.17113852701562
+  },
+  {
+    "document_id": "91fa63cf-6012-5259-887c-5de08a908a2e",
+    "title": "Twin Humanities",
+    "section": "corpse_locations",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Twin Humanities -  Dark Souls - item - corpse_locations \n corpse_locations : Lost Izalith - On the edge, atop a broken structure near the bonfire surrounded by Bounding Demons.\nLower Undead Burg - Found in the area past the house where Griggs of Vinheim is found, guarded by many torch wielding Hollows.\nOolacile Township [AotA DLC] - From the floor where the 2nd Mimic is located, drop off carefully outside the building to the blue roof, turn right and follow the seemingly narrow section to its dead end.\nChasm of the Abyss [AotA DLC] - Hidden under the lower end of the segmented polygonal pillar-bridge.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.043613675254736
+  },
+  {
+    "document_id": "922dff14-43d7-5eeb-98dd-6cfb50e6c338",
+    "title": "Steelheart Ellie",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Steelheart Ellie -  Dark Souls II - character - lead \n lead : **Steelheart Ellie** is a white phantom appearing in all three of *The Lost Crowns* DLCs.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 38.20015931532949
+  },
+  {
+    "document_id": "98b303bd-ef6f-53e4-ace5-5c3799e2b967",
+    "title": "Majula",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "With the release of the *Crown of the Old Iron King* DLC the back of the Majula Monument now says \"Seek the land of an ancient king, past the Iron Keep, upon a sea of flame\", in regards to where one should go to find the location of the new DLC area.\nAt NG+10 the flames on the map become blue.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5128506781337535,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9a774c83-ccef-507e-b764-77faaa9897ca",
+    "title": "Black Witch Set",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Black Witch Set -  Dark Souls II - armor - characteristics \n characteristics : The Black Witch Robe boasts some of the best elemental defenses in game, unmatched in its Magic, Lightning and Dark resistance, with only its Fire defense falling short of the Hexer's Set and the Chaos Set by a mere 2 points. It also provides impressive physical defenses for its weight.\n\nThe hat, the mask and the veil all offer exceptional magic defense, high elemental defense, decent status resistances, and average physical defenses for their weight and classification. Each head piece possesses unique properties:\nThe hat allows for an extra attunement slot.\nThe mask provides a minor magic damage bonus (between 2.5-3%), but lowers maximum health by roughly 15%.\nThe veil provides practical immunity from Curse, while not preventing hollowing altogether. Only the blessed crowns from completing all three of the DLCs and acquiring the King's Crown can grant total curse and hollowing immunity.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.860460362881714
+  },
+  {
+    "document_id": "9cc47f29-211b-5ce4-8639-1cce9089dd4b",
+    "title": "The Lost Crowns",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "The Lost Crowns -  Dark Souls II - mechanic - lead \n lead : The Lost Crowns* is a trilogy of episodic DLCs for *Dark Souls II*, released for the PS3, Xbox 360, and PC. The episodes can be purchased separately for $9.99 each, or all three can be purchased through Steam, PSN, and Xbox Live for $24.99.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.7503275703847613,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9ea5af97-045f-5324-9ca0-958e332572ce",
+    "title": "Crown of the Ivory King (helm)",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Crown of the Ivory King (helm) -  Dark Souls II - armor - notes \n notes : Restores 2 HP every three seconds.\nIf all four crowns have been collected, and Vendrick's dialogue has been exhausted, wearing this crown will prevent the player from Hollowing upon death, though a Bloodstain containing their souls will still be left.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5080351878536831,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a6280c94-93f6-5698-82a4-58de47dc6030",
+    "title": "Crown of the Sunken King",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Crown of the Sunken King -  Dark Souls II - mechanic - lead \n lead : The **Crown of the Sunken King** is the first episode of the *The Lost Crowns* downloadable content pack for *Dark Souls II*. It was released on July 22nd, 2014.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6509258100566315,
+    "bm25_score": null
+  },
+  {
+    "document_id": "aa34910e-3874-5730-9997-487577cbfd97",
+    "title": "Crow Talons",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Crow Talons -  Dark Souls III - weapon - lead \n lead : The **Crow Talons** is a claw in *Dark Souls III: Ashes of Ariandel*.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5328678778799171,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bb7979da-bd82-58a8-a3cd-19a45cb83ab2",
+    "title": "Carthus of the Sands",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "At some point, the giant humanoid Wolnir rose to power in Carthus. The warriors of Carthus swore their lives to Wolnir, growing ever ruthless and bloody in his name. Under Wolnir's rule, the kingdom of Carthus grew aggressive and expansionist, to the point where it was likened to uncontrollable fire, its beacons being used as war signals. His conquests were spearheaded by his warriors with superior combat skills and combat pyromancies. Wolnir soon subjugated the kingdoms around Carthus, melding the various \"crowns\" that ruled different lands into a single one, thus ascending to \"High Lord\". Along the way, Wolnir stripped three armlets and a holy sword from the corpses of some clerics, demonstrating how religion and gods counted for nothing in his kingdom.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.4927911465769
+  },
+  {
+    "document_id": "bb9b2124-cf5b-5939-8a3b-109f6e798def",
+    "title": "Dusk Crown Ring (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Dusk Crown Ring (Dark Souls III) -  Dark Souls III - ring - lead \n lead : The **Dusk Crown Ring** is a ring in *Dark Souls III*.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5260005566729633,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bcac9eda-7595-52dc-90b7-c7bd621830fb",
+    "title": "Golden Crown",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Golden Crown -  Dark Souls III - armor - lead \n lead : The **Golden Crown** is a head armor piece in *Dark Souls III*. It is part of the Dragonscale Set.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5581514209064151,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c054be0a-f4ac-51a7-aa4e-3143b734b501",
+    "title": "Archdeacon White Crown",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Archdeacon White Crown -  Dark Souls III - armor - lead \n lead : The **Archdeacon White Crown** (大主教の白冠) is a head armor piece in *Dark Souls III*. It is part of the Archdeacon Set.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ca9ca470-4280-5f5e-a1b3-37c1184bf1d8",
+    "title": "Crown of the Old Iron King",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Crown of the Old Iron King -  Dark Souls II - mechanic - lead \n lead : **The Crown of the Old Iron King** is the second episode of *The Lost Crowns* downloadable content pack for *Dark Souls II*. It was released on August 26th, 2014.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.615994636731969,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d4fb8dbf-f27f-5a65-94c4-334f9f1be4ca",
+    "title": "Xanthous Overcoat (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Xanthous Overcoat (Dark Souls III) -  Dark Souls III - armor - description \n description : Yellowish overcoat covering a band of brass medallions.\n\nXanthous clothing is the mark of a researcher of lost sorceries, and the number of medallions denotes their success.\nA point of pride for the researchers, even if its significance is lost on others.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.88875831295635
+  },
+  {
+    "document_id": "d8083c66-abfb-52fd-9670-17f1cf073fbd",
+    "title": "Crown of Dusk",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Crown of Dusk -  Dark Souls - armor - description \n description : Special magic crown bestowed upon Dusk, Princess of Oolacile, upon her birth.\n\nIts wearer is blessed by all manner of magic. This raises the power and effect of the wearer's magic, but damage suffered by magic attack also rises.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.509121448656965,
+    "bm25_score": null
+  },
+  {
+    "document_id": "de82fd4b-4db7-5ff0-b040-947972eff770",
+    "title": "Bonfire (Dark Souls II)",
+    "section": "locations",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bonfire (Dark Souls II) -  Dark Souls II - mechanic - locations \n locations : A total of 77 Bonfires are spread across Drangleic. 19 of them are found within The Lost Crowns DLCs. Ascending a bonfire will respawn its respective boss.\nThings Betwixt\n**Fire Keepers' Dwelling\nMajula\n**The Far Fire\nForest of Fallen Giants\n**The Crestfallen's Retreat\n**Cardinal Tower - The Last Giant / The Pursuer\n**Soldier's Rest\n**The Place Unbeknownst - Giant Lord\nHeide's Tower of Flame\n**Heide's Ruin - Dragonrider\n**Tower of Flame\nCathedral of Blue\n**The Blue Cathedral - Old Dragonslayer\nNo-man's Wharf\n**Unseen Path to Heide - Flexile Sentry\nThe Lost Bastille\n**Exile Holding Cells\n**McDuff's Workshop - Ruin Sentinels\n**Servants' Quarters\n**Straid's Cell\n**The Tower Apart\nSinners' Rise\n**The Saltfort - The Lost Sinner\n**Primal Bonfire\nBelfry Luna\n**Upper Ramparts - Belfry Gargoyles\nHuntsman's Copse\n**Undead Refuge\n**Bridge Approach\n**Undead Lockaway - Skeleton Lords\nUndead Purgatory",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.923164031584243
+  },
+  {
+    "document_id": "df3274ba-3b0f-5e6f-96e0-21235a96a636",
+    "title": "New Game Plus (Dark Souls III)",
+    "section": "items_lost",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "New Game Plus (Dark Souls III) -  Dark Souls III - mechanic - items_lost \n items_lost : All key items, except for the Champion's Bones, are lost upon entering New Game+. As Dark Sigils are lost, the player's Hollowing stat will not increase until the sigils are obtained again, though the Hollowing level itself is unaffected by starting New Game+.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5340865085068003,
+    "bm25_score": null
+  },
+  {
+    "document_id": "df999db0-5f64-5a5b-a5b6-be6ac47e36ec",
+    "title": "Crown of Dusk (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Crown of Dusk (Dark Souls III) -  Dark Souls III - armor - lead \n lead : The **Crown of Dusk** is a head armor piece in *Dark Souls III*. It is part of the Antiquated Set.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5359763837663217,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e6b83ffe-c965-5432-b085-20c98a188dea",
+    "title": "Golden Crown",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Golden Crown -  Dark Souls III - armor - description \n description : Crown of a nameless king who was ally to the ancient dragons.\n\nThis golden crown, buried amidst long strands of bristling ash, is said to closely resemble that of the First Lord.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5855297963323792,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e9474d9a-9b56-5417-bc75-9d67ea2f54f6",
+    "title": "The Lost Crowns",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "The Lost Crowns -  Dark Souls II - mechanic - notes \n notes : The total hard drive space required for the game including the three DLC chapters is 14GB.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5993177814157614,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ecca180d-89af-5262-88fb-93f9d82f0340",
+    "title": "Crown of the Ivory King (helm)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Crown of the Ivory King (helm) -  Dark Souls II - armor - lead \n lead : The **Crown of the Ivory King** is a head armor piece in . It is one of the three Lost Crowns.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5691032296996035,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ee4f8e41-169d-5191-890f-546273fb0459",
+    "title": "Crown of the Sunken King (helm)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Crown of the Sunken King (helm) -  Dark Souls II - armor - lead \n lead : The **Crown of the Sunken King** is a head armor piece in . It is one of the three Lost Crowns.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.59722037892188,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ef173cf0-5e33-5514-a75b-59b4829458c4",
+    "title": "Crown of the Old Iron King (helm)",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Crown of the Old Iron King (helm) -  Dark Souls II - armor - notes \n notes : Every two minutes the crown is equipped, 20% of spell uses will be restored.\nIf all four crowns have been collected, and Vendrick's dialogue has been exhausted, wearing this crown will prevent the player from Hollowing upon death, though a Bloodstain containing their souls will still be left.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5388954576530922,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f09effd3-fd15-5c9f-9a7c-6e7ea87dded0",
+    "title": "Lost Sinner's Sword",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Lost Sinner's Sword -  Dark Souls II - weapon - description \n description : An ultra greatsword forged from the soul of the Lost Sinner. Its blade saps the life of its wielder.\n\nThe true nature of this sword is unknown, even to the Lost Sinner herself. Those who choose this sword will share the burden of the Lost Sinner's misdeeds.\n\nEffect: attacks damage wielder.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.853014400131055
+  },
+  {
+    "document_id": "f1a6fc77-8a22-539f-9b6d-17a434f6c44e",
+    "title": "Dragonscale Set",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Dragonscale Set -  Dark Souls III - armor - description \n description : Armor of a nameless king who was ally to the ancient dragons.\n\nThe golden crown, buried amidst long strands of bristling ash, is said to closely resemble that of the First Lord.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5246424901943203,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f43886b5-bf1e-55b5-91d9-a72db7da67a7",
+    "title": "Dark Souls II",
+    "section": "the_lost_crowns",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark Souls II -  Dark Souls II - mechanic - the_lost_crowns \n the_lost_crowns : The Lost Crowns* is a three-part DLC for *Dark Souls II* announced on June 4th, 2014. Released episodically for the PS3, Xbox 360 and PC, the packs can be purchased separately for $9.99 each, or all three can be purchased through Steam, PSN and Xbox Live for $24.99.\nCrown of the Sunken King - July 22, 2014\nCrown of the Old Iron King - August 26, 2014\nCrown of the Ivory King - September 30, 2014",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.7181171875689347,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f49e26f2-1648-5b2d-93dd-e6814e5bbb80",
+    "title": "Catarina Set (Dark Souls II)",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Catarina Set (Dark Souls II) -  Dark Souls II - armor - availability \n availability : Pieces of this set are rare drops from the Dark Spirit Catarina Knight at Bonfire Intensity 2+ in the Forest of Fallen Giants.\nPieces of the set are scattered around The Lost Crowns DLCs:\nThe helmet is found in a chest within the Dragon's Sanctum, near the first two Sanctum Knights.\nThe leggings and gauntlets are found within a hidden room in Brume Tower, past the third bonfire. To reach it, a cracked wall must be blown up by a Cask Runner.\nThe armor is dropped by a Mimic in Frozen Eleum Loyce.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.005233860356967
+  },
+  {
+    "document_id": "f549938f-61fd-500d-a229-47d7fed5f60f",
+    "title": "Artorias of the Abyss",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Artorias of the Abyss -  Dark Souls - mechanic - lore \n lore : Artorias of the Abyss* takes place approximately 200 to 300 years before the events of *Dark Souls*, in the land of Oolacile. It features three of the Four Knights of Gwyn‎. The events of the DLC are also related to the story of *Dark Souls II*, as Nashandra was born from a fragment of Manus' soul.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.09049445011555
+  },
+  {
+    "document_id": "f604ee35-65f9-5712-a4a8-34db702920c4",
+    "title": "Frozen Flower",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "shield",
+    "snippet": "Frozen Flower -  Dark Souls II - shield - availability \n availability : Granted immediately upon loading the game if the player owns the Crown of the Ivory King DLC.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5220993730858026,
+    "bm25_score": null
+  },
+  {
+    "document_id": "114016b5-629b-5e1a-9153-8bcfa241089d",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "When Aldia has about half of his health left, he will buff himself, intensifying the flames that cover him. He will keep this form throughout the battle. At this point, he'll start combining various of his previous attacks and cast them in succession.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "291a74fe-5ecf-558d-925b-3c6dce95ce16",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "locations",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - locations \n locations : #He is first encountered in the final primal bonfire room that remains unlit. If all bonfires have been lit prior to downloading the patch, he will automatically appear in the Black Gulch primal bonfire room, after The Rotten.\n#Upon speaking to the player at the primal bonfire, Aldia will proceed to the first bonfire in the Undead Crypt.\n#After exhausting his dialogue in the Undead Crypt, Aldia can be found in the Dragon Shrine bonfire room, at a significantly reduced size compared to the first bonfire.\n#Finally, after completing the dialogue in Dragon Shrine, Aldia will appear as a boss in the Throne of Want in Drangleic Castle after killing Nashandra, but only if Vendrick is killed before Nashandra. The game can be completed without fighting Aldia here, if Nashandra is killed before Vendrick is.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "37daca5b-a161-5be4-87d7-e2edd0c99874",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - trivia \n trivia : Aldia shares some traits with King Allant from *Demon's Souls*. Their voices are very similar, and their appearances are both that of deformed creatures which were once human.\nIf Aldia manifests to the player at the Shrine Entrance bonfire in the Dragon Shrine, due to the small area where it's located, a very tiny version of Aldia will emerge.\nBoth of Aldia's tree root attacks are very similar to pyromancies the Bearer of the Curse can find, such as Fire Snake or Firestorm.\nAldia is passively referenced in Dark Souls III, based on the Japanese item description and name (Soul Geyser) for Soul Stream. He may also be the subject depicted in the statue of the \"root man\" with a book present at Grand Archives.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3b2d03c4-04fd-5594-87d9-dcc1e74614ce",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - strategy \n strategy : Aldia is immobile when fought, but is able to teleport, releasing an area of effect attack around the area he teleports to.\n\nSeveral of Aldia's attacks deal mixed Fire and Dark damage, so some form of fire defense is recommended for this fight. All of his attacks deal either pure physical or Fire/Dark damage. This means that a shield that is highly resistant to both physical and Fire/Dark damage, such as the Rebel's Greatshield, will reduce his damage output greatly.\n\nThe Fire Orbs have moderate tracking, so rolling may be needed to fully evade. Forbidden Sun can be cast in any direction, even directly behind him. The Fire Orb and Forbidden Sun attacks can be avoided by rolling, strafing around Aldia or running perpendicular to their trajectory.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4676aff5-e564-5610-ac43-0b3560a5645f",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "dialogue",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "The deformed Aldia is encountered several times by the Bearer of the Curse, to whom he imparts his extensive knowledge on the nature of life. He expresses outrage over the actions of the Lord of Light, who cursed humans into mortality and introduced the cycle of light and dark by linking the First Flame. Aldia's bleak worldview considers mankind as \"props on the stage of life\", persevering merely through obsession. While acknowledging the merits of the Age of Fire, he labels the roots of this \"warm, resplendent\" world as a lie, with the linking of the Fire as its original sin. Nevertheless, Aldia realizes that one could wish to inherit this order, even if built on a \"tender, exquisite\" lie. Instead of submission to the peace provided by the status quo, he offers a third \"path\"; obscure and unpaved, yet could perhaps ascend the scope of Light and Dark.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6f70d848-61c4-5719-b5c4-ce6d11fff187",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "summoning",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - summoning \n summoning : Vengarl of Forossa, Benhart of Jugo, and Bradley of the Old Guard can all be found for summoning directly outside the fog gate.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "71657a27-1fd4-5dec-8d36-25dff16e6441",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia drops nothing upon defeat, not even souls. The only reward from defeating him is that the player has the option to leave the throne, giving the player an alternate ending.\nIf a weapon is swung within close vicinity to any of the bonfires he has manifested at, its durability will degrade unusually fast. This goes for all Primal Bonfires as well as the entrance to the Undead Crypt, and Shrine Entrance bonfire in Dragon Shrine.\nHe's one of the main antagonists of *Dark Souls II*. He was added in patch 1.10 and is only accessible to players who have installed Compatibility Pack 4.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "81c7e209-8b0c-5df3-813d-0a7de862473e",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "initial_stats",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - initial_stats \n initial_stats : (Stats are from Param Studio and are not estimated)\nStrike/Slash/Thrust defense are applied on top of Physical Defense. -10% slash means taking 110% damage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8c7e59d6-3cc9-5225-b369-fab0faf591d8",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "attacks",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - attacks \n attacks : **Fire Orbs:**\n\nAldia will fire out four orbs of dark fire, placing them above his head. After a short time, the orbs will begin homing in on his target. He can cast this multiple times in a row. **How to avoid:** block with Gyrm Greatshield or roll a few times.\n\nDark **Forbidden Sun:**\n\nAldia charges a large dark fireball above his head. While he does this the fire around him will disperses leaving him vulnerable. Attack him while he's charging. **How to avoid:** the fireball is rather easy to dodge if you roll away right before it hits.\n\n**Tree Root Dance**:",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8f675e3b-8465-54a1-80d4-87e075d760fe",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "attacks",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "**Tree Root Dance**:\n\nAldia slams a root into the ground, causing numerous tree roots to protrude from the ground, moving towards the player rapidly. Just like the Fire Snake pyromancy. **How to avoid:** the roots start appearing right in front of Aldia at the center; a root never appears twice in the same location. Knowing this, first stand closer to his left or right side to avoid the initial roots, then quickly move to stand right in front of him, where the first roots appeared, and the other roots won't be able to follow you.\n\n**Circular Tree Root Dance**:\n\nAldia slams a root into the ground, causing numerous tree roots to come out of the ground around him, not moving towards the player. **How to avoid:** watch the fire patches appearing on the ground before the roots and move away from them.\n\n**Teleport:**",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9c793983-b876-5da2-8ec5-3c877d3e2714",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - notes \n notes : Aldia during his boss fight can be in either \"flame\" mode or “burnt out\" mode.\n**In \"flame\" mode, he has very high damage reduction and creates an aura, which may seriously wound the player.\nIf the player killed Nashandra before downloading the patch, Aldia will not appear in the Throne of Want, even if he has been spoken to in all three previous locations. A Bonfire Ascetic must be burned at the King's Gate bonfire to spawn Aldia, which means the player must defeat Nashandra as well as the Throne Watcher and Defender again before being able to fight Aldia.\nDuring the fight, spears and shields with high fire resistance are recommended.\nAldia drops nothing upon defeat, not even souls. The only reward from defeating him is that the player has the option to leave the throne, giving the player an alternate ending.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9ec92bc6-3e47-5db6-b8d1-5013ccac7236",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - lore \n lore : Aldia is the elder brother of King Vendrick, and aided his brother in founding the kingdom of Drangleic. He secluded himself in his manor, searching for secrets of life, viewing the Undead as the key to finding it. For his reverence of the Undead, Aldia was shunned by Vendrick, banished to his Keep forever. People who were invited to his manor commonly disappeared and were replaced with malformed beasts. The Southern and Northern Ritual Bands were created by Aldia and his acolytes after cruel, horrible experiments were performed on these people. Many valuable objects came out of Aldia's Keep, including the Sunset Staff, the Spitfire Spear, Soul Geyser, Unleash Magic, and Forbidden Sun.\n\nThrough his experiments, Aldia sought to learn the nature of the undead curse, and to shed the yoke of fate. He failed, however, and turned into a monstrosity, inhabiting the bonfires.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b394be89-ec48-53fb-a0a1-484e0bf54cd0",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "attacks",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "**Teleport:**\n\nAldia can teleport at any time. Upon finishing a teleport, he emits an area of effect attack immediately. **How to avoid:** watch the red light that appears at the location where Aldia is teleporting, then stand back to avoid the blast (similar to Smelter Demon's fire blast). After that immediately run up to him to land a few hits before his flames go up.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bc6aea0f-5e8a-53f5-97e9-e70f5b19989b",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "plot",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - plot \n plot : Aldia serves as a lore-centric character, alluding to a great deal of things in relation to the lore of *Dark Souls II*.\n\nWhen the Bearer of the Curse has defeated the Four Great Ones and lit the Primal Bonfires he will emerge and guide the Bearer of the Curse towards his brother Vendrick, now a mindless hollow. He continues to appear to the Bearer of the Curse, seeking to learn their intentions and telling them of the nature of the curse and the fabric of their world.\n\nHe will finally attack the Bearer of the Curse before they can take the Throne of Want, seeking to test them. When Aldia is defeated, he will ask what the Bearer of the Curse wants: light, dark or something else entirely. If the Bearer of the Curse chooses to reject the throne and leave, Aldia will narrate the Bearer of the Curse's departure from the throne.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bfefc9f6-9d62-5ba3-bf8c-0b061cbd4e23",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "dialogue",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - dialogue \n dialogue : With the introduction of *Scholar of the First Sin*, a great deal of lore-centric dialogue was added to the game, changing much of the preconceived lore.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c4ac6d64-24e0-580a-887a-e88ea1a71fbf",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "In *Scholar of the First Sin*, Aldia, the older brother of King Vendrick, hints at a path for the Bearer of the Curse that differs from the one presented to them. If the conditions are met, he can serve as the final boss of *Dark Souls II*, with his fight triggering after Nashandra's; he, notably, is the only boss in any *Dark Souls* game not to die when defeated, and as such drops no souls nor items, with the player instead gaining the option of an alternate ending in which the Bearer of the Curse is hinted to as following this mysterious other path at Aldia's side. He is also a mentioned character in *Dark Souls III* via the Soul Stream description, which refers to him as \"**the first of the Scholars**\". He is voiced by David Gant, who also voiced Oswald of Carim in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cf34461b-829a-5a09-8778-df30f750ba9f",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - lead \n lead : **Aldia, Scholar of the First Sin** is an optional boss as well as a character in *Dark Souls II*. He was originally only a mentioned character as **Lord Aldia**, a mysterious researcher who conducted horrible experiments in his mansion, Aldia's Keep, but was added into the game proper via the *Scholar of the First Sin* enhanced edition named after him.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d6be5250-9516-543a-a86a-18777a7c17eb",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "The withered tree branches he utilizes inflict physical damage only, making them especially prone to being blocked. At a distance, the branches extend out of the ground in a path in front of him, with moderate tracking, making it harder to roll out of the path of the attack. This is easily noted when one rolls away from the attack, but gets grazed by one of the branches, yet doesn't flinch or stagger upon getting hit.\n\nThroughout the fight, Aldia will surround himself in a fiery aura that makes close contact with him difficult without the risk of dying to the flames. However, an ultra greatsword can still reach. This aura also bolsters his own defenses, reducing the damage he receives from all attacks by a significant amount. The fiery aura fades when he performs certain moves, giving the player a small window to attack up close. The first opening is just after he teleports to a new location, and the second is when he is charging up his Forbidden Sun attack.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e026ab5c-b091-5cfa-93cb-60e9a9e2b533",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - description \n description : The Scholar of the First Sin appears to be a giant, charred human head covered in flames and large branches. The ground around the Scholar will be on fire. There is a single red orb near the center of his body, which is possibly an eye. His head and shoulders are all the Bearer of the Curse sees as he rises from the ground, but this could imply that there is a body below it, invisible to the player.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e138f072-63dc-5f51-ae23-a588e4437bb5",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "defenses",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - defenses \n defenses : \"Burnt out\" mode: low Lightning and Physical-type damage resistance, moderate resistance to Magic and Fire.\n\n\"Flame\" mode, 1st phase: moderate resistance to Lightning and Physical-type damage, high resistance to Magic and Fire.\n\n\"Flame\" mode, 2nd phase: high resistance to Lightning and Physical-type damage, very high resistance to Magic and Fire.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1274caa7-fc26-58e8-8a6b-aed5c1605385",
+    "title": "First sin",
+    "section": "theories",
+    "game": "Dark Souls II",
+    "entity_type": "storyline",
+    "snippet": "Similarly, after the Lords were successful in defeating the Ancient Dragons, Gwyn used his Soul to build a civilization above-ground, for humans to worship the gods in; allowing the Furtive Pygmy's descendants to come out of their abyssal caverns and live in the sunlight. The gods built a city of castles above this world from which to rule, and effectively made ingress impossible without great strength. However, in the stead of humanity taking the plunge into sin, it is Anor Londo, following the lead of its king. Thus - perhaps symbolic of this inversion - humankind becomes damned to eternal life instead of the persistent death of reality; and the gods of *Dark Souls* become ineffectual rulers, where systems similarly devolve into chaos in real life, but as designated by Providence.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "290160f1-1cf5-5a75-9d7d-e3c4da08cd71",
+    "title": "First sin",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "storyline",
+    "snippet": "In other words, Aldia here says that Gwyn, in denying the ascension of the Dark Lord and unnaturally postponing the Age of Dark, resisted the course of nature and forced not only the Age of Fire in an attempted perpetuity; he also forcefully suppressed the humanity within the humans, constricting it. Although, the dark soul is able to have feelings, and once released after a life-long imprisonment it bursts out of control, consuming the resurrected being's sanity. To avoid such disastrous consequences, the more aware population of the Ringed City has found ways to avoid neglecting the darkness within themselves, while at the same time avoiding the reprisal of the gods. The exact process of this curse's forging and its origin point are both found in *Dark Souls III: The Ringed City.*",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "349d48e8-6c40-5929-9f37-82df8a8b6a33",
+    "title": "First sin",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "storyline",
+    "snippet": "But on the other hand, a gradual process of indoctrination began: the brave contribution of the human soldiers during the war against the dragons was removed from the annals, their knights' armors were sealed with a ring of fire as well as all the pigmies. The Fire still had such strenght that soon humans were naturally born bearing the Dark Sign, that would although not become visible as long as the First Flame remained strong enough. The Way of White spreaded the faith of the gods and light, relinquishing the true origins of humanity into the forgotten past and bringing the Ringed City to a gradual, complete isolation from the rest of the world and humanity, basked in a blinding sunlight and guarded by a dark-eating dragon. The rest of humanity, living in the entirety of the world, in time forgot their original nature of beings of the dark and believed that the undeath was a terrible sin, a curse falling upon humans with the dying cycle of the Fire and that it was threfore their",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "385566d1-d4da-5f8c-9287-41476f848450",
+    "title": "First sin",
+    "section": "theories",
+    "game": "Dark Souls II",
+    "entity_type": "storyline",
+    "snippet": "The term \"First Sin\" is likely derived from the Judeo-Christian account of humankind's [https://en.wikipedia.org/wiki/Original_sin original sin], generally agreed amongst most sects to be a base flaw in all people stemming from the original humans, Adam and Eve, partaking in the fruits of a certain tree in the Garden of Eden; the sole action God strictly forbade that they do under threat of death. This fruit opened their eyes, allowing them to see and \"be as God, knowing good and evil\", but in disobeying God they effectively caused humans to be branded by Him as untrustworthy and capable of sin. He then cast them out of the Garden and had them toil for their food all their lives. Most significantly, however, was that there was a second tree within the Garden that bestowed everlasting life, with God Himself saying \"and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever\" before casting the pair out to eventually die.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3e8ce3fd-a8e9-59bc-8cb8-f275291fc14f",
+    "title": "First sin",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "storyline",
+    "snippet": "Such decision was originated by fear, for the darkness was potentially allmighty: the Dark Soul could be split endlessly without losing its inherent strenght, the darkness could spread and expand creating an abyss uninhabitable to those who gained their strenght from the light, and it was capable of producing life. A life that, like the humans', was not bound by the death. But at the times of the end of the War against the Dragons, the young and small civilization of the humans was not yet able to pose a significant threat, and the clan of Anor Londo was at the peak of its power: therefore, Gwyn decided to act swiftly without causing the wrath of the humans. The Pigmies were granted a city to call their own, a vassal of the realm of the gods, and their king obtained the hand of one of Gwyn's daughter, Filianore, granting a great prestige to the human nobility now able to focus on the growth and prosperity of their people in peace.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4fe1db8c-b64e-5f7b-a4ec-a55649d119f6",
+    "title": "First sin",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "storyline",
+    "snippet": "First sin -  Dark Souls II - storyline - lead \n lead : The **First Sin** is an event in the timeline of the series mentioned in *Dark Souls II,* which was researched by Aldia, elder brother of King Vendrick. This pursuit gave Aldia the title \"Scholar of the First Sin,\" for which the complete version of *Dark Souls II* is named.\n\nAmidst his study of the Undead Curse, Aldia committed himself to horrific experiments relating to the Curse, transforming Undead into monsters and eventually becoming one himself, amalgamated and trapped within the Bonfires. However, he had learned the cause of Undeath, an event he would come to call the **First Sin**: Lord of Sunlight Gwyn decided to contain the power of the Dark Soul and its bearers by imposing a sigil of fire on the first humans.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d9dcb027-a46a-5edf-9fb5-7d02b0d8ba83",
+    "title": "First sin",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "storyline",
+    "snippet": "time forgot their original nature of beings of the dark and believed that the undeath was a terrible sin, a curse falling upon humans with the dying cycle of the Fire and that it was threfore their duty, as the profecy foretold, to ensure the salvation of the Age of Fire. In the Undead Crypt, Aldia says the following, which supports this viewpoint:",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ddba0dbb-5726-58ca-b959-ae89171b7611",
+    "title": "First sin",
+    "section": "theories",
+    "game": "Dark Souls II",
+    "entity_type": "storyline",
+    "snippet": "First sin -  Dark Souls II - storyline - theories \n theories : Please note: the following is not proselytizing, merely pointing out how many parallels exist between these concepts. Please note that for differentiation and syntax reasons, throughout the section I have referred to* Dark Souls*' deities as \"gods,\" whereas the Abrahamic one is with a capital G \"God.\" Moreover, capitalizing His pronouns is mandatory in formal writing in English.*",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "108ab4d9-c01e-522c-bb2e-8b895f2e56da",
+    "title": "Manhunter O'Harrah",
+    "section": "frigid_outskirts",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Manhunter O'Harrah -  Dark Souls II - character - frigid_outskirts \n frigid_outskirts : Found at the area with graves near the beginning of the map, to the right of Vengarl's summon sign.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3387d906-8b93-5b74-8f36-68d3c860d961",
+    "title": "Manhunter O'Harrah",
+    "section": "iron_keep",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Manhunter O'Harrah -  Dark Souls II - character - iron_keep \n iron_keep : Found in the room that contains the Lightning Short Bow, near the Eygil's Idol bonfire.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "39feaffc-9bf0-5954-9001-360a8d7d5a94",
+    "title": "Manhunter O'Harrah",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Manhunter O'Harrah -  Dark Souls II - character - lead \n lead : **Manhunter O'Harrah** is a white phantom exclusive for . She can be summoned for fighting against the Old Iron King, the Duke's Dear Freja, and Lud and Zallen.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ee7683e5-8754-5f64-958a-6382ae012950",
+    "title": "Manhunter O'Harrah",
+    "section": "brightstone_cove_tseldora",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Manhunter O'Harrah -  Dark Souls II - character - brightstone_cove_tseldora \n brightstone_cove_tseldora : Found in the hall filled with Parasite Spiders that precedes Freja's pit room.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fbb2f807-a114-5133-82ec-d1f671f52b82",
+    "title": "Manhunter O'Harrah",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Manhunter O'Harrah -  Dark Souls II - character - notes \n notes : She uses Fire Greatarrows and Lightning Greatarrows, which makes her very helpful when fighting the Duke's Dear Freja and the Old Iron King.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1f8af799-f16e-53c7-894a-4388726bb4a4",
+    "title": "Marvelous Chester",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "**Unlike Kirk, who can only invade three times in the entire game, Marvellous Chester will invade indefinitely unless his human form is killed.\nChester bears a close resemblance to the [https://demonssouls.fandom.com/wiki/Fat_Official Fat Officials] from *Demon's Souls*, permanently grinning ministers of vile character, as well as some of the game's cut NPCs.\n**He also shares a few similarities to characters and aesthetics found in *[https://bloodborne.fandom.com/wiki/Bloodborne Bloodborne]*, which notably began development around the time that work on the *Artorias of the Abyss DLC* was being completed. His dark, Victorian attire and eccentric personality would fit right in with the setting of [https://bloodborne.fandom.com/wiki/Yharnam Yharnam]. His quick sidestepping dodge is also slightly reminiscent of the way Hunters dodge in that game, as opposed to the dodge rolls more common in the *Dark Souls* series.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2e0aa3f4-d8fd-5bcb-87be-b0674343e027",
+    "title": "Marvelous Chester",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Despite doing this, Chester will still sell items to the player, either mocking them for coming to him after the invasion if he killed them, or speaking in a rather disgruntled tone as if being mocked by the player coming back if he is the one who was defeated. To stop all invasions permanently, the player will need to kill him there, which is also the only way to receive his unique set. Of course, killing him before he ever even invades will also prevent him from doing so in the first place.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "30da26a0-affe-5ea5-8838-c731f345abfc",
+    "title": "Marvelous Chester",
+    "section": "cut_content",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "He was also seemingly more involved with Elizabeth at some point, as all his cut dialogue makes reference to her. He was supposed to have a fascination with her peculiar sorceries, as well as chastising the player for siding with her against him. This would all explain why the mushroom lady seems to consider him odious in the final game.\n\nHis unscrupulous nature appears to have been toned down significantly from his inception, even though he continues to be shady and tracherous all the same in the current version of the story.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "37d8c7d8-9260-5a25-a55e-4e582ee3b8ce",
+    "title": "Marvelous Chester",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Marvelous Chester -  Dark Souls - character - location \n location : He is encountered in the Royal Wood, to the right of the coliseum where the fight with Knight Artorias takes place, past a short bridge. He leans against the cliff face, highlighted by a lit candelabra to his right. He remains there for the rest of the game.\n\nHe will invade as a red phantom early into Oolacile Township, on the descending walkway after the first Bloathead Sorcerer. This only happens if the player is human.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "773c9526-be3c-5947-b81a-c5aeb71494ee",
+    "title": "Marvelous Chester",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Despite appearing relatively friendly, he will take the first chance he can to backstab the Chosen Undead, ambushing them in the town of Oolacile for an unclear reason. Should the hero find the betrayal unacceptable, they can challenge the real version of Chester and slay him for his transgression. However, inheriting his equipment, more specifically his peculiar grinning mask, will cause them to make the same expression underneath it. This is believed to be the result of his vengeful spirit itself; the curse of Chester.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7b791d77-260f-5df6-b3cc-be09cb6e6b60",
+    "title": "Marvelous Chester",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Marvelous Chester -  Dark Souls - character - lore \n lore : Marvellous Chester is a mysterious man who, much like the Chosen Undead from the time of Lordran, was snatched by Manus and stranded in the past. He met with Oolacile Sanctuary's keeper, Elizabeth, making quite the negative impression before departing. He is later met by the time traveling hero, offering his wares should they need them.\n\nHis attire is of an exquisite quality, betraying an aristocratic origin, as well as lending itself extremely well to stealth. That fact, coupled with his ownership of a Sniper Crossbow, suggests that the man may be one of Carim's snipers from far into the future, though nothing is truly certain with someone as shrouded in mystery as he is.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8f3e807e-4fdd-5fe2-b9bb-9a8c324d0336",
+    "title": "Marvelous Chester",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "He bears some resemblance to V, the main protagonist of the [https://en.wikipedia.org/wiki/V_for_Vendetta *V for Vendetta*] graphic novel. Both characters are incredibly agile in melee combat and they are known for using masks with a permanent grin to cover their faces. Also, Chester uses peculiar projectiles in the shape of roses, and the rose is one of the many symbols that are commonly associated with V.\nHis permanent grin could be in reference to the Cheshire Cat from *[https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland Alice in Wonderland]*. If that's the case, his name could act as an allusion to this, as [https://en.wikipedia.org/wiki/Chester Chester] is the main town in the English county of [https://en.wikipedia.org/wiki/Cheshire Cheshire].",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "925fdeff-4df4-588b-88d2-bec9c6acaa67",
+    "title": "Marvelous Chester",
+    "section": "artifacts",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Marvelous Chester -  Dark Souls - character - artifacts \n artifacts : Chester's Set",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a7099278-1bfd-51f2-8ef7-25dc20753153",
+    "title": "Marvelous Chester",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Marvelous Chester -  Dark Souls - character - strategy \n strategy : For most unsuspecting players, Marvellous Chester will appear behind them as they descend whenever he invades, getting the chance of firing a few shots in their back. Being at long range, he is capable of firing multiple bolts at the player in quick succession, possibly dealing heavy consecutive damage.\n\nHowever, being at mid-range is also quite dangerous, as his bolts alternate with a different kind of rose-shaped projectile, which can quickly rack up damage. These flowers in particular are very troublesome, as they greatly build up Bleed and he throws three of them in a horizontal arc, spreading out and giving them more of a chance to hit the player. He is not without his tricks at close range, performing sweeping low kicks that do a fair amount of damage and stamina drain.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b7280fe0-ff36-5baa-9049-f0627309e317",
+    "title": "Marvelous Chester",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Marvelous Chester -  Dark Souls - character - plot \n plot : Marvellous Chester is found very close to Artorias' arena and sells a variety of useful items such as Green Blossoms, various moss clumps, some offensive consumables, and other utility items, albeit for a higher price than normal. This makes him a very convenient stop for stocking up on items for the nearby boss battle or for the Battle of Stoicism unlocked right after.\n\nUnfortunately, he will invade the player whenever they get to Oolacile Township, provided they are human. Unprepared players may be taken by surprise, especially since he has a completely different moveset compared to the usual red phantom NPC. Vanquishing him once won't actually stop him from invading another time, as he will always return every time the area is reloaded.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b8575a9a-9c5f-5bb3-aa57-c035bbb5c056",
+    "title": "Marvelous Chester",
+    "section": "cut_content",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Marvelous Chester -  Dark Souls - character - cut_content \n cut_content : There's an alternative model of Marvellous Chester without his coat and iconic top hat. This variant wields a peculiar black and gold Zweihander, which has an unused weapon model that would have allowed players to wield it. What this version of Chester was going to be used for is unknown.\n\nAccording to [https://youtu.be/ny5B9Hxn6KA?t=56 cut dialogue] from Lord's Blade Ciaran, a ring that belonged to Artorias would have been stolen by someone she describes as \"a man in a long coat\". The only character in the DLC that matches that description is Chester, implying he'd be more involved in the sidequests initially. The player would have to obtain the stolen ring from him, possibly by force.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cc235161-3c17-598f-86dd-1144a47bdd81",
+    "title": "Marvelous Chester",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "It's good to remember that Chester also has an unusually high amount of HP for an NPC, likely due to his more varied and unique moveset. He is also able to dodge attacks from the player and create distance between him and them by elegantly side-stepping away from them in a spinning motion, much differently from the dodge rolls of other NPCs.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e8370328-10f4-5936-91a1-b7252c714771",
+    "title": "Marvelous Chester",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Marvelous Chester -  Dark Souls - character - lead \n lead : is a character, merchant and invader in the *Dark Souls: Artorias of the Abyss DLC*.\n\nHe's voiced by William Houston, who also voices King Vendrick in *Dark Souls II*, [https://bloodborne.fandom.com/wiki/Retired_Hunter_Djura Retired Hunter Djura] in *[https://bloodborne.fandom.com/wiki/Bloodborne Bloodborne]*, and Oceiros, the Consumed King in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f4ddf6d1-3d1c-54db-9f10-fd34755e3bc3",
+    "title": "Marvelous Chester",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Marvelous Chester -  Dark Souls - character - trivia \n trivia : Marvellous Chester does not use a regular player model, instead using a completely unique model and animation rig. This technique is used for Anastacia and Andre of Astora and for many of the NPCs featured in *Dark Souls II*.\n**The special Hornet Ring animation will not play when parrying/backstabbing Chester, nor can the Dark Hand be used to drain humanity from him like with every other human NPC.\n**This may also be the reason why he is the only invader encountered in the game that does not leave a Bloodstain upon being defeated.\nHe is the only other invader besides Kirk, Knight of Thorns who can be defeated more than once per playthrough.\n**Unlike Kirk, who can only invade three times in the entire game, Marvellous Chester will invade indefinitely unless his human form is killed.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0950037c-c700-5dc7-954f-3d1ca3e3ba37",
+    "title": "Old Iron King",
+    "section": "attacks",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Old Iron King -  Dark Souls II - boss - attacks \n attacks : **Swipe**: Swipes one of his arms across the arena, sometimes followed up by an overhead slam or another swipe with the opposite arm. Can be avoided by rolling towards it.\n\n**Slam**: Performs an overhead slam, sometimes done with both hands, sometimes followed by another slam or a swipe. Can be avoided with a well-timed roll, or by sprinting left or right.\n\n**Dive**: The Old Iron King dives into the molten iron, splashing some of it onto the arena in the process. After a short time, he will re-emerge in a different location, splashing additional iron onto the arena.\n\n**Laser**: Charges his right hand with a fiery glow and shoots out a laser-like beam of Fire. Goes through walls. Can be avoided by sprinting left or right, or by rolling with good timing.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1ede67ce-3252-5021-90e6-cec26a1ca89a",
+    "title": "Old Iron King",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Old Iron King -  Dark Souls II - boss - notes \n notes : Magic-based attacks seem to do normal damage.\nThe Old Iron King is named **Ichorous Earth** by Sweet Shalquoir.\nBy using a Bonfire Ascetic on the Eygil's Idol bonfire, the Old Iron King can be respawned.\nInternally the name of this boss is 熔鉄デーモン which means Molten Iron Demon.\nIf a phantom stays out of the arena, the Old Iron King will target the phantom and, if at the right distance, the king will not attack but stay focused on the phantom not the player.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3745e0d1-d216-58a2-8719-d1beccc3bbad",
+    "title": "Old Iron King",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "pyromancer who wanted to breath life into fire. At the height of his power, the Iron King was known for his arrogance and indulgency in hedonism, mining so intensely parts of his kingdom that poison leaked from the earth, It was at this moment that Sir Alonne left the king's service and set off to unknown lands. At some point, the Old Iron Kingdom was afflicted by the Curse of the Undead. The Old Iron King imprisoned the undead in the Huntsman's Copse, torturing them and personally presiding over so-called \"undead hunts\" with his best men, as well as creating the Executioner's Chariot to torture the undead eternally. He later gave the Huntsman's Copse to his Skeleton Lords.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "44df7101-3cec-505f-8396-6e2cdb8536f0",
+    "title": "Old Iron King",
+    "section": "defenses",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Old Iron King -  Dark Souls II - boss - defenses \n defenses : (Stats are from Param Studio and are not estimated)\nStrike/Slash/Thrust defense are applied on top of Physical Defense.\n-20% strike means taking 120% damage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4555dd74-3c7b-5f16-835a-1974a7066025",
+    "title": "Old Iron King",
+    "section": "general_information",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Old Iron King -  Dark Souls II - boss - general_information \n general_information : Located in Iron Keep, the Old Iron King is the final boss of this area who possesses one of the four great souls. He takes the form of a giant horned and winged monster, with rivulets of iron pouring from its body. The closest bonfire is near turtles and called Eygil's Idol.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "604ba8c7-d982-5ad1-b540-34772167a904",
+    "title": "Old Iron King",
+    "section": "fight_overview",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Old Iron King -  Dark Souls II - boss - fight_overview \n fight_overview : The fight is very simple and is similar to Ceaseless Discharge from the original *Dark Souls*. The main difference being the absence of any easy trick to defeat the King.\n\nThe player has little room to maneuver around the area, and may walk off or be thrown off the edge, causing an instant death. Due to his well-telegraphed attacks and long recovery times, there will be many openings for both healing and dealing damage. This means that the small area often becomes the main obstacle in this fight.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7635d365-852c-55ff-98af-6468fd03599d",
+    "title": "Old Iron King",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Old Iron King -  Dark Souls II - boss - lore \n lore : The Old Iron King began his days as the Prince of Alken, a little-known and unestablished lord, with a lust for power and glory. He was later wed to the princess Mytha, but secretly had an affair with the Princess of Venn. To keep their secret, they built two twin bell towers, and created bell keepers and guardians to protect the bell towers from intruders, showing great knowledge in the art of golemcrafting.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9b0a0237-6c64-56ef-812d-c1ab46b97767",
+    "title": "Old Iron King",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "The Iron King would at some point trying to control the soul residing into the lava where the Iron Keep was built. He therefore immersed the Smelter Demon in the lava trying to infuse it with the soul lurking beneath, but when the iron golem was possessed, it struck down the king, and the lava raged sunking the Iron Keep. The King was then possessed by the evil that lurked below the magma, and his body then became molten earth.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d9c03f5d-ab5a-5e5a-899e-46e498008871",
+    "title": "Old Iron King",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Old Iron King -  Dark Souls II - boss - lead \n lead : The **Old Iron King** (鉄の古王) is a boss in *Dark Souls II*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e6c3b65d-0820-549e-95b2-17c71cc18c64",
+    "title": "Old Iron King",
+    "section": "attacks",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "**Laser**: Charges his right hand with a fiery glow and shoots out a laser-like beam of Fire. Goes through walls. Can be avoided by sprinting left or right, or by rolling with good timing.\n\n**Fiery overhead slam**: Similar to the slam, the King performs an overhead slam, but will charge his hands with fire before smashing down onto the arena, causing pillars of fire to erupt from his hands. Should be avoided by sprinting away, as simply rolling may lead to players being hit with the fire.\n\n**Flame Breath**: Shoots a line of fire out of his mouth. Can be rolled through, or side-stepped.\n\n**Swiping Flames**: Shoots flames out of mouth in a wide arc. Can be avoided by rolling, or by keeping a safe distance away from the King. Alternatively, it is possible to walk in between the flames, although it can be very difficult to do.\n\n**Roar**: Lets out a roar that releases a medium range area of effect explosion, similar to Wrath of the Gods. Usually only done if a player gets extremely close.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e821ee85-9e62-5fa9-b57a-e99f66146de6",
+    "title": "Old Iron King",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "One must be cautious of the hole right next to the entrance, as it's possible to get knocked into it and die.\n\nThe best time to land high damage is when the boss slams his fist(s) into the ground and when he is using a flame attack. It is more difficult for pure melee players to hit the Old Iron King during a fire attack, but it is possible nonetheless. Damaging his horns seem to do extra damage as well and if the player can they should attack his hand while he is breathing fire.\n\nPlayers would do well to take their time with this boss. One should not attempt to rush the battle and waste stamina before it is needed. Most of the Old Iron King's projected attacks drain high amounts of stamina, usually not allowing a player to stand more than one instance of an attack while blocking.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f1a8baa2-5c9a-5669-b73b-54c2f8104d3e",
+    "title": "Old Iron King",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Old Iron King -  Dark Souls II - boss - strategy \n strategy : All of the Old Iron King's attacks should be dodged, since being hit by them can be devastating and there's a possibility of being knocked off the edge, into an instant death.\n\nThere is a small area in the rightmost portion of the stage where one can go to avoid his sweeping flame breath if the player is not confident with rolling. Ranged characters can also set up there, if another player can draw aggro from them. Be careful, though, as the structure does not block the beam the Old Iron King fires from his right hand. Standing there for too long will also prompt the King to dive below the surface, emerging close to the player's position. The King will attempt to surface as close to the player as possible, preferably from behind the back. This can be manipulated to force surfacing in a particular location by running there immediately after the dive and facing away from the direction you would like him to surface.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f8d98744-11cf-50aa-87f9-855384a6eb39",
+    "title": "Old Iron King",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "The Iron King was later approached by Sir Alonne, a great warrior from the east, who trained the King's soldiers and helped him forge a kingdom for himself from the old Kingdom of Venn. Doing so cost the Iron King what little resources he had, but in the process, he discovered an iron-producing miracle, which allowed him to freely shape and harness the powers of iron. With this new power, the Old Iron King became extremely wealthy and powerful, forging from iron both his entire castle, and various golems such as the Ironclads and the Smelter Demons. The King also entertained various craftsmen and savants from many lands, most of whom were charlatans, but many still brought innovations for his kingdom, such as the artisan who crafted the weapon of his Alonne Knigths and Magus Eygil, a pyromancer who wanted to breath life into fire. At the height of his power, the Iron King was known for his arrogance and indulgency in hedonism, mining so intensely parts of his kingdom that poison",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a25cb8e5-97ff-53c5-a682-630c12b34c1c",
+    "title": "Old Iron King Soul",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Old Iron King Soul -  Dark Souls II - item - availability \n availability : Obtained after defeating the Old Iron King in Iron Keep.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a544cf75-01cb-544d-9ae5-41947981735c",
+    "title": "Old Iron King Soul",
+    "section": "use",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Old Iron King Soul -  Dark Souls II - item - use \n use : Consume for 25,000 souls or trade with Weaponsmith Ornifex along with 5,000 souls to acquire the Iron King Hammer.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a63db6e3-0996-5d18-b09e-43c89d0488fa",
+    "title": "Old Iron King Soul",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Old Iron King Soul -  Dark Souls II - item - description \n description : Soul of the Old Iron King, who succumbed to the flames that swallowed his castle.\n\nThe Iron King's flesh was charred, and his soul possessed by the things that lurk below.\n\nUse the special soul of the Old King to acquire numerous souls, or to create something of great worth.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b14b8eaf-7972-5578-ad4b-9a4c75c505f6",
+    "title": "Old Iron King Soul",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Old Iron King Soul -  Dark Souls II - item - lead \n lead : The **Old Iron King Soul** is a boss soul in *Dark Souls II.*",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "16b83e93-1d8a-55d8-8e4b-0d5315069b47",
+    "title": "Old King Soul",
+    "section": "uses",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Old King Soul -  Dark Souls II - item - uses \n uses : Consume for 75,000 souls.\nTrade with Weaponsmith Ornifex along with 10,000 souls to acquire the Dragonslayer Greatbow.\nTrade with Straid of Olaphis along with 10,000 souls to acquire the Blinding Bolt miracle.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "402b38a9-8a53-5214-b742-37b7ba145059",
+    "title": "Old King Soul",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Old King Soul -  Dark Souls II - item - trivia \n trivia : This soul appears to be remnants of Gwyn's Lord Soul from *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "70638382-8d37-59f2-a264-1d0889c1237e",
+    "title": "Old King Soul",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Old King Soul -  Dark Souls II - item - description \n description : Soul of the ineffable.\n\nThis once magnificent soul continues to exert influence over the land, even after the eons reduced it to these remnants.\n\nUse it to acquire numerous souls, or to create something of great worth.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b58ac2a2-891e-57d6-89c3-341e576782c9",
+    "title": "Old King Soul",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Old King Soul -  Dark Souls II - item - availability \n availability : Obtained after defeating the Old Iron King in Iron Keep (NG+).",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d86b44af-eec1-5449-88a4-81596f40a6e4",
+    "title": "Old King Soul",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Old King Soul -  Dark Souls II - item - lead \n lead : The **Old King Soul** is a boss soul in *Dark Souls II*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "54e1e2d5-836d-5fb7-be80-7f5aed3ee391",
+    "title": "Soul of a Giant",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of a Giant -  Dark Souls II - item - notes \n notes : Souls of a Giant collected in NG will remain in the player's inventory in NG+ and beyond.\nIt's possible to farm Souls of a Giant by burning a Bonfire Ascetic at the Black Gulch Mouth bonfire (the first one) and then defeat the Elite Giants in the underground cave of the Black Gulch. Note that this doesn't work in *Scholar of the First Sin*.\nFor unknown reasons, the drops from the Elite Giants in Black Gulch can be acquired while only killing one of them. This is done by quitting out to the menu after killing the first one and then re-entering game.\nIt's also possible to farm them from the Ancient Dragon by burning a Bonfire Ascetic at the Shrine Entrance bonfire to make him respawn.\nNone of the souls found off on the Giants' corpses will respawn by burning Bonfire Ascetics.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5f732b7f-bcfd-50d3-9dcb-fddcfbf01bc3",
+    "title": "Soul of a Giant",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of a Giant -  Dark Souls II - item - availability \n availability : There are five Souls of Giants to be found in the game, one in each of the following locations:\nOn a Giant's corpse at the end of the Memory of Jeigh (accessed by defeating the Giant Lord).\nOn a Giant's corpse at the end of the Memory of Orro.\nOn a Giant's corpse at the end of the Memory of Vammar.\nDropped by killing two Elite Giants in a hidden cave in the Black Gulch, along with the Forgotten Key. The cave is found after two drops down off the cliff to the right (the first drop will land you outside a door requiring the Forgotten Key).\nDropped by the Ancient Dragon upon its death.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "66fe2a42-205a-51ab-bb23-b961fb3e0c9e",
+    "title": "Soul of a Giant",
+    "section": "usage",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of a Giant -  Dark Souls II - item - usage \n usage : Each Soul of a Giant can be used to gain 10,000 souls. However, if the player holds onto them, each will reduce Vendrick's damage reduction effect by half:",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b4f79a24-6825-561a-9573-279bbc88978f",
+    "title": "Soul of a Giant",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of a Giant -  Dark Souls II - item - lead \n lead : The **Soul of a Giant** is a soul item in *Dark Souls II*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e59a8717-8c54-5d9a-ae65-42c663afa265",
+    "title": "Soul of a Giant",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of a Giant -  Dark Souls II - item - description \n description : The soul of a Giant who came to conquer Drangleic.\n\nWill the Giants' resentment for the King be pacified in death, or only emboldened?\n\nCan be used to acquire souls, only...",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2a22b4d9-d2f6-5f3f-a94a-992bc271eee4",
+    "title": "Soul of the King",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of the King -  Dark Souls II - item - lead \n lead : The **Soul of the King** is a boss soul in *Dark Souls II*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "55fd1b50-154b-5a1d-b999-363007f3d948",
+    "title": "Soul of the King",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of the King -  Dark Souls II - item - description \n description : Soul of Vendrick, King of Drangleic. The King was wasted away, a shadow of his former self, but still held something dear.\n\nUse the soul of he who would link the flame to acquire numerous souls, or create something of great worth.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "78569c84-22c7-571c-8d2b-1fedd1c4a6eb",
+    "title": "Soul of the King",
+    "section": "uses",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of the King -  Dark Souls II - item - uses \n uses : Consume for 50,000 souls.\nTrade with Weaponsmith Ornifex along with 10,000 souls to acquire either the Ruler's Sword, King's Shield or the King's Ultra Greatsword.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7e7e3059-72bc-5941-ab78-82f4314d5381",
+    "title": "Soul of the King",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of the King -  Dark Souls II - item - availability \n availability : This soul is not obtained after defeating King Vendrick, but is instead obtained by returning to the Shrine of Amana after defeating him. Shortly after the Crumbled Ruins bonfire there is a submerged stone path in the water leading to the left of the cavern. The path ends at a wooden door behind some vines which will only open if the player is in human form and has already defeated King Vendrick. Inside is the Soul of the King and the King's Set.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9c30fef6-95b6-5297-8469-4dc3c398a337",
+    "title": "Soul of the King",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of the King -  Dark Souls II - item - notes \n notes : This soul is available only once per playthrough. Burning a Bonfire Ascetic at Undead Crypt and defeating Vendrick a second time won't make another Soul of the King appear in Shrine of Amana.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "250d34e2-f977-5d05-ac21-06ba32e05d64",
+    "title": "Crown of the Ivory King (helm)",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Crown of the Ivory King (helm) -  Dark Souls II - armor - availability \n availability : Obtained after the defeat of the Burnt Ivory King.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b5d2005e-edbb-544b-a2a2-a0999ae203c7",
+    "title": "Crown of the Ivory King (helm)",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Crown of the Ivory King (helm) -  Dark Souls II - armor - description \n description : Crown of the Ivory King who once ruled this land.\n\nFar to the north, a King built a great cathedral to appease the raging flame. But when he sensed the degradation of his soul, he left without a word, leaving everything to Alsanna, who had, unbeknownst, found a place at his side.\n\nBut these were events of long ago, and today, no one even remembers the King's name.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7d7319ef-073f-5d09-8572-953bd048ae02",
+    "title": "Crown of the Old Iron King (helm)",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Crown of the Old Iron King (helm) -  Dark Souls II - armor - availability \n availability : The Crown of the Old Iron King is available as loot after defeating the Fume Knight.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f3fab96f-442c-514d-a412-27fa8c5e51b1",
+    "title": "Crown of the Old Iron King (helm)",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Crown of the Old Iron King (helm) -  Dark Souls II - armor - description \n description : Crown of the Old Iron King who once ruled this land.\n\nThe King sunk below the scorching iron, met the one whose name must never be repeated, and became Ichorous Earth.\n\nBut these were events of long ago, and today, no one even remembers the King's name.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "39b181cf-54b0-521c-806b-9336f31fb211",
+    "title": "Human Effigy",
+    "section": "enemies",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Human Effigy -  Dark Souls II - item - enemies \n enemies : Parasitized Undead in Brightstone Cove Tseldora.\nSkeletons in Harvest Valley.\nLizardmen in the Shrine of Amana.\nOld Ironclad Soldiers in Forest of Fallen Giants.\nChasm Spirits in the Dark Chasm of Old.\nStray Hounds in No-man's Wharf and The Lost Bastille.\nPetrifying Statue Clusterst in Cave of the Dead.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "483342fa-b4cd-5aac-b500-47df29320df6",
+    "title": "Human Effigy",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Human Effigy -  Dark Souls II - item - availability \n availability : Can be chosen as a starting gift.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6687032c-1aed-5f5e-9fe8-4ec345865e73",
+    "title": "Human Effigy",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Human Effigy -  Dark Souls II - item - description \n description : A warm, soft, shadow-like effigy.\n\nUse this item to reverse Hollowing.\nIt also weakens the links to other worlds, preventing invasions and most cooperation.\n\nPeer closely at an effigy, and one begins to perceive a human form, but whose form it takes depends on the person looking.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "72388193-0bd5-533d-ac15-3bb001e8a1b8",
+    "title": "Human Effigy",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Human Effigy -  Dark Souls II - item - notes \n notes : Unlike Humanity in *Dark Souls*, Human Effigies cannot be used as healing items.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "843a344c-df69-5caa-a1fe-aed3d7e3aeba",
+    "title": "Human Effigy",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Human Effigy -  Dark Souls II - item - lead \n lead : A **Human Effigy** is a restorative item and starting gift in *Dark Souls II*.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8daff01e-50df-5fff-9be6-4d5de7b9e55d",
+    "title": "Human Effigy",
+    "section": "general_information",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "It takes 30 minutes for the burning of a Human Effigy to wear off, and once the duration has expired, the player will be able to be invaded by other players again, as well as summon friendly phantoms or dark spirits. This only applies to the area in which the effigy was burned, and the player must remain in that area for the effigy timer to count down; the player can end the effect prematurely by resting at the particular bonfire and selecting the \"Nullify Human Effigy's Effect\" option. Time spent outside the area will not reduce the timer, so it is advised to remain in the location for the duration of the effect if one does not wish to end it prematurely.\n\nOne Human Effigy must also be given to Darkdiver Grandahl for each attempt in the Dark Chasm of Old, until Darklurker is defeated.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "97d3aab8-1fbd-5cc4-a5d4-10b9481ebff5",
+    "title": "Human Effigy",
+    "section": "player_versus_player",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Human Effigy -  Dark Souls II - item - player_versus_player \n player_versus_player : Players receive one Human Effigy after successfully defeating another invading player; this counts for both NPC invaders and online invaders. Black Phantoms that do not have an invasion message, such as the one found above Mytha's fog gate, will not give Effigies, but instead drop a +5 variant of their gear.\nPlayers will also receive a Human Effigy for defeating a player summoned into their world through the Red Sign Soapstone.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "98a927cc-d391-50ec-a970-5451f1bebf87",
+    "title": "Human Effigy",
+    "section": "merchants",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Human Effigy -  Dark Souls II - item - merchants \n merchants : Darkdiver Grandahl sells 3 for 3,000 souls each.\nMagerold of Lanafir sells 1 for 3,000 souls.\nGrave Warden Agdayne sells 13 for 3,000 souls each\nMerchant Hag Melentia sells 5 for 1,500 souls each.\nMilibeth in Things Betwixt will drop 3 if killed.\nStrowen\n**She will give 6 for free. The player needs to talk to her after getting the King's Ring.\n**She will drop 6 if killed.\nDyna & Tillo",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b3f2a477-2c39-56f8-af26-78966423f7c2",
+    "title": "Human Effigy",
+    "section": "treasure",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Human Effigy -  Dark Souls II - item - treasure \n treasure : Cathedral of Blue: Five in a chest before the Old Dragonslayer boss fight.\nForest of Fallen Giants: Five in NG+ and 1 in NG in a chest at the entrance. It's under the little wooden bridge.\nNo-man's Wharf ( ): Three can be looted from a corpse in the room where Lucatiel of Mirrah can be found. The corpse is hidden behind a breakable bookcase near the doorway. Replaces a Ring of Life Protection that was there in the Original edition of the game.\nThings Betwixt: In a chest on the second floor of the hut.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cc0398f4-21ef-53e7-bb11-00a04287e2b9",
+    "title": "Human Effigy",
+    "section": "general_information",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Human Effigy -  Dark Souls II - item - general_information \n general_information : Restores the player back to human form, allowing their health bar to recover up to its maximum value and allowing the player to see and interact with summon signs.\n\nBurning Human Effigies at bonfires temporarily decreases the player's world priority in the invasion selection process and disables the ability to summon other players except NPCs; this includes disabling the ability to use Cracked Blue Eye Orbs and Cracked Red Eye Orbs, but they can still place down their own summon sign to be summoned into other worlds. The effect allows players to perform various tasks in the location they burnt the effigy at, without having to worry about potential engagements by other players. This makes them ideal for when a player wishes to farm enemies for particular items, as well as preventing their summon signs from disappearing due to another player invading their world.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d619e4dc-8d31-5da6-8312-1dd434d998b0",
+    "title": "Human Effigy",
+    "section": "alternatives",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Human Effigy -  Dark Souls II - item - alternatives \n alternatives : Effigies can be difficult to acquire, but they are not the only way to become human again. These things can also reverse Hollowing:\nBeing summoned as a phantom or shade will turn the player human upon successfully completing their duty.\nThe player can find a shrine down a short path found above the fourth bonfire in Shrine of Amana down a short path that will turn the player human for free. This method only works if the player has no effigies. Dropping the effigies on the ground to remove them from the player's inventory will not work.\nA Ring of Life Protection or Ring of Soul Protection will prevent the player from Hollowing after dying as well as other benefits, and can be repaired for a respectable amount of Souls when they break upon death.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5210c118-3418-566f-876f-3742e18b6ce5",
+    "title": "King's Crown",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "King's Crown -  Dark Souls II - armor - description \n description : Crown of Vendrick, King of Drangleic.\n\nWhat makes a king? Some say that it is birthright, while others call it destiny.\n\nPerhaps it is not important, as long as the king's name serves to unite his people.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f0ac87c0-b3f4-58c4-a045-1b840636c902",
+    "title": "King's Crown",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "King's Crown -  Dark Souls II - armor - availability \n availability : Found behind a large locked door in Shrine of Amana after defeating Vendrick. Must be human in order to open the door.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "106a4ba4-055e-5838-bd4e-fda248d9fe39",
+    "title": "King's Set",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "King's Set -  Dark Souls II - armor - lead \n lead : The **King's Set** is a medium armor set in *Dark Souls II*.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9486ad26-e071-5bca-aaa8-43a77ea3e4b3",
+    "title": "King's Set",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "King's Set -  Dark Souls II - armor - description \n description : Armor of Vendrick, King of Drangleic.\n\nWhat makes a king? Some say that it is birthright, while others call it destiny.\n\nPerhaps it is not important, as long as the king's name serves to unite his people.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cf0444b5-10fb-5747-8517-40ee49e8f1d7",
+    "title": "King's Set",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "King's Set -  Dark Souls II - armor - availability \n availability : Found in a chest behind the locked door in the Shrine of Amana after defeating Vendrick. The chest is up the path to the left of the Soul of the King. The door is in an alcove hidden by vines across a submerged bridge to the left of the ruined gates after the second bonfire, but will only be open to characters in human form.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f8b70ff0-c3b7-572f-8205-42f711ce43f1",
+    "title": "King's Set",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "King's Set -  Dark Souls II - armor - notes \n notes : This set is available only once per playthrough. Burning a Bonfire Ascetic at Undead Crypt and defeating Vendrick a second time won't make a second set appear in the Shrine of Amana.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "10759342-d102-57e2-91a1-44252ee48b2b",
+    "title": "Memory of the King",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Memory of the King -  Dark Souls II - location - lead \n lead : The **Memory of the King** is a location in *Dark Souls II*.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "37eb9baf-afe9-525b-be05-4c63e5108491",
+    "title": "Memory of the King",
+    "section": "adjacent_locations",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Memory of the King -  Dark Souls II - location - adjacent_locations \n adjacent_locations : Undead Crypt",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "470593ab-6b2c-5190-aee2-42dc4cb4eb4c",
+    "title": "Memory of the King",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Memory of the King -  Dark Souls II - location - trivia \n trivia : Velstadt was absent from the hallway leading into Vendrick's room. This was fixed in *Scholar of the First Sin*. He can now be seen far in the distance, though he cannot be approached, as he is too far away and the ashen mist fades too quickly.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a3ceda48-a772-579b-87af-bc8c5dd0b025",
+    "title": "Memory of the King",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Memory of the King -  Dark Souls II - location - description \n description : Upon downloading the *Crown of the Sunken King* DLC and obtaining the Ashen Mist Heart, the player can enter a memory of Vendrick from before he went hollow. The memory is accessed through the pile of armor in Vendrick's arena, whether or not he has been slain. In the memory, Vendrick will be unhollowed and completely sane, allowing one to speak with him.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  }
+]

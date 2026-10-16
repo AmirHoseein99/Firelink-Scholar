@@ -2,11 +2,13 @@
 
 Run:
     python -m eval.annotate --questions eval/questions.json \
-        --candidates eval/v1/candidates --out eval/v1/qrels.json
+        --candidates eval/v3/candidates --out eval/v3/judgments.json
 
-Resumable: already-graded questions are skipped on restart. State is
-flushed to disk after every question (atomic write) so Ctrl-C never loses
-work.
+Manual-audit tool: writes plain per-question qrels entries; for the merged
+v3 schema (sources counters, probe holdout) prefer ``eval.llm_grade`` and
+``eval.build_seeds``. Resumable: already-graded questions are skipped on
+restart. State is flushed to disk after every question (atomic write) so
+Ctrl-C never loses work.
 """
 
 from __future__ import annotations
@@ -139,12 +141,12 @@ def main() -> None:
     ap.add_argument(
         "--candidates",
         type=Path,
-        default=REPO_ROOT / "eval" / "v1" / "candidates",
+        default=REPO_ROOT / "eval" / "v3" / "candidates",
     )
     ap.add_argument(
         "--out",
         type=Path,
-        default=REPO_ROOT / "eval" / "v1" / "qrels.json",
+        default=REPO_ROOT / "eval" / "v3" / "judgments.json",
     )
     ap.add_argument("--start", type=str, default=None,
                     help="question id to resume from (e.g. q021)")

@@ -76,8 +76,6 @@ class OpenAICompatibleAPI:
         }
 
         session = self._session()
-        print(self.url)
-        print(self.model)
         response = session.post(
             self.url,
             json=data,
@@ -106,7 +104,6 @@ class OpenAICompatibleAPI:
                 headers=self._headers(),
                 timeout=60,
             )
-        print(response.text)
         if response.status_code == 200:
             return response.json()
 

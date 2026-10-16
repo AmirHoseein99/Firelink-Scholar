@@ -1,0 +1,2732 @@
+[
+  {
+    "document_id": "02adce1c-1690-57dd-9636-6cb55d08002e",
+    "title": "Lords",
+    "section": "aftermath",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Darkstalker Kaathe, who opposed Gwyn's actions, attempted to bring about the Age of Dark and the coming of its ruler, the Dark Lord; most travelling to Oolacile and manipulating the citizens into upturning the grave of \"primordial man\". This resulted in Oolacile's fall as it began to be swallowed by the Abyss, consuming the land and corrupting its citizens. Kaathe also went to New Londo, seducing the Four Kings with the art of lifedrain, which corrupted them and their knights. In an effort to contain his darkwraiths, New Londo was flooded -an act that ultimately cost the lives of the city's inhabitants.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.549290542632526,
+    "bm25_score": null
+  },
+  {
+    "document_id": "03734d78-a332-51b5-af9f-52f91ed3a8af",
+    "title": "Oolacile Township Dungeon",
+    "section": "adjacent_locations",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Oolacile Township Dungeon -  Dark Souls - location - adjacent_locations \n adjacent_locations : Oolacile Township\nChasm of the Abyss",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.4895140752662591,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0663ddf6-a7c3-5e20-8a89-0410e2bc1942",
+    "title": "Primordial Serpents",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Kaathe resides in the darkness of the Abyss, but seems to be more involved in the affairs of Lordran than Frampt. Kaathe gave the Four Kings the art of lifedrain and consequently founded the Darkwraith covenant. He also seems to have tricked the residents of Oolacile into uncovering the corpse of Manus, driving him mad in the process. This sparked the spread of the Abyss, transforming the townsfolk into monstrous beings whose humanity has run wild, akin to Manus.\n\nIn the ending of Dark Lord, ten additional primordial serpents are seen, whose names are unknown. They appear to want to serve the newly-appointed Dark Lord, and possibly usher in the Age of Dark. An interesting note in this ending is that Kaathe states that both himself and Frampt will serve the Chosen Undead, disregarding any actions the player has taken before reaching this point, like placing the Lordvessel with Frampt instead of Kaathe, which would make the latter refuse to cooperate with the player, and vice-versa.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5108070735538955,
+    "bm25_score": null
+  },
+  {
+    "document_id": "075050da-6989-563f-a5cd-9329b3d4af85",
+    "title": "Alsanna, Silent Oracle",
+    "section": "free_the_king",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "This is an indication to locate the three Knights of Eleum Loyce so that they may provide aid against the Ivory King. Once the Ivory King has been defeated, Alsanna will thank the player and reveal some more of her background and her connection to Manus, Father of the Abyss:",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5148111701694571,
+    "bm25_score": null
+  },
+  {
+    "document_id": "079acb48-a891-543e-ab88-80ae3f9db370",
+    "title": "Knight Artorias",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "As centuries passed, the ruins of Oolacile overgrew into the \"Darkroot Garden\", where the remnants of the ancient Guardians of the city still patrol the area as Stone Knights. Sif survived the battle with Manus thanks to the intervention of the Chosen Undead. The wolf inherited Artorias's divine greatsword and the magical ring that had allowed the knight to cross the Abyss. The wolf settled in the forest where Artorias's tomb had been erected and, wielding his companion's sword in his jaws, continued to fight to guard Artorias's rest, slaughtering the numerous Undead who arrived with the intention of plundering the tomb of the legendary knight.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5237062837523805,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0dd93af1-e802-58a2-8f34-4c8ee9e67d4b",
+    "title": "Abyss",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - trivia \n trivia : Due to what was observed from Artorias, the phrase \"falling into the Abyss\" does not actually constitute entering it, but rather the near infinite and unconscious darkness of it seeking out lifeforms.\n**This likely means that Wolnir was very much alive when he fell, which explains how he was able to teach grave wardens his pyromancy, though what exactly it really was that actually caused his death is uncertain.",
+    "sources": [
+      "human",
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0f02ec23-c56f-5682-bc29-7862f631a0e4",
+    "title": "Manus Catalyst",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Manus Catalyst -  Dark Souls - weapon - lead \n lead : The **Manus Catalyst** (マヌスの大杖) is a catalyst in *Dark Souls* and is only available with the Artorias of the Abyss DLC.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.587928698422274
+  },
+  {
+    "document_id": "0f2d8b25-cd43-5669-b92a-38c36f42ab4f",
+    "title": "Knight Artorias",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "The Abyss Watchers established dominion over Farron Keep, the swampland once known as Oolacile or Darkroot Garden. Here they closely guarded what was once the Chasm of the Abyss, the cradle of Manus and a seedbed for Abyssal beasts; these headquarters would also have been in close proximity to Artorias's tomb. The Watchers gained notoriety due to their scorched-earth approach to containing outbreaks of the Abyss, destroying kingdoms at the first sign of exposure. Nonetheless, many would enlist as their followers in a bid to partake of wolf's blood and become part of the Undead Legion.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.579652862587094,
+    "bm25_score": null
+  },
+  {
+    "document_id": "10fc8d45-509d-5954-a5b2-dbafd1598772",
+    "title": "Knight Artorias",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Manus at one point kidnapped Princess Dusk of Oolacile and imprisoned her deep within the Chasm of the Abyss. His prized pendant eventually came under the possession of a Chosen Undead in the future; Manus, driven by his unrelenting search for his pendant, snatched the Undead from the future and brought them into the old Oolacile. There, the Chosen Undead encountered Knight Artorias, who had retained only the very last vestige of his sanity in the battle against the Abyss, still desperate to put down the corrupted creatures of Oolacile. During the fight that ensued between him and the Chosen Undead, Artorias succumbed to the Abyss entirely, and was finally defeated by the Undead.\n\nCiaran, who had arrived at the arena where Artorias was corrupted by the Abyss, also requested the Soul of Artorias from the Chosen Undead who had finally put an end to the knight's suffering, with the intention of paying proper respects to her passed dear friend.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6035284303656034,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1c9bdbd2-3d5a-534a-9080-18689cd294b3",
+    "title": "Oolacile",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Oolacile -  Dark Souls - location - lead \n lead : The lost land of **Oolacile** is a location that no longer exists by the events of *Dark Souls*. Several sources allude to its existence centuries beforehand and its focus on sorceries. Dusk of Oolacile states that the land \"was reduced to ashes\" long ago.\n\nThe later version of the game, *Dark Souls: Prepare to Die Edition*, comes with extra content that takes place in Oolacile 200-300 years before the events of the game, where the Chosen Undead must take the place of Artorias the Abysswalker and rescue Dusk from Manus, Father of the Abyss. During this period, Oolacile is slowly being swallowed by the Abyss. The content was later added as DLC to the console versions of the game as *Artorias of the Abyss*.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5684286882559452,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1d74ee42-c101-54a7-87b6-798ae1ad8d1f",
+    "title": "Manus, Father of the Abyss",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - attacks \n attacks : {'name': 'Abyss Cage', 'description': 'Dark Orbs propagate from above Manus, surrounding the entire arena before homing back in on Manus. This attack covers the entire arena, except for the area right next to Manus, like an inverted AoE. Dodge it by getting as close as possible to Manus once he starts casting. The Silver Pendant can also block this attack.'}",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5087397142341662,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1e879986-b5ac-5f12-90fa-b04d046bdacd",
+    "title": "Mushroom People",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Mushroom People -  Dark Souls - character - dark_souls_iii \n dark_souls_iii : The time of Lothric wasn't kind to the forest-dwelling Mushroom People. For a time they lived in the forest of Farron, undisturbed, and were even regarded as divine beings by the Xanthous Scholars, researchers who wished to learn more about the lost country of Oolacile.\n\nHowever, they would meet a rather violent end at the hands of the Ghrus, who emerged after the forest was consumed by a poisonous bog, a process that began when the Abyss Watchers linked the First Flame. What can be presumed to be the calcified remains of Elizabeth can also be found in a hidden cave containing the clothes of Princess Dusk and a scroll full of sorceries of Oolacile. It's unclear if some of the Mushroom People still exist far away from the rotted forest, or if they faced extinction after the Ghru's arrival.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.4902144211094531,
+    "bm25_score": null
+  },
+  {
+    "document_id": "22b29981-6493-5e32-bd48-42f13806aad6",
+    "title": "Frozen Eleum Loyce",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "At some point Alsanna reached Eleum Loyce and became close to the Ivory King. She was in truth a fragment of the Dark Soul of Manus, Father of the Abyss, that, despite the fact that he had been killed centuries in the past, had retained some of his will and power. Alsanna was born as the incarnation of Manus' fears and despite being a frightened and frail thing she managed to to coalesce once again absorbing the other humanities, and then obtain the shape of a human, with her own self-awareness. To sustain herself and seek more power, she sought the holders of magnificent souls, drawn to their awesome strenght. Alsanna thus sought the Ivory King to sustain herself and smother her innate fear and was accepted by him, quietly finding a place at the side of the leader of Eleum Loyce where he provided her comfort and she accepted Eleum Loyce as her home.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5106480394506336,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2483ee55-c8ff-5cf8-84b6-f3c1fa2927e7",
+    "title": "Oolacile",
+    "section": "artorias_of_the_abyss",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Despite this, when returning to the current age and speaking to Dusk, she would simply note that the Chosen Undead looks a lot like Artorias (believing it was Artorias who rescued her from Manus), without expanding on whether or not the Chosen Undead's actions had any effect in saving Oolacile.\n\nWhile speaking to Marvelous Chester, he would say that \"Oolacile has brought the Abyss upon itself [...] Fooled by that toothy serpent, they upturned the grave of primeval man, and incited his ornery wrath\", implying that either Kingseeker Frampt or Darkstalker Kaathe had a hand in Oolacile's downfall. Due to the inherent darkness of the Abyss, Darkstalker Kaathe is the more likely culprit.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6356171764133673,
+    "bm25_score": null
+  },
+  {
+    "document_id": "24cec2d2-3ada-526f-8733-9a6f359ee048",
+    "title": "Dusk of Oolacile",
+    "section": "artorias_of_the_abyss",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Dusk of Oolacile -  Dark Souls - character - artorias_of_the_abyss \n artorias_of_the_abyss : Dusk's summon sign vanishes from Darkroot Basin after the Chosen Undead obtains the Broken Pendant. After being pulled into a nearby dark void and transported to the past land of Oolacile, the Chosen Undead discovers that Dusk has been abducted by Manus, Father of the Abyss.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5366114155951315,
+    "bm25_score": null
+  },
+  {
+    "document_id": "251c3a30-c2e7-5bb2-b4b4-64ee1dc9942a",
+    "title": "Abyss",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - lore \n lore : The Abyss is a realm of Dark born from the Dark Soul or its fragments. It's an ecosystem capable of creating life, as generated by one of the core components of the First Flame, and of expanding while slowly absorbing everything in its path; it is uninhabitable to all beings aligned with Fire including the Gods, as they require special equipment or protection to prevent corruption (both in the spiritual and physical sense). In contrast, any beings aligned with or indifferent to the Abyss (such as Humans) are able to roam it with no risk of harm or corruption.",
+    "sources": [
+      "human",
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "28f20020-62c8-5e52-86f0-ebad79fed028",
+    "title": "Lothric",
+    "section": "the_outrider_knights",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "The fading of the Flame and the erosion of their faith made the citizens of Lothric more and more desperate, some of whom were transformed into humanoid trees that were turned in prayer towards Lothric Castle. Furthermore, the undead of the city began to show signs of an epidemic, in which their Dark Soul would explode from their bodies and manifest as an amorphous black blob with bestial features which attacked anything with destructive ferocity. The infestation of these Pus of Man led to the permanent closure of the Grand Archives' doors, with the scholars isolating themselves from the desperate situation of the kingdom to continue their work.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.4886576238634316,
+    "bm25_score": null
+  },
+  {
+    "document_id": "29e9ac90-92c5-55de-b5a8-a6e984380249",
+    "title": "Chosen Undead",
+    "section": "artorias_of_the_abyss",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - artorias_of_the_abyss \n artorias_of_the_abyss : In the *Artorias of the Abyss* DLC the Chosen Undead travels back in time to the ancient realm of Oolacile, where they discover the truth about the death of the Knight Artorias and the fall of Oolacile. The quest presented in this DLC is completely optional and therefore, it is not required to complete the game.",
+    "sources": [
+      "human",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.878177878448188
+  },
+  {
+    "document_id": "2aa56742-5a66-54f3-8e3d-07712fa1fcef",
+    "title": "Abyss",
+    "section": "armor",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - armor \n armor : Dark Set",
+    "sources": [
+      "human",
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2ab456c3-cbcd-5b40-8d4f-9411cef57b41",
+    "title": "The Nameless King",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "However, the rest of the firstborn's reign was marked by catastrophes. The Four Kings of New Londo were corrupted by the dark power of Darkstalker Kaathe, starting to sow devastation nearby the city of the gods. Following Knight Artorias's failure to defeat the Darkwraiths, the gods were forced to flood the city, sacrificing all the humans within, and seal it. A similar event happened in Oolacile when, again due to Kaathe, the awakening of the primordial human Manus and his fury led to the collapse of the country when Artorias was unable to defeat him. In addition to the grave situation on the borders of Anor Londo, the city of the gods itself became a dangerous place when a group of cultists began targeting the clan of Gwyn and their kind, and occult weapons capable of killing the gods reached inside the walls of Anor Londo. Furthermore, in the city of the gods Seath the Scaleless had now completely lost his mind, transforming his Archives into a prison and going so far as to kidnap",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5323314958588586,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2ad776c6-69b2-510d-847e-db6744d06806",
+    "title": "Soul of Manus",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Soul of Manus -  Dark Souls - item - lead \n lead : The **Soul of Manus** (深淵の主マヌスのソウル) is a consumable in *Dark Souls*. It is the soul of Manus, Father of the Abyss, who can only be fought in the *Artorias of the Abyss* DLC.",
+    "sources": [
+      "human",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.56190702244581
+  },
+  {
+    "document_id": "30b0a9a4-4cf5-5658-92ef-05684a121887",
+    "title": "Knight Artorias",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "The Chosen Undead further journeyed within the Chasm of the Abyss where they finally defeated Manus and put him to rest. While Dusk was rescued in the process, she was driven by Elizabeth into thinking that she was saved by Artorias, preserving the honor and the legacy of the Wolf Knight. Nevertheless, Dusk came to recognize the Chosen Undead's similarity to the fabled knight, and developed doubts of her own as to her true savior.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5309371528901851,
+    "bm25_score": null
+  },
+  {
+    "document_id": "387b1207-25e4-5b1a-8349-54108f24a37c",
+    "title": "Chosen Undead",
+    "section": "artorias_of_the_abyss",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "After being dragged back in time, the Chosen Undead wakes up inside a cave beneath some trees. Outside, they are confronted by the Sanctuary Guardian. After slaying the beast, the Chosen Undead finds some sort of garden temple where they encounter a giant, talking mushroom named Elizabeth, who informs the player that the realm of Oolacile is being consumed by the darkness of the Abyss, She also tells the player that Princess Dusk has been kidnapped by a creature from the abyss and that Knight Artorias has ventured unto Oolacile to put an end to the spread. However, she assures the player that Artorias will be overwhelmed by the darkness.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5579684164577631,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3990f904-97ff-57aa-897c-be051e69eb78",
+    "title": "Dusk of Oolacile",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Dusk of Oolacile -  Dark Souls - character - trivia \n trivia : Dusk appears to believe that she was saved by Artorias, as told by the legend, while in actuality she was saved by the Chosen Undead. While unaware that Artorias had been corrupted by the Abyss before he could save her, Dusk's senses do hint that the Chosen Undead bears the same \"resonance\" as her fabled savior, leading her to question the details of her temporarily intangible captivity.\nThe feelings that she sensed during her imprisonment in the Abyss—\"*a wrenching nostalgia, a lost joy, an object of obsession, and a sincere hope to reclaim it\"—*are evocative of the \"shards\" of Manus present in Drangleic, who each represented a form of longing; namely Nadalia, Alsanna, Nashandra and Elana.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.48882380334187403,
+    "bm25_score": null
+  },
+  {
+    "document_id": "39ca40dd-147c-53c5-9e76-7f4296539401",
+    "title": "Giants (Lore)",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Sometime around the fall of Oolacile, Gough arrived at the kingdom in response to the uncontrollable expansion of Manus' Abyss. However, he was imprisoned by the citizens of the country in a tower sealed by powerful magic. The eye holes of his helm were packed with tree resin by those who dismissed the force of the giant as brutish, indicating racist sentiments of many towards the giants.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5661442596259778,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3fc6904e-4694-5aa2-9bcd-177bddb1182f",
+    "title": "Drangleic",
+    "section": "drangleic_s_fall",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "As the First Flame continued to wane, an Abyss opened beneath Drangleic, the result of the scattered fragments of an ancient abyss and the dissipated Manus, Father of the Abyss. Coalescing again, this abyss expanded across the region and assimilated all things into its growth, with its darkness felt even by those attuned to magic in neighbouring regions. A group of Undead led by Darkdiver Grandahl, called the Pilgrims of Dark, started to make pilgrimages to what they considered holy sites and delved into the Dark Chasm, to overcome the trials that lurked in the depths to refine the darkness within them. In the heart of the abyss, the Darklurker manifested: A dark, angelic creature that manipulated darkness along with sorcery, pyromancy and miracles and demonstrated superhuman abilities.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5143527486909081,
+    "bm25_score": null
+  },
+  {
+    "document_id": "43e639b1-ecd1-5c1c-b5d5-6dd5f97c5cae",
+    "title": "Bastille Lord",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "His fear became so vast and overwhelming that he quickly turned to worse methods to rid himself of the horrible blight. When the Bastille had become too full of afflicted humans, he ordered his monstrous Flexile Sentries to round up as many of them as possible into flimsy ships, to hurl them into the ocean and have them die at sea, away from land. Among them were the sorcerers of his country, some of which would survive the horrible punishment and find their way to a southern land where they established their own kingdom.\n\nDespite all the measures he took to prevent his kingdom from falling victim to the fading of its era, the Bastille Lord could not stop the march of time. Olaphis would crumble into obscurity, and with the passage of time, the land would come to be known first as Venn, then as Drangleic. The ruins of his castle still stand, rotting away with some of its original, undying captives.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.49068210163568426,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4f313e4e-abf3-5323-9d41-66c6b0ae9694",
+    "title": "Dusk of Oolacile",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Dusk of Oolacile -  Dark Souls - character - lore \n lore : Dusk is from the ancient and long-dead land of Oolacile, which practiced magic alien even to the magic realm of Vinheim. It is unknown how she was trapped in the Golem in the first place, but it is clear that she is in the wrong era.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.49388067457104906,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4fa9de46-41c4-5e69-a0a5-bc2193a2880c",
+    "title": "Manus, Father of the Abyss",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - dark_souls \n dark_souls : Manus was a primordial human who possessed an extraordinary soul consisting of a viscous, lukewarm lump of gentle humanity, an immense Dark Soul. He was also a sorcerer who used a rough and old wooden catalyst, very crude but large enough to be used as a weapon. His sorceries could grant a fleeting will to the Dark of humanity, induced to relentlessly chase enemies through channeling innate human affinities. Manus also possessed one half of an ancient stone pendant, a precious magical artifact that emanated a distinct, wrenching nostalgia as well as reverence.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5022934894364826,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5061c232-37ad-5d67-a949-01a78fadd2b1",
+    "title": "Invaders",
+    "section": "oolacile_township",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Invaders -  Dark Souls - mechanic - oolacile_township \n oolacile_township : Marvelous Chester: Spawns down the stairs near the first Bloathead Sorcerer (which is part of the *Artorias of the Abyss* DLC).",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.655198964238966
+  },
+  {
+    "document_id": "52d857dd-cdc6-5d56-9b93-128c1c91ca4f",
+    "title": "Bloated Head",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Bloated Head -  Dark Souls - armor - description \n description : The head of an Oolacile resident whose humanity went wild after being devoured by the Dark of Manus, father of the Abyss.\n\nThe bloated head is fissured, the cracks lined with innumerable tiny red eyeballs with a hard outside and mucous-filled inside, no sane person could ever wear it.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.49697853183704294,
+    "bm25_score": null
+  },
+  {
+    "document_id": "542fa741-9a4a-50f0-b62e-c0c587e7f205",
+    "title": "Abyss",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - location \n location : In Dark Souls the Abyss is located at the end of the New Londo Ruins. To reach to the Abyss, the floodgates must be lowered and the Covenant of Artorias ring, a reward for killing Great Grey Wolf Sif, must be worn. After climbing down a spiral staircase within a tower, the path will abruptly end, making it necessary to descend into the darkness of the Abyss.\n\nThe DLC *Artorias of the Abyss* allows us to explore a more recent Abyss, despite being located in a past era, deep within the dungeons of Oolacile.",
+    "sources": [
+      "human",
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "574ff11d-e94a-5872-81b1-f027a05d4eb4",
+    "title": "Elizabeth",
+    "section": "dark_souls",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "After the successful rescue of Oolacile's crown princess, she thanks the hero, but decides against sharing the truth of the tale, leading the heroic deed to be associated with Artorias instead. She also refuses to elucidate Dusk on the true nature of the beast that had kidnapped her, despite her many requests.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.506767633984861,
+    "bm25_score": null
+  },
+  {
+    "document_id": "57bcfcd5-7b4b-5c96-97fa-ae86973869b0",
+    "title": "Oolacile Sanctuary",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Oolacile Sanctuary -  Dark Souls - location - description \n description : The Oolacile Sanctuary is the second location which the player travels through in the *Artorias of the Abyss* DLC. It is home to Elizabeth.\n\nA Humanity can be found if the player turns right from the bonfire, on a corpse behind a large gravestone. Elizabeth is found to the left of the bonfire.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.48932713895704516,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5cd1ada2-7923-5f33-a49d-099d31911def",
+    "title": "Manus, Father of the Abyss",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - trivia \n trivia : Manus may be named for Mannus, the father of mankind in Germanic mythology. According to the Roman writer Tacitus, the Germanic tribes believed a god *Tuisto* sprang from the ground and had a son, *Mannus*, from whom all humans were descended. Manus is also the Latin word for “hand”, alluding to Manus’s massive left hand.\n**However a more accurate translation of \"深淵の主マヌス\" would be \"Manus, Lord of the Abyss\".",
+    "sources": [
+      "human",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.79415542537263
+  },
+  {
+    "document_id": "61b3a5e4-be4b-50ca-9ada-6f8383399f60",
+    "title": "Locations (Dark Souls)",
+    "section": "artorias_of_the_abyss",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Locations (Dark Souls) -  Dark Souls - location - artorias_of_the_abyss \n artorias_of_the_abyss : The *Artorias of the Abyss* DLC takes place in the land of Oolacile, far back in the past. It includes the following locations:",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.372039135788903
+  },
+  {
+    "document_id": "6ab5d255-e36c-59b1-93d2-283c78a1c9a7",
+    "title": "Knight Artorias",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Kaathe, following his failure with the Four Kings, arrived in Oolacile and manipulated its inhabitants into upturning the grave of Manus, a primordial man with an extraordinary Dark Soul and dark sorcery skills, who had been buried beneath the dungeons of their city, and resurrect him. Awakening to find his precious broken pendant missing, Manus was eventually driven mad and his Dark Soul went wild, transforming him into a dark beast eternally seeking his pendant. His immense mass of humanity out of control led to the manifestation of an Abyss that spread, threatening to devour the entire land. The Dark emanating from Manus not only generated countless Humanity Phantoms with a will of their own but also influenced the residents of Oolacile, making their humanity go wild and horribly mutating their bodies, bloating their head and opening them with cracks lined with innumerable tiny red eyeballs and protruding brain parts.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6835354871559515,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6b29fe29-3e4b-59b3-894e-b05482ac6b97",
+    "title": "Abyss",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - notes \n notes : It is possible to reach and kill the Four Kings by killing Ingward, even if the player hasn't acquired the Lordvessel yet.\nThe bonfire that appears *will* allow warping to escape the Abyss, even without the Lordvessel.\n**This can be used as a shortcut for far away locations, such as Anor Londo, Tomb of the Giants or Ash Lake. If the player avoids resting at other bonfires, the Abyss can be used as a \"home base\", warping to locations in Lordran, and returning via Homeward Bone.\nAlthough it appears to be a black void of nothingness, the \"ground\" of the abyss actually floats a few meters above an unseen cobblestone floor. This can be observed by using a light source, such as the Skull Lantern or Sunlight Maggot.\nItems that require hitting a surface to activate, such as Prism Stones and Carvings, will not work in the Abyss as they simply fall through the \"floor\".",
+    "sources": [
+      "human",
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "70b22139-adfc-51a0-a95c-d178d35cb344",
+    "title": "Abyss Watchers",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Eventually, the Watchers linked the Fire, although it is unknown if one or all had done so. With the Watchers becoming Lords of Cinder, the wolf blood dried up. The Followers, now having nothing to live for, went hollow, roaming the land and eventually disappearing into the Painted World of Ariandel. With no one remaining to execute the corrupted, the acolytes were slowly devolved by the Abyss, and Farron was consumed in a rotting bog. When the Abyss Watchers were awakened to kindle the Flame once again, they returned home to find it corrupted and their mission unsuccessful. The Watchers in the keep now fight against themselves, endlessly slaying their brethren corrupted by the Abyss.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.4947214483602079,
+    "bm25_score": null
+  },
+  {
+    "document_id": "70f421e5-c322-57dc-96b8-8416a7c6d5bf",
+    "title": "Bloathead",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bloathead -  Dark Souls - enemy - lore \n lore : Bloatheads are the disturbed remnants of the populace of Oolacile, whose humanity went out of control after the Dark of Manus, father of the Abyss, overtook them.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.7079841795046
+  },
+  {
+    "document_id": "751ad643-c78c-5705-aeac-fdc89fe7503c",
+    "title": "Illusory Wall",
+    "section": "oolacile_township",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Illusory Wall -  Dark Souls - mechanic - oolacile_township \n oolacile_township : On a walkway that faces the first mimic in the Oolacile Township area connected to the two-floor structure occupied by Bloathead Sorcerers that contains the sorcery Dark Orb which is connected to the main 'strip' of Oolacile Township to the right (accessible by taking the path where an NPC invades). The wall is 'unlocked' by a light source as alluded to by the developer message close by.\nIn the large multifloored building on the lower level of the township. Go up the stairs to the top floor until the path dead ends at a stone brick wall. Using a light source will reveal a narrow doorway leading to a chest.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.291204516566843
+  },
+  {
+    "document_id": "8206a03a-5910-58d3-a5be-4715dff40d2c",
+    "title": "Oolacile Township",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Oolacile Township -  Dark Souls - location - lead \n lead : **Oolacile Township** is a location in* Dark Souls* that is part of the *Artorias of the Abyss* DLC.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.072776844371862
+  },
+  {
+    "document_id": "843d9de7-de5d-57ea-91d1-66aec5895f83",
+    "title": "Oolacile Township Dungeon",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Oolacile Township Dungeon -  Dark Souls - location - lead \n lead : The **Oolacile Township Dungeon** is a location in *Dark Souls* that is part of the *Artorias of the Abyss* DLC.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.35799824836241
+  },
+  {
+    "document_id": "84a1092d-edc6-535a-bdfd-dac2053ca0af",
+    "title": "Manus Catalyst",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Manus Catalyst -  Dark Souls - weapon - description \n description : A sorcery catalyst born from the soul of Manus, Father of the Abyss. A rough, old wooden catalyst large enough to be used as a strike weapon.\n\nSimilar to the Tin Crystallization Catalyst, it boosts the strength of sorceries, but limits the number of castings.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.091798759788617
+  },
+  {
+    "document_id": "8874c823-8033-525a-aae4-2e737c7b26c8",
+    "title": "Chosen Undead",
+    "section": "artorias_of_the_abyss",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "During their quest in Oolacile the Chosen Undead also meets Marvelous Chester, a somewhat sinister merchant who, like the player, was dragged into the past. He reveals to the Chosen Undead that the spread of the dark was caused when the inhabitants of Oolacile opened the grave of the primeval man due to the influence of a \"toothy serpent\". The Chosen Undead then treads through Oolacile Township in search of the dark source.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5497382462324933,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8e3fd917-80ba-5511-9e4d-c56055791296",
+    "title": "Manus, Father of the Abyss",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus at one point kidnapped Princess Dusk of Oolacile—possibly after her rescue from a Golden Crystal Golem—and imprisoned her deep within the Chasm of the Abyss. In the meantime, his prized pendant came under the possession of Seath the Scaleless and then a Chosen Undead in the future; Manus, driven by his unrelenting search for his pendant, snatched the Undead from the future and brought them into the old Oolacile. There, the Chosen Undead put down the corrupted Knight Artorias and journeyed within the Chasm of the Abyss, where they finally defeated Manus and put him to rest. While Dusk was rescued in the process, she was driven by Elizabeth into thinking that she was saved by Artorias, preserving the legacy of the Wolf Knight. Nevertheless, Dusk came to recognize the Chosen Undead's similarity to the fabled knight, and developed doubts of her own as to her true savior.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6514963279386317,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8e74b7db-5936-5240-ae6c-5849c5aff13a",
+    "title": "Oolacile",
+    "section": "artorias_of_the_abyss",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Oolacile -  Dark Souls - location - artorias_of_the_abyss \n artorias_of_the_abyss : In *Dark Souls: Prepare to Die Edition* or *Artorias of the Abyss* DLC, the Chosen Undead passes through part of Oolacile after traveling into the past; however, despite it taking place centuries before the rest of the game, the Oolacile Township is still fraught with hopelessness. The township has become filled with enemies (specifically Bloatheads, Bloathead Sorcerers, and a Chained Prisoner) as the Abyss spreads, and is seemingly deserted.\n\nOne of the Four Knights of Gwyn, Artorias the Abysswalker, arrived in Oolacile to rescue Dusk of Oolacile from Manus, Father of the Abyss, but fell victim to the Abyss. By the time the Chosen Undead found him, Artorias was hostile and engaged them in combat. After the Chosen Undead defeated the brave knight, they finish what Artorias had started, continuing through Oolacile Township and onward, eventually defeating Manus and rescuing Dusk.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5511297828958117,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9570740a-66de-5c18-957e-ca313fee4aaa",
+    "title": "Oolacile Township Dungeon",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Oolacile Township Dungeon -  Dark Souls - location - notes \n notes : In addition to the Oolacile Township and Chasm of the Abyss, Manus, Father of the Abyss acts as the area boss for the Oolacile Township Dungeon for summoning and invasion purposes.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5933643786344962,
+    "bm25_score": null
+  },
+  {
+    "document_id": "97d58b07-ac7b-5644-9055-062e46f44b72",
+    "title": "Bonfire (Dark Souls)",
+    "section": "oolacile",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Bonfire (Dark Souls) -  Dark Souls - mechanic - oolacile \n oolacile : Prepare to Die Edition and Artorias of the Abyss DLC content only.\n\n***Sanctuary Garden** (warping point)\n**On the other side of the rift, before the fight with the Sanctuary Guardian.\n\n***Oolacile Sanctuary** (warping point)\n**Close to Elizabeth.\n\n***Oolacile Township** (warping point)\n**After the coliseum that acts as a staging area for the Knight Artorias fight.\n\n***Oolacile Township Dungeon** (warping point)\n**At the end of the Township and before the entrance to the Chasm of the Abyss.\n***Chasm of the Abyss** (warping point)\n**Appears after defeating Manus.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.674901943471863
+  },
+  {
+    "document_id": "985958be-9408-5ac2-9cf6-6f0e9be514f6",
+    "title": "Manus, Father of the Abyss",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus was a sorcerer of Oolacile, and after he died, his body was buried in the caverns beneath the city. 200 to 300 years prior to the journey of the Chosen Undead, the Primordial Serpent Kaathe arrived in Oolacile, in search of a potential Dark Lord following the flooding of New Londo. He manipulated the country to upturn the grave of the primordial man, Manus, buried beneath the dungeons of their city and resurrect him. Manus awakened to find his pendant missing, and was eventually driven into a beastly frenzy as his Dark Soul went wild, transforming him into the \"Father of the Abyss\".",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6780352043771288,
+    "bm25_score": null
+  },
+  {
+    "document_id": "99d2df09-7336-5640-b580-1221670e7df9",
+    "title": "Chasm of the Abyss",
+    "section": "boss",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - boss \n boss : Manus, Father of the Abyss",
+    "sources": [
+      "human",
+      "template",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.137449024514833
+  },
+  {
+    "document_id": "9abf34cc-6504-54b7-8cd8-5ffead9dff54",
+    "title": "Humans",
+    "section": "age_of_gods",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Meanwhile, in a place called Oolacile, the land of golden sorceries, humans loyal to the Gods were convinced by the Darkwraith leader named Kaathe, a primordial serpent loyal to the Pygmy, to raise up a primeval man who had been buried there. He went mad, and his Humanity bubbled over from his uncontrollable rage, mutating him into a dark monster. His Humanity overflowed and consumed the very world around him, generating another Abyss, and corrupting the citizens of Oolacile. Knight Artorias, one of the four knights of Gwyn, would be tasked to face the outbreak of the Abyss, only to be corrupted by it.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6131485166788648,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a7fb7783-e00f-5d5b-a15f-b28810c37862",
+    "title": "Sorcery (Dark Souls)",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Sorcery (Dark Souls) -  Dark Souls - spell - lore \n lore : Sorcery is said to have originated with Seath the Scaleless, the \"grandfather of sorcery\". The ancient land of Oolacile has its own sorceries, which are an \"approximation\" when compared to modern Sorcery and are characterized by augmenting the weapon or body, rather than causing offensive damage. Manus, Father of the Abyss is the source of at least one Abyss sorcery.\n\nThe other Abyss sorceries are said to be discovered by an Oolacile sorcerer on the brink of madness, they differ from normal offensive sorceries, which are derived from souls, in that they draw power from humanity and cause both Magic and Physical Damage due to their \"weighty\" nature.\n\nBig Hat Logan of the Dragon School in Vinheim played a role in the development of numerous sorceries. During his infatuation with Seath in the Regal Archives, Logan developed new sorceries and boosted existing ones.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.28683314301993
+  },
+  {
+    "document_id": "a9891f4e-16b7-59e2-b86c-fe8ee35c4b76",
+    "title": "Manus, Father of the Abyss",
+    "section": "artifacts",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - artifacts \n artifacts : Soul of Manus\nManus Catalyst\nPursuers\nBroken Pendant",
+    "sources": [
+      "human",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.289115083194144
+  },
+  {
+    "document_id": "b0122752-465b-5807-ade3-a3e649c8be88",
+    "title": "Artorias of the Abyss",
+    "section": "locations",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Artorias of the Abyss -  Dark Souls - mechanic - locations \n locations : In order of appearance:\nSanctuary Garden\nOolacile Sanctuary\nRoyal Wood\nOolacile Township\nOolacile Township Dungeon\nChasm of the Abyss",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.32455918163197
+  },
+  {
+    "document_id": "b6b24f49-0c38-5fa2-b495-bc49a57ee48d",
+    "title": "Lords",
+    "section": "aftermath",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "One of Gwyn's four knights, Artorias, and his wolf companion Sif made a covenant with the beings of the Abyss that allowed him to traverse it, so that he could hunt the Darkwraiths. Artorias later arrived in Oolacile in an attempt to combat the spread of the Abyss, but was overcome and was forced to sacrifice his greatshield to save Sif. This left him unprotected from the Abyss, and he later became corrupted and driven to madness.\n\nThe Way of White was usurped by Gwyn's uncle, Lloyd, who also would start hunts against the Undead.\n\nEventually, the undead were corralled into several asylums to await the end of the world, for it is prophesied by Astora - who themselves inherited the prophecy from Frampt - that one day an undead will escape the prison and succeed Gwyn in linking the fire. At the same time, Kaathe preaches that this chosen has the opportunity to become the new Dark Lord and usher in the Age of Dark.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.49949347752295326,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b9ea9b35-1658-578e-bed9-ad7b6dd7d8d4",
+    "title": "Manus, Father of the Abyss",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - plot \n plot : Once the Chosen Undead has the Broken Pendant in their possession, Manus pulls them through a magical rift from Darkroot Basin into the past land of Oolacile.\n\nHe kidnapped Princess Dusk and is eventually confronted in the Chasm of the Abyss.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6277067314472284,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c51a4a7b-7af1-50af-a2ec-e31f8d75eaa5",
+    "title": "Oolacile Sanctuary",
+    "section": "miscellaneous",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Oolacile Sanctuary -  Dark Souls - location - miscellaneous \n miscellaneous : Elizabeth's Mushroom x1 x3\nHumanity",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.48853013229701003,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c5f5b6f3-d501-595e-b90c-b92d745c15ee",
+    "title": "Manus, Father of the Abyss",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - description \n description : Manus is the final boss of the *Artorias of the Abyss* DLC. He is encountered in the Chasm of the Abyss.\n\nIt is possible to summon the past version of Great Gray Wolf Sif to aid in the battle. Sif's summon sign is found in the arena where the player fights Manus, inside the fog door.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5236138661997893,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d195f089-1cc1-541e-8776-5fac25a27dcf",
+    "title": "Pursuers",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Pursuers -  Dark Souls - spell - description \n description : Sorcery of Manus, Father of the Abyss. Grant a fleeting will to the Dark of humanity, and volley the result.\n\nThe will feels envy, or perhaps love, and despite the inevitably trite and tragic ending, the will sees no alternative, and is driven madly toward its target.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.367778262765047
+  },
+  {
+    "document_id": "d22dba44-450e-5e8e-b74a-0e622470d32e",
+    "title": "Hawkeye Gough",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "He witnessed the fall of Oolacile caused by their arrogance and greed, as well as Artorias' failure to quell the Abyss and his demise at the hands of the Chosen Undead. Should the time traveling hero choose to engage the legendary Kalameet, a dragon so fierce not even Anor Londo dared to cross him, Gough could even be allowed one last hunt, firing an impressive shot in spite of his now limited vision, speaking to the true might of the legendary archer. Having done that, though, he'll give away his precious bow, officially leaving that life behind him.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5000450773811408,
+    "bm25_score": null
+  },
+  {
+    "document_id": "da63f528-8d4a-5fcb-804d-2cb424835960",
+    "title": "Bloathead",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bloathead -  Dark Souls - enemy - location \n location : Bloatheads can be found throughout Oolacile Township and the Chasm of the Abyss. One is also located on the elevator in the Oolacile Township Dungeon.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.88387659363075
+  },
+  {
+    "document_id": "db63a697-065d-5b76-834f-a6ae1aa09fa8",
+    "title": "Chasm of the Abyss",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - description \n description : Located at the lower portion of Oolacile, it is found after the player exits the Oolacile Township Dungeon, and a shortcut to the Royal Wood can be opened via an elevator. In this area, the player will fight Manus, Father of the Abyss, the final boss of the DLC. At the bottom of the chasm, a circle of stones surrounding a grave can be found, alluding to the upturned grave of Primeval Man.",
+    "sources": [
+      "human",
+      "template",
+      "dense"
+    ],
+    "dense_score": 0.5177251989937606,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dbde7d75-06a7-520b-b017-5550fe901781",
+    "title": "Knight Artorias",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "As the Abyss continued to spread across the land of Oolacile, Knight Artorias arrived to halt its advance and confront Manus, as the Knight of Gwyn already had experience from fighting the Abyss and its creatures in New Londo. However, Artorias's silver pendant was stolen by Oolacile's inhabitants and hidden behind an illusory wall, depriving Artorias of protection against Manus's dark sorceries. Artorias, together with his trusted companion Sif, nevertheless faced Manus, but his strength proved insufficient to defeat the Father of the Abyss. Wounded in the battle, Artorias used his Cleansing Greatshield to form a magic barrier to protect Sif against the Dark. Artorias, his soul corrupted by the Abyss and his armor corroded, was left alone in his fight against the Abyssal creatures of Oolacile.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6100372145909414,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dc4a3ccc-46ed-50b8-a1a4-533c826f95a0",
+    "title": "Alvina of the Darkroot Wood",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Alvina of the Darkroot Wood -  Dark Souls - character - lore \n lore : Alvina is a white Great Feline that had lived for centuries since the early Age of Fire and is capable of human speech. At one point she became a trusted friend of Knight Artorias, one of the Four Knights of Gwyn, as well as his companion Great Grey Wolf Sif.\n\nAfter Artorias' death, Alvina moved to the ruins of Oolacile, now overgrown and known as the \"Darkroot Garden\", where the knight had succumbed in his fight against the Abyss of Manus. Sif too had moved here after he survived the battle with Manus and inherited Artorias' divine greatsword and the magical ring that had allowed the knight to cross into the Abyss. The wolf settled in the forest where Artorias' tomb had been erected and, wielding his companion's sword in his jaws, continued to fight to guard Artorias' rest, slaughtering the numerous Undead intent on plundering the tomb of the legendary knight.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.66392051343988
+  },
+  {
+    "document_id": "dd7afd29-89a5-5c70-85e3-a2c319c5308a",
+    "title": "Manus, Father of the Abyss",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "His immense mass of humanity out of control led to the manifestation of an Abyss that spread, threatening to devour the entire land. The Dark emanating from Manus generated countless Humanity Phantoms and seeped among the residents of Oolacile, making their humanity go wild and mutating their bodies, their bloated heads lined with innumerable tiny red eyeballs and brain parts protruding from cracks. Corrupted Oolacile sorcerers discovered abyssal sorceries, more weighty and dealing physical damage instead of magical, since the Dark produced sorceries with a more tangible, \"human\" presence.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.7074541834683405,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dfda43e9-1eff-52bd-947f-d973eeb9de84",
+    "title": "Bloated Sorcerer Head",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Bloated Sorcerer Head -  Dark Souls - armor - description \n description : The head of an Oolacile resident whose humanity went wild after being devoured by the Dark of manus, father of the Abyss.\n\nThe bloated head is fissured, the cracks lined with innumerable tiny red eyeballs and accented by protuding brain parts. It is lightly enchanted, suggesting that it may have belonged to a sorcerer.",
+    "sources": [
+      "human",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.156900755756595
+  },
+  {
+    "document_id": "e25da2cc-cfd3-5c53-b396-3b7f140a5db1",
+    "title": "Artorias of the Abyss",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Artorias of the Abyss -  Dark Souls - mechanic - plot \n plot : While everything about *Artorias of the Abyss* is technically optional, the main storyline consists of the Chosen Undead taking the place of Knight Artorias, rescuing Dusk of Oolacile and killing Manus, Father of the Abyss.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.286068685271047
+  },
+  {
+    "document_id": "e6a4164f-96f9-5766-aac6-cae3795c2918",
+    "title": "World",
+    "section": "oolacile",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "World -  Dark Souls - location - oolacile \n oolacile : Chasm of the Abyss*\nOolacile Sanctuary*\nOolacile Township*\nOolacile Township Dungeon*\nRoyal Wood*\nSanctuary Garden*\n**Entrance\n**Boss Arena\n(*) = *Artorias of the Abyss* DLC and *Prepare to Die Edition* only",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.4907011218016599,
+    "bm25_score": null
+  },
+  {
+    "document_id": "eb4694c5-7e5c-51e8-a8d0-d6e887e07066",
+    "title": "Oolacile",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Oolacile -  Dark Souls - location - plot \n plot : Traveling to the land of Oolacile can only be done after obtaining the Broken Pendant, which is dropped by a Crystal Golem in The Duke's Archives after speaking with Dusk of Oolacile. Approaching the area where Dusk is initially saved, with the Pendant in one's possession, will reveal a shadowy portal, which the player examines.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5283024599097728,
+    "bm25_score": null
+  },
+  {
+    "document_id": "eb7a867e-7eda-52f7-8391-eed42d199562",
+    "title": "Manus, Father of the Abyss",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - lead \n lead : is a character in *Dark Souls* and a boss in *Dark Souls: Artorias of the Abyss*.",
+    "sources": [
+      "human",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.088308184384495
+  },
+  {
+    "document_id": "edaa9b72-53d3-5cf5-b948-ea076b7a98c8",
+    "title": "Manus, Father of the Abyss",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - dark_souls_ii \n dark_souls_ii : Although he was killed, the Dark Soul of Manus was so large and powerful that he was reborn in death, and his soul split into miniscule fragments that retained some will. These pieces began to coalesce once again by absorbing other humanities, becoming the incarnations of different emotions of Manus and then human in shape, with their own self-awareness: Elana was the embodiment of Manus' wrath, Alsanna of his fear, Nadalia of his solitude and Nashandra, the tiniest fragment of Manus, the embodiment of his want. These new entities had some recollection of their father and his dark powers and when the Abyss that they called home was dissipated they scattered across the land. To sustain themselves and seek power, they reached Drangleic where in one way or another they came into contact with the holders of magnificent souls, drawn to their awesome strength.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5362676001167775,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f28309f9-75e6-5837-8aa5-1086014a8e52",
+    "title": "Manus, Father of the Abyss",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "As the Abyss spread across the land of Oolacile, Knight Artorias arrived to halt its advance and confront Manus, as the Knight of Gwyn already had experience with fighting the Abyss and its creatures after the events of New Londo and his hunt for the Darkwraiths, and possessed a Silver Pendant that protected him from the Dark. However, Artorias's pendant was stolen by Oolacile's inhabitants and hidden behind an illusory wall, depriving Artorias of protection against Manus's dark sorceries. Together with his trusted companion Sif, Artorias faced Manus but his strength proved insufficient to defeat him, and he succumbed to the Abyss. Injured in the battle, Artorias used his Cleansing Greatshield to form a magic barrier that protected Sif from the Dark. Now corrupted to his soul by the Abyss and with his armor corroded, Artorias was left to fight alone and hold back the treacherous citizens of Oolacile.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6131209480647329,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f2fc2fc1-4868-5a3e-bea2-f9a0d46f2963",
+    "title": "Oolacile Catalyst",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Oolacile Catalyst -  Dark Souls - weapon - availability \n availability : Rare drop from Bloathead Sorcerers in the Oolacile Township and Chasm of the Abyss.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.31796276182159
+  },
+  {
+    "document_id": "f4f80ddb-ec7e-5cae-903b-cf37e56d6864",
+    "title": "Fog Door",
+    "section": "oolacile_fog_doors",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Fog Door -  Dark Souls - mechanic - oolacile_fog_doors \n oolacile_fog_doors : Sanctuary Garden\n**Just ahead of the bonfire, before the encounter with the Sanctuary Guardian.\nRoyal Wood\n**The entrance to the coliseum area, before the encounter with Knight Artorias. Another one will be on the left side of the arena connecting to Oolacile Township.\n**There will be a Fog Door when arriving at the top of the waterfall face Black Dragon Kalameet but only after initiating the fight and if re-entering the arena before Kalameet is defeated.\nChasm of the Abyss\n**Before the encounter with Manus, Father of the Abyss.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.78547094674346
+  },
+  {
+    "document_id": "f549938f-61fd-500d-a229-47d7fed5f60f",
+    "title": "Artorias of the Abyss",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Artorias of the Abyss -  Dark Souls - mechanic - lore \n lore : Artorias of the Abyss* takes place approximately 200 to 300 years before the events of *Dark Souls*, in the land of Oolacile. It features three of the Four Knights of Gwyn‎. The events of the DLC are also related to the story of *Dark Souls II*, as Nashandra was born from a fragment of Manus' soul.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.824259208971245
+  },
+  {
+    "document_id": "f6b8beac-3ff0-54f6-b96c-fc88d655fc2c",
+    "title": "Oolacile Township",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Oolacile Township -  Dark Souls - location - notes \n notes : Although Knight Artorias is fought here, Manus, Father of the Abyss acts as the area boss for the Oolacile Township, Oolacile Township Dungeon, and the Chasm of the Abyss for summoning and invasion purposes.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5604702670861731,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fa947944-abd7-5751-aa1b-a57c284b313b",
+    "title": "Soul of Manus",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Soul of Manus -  Dark Souls - item - description \n description : Soul of Manus, Father of the Abyss. This extraordinary soul is a viscous, lukewarm lump of gentle humanity.\n\nAncient Manus was clearly once human. But he became the Father of the Abyss after his humanity went wild, eternally seeking his precious broken pendant.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5192500843877677,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fb3a8400-2cf9-5143-a9c0-941c6c191893",
+    "title": "Black Dragon Kalameet",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "However, at a certain point, a Chosen Undead who ended up in Oolacile challenged the black dragon and after a legendary battle managed to defeat him. From his tail they formed an Obsidian Greatsword infused with the mystical power of the dragon and with his orange eye they created an enchanted ring that doubled the damaged received by its wearer.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5078417678307674,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fc45125f-ad7f-50c9-a9bd-c7a00d7499f1",
+    "title": "Chosen Undead",
+    "section": "artorias_of_the_abyss",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Finally, the Chosen Undead arrives at the Chasm of the Abyss where an illusion of Alvina guides the player to an illusory wall. Inside, the Chosen Undead discovers an injured Sif, protected by a magic barrier created by Artorias, in order to prevent Sif from being engulfed. Shortly after rescuing Sif the player faces Manus, Father of the Abyss, who is responsible for the spread of the dark. Manus is defeated, and Princess Dusk is saved. Upon returning to Oolacile Sanctuary, they are greeted by Elizabeth, who tells the Chosen Undead that she will let everyone know that Artorias was the one who defeated Manus, so that his honor may prevail. However, she assures them that their great deed will not be forgotten.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5815307378763389,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6b5dd397-fd03-50c8-a23a-9058cee4a670",
+    "title": "Abyss",
+    "section": "characters",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - characters \n characters : Darkstalker Kaathe will appear after the boss has been defeated. The player cannot have placed the Lordvessel under Kingseeker Frampt's guidance yet; if they do so before having met Kaathe, Kaathe will not appear.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "72de66c7-6ad4-58dd-907f-d04fdb8fafc7",
+    "title": "Abyss",
+    "section": "souls",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - souls \n souls : Bequeathed Lord Soul Shard",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8f7abae3-9f23-5853-8810-a29ee2339339",
+    "title": "Abyss",
+    "section": "weapons",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - weapons \n weapons : Darksword\nDark Hand",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a5a4c269-86ea-5558-b32d-8e6d505d0529",
+    "title": "Abyss",
+    "section": "items",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - items \n items : Red Eye Orb",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b73d5828-bbec-5d4b-8d90-8eaf0ec4cbb4",
+    "title": "Abyss",
+    "section": "covenant",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - covenant \n covenant : Darkwraith Covenant",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bc545255-28ab-5a58-b4c5-43aa0df33981",
+    "title": "Abyss",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - lead \n lead : The **Abyss** is a location in *Dark Souls*, as well as a storyline concept featured in all three games in the series.\n\nThe in-game location is at the heart of the New Londo Ruins, a featureless expanse where the Chosen Undead must slay the Four Kings and can encounter Darkstalker Kaathe. As a concept, \"Abyss\" is the name given to both a force that consumes or corrupts most forms of life, and to the areas in which it dwells; it is tied to the Age of Dark, and also gave birth to a twisted offshoot known as The Deep.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d372eb42-476a-5429-bdf5-bd5e869a834e",
+    "title": "Abyss",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Knight Artorias famously traversed New Londo's Abyss and hunted the Darkwraiths therein. He was protected by the power of a magical ring, which he gained after making a covenant with the beasts there. The ring prevented him from being swallowed by the void, but it led to his sword becoming cursed. In recognition of his actions, he was awarded one of Anor Londo's treasures, a Silver Pendant that allowed him to repel Dark sorceries; eventually he traveled to Oolacile to combat the threat of Manus, the lord of the Abyss. He ultimately failed in his mission he was overtaken by the dark, leaving behind his companion Sif.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d3e6e6ca-817b-5b5c-bacd-225b0ee15cb0",
+    "title": "Abyss",
+    "section": "boss",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - boss \n boss : Four Kings",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ed2aeba5-3b04-5478-ab69-8ebee194681a",
+    "title": "Abyss",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - general_information \n general_information : Dropping into the Abyss will immediately trigger the area boss, the Four Kings, to spawn. After the Four Kings have been defeated, a bonfire will appear. At this point, the Abyss will cease being hostile, making the Covenant of Artorias ring useless.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4c868368-e947-51ed-8002-a74ea556f9b8",
+    "title": "Anastacia of Astora",
+    "section": "drops",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Anastacia of Astora -  Dark Souls - character - drops \n drops : Her drops can only be obtained if Lautrec kills her.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7c8655bb-0f4f-518b-a036-63b9d1a42b6d",
+    "title": "Anastacia of Astora",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Anastacia of Astora -  Dark Souls - character - trivia \n trivia : Anastacia strongly resembles the Maiden in Black from *Demon's Souls*: the maiden is an ally to the Slayer of Demons like Anastacia is an ally to the Chosen Undead. Both of them have some physical impairment: the Maiden is blind, and Anastacia is mute. They are also both guardians to sacred places.\nIt appears that Anastacia is locked in her cell in Firelink Shrine; however, in the prologue, she is seen kneeling over an unnamed undead in the graveyard.\nThe description of the Blood-Stained Skirt implies that, as well as having her tongue cut out, Anastacia's legs were crippled to keep her from leaving Firelink Shrine. Her model is missing both legs around the knees.\nHer name translates from Greek ἀνάστασις as “revived” that closely links to her fate.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7cb67768-d762-5fa4-a9cc-3336b5903b53",
+    "title": "Anastacia of Astora",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Anastacia of Astora -  Dark Souls - character - location \n location : She can be found in a cell below the Firelink Shrine bonfire, down the stairs located to the left of the Crestfallen Warrior.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ac53f0a2-1457-58fd-a771-233791d281b9",
+    "title": "Anastacia of Astora",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Anastacia of Astora -  Dark Souls - character - plot \n plot : Initially, she is unable to speak, for her tongue has been removed sometime ago. Nonetheless, the player can still interact with her. As with other Fire Keepers, Anastacia has the ability to reinforce the Estus Flask, in exchange for Fire Keeper Souls.\n\nIf Knight Lautrec of Carim is in Firelink Shrine, he will kill Anastacia when either of the following occurs:\n\nThe player rings both Bells of Awakening.\nThe player picks up the Fire Keeper Souls in the Undead Parish and in Blighttown.\n\nWhile Anastacia is dead the bonfire in Firelink Shrine is inactive and unusable. She leaves behind the Dingy Set and the Black Eye Orb. The Black Eye Orb is an invasion item, allowing players to find and invade Lautrec's world to defeat him and retrieve Anastacia's Fire Keeper Soul.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bb42d2d6-c08d-5ee3-b5f1-471e13d4023b",
+    "title": "Anastacia of Astora",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Anastacia of Astora -  Dark Souls - character - lead \n lead : **Anastacia of Astora** (アストラのアナスタシア), also known as **The Ash Maiden,** is a Fire Keeper in *Dark Souls*. She keeps the bonfire in Firelink Shrine lit.\n\nAnastacia is voiced by Emma Pierson, who also voiced Dusk of Oolacile.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c3338d43-22f3-592b-826e-bbacacb5df68",
+    "title": "Anastacia of Astora",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Anastacia of Astora -  Dark Souls - character - lore \n lore : Anastacia is suggested by herself and at least one other character to be \"impure\", mainly of speech. However, what exactly made her \"unclean\" is never revealed, as she tells very little to the player even with her tongue restored. It has been hinted from item descriptions that Anastacia may have chosen her own banishment and even imprisonment.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d1169b6e-2eb4-57af-b79b-1d58a747689a",
+    "title": "Anastacia of Astora",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Returning Anastacia's soul to her cage will revive her, reigniting the Firelink Shrine bonfire. Her speech will also be restored, allowing the player to engage in conversation with her.\n\nOnce Anastacia is revived, if the player places the Lordvessel, offers at least one Lord Soul or Lord Soul Shard to it, and then talks to her, she will fully kindle the Firelink Shrine bonfire.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1723185b-7636-580c-8619-2af2354d5bc5",
+    "title": "Antiquated Set (Dark Souls)",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Antiquated Set (Dark Souls) -  Dark Souls - armor - availability \n availability : The Antiquated Set is obtainable after talking with Dusk of Oolacile. She first must be rescued from the Golden Crystal Golem behind the Hydra in Darkroot Basin.\n\nThe set will spawn on a corpse that appears at the far end of the lake, near where the Golden Golem spawns. If the set does not appear initially, quitting and reloading or exiting the area and re-entering can force it to spawn.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4dc9d5c4-0995-510e-8f6d-0d87ae63113a",
+    "title": "Antiquated Set (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Antiquated Set (Dark Souls) -  Dark Souls - armor - lead \n lead : The **Antiquated Set** is a light armor set in *Dark Souls*. The set is also worn by Dusk of Oolacile.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "573b9dff-3469-572b-8ac3-5a9dd4612e86",
+    "title": "Antiquated Set (Dark Souls)",
+    "section": "upgraded_stats",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Antiquated Set (Dark Souls) -  Dark Souls - armor - upgraded_stats \n upgraded_stats : The Crown of Dusk cannot be upgraded. For the other armor pieces, the maximum upgrade level is +5.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "74572b4a-5b41-5690-9f2f-5815ea0ceb6c",
+    "title": "Antiquated Set (Dark Souls)",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Antiquated Set (Dark Souls) -  Dark Souls - armor - plot \n plot : The Antiquated Set was worn by female royalty in the realm of Oolacile. The set encountered in game belongs to Dusk of Oolacile, who eventually perished in the Darkroot Basin.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ca3ba0b7-ee79-50c5-9f3b-db9ba063e8db",
+    "title": "Antiquated Set (Dark Souls)",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Antiquated Set (Dark Souls) -  Dark Souls - armor - notes \n notes : Prior to patch 1.04/1.05, the Antiquated Skirt gave by far the best defense and resistance for its weight, although it still had no Poise. It was nerfed heavily with the patch.\nThe Crown of Dusk cannot be upgraded.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "efd26dad-2c61-54dd-9abc-1f9b3c012f4b",
+    "title": "Antiquated Set (Dark Souls)",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Antiquated Set (Dark Souls) -  Dark Souls - armor - characteristics \n characteristics : The Antiquated Set is most notable for its headpiece, the Crown of Dusk, which increases magical damage dealt and taken. The set as a whole possesses very high Curse resistance, as well as magic defense, but is weak against all other types of damage overall.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "97e17cd7-e1cf-599b-afab-45d19c1b952d",
+    "title": "Bloathead",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bloathead -  Dark Souls - enemy - trivia \n trivia : A Bloathead is killed by Knight Artorias in the intro cinematic before his boss fight.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e0e3c9f0-a77e-5454-ad4f-089d659ef9ef",
+    "title": "Bloathead",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bloathead -  Dark Souls - enemy - lead \n lead : **Bloatheads** are enemies in *Dark Souls*. They are only found in the *Artorias of the Abyss* DLC.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fe3bd968-92d9-5e1b-b2ff-3bdf46cb09d8",
+    "title": "Bloathead",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bloathead -  Dark Souls - enemy - description \n description : They have oversized arms, webbed fingers and toes, pale skin, a filthy, mutated head, and are often seen twitching uncontrollably in mindless laughter.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "384821e6-6492-525e-8348-01b7c9213052",
+    "title": "Bloathead Sorcerer",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bloathead Sorcerer -  Dark Souls - enemy - notes \n notes : Poison inflicted by their melee attacks cause 3 damage per second once contracted, while Poison inflicted by their Dark Fog causes about 9.4 damage per second.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5a2f53ac-5236-5d28-bfc8-b6d94ba4915c",
+    "title": "Bloathead Sorcerer",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bloathead Sorcerer -  Dark Souls - enemy - description \n description : There are two kinds of Bloathead Sorcerers: \"normal\" and \"frenzied\". The \"frenzied\" are more aggressive and deal more Magic damage. They can be differentiated by their glowing, red eyes.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6314e28c-c2ba-582e-bb43-7c97e5e8f020",
+    "title": "Bloathead Sorcerer",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bloathead Sorcerer -  Dark Souls - enemy - lead \n lead : **Bloathead Sorcerers**, also known as **Abyss Guards**, are enemies in *Dark Souls.*",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b7b3cb62-3ef3-538a-bfd9-dad6baa95ab7",
+    "title": "Bloathead Sorcerer",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bloathead Sorcerer -  Dark Souls - enemy - lore \n lore : Like Bloatheads, Bloathead Sorcerers were the former denizens of Oolacile, corrupted by Manus' influence. However, Bloathead Sorcerers are female and were once sorcerers.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fa147b1d-2fa9-5b78-8ce7-be14d94c1f34",
+    "title": "Bloathead Sorcerer",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bloathead Sorcerer -  Dark Souls - enemy - location \n location : Oolacile Township\nChasm of the Abyss",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1dc02d53-b0d7-5eaf-a5d6-3c448eb83e37",
+    "title": "Broken Pendant",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Broken Pendant -  Dark Souls - item - lead \n lead : The** Broken Pendant** is a key item in *Dark Souls*. It is exclusive to the *Artorias of the Abyss* DLC.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "369fa575-19cb-598e-916f-63588ea58999",
+    "title": "Broken Pendant",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Broken Pendant -  Dark Souls - item - trivia \n trivia : The pendant is mentioned in the description of the Soul of Manus as an item of great importance and the reason for his descent into insanity.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "730124ee-bbd8-5f10-9540-2f7c2c00655a",
+    "title": "Broken Pendant",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Broken Pendant -  Dark Souls - item - availability \n availability : Dropped by a respawning Crystal Golem located near the beginning of The Duke's Archives. The Golem will only drop the pendant if Dusk of Oolacile has been rescued from within the Golden Crystal Golem, which can be found in an alcove past the Hydra in Darkroot Basin. It will only drop if the player talked to Dusk after rescuing her or if Dusk was killed.\n\nThe pendant can be obtained even if the player has killed the Golem prior to rescuing Dusk.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c39e3660-4c58-5b01-b8be-d4803617ee54",
+    "title": "Broken Pendant",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Broken Pendant -  Dark Souls - item - general_information \n general_information : Possessing the Broken Pendant will cause a black portal to spawn at the location where Dusk was rescued, allowing the player to travel back in time, accessing the *Artorias of the Abyss* content.\n\nUpon interaction with the portal, the hand of Manus reaches through time and pulls the player in a violent manner.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e69e5cb1-1257-50c3-8551-0572997cebfd",
+    "title": "Broken Pendant",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Broken Pendant -  Dark Souls - item - description \n description : Half of a broken stone pendant. The vine appears to originate from Oolacile.\n\nA powerful magic can be sensed from this ancient stone. Yet men of this time can neither manipulate nor sense its power, which has a distinct air consisting of both reverence and nostalgia.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0eb6db12-07d4-51b3-b43f-01f77ee746a2",
+    "title": "Carvings",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Carvings -  Dark Souls - item - lead \n lead : **Carvings** are a set of miscellaneous items in *Dark Souls*. They are only available in the *Artorias of the Abyss* DLC.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3f8903a6-8733-5389-be53-d2cb48cb25e3",
+    "title": "Carvings",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Carvings -  Dark Souls - item - general_information \n general_information : To use a carving, the player simply drops it. The Carving will utter its eponymous phrase upon hitting the ground (for example, the \"Help Me! Carving\" will say \"Help Me!\"). Similar in function to the Prism Stone, if the player cannot hear the phrase, then the drop is fatal.\n\nCarvings have an unlimited amount of uses.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c50c7505-f481-5db0-b49c-950b24ee844f",
+    "title": "Carvings",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Carvings -  Dark Souls - item - availability \n availability : ***Hello Carving**: Sold by Hawkeye Gough for 5 souls.\n***Help Me! Carving**: Found on a corpse deep in the Chasm of the Abyss.\n***I'm Sorry Carving**: Drops from a specific Bloathead Sorcerer in the Oolacile Township, near where Dark Orb is found.\n***Thank You Carving**: Sold by Hawkeye Gough for 5 souls.\n***Very Good! Carving**: Dropped by a Mimic in Oolacile Township.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d50896ff-0f9a-5598-a169-a02e449176d6",
+    "title": "Carvings",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Carvings -  Dark Souls - item - description \n description : Head carved of archtrees by Gough in his imprisonment. Gough imparts an emotion to each and every completed carving, which helps him achieve personal enlightenment. When a head is disturbed, it speaks, reflecting the emotion conferred to it.\n\nThis head says \"Hello\". Have another look. Do you sense the amicability in its eyes?\n\nHead carved of archtrees by Gough in his imprisonment. Gough imparts an emotion to each and every completed carving, which helps him achieve personal enlightenment. When a head is disturbed, it speaks, reflecting the emotion conferred to it.\n\nThis head says \"Help me!\". Look again. Can you hear the desperate plea?\n\nHead carved of archtrees by Gough in his imprisonment. Gough imparts an emotion to each and every completed carving, which helps him achieve personal enlightenment. When a head is disturbed, it speaks, reflecting the emotion conferred to it.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e07fdfd7-ab43-5dab-bdac-520b7fb44d02",
+    "title": "Carvings",
+    "section": "the_carvings",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Carvings -  Dark Souls - item - the_carvings \n the_carvings : All carvings can be found inside the land of Oolacile. They have all been carved by Hawkeye Gough.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ebc50c85-6af6-51c9-a3e4-dfa946fdca01",
+    "title": "Carvings",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Carvings -  Dark Souls - item - trivia \n trivia : Hawkeye Gough can be seen carving these items once met, and all of their descriptions mention him.\n**The voice heard when dropping a carving is most likely Gough's.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ee2587f6-76be-5d28-be52-7a720fbe2fbb",
+    "title": "Carvings",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "This head says \"I'm Sorry\". Have another look. Isn't that an expression of atonement?\n\nHead carved of archtrees by Gough in his imprisonment. Gough imparts an emotion to each and every completed carving, which helps him achieve personal enlightenment. When a head is disturbed, it speaks, reflecting the emotion conferred to it.\n\nThis head says \"Thank you\". Have another look. Is this not the face of gratitude?\n\nHead carved of archtrees by Gough in his imprisonment. Gough imparts an emotion to each and every completed carving, which helps him achieve personal enlightenment. When a head is disturbed, it speaks, reflecting the emotion conferred to it.\n\nThis head says \"Very Good!\". Have another look. Does it not appear quite jovial?",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1d51a74c-97e6-5109-b7b6-08c300755cc7",
+    "title": "Chasm of the Abyss",
+    "section": "sorceries",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - sorceries \n sorceries : Dark Bead",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4281d8f2-9b05-57b8-9390-ed76a7c13882",
+    "title": "Chasm of the Abyss",
+    "section": "respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - respawning \n respawning : Bloathead Sorcerer\nBloathead\nHumanity Phantoms",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "552e96fa-2159-57d1-8101-7eaa49aca2ea",
+    "title": "Chasm of the Abyss",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - lead \n lead : The **Chasm of the Abyss** is a location in *Dark Souls*, and can only be accessed through the *Artorias of the Abyss* DLC.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6fa591de-1eb6-5855-88e4-54436d2388b5",
+    "title": "Chasm of the Abyss",
+    "section": "upgrade_materials",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - upgrade_materials \n upgrade_materials : Twinkling Titanite\nWhite Titanite Slab",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "70ffecc1-69b6-5e3f-8518-b5e84560c1dc",
+    "title": "Chasm of the Abyss",
+    "section": "pyromancies",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - pyromancies \n pyromancies : Black Flame",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8be7b14c-8004-5926-82a0-6dc631f92f5f",
+    "title": "Chasm of the Abyss",
+    "section": "weapons",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - weapons \n weapons : Cleansing Greatshield",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "922f4282-98e5-5691-a137-d4d1560d418f",
+    "title": "Chasm of the Abyss",
+    "section": "characters",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - characters \n characters : Alvina of the Darkroot Wood\nDusk of Oolacile\nSif (summonable phantom)",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9684c3e2-e3f7-5e7c-9490-88e051819aca",
+    "title": "Chasm of the Abyss",
+    "section": "non_respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - non_respawning \n non_respawning : Crystal Lizard",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a15e6f53-4357-5429-84b4-adf38b3f20ec",
+    "title": "Chasm of the Abyss",
+    "section": "adjacent_locations",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - adjacent_locations \n adjacent_locations : Oolacile Township Dungeon\nRoyal Wood",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "96f0aeb8-40a2-5a4e-9405-ef3b36408aa1",
+    "title": "Cleansing Greatshield",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Cleansing Greatshield -  Dark Souls - weapon - availability \n availability : The Cleansing Greatshield is only available in the *Artorias of the Abyss* DLC. Upon falling through an illusory floor in the Chasm of the Abyss, Alvina will appear momentarily. She will lead the player past Humanity Phantoms to an illusory wall which hides the room where Sif is trapped. Clear the room of all enemies, then go back to Sif, who will then be able to warp away. Upon doing so, Sif will leave behind the Cleansing Greatshield.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cc86d8f9-8fff-5b6d-b414-d69840386d40",
+    "title": "Cleansing Greatshield",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Cleansing Greatshield -  Dark Souls - weapon - lead \n lead : The **Cleansing Greatshield** is a greatshield in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dd470090-067c-5725-9d01-03fea6d186a2",
+    "title": "Cleansing Greatshield",
+    "section": "resistance_defense",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Cleansing Greatshield -  Dark Souls - weapon - resistance_defense \n resistance_defense : Along with Physical and Elemental damage reduction, weapons also have hidden stats that reduce the amount of status build-up while blocking.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e26d0387-4f92-5c72-99e2-f4278884d679",
+    "title": "Cleansing Greatshield",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Cleansing Greatshield -  Dark Souls - weapon - description \n description : The steel greatshield used by Knight Artorias, who succumbed to the Abyss. Artorias, deeply scarred by the Abyss, used this to form a barrier to protect his compatriot Sif. Although this drained the shield, its magic defense remains high.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f1b62635-e44c-5b05-a5a7-2424a518c358",
+    "title": "Cleansing Greatshield",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Cleansing Greatshield -  Dark Souls - weapon - characteristics \n characteristics : The Cleansing Greatshield has the weakest physical defense of any of the greatshields available. However, its defenses against magic and the other elements are all very good, even for a greatshield. This means that its effectiveness will vary considerably depending on the type of damage a particular boss will deal. It has a heavy deflection and a standard bash attack. A major downside to this shield's use is that upgrading will not raise its stability value, only the damage will be increased.\n\nAll things considered however, this is a vastly inferior version to its pristine self, the Greatshield of Artorias, as the latter, though not possessing the same high values as the Cleansing Greatshield, boasts extremely high stability, better Resistance Defenses (as it will block 100% Curse), and negates physical damage entirely, though it does require slightly more Strength and has slightly higher weight.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "004ab82e-a5d1-5a88-a9d1-16d0d8b1c4cb",
+    "title": "Covenant of Artorias",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Covenant of Artorias -  Dark Souls - ring - description \n description : This ring symbolizes Knight Artorias' covenant with the beasts of the Abyss.\n\nIts wearer, like Artorias himself, can traverse the abyss.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "10911a13-f1fd-5c6a-ab26-1bc3b88dffd7",
+    "title": "Covenant of Artorias",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Covenant of Artorias -  Dark Souls - ring - lead \n lead : **Covenant of Artorias** is a ring in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "32b4e52f-035b-51e3-8181-0cc1f601b2b1",
+    "title": "Covenant of Artorias",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Covenant of Artorias -  Dark Souls - ring - availability \n availability : The Covenant of Artorias is obtained by killing Great Grey Wolf Sif.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "752d026a-7201-5187-b8c9-3e93af4fd66a",
+    "title": "Covenant of Artorias",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Covenant of Artorias -  Dark Souls - ring - general_information \n general_information : Covenant of Artorias allows the player to reach the Abyss. As such, it is necessary in order to reach the Four Kings boss battle. Without wearing the ring, it is impossible to survive the fall into the Abyss. Taking off the ring during the fight with the Four Kings will cause the player to be devoured by the Abyss. Other than this, the ring has no other purpose.\n\nThe Covenant of Artorias is one of the very few rings that do not carry over to NG+; players are required to kill Great Grey Wolf Sif every playthrough to obtain the ring and beat the game. This ring, when dropped, will end up in the chest behind Kingseeker Frampt after the player has quit and reloaded the game. However, in the remaster, it will automatically be in the player’s inventory.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8c262ffc-c98f-5ace-aac0-4d8aed6ae408",
+    "title": "Covenant of Artorias",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Once the player has defeated the Four Kings, the Abyss will cease killing the player in their world and the ring is no longer required to traverse it. Though, if the player is summoned as a phantom to help another player defeat the Four Kings, the ring will once again be required to traverse the Abyss.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2e9e6274-5879-5f9a-b41e-38fd52a6bc4c",
+    "title": "Darkstalker Kaathe",
+    "section": "story",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Darkstalker Kaathe -  Dark Souls - character - story \n story : Placing the Lordvessel while under the care of either of the serpents will result in the loss of the other. Frampt provides the service of breaking down larger Titanite pieces and can get rid of items in exchange for souls, while Kaathe provides Cracked Red Eye Orbs to the player while a member of his covenant.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6b0a6dd3-4384-53d4-8e5c-a4fcaa2efcbe",
+    "title": "Darkstalker Kaathe",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Darkstalker Kaathe -  Dark Souls - character - location \n location : Darkstalker Kaathe will appear in the Abyss, after defeating the Four Kings, if the player has not already placed the Lordvessel through Kingseeker Frampt.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "87f741bf-bce8-5814-a0b5-6ff7d1cd8b1a",
+    "title": "Darkstalker Kaathe",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Darkstalker Kaathe -  Dark Souls - character - plot \n plot : Darkstalker Kaathe greets the Chosen Undead and tells his side of the story: that the player is not to renew the Age of Fire by rekindling the First Flame, but is in fact the descendant of the one who possessed the \"Dark Soul\", and shall be responsible for bringing about the Age of Dark. Kaathe will transport the player to Firelink Altar in order to place the Lordvessel, and then instructs the player to collect the other Lord Souls in order to confront Gwyn, Lord of Cinder.\n\nKaathe can initiate players into the Darkwraith covenant.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "971dbfd1-7986-56a5-9ab4-7a59fa651554",
+    "title": "Darkstalker Kaathe",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Darkstalker Kaathe -  Dark Souls - character - trivia \n trivia : It's actually possible to kill , but only through the use of third party programs. Kaathe has 24,464 HP and drops 5,000 souls upon death.\nIn *Dark Souls III*, when the player kills Yuria, she says \"Kaathe, I have failed thee\", proving that she and the other Sisters of the Sable Church, and thus Londor by extension, are followers of Kaathe. In the original Japanese she says \"...Kaathe... your dying wish was not fulfilled...\" which would imply that, despite having followers during the events of *Dark Souls III*, Kaathe himself had passed away before the game's events. It is also implies that Kaathe's intentions were likely not selfish, given he wished for an Age of Dark even if he couldn't live to see it.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "aa4a04df-e9ed-5d2f-9cc5-ca7173b5165a",
+    "title": "Darkstalker Kaathe",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Darkstalker Kaathe -  Dark Souls - character - lead \n lead : is a character in *Dark Souls* and a mentioned character in *Dark Souls III*. He is voiced by Peter Marinker, who also voiced Kingseeker Frampt and Eingyi.\n\nA primordial serpent with the goal of bringing about the Age of Dark and whom opposes Frampt and the Gods of Anor Londo, he only appears, besides The Dark Lord ending, if the player slays the Four Kings without having placed the Lordvessel under Frampt's guidance, acting as leader of the darkwraith covenant.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e84d2e48-8f2a-5c6f-a592-18ff08b16b49",
+    "title": "Darkstalker Kaathe",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Darkstalker Kaathe -  Dark Souls - character - notes \n notes : It is possible to join the Darkwraith Covenant without placing the Lordvessel and thus not alienate Kingseeker Frampt. After answering \"Yes\" to Darkstalker Kaathe's question and being transported to the Firelink Altar - do not place the Lordvessel. Instead, use a Homeward Bone or the Homeward miracle to exit. As long as one does not place the Lordvessel, neither serpent will depart. In this way, the player can be both part of the Darkwraith Covenant and use Frampt's \"Feeding\" service.\nIn an [http://soulslore.wikidot.com/das1-game-no-shokutaku interview], it is confirmed by Miyazaki that the Chosen Undead's ancestor, that Kaathe mentions, is the Furtive Pygmy.\nKaathe will depart if the Chosen Undead places the Lordvessel while Kaathe is not present.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0035e745-5bd9-5863-9d3e-d093ea255092",
+    "title": "Dusk of Oolacile",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Dusk of Oolacile -  Dark Souls - character - lead \n lead : , also known as **Princess Dusk**, is a character and merchant in *Dark Souls*. She is voiced by Emma Pierson, who also voiced Anastacia of Astora.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "41f003e0-f6f5-51f5-b87c-70eeb02b1262",
+    "title": "Dusk of Oolacile",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Dusk of Oolacile -  Dark Souls - character - plot \n plot : Dusk is an optional character for the main game; when summoned via her summon sign in Darkroot Basin, she sells the player sorceries from Oolacile as a reward for rescuing her. These include: Hidden Body, Cast Light and Chameleon. Depending on the player's playstyle, it may be well worth the trouble of rescuing her.\n\nWhile interacting with her is not obligatory for progressing the main storyline, she must be sought out in order to access the *Artorias of the Abyss* DLC.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3dd76849-b519-5782-8f57-dc9837cf1980",
+    "title": "Bloated Head",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Bloated Head -  Dark Souls - armor - characteristics \n characteristics : Offers very high base Poison resistance, but loses to the Gold-Hemmed Black Hood and more substantially to the Bloated Sorcerer Head and fully upgraded Painting Guardian Hood.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c0d59b2c-10b1-5425-ac4a-5a6cb860793d",
+    "title": "Bloated Head",
+    "section": "upgrades",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Bloated Head -  Dark Souls - armor - upgrades \n upgrades : Cannot be reinforced.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "da948c2c-d819-5502-973c-5339498e9804",
+    "title": "Bloated Head",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Bloated Head -  Dark Souls - armor - lead \n lead : The **Bloated Head** is a unique head armor piece in *Dark Souls*.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fa5918dd-e8b3-5a94-8c8c-7786fc659033",
+    "title": "Bloated Head",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Bloated Head -  Dark Souls - armor - availability \n availability : Rare drop from Bloatheads.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1dee2015-37d0-55b4-91b1-a3d5e4c8e2c6",
+    "title": "Bloated Sorcerer Head",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Bloated Sorcerer Head -  Dark Souls - armor - availability \n availability : Dropped by Bloathead Sorcerers.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "886de90d-e0cb-591a-8ce1-de1579b6a637",
+    "title": "Bloated Sorcerer Head",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Bloated Sorcerer Head -  Dark Souls - armor - characteristics \n characteristics : Offers the highest Poison resistance of any non-upgraded headpiece and is second to the fully upgraded Painting Guardian Hood, but no Poise and mediocre Physical and Magic resistance.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9c263a10-0107-5b1c-a74c-a5c13082636e",
+    "title": "Bloated Sorcerer Head",
+    "section": "upgrades",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Bloated Sorcerer Head -  Dark Souls - armor - upgrades \n upgrades : Cannot be reinforced.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "eb4b973a-fd51-5708-b26b-abe1bbf74b6b",
+    "title": "Bloated Sorcerer Head",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Bloated Sorcerer Head -  Dark Souls - armor - lead \n lead : The **Bloated Sorcerer Head** is a unique head armor piece in *Dark Souls*.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "016d52fa-af55-52d0-bf7c-71e67f2bafac",
+    "title": "Chosen Undead",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - trivia \n trivia : In the trailers and concept art for *Dark Souls*, the Chosen Undead uses the same weapons and armor as Oscar, Knight of Astora.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "09f6afd2-ac69-5585-aebc-478ddac2e910",
+    "title": "Chosen Undead",
+    "section": "the_lord_souls",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "In The Duke's Archives the Chosen Undead confronts Seath the Scaleless, an albino dragon who betrayed the Ancient Dragons and won Lord Gwyn´s trust. During their first encounter, the Chosen Undead is unable to cause any harm to Seath and is captured. Seath imprisons the Chosen Undead inside his prison tower where the player cannot warp out from. Despite the inconveniences, the Chosen Undead eventually escapes.\n\nLater on, the Chosen Undead learns from Big Hat Logan that Seath is immortal due to an ancient artifact known as the Primordial Crystal, an old relic that Seath stole from the Ancient Dragons. The Chosen Undead then departs to the Crystal Cave, where the artifact lies, and shatters it. This annuls Seath's immortality, allowing the Chosen Undead to slay him.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0a3ed6bf-a349-511d-9a5b-019f3217ca63",
+    "title": "Chosen Undead",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - lore \n lore : The title of \"Chosen Undead\" is a reference to a prophecy concerning the end of the Age of Fire. It states that at the very end of the Age of Fire, an undead champion will appear and undertake the pilgrimage to ring the Bells of Awakening in \"the Land of Ancient Lords,\" Lordran.\n\nThe Chosen Undead is a human, and thus, a descendant of the Furtive Pygmy, one of the original Lords who claimed the Dark Soul.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0f1b9ddd-3cf7-5783-9c2b-348c5d39a100",
+    "title": "Chosen Undead",
+    "section": "alternate_paths",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - alternate_paths \n alternate_paths : The player is given the choice to put the Lordvessel on the Firelink Altar and proceed along Frampt's designs. In this instance, Frampt prompts that the Chosen Undead is the hero destined to succeed Lord Gwyn and extend the Age of Fire, continuing the curse of the undead. The player is also given the choice to place the Lordvessel for another ancient serpent named Darkstalker Kaathe, an agent of the Darkwraiths. Following this path will bring about the eradication of the old gods, and usher in the Age of Dark.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2fa3e5d5-a586-55c5-b6c5-20cc2d02b682",
+    "title": "Chosen Undead",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - lead \n lead : The **Chosen Undead** is the player character and the protagonist of *Dark Souls*.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "38044ee0-d2aa-578d-ab67-ceea2c59f1d1",
+    "title": "Chosen Undead",
+    "section": "epilogue",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - epilogue \n epilogue : After offering the necessary Lord Souls, the doors to the Kiln of the First Flame are opened to the Chosen Undead. Gwyn, now reduced to a Lord of Cinder, breathes his last breath in the final confrontation with the Chosen Undead. It is here that the Chosen Undead may make their decision of either linking the flame or walking away from it. Depending on which course of action is taken, one of the two possible endings will be unlocked. Whether the player has aligned themselves with Kaathe or Frampt will not affect the ending of the game.\n\n***Link the Fire:** This ending is unlocked if the player rekindles the First Flame. The Chosen Undead offers themselves as kindling to the fire. Sacrificing all of their souls, the Chosen Undead is consumed by the flames and the Age of Fire is extended, as life is breathed into the First Flame once more.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "53d7007e-1cbd-55c2-a293-93b6ab99bb9d",
+    "title": "Chosen Undead",
+    "section": "the_lordvessel",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Once in Anor Londo, the player makes their way into the Anor Londo cathedral, where they face Dragonslayer Ornstein, of the Four Knights of Gwyn, and Executioner Smough. The Chosen Undead triumphs over them and gains access into the chamber of Gwynevere, where they are greeted by the Princess and awarded the Lordvessel. When Frampt sees that the player had completed their quest, he declares the prophecy set in motion and that the character is indeed the incarnation of the Chosen Undead.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "735ac6e0-b150-5cc2-a8f6-c75d5c6886d4",
+    "title": "Chosen Undead",
+    "section": "the_lord_souls",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - the_lord_souls \n the_lord_souls : To gain access to Gwyn, Lord of Cinder, the Chosen Undead must satiate the Lordvessel. There are several beings who possess souls powerful enough to do so: Gravelord Nito, the Witch of Izalith, Seath the Scaleless and the Four Kings of New Londo.\n\nIn order to defeat the Four Kings, the Chosen Undead needs to acquire the Covenant of Artorias, a ring that is kept by the Great Grey Wolf Sif. The ring allows one to traverse the dark void called the Abyss. Upon arriving in the ruins of New Londo, the Chosen Undead, with the help of Ingward, drains the flooded city, earning passage to the Darkwraiths and their masters. If the player has not yet placed the Lordvessel before defeating the Four Kings, Darkstalker Kaathe will appear in the abyss.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "74fafac1-a866-5fa5-8e35-8719e27db99b",
+    "title": "Chosen Undead",
+    "section": "prologue",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - prologue \n prologue : After becoming an undead the player character was imprisoned in the Northern Undead Asylum. They are rescued by Oscar of Astora, who drops a key into the player's cell so that they may be freed. After escaping from the Asylum Demon, they encounter a fatally wounded Oscar, who tells the player about a prophecy, stating that an undead shall partake in pilgrimage to ring the Bells of Awakening.\n\nOscar gives the player an Estus Flask and dies in peace, trusting the Chosen Undead to take his place. After defeating the Asylum Demon, the Chosen Undead escapes the asylum and is flown to Lordran by a Giant Crow.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "85ddf268-4a37-500d-9321-26fbb80c080a",
+    "title": "Chosen Undead",
+    "section": "the_bells_of_awakening",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - the_bells_of_awakening \n the_bells_of_awakening : Upon arriving in Lordran, the Giant Crow drops the Chosen Undead in Firelink Shrine, which acts as a hub for the player for the rest of the story. After hearing the location of the Bells of Awakening from the Crestfallen Warrior, the Chosen Undead sets out on their journey. Various characters can be encountered throughout Lordran, such as Solaire of Astora, a charismatic warrior seeking \"his own sun\"; the treacherous knight Lautrec of Carim; and Siegmeyer of Catarina, an absent-minded knight who frequently finds himself in danger.\n\nOn a rooftop in the Undead Parish, the player slays the Bell Gargoyles and manages to ring one of the bells. Later on, the player makes their way deep into the infested swamps of Blighttown. There, the player defeats the Chaos Witch Quelaag and rings the other bell. After ringing both bells, the gate to Sen's Fortress is opened.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8c927b56-d787-53e2-af13-e11e36a62111",
+    "title": "Chosen Undead",
+    "section": "appearance",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - appearance \n appearance : In the trailers, artwork and promotional art for *Dark Souls*, Oscar of Astora is depicted wearing the Elite Knight Set as well as using the Astora's Straight Sword and the Broadsword along with the Crest Shield as their main weapons. This would eventually come to be the Chosen Undead's canon appearance.\n\nHowever, in the game, the Chosen Undead's appearance and attributes are determined by the player, including their face, sex, origin, starting class, and equipment.\n\nThey are portrayed as an archetypal \"silent character\" who doesn't have any sort of spoken dialogue during the game (aside from making some grunts or cries whenever they are hurt or killed). This trait was made on purpose by the developers so that the player could feel more identified with the character.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "add6aa5b-3446-5116-b9b6-292bf81cfc02",
+    "title": "Chosen Undead",
+    "section": "epilogue",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "***Dark Lord:** This ending is unlocked if the player leaves the arena after killing Lord Gwyn. Upon leaving, the Chosen Undead is greeted by the Primordial Serpents, who bow down before their Dark Lord. Rejecting the Age of Fire, the Chosen Undead instead ushers in the Age of Dark, and becomes a monarch of mankind.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bcee89ac-bc3f-5700-abc9-073a875af5d9",
+    "title": "Chosen Undead",
+    "section": "the_lord_souls",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "The Chosen Undead also travels to the Catacombs, where they defeat Pinwheel and acquire the Rite of Kindling. The Chosen Undead then descends into the Tomb of the Giants, where the scavenger, Trusty Patches tricks the player and kicks them off a cliff. The Chosen Undead survives and rescues Reah of Thorolund, a maiden who ventured into Nito's domain in search of the Rite of Kindling. Finally, the Chosen Undead advances toward the deepest part of the area: Gravelord Nito's tomb. There, they finish off the conductor of death.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bf638d4f-71e7-5dde-860e-fef95367a496",
+    "title": "Chosen Undead",
+    "section": "the_lordvessel",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - the_lordvessel \n the_lordvessel : After passing the trials to ring the two bells, Kingseeker Frampt, a primordial serpent, appears to task the character with another quest before they are deemed worthy as Chosen. The player must go into the city of Anor Londo and retrieve the Lordvessel from Gwynevere, Lord Gwyn's daughter. In order to complete the quest the player needs to traverse Sen's Fortress, an old proving ground built by the gods. After passing through the fortress and its many dangerous traps, the player battles the Iron Golem, and with its defeat gains the entrance into the forsaken city.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c83ac560-7b59-5c39-89a8-8105e06047fc",
+    "title": "Chosen Undead",
+    "section": "the_lord_souls",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Lastly, the Chosen Undead advances into the deepest part of Lordran: Lost Izalith. If the player speaks to Quelana in Blighttown it will be discovered that her mother tried to use her power to replicate the First Flame, but failed and was engulfed within it; eventually succeeding but at the cost of their former forms. This killed some of her daughters in the process and turned others into deformed creatures, and only Quelana and a Daughter of Chaos maintained the entirety of their human forms. Within the city, the Chosen Undead comes upon the Bed of Chaos, the source of all the demons that wander Lordran, and overcomes it.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f2dffc91-8284-5f08-9d79-c7dd54d31a55",
+    "title": "Chosen Undead",
+    "section": "artorias_of_the_abyss",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "The Chosen Undead then heads towards Oolacile Township in search of Artorias and Dusk. On their way to Oolacile, the player encounters Black Dragon Kalameet, an optional boss that can be fought later in the DLC. Elizabeth's words are proven to be true when, upon entering the Coliseum, the player is attacked by a corrupted Artorias. The Chosen Undead has no other option than finishing him off as he is unable to come back to his senses. After killing Artorias, the Chosen Undead can either give his soul to Lord's Blade Ciaran so that she can complete a proper burial or keep it for their own uses.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "81c9f8b4-618a-5e2b-87e7-4785e8dabef3",
+    "title": "Dusk of Oolacile",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Dusk of Oolacile -  Dark Souls - character - location \n location : Dusk is trapped inside a Golden Crystal Golem located in an alcove past the Hydra in Darkroot Basin. After defeating the Hydra, players may need to go through a load screen for the golem to spawn.\nAfter killing the golem, Dusk will be available as a summon sign on the lake shore where the player fought the Hydra, next to a tree in front of the Knight Set loot. Reverse hollowing is not required to summon her (her summon sign vanishes after the Chosen Undead obtains the Broken Pendant).\nImmediately after Manus, Father of the Abyss is defeated, Dusk appears in the arena and can be spoken to, but will vanish if the player leaves the area. Her summon sign will return as before in Darkroot Basin.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a877d230-273c-57bc-9c28-3f88a1434cad",
+    "title": "Dusk of Oolacile",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Dusk of Oolacile -  Dark Souls - character - notes \n notes : If answered \"No\" after her introduction, she won't be available to be summoned for the rest of that playthrough.\nShe does not fight back if attacked.\nShe drops nothing, and the Dark Hand can steal no liquid Humanity from her.\nIf the player kills Dusk of Oolacile, Elizabeth will also die.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1ee9ce3d-045c-5881-a233-bcc1d345f319",
+    "title": "Humans",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Humans -  Dark Souls III - character - trivia \n trivia : Many combat related Humanity powers have been described as representing a depraved Human quality, such as ignorance or excessive love, reflecting how those qualities are destructive when encountered in normal existence.\nThough they are true Humans, the weapons of Gael and of the Ringed Knights bear actual fire power instead of dark. It must be noticed, however, that this fire is of a somewhat darker hue which resembles the Dark Soul, implying that the flames are indeed connected to Humanity.\nA statue in the Ringed City depicts a shriveled being squatting before Gwyn, who gifts it a crown and a glowing essence (in the game, this is a Chloranthy Ring).",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "375870ee-83fb-5a8a-a255-3b8766b43922",
+    "title": "Humans",
+    "section": "age_of_ancients",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "After the war, Gwyn \"gifted\" the Human Lords a place called the Ringed City, which sits far away at the end of the very world. He also gifted them his youngest daughter, the goddess Filianore, promising her that he would come back for her. Though the humans spread throughout the world, many remained in the Ringed City as well.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "52dd5787-5e82-536d-bf38-49b92d4bb167",
+    "title": "Humans",
+    "section": "age_of_gods",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Over time, others would repeat Gwyn's sacrifice—either for their own reasons or to follow in his footsteps—to rekindle the First Flame. As the First Flame was not intended to burn as long as it had, the fabric of reality began to suffer.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "552bb631-1f8f-5a6b-99e7-eebb9ef5362d",
+    "title": "Humans",
+    "section": "last_days_of_fire",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "On their quest, the Ashen One encounters the Painted World of Ariandel, and a little girl whose duty it is to become the new Painter, and replace it with a fresh, unrotted version. To do this, she reveals that she needs the blood of the bearer of the Dark Soul, and that her guardian Gael has gone to find it. At the end of time, as the flames are reduced to embers and sparks, the entire world has begun to collapse in on itself, surrounding the ageless Ringed City. Gael travels to this heap of reality to find the Dark Soul, with the Ashen One following suit, eventually slaying Argo, the leader of the Spears of the Church.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "57f002de-255a-56a2-bf21-cfbbceb5a0f3",
+    "title": "Humans",
+    "section": "age_of_gods",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Despite the fact that all of this was for the sake of the Human race, some were opposed to the loyalty to Gwyn; he consequently went so far as to raise a young Dragon named Midir to combat the abyssal entities of the Ringed City. A few secretly wished for the sleeping princess Filianore to be awoken, and ruin cast upon the city, but such individuals are apparently few and far between in terms of open admittance. A race of beings called the White-faced Locust was risen from the Abyss to give sermons on the Dark, as they were kindred to Humans, but most were gluttonous and sought to feast on people instead.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7aaaef93-e6ea-551f-a7fb-00af5b1032a6",
+    "title": "Humans",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Humans -  Dark Souls III - character - lead \n lead : The **Humans** are a race in the *Dark Souls* series, and one of the four primary races in the lore. All playable characters are humans afflicted with the Undead Curse.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "82d2b7c8-f3e6-5e24-9783-9f45c1a43ecf",
+    "title": "Humans",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Humans -  Dark Souls III - character - description \n description : Like the Gods, the race of Men varies in size and physical appearance, but are almost consistently amongst the shortest of the races. It seems that size is naturally varied and has been for all time, as the Ringed Knights are towering figures, while the Pygmy Lords are slightly shorter than modern man.\n\nAll human beings are made Human by a fragment of the Dark Soul, known as their Humanity, which looks like a black sprite with blank white eyes. Humans are also capable of withstanding the Abyss, provided that they have not become untuned to it, and even find a sort of comfort in it.\n\nBy the time of that human's death, their Humanity could be in any number of states. Emotion seems to make Humanity stronger, but also unstable, and the human body can be mutated by its own essence if control is lost.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9623f2d4-b240-5625-a8a8-945ab9860c57",
+    "title": "Humans",
+    "section": "last_days_of_fire",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Humans -  Dark Souls III - character - last_days_of_fire \n last_days_of_fire : Many millennia—or even more—have gone by, and the linking of the Fire has become a staple in the world. Finally, when the new \"Lord of Cinder\" Prince Lothric was destined to sacrifice himself to the Flame, he refused and opted to watch the Age of Dark settle. To save the Age of Gods, four previous Lords of Cinder are resurrected as Undead, but three of them either sought the Age of Dark, or no longer cared either way. One last contingency plan existed, to awaken the Unkindled, those who had previously failed to prolong the Age of Fire with their sacrifices. Kaathe's will has been reinterpreted by the Sable Church of Londor, who aim for a different Age of Dark than what Kaathe sought; an age ruled by a Lord of Hollows.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "993def8a-0b82-51ad-b068-a1bc5a6a3734",
+    "title": "Humans",
+    "section": "age_of_gods",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Kaathe also manipulated the inhabitants of New Londo, where he enticed the Four Kings with the art of Lifedrain, which ancient Humans used to steal Humanity from others. The Kings too were corrupted, and New Londo was flooded —presumably by the Gods— to contain the Abyss that generated there. But despite these failures, Kaathe kept searching for a human who could become the Dark Lord, and usher in the Age of Man.\n\nAt the close of the Age of Gods, Gwyn realized that the power of the Dark Soul would wax to its utmost maximum, while the power of the other Lord Souls would fade. Fearing that the world would be ruled by the Humans, Gwyn cast himself into the First Flame, artificially extending the Age of Fire for another thousand years. At Gwyn's command, The Gods shepherded the Human race afterwards.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "99618ae1-e9cd-5f81-95a3-203eaed304c7",
+    "title": "Humans",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Humans, thanks to their Dark Soul, possess \"Luck\", an essential property that distinguishes them from other races and guarantees them a slight influence on reality and probability. Weapons infused with the power of a Hollow Gem are able to peer into the darkness of its wielder and boost their attack based on their luck.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b7809a78-7a5b-59a2-b247-2c4ea6fb20a3",
+    "title": "Humans",
+    "section": "age_of_gods",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Humans -  Dark Souls III - character - age_of_gods \n age_of_gods : In the Ringed City, the true Dark Soul was spread out amidst several individuals, who became the Pygmy Lords. With the Dark Soul, they were ageless, and they and their descendants isolated themselves from the rest of the city.\n\nA spell fell on Filianore, and as long as she remained asleep, time had no influence on the city or its inhabitants. By the decree of an ill-described \"King,\" a covenant was formed to protect Filianore from disturbance, most of its members being survivors of failed attempts to steal the Dark Soul. The last person, for much of history, to willingly become a member of this covenant was a missionary named Halflight. Victims of the Abyss' corruption were resurrected from the Abyss, to help protect the city streets.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bc5a543c-46c0-50c4-8ddc-b04b03b9f805",
+    "title": "Humans",
+    "section": "last_days_of_fire",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Upon doing so, they come across Filianore and awaken her. This transports the Ashen One to a desert of unknown nature containing the ruins of the Ringed City, Lothric, and Anor Londo. By the time Gael comes across the Pygmy Lords, their blood has dried up, though the Dark Soul keeps their decrepit remains alive. Gael kills and drinks the blood of the Pygmy Lords, becoming the new bearer of the Dark Soul. In his maddened state he fights the Ashen One, eventually discovering that he now bleeds the very blood that he once sought, and draws strength from the Dark Soul. Once he is vanquished, the Ashen One gives his blood to the Painter, who names the new painting in their honor.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d946e108-d87d-51c8-abd7-692c0d79160f",
+    "title": "Humans",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "A statue in the Ringed City depicts a shriveled being squatting before Gwyn, who gifts it a crown and a glowing essence (in the game, this is a Chloranthy Ring).\n**This statue, when proportions are taken into account, depicts this shriveled being possessing a height almost like Gwyn. While it cannot be said who this statue depicts crouching before Gwyn, it shows that early Humans were not truly \"pygmies\" to the Gods, implying that it was merely a term used to insult them.\n**This crown appears similar to both Gwyn's own and the crown of the Pygmy King.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "db49e725-c5bf-5cea-af05-c1a80eb3e314",
+    "title": "Humans",
+    "section": "age_of_ancients",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Humans -  Dark Souls III - character - age_of_ancients \n age_of_ancients : The Humans were created by the Furtive Pygmy, a forgotten Lord from the dawn of Fire, who claimed a small spark known as the Dark Soul. With this soul, the Pygmy raised up the Human race, binding their nature with the Dark. When the other Lords prepared to battle the Dragons, they came to the Humans, and conscripted them into their ranks. To this end, Humans began to forge arms and armor in the Abyss, which drew upon the power of a dark flame. Gwyn, Lord of Sunlight, and his children, the Gods, cast a seal of fire upon them due to their perilous nature. So it was that the Human army, who were dubbed the Ringed Knights, set out with the Lords and their armies to eradicate the Everlasting Dragons, but due to their disruptive potential, their roles went unrecorded in histories.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "05fd886f-2c21-54f4-a8bd-7e9f89919514",
+    "title": "Knight Artorias",
+    "section": "abyss_sludge",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Knight Artorias -  Dark Souls III - boss - abyss_sludge \n abyss_sludge : When the player is behind Artorias, he may use his Abyss Sludge attack. This move does little damage but can stun and even knock down players with little to no poise. If timed right, the player can roll forward through the attack and get a hit on him, then immediately retreat.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0ac898b5-4e37-5726-8328-4a4469ba279a",
+    "title": "Knight Artorias",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "In addition, Artorias and Sif had become trusted friends of Alvina, a white Great Feline that had lived for centuries since the early Age of Fire. After Artorias's death, Alvina founded the Forest Hunter covenant, a clan of hunters bound with the aim of protecting the Darkroot Forest where her friend rested and Sif resided from the many adventurers who invaded it to seek the tomb of the legendary knight. Alvina would try to dissuade those who ventured into the region, advising them not to seek Artorias's tomb and that his legends were only fabrications and fairy tales.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "20685135-ba08-5825-ab00-c1b1373528d7",
+    "title": "Knight Artorias",
+    "section": "aerial_attacks",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Knight Artorias -  Dark Souls III - boss - aerial_attacks \n aerial_attacks : See below for attack name references*\n\nWhen he uses his Somersault Slam attack, the player will want to roll to the right as the camera tilts upward while locked onto him. The player can do this three times and then get in one or two attacks (based on one's weapon) after the third attack lands. Avoid attacking after his Steadfast Leap. Instead use that opportunity to heal or get some distance from him.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "37d51c5e-5be0-5fab-91f9-b317a2934f40",
+    "title": "Knight Artorias",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "**Knight Artorias' pose in promotional artwork of Artorias of the Abyss DLC of Dark Souls eerily resembles Guts' own in his Berserker Armor as depicted in artwork of Voluma 28 of the *Berserk* manga series.\n**Both are associated with enormous canines, though their dynamics contrasted greatly (Knight Artorias and Great Grey Wolf Sif were good friends, unlike Guts and Beast of Darkness whose relationship was antagonistic, true to the latter's nature as the former's personified rage and hatred).\n**Knight Artorias's behavior and fighting style after being corrupted by the Abyss could be compared to Guts' own when the latter is completely under the influence of Berserker Armor.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3dbb27e2-508d-5a01-924f-fe44091b21f9",
+    "title": "Knight Artorias",
+    "section": "unused_dialogue",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Knight Artorias -  Dark Souls III - boss - unused_dialogue \n unused_dialogue : Artorias is silent in *Artorias of the Abyss* safe for a few grunts and moans, but actually possesses his very own set of unused voice lines hidden in the game's database; his voice has an otherwordly echo to it, denoting his advanced state of corruption by the Abyss, although the presence of coherent dialogue indicates that he would have retained much of his memory and personality.\n\nHis removed audio can be roughly divided into three categories: the first are wordless sound bites, consisting of coughs, screams and unusued grunts and moans likely meant to play during his boss fight.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "55be761e-6c80-5b5f-a941-b575a20ad363",
+    "title": "Knight Artorias",
+    "section": "artifacts",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Knight Artorias -  Dark Souls III - boss - artifacts \n artifacts : Soul of Artorias\nSet of Artorias\nWolf Knight Set\nGreatsword of Artorias\nWolf Knight's Greatsword\nGreatshield of Artorias\nWolf Knight's Greatshield\nWolf Ring\nSilver Pendant\nCleansing Greatshield\nCovenant of Artorias\nGreatsword of Artorias (Cursed)\nAbyss Greatsword",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5b52eb4d-c71d-5439-bde2-0cc72077a581",
+    "title": "Knight Artorias",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Sometime after Lord Gwyn sacrificed himself to link the fading First Flame, the Primordial Serpent Kaathe began searching for a human strong enough to become the Dark Lord capable of leading humans and usher in an Age of Dark. Kaathe eventually arrived in New Londo and managed to entice the Four Kings, powerful humans who had received a fragment of Gwyn's Lord Soul, into following his ideals, teaching them the art of Lifedrain. The Serpent's dark influence extended to their entire army: The knights of New Londo became Darkwraiths, servants of the Dark who learned the art of Lifedrain and used it to absorb humanity. The Four Kings opened an Abyss in the center of their city, with their Darkwraiths beginning to employ the Red Eye Orbs granted by Kaathe to plunder humanity and expand the reach of the Abyss.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5c12d4a3-fbf2-554c-8aa3-9181c78208bb",
+    "title": "Knight Artorias",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "At the close of a period in the Age of Fire, The Abyss Watchers linked the First Flame, becoming Lords of Cinder. An indefinite amount of time later, the destined Lord of Cinder Prince Lothric refused to link the First Flame, which led to Lords of Cinder from the past being exhumed from their graves, to once again serve as kindling for the Flame. The Abyss Watchers refused to once again sacrifice themselves to the Flame, instead returning to Farron Keep, leaving their throne at Firelink Shrine empty.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "60407cd4-847b-5cc2-856a-ea8eaa8ce3ad",
+    "title": "Knight Artorias",
+    "section": "wrath_of_the_abyss_buff",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "If you are a lower level and unable to find a means of staggering during Artorias' charge-up, you can place a headshot and force him out of his animation using a bow. Headshots with bows, crossbows, and other types of throwables deal additional poise damage in general, but will stun Artorias. If you succeed in hitting him in the head, he will stand up and continue the fight. To help time this tricky attack, watch for Artorias to roll backwards **twice**, as this is the only time that he will do it before attempting to charge up; use this time to arm and aim your shot. The power of the bow and arrow do not need to be high. Avelyn is very good for interrupting his charge-up, you'll be able to shoot twice before he completes it, be sure to aim for his head and you will be able to stun him in a single hit. Avelyn deals the full poise damage for each bolt that impacts, for a total of 60 poise damage.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "653f9bc5-bb06-5b2d-adad-bf54f1b6ca06",
+    "title": "Knight Artorias",
+    "section": "wrath_of_the_abyss_buff",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Knight Artorias -  Dark Souls III - boss - wrath_of_the_abyss_buff \n wrath_of_the_abyss_buff : After Artorias has lost 1/3 of his health, he will start to use his Wrath of the Abyss power up. If left alone, he will do much more damage after he completes the power up for 90 seconds, potentially one-shotting the player. If the player can get close fast enough, they can Poise break him out of his charge up by dealing 90 Poise damage as his usual 130 Poise value is reduced during his buff animation. If the player doesn't do enough Poise damage fast enough, he will hit them with an area of effect blast attack that will knock the player on their back. The best bet is to use a decent Poise damage weapon and stop him from gaining his attack buff. If using a low Poise damage weapon, check the Poise Damage Values of your weapon to calculate the beast way to deal 90 poise damage to him via a combination of light and heavy attacks.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6a8a6383-e0c2-5c53-87ab-78223bffdf6f",
+    "title": "Knight Artorias",
+    "section": "attacks",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Knight Artorias -  Dark Souls III - boss - attacks \n attacks : {'name': 'Wrath of the Abyss', 'description': \"Activates in intervals after approximately 20% of his total health is reduced. After rolling away, he will slowly build up dark magic energy, presenting ample time for retaliation, potentially staggering him, or to apply augmentations to one's weapon or self. A single Sunlight Spear can stagger him and prevent this build up from finalizing. If the player does not stagger him, he will release an explosion that does magic damage in a mid-ranged area of effect all around him. Artorias' attack speed, area of effect and damage are enhanced for a limited time afterwards. These effects can stack.\\n\\nIn addition to the health thresholds, this attack has a time interval between uses, in that if Artorias is left undamaged for a period of time, he will re-activate Wrath of the Abyss.\"}",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  }
+]
