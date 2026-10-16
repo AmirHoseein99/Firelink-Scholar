@@ -39,8 +39,8 @@ def contextfromvectors(query: str, k: int = 50,):
     List order is the ranking. Document.metadata["document_id"] carries the
     chunk UUID used by the evaluation set (eval/v3/judgments.json).
     """
-    vector_db = vector_db or get_vector_store()
-    qwen_embeddings = qwen_embeddings or get_embeddings()
+    vector_db = get_vector_store()
+    qwen_embeddings = get_embeddings()
     vector = qwen_embeddings.embed_query(query)
     retrieved = vector_db.similarity_search_with_score_by_vector(vector, k=k)
 
@@ -62,11 +62,11 @@ def contextfromvectors_hybrid(query: str, k: int = 5):
     Hybrid retrieval: combine sparse and dense retrieval results.
 
     """
-    vector_db = vector_db or get_vector_store()
-    qwen_embeddings = qwen_embeddings or get_embeddings()
+
     sparse_results = bm25_retrieval(query=query, k=k)
-    dense_results = contextfromvectors(
+    dense_results = contextfromvectors_enhanced(
         query=query, k=k
+        
     )
 
     rrf_rankings = reciprocal_rank_score(
