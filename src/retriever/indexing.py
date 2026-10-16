@@ -18,6 +18,10 @@ from langchain_qdrant import QdrantVectorStore
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 from src.config import settings
+from src.retriever.vector_store import (
+    get_embeddings,
+    get_vector_store as get_vector_store_singleton,
+)
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 STRUCTURED_DATA_DIR = REPO_ROOT / "data" / "structured"
@@ -40,21 +44,18 @@ sections_to_ignore = [
 
 
 def create_embeddings() -> OpenAIEmbeddings:
-    return OpenAIEmbeddings(
-        model="qwen3-embedding-0.6b",
-        base_url="http://localhost:3001/v1",
-        api_key=settings.freellm_api_key,
-        check_embedding_ctx_length=False,
-    )
+    """Shared embeddings instance (process-wide singleton)."""
+    return get_embeddings()
 
 
-def get_vector_store(embeddings: OpenAIEmbeddings) -> QdrantVectorStore:
-    return QdrantVectorStore.from_documents(
-        [],
-        embeddings,
-        path=settings.QDRANT_PATH,
-        collection_name=settings.COLLECTION_NAME,
-    )
+def get_vector_store(embeddings: OpenAIEmbeddings | None = None) -> QdrantVectorStore:
+    """Shared vector store (process-wide singleton).
+
+    ``embeddings`` is accepted for backward compatibility but ignored: the
+    singleton owns the single QdrantClient allowed on the local storage
+    folder. If the collection does not exist yet, the singleton creates it.
+    """
+    return get_vector_store_singleton()
 
 
 def create_one_liner_metadata(wikipage_js, section_key: str):

@@ -5,9 +5,13 @@ from datetime import datetime, timezone
 from src.config import settings
 from src.llm.client import OpenAICompatibleAPI
 from src.retriever.prompt import build_prompt
+from src.retriever.vector_store import get_embeddings, get_vector_store
 
 model = OpenAICompatibleAPI(base_url=settings.NEURALWATT_BASE_URL, api_key=settings.NEURALWATT_API_KEY, model=settings.NEURALWATT_MODEL, provider="NeuralWatt")
 
+qwen_embeddings = get_embeddings()
+
+qdrant = get_vector_store()
 
 def generate(query: str, k: int = 5) -> str:
     """Answer a question with RAG: retrieve k chunks, then query the LLM."""

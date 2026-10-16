@@ -1,21 +1,15 @@
 import atexit
 import logging
 
-from langchain_openai import OpenAIEmbeddings
-from langchain_qdrant import QdrantVectorStore
+from src.retriever.vector_store import get_embeddings, get_vector_store
 
 from src.config import settings
 
 logger = logging.getLogger(__name__)
 
-qwen_embeddings = OpenAIEmbeddings(
-    model="qwen3-embedding-0.6b",
-    base_url="http://localhost:3001/v1",
-    api_key=settings.freellm_api_key,
-    check_embedding_ctx_length=False,
-)
+qwen_embeddings = get_embeddings()
 
-qdrant = QdrantVectorStore.from_existing_collection(
+qdrant = get_vector_store()
     embedding=qwen_embeddings,
     path=settings.QDRANT_PATH,
     collection_name=settings.COLLECTION_NAME,
