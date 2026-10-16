@@ -29,12 +29,8 @@ def enhance_query(user_query: str) -> str:
 
     Falls back to the original query if enhancement fails.
     """
-    model = OpenAICompatibleAPI(
-        base_url="http://localhost:3001/v1",
-        api_key=settings.freellm_api_key,
-        model=settings.freellm_model,
-        provider="FreeLlmApi",
-    )
+    model = OpenAICompatibleAPI(base_url=settings.NEURALWATT_BASE_URL, api_key=settings.NEURALWATT_API_KEY, model=settings.NEURALWATT_MODEL, provider="NeuralWatt")
+
 
     messages = [
         {"role": "system", "content": "rewrite user questions into optimized search queries."},
