@@ -1,0 +1,2082 @@
+[
+  {
+    "document_id": "5d445026-dcc9-53e0-8d00-9895dc2826d4",
+    "title": "Ashen Crawler",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Ashen Crawler -  Dark Souls II - enemy - description \n description : Ashen Crawlers are heavyset undead that are badly burnt and missing their legs. They move around by crawling and emanate a trail of smoke and soot.\n\nWhile they are not overly threatening by themselves, they are often encountered in large numbers and in tight corridors where players will have difficulty evading their attacks. As well, when hit by fire they will ignite, becoming much more aggressive and moving much more quickly. They will also inflict constant fire damage when within melee range of players, similar to the Smelter Demon.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6dbcc7b2-9a2e-56aa-aedd-ad37bee9e170",
+    "title": "Ashen Crawler",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Care should be taken when fighting Ashen Crawlers, as they will attack in numbers and can easily drain players' stamina with their attacks and deal tremendous damage while they're vulnerable. Try to focus on one at a time, and if possible try to bait their explosion attack and then retreat in order to quickly eliminate them. Given enough maneuvering space, a chain reaction can be set off amongst them where one explosion ignites or destroys several others. Beware, however, that igniting one causes it to become much more aggressive, so once one is on fire it is best to try to bait it into exploding to immediately remove it from the field.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6dc85a4d-ed9d-5efd-a7fd-8fa816d78650",
+    "title": "Ashen Crawler",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Ashen Crawler -  Dark Souls II - enemy - strategy \n strategy : Ashen Crawlers are very slow and ponderous, and their attacks can be easily baited and avoided, allowing players to deal large amounts of damage while they are vulnerable. However, they are extremely durable, requiring many attacks to destroy due to their high elemental and physical damage resistance combined with their large amount of health.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8f11bc4b-4828-5aa9-aac7-3769e48ab022",
+    "title": "Ashen Crawler",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Ashen Crawler -  Dark Souls II - enemy - lead \n lead : **Ashen Crawlers** are enemies in .",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b933d36e-98d6-5a4b-9234-7bc64cf87921",
+    "title": "Ashen Crawler",
+    "section": "attacks",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Ashen Crawler -  Dark Souls II - enemy - attacks \n attacks : **Leap**: Leaps at the player from medium distance, knocking the player down. Deals heavy stamina damage if blocked. Has poor tracking, so it can be dodged by rolling to the side.\n\n**Strike**: Swings its arms to attack the player. After two swings it will fall onto its belly, taking a few seconds to recover.\n\n**Explode**: When near the player, it will glow red and explode, destroying itself and inflicting area fire damage with heavy knockback; this explosion can damage and ignite any nearby Ashen Crawlers. If the player retreats quickly, it has the ability to cancel this attack, but if it has been ignited it loses the ability to cancel the explosion.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e175eacd-7f55-548d-9085-55e285f954d3",
+    "title": "Ashen Crawler",
+    "section": "location",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Ashen Crawler -  Dark Souls II - enemy - location \n location : Brume Tower",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "35eab912-f2df-56e6-bca9-24b62a770292",
+    "title": "Ashen Idol",
+    "section": "locations",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "One is found up an elevator in Brume Tower. Prowlers will invade when the player nears it, and it will heal them until it is destroyed.\nFour are found surrounding the Fume Knight boss arena and, unless they're destroyed, they will heal Fume Knight for the duration of the fight.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.578969755313949,
+    "bm25_score": 35.15180982677409
+  },
+  {
+    "document_id": "3c3068db-5af3-5011-bb05-a40ba7503003",
+    "title": "Ashen Idol",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Ashen Idol -  Dark Souls II - enemy - lead \n lead : **Ashen Idols** are special enemies in *Dark Souls II*, exclusive to the *Crown of the Old Iron King* DLC. There are eleven of them in Brume Tower, and they do not respawn when killed.\n\nThe Idols are the remains of Nadalia, Bride of Ash, and all eleven must be killed in order to complete the DLC and obtain its titular crown; instead of having a health bar to be depleted, Idols are destroyed by interacting with them as if they were mechanisms, although a Smelter Wedge is required and consumed upon use. They each drop a fragment of Nadalia's soul, and when all eleven are destroyed, the player obtains her full soul.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5831970030370605,
+    "bm25_score": 33.10707140401752
+  },
+  {
+    "document_id": "508b2702-8b76-58ef-9aef-33f5eb92da73",
+    "title": "Ashen Idol",
+    "section": "effects",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Ashen Idol -  Dark Souls II - enemy - effects \n effects : Different idols have different effects. These include:\n\nReleases a fiery spell identical to Outcry if approached.\n\nGrants a damage resistance buff to nearby enemies, similar to Iron Flesh.\n\nDarkens the surrounding area and emits Curse.\n\nHeals nearby enemies with a glowing orb, similar to Warmth.\n\nRevive Possessed Armor.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8c5a4b47-ac0d-5a69-8723-c944ff76faf0",
+    "title": "Ashen Idol",
+    "section": "locations",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Ashen Idol -  Dark Souls II - enemy - locations \n locations : One is found upon reaching the Brume Tower after crossing the large chain. Near the 1st bonfire.\nOne is found down a ladder after the first two encounters with Ashen Warriors in the room next to Dance of Fire.\nOne is found in a room inside Brume Tower. The room must be dropped into and has 3 Ashen Warriors and an Iron Warrior.\nOne is found in a room inside Brume Tower after the Scorching Iron Scepter has been placed at the Foyer bonfire. Go up the elevators and find a room where an Iron Warrior is being healed by the idol.\nOne is found within a tower separate of Brume Tower. It is at the bottom of the tower, and until it is destroyed, entering the area will cause curse to build up.\nOne is found near the Foyer bonfire in Brume Tower. It is at the bottom of a short side area which is only accessible with the use of the Tower Key. Until it is destroyed, entering the area will cause curse build up.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5370122596233063,
+    "bm25_score": null
+  },
+  {
+    "document_id": "02e24980-ef67-5a7c-9626-8969655a06ec",
+    "title": "Ashen Warrior",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Ashen Warrior -  Dark Souls II - enemy - strategy \n strategy : An easy way to deal with Ashen Warriors is to dodge their attacks and backstab them while they are recovering. They only pose a serious threat when they surround the player, which may happen frequently as they are usually encountered in groups of three or four. All of the Ashen Warriors have thrusting attacks and their weapons have long reach, so rolling from side to side is more effective than rolling backwards.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5462649087404658,
+    "bm25_score": null
+  },
+  {
+    "document_id": "03a699a5-fd8a-54f1-858a-a2c96b98bfb7",
+    "title": "Ashen Warrior",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Ashen Warrior -  Dark Souls II - enemy - lead \n lead : **Ashen Warriors** are enemies in .",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "25d5a0a1-febe-59f4-b3bd-c2d86bb67744",
+    "title": "Ashen Warrior",
+    "section": "location",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Ashen Warrior -  Dark Souls II - enemy - location \n location : Ashen Warriors are encountered in the *Crown of the Old Iron King* DLC. They can be found throughout all of Brume Tower and the Iron Passage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "764f2043-e976-5f1c-bf4b-b10b608a7777",
+    "title": "Ashen Warrior",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Sword Wielders use a single Ashen Warrior Sword and may sometimes be equipped with a bow that they will use at range. Their most dangerous attack is when they swing their sword four times in quick succession, potentially poise-breaking the player and dealing heavy damage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8a23c21a-8630-5d50-bcda-595c60cb0e62",
+    "title": "Ashen Warrior",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Ashen Warrior -  Dark Souls II - enemy - notes \n notes : Susceptible to Alluring Skulls.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "baa8dc1c-73ee-51b5-9180-394ae60f68c1",
+    "title": "Ashen Warrior",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Ashen Warrior -  Dark Souls II - enemy - description \n description : Standing only a couple feet over the player, the Ashen Warriors are hollowed soldiers that roam Brume Tower and attack any intruders on sight. They can hide beneath the ashen ground in some places, and even in the sides of mountains, ambushing the player as they walk by. There are a few variants of the Ashen Warriors:\nBattle Axe Wielders use dual battle axes and will attack mercilessly, leaping towards the player to close the gap between them.\nHalberd Wielders use a single halberd and a shield, taking a more defensive approach to attack the player. They are able to attack with their shield raised, and have a dangerous spinning attack. They can be guard broken.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "266f57b3-436f-5560-9a98-b3adfd0a0476",
+    "title": "Baneful Bird Ring",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Baneful Bird Ring -  Dark Souls II - ring - availability \n availability : Located on a corpse in Brume Tower, in view of the Throne Floor bonfire. A lift must be taken to reach the ring, which in turn requires the player to find and use the Scorching Iron Scepter.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7fae9935-ea68-52a9-8aa5-29bdc43b766e",
+    "title": "Baneful Bird Ring",
+    "section": "effects",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Baneful Bird Ring -  Dark Souls II - ring - effects \n effects : Increases the stability of all equipped items by 5, thereby reducing the stamina damage taken when blocking. The ring is particularly powerful when combined with a greatshield, as the already low stamina damage taken can be reduced by a larger fraction, allowing players to easily weather repeated hits.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b33687d7-bf13-51c0-acf0-81196c52d97b",
+    "title": "Baneful Bird Ring",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Baneful Bird Ring -  Dark Souls II - ring - lead \n lead : The **Baneful Bird Ring** is a ring in *Dark Souls II: Crown of the Old Iron King.*",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "db4dd787-da3f-5e1f-8c78-3f873e4db722",
+    "title": "Baneful Bird Ring",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Baneful Bird Ring -  Dark Souls II - ring - description \n description : Ring of Raime the traitor.\nReduces stamina loss when blocking with shield.\n\nRaime was an agile swordsman who\nserved King Vendrick, but after resigning\nfrom his post, he reconsidered his\nway of life and was born again as\na stalwart warrior.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "07806d15-2312-5d41-856f-3016e3b7c81f",
+    "title": "Brume Tower",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Brume Tower -  Dark Souls II - location - lead \n lead : **Brume Tower** is a location in .",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0c40a481-e0fb-5508-878b-b355d989b02d",
+    "title": "Brume Tower",
+    "section": "non_playable_characters",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Brume Tower -  Dark Souls II - location - non_playable_characters \n non_playable_characters : Carhillion of the Fold (summon)\nSteelheart Ellie (summon)",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0fc3c6f9-066c-535b-99d6-47135c663740",
+    "title": "Brume Tower",
+    "section": "bonfires",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "***Lowermost Floor:** At the bottom of the tower in the room around the Fume Knight arena. Go right at the fog gate and follow the ring around the arena and the bonfire will be in a room at the end.\n***The Smelter Throne:** Take the elevators to the highest ring and past a gate that requires the Tower Key. After the Prowlers invasion the bonfire is up the stairs near the armor stand for the Memory of the Old Iron King.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3394e2ff-c024-533a-b6b7-7b27fbbaf455",
+    "title": "Brume Tower",
+    "section": "non_respawning",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Brume Tower -  Dark Souls II - location - non_respawning \n non_respawning : Ashen Idol\nCrystal Lizard",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "46c16d8d-5839-5b1a-9348-f4cf03da1cf8",
+    "title": "Brume Tower",
+    "section": "adjacent_locations",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Brume Tower -  Dark Souls II - location - adjacent_locations \n adjacent_locations : Memory of the Old Iron King\nIron Passage",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "67e71e9b-b8e2-51ad-8ae4-0b87ce3ef4fc",
+    "title": "Brume Tower",
+    "section": "bosses",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Brume Tower -  Dark Souls II - location - bosses \n bosses : Fume Knight",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9b7e5756-9bb7-58cd-8652-f7c4b5780dcf",
+    "title": "Brume Tower",
+    "section": "respawning",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Brume Tower -  Dark Souls II - location - respawning \n respawning : Ashen Warrior\nCask Runner\nFume Sorcerer\nIron Warrior\nPossessed Armor\nAshen Crawler",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bfe5f618-957b-5975-afd3-6be388800369",
+    "title": "Brume Tower",
+    "section": "characters",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Brume Tower -  Dark Souls II - location - characters \n characters : Maldron the Assassin\nProwlers\nQuicksword Rachel",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "de301f8a-3d2a-53fb-a6f1-58607161807a",
+    "title": "Brume Tower",
+    "section": "bonfires",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Brume Tower -  Dark Souls II - location - bonfires \n bonfires : ***Throne Floor:** When entering the DLC, cross the massive chain to the tower. The bonfire will be on the rooftop at the end of the chain.\n***Upper Floor:** Following the level path descend two consecutive ladders before entering a hallway with floor-to-ceiling bars on the left side. The bonfire is in a small room to the right at the end of the hallway.\n***Foyer:** Past the outside area with the first Fume Sorcerers. The path splits with a fog wall leading back inside the tower on one side. Go through the fog wall and the bonfire is in the alcove along the tower's wall.\n***Lowermost Floor:** At the bottom of the tower in the room around the Fume Knight arena. Go right at the fog gate and follow the ring around the arena and the bonfire will be in a room at the end.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f4f0225d-2310-5784-bb25-4be0d2169d78",
+    "title": "Brume Tower",
+    "section": "overview",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Brume Tower -  Dark Souls II - location - overview \n overview : The location is actually a number of large towers set within a volcanic wasteland setting. The towers are connected by large chains that can be walked across. The largest and central tower is a giant clockwork contraption that, once activated, sets a number of elevators in motion within the tower and surrounding area, allowing further access.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "20d7c1a6-0cc1-5bce-ae0d-d459df82e74b",
+    "title": "Cask Runner",
+    "section": "location",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Cask Runner -  Dark Souls II - enemy - location \n location : Cask Runners are found throughout the Brume Tower.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "340f9900-da84-5cdc-9347-746302f18546",
+    "title": "Cask Runner",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Cask Runner -  Dark Souls II - enemy - strategy \n strategy : Their cowardly nature can be taken advantage of by chasing them into the wall-mounted fire-spewing minotaur heads or the Iron Warriors' lava stream, at which point they will explode, causing heavy damage to friend and foe alike.\n\nAny fire or magic damage will cause them to explode. This can be used to hurt, and often kill, nearby enemies.\n\nThey can also be used to destroy certain walls in the areas they are located.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5b670999-425d-5aff-9918-43c15587c29a",
+    "title": "Cask Runner",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Cask Runner -  Dark Souls II - enemy - description \n description : The Cask Runners are small, cowardly hollows that carry explosive barrels and run away when they are approached by the player.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "72ea9302-71b5-5c72-9ba7-854e86aacb7c",
+    "title": "Cask Runner",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Cask Runner -  Dark Souls II - enemy - lead \n lead : **Cask Runners** are enemies in *Dark Souls II*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4937d786-ccb7-5e66-92cf-2974ceeb697e",
+    "title": "Dexterity Ring",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Dexterity Ring -  Dark Souls II - ring - effect \n effect : Increases Dexterity by 5 points.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "68a80f0d-7410-5671-8569-262a9ecc19da",
+    "title": "Dexterity Ring",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Dexterity Ring -  Dark Souls II - ring - availability \n availability : The Dexterity Ring is found on a corpse just after the Throne Floor bonfire of Brume Tower.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "be68f8a9-5fc6-5f1d-b06c-bb7e778fe0b3",
+    "title": "Dexterity Ring",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Dexterity Ring -  Dark Souls II - ring - description \n description : An oddly deformed iron ring.\nIncreases the dexterity of its wearer.\n\nThe Old Iron King ruled over\na great age of iron.\n\nThe King's power allowed him\nto mold iron freely, as if he held sway\nover the forces of life and creation.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c20a92a3-303e-567d-a3da-1e5692775762",
+    "title": "Dexterity Ring",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Dexterity Ring -  Dark Souls II - ring - lead \n lead : The **Dexterity Ring** is a ring in *Dark Souls II: Crown of the Old Iron King*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1151b9b5-51b3-5442-8381-352b22aeb3d1",
+    "title": "Dispelling Ring",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Dispelling Ring -  Dark Souls II - ring - lead \n lead : The **Dispelling Ring** is a ring in *Dark Souls II*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "63ca2636-d281-5e9b-9333-9f72f3f090f6",
+    "title": "Dispelling Ring",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Dispelling Ring -  Dark Souls II - ring - description \n description : A protective ring set with gemstones\nof four different colors.\nIncreases the wearer's resistance to magic,\nlightning, fire and dark.\n\nThe artistry required to attune the varying\npowers of four different stones within one ring\ncould only be described as transcendental.\n\nThere is only one sorcerer who could have\ndone this; a man from the lost land of Olaphis.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8cb1f232-16aa-594b-8692-c4f85f4cd643",
+    "title": "Dispelling Ring",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "**Alternatively, take the first elevator on the left from the Foyer bonfire to go up and take the next elevator up before going right. Follow the corridor with the movable, flame-spraying bull head and take the stairs up. Do not move this upper corridor's bull head, instead try to lure or push one of the Cask Runners into it to destroy the wall (may require clearing out the enemies, just make sure to not use any source of Fire Damage as that might accidentally detonate a cask).",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c6d92ff3-07d1-56f7-a855-cee5e40836f4",
+    "title": "Dispelling Ring",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Dispelling Ring -  Dark Souls II - ring - effect \n effect : Increases Fire, Lightning, Magic and Dark defenses by 60 or 120 points each depending on the variant.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d75ec00f-3640-5347-8205-639df5921c99",
+    "title": "Dispelling Ring",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Dispelling Ring -  Dark Souls II - ring - availability \n availability : Given to the player by Royal Sorcerer Navlaan as a reward for the assassination of Laddersmith Gilligan. The player must be Hollow and Navlaan's cell must be closed.\nThe +1 version can be found in the *Crown of the Old Iron King* DLC. It is located behind a destructible wall that can only be destroyed by luring a Cask Runner to it and blowing it up. The destructible wall can be reached by going the opposite way of the gate to the Smelter Throne bonfire when on the elevator and going up the staircase at the end of the stairs. The specific wall is the one between the second and third pillar on the left.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "34d64976-2037-5e2b-a49e-a0c9d0a25dad",
+    "title": "Flame Quartz Ring",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Flame Quartz Ring -  Dark Souls II - ring - description \n description : A ring bestowed upon students of a certain standard at the Melfian Magic Academy.\nIts fire-based quartz increases fire defense.\n\nThere are rumors that Pyromancer Glocken has made a hefty profit selling these replicas.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "50f216ad-0d5e-5457-a074-14ce082536ef",
+    "title": "Flame Quartz Ring",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Flame Quartz Ring -  Dark Souls II - ring - lead \n lead : The **Flame Quartz Ring** is a ring in *Dark Souls II*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c827d880-de48-5381-a81d-9cc3590802d7",
+    "title": "Flame Quartz Ring",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Flame Quartz Ring -  Dark Souls II - ring - availability \n availability : The regular Flame Quartz Ring can be bought from Rosabeth of Melfia for 2,000 souls.\nThe +1 version is in a chest in the Forest of Fallen Giants within the Flame Salamanders area.\nThe +2 version is dropped by the Guardian Dragons in the Dragon Aerie.\nThe +3 version can be found on a corpse near the first Iron Warrior in Brume Tower.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e3c412f9-c6a0-599e-bd9c-b0805fc5db6a",
+    "title": "Flame Quartz Ring",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Flame Quartz Ring -  Dark Souls II - ring - effect \n effect : Grants a varying amount of defense against Fire attacks, depending on the level of the ring.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "297cd544-2a40-5928-b214-da3e437db006",
+    "title": "Fume Knight",
+    "section": "summoning",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Fume Knight -  Dark Souls II - boss - summoning \n summoning : Steelheart Ellie and Carhillion of the Fold can be summoned for this battle. Ellie's sign is right next to the nearby bonfire, while Carhillion's sign is in front of the fog gate.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6439072276719966,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2d458a8b-745e-5ac2-b5be-2696d9efa8b0",
+    "title": "Fume Knight",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Fume Knight -  Dark Souls II - boss - lead \n lead : The **Fume Knight** (煙の騎士, *Kemuri no kishi*, \"Knight of Smoke\"), also known as **Raime the Traitor** and **Rebel Raime**, is a boss in *Dark Souls II: Crown of the Old Iron King* and *Dark Souls II: Scholar of the First Sin*.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.614939505490109,
+    "bm25_score": 33.76653292824618
+  },
+  {
+    "document_id": "36a869ef-25a6-5850-9e5c-cb2e5be04dfd",
+    "title": "Fume Knight",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Fume Knight -  Dark Souls II - boss - trivia \n trivia : Stats collected by From Software reveal him as the hardest boss in the game, sporting a 93% failure rate.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6558410068325048,
+    "bm25_score": 36.79252567299336
+  },
+  {
+    "document_id": "38e6cf7b-ff31-5f68-88c1-008666c4d1d9",
+    "title": "Fume Knight",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "It is possible to buff once inside the arena, meaning the Iron Warriors will not be an issue while buffing.\n\nRaime takes low damage from Lightning attacks, but lightning-imbued weapons will still do decent damage to him provided they can deal considerable base Physical damage.\n\nRaime is dangerous, even against a player wielding a shield. He will hit hard and fast, meaning stamina will be difficult to keep up, even with high stability. Since he mostly deals Fire and Physical damage, a Phoenix Parma or a Gyrm Greatshield will work well, as they can block most of the damage he will output, though the stamina drain will remain an issue.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4d2df6f7-2fed-5c89-aefb-94e44e90f047",
+    "title": "Fume Knight",
+    "section": "attacks",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Fume Knight -  Dark Souls II - boss - attacks \n attacks : **Backward Slash:** Used when the player is standing to Raime's right or left. He will quickly slash down and back with either his greatsword or the longsword, always using the weapon on the side where the player is standing. Very little tell, can be difficult to dodge. He will do the same move when in his second phase as well, only this time it is more powerful with a higher starting lag.\n\n**Four-hit combo:** Raime will use the longsword in a three-hit combo, likely draining a lot of stamina if blocking and possibly guard-breaking the player. This can be dangerous as he can follow up the longsword attacks with a long, slow horizontal greatsword slash that deals high damage.",
+    "sources": [
+      "template",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.1619432486956
+  },
+  {
+    "document_id": "719c089d-1412-5fbd-84a3-745a71bb5ace",
+    "title": "Fume Knight",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Due to Raime's resistances to almost all forms of elemental attacks, infused weapons such as Fire, Magic, Lightning, etc. will deal less damage than a fully upgraded non-infused weapon, so the player may opt in removing their preferred weapons' infusions if the fight proves to be too difficult. A good alternative is to temporarily change the weapon's infusion to Raw, which draws out a weapon's best possible Physical damage.\n\nOnce Raime has buffed his ultra greatsword (left hand), his right hand weapon disappears. For melee characters, it is highly-advisable to focus all attacks and evasive rolls on his unarmed hand. This spot is beyond the reach of most of his attacks. Likewise, the 270 degree swing can be reasonably avoided by rolling left, towards the unarmed hand then rolling back towards it once behind Raime.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "81978458-f845-54eb-8359-762fa5607ab4",
+    "title": "Fume Knight",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Fume Knight -  Dark Souls II - boss - notes \n notes : Should one equip Velstadt's Helm before fighting him, Raime will immediately switch to his second phase pyromancy/ultra greatsword moveset, a nod to his enmity or precaution for his former rival.\nAs soon as the player enters the boss room, it is possible to quickly approach the point where Raime spawns to deal some relatively safe hits. It is advised to cease hitting once the health bar appears.\nNeither summon is recommended, as Carhillion does little damage and dies quickly, and Ellie does virtually no damage and doesn't last long either. In addition, summoning either one increases the Fume Knight's health by 100%, summoning both phantoms results in a 300% health Fume Knight.\nThe fireballs from his second special attack can be spell parried.\nRaime appears to be left-handed, preferring to wield his ultra greatsword in his left hand.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5945999856745225,
+    "bm25_score": null
+  },
+  {
+    "document_id": "850c4310-7ba0-5a47-bec3-4995e0d03e35",
+    "title": "Fume Knight",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Fume Knight -  Dark Souls II - boss - lore \n lore : Raime was one of Drangleic's most distinguished knights. He used his favorite bird, the black raven, as his sigil. He was considered by Vendrick as his left arm and was one of his most trusted advisors along with Velstadt. However, he eventually clashed with Velstadt and was deemed a traitor by Vendrick.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5439791118304078,
+    "bm25_score": null
+  },
+  {
+    "document_id": "908179e1-a227-512c-9f41-928fc41a706a",
+    "title": "Fume Knight",
+    "section": "attacks",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "**Fire sword:** Second phase only. Raime will slowly swing his sword from the player's left to right, trailing fire in a small arc roughly 270 degrees around himself. Highly damaging, as this attack does both Fire and Dark damage, even the Gyrm Greatshield will not be able to fully block the flame's damage. Can be rolled under with precise timing, or avoided by standing back some distance (roughly the length of the greatsword) from the knight. Difficult to dodge due to its deceptively slow swing time. Can easily be dodged by rolling left into the attack as soon as the attack animation starts.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9138341a-7362-5b4c-861a-a0f19c06449f",
+    "title": "Fume Knight",
+    "section": "attacks",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "**Overhead Smash:** The Fume Knight brings his greatsword over his head then slams it down in a vertical smash. This attack does not track well and is easily avoided, allowing the player to counterattack. This also makes his greatsword crack stopping him from transitioning into the second phase. The effect lasts for 20 seconds and can be baited by using an item behind him such as an Estus Flask\n\n**Lunge:** If the player has put some distance between his/herself and the Fume Knight, the knight will quickly charge the player and execute a lunge attack. This attack has a very obvious tell and is easily dodged by rolling to the right or left. Presents an excellent opportunity to counter. He will also perform this attack in his second phase, though it remains easy to avoid.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6008283984942996,
+    "bm25_score": 33.13247374442918
+  },
+  {
+    "document_id": "a6b2fc78-bb91-557f-a93c-71a054b0a8ea",
+    "title": "Fume Knight",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "At this phase, the player would be wise in luring Raime into performing his slow Fire/Dark energy-projecting swipe constantly and roll through it, allowing them to score a free hit each time.\n\nThe player must be wary when Raime buffs his greatsword with both Fire and Dark. Dark damage will still inflict heavy damage and pass through shields even if the player is well equipped against fire. Having some sort of Dark Defense, like the Dark Quartz Ring, will help alleviate the extra dark damage Raime deals when he switches movesets. The Dispelling Ring+1 (also found in Brume Tower) works exceptionally well, as it provides defense against both Fire and Dark. Another option is to infuse a fully upgraded Gyrm Greatshield with Dark, even if it means sacrificing a bit of Physical and Fire defenses.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b3aa1727-0d3d-584a-8ca5-398cd2303f51",
+    "title": "Fume Knight",
+    "section": "attacks",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "**Fire orbs:** Second phase only. Raime points his greatsword downward and slams it into the ground, emitting an area of effect fire attack. This attack also releases several fire orbs that expand outward from the knight, slowly spreading out as they go. As with the fire sword, this attack is highly damaging and difficult to avoid, especially if the player is close to Raime. The best way to avoid it is to roll back immediately when the player sees Raime turn his greatsword upside down, then wait for the fire orbs to spread out. If the player is far enough back, they can simply step through a gap between two orbs. Can also be rolled under, though one has to be very careful when doing so. Can also be parried using a spell-parry shield.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c2b0e2e4-be07-5bea-96d7-7b9920235143",
+    "title": "Fume Knight",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Fume Knight -  Dark Souls II - boss - strategy \n strategy : Outside the arena where the Fume Knight waits, there are four Ashen Idols scattered around. It's highly advisable for the player to strive in keeping at least four Smelter Wedges at all times, even if it means leaving one (or maybe more) Ashen Idols intact while traversing Brume Tower. These four Ashen Idols should be destroyed prior to the fight or they will prove to be a large problem by healing Raime throughout the fight.\n\nThe NPCs available for this fight will more likely than not give Raime a higher fighting advantage by providing him with a defense boost for each phantom summoned rather than helping in doing damage to him, so they probably will not be helpful for this encounter.\n\nIt is possible to buff once inside the arena, meaning the Iron Warriors will not be an issue while buffing.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6924317920023118,
+    "bm25_score": 50.94778746362995
+  },
+  {
+    "document_id": "c3a8a16f-1086-532d-8c52-b70782090084",
+    "title": "Fume Knight",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "The fireballs from his second special attack can be spell parried.\nRaime appears to be left-handed, preferring to wield his ultra greatsword in his left hand.\nAs with all of the *Crown of the Old Iron King* bosses, when his HP falls to approximately 30%, he will automatically stagger for a brief moment.\nHis armor set can be purchased from Magerold of Lanafir upon his defeat.\nHis shield, the Rebel's Greatshield, is found in the Flame Salamander pit in the Forest of Fallen Giants, and his ring, the Baneful Bird Ring, is found atop Brume Tower, on a corpse next to the first bonfire.\nHis signature ultra greatsword makes a second appearance in the following sequel Dark Souls 3.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e74aba01-281a-544a-a1bf-427a4fd0947b",
+    "title": "Fume Knight",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "If fighting Raime during the second phase, it is advisable to lure him onto the edges of the boss area. Rolling towards the unarmed hand will dodge most of his attacks. Likewise, Raime's Fire Orb attacks can be avoided altogether by running straight towards the other end of the boss area. It should be noted that this is only effective if the Fire Orb attacks are telegraphed immediately.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fbbc63a1-f9fc-5174-80e3-77da227c74d3",
+    "title": "Fume Knight",
+    "section": "defenses",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Fume Knight -  Dark Souls II - boss - defenses \n defenses : (Stats are from Param Studio and are not estimated)\nStrike/Slash/Thrust defense are applied on top of Physical Defense.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5589823287257117,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fbf9fdda-f8e2-5434-95c0-960c116f9847",
+    "title": "Fume Knight",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "His most often used combo at the first phase of the fight is performing two quick slashes with his straight sword followed by a wide slash from his ultra greatsword, either left-to-right or right-to-left, depending on the player's position. However, he can often chain this combo with a fourth attack as well. The player must be prepared to either block or roll after striking a hit at Raime after he has finished a combo, and never get greedy in attacking him more than once (or twice, depending on the weapon used), as he's prone to unleash his 270° evading attack at that moment.\n\nEvery now and then he'll perform a downward smash with his ultra greatsword and won't chain any more attacks, providing an excellent opportunity to attack him.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ff421020-0f2f-5428-982b-5e47ae93605a",
+    "title": "Fume Knight",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Having decided to leave Drangleic behind, Raime roamed the lands as a knight without purpose until his travels led him to the haunted Brume Tower where he found a child of dark Nadalia. In her however, he found a new purpose as well as the figure his previous lord was unable to provide. Instead of expunging the black fog, he embraced it and became her loyal guardian and champion. In return for his service as well as company in solitude, Raime was entrusted with a fragment of her soul which haunted his blade. As the Fume Knight, Raime would remain at his post to guard his new master from intruders, for so long that even he was buried under the ash.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ffcf430c-4538-5790-98bd-6416f4e474f8",
+    "title": "Fume Knight",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Every now and then he'll perform a downward smash with his ultra greatsword and won't chain any more attacks, providing an excellent opportunity to attack him.\n\nThe fireballs from one of his special attacks at the second phase of the fight can be avoided by either blocking them with a shield, rolling through them, getting far away from Raime until they disappear, or, if the player is skilled enough, walk between them through their circling animation.\n\nAt this phase, the player would be wise in luring Raime into performing his slow Fire/Dark energy-projecting swipe constantly and roll through it, allowing them to score a free hit each time.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "067d6f8c-de8a-5c21-bb78-b14ee587b824",
+    "title": "Fume Sorcerer",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Fume Sorcerer -  Dark Souls II - enemy - strategy \n strategy : The Fume Sorcerer has relatively high elemental resistances, making sorceries, miracles, and pyromancies less than ideal. However, due to their naturally low poise, they can be easily stun-locked.\n\nThey should be prioritized during a fight, as the explosion from their lightning attacks can cause area of effect damage over a few seconds. This can make position during a fight difficult.\n\nDespite being resilient against most forms of spells, Fume Sorcerers have rather low physical resistance, in addition to low poise. Swift melee attacks with moderate poise damage can usually keep them stun-locked indefinitely, and backstabs will usually kill them in a single hit.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5536989161061252,
+    "bm25_score": 33.573758747041495
+  },
+  {
+    "document_id": "192916c1-c3c5-5598-ae71-c0583a4e9f89",
+    "title": "Fume Sorcerer",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Fume Sorcerer -  Dark Souls II - enemy - lore \n lore : After the Old Iron King sunk into the lava, scores of men were dispatched to this land to tap the replete stores of iron. But they soon lost their nerve when faced with the child of Dark, and all but the most steadfast of them became servants of the black fog.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "45ae8ee0-a284-5efa-adca-170e9042449d",
+    "title": "Fume Sorcerer",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Fume Sorcerer -  Dark Souls II - enemy - description \n description : Tall thin sorcerers, that use lightning based magic attacks and wield two small daggers, Umbral Dagger and the Blue Dagger. They are quick, and utilize the ability to teleport behind the enemy for a powerful backstab, when one approaches too close.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "577fff25-b2b4-577a-bf95-3221555d014d",
+    "title": "Fume Sorcerer",
+    "section": "location",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Fume Sorcerer -  Dark Souls II - enemy - location \n location : Fume Sorcerers are found throughout the Brume Tower in the Crown of the Old Iron King DLC.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5ce2f4ec-9377-5718-888c-513411d7ff90",
+    "title": "Fume Sorcerer",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Fume Sorcerer -  Dark Souls II - enemy - lead \n lead : **Fume Sorcerers** are enemies in .",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5410617175718229,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1c28adf6-92b8-5cb5-b739-55997e2464c9",
+    "title": "Iron Passage",
+    "section": "boss",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Iron Passage -  Dark Souls II - location - boss \n boss : Smelter Demon",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3b1c4594-9e4a-54e4-8f74-400c04526add",
+    "title": "Iron Passage",
+    "section": "items",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Iron Passage -  Dark Souls II - location - items \n items : Crimson Water\nLarge Titanite Shard ×7\nOld Growth Balm ×2\nPharros Mask",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "70c5e8e7-c99d-5a16-88b0-b69c4b3d649d",
+    "title": "Iron Passage",
+    "section": "bonfires",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Iron Passage -  Dark Souls II - location - bonfires \n bonfires : ***Iron Hallway Entrance** - Right at the entrance, after riding down a lift and descending a staircase.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "747a0607-b313-55a1-b122-166067fdb24e",
+    "title": "Iron Passage",
+    "section": "enemies",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Iron Passage -  Dark Souls II - location - enemies \n enemies : Ashen Warrior\nAstrologist\nIron Warrior\nFume Sorcerer",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7b5f153f-6453-5066-b402-4bfe71cca9ed",
+    "title": "Iron Passage",
+    "section": "adjacent_locations",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Iron Passage -  Dark Souls II - location - adjacent_locations \n adjacent_locations : Brume Tower",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "897f4979-1a50-56f3-b678-27cf3c3b217c",
+    "title": "Iron Passage",
+    "section": "characters",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Iron Passage -  Dark Souls II - location - characters \n characters : Drifter Swordsman Aidel\nSteel-willed Lorrie",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9fc653eb-9aea-50f5-9f94-e3e20ede858f",
+    "title": "Iron Passage",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Iron Passage -  Dark Souls II - location - lead \n lead : The **Iron Passage** is a location in *Dark Souls II: Crown of the Old Iron King*. It is a series of tunnels underneath Brume Tower. To get there you need to go down one elevator from the Foyer bonfire in Brume Tower and then use Tower Key on the small grate door next to you.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0cb65931-9781-5d00-9d2e-572c31af8bb7",
+    "title": "Iron Warrior",
+    "section": "location",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Iron Warrior -  Dark Souls II - enemy - location \n location : Iron Warriors can be found in the *Crown of the Old Iron King* DLC in Brume Tower and the Iron Passage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4d5c9bcc-bc25-5409-8562-aac3e2ca4188",
+    "title": "Iron Warrior",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Iron Warrior -  Dark Souls II - enemy - lead \n lead : **Iron Warriors** are enemies in *Dark Souls II*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1c4a1f2c-413c-5572-9990-f79dd1c79a49",
+    "title": "The Duke's Dear Freja",
+    "section": "summoning",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "The Duke's Dear Freja -  Dark Souls II - boss - summoning \n summoning : Ashen Knight Boyd can be summoned for this fight. His summon sign is located next to a column beneath a spider web on the opposite wall of the fog door. He makes the fight much easier, as he will easily defeat the first wave of smaller spiders and keep the boss busy for a good portion of the fight. He also has very high defense for not having a shield and will thus last a long time during the boss fight.\n\nIn *Dark Souls II: Scholar of the First Sin*, two additional summons were added:",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5983215117061503,
+    "bm25_score": 37.08377812395382
+  },
+  {
+    "document_id": "f0387f76-2ba7-5c37-8a33-571f21c0721f",
+    "title": "Maldron the Assassin",
+    "section": "brume_tower",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "As mentioned above, once he has sustained enough damage, he'll try to escape to the bottom of the tower and stand right in front of the Ashen Idol to protect it, waiting for the player to come down. His escape routine may also trigger automatically once enough time has passed, however. If the player can keep him occupied while he's trying to escape, he'll stay to fight for a moment until he tries to escape again. The whole spiral staircase will be full of hindrances, though: four Ashen Warriors perched on cogs (two on each one) constantly throwing firebombs, two more double-wielding battle axes waiting throughout the stairs, and two immortal Possessed Armors which will come back to life every time shortly after being defeated until the Idol has been destroyed, not to mention the fast Curse buildup that affects almost the entire tower.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5898953537860177,
+    "bm25_score": null
+  },
+  {
+    "document_id": "07625880-3446-5bb1-8183-abc2e9337d12",
+    "title": "Ashen One",
+    "section": "the_ringed_city",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Within the city, the Ashen One may encounter Shira, Knight of Filianore, who asks the Ashen One to put down Midir, a mighty dragon who once served the Gods, but who has now been consumed by the Dark. Fighting their way through the city, the Ashen One finds Midir and sends him hurtling down a chasm. Chasing Midir to his lair, the Ashen One may fulfill Shira's request and fight him to the death. In the Church of Filianore, the Ashen One finds Judicator Argo who bars the way to Filianore. He will summon Halflight, Spear of the Church to fight the Ashen One.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5895797352551043,
+    "bm25_score": 36.45416533979926
+  },
+  {
+    "document_id": "00589f1a-4498-55c0-b5e2-c0fc68b77250",
+    "title": "Forest Hunter Knight",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Forest Hunter Knight -  Dark Souls - enemy - strategy \n strategy : The knights are relentless and can hit for high damage against lower-vitality players, but they are hindered by trees and hills. A relatively easy method of fighting them is to lure them to the doorway to this area (the one needing the Crest of Artorias), as it allows for a more traditional combat arena, and then repeatedly parrying their attacks.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5834831987159228,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a99661d4-58cb-5f36-bc0c-f06d5f3687cc",
+    "title": "Ashen One",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - trivia \n trivia : The Ashen One, as depicted in promotional material, is a Knight.\nThe Ashen One is often referred to as the 'Champion of Ash' or the 'Unkindled One' by other characters.\nA knight in the cover is named as 'Red Knight' in the Funko Pop! line.\n**There’s a misconception about the Soul of Cinder armor and the Red Knight armor: They are essentially the same Firelink set, the only difference being that the Red Knight (Ashen One) version has a tabard, while the Soul of Cinder version does not.\n**The Red Knight armor is a variant of the Firelink set, distinguished by its tabard bearing a coat of arms reminiscent of the Lothric Knights.\nIn the Pre-Alpha *Dark Souls III*, the Ashen One is shown to use a cut-content weapon called the Legion Scimitars. Its dual combat art Spin Slash was ultimately given to the Sellsword Twinblades, while its design was relegated to a curved sword named Scimitar.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5771962469330965,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6e382e56-193c-5d00-9f4c-81fd62e5dd3f",
+    "title": "Silver Knight Ledo",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "By the time of the Dreg Heap, he seems to have become a full spirit. Despite his undying manifestation still standing guard and protecting the Judicators, he will personally fight anyone who enters an abandoned tower overlooking the large pool of stagnant darkness, which has swallowed entire districts of the city. The Ashen One may challenge and vanquish the hardened knight here.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5767050367502813,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5ace2e55-e6c7-5f35-9d9f-30938522f642",
+    "title": "Burnt Ivory King",
+    "section": "knight_phase_strategies",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Burnt Ivory King -  Dark Souls II - boss - knight_phase_strategies \n knight_phase_strategies : As with all other \"mob\" style boss battles, it is vital that the player avoids getting surrounded by enemies. The player may also find it helpful to bring down the pyromancy Knight first so they won't have to worry about ranged attacks. Being careful and strategic with attacks can help the player conserve healing items for the fight with the actual boss.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5691136524061483,
+    "bm25_score": 34.600166948337844
+  },
+  {
+    "document_id": "62bac295-fb20-5ccf-ae7f-8bb0f5edf726",
+    "title": "Soul of the Fume Knight",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of the Fume Knight -  Dark Souls II - item - lead \n lead : The **Soul of the Fume Knight** is a boss soul in .",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5661703165275898,
+    "bm25_score": 36.17201609810559
+  },
+  {
+    "document_id": "67b77ccf-4c4a-5767-831d-2c67ee82451e",
+    "title": "Age of Dark",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Following the failure of this first contingency plan, a second plan is activated: Unkindled, those who had previously tried to link the First Flame but who had failed to do so, are resurrected from their graves in the Cemetery of Ash, and tasked with placing the rebellious Lords of Cinder upon their thrones so that the First Flame might be linked once more. The Ashen One, protagonist of *Dark Souls III*, is one of these Unkindled. After the Ashen One defeats each of the Lords of Cinder and places their remains upon their respective thrones in the Firelink Shrine, the Fire Keeper removes the embers of the Lords and bestows them upon the Ashen One, making them a \"true lord, fit to link the fire,\" and imbuing them with the power to proceed to the Kiln of the First Flame.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5635647868130115,
+    "bm25_score": null
+  },
+  {
+    "document_id": "20234969-678e-5fe1-aace-a39ab2c42397",
+    "title": "Sister Friede",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Friede remained in the chapel of the Painted World, guarding the Flame and Father Ariandel against trespassers, while the inhabitants of the painting rotted and filthy insects spread. When an Ashen One arrived in the painting, she would kindly but firmly invite them to leave and return to the outside world, leaving the inhabitants of the painting in peace and forgetting about them. When they ignored her advice and descended the chapel to confront Father Ariandel, she would be forced to wield her scythe and confront them, not before asking Father Ariandel to turn his gaze away from the imminent carnage. When she is defeated the first time, an enraged Ariandel sparks the Flame he bled so much to subdue, in a desperate attempt to revive her. Now rekindled, Friede would come back from death to fight by his side, their souls linked. After falling a second time, Friede would rise yet again thanks to her inner Dark Flame, in a final struggle to defeat the Ashen One and prevent the Painted",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5631885329424193,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cdb5bc2e-efdf-5030-a27d-ca8dc181c2aa",
+    "title": "Looking Glass Knight",
+    "section": "general_information",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "While fighting this boss offline, he will summon a randomly generated enemy AI instead of human players. While the Looking Glass Knight is summoning, the players can take advantage of the situation to attack him until he staggers, thus cancelling the process of summoning. NPC phantoms will not use their shields.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5600517508532703,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b8e79b7b-9246-508e-83dd-559c8776d70b",
+    "title": "Timeline",
+    "section": "the_rise_of_the_dark_lord",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "The Ashen One is suddenly confronted by Slave Knight Gael, who reached the end of time and devoured the Dark Soul from the pygmy nobles to bring it to the young painter\nThe Ashen One defeats Gael and obtains the mass of Dark Soul contained in his blood and brinks it back to the young painter in the painted world\nThe Ashen One, before resuming their journey, learns how the young painter will now be able, using Flame and Darkness, to create a new painted world\nThe Ashen One, during their journey, obtains an immense amount of souls, reaching the power necessary to link the First Flame\nThe Ashen One, reaches the First Flame but is confronted by the Soul of Cinder, the manifestation of the previous Lords of Cinder who had linked it and now protect it as its last defense\nThe Ashen One defeats the Soul of Cinder and gains access to the First Flame",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5549080447517293,
+    "bm25_score": 32.57068398960001
+  },
+  {
+    "document_id": "2ff55393-97a6-553a-93c5-6a3ff6ab528b",
+    "title": "Timeline",
+    "section": "the_rise_of_the_dark_lord",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "The Ashen One, fights their way through the cemetery but finds their way blocked by Iudex Gundyr, an ancient golem tasked with judging the pretender Lords of Cinder\nThe Ashen One defeats Gundyr and reaches Firelink Shrine, the temple dedicated to the cult of the linking of the First Flame\nThe Ashen One is welcomed by the Fire Keeper who declares herself to be at their service, as it is the duty of the Unkindled to link the Flame, urging them to find the previous Lords of Cinder and return them to their thrones, so that they can become fuel for the Flame\nThe Ashen One is welcomed by the Ludleth of Courland, a previous Lord of Cinder who has decided to remain on his throne to link the Flame once again and that urges them to do the same\nThe Ashen One begins their journey to find the previous Lords of Cinder\nThe Ashen One reaches the High Wall of Lothric and fights their way through the now hollow soldiers and citizens of the city and reaches the cathedral of Lothric",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5526675776889898,
+    "bm25_score": null
+  },
+  {
+    "document_id": "03f5a93c-f812-58bd-b717-0c0d62bbe5f2",
+    "title": "Moaning Knight",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "He is also in possession of the Blindfold Mask, a piece of equipment that once belonged to Zullie the Witch. This headpiece is said to closely resemble the crown of a Fire Keeper, which may explain why the knight is in its possession. If he is truly Eygon, then he may be holding onto it as a way to remember Irina of Carim, the blind maiden he was sworn to and who aimed to become a Fire Keeper in her own right.\n\nThe Ashen One will encounter him on their way to the Church of Filianore, among the skeletons of the Shared Graves. If he's truly Eygon, then this might mean he has completely forgotten about the Unkindled hero in all the years spent reaching the Ringed City, as he will attack regardless of how amicable their relationship used to be. Regardless of his identity, the Ashen One is forced to put down the Moaning Knight for good.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5503752894872398,
+    "bm25_score": 32.662009413402316
+  },
+  {
+    "document_id": "1d6fa9ce-78cb-51e9-b8a5-9c28436e2f3e",
+    "title": "Ashen One",
+    "section": "the_painted_world_of_ariandel",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "If the Ashen One chooses to ignore Friede and explores the Painted World, they may fight the Champion's Gravetender and Gravetender Greatwolf, which allows the Ashen One to participate in the Undead Match. Deeper inside the painting, the Ashen One finds the Painter, Slave Knight Gael's aforementioned Lady, who has been imprisoned by Friede and Vilhelm in order to prevent her from painting the next world. If the Ashen One opens the way to the inner sanctum hiding Father Ariandel, Friede will confront them and fight to preserve the painting. After a long battle, the Ashen One defeats Friede and Ariandel, prompting the Painted World to begin burning and dooming it to destruction.\n\nThe Painter informs the Ashen One that she has sent Gael to find the Dark Soul, which she will use for her next painting.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5470466310977398,
+    "bm25_score": 34.75363612622219
+  },
+  {
+    "document_id": "a29fd81d-91bb-56be-8e10-811b320dd818",
+    "title": "Looking Glass Knight",
+    "section": "summons",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Looking Glass Knight -  Dark Souls II - boss - summons \n summons : Benhart of Jugo can be summoned for the boss fight. His summon sign is located on the left side when approaching the fog door.\n\nIn *Dark Souls II: Scholar of the First Sin*, two additional summons were added:\n\nAshen Knight Boyd's summon sign can be found just outside the boss arena.\nSellsword Luet can be summoned as a shade. His summon sign can be found in the room adjacent to the golem that activates the elevator.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.546442561655542,
+    "bm25_score": 33.14512717673823
+  },
+  {
+    "document_id": "e63f46e3-0893-5889-8c9f-a3932f5d21dd",
+    "title": "Timeline",
+    "section": "the_rise_of_the_dark_lord",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "The Ashen One reaches the Irithyll Dungeons below the city and fights their way through its prisoners and jailers\nThe Ashen One delves deeper until it reaches the ruins of the Profaned Capital and fights their way through the gargoyles, abominations and handmaidens still haunting it\nThe Ashen One finds themselves confronted by the Lord of Cinder Yhorm the Giant, waiting on his throne\nThe Ashen One defeats Yhorm, gaining his Lord Cinders, and returns to the surface\nThe Ashen One is teleported back to the cathedral of Lothric by Emma, that before dying urges them to reach Lothric and make him a Lord of Cinder to save the fading Flame\nThe Ashen One is suddenly confronted by the Dancer of the Boreal Valley, a monstrous knight from Irithyll lurking in the cathedral\nThe Ashen One defeats the Dancer and reaches Lothric Castle, the highest point of the city and fights their way through knights of opposing factions and wyverns",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5454166432720182,
+    "bm25_score": null
+  },
+  {
+    "document_id": "af44a2ca-bc31-50db-8386-3a07787ca488",
+    "title": "Black Knight (Dark Souls III)",
+    "section": "locations",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Black Knight (Dark Souls III) -  Dark Souls III - enemy - locations \n locations : Road of Sacrifices\nThe first knight guards the rear entrance to the Farron Keep. Even though the door is no longer accessible, the Farron Coal can be found there.\nSmouldering Lake\nA knight can be found slaying a Ghru inside of a secret chamber behind an illusory wall after Demon Ruins bonfire. He guards the Black Knight Sword.\nAnother knight can be found keeping post at the end of a bridge over a pool of lava past the Demon Ruins bonfire. He guards the path to the giant ballista.\nUntended Graves\nFour knights wielding diverse weaponry patrol the graveyard that leads to the ruins of Firelink Shrine. The one at the end of the left path guards the Chaos Blade, and the one at the end of the right path guards the Hornet Ring.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5438462227887477,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9eccdbd1-e5ef-530a-a7be-df31c6768fa2",
+    "title": "Crown of the Old Iron King",
+    "section": "bosses",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Crown of the Old Iron King -  Dark Souls II - mechanic - bosses \n bosses : Fume Knight\nSir Alonne\nSmelter Demon",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5429348899237654,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fbd33822-9a58-510e-b532-792403aade18",
+    "title": "Soul of the Fume Knight",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of the Fume Knight -  Dark Souls II - item - availability \n availability : Obtained after defeating the Fume Knight.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5428973331851772,
+    "bm25_score": null
+  },
+  {
+    "document_id": "daa4b36b-1936-538a-a725-e842669004dd",
+    "title": "Spear of the Church",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "These holy warriors are all that stands between the Ashen One and the sleeping princess, who presumably held the key to obtaining the Dark Soul. Even the last of the Spears falls to them in time.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5426788111834899,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2a53d0b1-9134-589f-9054-750cd7b05037",
+    "title": "Black Knight",
+    "section": "defenses",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Black Knight -  Dark Souls - enemy - defenses \n defenses : |regular2 = 315\n|slash2 = 315\n|strike2 = 315\n|thrust2 = 315\n|magic2 = 209\n|fire2 = 234\n|light2 = 261\n|poison2 = B\n|toxic2 = B\n|bleed2 = A\n|name3 = Kiln of the First Flame\n|regular3 = 384\n|slash3 = 384\n|strike3 = 384\n|thrust3 = 384\n|magic3 = 255\n|fire3 = 285\n|light3 = 318\n|poison3 = B\n|toxic3 = B\n|bleed3 = A\n}}",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5414313933765336,
+    "bm25_score": null
+  },
+  {
+    "document_id": "32955b8f-4e14-551a-b96c-ca1ce15fd1b8",
+    "title": "Old Knight",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Old Knight -  Dark Souls II - enemy - description \n description : Old Knights are slow-moving, heavily armored and stand several feet above the player. They wear the Old Knight Set and wield either an Old Knight Greatsword and shield, or two-hand an Old Knight Ultra Greatsword. In addition, a unique non-respawning knight wielding an Old Knight Hammer can be encountered, dropping one Sublime Bone Dust when defeated.\n\nIn *Scholar of the First Sin*, two great hammer-wielding knights appear instead, one in the same location and the other guarding the fog door to the Dragonrider boss arena. Unlike the original game, this time they respawn and have random drops.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5409480860812526,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d1a7287c-54c8-5ed9-b30f-69422b67e0b4",
+    "title": "Sir Vilhelm",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "At some point, the Ashen One is beckoned to the Painted World of Ariandel by Slave Knight Gael, who believed they are the Ash meant to defeat the other Ash currently ruling over the painted landscape. The first meeting appears to be cordial, with Vilhelm pointing them to Friede, and then reinforcing her sentiment about them leaving the world behind and getting back to their journey. He also warns them to suppress their curiosity, as the depths of the painting would easily destroy them in their endeavors to sate it.\n\nWhen encountered in the building housing the captive painter girl, he will deride the Ashen One's inquisitiveness, claiming he has seen their type often and that they would never have what it takes to actually face the danger they have put themselves in by sticking their nose where it didn't belong. After a duel to the death, the Unkindled champion is victorious, slaying Vilhelm, who laments his failure to uphold his oath to Friede.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5408701971010959,
+    "bm25_score": null
+  },
+  {
+    "document_id": "91c06742-1eac-5f15-a6bc-b4c96acaa209",
+    "title": "Black Knight",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Black Knight -  Dark Souls - enemy - trivia \n trivia : In *Dark Souls: The Age of Fire*, it is revealed that the Black Knight in the Northern Undead Asylum is actually what remains of the protagonist of the comic series, Silver Knight Arkon.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5408192592679517,
+    "bm25_score": null
+  },
+  {
+    "document_id": "da30b264-e6a4-57f5-b183-09a014a18721",
+    "title": "Fallen Knight",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Fallen Knight -  Dark Souls III - enemy - strategy \n strategy : The Fallen Knight can be very dangerous against unprepared players. His fighting methods are somewhat similar to Hodrick's. He dwells hidden at the end of a slope located to the left of the first bonfire upon arriving to the Cathedral of the Deep, and is intended to surprise the player from the rearguard while they are engaging the Brigand. Even alone, this enemy can be a major threat due to his advanced combat mechanics and high resilience.\n\nWhen he switches to his dagger, raise a shield with good stability; upon hitting it, he will stagger and become open for a counterattack.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5404849201959528,
+    "bm25_score": null
+  },
+  {
+    "document_id": "398a6d06-6624-5333-9d57-9834c369eae7",
+    "title": "Primal Knight",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Primal Knight -  Dark Souls II - enemy - strategy \n strategy : Primal Knights are fought similarly to the Sentinels of Anor Londo in *Dark Souls* in that they are slow with very powerful attacks. The player must carefully flank them and attack once or twice before retreating to avoid being crushed by a powerful blow.\n\nIn Doors of Pharros, the Primal Knights are made more difficult by the player's being in waist-high water, thus slowing movement speed. They are also accompanied by other enemies, and players not in the Rat King covenant will be summoned and attacked by Rat King players if they are anywhere between the two bonfires. They are made much easier to fight with the help of lightning based attacks, like Great Lightning Spear, due to the water in the area.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5403162512170643,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e096f327-f627-5322-8ce2-8345ecfd5c25",
+    "title": "Timeline",
+    "section": "the_rise_of_the_dark_lord",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "The Ashen One defeats the Dancer and reaches Lothric Castle, the highest point of the city and fights their way through knights of opposing factions and wyverns\nThe Ashen One notices how the sun is now dying out along with the Flame and how the sky is infested with pilgrim butterflies headed for Lothric Castle\nThe Ashen One reaches the army barracks but finds his way blocked by an ancient Dragonslayer Armour, revived by the pilgrim butterflies\nThe Ashen One destroys the armor and makes their way through the Grand Archives, a massive library defended by its scholars and the second Crystal Sage\nThe Ashen One defeats the castle's last defenses and is confronted by the Lord of Cinder Lorian, Elder Prince and Lothric, Younger Prince, two brothers bound together by a curse and determined to not link the Flame\nThe Ashen One defeats Lothric, gaining his Lord Cinders, and returns to Firelink Shrine",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5399416389138154,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0609d80a-a172-5ccb-8577-d9c51a86a0a3",
+    "title": "Timeline",
+    "section": "the_rise_of_the_dark_lord",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "The Ashen One defeats High Lord Wolnir, sending him back into his Abyss and clearing the path ahead\nThe Ashen One reaches Irithyll of the Boreal Valley and is able to enter the city, overcoming the magical barrier that protects it thanks to the small doll, and fights their way through the city and patrols of reanimated knights and Hollow slaves\nThe Ashen One reaches the cathedral of Irithyll but finds themselves confronted by Pontiff Sulyvahn, a powerful but wounded sorcerer\nThe Ashen One defeats Sulyvahn and ascends to the upper city of Anor Londo, fighting their way through an army of deacons and silver knights\nThe Ashen One finds themselves confronted by the Lord of Cinder Aldrich, Devourer of Gods, still intent on devouring Dark Sun Gwyndolin\nThe Ashen One defeats Aldrich, gaining his Lord Cinders, and returns to the city's base\nThe Ashen One reaches the Irithyll Dungeons below the city and fights their way through its prisoners and jailers",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5391601082964701,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cde986be-b2ee-5c84-bfe1-514dc38249d6",
+    "title": "Soul of the Fume Knight",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of the Fume Knight -  Dark Souls II - item - description \n description : Soul of the fume knight that guards the dungeon of Brume Tower.\n\nRaime was a distinguished knight who became infatuated with the Bride of Ash, and settled in this land of smoke and fog.\n\nThe wondrous soul of this knight can be used to acquire numerous souls, or to create something of great worth.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5385371929082963,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c9bc8d87-4979-523b-a01e-5fd11774131f",
+    "title": "Balder Knight",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Balder Knight -  Dark Souls - enemy - strategy \n strategy : Balder Knights have a fair amount of health, and are a considerable threat to new characters. Even one-on-one, they can be very dangerous.\n\nAny ranged attack is useful against them, but they are fast and will close the gap quickly. Firebombs can be very useful in defeating them.\n\nCritical attacks, such as the Parry and Riposte and Backstab, are exceedingly efficient methods to dispatch these enemies.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5363417440553824,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d8d677e6-bcd9-5999-a65c-8f43424f15fa",
+    "title": "Consumed King's Knight",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Consumed King's Knight -  Dark Souls III - enemy - see_also \n see_also : Cathedral Knight",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5344827167597272,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b54927ec-bcf9-5c93-bfbd-3a270ebd26c7",
+    "title": "Cathedral Knight",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Cathedral Knight -  Dark Souls III - enemy - see_also \n see_also : Consumed King's Knight",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5334688966814731,
+    "bm25_score": null
+  },
+  {
+    "document_id": "63679c6c-c8e4-5b14-b145-9bb5f7b7953e",
+    "title": "Stone Knight",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Stone Knight -  Dark Souls - enemy - attacks \n attacks : Lowers movement speed to a walk.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5332243465919879,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dccbd8c2-c77e-58ef-a84e-bc4a98181992",
+    "title": "Ashen One",
+    "section": "lothric_castle_and_the_consumed_king_s_garden",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - lothric_castle_and_the_consumed_king_s_garden \n lothric_castle_and_the_consumed_king_s_garden : The Castle, home to various knights and soldiers of Lothric along with fire-breathing wyverns, holds the final Lord of Cinder. By now, the very sun itself resembles a Darksign, and Pilgrim Butterflies are seen flying towards the castle. Fighting their way through the castle, the Ashen One may choose to make a detour to the Consumed King's Garden, home to the king of Lothric, Oceiros. The king, having gone mad long ago and deformed himself into a dragon-like being, ferociously attacks the Ashen One.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.532944541872653,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6ccc3568-169f-50e0-b7af-0e4610064d21",
+    "title": "Ashen Knight Boyd",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Ashen Knight Boyd -  Dark Souls II - character - strategy \n strategy : Despite not having a shield and wearing what appears to be a weak armor set at this stage of the game, he is far from useless and is perhaps one of the most useful white phantom in the game. Boyd has a high amount of HP and can take tons of punishment before going down. Upon entering the boss fog gate, he will actively engage the first swarm of spiders before going after Freja. He will most likely distract Freja most of the time, enabling the player to attack or to heal. When Freja is focused on the player, Boyd will actively attack her other head as well. When low on health, Boyd can been seen using an Estus Flask to heal himself, something which most white phantoms do not do. However, keeping an eye on his health is important; if he is vanquished, the shifting of attention from Freja and every remaining Parasite Spider to the player may be overwhelming.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5315246721152249,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ac7e5733-88e0-5b63-91b2-c34da4ab39d0",
+    "title": "Velstadt's Helm",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Velstadt's Helm -  Dark Souls II - armor - notes \n notes : If worn during the Fume Knight boss fight, he will buff immediately.\n**This applies only to the host. Summoned phantoms wearing the helm will not cause the Fume Knight to immediately buff.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 39.21957944004531
+  },
+  {
+    "document_id": "a3aa2968-3d1d-5bf5-b2e1-442c850b6618",
+    "title": "Soul of Nadalia, Bride of Ash",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of Nadalia, Bride of Ash -  Dark Souls II - item - availability \n availability : The Soul of Nadalia is acquired by combining the twelve fragments of Nadalia's soul. Eleven of the fragments are acquired by destroying the Ashen Idols located throughout Brume Tower by using Smelter Wedges, while a twelfth is acquired upon defeating the Fume Knight.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 38.24404918437515
+  },
+  {
+    "document_id": "19c45690-aac6-5b74-9574-201d5ed7e6f5",
+    "title": "Slave Knight Gael",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Slave Knight Gael -  Dark Souls III - character - trivia \n trivia : Gael's facial data, including his beard, is unique to him and is not available as an option when creating the player's character.\nImpaling the corpse of a Pygmy lord with his sword and tossing it at the player is a reference to Knight Artorias, who performs a similar act at the start of his boss fight, and to the Penetrator before him in *Demon's Souls*.\nOut of any boss from the entire franchise, Gael has the biggest boss arena, as the Pygmy's Throne is a completely explorable desert-like zone.\nThe way Gael moves and fights on the first phase is very similar to how Guts, from the *Berserk* anime/manga, does when using the Berserker Armor. In the second phase, the Repeating Crossbow is also reminiscent of Guts' Repeater Crossbow and the way he hides and follows his attacks with a cape.\nA summon sign appears beneath Gael wherever he reappears at when he teleports during his boss fight.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 37.32184968034857
+  },
+  {
+    "document_id": "f60c1c7d-c5a9-539e-9e75-0f2111bd7468",
+    "title": "Lucatiel of Mirrah",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Due to Lucatiel's poor A.I., keeping her alive during boss fights can be difficult. However, the player can equip the Redeye Ring so that the boss focuses its attacks on the player. That way, the player will simply have to avoid the boss attacks while Lucatiel deals damage. Summoning another player is another good way for keeping her alive.\nThe player can use a Bonfire Ascetic in order to make both the area boss and Lucatiel respawn. It is recommended to do this with the Flexile Sentry, since Lucatiel's chances of survival are higher in this boss fight. Should Lucatiel survive a battle with a boss respawned with an Ascetic, the fight will count for the achievement/trophy.\nIf the player kills Lucatiel, her equipment will be sold by Merchant Hag Melentia, although this method voids the achievement/trophy for that New Game cycle.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 36.39308926299992
+  },
+  {
+    "document_id": "775663d3-c9aa-5e25-8da2-bc3382e62f35",
+    "title": "Gaping Dragon",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Gaping Dragon -  Dark Souls - boss - strategies \n strategies : Being a Dragon, it is very susceptible to Lightning.\nStaying at the Gaping Dragon's side and attacking its legs, moving only when it begins to walk or fly, can result in an easy victory.\nRanged attacks can prove useful, especially while the boss is performing a forward charge.\nBe sure to kill the Channeler located on the highest floor above the arena to prevent it from casting ranged attacks during the boss fight. It does not respawn.\nAs long as care is taken with positioning, there is no need to block or dodge during the fight, making two-handed weapons an excellent choice for melee attacks.\nLocking on can make evading the Gaping Dragon's attacks harder, as it reduces the speed at which the player can move away from the boss.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 36.28115815731335
+  },
+  {
+    "document_id": "e114c313-662d-5b4d-be4d-1f3cc798abcd",
+    "title": "High Lord Wolnir",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Upon entering the Abyss, the Grave Warden Pyromancy Tome will be lying ahead to be picked up. If it is picked up, the boss fight will begin immediately. Instead of picking it up, the player can take this opportunity to attack and possibly destroy one of Wolnir's bracelets on his left arm. The tome can be retrieved at any time during or after the fight, or once the player has returned to the chalice room and has reloaded the area.\n\nAlthough it is not immediately apparent, there is essentially a time limit to this battle. Wolnir constantly climbs up the incline and, even though he will be blocked by a wall, the area left to the player will be minimal, making dodging attacks much more difficult. Destroying a bracelet will cause him to slip back down the incline, giving the player more room.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 34.96711360097295
+  },
+  {
+    "document_id": "f763979a-a804-53db-b407-b891cbaa37de",
+    "title": "Slave Knight Gael",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "After reaching the Mausoleum Lookout, if the player has not entered the Painted World of Ariandel, Gael will leave the Cathedral of the Deep, leaving behind the scrap of the paint in the altar. This will trigger a similar if not slightly different cutscene, where the Ashen One merely touches the scrap on the altar and is drawn into it.\nGael is notably resistant against Dark damage during his second and third phase. He also becomes weaker to the Hollowslayer Greatsword.\nGael can be riposted during the second and third phase of the fight. In order to achieve that, however, the player must first stagger him by hitting him directly on the head. This can be easier by using a weapon with a skill like Leaping Slash (Claw), or by using a ranged weapon that allows aiming. During cooperative gameplay, Throwing Knives or Kukri can also do the job with enough practice. In both cases, time for performing a critical strike is very short.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 34.50812740180461
+  },
+  {
+    "document_id": "726f162f-b6f9-5f6d-9710-5fb036795ddb",
+    "title": "Hollow Skin",
+    "section": "usage",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Hollow Skin -  Dark Souls II - armor - usage \n usage : One of the most prominent uses of the Hollow Skin is to allow players to traverse specific areas which inflict heavy Curse buildup, like those generated from Ashen Idols in a few areas of Brume Tower, making it easier to deactivate them.\n\nAnother relevant use the Hollow Skin has, is during the battle against Nashandra, who can summon small clouds of energy that expel heavy Curse buildup and drain health. The Curse buildup will be completely negated during the fight, making it much easier.\n\nAs the description states, the Hollow Skin makes it easier to detect messages from other worlds, meaning that messages that were previously invisible will be revealed to the player and which usually provide hints about secrets in the vicinity.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 34.43545137254628
+  },
+  {
+    "document_id": "dfa6fbc1-ca13-59f8-97de-978536e56ec3",
+    "title": "Slave Knight Gael",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "A summon sign appears beneath Gael wherever he reappears at when he teleports during his boss fight.\nLightning rain from the third phase deals 1 damage to Gael, so there's a very slight possibility he could die from it and not from the player's attacks.\nInside one of the towers of the boss arena, the model of Gael that is used in the introductory cutscene can be found, which differs from the one appearing in the first phase of the fight. Gael's right eye is green and his left eye has apparently atrophied, making him partially blind.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 34.28890378172798
+  },
+  {
+    "document_id": "f3e42c91-ca49-52d5-82a5-297658b74bd9",
+    "title": "Looking Glass Knight",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "While offline, the NPC phantoms that the Looking Glass Knight summons range between a halberd-wielding or a greatsword-wielding phantom.\nIt is possible to stagger the Looking Glass Knight while he is summoning. If this happens, the Looking Glass Knight will cancel the summon and resume fighting the player.\nAttacks that hit the shield on its left side will deflect and do no damage. Any form of magic (sorceries/pyromancies/miracles/hexes) will also be deflected.\nThe Looking Glass Knight is affected by Profound Still. The Knight will still attempt to use lightning attacks through its sword, but no lightning will come out. The player and summons can still be hit by the actual sword during these attacks.\nAfter defeating the Looking Glass Knight, enemies will be able to charge into the arena from the previous area if the player ran past them on the way to the boss fight. This can catch players off guard and lead to a quick death after the boss fight officially ends.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 34.21396030817005
+  },
+  {
+    "document_id": "5e3b4d40-14f3-524d-8886-095a746dba43",
+    "title": "Scorpioness Najka",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Scorpioness Najka -  Dark Souls II - boss - notes \n notes : If the player gets inflicted with Toxic, it shouldn't be game over if they have more than half health as the boss has a lot of open time for healing and the toxic does not last very long.\nUpon defeating the boss, returning to Manscorpion Tark will yield players a Fragrant Branch of Yore and allow them to learn the \"Warmup\" gesture.\nIf the player did not summon Manscorpion Tark for the fight, upon speaking to him he will have different dialogue.\nIt is possible to cut off Najka's tails to prevent her from using them to attack. Cutting off the tail yields no items, however, unlike many instances in *Dark Souls*.\nThe only way to acquire the item in the boss room, is to have Najka break the tree it sits upon with a heavy melee attack. The item is a Flame Butterfly.\nThe player should make as much use of Manscorpion Tark as possible while he is alive, as Scorpioness Najka has magic attacks that end him quickly.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 34.20681837692151
+  },
+  {
+    "document_id": "10761004-c677-56f5-9582-1a1ba5547f15",
+    "title": "Prowlers",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Prowlers -  Dark Souls II - enemy - strategy \n strategy : Upon stepping out of the lift, the first Prowler will spawn next to a nearby Ashen Idol positioned in plain sight. This idol heals enemies in a similar fashion to Warmth. The player may fight the Prowler in front of the idol, concentrating in dealing consecutive attacks to compensate for the constant healing it provides. Another method is to simply lure the Prowler back to where the lift is, out of the reach of the idol's healing powers, and confront him there. When the Prowler has sustained enough damage, however, he will retreat back to where the idol is to replenish his health. Once defeated, the player is advised to deactivate the idol with the use of a Smelter Wedge.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 33.980352788964375
+  },
+  {
+    "document_id": "b6564ce7-5dcc-58c4-a376-ba0e31a7925c",
+    "title": "Mytha, the Baneful Queen",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Mytha, the Baneful Queen -  Dark Souls II - boss - strategy \n strategy : The main threat in this battle is not the Queen herself, but the poisonous pool in the room in which she is fought. This poison will drain the player's health at a dangerous rate and slowly heal Mytha throughout the fight. However, this can be averted; burning the windmill opposite the Central Earthen Peak bonfire with a torch will reduce the pool to being only around the sides of the arena.\n\nWith the poison no longer a threat, this boss can still be difficult. Her moveset mostly comprises spear attacks or using her head to shoot bolts of magic. Her attacks are quick and cover a lot of room, so light armor is best for this battle. The player can cut off her tail to reduce the range of her \"Tail Swipe\", and prevent her from using her \"Tail Grip\" attack, but the player gains no items from doing this.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 33.78061463609793
+  },
+  {
+    "document_id": "715784da-e96a-55fc-976d-28ed10cdd938",
+    "title": "New Game Plus (Dark Souls II)",
+    "section": "additional_changes",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "No-man's Wharf\nA red phantom spawns before the boss fight. The phantom has a very low chance to drop the Aurous' Set.\nDuring the fight with the Flexile Sentry, two Suspicious Shadows will spawn, who can drop the Shadow Set.\n\nThe Lost Bastille\nA red phantom Undead Jailer spawns before the Heide Knight.\nIn the cell next to Straid's, the corpse that usually has a Petrified Dragon Bone will have Resplendent Life and three Firebombs instead.\n\nSinners' Rise\nDuring the fight with The Lost Sinner, two pyromancer phantoms will spawn.\nA red phantom Undead Prisoner spawns near the stairs to the left side of the flooded area.\nA pair of red phantom Undead Jailers guard the doors to light the boss arena.\nIn *Scholar of the First Sin*, two Enhanced Undead spawn at the beginning of the flooded area.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 33.770112850424425
+  },
+  {
+    "document_id": "c82d161a-ab8d-5377-a562-40a825a480e6",
+    "title": "Looking Glass Knight",
+    "section": "general_information",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Looking Glass Knight -  Dark Souls II - boss - general_information \n general_information : The fight against the Looking Glass Knight takes place near the top of Drangleic Castle during a lightning storm. This boss will use physical attacks against the player as well as using its sword as a sort of \"lightning rod\". Its shield deflects magic, causing blocked spells to fly off in a random direction.\n\nThe knight's shield is in the shape of a mirror and when it plants it into the ground, it will summon a hostile Looking Glass Phantom (NPC) or another player to the fight (like the Old Monk in *Demon's Souls*). Notably, it will also stab its sword into the ground if it is summoning a player. It can summon a maximum of two phantoms and will continue to summon replacements throughout the fight if one of them is defeated.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 33.57701452022711
+  },
+  {
+    "document_id": "9c793983-b876-5da2-8ec5-3c877d3e2714",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - notes \n notes : Aldia during his boss fight can be in either \"flame\" mode or “burnt out\" mode.\n**In \"flame\" mode, he has very high damage reduction and creates an aura, which may seriously wound the player.\nIf the player killed Nashandra before downloading the patch, Aldia will not appear in the Throne of Want, even if he has been spoken to in all three previous locations. A Bonfire Ascetic must be burned at the King's Gate bonfire to spawn Aldia, which means the player must defeat Nashandra as well as the Throne Watcher and Defender again before being able to fight Aldia.\nDuring the fight, spears and shields with high fire resistance are recommended.\nAldia drops nothing upon defeat, not even souls. The only reward from defeating him is that the player has the option to leave the throne, giving the player an alternate ending.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 33.533972507895825
+  },
+  {
+    "document_id": "6fb14056-8d60-5c44-9bfc-c3ee4b74dba3",
+    "title": "Steelheart Ellie",
+    "section": "crown_of_the_old_iron_king",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Steelheart Ellie -  Dark Souls II - character - crown_of_the_old_iron_king \n crown_of_the_old_iron_king : She is available for summoning in the fight with the Fume Knight. Her summoning sign can be found near the Lowermost Floor bonfire area before the boss arena.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 33.33256221614245
+  },
+  {
+    "document_id": "8a8c1f48-13e1-59fe-8eaf-b780fa940b1b",
+    "title": "Lorian, Elder Prince and Lothric, Younger Prince",
+    "section": "fight_overview",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Lorian, Elder Prince and Lothric, Younger Prince -  Dark Souls III - boss - fight_overview \n fight_overview : When the player enters the throne room, they will view a cutscene where Lothric, Younger Prince addresses them, stating his disdain for his duty to become a Lord of Cinder. During this Lorian, Elder Prince, will crawl from the shadows and prepare to fight the Ashen One.\n\nThe battle will begin with the player facing Lorian alone. While Lorian is crippled below the waist and has trouble moving by himself, he is aided by Lothric, who will use his magic to teleport Lorian around the arena, whether it is to a blind spot to the player's side or away to allow him to use his special attacks. All of Lorian's attacks deal moderate damage and inflict Fire damage, and he has numerous combos that can add up to quickly kill unwary players.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 33.15312931460349
+  },
+  {
+    "document_id": "14bcc670-6d53-5283-9118-15fbe89f124b",
+    "title": "The Rotten",
+    "section": "fight_overview",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "The Rotten -  Dark Souls II - boss - fight_overview \n fight_overview : Throughout the fight, the Rotten alternates between his cleaver and his empty hand. His cleaver deals heavy damage and can send the player flying or easily stun-lock the player and break their guard. The hand has two moves; a front smash and a grab. The grab damages twice; the initial damage is from the grab itself and the following damage comes when the Rotten wrings the player out like a rag.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 33.15112495881468
+  },
+  {
+    "document_id": "eefc8843-0a80-5c55-91e8-38ed849e4d3a",
+    "title": "Vendrick",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Vendrick -  Dark Souls II - boss - notes \n notes : Vendrick is initially passive, and will aggro only upon taking enough damage from the player. This is affected by the number of Giant Souls in the player's possession, so attacking him in his initial encounter after the battle with Velstadt will not aggro him.\nBy using a Bonfire Ascetic at the Undead Ditch bonfire, Vendrick can be respawned, but so will Velstadt.\nIf Vendrick is killed before going and slaying Nashandra, the player will have to fight Aldia, Scholar of the First Sin, which can ultimately cause Aldia to be the third boss in a row, assuming the Throne Watcher and Defender are not yet defeated.\nIf a player summoned for the Velstadt fight has any Souls of a Giant in their possession they will reduce Vendrick's defense immediately after the fight. If the area is abandoned or the player dies in that first fight he will reset and only calculate the player's Giant Souls.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 33.11502445744053
+  },
+  {
+    "document_id": "7bc9e0bc-34b1-587b-a25e-38cb41a5ea90",
+    "title": "Moaning Knight",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Moaning Knight -  Dark Souls III - character - strategy \n strategy : There are several Skeletons near the location where the Moaning Knight invades, so it is recommended to eliminate them quickly to avoid becoming surrounded. The narrow confines of the area can make fighting the knight difficult, though the enemy may also hit his weapon on the walls due to the relatively cramped space. Alternatively, the player can flee to the upper level, where there is more space to fight.\n\nThe Moaning Knight is an aggressive fighter, although they have low vitality and can be easily staggered. As the tower has no barriers, he can be knocked off the ledge and may even fall off when attempting to evade an attack. This also works when using a bow or crossbow to harass him from afar, which can cause him to fall to his death while he tries to reach the player, or dodge their attacks.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.91975888156557
+  },
+  {
+    "document_id": "64ebb22d-731c-54b5-8002-6f1fac9480b8",
+    "title": "Yhorm the Giant",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Yhorm the Giant -  Dark Souls III - boss - strategy \n strategy : Yhorm's attacks are, for the most part, not difficult to evade; however, most weapons, even if heavily reinforced, will not deal a significant amount of damage to him. The key to defeat him lies beside his throne, a greatsword known as the Storm Ruler. The sword weighs eight units, so that should be taken into consideration by the player before entering the boss arena.\n\nBy activating the Storm Ruler's skill, \"Storm King\", the player will slam the sword into the ground, unleashing a furious storm which will deal a huge amount of ranged damage to Yhorm. In order to use the skill, the player must first hold the stance for a few seconds, at which point the wind around the blade intensifies.\n\nIf the player has ended Siegward's questline, he will enter the battle with his very own Storm Ruler, which was given to him by Yhorm himself, making the fight much easier.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.79927460057425
+  },
+  {
+    "document_id": "98824d1e-5832-5197-b07a-1c20bbe80bcb",
+    "title": "Ashen One",
+    "section": "the_painted_world_of_ariandel",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - the_painted_world_of_ariandel \n the_painted_world_of_ariandel : Within the Cathedral of the Deep the Ashen One can encounter Slave Knight Gael, a Slave Knight who seeks unkindled ash to aid his Lady. Gael presents the Ashen One with a fragment of the Painted World of Ariandel, which sucks the Ashen One in. Within the painting, the Ashen One encounters Sister Friede and her loyal knight Sir Vilhelm. Friede is an advisor to Ariandel, the painting's creator, and convinced him to allow the painting to rot rather than allow it to be destroyed and replaced by a new one, despite the wishes of many of the painting's denizens. Friede bids the Ashen One to leave, telling them that they do not belong in the Painted World.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.705795094443104
+  },
+  {
+    "document_id": "083d7d85-aec2-5cb8-9f54-09d99ce76865",
+    "title": "Royal Rat Vanguard",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "If the player has access to either Firestorm or another high-damage AoE spell, it is highly recommended that they attune it for use during the fight. A long-range weapon can be used to attack the Vanguard from a distance but the player must keep an eye on the positions of the remaining rats at all times. A good example of an AoE spell to use is Soul Appease, as it will almost always one-shot most of the rats present in the arena as well as do a large amount of damage to the boss itself, making the boss battle incredibly easy.\n\nAlso, if the player possesses the Ring of the Evil Eye (A +1 version is obtained in the deep pit) this fight becomes easier as you can kill the rats and regain health rapidly if you have a high enough damage weapon.\n\nOnce The Vanguard is defeated, the remaining rats exit from the arena.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.6839097012118
+  },
+  {
+    "document_id": "6009e9f3-8868-5614-bd8f-cde2d60d86a8",
+    "title": "Royal Rat Authority",
+    "section": "fight_overview",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Royal Rat Authority -  Dark Souls II - boss - fight_overview \n fight_overview : Once you enter the fog door, the boss fight does not start immediately. This gives the player some time to devise a plan to take on the first phase. Whatever choice the player makes, it needs to be acted on quickly once the rats are aggroed because the boss will soon jump down and join the fight. The small rats can inflict large amounts of Toxic and stunlock the player, while the Rat Authority can take the player out with one attack.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.67390183175518
+  },
+  {
+    "document_id": "b814e3b8-ebdc-5582-8fe8-4bea7195fb0e",
+    "title": "Oscar, Knight of Astora",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Oscar, Knight of Astora -  Dark Souls - character - lore \n lore : Oscar was likely a high-ranking knight from Astora, who was determined to seek out Lordran once he turned undead. Exactly how he ended up in the Undead Asylum and why he rescues the player is unknown, though it is implied that he was intentionally releasing undead from the Asylum in hopes that at least one would ring the Bells of Awakening.\n\nThere is a hole in the ceiling at the location he is first encountered, and since the Asylum Demon first appears descending upon the Chosen Undead to guard the exit from any undead hoping to escape, it can be assumed that Oscar had fought the Asylum Demon on the roof of the Asylum, but wound up crashing down into the squalid dungeon the player encounters him in.\n\nIt is implied that the ensuing despair he felt at being unable to even overcome his first obstacle as an undead is what turned him Hollow.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.65866724072178
+  },
+  {
+    "document_id": "e218d3a3-e2a6-5c5f-bc21-05ef56e65f36",
+    "title": "Old Demon King",
+    "section": "summons",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Old Demon King -  Dark Souls III - boss - summons \n summons : Great Swamp Cuculus: Her summon sign can be found near the staircase leading to the boss arena.\nKnight Slayer Tsorig: If the player defeated Tsorig as a Dark Spirit in the Catacombs of Carthus, he can be summoned to help with this boss fight. His summon sign can be found near the Demon Ruins Bonfire (Defeating him again in the Smouldering Lake does not negate this).",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.59692794847346
+  },
+  {
+    "document_id": "74fc4b10-c7ab-5f4c-a5e2-b0c9975f9955",
+    "title": "Loyce Soul",
+    "section": "farming",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "In shorter terms, the Loyce Souls start dropping much more regularly after the Charred Knights dropping a specific number of items.\n\nThe best way to farm the knights is during the fight against the Burnt Ivory King, as players will be backed up by any rescued Loyce Knights (as well as summons such as Lucatiel of Mirrah and Twiggy Shei), and also due to the fact that the Charred Loyce Knights themselves will spawn more frequently (roughly 10-11 per cycle depending on how long the portals remain open). Once enough Charred Loyce Knights have been slain and the Burnt Ivory King's portal appears, the player may egress from the arena via using the Aged Feather, and repeating the process as many times as necessary; if phantoms were summoned, be sure to use a Black Separation Crystal first. As these Charred Loyce Knights are treated as boss minions and not as spawned enemies, they will always appear during the boss fight no matter how many times they are killed.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.571080199229684
+  },
+  {
+    "document_id": "96265bc8-0f54-56cb-a6fc-0713321abf50",
+    "title": "Dark Sun Gwyndolin",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Dark Sun Gwyndolin -  Dark Souls III - boss - trivia \n trivia : Gwyndolin's title uses the kanji \"陰の太陽\" that can be literally translated as \"Sun in the Dark\", \"Sun in the Shadow\" or \"Hidden Sun\".\nDark Sun Gwyndolin's boss fight has the same soundtrack as the Moonlight Butterfly.\nGwyndolin has breasts visible on his cloak, however, in Aldrich's boss fight, Gwyndolin's bare upper chest is visible, and lack breasts.\nIf Gwyndolin is fought before defeating Ornstein and Smough, Knight Solaire can be summoned from his usual spot. While he will not enter the arena to aid the player in the battle, a Sunlight Medal can be acquired at the end of the fight.\nIf the player uses the Darkmoon Seance Ring to enter Gwyndolin's chamber and kills him without destroying the illusion of Gwynevere, both Gwynevere and the illusion of sunlight in Anor Londo will persist after his death.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.51462451911878
+  },
+  {
+    "document_id": "06079388-5389-56af-b438-de58e0a56b30",
+    "title": "Spear of the Church",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Spear of the Church -  Dark Souls III - boss - trivia \n trivia : Halflight most commonly refers to a dim, imperfect light, most common seen at twilight or dawn.\n**This makes the name rather similar to that of Princess Dusk, and reasonably so since they are both from Oolacile.\nThe Spear of the Church boss fight mechanics are reminiscent of the [https://demonssouls.fandom.com/wiki/Old_Monk Old Monk] from *Demon's Souls*.\nThis is the only boss fight in the *Dark Souls* franchise where a player can be the boss.\nThis is the only fight that can be reset without beginning a new NG cycle, provided the player has the amount of souls necessary to resurrect Judicator Argo.\nThere is a small chance that any player engaging in online mechanics in the Ringed City will be summoned, regardless of their covenant and status (summon/invader).\nSimilarly to the Ancient Wyvern boss fight, this fight has no corresponding bonfire.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.50028541596614
+  },
+  {
+    "document_id": "9e5eec37-8c85-52e9-93fc-fbb803a3816e",
+    "title": "Benhart of Jugo",
+    "section": "achievements_trophies",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Benhart of Jugo -  Dark Souls II - character - achievements_trophies \n achievements_trophies : To get this Achievement/Trophy, the player must summon Benhart and have him survive a minimum of three boss fights. He can be summoned for the following boss fights:\nProwling Magus and Congregation\nLooking Glass Knight\nGiant Lord\nThrone Watcher and Defender (this fight does not count)\nNashandra\nAldia, Scholar of the First Sin (this fight does not count)\nElana, the Squalid Queen (DLC)\n\nPlayers can also use a Bonfire Ascetic to respawn a boss and then summon Benhart again. After defeating at least three bosses alongside him, Benhart will thank the player and give them his equipment in the Memory of Orro.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.496349863888895
+  },
+  {
+    "document_id": "8206b700-3cd5-5ea0-bd62-87d4feb6cc94",
+    "title": "Ashen Estus Flask",
+    "section": "overview",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Ashen Estus Flask -  Dark Souls III - item - overview \n overview : Drinking from the Ashen Estus Flask restores FP, much like how the normal Estus Flask restores HP. Resting at a bonfire will refill it to maximum charges.\n\nThe total number of shared charges between the normal Estus Flask and Ashen Estus Flask can be increased by bringing Estus Shards to Blacksmith Andre, and the potency of each charge increased by burning an Undead Bone Shard at Firelink Shrine's bonfire. The number of total charges between the two flasks can reach a maximum of 15, while the potency of the flasks can reach a maximum of +10. The player can also talk to Blacksmith Andre to allot their Estus charges between the two flasks.\n\nThe potency of each charge of the Ashen Estus Flask can be increased by 20% by equipping the Ashen Estus Ring.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.39406334973347
+  },
+  {
+    "document_id": "06c118d6-b708-515e-bd3c-72c113f8c94d",
+    "title": "Blue Sentinels",
+    "section": "how_to_join",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Blue Sentinels -  Dark Souls II - mechanic - how_to_join \n how_to_join : Talk to Blue Sentinel Targray, located in the Cathedral of Blue directly after the Old Dragonslayer boss fight. Reaching him before obtaining at least one Token of Fidelty will have him disregard the player, so be sure to find one if you wish to join the covenant. Upon meeting the requirements and accepting Targray's offer, players will be awarded the Guardian's Seal.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.20969401368281
+  },
+  {
+    "document_id": "bcaaeb3b-d292-5c09-904c-b685930b0acc",
+    "title": "Grave Warden Pyromancy Tome",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Grave Warden Pyromancy Tome -  Dark Souls III - item - availability \n availability : Located in the Catacombs of Carthus. Upon entering the boss fight of High Lord Wolnir, the item will be in the center of the arena where he spawns. If not picked up during the boss fight, it can be found on a corpse at the far-left corner of the goblet chamber after reloading the area.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.13644611411905
+  }
+]

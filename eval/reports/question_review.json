@@ -1,0 +1,3067 @@
+{
+  "generated_at": "2026-10-18T14:48:13Z",
+  "n_questions": 100,
+  "counts": {
+    "compound_question": 35
+  },
+  "questions": {
+    "q001": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Lore": [
+          "Lore"
+        ],
+        "Lord Soul": [
+          "Lord Soul",
+          "Bequeathed Lord Soul Shard",
+          "Soul of Gwyn, Lord of Cinder"
+        ],
+        "First Flame": [
+          "First Flame",
+          "Kiln of the First Flame"
+        ],
+        "Witch of Izalith": [
+          "Witch of Izalith"
+        ],
+        "Gravelord Nito": [
+          "Gravelord Nito"
+        ],
+        "Seath the Scaleless": [
+          "Seath the Scaleless"
+        ],
+        "Furtive Pygmy": [
+          "Furtive Pygmy"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q002": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 2,
+      "resolved_entities": {
+        "Artorias of the Abyss": [
+          "Artorias of the Abyss"
+        ],
+        "Great Grey Wolf Sif": [
+          "Great Grey Wolf Sif"
+        ],
+        "Crest of Artorias": [
+          "Crest of Artorias"
+        ],
+        "Oolacile": [
+          "Oolacile",
+          "Dusk of Oolacile",
+          "Oolacile Catalyst",
+          "Oolacile Ivory Catalyst",
+          "Oolacile Sanctuary"
+        ],
+        "Abyss": [
+          "Abyss",
+          "Abyss Attack Dog",
+          "Abyss Greatsword",
+          "Artorias of the Abyss",
+          "Chasm of the Abyss"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q003": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Witch of Izalith": [
+          "Witch of Izalith"
+        ],
+        "Quelana": [
+          "Quelana of Izalith"
+        ],
+        "Quelaag": [
+          "Chaos Witch Quelaag",
+          "Quelaag's Domain",
+          "Quelaag's Furysword",
+          "Quelaag's Sister",
+          "Soul of Quelaag"
+        ],
+        "Lost Izalith": [
+          "Lost Izalith"
+        ],
+        "Bed of Chaos": [
+          "Bed of Chaos"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q004": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "Dragon Slayer Ornstein and Executioner Smough": [
+          "Dragon Slayer Ornstein and Executioner Smough"
+        ],
+        "Ornstein": [
+          "Dragon Slayer Ornstein and Executioner Smough",
+          "Ornstein's Armor",
+          "Ornstein's Gauntlets",
+          "Ornstein's Helm",
+          "Ornstein's Leggings"
+        ],
+        "Smough": [
+          "Dragon Slayer Ornstein and Executioner Smough",
+          "Smough's Armor",
+          "Smough's Gauntlets",
+          "Smough's Hammer",
+          "Smough's Helm"
+        ],
+        "Anor Londo": [
+          "Anor Londo"
+        ],
+        "Soul of Gwyndolin": [
+          "Soul of Gwyndolin"
+        ],
+        "Four Knights of Gwyn": [
+          "Four Knights of Gwyn"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q005": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Artorias of the Abyss": [
+          "Artorias of the Abyss"
+        ],
+        "Great Grey Wolf Sif": [
+          "Great Grey Wolf Sif"
+        ],
+        "Crest of Artorias": [
+          "Crest of Artorias"
+        ],
+        "Oolacile": [
+          "Oolacile",
+          "Dusk of Oolacile",
+          "Oolacile Catalyst",
+          "Oolacile Ivory Catalyst",
+          "Oolacile Sanctuary"
+        ],
+        "Abyss": [
+          "Abyss",
+          "Abyss Attack Dog",
+          "Abyss Greatsword",
+          "Artorias of the Abyss",
+          "Chasm of the Abyss"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q006": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "Kingseeker Frampt": [
+          "Kingseeker Frampt"
+        ],
+        "Darkstalker Kaathe": [
+          "Darkstalker Kaathe"
+        ],
+        "First Flame": [
+          "First Flame",
+          "Kiln of the First Flame"
+        ],
+        "Lore": [
+          "Lore"
+        ],
+        "Covenant": [
+          "Covenant",
+          "Cat Covenant Ring",
+          "Covenant of Artorias",
+          "Darkmoon Blade Covenant Ring",
+          "Darkwraith (covenant)"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q007": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "Witch of Izalith": [
+          "Witch of Izalith"
+        ],
+        "Quelana of Izalith": [
+          "Quelana of Izalith"
+        ],
+        "Quelaag's Domain": [
+          "Quelaag's Domain"
+        ],
+        "Lost Izalith": [
+          "Lost Izalith"
+        ],
+        "Bed of Chaos": [
+          "Bed of Chaos"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q008": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Artorias of the Abyss": [
+          "Artorias of the Abyss"
+        ],
+        "Great Grey Wolf Sif": [
+          "Great Grey Wolf Sif"
+        ],
+        "Abyss": [
+          "Abyss",
+          "Abyss Attack Dog",
+          "Abyss Greatsword",
+          "Artorias of the Abyss",
+          "Chasm of the Abyss"
+        ],
+        "Manus, Father of the Abyss": [
+          "Manus, Father of the Abyss"
+        ],
+        "Oolacile": [
+          "Oolacile",
+          "Dusk of Oolacile",
+          "Oolacile Catalyst",
+          "Oolacile Ivory Catalyst",
+          "Oolacile Sanctuary"
+        ],
+        "Chasm of the Abyss": [
+          "Chasm of the Abyss"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q009": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "Oolacile": [
+          "Oolacile",
+          "Dusk of Oolacile",
+          "Oolacile Catalyst",
+          "Oolacile Ivory Catalyst",
+          "Oolacile Sanctuary"
+        ],
+        "Manus, Father of the Abyss": [
+          "Manus, Father of the Abyss"
+        ],
+        "Abyss": [
+          "Abyss",
+          "Abyss Attack Dog",
+          "Abyss Greatsword",
+          "Artorias of the Abyss",
+          "Chasm of the Abyss"
+        ],
+        "Dusk of Oolacile": [
+          "Dusk of Oolacile"
+        ],
+        "Chasm of the Abyss": [
+          "Chasm of the Abyss"
+        ],
+        "Artorias of the Abyss": [
+          "Artorias of the Abyss"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q010": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Broken Pendant": [
+          "Broken Pendant"
+        ],
+        "Oolacile": [
+          "Oolacile",
+          "Dusk of Oolacile",
+          "Oolacile Catalyst",
+          "Oolacile Ivory Catalyst",
+          "Oolacile Sanctuary"
+        ],
+        "Artorias of the Abyss": [
+          "Artorias of the Abyss"
+        ],
+        "Darkroot Basin": [
+          "Darkroot Basin"
+        ],
+        "Dusk of Oolacile": [
+          "Dusk of Oolacile"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q011": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Crest of Artorias": [
+          "Crest of Artorias"
+        ],
+        "Artorias of the Abyss": [
+          "Artorias of the Abyss"
+        ],
+        "Great Grey Wolf Sif": [
+          "Great Grey Wolf Sif"
+        ],
+        "Darkroot Garden": [
+          "Darkroot Garden"
+        ],
+        "Darkroot Basin": [
+          "Darkroot Basin"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q012": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Lordvessel": [
+          "Lordvessel"
+        ],
+        "Anor Londo": [
+          "Anor Londo"
+        ],
+        "Firelink Shrine": [
+          "Firelink Shrine"
+        ],
+        "First Flame": [
+          "First Flame",
+          "Kiln of the First Flame"
+        ],
+        "Lord Soul": [
+          "Lord Soul",
+          "Bequeathed Lord Soul Shard",
+          "Soul of Gwyn, Lord of Cinder"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q013": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Lost Izalith": [
+          "Lost Izalith"
+        ],
+        "Witch of Izalith": [
+          "Witch of Izalith"
+        ],
+        "Bed of Chaos": [
+          "Bed of Chaos"
+        ],
+        "Demon Ruins": [
+          "Demon Ruins"
+        ],
+        "Chaos": [
+          "Bed of Chaos",
+          "Chaos (mechanic)",
+          "Chaos (upgrade path)",
+          "Chaos Blade",
+          "Chaos Bug"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q014": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 2,
+      "resolved_entities": {
+        "Age of Ancients": [
+          "Age of Ancients"
+        ],
+        "First Flame": [
+          "First Flame",
+          "Kiln of the First Flame"
+        ],
+        "Age of Fire": [
+          "Age of Fire"
+        ],
+        "Lore": [
+          "Lore"
+        ],
+        "Lord Soul": [
+          "Lord Soul",
+          "Bequeathed Lord Soul Shard",
+          "Soul of Gwyn, Lord of Cinder"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q015": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Vendrick": [
+          "Vendrick"
+        ],
+        "Drangleic": [
+          "Drangleic",
+          "Drangleic Castle",
+          "Drangleic Gauntlets",
+          "Drangleic Helm",
+          "Drangleic Leggings"
+        ],
+        "Drangleic Castle": [
+          "Drangleic Castle"
+        ],
+        "Soul of the King": [
+          "Soul of the King",
+          "Soul of Aava, the King's Pet",
+          "Soul of Lud, the King's Pet",
+          "Soul of Zallen, the King's Pet",
+          "Soul of the Ivory King"
+        ],
+        "Throne of Want": [
+          "Throne of Want"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q016": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 2,
+      "resolved_entities": {
+        "Aldia, Scholar of the First Sin": [
+          "Aldia, Scholar of the First Sin"
+        ],
+        "Aldia's Keep": [
+          "Aldia's Keep"
+        ],
+        "Dragon Aerie": [
+          "Dragon Aerie"
+        ],
+        "Bearer of the Curse": [
+          "Bearer of the Curse"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q017": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Nashandra": [
+          "Nashandra",
+          "Soul of Nashandra"
+        ],
+        "Vendrick": [
+          "Vendrick"
+        ],
+        "Throne of Want": [
+          "Throne of Want"
+        ],
+        "Soul of Nashandra": [
+          "Soul of Nashandra"
+        ],
+        "Drangleic": [
+          "Drangleic",
+          "Drangleic Castle",
+          "Drangleic Gauntlets",
+          "Drangleic Helm",
+          "Drangleic Leggings"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q018": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "Vendrick": [
+          "Vendrick"
+        ],
+        "Nashandra": [
+          "Nashandra",
+          "Soul of Nashandra"
+        ],
+        "Drangleic": [
+          "Drangleic",
+          "Drangleic Castle",
+          "Drangleic Gauntlets",
+          "Drangleic Helm",
+          "Drangleic Leggings"
+        ],
+        "Throne of Want": [
+          "Throne of Want"
+        ],
+        "Soul of Nashandra": [
+          "Soul of Nashandra"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q019": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Emerald Herald": [
+          "Emerald Herald"
+        ],
+        "Bearer of the Curse": [
+          "Bearer of the Curse"
+        ],
+        "Drangleic": [
+          "Drangleic",
+          "Drangleic Castle",
+          "Drangleic Gauntlets",
+          "Drangleic Helm",
+          "Drangleic Leggings"
+        ],
+        "Throne of Want": [
+          "Throne of Want"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q020": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Throne of Want": [
+          "Throne of Want"
+        ],
+        "Nashandra": [
+          "Nashandra",
+          "Soul of Nashandra"
+        ],
+        "Vendrick": [
+          "Vendrick"
+        ],
+        "Soul of Nashandra": [
+          "Soul of Nashandra"
+        ],
+        "Drangleic Castle": [
+          "Drangleic Castle"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q021": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "5 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 5,
+      "resolved_entities": {
+        "Giant Lord": [
+          "Giant Lord",
+          "Giant Lord Soul"
+        ],
+        "The Last Giant": [
+          "The Last Giant",
+          "Soul of the Last Giant"
+        ],
+        "Forest of Fallen Giants": [
+          "Forest of Fallen Giants"
+        ],
+        "Vendrick": [
+          "Vendrick"
+        ],
+        "Drangleic": [
+          "Drangleic",
+          "Drangleic Castle",
+          "Drangleic Gauntlets",
+          "Drangleic Helm",
+          "Drangleic Leggings"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q022": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 2,
+      "resolved_entities": {
+        "Ashen Mist Heart": [
+          "Ashen Mist Heart"
+        ],
+        "Bearer of the Curse": [
+          "Bearer of the Curse"
+        ],
+        "Memory of the King": [
+          "Memory of the King",
+          "Memory of the Old Iron King"
+        ],
+        "Vendrick": [
+          "Vendrick"
+        ],
+        "Aldia, Scholar of the First Sin": [
+          "Aldia, Scholar of the First Sin"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q023": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 2,
+      "resolved_entities": {
+        "Crown of the Sunken King": [
+          "Crown of the Sunken King",
+          "Crown of the Sunken King (helm)"
+        ],
+        "Crown of the Old Iron King": [
+          "Crown of the Old Iron King",
+          "Crown of the Old Iron King (helm)"
+        ],
+        "Crown of the Ivory King": [
+          "Crown of the Ivory King",
+          "Crown of the Ivory King (helm)"
+        ],
+        "Vendrick": [
+          "Vendrick"
+        ],
+        "Sunken King": [
+          "Sunken King",
+          "Crown of the Sunken King",
+          "Crown of the Sunken King (helm)"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q024": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Shrine of Amana": [
+          "Shrine of Amana"
+        ],
+        "Milfanito": [
+          "Milfanito"
+        ],
+        "Drangleic": [
+          "Drangleic",
+          "Drangleic Castle",
+          "Drangleic Gauntlets",
+          "Drangleic Helm",
+          "Drangleic Leggings"
+        ],
+        "Undead Crypt": [
+          "Undead Crypt"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q025": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Aldia, Scholar of the First Sin": [
+          "Aldia, Scholar of the First Sin"
+        ],
+        "Bearer of the Curse": [
+          "Bearer of the Curse"
+        ],
+        "First sin": [
+          "First sin",
+          "Aldia, Scholar of the First Sin",
+          "Dark Souls II: Scholar of the First Sin"
+        ],
+        "Throne of Want": [
+          "Throne of Want"
+        ],
+        "Vendrick": [
+          "Vendrick"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q026": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Lords of Cinder": [
+          "Lords of Cinder"
+        ],
+        "First Flame": [
+          "Kiln of the First Flame (Dark Souls III)"
+        ],
+        "Ludleth of Courland": [
+          "Ludleth of Courland"
+        ],
+        "Yhorm the Giant": [
+          "Yhorm the Giant",
+          "Soul of Yhorm the Giant"
+        ],
+        "Aldrich, Devourer of Gods": [
+          "Aldrich, Devourer of Gods"
+        ],
+        "Lothric, Younger Prince": [
+          "Lothric, Younger Prince",
+          "Lorian, Elder Prince and Lothric, Younger Prince"
+        ],
+        "Soul of Cinder": [
+          "Soul of Cinder"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q027": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Lothric, Younger Prince": [
+          "Lothric, Younger Prince",
+          "Lorian, Elder Prince and Lothric, Younger Prince"
+        ],
+        "Lorian, Elder Prince and Lothric, Younger Prince": [
+          "Lorian, Elder Prince and Lothric, Younger Prince"
+        ],
+        "First Flame": [
+          "Kiln of the First Flame (Dark Souls III)"
+        ],
+        "Soul of Cinder": [
+          "Soul of Cinder"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q028": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 2,
+      "resolved_entities": {
+        "Aldrich, Devourer of Gods": [
+          "Aldrich, Devourer of Gods"
+        ],
+        "Devourer of Gods": [
+          "Aldrich, Devourer of Gods"
+        ],
+        "Cathedral of the Deep": [
+          "Cathedral of the Deep"
+        ],
+        "Deacons of the Deep": [
+          "Deacons of the Deep",
+          "Soul of the Deacons of the Deep"
+        ],
+        "Lords of Cinder": [
+          "Lords of Cinder"
+        ],
+        "Dark Sun Gwyndolin": [
+          "Dark Sun Gwyndolin"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q029": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 2,
+      "resolved_entities": {
+        "Pontiff Sulyvahn": [
+          "Pontiff Sulyvahn",
+          "Soul of Pontiff Sulyvahn"
+        ],
+        "Sulyvahn": [
+          "Pontiff Sulyvahn",
+          "Soul of Pontiff Sulyvahn",
+          "Sulyvahn's Beast"
+        ],
+        "Irithyll of the Boreal Valley": [
+          "Irithyll of the Boreal Valley"
+        ],
+        "Aldrich, Devourer of Gods": [
+          "Aldrich, Devourer of Gods"
+        ],
+        "Anor Londo": [
+          "Anor Londo (Dark Souls III)"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q030": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Lothric, Younger Prince": [
+          "Lothric, Younger Prince",
+          "Lorian, Elder Prince and Lothric, Younger Prince"
+        ],
+        "Lorian, Elder Prince and Lothric, Younger Prince": [
+          "Lorian, Elder Prince and Lothric, Younger Prince"
+        ],
+        "Lothric": [
+          "Lothric",
+          "Braille Divine Tome of Lothric",
+          "Emma, High Priestess of Lothric Castle",
+          "High Wall of Lothric",
+          "Lorian, Elder Prince and Lothric, Younger Prince"
+        ],
+        "Lorian": [
+          "Lorian's Armor",
+          "Lorian's Gauntlets",
+          "Lorian's Greatsword",
+          "Lorian's Helm",
+          "Lorian's Leggings"
+        ],
+        "Younger Prince": [
+          "Lorian, Elder Prince and Lothric, Younger Prince",
+          "Lothric, Younger Prince"
+        ],
+        "Elder Prince": [
+          "Lorian, Elder Prince and Lothric, Younger Prince"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q031": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Abyss Watchers": [
+          "Abyss Watchers"
+        ],
+        "Knight Artorias": [
+          "Knight Artorias"
+        ],
+        "Abyss": [
+          "Abyss Watchers"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q032": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "Pontiff Sulyvahn": [
+          "Pontiff Sulyvahn",
+          "Soul of Pontiff Sulyvahn"
+        ],
+        "Sulyvahn": [
+          "Pontiff Sulyvahn",
+          "Soul of Pontiff Sulyvahn",
+          "Sulyvahn's Beast"
+        ],
+        "Aldrich, Devourer of Gods": [
+          "Aldrich, Devourer of Gods"
+        ],
+        "Irithyll of the Boreal Valley": [
+          "Irithyll of the Boreal Valley"
+        ],
+        "Anor Londo": [
+          "Anor Londo (Dark Souls III)"
+        ],
+        "Devourer of Gods": [
+          "Aldrich, Devourer of Gods"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q033": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Lords of Cinder": [
+          "Lords of Cinder"
+        ],
+        "Lothric, Younger Prince": [
+          "Lothric, Younger Prince",
+          "Lorian, Elder Prince and Lothric, Younger Prince"
+        ],
+        "First Flame": [
+          "Kiln of the First Flame (Dark Souls III)"
+        ],
+        "Unkindled": [
+          "Unkindled"
+        ],
+        "Ashen One": [
+          "Ashen One"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q034": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Soul of Cinder": [
+          "Soul of Cinder"
+        ],
+        "First Flame": [
+          "Kiln of the First Flame (Dark Souls III)"
+        ],
+        "Lords of Cinder": [
+          "Lords of Cinder"
+        ],
+        "Gwyn, Lord of Cinder": [
+          "Gwyn, Lord of Cinder"
+        ],
+        "Kiln of the First Flame (Dark Souls III)": [
+          "Kiln of the First Flame (Dark Souls III)"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q035": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Profaned Capital": [
+          "Profaned Capital"
+        ],
+        "Yhorm the Giant": [
+          "Yhorm the Giant",
+          "Soul of Yhorm the Giant"
+        ],
+        "Profaned Flame": [
+          "Profaned Flame"
+        ],
+        "Lords of Cinder": [
+          "Lords of Cinder"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q036": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Painted World of Ariandel": [
+          "Painted World of Ariandel"
+        ],
+        "Father Ariandel": [
+          "Father Ariandel"
+        ],
+        "Sister Friede": [
+          "Sister Friede",
+          "Soul of Sister Friede"
+        ],
+        "Ashes of Ariandel": [
+          "Ashes of Ariandel"
+        ],
+        "Ariandel": [
+          "Ashes of Ariandel",
+          "Father Ariandel",
+          "Painted World of Ariandel",
+          "Rose of Ariandel"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q037": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 2,
+      "resolved_entities": {
+        "Power Stance": [
+          "Power Stance"
+        ],
+        "Strength (Dark Souls II)": [
+          "Strength (Dark Souls II)"
+        ],
+        "Dexterity (Dark Souls II)": [
+          "Dexterity (Dark Souls II)"
+        ],
+        "Equip Load": [
+          "Equip Load"
+        ],
+        "Weapon": [
+          "Claws (weapon type)",
+          "Claws (weapon)",
+          "Crystal Magic Weapon (Dark Souls II)",
+          "Dark Weapon",
+          "Flame Weapon"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q038": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 2,
+      "resolved_entities": {
+        "Unkindled": [
+          "Unkindled"
+        ],
+        "Ashen One": [
+          "Ashen One"
+        ],
+        "First Flame": [
+          "Kiln of the First Flame (Dark Souls III)"
+        ],
+        "Lords of Cinder": [
+          "Lords of Cinder"
+        ],
+        "Cemetery of Ash": [
+          "Cemetery of Ash"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q039": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 2,
+      "resolved_entities": {
+        "Manus, Father of the Abyss": [
+          "Manus, Father of the Abyss"
+        ],
+        "Nashandra": [
+          "Nashandra",
+          "Soul of Nashandra"
+        ],
+        "Elana, the Squalid Queen": [
+          "Elana, the Squalid Queen"
+        ],
+        "Nadalia, Bride of Ash": [
+          "Nadalia, Bride of Ash",
+          "Soul of Nadalia, Bride of Ash"
+        ],
+        "Alsanna, Silent Oracle": [
+          "Alsanna, Silent Oracle",
+          "Soul of Alsanna, Silent Oracle"
+        ],
+        "Abyss": [
+          "Abyss",
+          "Abyss Attack Dog",
+          "Abyss Greatsword",
+          "Artorias of the Abyss",
+          "Chasm of the Abyss"
+        ],
+        "Dark Soul": [
+          "Dark Soul",
+          "Crystal Soul Spear (Dark Souls)",
+          "Great Soul Arrow (Dark Souls)",
+          "Soul Arrow (Dark Souls)",
+          "Soul Spear (Dark Souls)"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q040": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "First Flame": [
+          "First Flame",
+          "Kiln of the First Flame",
+          "Kiln of the First Flame (Dark Souls III)"
+        ],
+        "Lord Soul": [
+          "Lord Soul",
+          "Bequeathed Lord Soul Shard",
+          "Soul of Gwyn, Lord of Cinder",
+          "Giant Lord Soul",
+          "Skeleton Lord's Soul"
+        ],
+        "Lords of Cinder": [
+          "Lords of Cinder"
+        ],
+        "Soul of Cinder": [
+          "Soul of Gwyn, Lord of Cinder",
+          "Soul of Cinder"
+        ],
+        "Aldia, Scholar of the First Sin": [
+          "Aldia, Scholar of the First Sin"
+        ],
+        "Lothric, Younger Prince": [
+          "Lothric, Younger Prince",
+          "Lorian, Elder Prince and Lothric, Younger Prince"
+        ],
+        "Unkindled": [
+          "Unkindled"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q041": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Abyss": [
+          "Abyss",
+          "Abyss Attack Dog",
+          "Abyss Greatsword",
+          "Artorias of the Abyss",
+          "Chasm of the Abyss"
+        ],
+        "Humanity (item)": [
+          "Humanity (item)"
+        ],
+        "Dark Soul": [
+          "Dark Soul",
+          "Crystal Soul Spear (Dark Souls)",
+          "Great Soul Arrow (Dark Souls)",
+          "Soul Arrow (Dark Souls)",
+          "Soul Spear (Dark Souls)"
+        ],
+        "Manus, Father of the Abyss": [
+          "Manus, Father of the Abyss"
+        ],
+        "Furtive Pygmy": [
+          "Furtive Pygmy"
+        ],
+        "Darkstalker Kaathe": [
+          "Darkstalker Kaathe"
+        ],
+        "Aldia, Scholar of the First Sin": [
+          "Aldia, Scholar of the First Sin"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q042": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Fume Knight": [
+          "Fume Knight",
+          "Soul of the Fume Knight"
+        ],
+        "Raime": [
+          "Raime's Armor",
+          "Raime's Gauntlets",
+          "Raime's Helm",
+          "Raime's Leggings",
+          "Raime's Set"
+        ],
+        "Velstadt": [
+          "Soul of Velstadt",
+          "Velstadt's Armor",
+          "Velstadt's Gauntlets",
+          "Velstadt's Helm",
+          "Velstadt's Leggings"
+        ],
+        "Vendrick": [
+          "Vendrick"
+        ],
+        "Nadalia, Bride of Ash": [
+          "Nadalia, Bride of Ash",
+          "Soul of Nadalia, Bride of Ash"
+        ],
+        "Brume Tower": [
+          "Brume Tower"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q043": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 2,
+      "resolved_entities": {
+        "Alsanna, Silent Oracle": [
+          "Alsanna, Silent Oracle",
+          "Soul of Alsanna, Silent Oracle"
+        ],
+        "Burnt Ivory King": [
+          "Burnt Ivory King"
+        ],
+        "Eleum Loyce": [
+          "Eleum Loyce",
+          "Fabian, Knight of Eleum Loyce",
+          "Frozen Eleum Loyce",
+          "Knight of Eleum Loyce"
+        ],
+        "Ivory King": [
+          "Burnt Ivory King",
+          "Crown of the Ivory King",
+          "Crown of the Ivory King (helm)",
+          "Ivory King Armor",
+          "Ivory King Gauntlets"
+        ],
+        "Nadalia, Bride of Ash": [
+          "Nadalia, Bride of Ash",
+          "Soul of Nadalia, Bride of Ash"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q044": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 2,
+      "resolved_entities": {
+        "Seath the Scaleless": [
+          "Seath the Scaleless"
+        ],
+        "The Duke's Archives": [
+          "The Duke's Archives"
+        ],
+        "Crystal Cave": [
+          "Crystal Cave"
+        ],
+        "Stone Dragon": [
+          "Stone Dragon",
+          "Dragon Head Stone",
+          "Dragon Torso Stone"
+        ],
+        "Dragon Scale": [
+          "Dragon Scale"
+        ],
+        "Lord Soul": [
+          "Lord Soul",
+          "Bequeathed Lord Soul Shard",
+          "Soul of Gwyn, Lord of Cinder"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q045": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 2,
+      "resolved_entities": {
+        "Covenant of Artorias": [
+          "Covenant of Artorias"
+        ],
+        "Great Grey Wolf Sif": [
+          "Great Grey Wolf Sif"
+        ],
+        "Four Kings": [
+          "Four Kings",
+          "Four Kings Sword"
+        ],
+        "New Londo Ruins": [
+          "New Londo Ruins",
+          "Key to New Londo Ruins"
+        ],
+        "Abyss": [
+          "Abyss",
+          "Abyss Attack Dog",
+          "Abyss Greatsword",
+          "Artorias of the Abyss",
+          "Chasm of the Abyss"
+        ],
+        "Darkstalker Kaathe": [
+          "Darkstalker Kaathe"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q046": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 2,
+      "resolved_entities": {
+        "Anor Londo": [
+          "Anor Londo"
+        ],
+        "Soul of Gwyndolin": [
+          "Soul of Gwyndolin"
+        ],
+        "Darkmoon Knightess": [
+          "Darkmoon Knightess"
+        ],
+        "Illusory Wall": [
+          "Illusory Wall"
+        ],
+        "Darkmoon Blade": [
+          "Darkmoon Blade",
+          "Blade of the Darkmoon",
+          "Darkmoon Blade Covenant Ring"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q047": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 2,
+      "resolved_entities": {
+        "The Nameless King": [
+          "The Nameless King",
+          "Soul of the Nameless King"
+        ],
+        "Gwyn, Lord of Cinder": [
+          "Gwyn, Lord of Cinder"
+        ],
+        "Archdragon Peak": [
+          "Archdragon Peak"
+        ],
+        "Ancient Wyvern": [
+          "Ancient Wyvern"
+        ],
+        "Soul of the Nameless King": [
+          "Soul of the Nameless King"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q048": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 2,
+      "resolved_entities": {
+        "Slave Knight Gael": [
+          "Slave Knight Gael",
+          "Soul of Slave Knight Gael"
+        ],
+        "The Ringed City": [
+          "The Ringed City",
+          "Loincloth (The Ringed City)",
+          "The Ringed City (Location)"
+        ],
+        "Filianore": [
+          "Filianore",
+          "Filianore's Spear Ornament",
+          "Sacred Chime of Filianore",
+          "Shira, Knight of Filianore"
+        ],
+        "Pygmy Lord": [
+          "Pygmy Lord"
+        ],
+        "The Painter": [
+          "The Painter"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q049": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 2,
+      "resolved_entities": {
+        "Human Effigy": [
+          "Human Effigy"
+        ],
+        "Darksign": [
+          "Darksign",
+          "Darksign (Dark Souls II)"
+        ],
+        "Bearer of the Curse": [
+          "Bearer of the Curse"
+        ],
+        "Emerald Herald": [
+          "Emerald Herald"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q050": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 2,
+      "resolved_entities": {
+        "Yoel of Londor": [
+          "Yoel of Londor"
+        ],
+        "Yuria of Londor": [
+          "Yuria of Londor"
+        ],
+        "Londor": [
+          "Londor",
+          "Londor Braille Divine Tome",
+          "Londor Pale Shade",
+          "Old Woman of Londor",
+          "Yoel of Londor"
+        ],
+        "Dark Sigil": [
+          "Dark Sigil"
+        ],
+        "Unkindled": [
+          "Unkindled"
+        ],
+        "First Flame": [
+          "Kiln of the First Flame (Dark Souls III)"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q051": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Four Kings": [
+          "Four Kings",
+          "Four Kings Sword"
+        ],
+        "New Londo Ruins": [
+          "New Londo Ruins",
+          "Key to New Londo Ruins"
+        ],
+        "Abyss": [
+          "Abyss",
+          "Abyss Attack Dog",
+          "Abyss Greatsword",
+          "Artorias of the Abyss",
+          "Chasm of the Abyss"
+        ],
+        "Covenant of Artorias": [
+          "Covenant of Artorias"
+        ],
+        "Darkstalker Kaathe": [
+          "Darkstalker Kaathe"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q052": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "5 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 5,
+      "resolved_entities": {
+        "Dragon Slayer Ornstein and Executioner Smough": [
+          "Dragon Slayer Ornstein and Executioner Smough"
+        ],
+        "Ornstein": [
+          "Dragon Slayer Ornstein and Executioner Smough",
+          "Ornstein's Armor",
+          "Ornstein's Gauntlets",
+          "Ornstein's Helm",
+          "Ornstein's Leggings"
+        ],
+        "Smough": [
+          "Dragon Slayer Ornstein and Executioner Smough",
+          "Smough's Armor",
+          "Smough's Gauntlets",
+          "Smough's Hammer",
+          "Smough's Helm"
+        ],
+        "Anor Londo": [
+          "Anor Londo"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q053": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Artorias of the Abyss": [
+          "Artorias of the Abyss"
+        ],
+        "Abyss": [
+          "Abyss",
+          "Abyss Attack Dog",
+          "Abyss Greatsword",
+          "Artorias of the Abyss",
+          "Chasm of the Abyss"
+        ],
+        "Oolacile": [
+          "Oolacile",
+          "Dusk of Oolacile",
+          "Oolacile Catalyst",
+          "Oolacile Ivory Catalyst",
+          "Oolacile Sanctuary"
+        ],
+        "Great Grey Wolf Sif": [
+          "Great Grey Wolf Sif"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q054": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Bed of Chaos": [
+          "Bed of Chaos"
+        ],
+        "Lost Izalith": [
+          "Lost Izalith"
+        ],
+        "Witch of Izalith": [
+          "Witch of Izalith"
+        ],
+        "Chaos": [
+          "Bed of Chaos",
+          "Chaos (mechanic)",
+          "Chaos (upgrade path)",
+          "Chaos Blade",
+          "Chaos Bug"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q055": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "Seath the Scaleless": [
+          "Seath the Scaleless"
+        ],
+        "Moonlight Greatsword (Dark Souls)": [
+          "Moonlight Greatsword (Dark Souls)"
+        ],
+        "Crystal Cave": [
+          "Crystal Cave"
+        ],
+        "The Duke's Archives": [
+          "The Duke's Archives"
+        ],
+        "Dragon Scale": [
+          "Dragon Scale"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q056": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Seath the Scaleless": [
+          "Seath the Scaleless"
+        ],
+        "Curse (Dark Souls)": [
+          "Curse (Dark Souls)"
+        ],
+        "Transient Curse": [
+          "Transient Curse"
+        ],
+        "Cursebite Ring": [
+          "Cursebite Ring"
+        ],
+        "The Duke's Archives": [
+          "The Duke's Archives"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q057": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Black Dragon Kalameet": [
+          "Black Dragon Kalameet"
+        ],
+        "Gough's Greatbow": [
+          "Gough's Greatbow"
+        ],
+        "Oolacile Township": [
+          "Oolacile Township",
+          "Oolacile Township Dungeon"
+        ],
+        "Royal Wood": [
+          "Royal Wood"
+        ],
+        "Artorias of the Abyss": [
+          "Artorias of the Abyss"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q058": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "Ancient Dragon": [
+          "Ancient Dragon",
+          "Ancient Dragon Seal",
+          "Ancient Dragon Soul"
+        ],
+        "Sinh, the Slumbering Dragon": [
+          "Sinh, the Slumbering Dragon",
+          "Soul of Sinh, the Slumbering Dragon"
+        ],
+        "Dragon Shrine": [
+          "Dragon Shrine"
+        ],
+        "Shulva, Sanctum City": [
+          "Shulva, Sanctum City"
+        ],
+        "Dragon Aerie": [
+          "Dragon Aerie"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q059": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Fume Knight": [
+          "Fume Knight",
+          "Soul of the Fume Knight"
+        ],
+        "Raime": [
+          "Raime's Armor",
+          "Raime's Gauntlets",
+          "Raime's Helm",
+          "Raime's Leggings",
+          "Raime's Set"
+        ],
+        "Ashen Idol": [
+          "Ashen Idol"
+        ],
+        "Smelter Wedge": [
+          "Smelter Wedge"
+        ],
+        "Brume Tower": [
+          "Brume Tower"
+        ],
+        "Nadalia, Bride of Ash": [
+          "Nadalia, Bride of Ash",
+          "Soul of Nadalia, Bride of Ash"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q060": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "Looking Glass Knight": [
+          "Looking Glass Knight",
+          "Looking Glass Knight Soul"
+        ],
+        "Drangleic Castle": [
+          "Drangleic Castle"
+        ],
+        "King's Mirror": [
+          "King's Mirror"
+        ],
+        "Lightning (Dark Souls II)": [
+          "Lightning (Dark Souls II)",
+          "Great Lightning Spear (Dark Souls II)",
+          "Lightning Bolt (Dark Souls II)",
+          "Lightning Spear (Dark Souls II)"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q061": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Sister Friede": [
+          "Sister Friede",
+          "Soul of Sister Friede"
+        ],
+        "Father Ariandel": [
+          "Father Ariandel"
+        ],
+        "Ashes of Ariandel": [
+          "Ashes of Ariandel"
+        ],
+        "Soul of Sister Friede": [
+          "Soul of Sister Friede"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q062": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "The Nameless King": [
+          "The Nameless King",
+          "Soul of the Nameless King"
+        ],
+        "Archdragon Peak": [
+          "Archdragon Peak"
+        ],
+        "Lightning": [
+          "Dragonslayer Lightning Arrow",
+          "Great Lightning Spear (Dark Souls III)",
+          "Lightning (Dark Souls III)",
+          "Lightning Arrow (Dark Souls III)",
+          "Lightning Blade"
+        ],
+        "Soul of the Nameless King": [
+          "Soul of the Nameless King"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q063": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Slave Knight Gael": [
+          "Slave Knight Gael",
+          "Soul of Slave Knight Gael"
+        ],
+        "Filianore": [
+          "Filianore",
+          "Filianore's Spear Ornament",
+          "Sacred Chime of Filianore",
+          "Shira, Knight of Filianore"
+        ],
+        "The Ringed City": [
+          "The Ringed City",
+          "Loincloth (The Ringed City)",
+          "The Ringed City (Location)"
+        ],
+        "Ashes of Ariandel": [
+          "Ashes of Ariandel"
+        ],
+        "Soul of Slave Knight Gael": [
+          "Soul of Slave Knight Gael"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q064": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Dancer of the Boreal Valley": [
+          "Dancer of the Boreal Valley"
+        ],
+        "Vordt of the Boreal Valley": [
+          "Vordt of the Boreal Valley"
+        ],
+        "Irithyll of the Boreal Valley": [
+          "Irithyll of the Boreal Valley"
+        ],
+        "Dark Gem": [
+          "Dark Gem"
+        ],
+        "Fire Gem": [
+          "Fire Gem"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q065": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Parameter Bonus": [
+          "Parameter Bonus"
+        ],
+        "Strength (Dark Souls)": [
+          "Strength (Dark Souls)"
+        ],
+        "Dexterity (Dark Souls)": [
+          "Dexterity (Dark Souls)"
+        ],
+        "Weapon Types (Dark Souls)": [
+          "Weapon Types (Dark Souls)"
+        ],
+        "Weapon Augmentation": [
+          "Weapon Augmentation"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q066": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Strength (Dark Souls)": [
+          "Strength (Dark Souls)"
+        ],
+        "Dexterity (Dark Souls)": [
+          "Dexterity (Dark Souls)"
+        ],
+        "Vitality (Dark Souls)": [
+          "Vitality (Dark Souls)"
+        ],
+        "Endurance (Dark Souls)": [
+          "Endurance (Dark Souls)"
+        ],
+        "Great Club": [
+          "Great Club"
+        ],
+        "Zweihander": [
+          "Zweihander",
+          "Chester's Black Zweihander"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q067": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Refined Gem": [
+          "Refined Gem"
+        ],
+        "Heavy Gem": [
+          "Heavy Gem"
+        ],
+        "Sharp Gem": [
+          "Sharp Gem"
+        ],
+        "Strength (Dark Souls III)": [
+          "Strength (Dark Souls III)"
+        ],
+        "Dexterity (Dark Souls III)": [
+          "Dexterity (Dark Souls III)"
+        ],
+        "Infusion (Dark Souls III)": [
+          "Infusion (Dark Souls III)"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q068": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "5 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 5,
+      "resolved_entities": {
+        "Intelligence (Dark Souls III)": [
+          "Intelligence (Dark Souls III)"
+        ],
+        "Faith (Dark Souls III)": [
+          "Faith (Dark Souls III)"
+        ],
+        "Sorcery (Dark Souls III)": [
+          "Sorcery (Dark Souls III)"
+        ],
+        "Miracle (Dark Souls III)": [
+          "Miracle (Dark Souls III)"
+        ],
+        "Court Sorcerer's Staff": [
+          "Court Sorcerer's Staff"
+        ],
+        "Cleric's Sacred Chime (Dark Souls III)": [
+          "Cleric's Sacred Chime (Dark Souls III)"
+        ],
+        "Pyromancy (Dark Souls III)": [
+          "Pyromancy (Dark Souls III)",
+          "Pyromancy Flame (Dark Souls III)",
+          "Pyromancy Flames (Dark Souls III)"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q069": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Adaptability": [
+          "Adaptability"
+        ],
+        "Attunement (Dark Souls II)": [
+          "Attunement (Dark Souls II)"
+        ],
+        "Equip Load": [
+          "Equip Load"
+        ],
+        "Vigor": [
+          "Vigor"
+        ],
+        "Endurance (Dark Souls II)": [
+          "Endurance (Dark Souls II)"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q070": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "Vitality (Dark Souls III)": [
+          "Vitality (Dark Souls III)"
+        ],
+        "Endurance (Dark Souls III)": [
+          "Endurance (Dark Souls III)"
+        ],
+        "Havel's Ring (Dark Souls III)": [
+          "Havel's Ring (Dark Souls III)"
+        ],
+        "Ring of Favor": [
+          "Ring of Favor"
+        ],
+        "Chloranthy Ring (Dark Souls III)": [
+          "Chloranthy Ring (Dark Souls III)"
+        ],
+        "Havel's Set (Dark Souls III)": [
+          "Havel's Set (Dark Souls III)"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q071": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "Infusion (Dark Souls III)": [
+          "Infusion (Dark Souls III)"
+        ],
+        "Heavy Gem": [
+          "Heavy Gem"
+        ],
+        "Sharp Gem": [
+          "Sharp Gem"
+        ],
+        "Refined Gem": [
+          "Refined Gem"
+        ],
+        "Raw Gem": [
+          "Raw Gem"
+        ],
+        "Strength (Dark Souls III)": [
+          "Strength (Dark Souls III)"
+        ],
+        "Dexterity (Dark Souls III)": [
+          "Dexterity (Dark Souls III)"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q072": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "Sorcery": [
+          "Sorcery (Dark Souls)",
+          "Sorcery (Dark Souls II)",
+          "Sorcery Clutch Ring",
+          "Sorcery (Dark Souls III)"
+        ],
+        "Pyromancy": [
+          "Pyromancy (Dark Souls)",
+          "Pyromancy Flame",
+          "Pyromancy Flame (ascended)",
+          "Dark Pyromancy Flame",
+          "Pyromancy (Dark Souls II)"
+        ],
+        "Miracle": [
+          "Miracle (Dark Souls)",
+          "Miracle Synergy",
+          "Miracle (Dark Souls II)",
+          "Miracle (Dark Souls III)"
+        ],
+        "Intelligence": [
+          "Intelligence (Dark Souls)",
+          "Intelligence (Dark Souls II)",
+          "Intelligence (Dark Souls III)"
+        ],
+        "Faith": [
+          "Faith (Dark Souls)",
+          "Faith (Dark Souls II)",
+          "Faith (Dark Souls III)"
+        ],
+        "Attunement": [
+          "Attunement (Dark Souls)",
+          "Attunement (Dark Souls II)",
+          "Attunement (Dark Souls III)"
+        ],
+        "Catalyst": [
+          "Beatrice's Catalyst",
+          "Demon's Catalyst",
+          "Izalith Catalyst",
+          "Logan's Catalyst",
+          "Manus Catalyst"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q073": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "Poise (Dark Souls III)": [
+          "Poise (Dark Souls III)"
+        ],
+        "Hyper Armor": [
+          "Hyper Armor"
+        ],
+        "Armor (Dark Souls III)": [
+          "Armor (Dark Souls III)",
+          "Alva Armor (Dark Souls III)",
+          "Armor of Thorns (Dark Souls III)",
+          "Armor of the Sun (Dark Souls III)",
+          "Black Iron Armor (Dark Souls III)"
+        ],
+        "Weapon": [
+          "Blessed Weapon",
+          "Crystal Magic Weapon (Dark Souls III)",
+          "Frozen Weapon",
+          "Great Magic Weapon (Dark Souls III)",
+          "Hidden Weapon (Dark Souls III)"
+        ],
+        "Attack": [
+          "Critical attack",
+          "Plunging attack"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q074": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "Hollow Gem": [
+          "Hollow Gem"
+        ],
+        "Luck": [
+          "Luck"
+        ],
+        "Hollowing": [
+          "Hollowing"
+        ],
+        "Bleed (Dark Souls III)": [
+          "Bleed (Dark Souls III)"
+        ],
+        "Carthus Rouge": [
+          "Carthus Rouge"
+        ],
+        "Blood Gem": [
+          "Blood Gem"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q075": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "Undead Burg": [
+          "Undead Burg"
+        ],
+        "Undead Parish": [
+          "Undead Parish"
+        ],
+        "Blighttown": [
+          "Blighttown",
+          "Blighttown Key"
+        ],
+        "Sen's Fortress": [
+          "Sen's Fortress"
+        ],
+        "Anor Londo": [
+          "Anor Londo"
+        ],
+        "Lordvessel": [
+          "Lordvessel"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q076": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "The Great Hollow": [
+          "The Great Hollow"
+        ],
+        "Ash Lake": [
+          "Ash Lake"
+        ],
+        "Blighttown": [
+          "Blighttown",
+          "Blighttown Key"
+        ],
+        "Gaping Dragon": [
+          "Gaping Dragon"
+        ],
+        "Stone Dragon": [
+          "Stone Dragon",
+          "Dragon Head Stone",
+          "Dragon Torso Stone"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q077": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Shrine of Winter": [
+          "Shrine of Winter"
+        ],
+        "King's Ring": [
+          "King's Ring"
+        ],
+        "Giant's Kinship": [
+          "Giant's Kinship"
+        ],
+        "Lost Sinner": [
+          "Lost Sinner",
+          "Lost Sinner's Sword",
+          "Soul of the Lost Sinner"
+        ],
+        "Old Iron King": [
+          "Old Iron King",
+          "Crown of the Old Iron King",
+          "Crown of the Old Iron King (helm)",
+          "Memory of the Old Iron King",
+          "Old Iron King Soul"
+        ],
+        "The Rotten": [
+          "The Rotten",
+          "Soul of the Rotten"
+        ],
+        "The Duke's Dear Freja": [
+          "The Duke's Dear Freja",
+          "Soul of the Duke's Dear Freja"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q078": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "Lucatiel of Mirrah": [
+          "Lucatiel of Mirrah"
+        ],
+        "Bearer of the Curse": [
+          "Bearer of the Curse"
+        ],
+        "No-man's Wharf": [
+          "No-man's Wharf"
+        ],
+        "The Lost Bastille": [
+          "The Lost Bastille"
+        ],
+        "Aldia's Keep": [
+          "Aldia's Keep"
+        ],
+        "Mirrah Greatsword": [
+          "Mirrah Greatsword",
+          "Old Mirrah Greatsword"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q079": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Anri of Astora": [
+          "Anri of Astora"
+        ],
+        "Horace the Hushed": [
+          "Horace the Hushed"
+        ],
+        "Yuria of Londor": [
+          "Yuria of Londor"
+        ],
+        "Dark Sigil": [
+          "Dark Sigil"
+        ],
+        "Londor": [
+          "Londor",
+          "Londor Braille Divine Tome",
+          "Londor Pale Shade",
+          "Old Woman of Londor",
+          "Yoel of Londor"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q080": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Siegward of Catarina": [
+          "Siegward of Catarina"
+        ],
+        "Undead Settlement": [
+          "Undead Settlement",
+          "Giant Archer of the Undead Settlement",
+          "Greirat of the Undead Settlement"
+        ],
+        "Irithyll Dungeon": [
+          "Irithyll Dungeon"
+        ],
+        "Yhorm the Giant": [
+          "Yhorm the Giant",
+          "Soul of Yhorm the Giant"
+        ],
+        "Storm Ruler": [
+          "Storm Ruler"
+        ],
+        "Catarina Set (Dark Souls III)": [
+          "Catarina Set (Dark Souls III)"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q081": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "Painted World of Ariamis": [
+          "Painted World of Ariamis"
+        ],
+        "Peculiar Doll": [
+          "Peculiar Doll"
+        ],
+        "Anor Londo": [
+          "Anor Londo"
+        ],
+        "Crossbreed Priscilla": [
+          "Crossbreed Priscilla"
+        ],
+        "Dark Ember": [
+          "Dark Ember"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q082": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Archdragon Peak": [
+          "Archdragon Peak"
+        ],
+        "The Nameless King": [
+          "The Nameless King",
+          "Soul of the Nameless King"
+        ],
+        "Oceiros, the Consumed King": [
+          "Oceiros, the Consumed King"
+        ],
+        "Consumed King's Garden": [
+          "Consumed King's Garden"
+        ],
+        "Ancient Wyvern": [
+          "Ancient Wyvern"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q083": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "Lord Soul": [
+          "Lord Soul",
+          "Bequeathed Lord Soul Shard",
+          "Soul of Gwyn, Lord of Cinder"
+        ],
+        "Seath the Scaleless": [
+          "Seath the Scaleless"
+        ],
+        "Four Kings": [
+          "Four Kings",
+          "Four Kings Sword"
+        ],
+        "Gravelord Nito": [
+          "Gravelord Nito"
+        ],
+        "Bed of Chaos": [
+          "Bed of Chaos"
+        ],
+        "Lordvessel": [
+          "Lordvessel"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q084": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Small Doll": [
+          "Small Doll"
+        ],
+        "Deacons of the Deep": [
+          "Deacons of the Deep",
+          "Soul of the Deacons of the Deep"
+        ],
+        "Cathedral of the Deep": [
+          "Cathedral of the Deep"
+        ],
+        "Irithyll of the Boreal Valley": [
+          "Irithyll of the Boreal Valley"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q085": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "Upgrade Materials": [
+          "Upgrade Materials"
+        ],
+        "Titanite Shard": [
+          "Titanite Shard",
+          "Green Titanite Shard",
+          "Large Titanite Shard",
+          "Large Titanite Shard (Dark Souls II)",
+          "Titanite Shard (Dark Souls II)"
+        ],
+        "Titanite Slab": [
+          "Titanite Slab",
+          "Blue Titanite Slab",
+          "Red Titanite Slab",
+          "White Titanite Slab",
+          "Titanite Slab (Dark Souls II)"
+        ],
+        "Twinkling Titanite": [
+          "Twinkling Titanite",
+          "Twinkling Titanite (Dark Souls II)",
+          "Twinkling Titanite (Dark Souls III)"
+        ],
+        "Dragon Scale": [
+          "Dragon Scale",
+          "Dragon Scale (Dark Souls II)"
+        ],
+        "Infusion (Dark Souls III)": [
+          "Infusion (Dark Souls III)"
+        ],
+        "Weapon Augmentation": [
+          "Weapon Augmentation"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q086": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Moonlight Greatsword (Dark Souls)": [
+          "Moonlight Greatsword (Dark Souls)",
+          "Moonlight Greatsword (Dark Souls II)",
+          "Moonlight Greatsword (Dark Souls III)"
+        ],
+        "Seath the Scaleless": [
+          "Seath the Scaleless"
+        ],
+        "Darklurker": [
+          "Darklurker",
+          "Darklurker Soul"
+        ],
+        "Oceiros, the Consumed King": [
+          "Oceiros, the Consumed King"
+        ],
+        "Intelligence": [
+          "Intelligence (Dark Souls)",
+          "Intelligence (Dark Souls II)",
+          "Intelligence (Dark Souls III)"
+        ],
+        "Dexterity": [
+          "Dexterity (Dark Souls)",
+          "Dexterity (Dark Souls II)",
+          "Dexterity Ring",
+          "Dexterity (Dark Souls III)"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q087": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Estus Flask (Dark Souls)": [
+          "Estus Flask (Dark Souls)"
+        ],
+        "Fire Keeper Soul": [
+          "Fire Keeper Soul"
+        ],
+        "Firelink Shrine": [
+          "Firelink Shrine"
+        ],
+        "Undead Parish": [
+          "Undead Parish"
+        ],
+        "Quelaag's Domain": [
+          "Quelaag's Domain"
+        ],
+        "New Londo Ruins": [
+          "New Londo Ruins",
+          "Key to New Londo Ruins"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q088": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "Covetous Silver Serpent Ring": [
+          "Covetous Silver Serpent Ring"
+        ],
+        "Covetous Gold Serpent Ring": [
+          "Covetous Gold Serpent Ring"
+        ],
+        "Item Discovery": [
+          "Item Discovery"
+        ],
+        "Sen's Fortress": [
+          "Sen's Fortress"
+        ],
+        "Tomb of the Giants": [
+          "Tomb of the Giants"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q089": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "5 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 5,
+      "resolved_entities": {
+        "Ring of Favor and Protection": [
+          "Ring of Favor and Protection"
+        ],
+        "Havel's Ring": [
+          "Havel's Ring"
+        ],
+        "Cloranthy Ring": [
+          "Cloranthy Ring"
+        ],
+        "Equipment Load (Dark Souls)": [
+          "Equipment Load (Dark Souls)"
+        ],
+        "Stamina (Dark Souls)": [
+          "Stamina (Dark Souls)"
+        ],
+        "Vitality (Dark Souls)": [
+          "Vitality (Dark Souls)"
+        ],
+        "Endurance (Dark Souls)": [
+          "Endurance (Dark Souls)"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q090": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "Infusion (Dark Souls III)": [
+          "Infusion (Dark Souls III)"
+        ],
+        "Gold Pine Resin (Dark Souls III)": [
+          "Gold Pine Resin (Dark Souls III)"
+        ],
+        "Charcoal Pine Resin (Dark Souls III)": [
+          "Charcoal Pine Resin (Dark Souls III)"
+        ],
+        "Lightning Blade": [
+          "Lightning Blade"
+        ],
+        "Dark Blade": [
+          "Dark Blade",
+          "Blade of the Darkmoon (Dark Souls III)",
+          "Chaos Blade (Dark Souls III)",
+          "Darkmoon Blade (Dark Souls III)"
+        ],
+        "Spell Buff": [
+          "Spell Buff"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q091": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "Covenant of Artorias": [
+          "Covenant of Artorias"
+        ],
+        "Four Kings": [
+          "Four Kings",
+          "Four Kings Sword"
+        ],
+        "Abyss": [
+          "Abyss",
+          "Abyss Attack Dog",
+          "Abyss Greatsword",
+          "Artorias of the Abyss",
+          "Chasm of the Abyss"
+        ],
+        "Great Grey Wolf Sif": [
+          "Great Grey Wolf Sif"
+        ],
+        "New Londo Ruins": [
+          "New Londo Ruins",
+          "Key to New Londo Ruins"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q092": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "Lightning Spear": [
+          "Lightning Spear",
+          "Great Lightning Spear"
+        ],
+        "Sunlight Spear": [
+          "Sunlight Spear"
+        ],
+        "Warrior of Sunlight": [
+          "Warrior of Sunlight"
+        ],
+        "Faith (Dark Souls)": [
+          "Faith (Dark Souls)"
+        ],
+        "Soul of Gwyn, Lord of Cinder": [
+          "Soul of Gwyn, Lord of Cinder"
+        ],
+        "Covenant": [
+          "Covenant",
+          "Cat Covenant Ring",
+          "Covenant of Artorias",
+          "Darkmoon Blade Covenant Ring",
+          "Darkwraith (covenant)"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q093": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "Estus Flask": [
+          "Estus Flask (Dark Souls)",
+          "Estus Flask (Dark Souls II)",
+          "Estus Flask Shard",
+          "Ashen Estus Flask",
+          "Estus Flask (Dark Souls III)"
+        ],
+        "Estus Flask Shard": [
+          "Estus Flask Shard"
+        ],
+        "Undead Bone Shard": [
+          "Undead Bone Shard"
+        ],
+        "Lifegem": [
+          "Lifegem",
+          "Old Radiant Lifegem",
+          "Radiant Lifegem"
+        ],
+        "Human Effigy": [
+          "Human Effigy"
+        ],
+        "Divine Blessing": [
+          "Divine Blessing",
+          "Divine Blessing (Dark Souls II)",
+          "Divine Blessing (Dark Souls III)"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q094": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "Warrior of Sunlight": [
+          "Warrior of Sunlight",
+          "Warrior of Sunlight (Dark Souls III)",
+          "Warrior of Sunlight (item)"
+        ],
+        "Way of Blue": [
+          "Way of Blue",
+          "Way of Blue (Dark Souls III)",
+          "Way of Blue (item)"
+        ],
+        "Darkwraith": [
+          "Darkwraith (covenant)",
+          "Darkwraith (enemy)",
+          "Darkwraith (Dark Souls III)"
+        ],
+        "Blade of the Darkmoon": [
+          "Blade of the Darkmoon",
+          "Blade of the Darkmoon (Dark Souls III)",
+          "Blade of the Darkmoon (item)"
+        ],
+        "Bell Keepers": [
+          "Bell Keepers"
+        ],
+        "Aldrich Faithful": [
+          "Aldrich Faithful",
+          "Aldrich Faithful (item)"
+        ],
+        "Watchdogs of Farron": [
+          "Watchdogs of Farron",
+          "Watchdogs of Farron (item)"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q095": {
+      "flags": [],
+      "must_fix": false,
+      "compound_clauses": 3,
+      "resolved_entities": {
+        "White Sign Soapstone": [
+          "White Sign Soapstone",
+          "Small White Sign Soapstone",
+          "White Sign Soapstone (Dark Souls II)",
+          "White Sign Soapstone (Dark Souls III)"
+        ],
+        "Red Sign Soapstone": [
+          "Red Sign Soapstone",
+          "Red Sign Soapstone (Dark Souls II)",
+          "Red Sign Soapstone (Dark Souls III)"
+        ],
+        "Humanity (item)": [
+          "Humanity (item)"
+        ],
+        "Human Effigy": [
+          "Human Effigy"
+        ],
+        "Ember": [
+          "Chaos Flame Ember",
+          "Crystal Ember",
+          "Dark Ember",
+          "Divine Ember",
+          "Ember (Tool)"
+        ],
+        "Covenant": [
+          "Covenant",
+          "Cat Covenant Ring",
+          "Covenant of Artorias",
+          "Darkmoon Blade Covenant Ring",
+          "Darkwraith (covenant)"
+        ],
+        "Warrior of Sunlight": [
+          "Warrior of Sunlight",
+          "Warrior of Sunlight (Dark Souls III)",
+          "Warrior of Sunlight (item)"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q096": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "Parry": [
+          "Parry and Riposte",
+          "Parry and Riposte (Dark Souls II)",
+          "Parry and Riposte (Dark Souls III)",
+          "Spell Parry"
+        ],
+        "Backstab": [
+          "Backstab"
+        ],
+        "Guard Break": [
+          "Guard Break"
+        ],
+        "Riposte": [
+          "Parry and Riposte",
+          "Parry and Riposte (Dark Souls II)",
+          "Parry and Riposte (Dark Souls III)"
+        ],
+        "Shield": [
+          "Balder Shield",
+          "Black Knight Shield",
+          "Bonewheel Shield",
+          "Caduceus Kite Shield",
+          "Caduceus Round Shield"
+        ],
+        "Poise": [
+          "Poise (Dark Souls)",
+          "Poise (Dark Souls II)",
+          "Poise (Dark Souls III)"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q097": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "New Game Plus": [
+          "New Game Plus",
+          "New Game Plus (Dark Souls II)",
+          "New Game Plus (Dark Souls III)"
+        ],
+        "Bonfire": [
+          "Bonfire (Dark Souls)",
+          "Bonfire (Dark Souls II)",
+          "Bonfire Ascetic",
+          "Bonfire (Dark Souls III)"
+        ],
+        "Boss Soul": [
+          "Boss Soul Items (Dark Souls II)",
+          "Boss Soul Items (Dark Souls III)"
+        ],
+        "Titanite Slab": [
+          "Titanite Slab",
+          "Blue Titanite Slab",
+          "Red Titanite Slab",
+          "White Titanite Slab",
+          "Titanite Slab (Dark Souls II)"
+        ],
+        "Covenant": [
+          "Covenant",
+          "Cat Covenant Ring",
+          "Covenant of Artorias",
+          "Darkmoon Blade Covenant Ring",
+          "Darkwraith (covenant)"
+        ],
+        "Upgrade Materials": [
+          "Upgrade Materials"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q098": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "5 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 5,
+      "resolved_entities": {
+        "Stone Dragon": [
+          "Stone Dragon",
+          "Dragon Head Stone",
+          "Dragon Torso Stone",
+          "Dragon Head Stone (Dark Souls II)",
+          "Dragon Stone"
+        ],
+        "Seath the Scaleless": [
+          "Seath the Scaleless"
+        ],
+        "Ancient Dragon": [
+          "Ancient Dragon",
+          "Ancient Dragon Seal",
+          "Ancient Dragon Soul",
+          "Ancient Dragon Greatshield"
+        ],
+        "The Nameless King": [
+          "The Nameless King",
+          "Soul of the Nameless King"
+        ],
+        "Archdragon Peak": [
+          "Archdragon Peak"
+        ],
+        "Gwyn, Lord of Cinder": [
+          "Soul of Gwyn, Lord of Cinder",
+          "Gwyn, Lord of Cinder"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q099": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "4 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 4,
+      "resolved_entities": {
+        "The Ringed City": [
+          "The Ringed City",
+          "Loincloth (The Ringed City)",
+          "The Ringed City (Location)"
+        ],
+        "Slave Knight Gael": [
+          "Slave Knight Gael",
+          "Soul of Slave Knight Gael"
+        ],
+        "Pygmy Lord": [
+          "Pygmy Lord"
+        ],
+        "Ringed City Pygmy": [
+          "Ringed City Pygmy"
+        ],
+        "Filianore": [
+          "Filianore",
+          "Filianore's Spear Ornament",
+          "Sacred Chime of Filianore",
+          "Shira, Knight of Filianore"
+        ],
+        "The Painter": [
+          "The Painter"
+        ]
+      },
+      "unresolved_entities": []
+    },
+    "q100": {
+      "flags": [
+        {
+          "code": "compound_question",
+          "detail": "5 coordinated clauses",
+          "must_fix": false
+        }
+      ],
+      "must_fix": false,
+      "compound_clauses": 5,
+      "resolved_entities": {
+        "Age of Dark": [
+          "Age of Dark"
+        ],
+        "Age of Fire": [
+          "Age of Fire"
+        ],
+        "Lords of Cinder": [
+          "Lords of Cinder"
+        ],
+        "Bearer of the Curse": [
+          "Bearer of the Curse"
+        ],
+        "Throne of Want": [
+          "Throne of Want"
+        ],
+        "Ashen One": [
+          "Ashen One"
+        ],
+        "Aldia, Scholar of the First Sin": [
+          "Aldia, Scholar of the First Sin"
+        ]
+      },
+      "unresolved_entities": []
+    }
+  },
+  "must_fix": 0,
+  "ok": true
+}

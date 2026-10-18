@@ -1,0 +1,1873 @@
+[
+  {
+    "document_id": "59017915-8f59-5199-b41a-267c072f2cea",
+    "title": "Abyss Attack Dog",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Abyss Attack Dog -  Dark Souls - enemy - lead \n lead : **Abyss Attack Dogs** are enemies in *Dark Souls*. They can only be found in the Artorias of the Abyss DLC.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ad71548b-e936-500e-8970-c76142083baf",
+    "title": "Abyss Attack Dog",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Abyss Attack Dog -  Dark Souls - enemy - location \n location : They are encountered in an isolated area of the Royal Wood within Oolacile, along the river leading to Black Dragon Kalameet.",
+    "sources": [
+      "template",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.617669223702876
+  },
+  {
+    "document_id": "cfaf4b87-7c3c-5427-bf80-adb6fb449f1e",
+    "title": "Abyss Attack Dog",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Abyss Attack Dog -  Dark Souls - enemy - description \n description : Abyss Attack Dogs are similar in appearance and behavior to Attack Dogs.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "141552e5-ba93-5b53-9afd-91cfef36c768",
+    "title": "Abyss Greatsword",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Unusual for a weapon, the Abyss Greatsword has fairly good magic resistance, although most shields are still preferable.\n\nLike Chaos weapons, the Abyss Greatsword scales with Humanity (up to 10). When fully upgraded, with 10 Humanity, and 40/40 in Strength and Dexterity, the Abyss Greatsword deals the most raw physical damage among all of the Greatsword class weapons, beaten only by ultra greatswords and Great Hammers/Axes in this regard. This damage difference is not significant and when factoring in that Abyss Greatsword cannot be buffed, other weapons are capable of vastly out performing this sword without putting points into two different casting stats.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2f8fff4d-7e70-5bcb-af09-e434475ce469",
+    "title": "Abyss Greatsword",
+    "section": "scaling_percentages",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Abyss Greatsword -  Dark Souls - weapon - scaling_percentages \n scaling_percentages : ***Strength - 55%**\n***Dexterity - 55%**\n***Intelligence - 0%**\n* **Faith - 0%**",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4f7faab6-151c-5b65-8d6f-c260770d9708",
+    "title": "Abyss Greatsword",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "If one does not meet the Intelligence and Faith requirements but still meet the required Strength and Dexterity, they will still be able to do full damage with the sword, but, will get a stagger animation that makes them immune to backstabs. This occurs because since the Intelligence and Faith requirements don't actually affect the damage output, but rather the Strength and Dexterity, they can completely disregard investing to get the Intelligence and Faith stats to 18. However, the drawback to this is that it will not allow one to do any follow ups, as once this sword makes contact, it will bounce off, stopping the user from doing anything for a few seconds.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9260cee5-8e3a-5aac-b78d-5b14f18fcebc",
+    "title": "Abyss Greatsword",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Abyss Greatsword -  Dark Souls - weapon - characteristics \n characteristics : Compared to its Greatsword of Artorias' true version, the Abyss Greatsword has a distinct moveset, lower stat requirements, weighs one unit less, has a heavily deteriorated appearance, and deals purely physical damage. The strong attacks are reminiscent of those performed by Artorias himself. Despite requiring 18 Faith and Intelligence, the Abyss Greatsword does not scale off of these parameters. This should discourage most builds from utilizing this weapon.\n\nUnusual for a weapon, the Abyss Greatsword has fairly good magic resistance, although most shields are still preferable.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a3c3640d-2a14-5b06-890f-1286f72d24b7",
+    "title": "Abyss Greatsword",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Abyss Greatsword -  Dark Souls - weapon - description \n description : This greatsword belonged to Lord Gwyn's Knight Artorias, who fell to the abyss.\n\nSwallowed by the Dark with its master, this sword is tainted by the abyss, and now its strength reflects its wielder's humanity.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ac6500df-62c4-5b6d-badd-b53d9a0ed902",
+    "title": "Abyss Greatsword",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Abyss Greatsword -  Dark Souls - weapon - availability \n availability : The Abyss Greatsword is created by ascending any Standard +10 greatsword, ultra greatsword, straight sword (other than the Broken Straight Sword or Straight Sword Hilt) or dagger at the Giant Blacksmith in Anor Londo with the Soul of Artorias and 5,000 souls.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cbf8ccb7-9941-5424-a039-d12fcb6d7318",
+    "title": "Abyss Greatsword",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Abyss Greatsword -  Dark Souls - weapon - lead \n lead : The **Abyss Greatsword** is a boss soul weapon and greatsword in *Dark Souls*. It was introduced in the *Artorias of the Abyss* DLC.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0e6f60db-1bc1-5fea-9a26-91ed62d53fea",
+    "title": "Armor of Artorias",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Armor of Artorias -  Dark Souls - armor - lead \n lead : The **Armor of Artorias** is a chest armor piece in *Dark Souls*. It is part of Set of Artorias, and only available in the *Artorias of the Abyss* DLC.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "116a4e56-8544-578a-b553-5d81e3634462",
+    "title": "Armor of Artorias",
+    "section": "upgrades",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Armor of Artorias -  Dark Souls - armor - upgrades \n upgrades : Requires 200 souls per upgrade.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1de0b70f-18e0-5ac4-aa81-f74d5c16dd08",
+    "title": "Armor of Artorias",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Armor of Artorias -  Dark Souls - armor - availability \n availability : Sold by Domhnall of Zena for 20,000 souls after defeating Knight Artorias.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a736b1d8-4ad0-54b1-9175-e4e457d0a4bc",
+    "title": "Armor of Artorias",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Armor of Artorias -  Dark Souls - armor - description \n description : Armor of Artorias the Abysswalker, one of Gwyn's four knights.\n\nThe death of the armor's owner can be surmised from the corrosive Dark of the Abyss, and the tattered azure-blue cape, once a symbol of pride and glory.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4ef5e30a-45de-5e12-9bcb-ad05797c3c01",
+    "title": "Artorias of the Abyss",
+    "section": "reaching_oolacile",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Artorias of the Abyss -  Dark Souls - mechanic - reaching_oolacile \n reaching_oolacile : The player must first travel to Darkroot Basin, defeat the Hydra, then defeat the Golden Crystal Golem further in to free Dusk of Oolacile. From there, the player must acquire the Broken Pendant from The Duke's Archives. After acquiring the pendant, a floating dark rift will appear in Darkroot Basin close to where the Gold Golem was encountered, at the very rear of the area. Upon inspection, the player will be transported to Oolacile.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a2de1a94-3dd4-5d13-95ac-0d20e10838d6",
+    "title": "Artorias of the Abyss",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Artorias of the Abyss -  Dark Souls - mechanic - lead \n lead : ***Artorias of the Abyss*** is additional content for the game *Dark Souls*. It was originally released for PC as part of the *Dark Souls: Prepare to Die Edition*, and later for consoles as the eponymous DLC. A console version of the *Prepare to Die Edition* was also released at a later date. The DLC content is also automatically available in the Dark Souls Remastered Editions.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b0122752-465b-5807-ade3-a3e649c8be88",
+    "title": "Artorias of the Abyss",
+    "section": "locations",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Artorias of the Abyss -  Dark Souls - mechanic - locations \n locations : In order of appearance:\nSanctuary Garden\nOolacile Sanctuary\nRoyal Wood\nOolacile Township\nOolacile Township Dungeon\nChasm of the Abyss",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e25da2cc-cfd3-5c53-b396-3b7f140a5db1",
+    "title": "Artorias of the Abyss",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Artorias of the Abyss -  Dark Souls - mechanic - plot \n plot : While everything about *Artorias of the Abyss* is technically optional, the main storyline consists of the Chosen Undead taking the place of Knight Artorias, rescuing Dusk of Oolacile and killing Manus, Father of the Abyss.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f549938f-61fd-500d-a229-47d7fed5f60f",
+    "title": "Artorias of the Abyss",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Artorias of the Abyss -  Dark Souls - mechanic - lore \n lore : Artorias of the Abyss* takes place approximately 200 to 300 years before the events of *Dark Souls*, in the land of Oolacile. It features three of the Four Knights of Gwyn‎. The events of the DLC are also related to the story of *Dark Souls II*, as Nashandra was born from a fragment of Manus' soul.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9cbe9200-ff14-5e7f-8a97-f57f92e3be50",
+    "title": "Battle of Stoicism Gazebo",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Battle of Stoicism Gazebo -  Dark Souls - location - location \n location : It is located right before the Oolacile Township, after the battle with Knight Artorias. It is a small corridor to the right of the path that leads to the township.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b840f1fc-325b-5b1c-a42e-7e84dd39f01b",
+    "title": "Battle of Stoicism Gazebo",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Battle of Stoicism Gazebo -  Dark Souls - location - trivia \n trivia : The is the smallest area of the entire game.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bce2579f-5f23-5eef-b7c8-7e060c43149f",
+    "title": "Battle of Stoicism Gazebo",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Battle of Stoicism Gazebo -  Dark Souls - location - description \n description : The is a very small area that serves only for players to get into the Battle of Stoicism.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d65c8007-3a82-5c45-b03f-240b72acce4a",
+    "title": "Battle of Stoicism Gazebo",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Battle of Stoicism Gazebo -  Dark Souls - location - lead \n lead : The ** ** is a location in *Dark Souls*, available only in the *Artorias of the Abyss* DLC.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1e94b7eb-6d11-5e22-b886-088733527f53",
+    "title": "Black Dragon Kalameet",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Kalameet is resistant to all elements including being resistant to lightning damage (Lightning damage is supposed be effective against dragons but this is not the case, probably because of his peculiar body, so it is best to avoid lightning weapons as well as offensive miracles such as Lightning Spear). Therefore, it is recommended that players use purely physical weapons.\nWith the proper timing, all of Kalameet's attacks can be avoided with fast rolling.\nStrafing to Kalameet's left is generally safest, as it is harder for his often-used Head Strike to hit the player.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5365343789217394,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3837a21d-2708-50fd-b392-e42b01477d6e",
+    "title": "Black Dragon Kalameet",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Black Dragon Kalameet -  Dark Souls - boss - trivia \n trivia : While the crest on Kalameet's head is referred to as an eye and consequentially being called the \"one-eyed black dragon\", Kalameet in fact has two \"normal\" red eyes on either side of his head. This is never addressed in-game.\nIf you kill him without Gough's help, he will have a special Dialogue.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6089526321750806,
+    "bm25_score": 30.44818652328449
+  },
+  {
+    "document_id": "3ade3887-2c6e-5c77-a5ec-474ab9d383e7",
+    "title": "Black Dragon Kalameet",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Black Dragon Kalameet -  Dark Souls - boss - notes \n notes : When arriving at the top of the waterfall for the first time, there will be no fog door.\nIf Kalameet is killed without Gough's help, Gough will have different dialogue towards the player.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.665552910925485,
+    "bm25_score": 40.99315736353501
+  },
+  {
+    "document_id": "42a931d6-8b20-5668-80ca-4b0545a1550d",
+    "title": "Black Dragon Kalameet",
+    "section": "notes_2",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Black Dragon Kalameet -  Dark Souls - boss - notes_2 \n notes_2 : Physical defenses: Regular 156, Slash 156, Strike 136, Thrust 156 (raw entity data, for comparison only)\nElemental defenses: Magic 300, Fire 300, Lightning 254 (raw entity data, for comparison only)\nStatus defenses: Poison 999, Toxic 999, Bleed 333 (raw entity data, for comparison only)",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5418707893043098,
+    "bm25_score": null
+  },
+  {
+    "document_id": "49cdf17e-7d5c-5017-9af5-028156d9bbc7",
+    "title": "Black Dragon Kalameet",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Black Dragon Kalameet -  Dark Souls - boss - location \n location : The player first encounters Kalameet on the second stone bridge in Royal Wood.\n\nKalameet can be confronted opposite the Colosseum where Knight Artorias is fought. Beyond some Abyss Attack Dogs lies a ladder running parallel to a waterfall. Shortly after moving into the clearing, Kalameet will fly through the canyon and breathe black fire at the Chosen Undead. After this attack, speaking to Hawkeye Gough will convince him to shoot down Kalameet, so players can properly engage in battle on the ground. It is not necessary to be struck by the attack in order to receive Gough's help, only that Kalameet performs it.\n\nIt is possible to kill Kalameet without Gough's help. However, doing so will take an inordinately long time and a very large amount of arrows and the player will not receive any souls as a reward.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6489206515727393,
+    "bm25_score": 36.35990549404333
+  },
+  {
+    "document_id": "5bbee582-b6ef-59ee-92e9-81ea581db1e8",
+    "title": "Black Dragon Kalameet",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Black Dragon Kalameet -  Dark Souls - boss - attacks \n attacks : {'name': 'Mark of Calamity', 'description': \"Black Dragon Kalameet's signature move. He will rise on his hind legs while the crest on his head glows intensely and produces a high frequency noise. If captured the player will then levitate in front of Kalameet and receive some damage. Afterwards, the player will have the Mark of Calamity for about 60 seconds, during which they will receive twice as much damage. Players can avoid this by running away as soon as he begins to stand.\"}",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6108300082970889,
+    "bm25_score": 27.582792507897622
+  },
+  {
+    "document_id": "649fb389-8c30-5ce7-8583-e31162dcf7a0",
+    "title": "Black Dragon Kalameet",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Regardless, the Dragon Knights, who wore armor forged from the scales of Kalameet and used weapons created from his tail, persisted, and at some point arrived in Drangleic and settled in the Dragon Shrine. The group of knights would also join the covenant of the Dragon Remnants, apostles who venerated the primordial creatures and desired the perpetuity of their existence, seeking their scales to rise above their limited human existence. This group used the Dragon Eyes to invade the space and time of other knights and challenged them to claim their dragon scales, rewarding the best among them with the stones infused with the powers of the dragons to try to achieve transformation, as well as with the ancient Black Dragon Greatsword forged from Kalameet's tail.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5377388351312771,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6bb4f1af-5e44-5d1b-9588-b8f16627c50e",
+    "title": "Black Dragon Kalameet",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Black Dragon Kalameet -  Dark Souls - boss - dark_souls_iii \n dark_souls_iii : Although the\ncalamitous ring created with the eye of Kalameet had no useful power and was merely hazardous, the artifact was passed down for thousands of years as a symbol of dragon worship. Its most fervent adherents even became convinced that the task of preserving it had been bestowed upon them as a sacred duty.\n\nLike many other artifacts and beings connected to the ancient dragons, the ring of Kalameet also ended up at Archdragon Peak, a place where the remnants of the men-serpents and the dragon worshippers had gathered to venerate the primordial beings and attempted to achieve their perfect shape using stones imbued with the power of everlasting dragons. The ring was thus kept in front of the statue of one of those who, in meditation, had managed to partially achieve the draconic transformation.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5143410078206392,
+    "bm25_score": 25.892074647030043
+  },
+  {
+    "document_id": "7508996c-ccff-5a09-b5b3-05c249df049c",
+    "title": "Black Dragon Kalameet",
+    "section": "killing_without_gough_s_help",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "The left side of the waterfall seems to have more spots with less fire hitboxes (a few spots only have one to block with whatever shield you have).\nThe spells Great Magic Shield and Great Magic Barrier could seriously help in this situation. Great Magic Shield would let you use shields with less stability than Havel's and a lighter weight. Only problem is any time you two hand the bow, Great Magic Shield will disenchant from your shield. Great Magic Barrier could help greatly to null out that residual 10% magic damage that no shield can block down to roughly 1.5-0.5% magic damage, though it has few casts and costs a lot of faith.\nIf you have it and are willing to swap weapons every time you block, the Moonlight Greatsword adds 40 points of magic defense when equipped (and out).",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "aa588157-615c-5271-9cc5-e4fef3a27819",
+    "title": "Black Dragon Kalameet",
+    "section": "summoning",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Black Dragon Kalameet -  Dark Souls - boss - summoning \n summoning : After Gough shoots Kalameet down, the Royal Wood (including the arena where players fought Knight Artorias) becomes Kalameet's summoning area. While white phantoms become available for summoning (usually at the beginning of the Royal Wood, near Oolacile Sanctuary), it means that red phantoms may invade again also.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5961584418252954,
+    "bm25_score": 33.90504065748604
+  },
+  {
+    "document_id": "ae22baf9-5f6a-5428-9687-25d2bdb82152",
+    "title": "Black Dragon Kalameet",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Black Dragon Kalameet -  Dark Souls - boss - dark_souls_ii \n dark_souls_ii : Although Kalameet was defeated and killed, a group of knights found his corpse and used his scales to create armor close to the appearance of the dragon, while they used his talons to craft shields and his tail to forge several legendary weapons. As the centuries passed, the Black Dragon was consigned to mere legend, according which he was defeated by a brave warrior in a magnificent battle and that it was his tail that was used to forge these legendary weapons. In the region of Drangleic the name of Kalameet has been long lost and, while the legend of the pale dragon is told in various locales even if each account is fragmentary, the Black Dragon is rarely mentioned; some even say that it is only an an embellishment adopted in later retellings of the story.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6169123499980174,
+    "bm25_score": 27.05890800189326
+  },
+  {
+    "document_id": "af5cb3e2-13d9-51c7-bbea-879f5fa2d751",
+    "title": "Black Dragon Kalameet",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Black Dragon Kalameet -  Dark Souls - boss - lead \n lead : is a boss in *Dark Souls: Artorias of the Abyss*.",
+    "sources": [
+      "template",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.900765140951123
+  },
+  {
+    "document_id": "b1865113-e3c0-5cf2-bc03-1f64d42f2679",
+    "title": "Black Dragon Kalameet",
+    "section": "theories",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Black Dragon Kalameet -  Dark Souls - boss - theories \n theories : It is possible to theorize that at some point Kalameet was corrupted by the Abyss of Manus, as his body shows signs of corruption with his scales that appear covered in a oily substance and his wings that appear consumed. In addition, his flames deal both magic and physical damage just like abyssal sorceries and pyromancies.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c1d7572e-ce7a-59c7-bc17-6c18cdc2bef6",
+    "title": "Black Dragon Kalameet",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Black Dragon Kalameet -  Dark Souls - boss - strategy \n strategy : One of the most important things to note about Black Dragon Kalameet is that his \"fire breath\" is actually dark sorcery-based. It deals both magic and physical damage and deals high stability damage. As such, instead of fire defense, players should increase their physical and magic defense.\nBlocking Kalameet's fire breath is ill-advised: the magic damage will strike through the shield, damaging the player. Weaker shields will cause the player to have their guard broken, taking more damage than what the player would have initially taken. Only greatshields should be used to block Kalameet's fire breath and only Havel's Greatshield can reliably block it. Other options include the Cleansing Greatshield and the Stone Greatshield, but these can sometimes have their guard broken if the player is not careful in managing their stamina.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6533214051991352,
+    "bm25_score": 28.14582651951467
+  },
+  {
+    "document_id": "c5853238-efc9-54ed-9653-7483202c9bad",
+    "title": "Black Dragon Kalameet",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Black Dragon Kalameet -  Dark Souls - boss - dark_souls \n dark_souls : Kalameet is a descendant of the primordial archdragons.\n\nDue to the appearance of \"Disparity\" and Souls following the ignition of the First Flame that allowed the evolution of life, Kalameet was born with unique characteristics compared to the original archdragons. He possessed a single orange eye, an ability to produce a high frequency noise which made his captured targets twice as vulnerable to damage, and an obsidian hide that made him resistant not only to magic and fire like other dragons, but even lightning which was their primary weakness.\n\nThanks to his extraordinary strength, Kalameet survived the extermination of the Dragons by the Lords during the war and persevered throughout the Age of Fire. At some point, after Oolacile was corrupted by the Abyss of Manus, the dragon took up residence in the area, where not even the mighty warriors left in Anor Londo dared to provoke his ire.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5617026428882625,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cf0fd4a4-966d-5898-80b3-ff3e2c290ad2",
+    "title": "Black Dragon Kalameet",
+    "section": "obsidian_greatsword",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Because the tail is almost always out of reach, it is recommended to use Halberds to cut it, as is with all tails.\nAs with most other boss tail weapons, obtaining the sword can be much easier with the help of a phantom.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e4f954a8-56eb-52dc-a46b-c8e72a944432",
+    "title": "Black Dragon Kalameet",
+    "section": "killing_without_gough_s_help",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Black Dragon Kalameet -  Dark Souls - boss - killing_without_gough_s_help \n killing_without_gough_s_help : Full Havel's Armor or Stone Armor (high poise)\nShield with high Physical and Magic defense and high stability (Havel's Greatshield, Cleansing Greatshield, Stone Greatshield).\nGough's Greatbow (just to kill Kalameet) or Dragonslayer Greatbow (to get special dialogue) with Gough's Great Arrows.\nHawk Ring could help, but only to get farther back, since it just adds range. Better ring choices would be Leo (for counter thrust damage (untested if Kalameet's fire gets counter damage))/Spell Stoneplate (Magic Def if lacking)/Steel Protection (phys def if lacking)/Favor and Protection (Stamina)/Cloranthy (Stamina regen (for low stamina))/Havel's (for that weight you're carrying)/Wolf (if you really think you need max poise).\nThe left side of the waterfall seems to have more spots with less fire hitboxes (a few spots only have one to block with whatever shield you have).",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6732388289738893,
+    "bm25_score": 25.098647631859972
+  },
+  {
+    "document_id": "ecebcc04-629a-581a-a22d-39a8b1d65881",
+    "title": "Black Dragon Kalameet",
+    "section": "killing_without_gough_s_help",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "If you have it and are willing to swap weapons every time you block, the Moonlight Greatsword adds 40 points of magic defense when equipped (and out).\nPower Within would be a little risky for this fight, only good if you really know where to block from and know for sure you will only block one hit from Kalameet's fire, where you will have space to heal and keep yourself topped off.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f832eb62-cc3f-55f5-b54e-d201192dd728",
+    "title": "Black Dragon Kalameet",
+    "section": "obsidian_greatsword",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Black Dragon Kalameet -  Dark Souls - boss - obsidian_greatsword \n obsidian_greatsword : Severing Kalameet's tail and obtaining the Obsidian Greatsword can often prove more challenging than the battle itself, as the dragon's tail is mostly out of reach throughout the fight. His tail has 540 health on Ng and 847 health on NG+.\nThe tail becomes vulnerable to attack after Kalameet performs his Tail Smash, which is triggered when player is positioned under the tip of his tail, or during the Close Range Flame, which is triggered when standing directly in front of him. Of these, the Tail Smash leaves the tail most vulnerable.\n**It is recommended to use high damage attacks such as Great Combustion, Dark Bead, or weapon augmentations when performing this strategy, since it's unlikely to get more than 2 hits per opportunity.\nBecause the tail is almost always out of reach, it is recommended to use Halberds to cut it, as is with all tails.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5663430143756818,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fb3a8400-2cf9-5143-a9c0-941c6c191893",
+    "title": "Black Dragon Kalameet",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "However, at a certain point, a Chosen Undead who ended up in Oolacile challenged the black dragon and after a legendary battle managed to defeat him. From his tail they formed an Obsidian Greatsword infused with the mystical power of the dragon and with his orange eye they created an enchanted ring that doubled the damaged received by its wearer.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "70f421e5-c322-57dc-96b8-8416a7c6d5bf",
+    "title": "Bloathead",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bloathead -  Dark Souls - enemy - lore \n lore : Bloatheads are the disturbed remnants of the populace of Oolacile, whose humanity went out of control after the Dark of Manus, father of the Abyss, overtook them.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "97e17cd7-e1cf-599b-afab-45d19c1b952d",
+    "title": "Bloathead",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bloathead -  Dark Souls - enemy - trivia \n trivia : A Bloathead is killed by Knight Artorias in the intro cinematic before his boss fight.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "da63f528-8d4a-5fcb-804d-2cb424835960",
+    "title": "Bloathead",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bloathead -  Dark Souls - enemy - location \n location : Bloatheads can be found throughout Oolacile Township and the Chasm of the Abyss. One is also located on the elevator in the Oolacile Township Dungeon.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e0e3c9f0-a77e-5454-ad4f-089d659ef9ef",
+    "title": "Bloathead",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bloathead -  Dark Souls - enemy - lead \n lead : **Bloatheads** are enemies in *Dark Souls*. They are only found in the *Artorias of the Abyss* DLC.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fe3bd968-92d9-5e1b-b2ff-3bdf46cb09d8",
+    "title": "Bloathead",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bloathead -  Dark Souls - enemy - description \n description : They have oversized arms, webbed fingers and toes, pale skin, a filthy, mutated head, and are often seen twitching uncontrollably in mindless laughter.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "384821e6-6492-525e-8348-01b7c9213052",
+    "title": "Bloathead Sorcerer",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bloathead Sorcerer -  Dark Souls - enemy - notes \n notes : Poison inflicted by their melee attacks cause 3 damage per second once contracted, while Poison inflicted by their Dark Fog causes about 9.4 damage per second.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5a2f53ac-5236-5d28-bfc8-b6d94ba4915c",
+    "title": "Bloathead Sorcerer",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bloathead Sorcerer -  Dark Souls - enemy - description \n description : There are two kinds of Bloathead Sorcerers: \"normal\" and \"frenzied\". The \"frenzied\" are more aggressive and deal more Magic damage. They can be differentiated by their glowing, red eyes.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6314e28c-c2ba-582e-bb43-7c97e5e8f020",
+    "title": "Bloathead Sorcerer",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bloathead Sorcerer -  Dark Souls - enemy - lead \n lead : **Bloathead Sorcerers**, also known as **Abyss Guards**, are enemies in *Dark Souls.*",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b7b3cb62-3ef3-538a-bfd9-dad6baa95ab7",
+    "title": "Bloathead Sorcerer",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bloathead Sorcerer -  Dark Souls - enemy - lore \n lore : Like Bloatheads, Bloathead Sorcerers were the former denizens of Oolacile, corrupted by Manus' influence. However, Bloathead Sorcerers are female and were once sorcerers.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fa147b1d-2fa9-5b78-8ce7-be14d94c1f34",
+    "title": "Bloathead Sorcerer",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Bloathead Sorcerer -  Dark Souls - enemy - location \n location : Oolacile Township\nChasm of the Abyss",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "300d6f4f-2d65-5ef1-9672-ebde1cd998e3",
+    "title": "Blue Titanite Slab",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Blue Titanite Slab -  Dark Souls - item - general_information \n general_information : Blue Titanite Slabs are used to upgrade ascended weapons down the Magic and Enchanted upgrade paths.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "43410e9a-8205-5099-a421-93613c24f00b",
+    "title": "Blue Titanite Slab",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Blue Titanite Slab -  Dark Souls - item - lead \n lead : **Blue Titanite Slabs** are upgrade materials in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a6e4fd14-7e7d-55b1-aa0f-2e2d709859b1",
+    "title": "Blue Titanite Slab",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Blue Titanite Slab -  Dark Souls - item - description \n description : Blue titanite slab for weapon reinforcement. Legendary Slabs were the domain of the Gods. Reinforces magic weapons to +10, and enchanted weapons to +5.\n\nLegendary Slabs are the heirlooms of a nameless blacksmith deity, who forged the weapons of other Gods. Weapons forged with this slab become rare legendary weapons.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ea05f0eb-11ba-5f04-917e-74510810d6fe",
+    "title": "Blue Titanite Slab",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Blue Titanite Slab -  Dark Souls - item - availability \n availability : Found on a corpse in the Crystal Cave. The corpse is located at the end of a lengthy, narrow, invisible bridge.\nFound in a chest in the Royal Wood. The chest is located in a small puddle of water near the first elevator. It is guarded by two Guardians and numerous Wooden Scarecrows. This is the same location that the Enchanted Ember is found in Darkroot Garden.\nVery rare drop from the respawning Moonlight Butterflies in the Crystal Cave.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1dc02d53-b0d7-5eaf-a5d6-3c448eb83e37",
+    "title": "Broken Pendant",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Broken Pendant -  Dark Souls - item - lead \n lead : The** Broken Pendant** is a key item in *Dark Souls*. It is exclusive to the *Artorias of the Abyss* DLC.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "369fa575-19cb-598e-916f-63588ea58999",
+    "title": "Broken Pendant",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Broken Pendant -  Dark Souls - item - trivia \n trivia : The pendant is mentioned in the description of the Soul of Manus as an item of great importance and the reason for his descent into insanity.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "730124ee-bbd8-5f10-9540-2f7c2c00655a",
+    "title": "Broken Pendant",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Broken Pendant -  Dark Souls - item - availability \n availability : Dropped by a respawning Crystal Golem located near the beginning of The Duke's Archives. The Golem will only drop the pendant if Dusk of Oolacile has been rescued from within the Golden Crystal Golem, which can be found in an alcove past the Hydra in Darkroot Basin. It will only drop if the player talked to Dusk after rescuing her or if Dusk was killed.\n\nThe pendant can be obtained even if the player has killed the Golem prior to rescuing Dusk.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c39e3660-4c58-5b01-b8be-d4803617ee54",
+    "title": "Broken Pendant",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Broken Pendant -  Dark Souls - item - general_information \n general_information : Possessing the Broken Pendant will cause a black portal to spawn at the location where Dusk was rescued, allowing the player to travel back in time, accessing the *Artorias of the Abyss* content.\n\nUpon interaction with the portal, the hand of Manus reaches through time and pulls the player in a violent manner.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e69e5cb1-1257-50c3-8551-0572997cebfd",
+    "title": "Broken Pendant",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Broken Pendant -  Dark Souls - item - description \n description : Half of a broken stone pendant. The vine appears to originate from Oolacile.\n\nA powerful magic can be sensed from this ancient stone. Yet men of this time can neither manipulate nor sense its power, which has a distinct air consisting of both reverence and nostalgia.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "273a1794-5b59-57db-9008-6bab04bc9fb1",
+    "title": "Calamity Ring",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Calamity Ring -  Dark Souls - ring - characteristics \n characteristics : The Calamity Ring doubles the damage the wearer takes. This trait is similar to the effects of Kalameet's grabbing attack.\n\nThere is no intended usefulness to this ring, it only increases the difficulty of the game, although it can be useful for psychological warfare, making the opponent doubt whether one is a novice who does not know better or a skilled expert waiting for unexpecting players to take the bait offered by that added weakness. The best use for this ring is to force yourself to improve your skills faster by constantly having your life on the line.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5fbd5541-d9a9-58f0-b305-5fd90b50fd52",
+    "title": "Calamity Ring",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Calamity Ring -  Dark Souls - ring - availability \n availability : The Calamity Ring is obtained after killing Black Dragon Kalameet.",
+    "sources": [
+      "template",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.208609204337712
+  },
+  {
+    "document_id": "8acaacaf-3223-5c6b-8dfd-105f4a4b1030",
+    "title": "Calamity Ring",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Calamity Ring -  Dark Souls - ring - lead \n lead : The **Calamity Ring** is a ring in *Dark Souls*. It is only available in the *Artorias of the Abyss* additional content.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c7ccf575-6080-5a3f-9eb5-c38971009d3c",
+    "title": "Calamity Ring",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Calamity Ring -  Dark Souls - ring - description \n description : A ring enchanted by the orange eye of Kalameet, the bringer of calamity. Doubles damage received by its wearer.\n\nA useless ring befitting of no finger. Best left unknown, or at least well hidden.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f1644bb3-7012-5dd8-85a6-3fafe990a18d",
+    "title": "Calamity Ring",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Calamity Ring -  Dark Souls - ring - notes \n notes : The Calamity Ring does not increase damage taken from Power Within or from falls.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0eb6db12-07d4-51b3-b43f-01f77ee746a2",
+    "title": "Carvings",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Carvings -  Dark Souls - item - lead \n lead : **Carvings** are a set of miscellaneous items in *Dark Souls*. They are only available in the *Artorias of the Abyss* DLC.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3f8903a6-8733-5389-be53-d2cb48cb25e3",
+    "title": "Carvings",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Carvings -  Dark Souls - item - general_information \n general_information : To use a carving, the player simply drops it. The Carving will utter its eponymous phrase upon hitting the ground (for example, the \"Help Me! Carving\" will say \"Help Me!\"). Similar in function to the Prism Stone, if the player cannot hear the phrase, then the drop is fatal.\n\nCarvings have an unlimited amount of uses.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c50c7505-f481-5db0-b49c-950b24ee844f",
+    "title": "Carvings",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Carvings -  Dark Souls - item - availability \n availability : ***Hello Carving**: Sold by Hawkeye Gough for 5 souls.\n***Help Me! Carving**: Found on a corpse deep in the Chasm of the Abyss.\n***I'm Sorry Carving**: Drops from a specific Bloathead Sorcerer in the Oolacile Township, near where Dark Orb is found.\n***Thank You Carving**: Sold by Hawkeye Gough for 5 souls.\n***Very Good! Carving**: Dropped by a Mimic in Oolacile Township.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d50896ff-0f9a-5598-a169-a02e449176d6",
+    "title": "Carvings",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Carvings -  Dark Souls - item - description \n description : Head carved of archtrees by Gough in his imprisonment. Gough imparts an emotion to each and every completed carving, which helps him achieve personal enlightenment. When a head is disturbed, it speaks, reflecting the emotion conferred to it.\n\nThis head says \"Hello\". Have another look. Do you sense the amicability in its eyes?\n\nHead carved of archtrees by Gough in his imprisonment. Gough imparts an emotion to each and every completed carving, which helps him achieve personal enlightenment. When a head is disturbed, it speaks, reflecting the emotion conferred to it.\n\nThis head says \"Help me!\". Look again. Can you hear the desperate plea?\n\nHead carved of archtrees by Gough in his imprisonment. Gough imparts an emotion to each and every completed carving, which helps him achieve personal enlightenment. When a head is disturbed, it speaks, reflecting the emotion conferred to it.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e07fdfd7-ab43-5dab-bdac-520b7fb44d02",
+    "title": "Carvings",
+    "section": "the_carvings",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Carvings -  Dark Souls - item - the_carvings \n the_carvings : All carvings can be found inside the land of Oolacile. They have all been carved by Hawkeye Gough.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ebc50c85-6af6-51c9-a3e4-dfa946fdca01",
+    "title": "Carvings",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Carvings -  Dark Souls - item - trivia \n trivia : Hawkeye Gough can be seen carving these items once met, and all of their descriptions mention him.\n**The voice heard when dropping a carving is most likely Gough's.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ee2587f6-76be-5d28-be52-7a720fbe2fbb",
+    "title": "Carvings",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "This head says \"I'm Sorry\". Have another look. Isn't that an expression of atonement?\n\nHead carved of archtrees by Gough in his imprisonment. Gough imparts an emotion to each and every completed carving, which helps him achieve personal enlightenment. When a head is disturbed, it speaks, reflecting the emotion conferred to it.\n\nThis head says \"Thank you\". Have another look. Is this not the face of gratitude?\n\nHead carved of archtrees by Gough in his imprisonment. Gough imparts an emotion to each and every completed carving, which helps him achieve personal enlightenment. When a head is disturbed, it speaks, reflecting the emotion conferred to it.\n\nThis head says \"Very Good!\". Have another look. Does it not appear quite jovial?",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "12c434ca-1ff0-55c6-a795-78893b73d395",
+    "title": "Chained Prisoner",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Chained Prisoner -  Dark Souls - enemy - location \n location : One is found guarding the Oolacile Township Dungeon at the end of Oolacile Township.\n\nSeveral red phantom Chained Prisoners spawn in the Chasm of the Abyss when the world has been infected by a Gravelord Servant.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "32935959-5589-53c7-9b24-42a08a4faada",
+    "title": "Chained Prisoner",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Chained Prisoner -  Dark Souls - enemy - lead \n lead : The **Chained Prisoner** is an enemy in *Dark Souls: Artorias of the Abyss*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "57eb95db-4f08-5c81-8cbe-360f3ee37d5d",
+    "title": "Chained Prisoner",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Chained Prisoner -  Dark Souls - enemy - description \n description : A bizarre, swollen mass of filth with legs. It uses a boulder attached to some chains, and a protruding spike as a weapon.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7f56dc08-908e-51e9-8fd8-279a8ec687ec",
+    "title": "Chained Prisoner",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Chained Prisoner -  Dark Souls - enemy - notes \n notes : Like the Fang Boars, the Chained Prisoner is heavily armored, causing weapons to be deflected after each hit.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8d2dc55c-ed13-5cfc-9054-c2b4b276d993",
+    "title": "Chained Prisoner",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Chained Prisoner -  Dark Souls - enemy - strategy \n strategy : The Chained Prisoner is a tough enemy that is resistant to most attacks. A quick way to deal with it is to either avoid it completely, or use Miracles, Sorceries, or Pyromancies.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1d51a74c-97e6-5109-b7b6-08c300755cc7",
+    "title": "Chasm of the Abyss",
+    "section": "sorceries",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Chasm of the Abyss -  Dark Souls - location - sorceries \n sorceries : Dark Bead",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "73413c6c-8fb7-54de-93ee-bae10ec16321",
+    "title": "Hawkeye Gough",
+    "section": "plot",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "His true relevance is revealed once the player discovers Black Dragon Kalameet's whereabouts. After meeting the beast at the gorge, who flys out of reach and breathes fire from up above, returning to Gough will have him ask about the encounter and if the dragon is causing the player trouble. Answering yes to his question, and then to the question after, will make the old knight assist with the hunt, taking up his bow to shoot the dragon out of the sky and forcing him to engage with the player on the ground for a proper battle. Despite this, Gough's involvment is not necessary to kill Kalameet, but beating him differently will result in a slower, more tedious process than just fighting him head on like every other boss beforehand.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.8615061282134271,
+    "bm25_score": 27.454808643985935
+  },
+  {
+    "document_id": "e099e2ae-4f4a-5465-b81a-e623552189c7",
+    "title": "Hawkeye Gough",
+    "section": "plot",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Regardless of how Kalameet is defeated, Gough will reward the player with his personal greatbow, though he needs to be talked to for that to happen. The only way to obtain his set, however, is by slaying him, which can be done at any point. He'll drop the bow too if he hasn't gifted it already.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6780652659223099,
+    "bm25_score": 33.05007783597605
+  },
+  {
+    "document_id": "4f55014a-92e5-5538-9405-e708a624796c",
+    "title": "Dragon",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Black Dragon Kalameet may be encountered as an optional boss in the Royal Wood area of Oolacile and is supposedly the last of the Ancient Dragons. After its defeat, the Black Dragon and its final battle would become mere legend, very rarely mentioned and considered by some to be embellishments of the tale of the Pale Dragon. However, proof of its existence would be left in the form of many items made from its body and passed down by Dragon Worshippers: the Calamity Ring, made from and enchanted by Kalameet's orange eye; the Black Dragon Armor, made from its scales; the strangely-shaped Black Dragon Shield, made from its talons, and several oddly-shaped weapons made from its tail, including a Greataxe, a Warpick, and a Greatsword, the last of which is still capable of releasing its mystical power when wielded with both hands, unleashing an explosion of the gold and black flames of Kalameet. Two other weapons are said to have been crafted from black dragon's tail, though it is unclear",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6394857303280952,
+    "bm25_score": 30.355502176209786
+  },
+  {
+    "document_id": "d22dba44-450e-5e8e-b74a-0e622470d32e",
+    "title": "Hawkeye Gough",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "He witnessed the fall of Oolacile caused by their arrogance and greed, as well as Artorias' failure to quell the Abyss and his demise at the hands of the Chosen Undead. Should the time traveling hero choose to engage the legendary Kalameet, a dragon so fierce not even Anor Londo dared to cross him, Gough could even be allowed one last hunt, firing an impressive shot in spite of his now limited vision, speaking to the true might of the legendary archer. Having done that, though, he'll give away his precious bow, officially leaving that life behind him.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6047086019911965,
+    "bm25_score": null
+  },
+  {
+    "document_id": "577287fa-bf8f-534e-82dd-a8fb181b6e55",
+    "title": "Black Dragon Warpick",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Black Dragon Warpick -  Dark Souls II - weapon - trivia \n trivia : The \"Black Dragon\" referred to in the item description is referring to Black Dragon Kalameet, who can be confronted by the Chosen Undead in *Dark Souls* when they are pulled back in time by Manus, Father of the Abyss.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5966171337124937,
+    "bm25_score": 30.48484424824634
+  },
+  {
+    "document_id": "b2d61522-ac4c-509a-80ff-df4bac1e7b28",
+    "title": "Black Dragon Greataxe",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Black Dragon Greataxe -  Dark Souls II - weapon - trivia \n trivia : The \"Black Dragon\" referred to in the item description is referring to Black Dragon Kalameet, who can be confronted by the Chosen Undead in *Dark Souls* when they are pulled back in time by Father of the Abyss.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.592993679480134,
+    "bm25_score": 30.647855113541393
+  },
+  {
+    "document_id": "bfc71cb4-5e38-5465-afc6-517f00a48f14",
+    "title": "Black Dragon Sword",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Black Dragon Sword -  Dark Souls II - weapon - trivia \n trivia : The \"Black Dragon\" referred to in the item description is referring to Black Dragon Kalameet, who can be confronted by the Chosen Undead in *Dark Souls* when they are pulled back in time by Manus, Father of the Abyss.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5856986722491905,
+    "bm25_score": 30.48484424824634
+  },
+  {
+    "document_id": "64e7ed32-0731-53be-9c69-d9b37f8dd9cf",
+    "title": "Black Dragon Greatsword",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Black Dragon Greatsword -  Dark Souls II - weapon - trivia \n trivia : The Black Dragon referred to in the item description could be referring to Black Dragon Kalameet, who can be confronted by the Chosen Undead in *Dark Souls* when they are pulled back in time by Manus in the *Artorias of the Abyss* DLC.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.577333235662544,
+    "bm25_score": 30.266678105641304
+  },
+  {
+    "document_id": "611a6fb0-0c8d-5c60-9a9f-054be35ac360",
+    "title": "Dragon",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "power when wielded with both hands, unleashing an explosion of the gold and black flames of Kalameet. Two other weapons are said to have been crafted from black dragon's tail, though it is unclear if the dragon in question is Kalameet himself.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5769525965184361,
+    "bm25_score": 26.763191663957876
+  },
+  {
+    "document_id": "b67a21b2-6182-5f8e-b08c-a9912a1070c2",
+    "title": "Gaping Dragon",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Gaping Dragon -  Dark Souls - boss - attacks \n attacks : {'name': 'Gorge', 'description': 'The Gaping Dragon grabs the player when close and then crunch with its vertical maw, inflicting tremendous physical damage.'}",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5547234815315707,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6644e072-50e8-5675-b399-7076d3572932",
+    "title": "Hawkeye Gough",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Hawkeye Gough -  Dark Souls III - character - trivia \n trivia : In the English version, he pronounces his own name as gɔːf, rhyming with the word \"cough\".\nHim relying only on sound to track down the player if made hostile is reminiscent of the [https://demonssouls.fandom.com/wiki/Old_Hero Old Hero] from *Demon's Souls*, an ancient blind swordsman who does the same in his fight.\nIf you happen to be patient enough to do so, you can kill Kalameet with a greatbow, Gough's or Dragonslayer. If you do so, Gough will say a special dialogue. There are specific spots where you only get hit once by Kalameet's fire, which makes this easier.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5381741321083067,
+    "bm25_score": 28.685883317474218
+  },
+  {
+    "document_id": "50eeec42-3614-507c-b588-bea1c44b10fc",
+    "title": "Four Knights of Gwyn",
+    "section": "hawkeye_gough",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Four Knights of Gwyn -  Dark Souls - character - hawkeye_gough \n hawkeye_gough : Hawkeye Gough was the only Giant of the Four Knights, and the leader of the Dragonslayers, the archers that fought the Dragons in the Age of Ancients.\n\nBy the time the Chosen Undead meets him, Gough is blind. Upon their first encounter, he thanks the Chosen Undead for slaying Artorias, allowing the corrupted knight to die with his honor intact.\n\nDespite being blind, Gough was still a great sharpshooter. He proves this by shooting Kalameet out of the sky, on the Chosen Undead's request. This allowed the Chosen Undead to fight the dragon on more equal footing, eventually leading to the latter's demise.\n\nDespite his skill, there were archers that rivaled even Gough. One such individual was Pharis , which was especially impressive as Pharis was only human.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.532467615775973,
+    "bm25_score": 25.508085361834627
+  },
+  {
+    "document_id": "38306d93-4a07-59fc-bddc-143397a55db9",
+    "title": "Gaping Dragon",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Below 50% health, the dragon gains a new attack (corroding acid), that can reduce item and weapon durability, and even cause the player's equipment to break if stayed in too long. It's important not to confuse this attack with the stomach slam (their animations start in a similar way).\nThe Gaping Dragon's tail can be cut off, rewarding the Dragon King Greataxe, and the tail swipe's range becomes extremely short, making the rest of the fight easier. If you are trying to get the axe, hit the middle (or end) of the tail; if you aim at the base of the tail (i.e., the \"buttock\" area) it's possible to kill the dragon before the tail itself has taken enough damage.\nA player phantom can offer ranged support and distract the Gaping Dragon from the balcony, if they don't enter the fog gate.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5316105303507042,
+    "bm25_score": null
+  },
+  {
+    "document_id": "36c14212-770a-562f-a380-9d8e24b26ceb",
+    "title": "Gaping Dragon",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Gaping Dragon -  Dark Souls - boss - location \n location : The Gaping Dragon is found in a large open chamber in the Depths, near the gate to Blighttown.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5190946953669249,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7d55b8e6-243a-5c8f-b955-34fce6c3036c",
+    "title": "Path of the Dragon",
+    "section": "specifics_to_the_duel",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Path of the Dragon -  Dark Souls - mechanic - specifics_to_the_duel \n specifics_to_the_duel : Using the Dragon Eye spawns a summon sign in other players' worlds, allowing players who have Dragon Scales to summon covenant members to duel. The victor is awarded a Dragon Scale for their effort; players do not lose Dragon Scales upon defeat. Should the result be a draw (both players die near-simultaneously), both players are rewarded with a scale.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5181892210927441,
+    "bm25_score": null
+  },
+  {
+    "document_id": "909437ed-69eb-509f-b4e4-abfad8070016",
+    "title": "Gough's Helm",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Gough's Helm -  Dark Souls - armor - availability \n availability : Dropped by Hawkeye Gough.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.517953149002349,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f86735f2-ff33-5cea-9c1c-1e1e3c215cd4",
+    "title": "Hawkeye Gough",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Hawkeye Gough -  Dark Souls III - character - strategy \n strategy : Gough has very high health and can dish out a lot of damage. The confined area in which he resides can also make it quite difficult to avoid his blows. However, due to his blindness, wearing the Slumbering Dragoncrest Ring will cause him to stop attacking and listen for the player's whereabouts instead. He is also susceptible to blood loss, which could help dispatch him sooner.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5172896364228408,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e4872f2d-9e3e-568d-a6b5-93405536d9ca",
+    "title": "Gough's Armor",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Gough's Armor -  Dark Souls - armor - availability \n availability : Dropped by Hawkeye Gough.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5168123181929662,
+    "bm25_score": null
+  },
+  {
+    "document_id": "86304e0d-8f00-5708-b108-fe317fb03b9c",
+    "title": "Path of the Dragon",
+    "section": "how_to_join",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Path of the Dragon -  Dark Souls - mechanic - how_to_join \n how_to_join : Talk to the Stone Dragon in Ash Lake. To access Ash Lake, travel from Blighttown to The Great Hollow and get to its very bottom; upon arriving there, follow the path along the beach to its end.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5165459372357462,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c0a07135-b174-55af-89ad-5ba4443a9a69",
+    "title": "Dragon (upgrade path)",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Dragon (upgrade path) -  Dark Souls - mechanic - availability \n availability : Dragon weapons can be upgraded by any blacksmith with the required materials, these being Dragon Scales and souls.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5159661650211296,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7bc67f04-14c9-5055-9999-f35444e98212",
+    "title": "Black Dragon Set",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "After the Black Dragon Set is equipped, using the Dragon Head Stone makes the player breathe Fire and using the Dragon Torso Stone releases a shockwave similar to Force, while also giving the player a damage buff for 5 seconds. Both of these actions drain stamina, but while the fire breath is exhausted in a continuous rate, the damage buff will empty a large portion of the player's stamina bar. The stamina cost is set, and as such; the stamina loss is more manageable with high Endurance.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.515054290158119,
+    "bm25_score": null
+  },
+  {
+    "document_id": "132face6-c1db-5e0f-8089-e03fa030562a",
+    "title": "Archdragon Peak",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Archdragon Peak can be entered only after learning the Path of the Dragon gesture found upon a corpse of a Drakeblood Knight in the Consumed King's Garden; this faction of knights can be summoned in Archdragon Peak by the man serpents there. Drakeblood Knights worshiped the blood of dragons; and the red cloth decorating their armor is said to symbolize their yearning for blood.\n\nIn Archdragon Peak, the Calamity Ring is found, reportedly made from the orange eye of a calamitous dragon, the ring considered a symbol of dragon worship. This dragon was none other than Black Dragon Kalameet, said to be the last one of ancient dragons.\n\nThe Nameless King, known for once allying with ancient dragons, resides on Archdragon Peak. He is accompanied by a stormdrake, which he tamed and fought alongside him. Dragon Slayer Ornstein's weapon and armor can be found laying around the Nameless King's arena; he was said to have left his guard in Anor Londo cathedral to search for the Nameless King.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5140507985231932,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a5ec6a11-f582-589a-a27e-40118544e211",
+    "title": "Gough's Greatbow",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Gough's Greatbow -  Dark Souls - weapon - availability \n availability : Gift from Hawkeye Gough after defeating Black Dragon Kalameet.\nDropped by Hawkeye Gough if not gifted.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5114373886212328,
+    "bm25_score": 30.121391660209934
+  },
+  {
+    "document_id": "8d2837b1-1ba5-53ba-9434-3189a498c456",
+    "title": "Path of the Dragon",
+    "section": "requirements",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Path of the Dragon -  Dark Souls - mechanic - requirements \n requirements : There are no requirements to join.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5086042342125311,
+    "bm25_score": null
+  },
+  {
+    "document_id": "67ef2cdd-f426-5497-bb24-04a820e21307",
+    "title": "Bell Gargoyles",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Bell Gargoyles -  Dark Souls - boss - attacks \n attacks : {'name': 'Aerial Flame', 'description': 'Only used after the appearance of the second gargoyle, but can only be performed by the original gargoyle.'}",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5085817063414084,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9297975a-c7f3-52a6-b367-966ab4161975",
+    "title": "Dragon Eye",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "The winner of the duel is granted a Dragon Scale and souls proportional to the defeated player's soul level. In the event of a tie (where both players die), both players are awarded a Dragon Scale. Despite the nature of dragon dueling, the host may indict the Dragon Eye user if they are defeated.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5083372726404218,
+    "bm25_score": null
+  },
+  {
+    "document_id": "38becccc-0e44-5c41-ab5d-12557e9b6c76",
+    "title": "Gaping Dragon",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Locking on can make evading the Gaping Dragon's attacks harder, as it reduces the speed at which the player can move away from the boss.\nThe Gaping Dragon will become momentarily still after its charge attack; this time can be used to attack it safely. The charge always comes after a stomach slam, so use the slam as a signal to get close to its side/tail.\nHitting its head deals extra damage, but the head is only accessible right after a slam (and before a charge). More experienced players can shorten the fight considerably by hitting the head a couple of times right after the slam, and quickly getting out of the way before the charge starts. A hit to its head does approximately 3x as much damage as a hit to the body.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5062404780860679,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0af01634-8b6f-5719-a804-cf6b6cf44d7e",
+    "title": "Black Dragon Shield",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "shield",
+    "snippet": "Black Dragon Shield -  Dark Souls II - shield - characteristics \n characteristics : The Black Dragon Shield is a very powerful all-around shield with strong elemental defenses, allowing it to reliably block almost all forms of damage. Its decent stability makes it useful for warding off most forms of physical attacks.\n\nHowever, it is also only available as a random drop in the very last area in the main game, meaning that its utility will be very limited. As well, like all other Black Dragon equipment, it requires the use of Petrified Dragon Bone to upgrade. Finally, it is one of the heavier medium shields in the game, meaning that equipping it may negatively impact players' mobility and equipment options.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5060506863146025,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d2964fd3-2a7d-5a6a-b9e1-5a1cbfaff4f5",
+    "title": "Ancient Dragon",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "It is possible to almost become immune to its fire attacks by achieving a 890 fire defense.\n\nSummons may be targeted as they enter the fight, making it hard for the player to reliably summon two phantoms.\n\nAn excellent strategy to overcome this dragon is to head straight for the back feet. Once there, the best place to stay is right between the middle and inner toes, in such a situation, the dragon will use his stomp attack almost exclusively. When he stomps, simply sprint to the other foot and continue. It is possible for him to use his inner flame attack. But this is easily avoided by simply walking away from the foot in which you were perched.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5057458826533608,
+    "bm25_score": null
+  },
+  {
+    "document_id": "775663d3-c9aa-5e25-8da2-bc3382e62f35",
+    "title": "Gaping Dragon",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Gaping Dragon -  Dark Souls - boss - strategies \n strategies : Being a Dragon, it is very susceptible to Lightning.\nStaying at the Gaping Dragon's side and attacking its legs, moving only when it begins to walk or fly, can result in an easy victory.\nRanged attacks can prove useful, especially while the boss is performing a forward charge.\nBe sure to kill the Channeler located on the highest floor above the arena to prevent it from casting ranged attacks during the boss fight. It does not respawn.\nAs long as care is taken with positioning, there is no need to block or dodge during the fight, making two-handed weapons an excellent choice for melee attacks.\nLocking on can make evading the Gaping Dragon's attacks harder, as it reduces the speed at which the player can move away from the boss.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.505655618725252,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e0e99f62-2b01-5ce4-a25d-f779824d9c69",
+    "title": "Black Gulch",
+    "section": "plot",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Black Gulch -  Dark Souls II - location - plot \n plot : The player visits the Black Gulch in order to defeat the Rotten and claim its soul as part of their quest to obtain four Old Ones souls in order to open the gate leading to Drangleic Castle.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5041123080324007,
+    "bm25_score": null
+  },
+  {
+    "document_id": "27687b6a-92d3-5f44-97ea-97bd7bf968ab",
+    "title": "Player versus Player (Dark Souls II)",
+    "section": "summonings",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Player versus Player (Dark Souls II) -  Dark Souls II - mechanic - summonings \n summonings : {'name': 'Dragon Eye', 'description': 'The Dragon Eye will cause the summoned player to appear as a Dragon Spirit.\\nNo other players may join the session and both may use Estus Flasks and healing items.\\nDragon Eye matches reward who ever wins with a Dragon Scale.\\nDragon Eye Matches have a timer of 25m or 37m and 30s if both Host and Summon wear the Name Engraved Ring.'}",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5038286813621526,
+    "bm25_score": null
+  },
+  {
+    "document_id": "18787cab-9979-5a01-9bb4-cee07084e450",
+    "title": "Black Dragon Helm",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Black Dragon Helm -  Dark Souls II - armor - description \n description : An eerily-shaped helmet spoken of in legend, crafted with the scales of the Black Dragon.\n\nThe Black Dragon was long considered a mere legend, but this helm proves its existence.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5030952751226001,
+    "bm25_score": null
+  },
+  {
+    "document_id": "89e326f8-4723-5227-8d7e-75c39de8eb89",
+    "title": "Dark Sun Gwyndolin",
+    "section": "strategies",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Alternatively, once Gwyndolin teleports the first time upon entering the tomb, it is possible to move closer to him to a point just outside his aggro range; then, by equipping the Hawk Ring and using the Dragonslayer Greatbow, the player can easily defeat him from range without him retaliating.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5024332789854457,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6871131d-775c-5ea9-b57b-ae6eb792e320",
+    "title": "Hawkeye Gough",
+    "section": "plot",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Hawkeye Gough -  Dark Souls III - character - plot \n plot : Gough is found isolated on a locked tower above the coliseum of Oolacile. To reach him, the player must first locate the Crest Key, found in the deeper parts of Oolacile Township, hidden within a Mimic that rests next to a lit fireplace.\n\nUpon unlocking the door, Gough will act as a merchant. He won't be too chatty, and his wares aren't anything special for the most part, but he will sell unique items of his making, such as two of his carvings and his great arrows.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5019738772926905,
+    "bm25_score": null
+  },
+  {
+    "document_id": "24620d56-4a7c-596c-8875-03e1667652d7",
+    "title": "Dragon Charm",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Dragon Charm -  Dark Souls II - item - effect \n effect : Cures Poison status effect and restores 1,500 HP.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.501153022431218,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8cf3191a-0407-50da-ba88-40daae2287c8",
+    "title": "Black Dragon Shield",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "shield",
+    "snippet": "Black Dragon Shield -  Dark Souls II - shield - notes \n notes : The item's description refers to both Seath the Scaleless and Black Dragon Kalameet.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.993779290224023
+  },
+  {
+    "document_id": "36fe3603-acc9-5c57-8c25-ba7c42e9bee2",
+    "title": "Dragon",
+    "section": "everlasting_ancient_archdragons",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Dragon -  Dark Souls III - character - everlasting_ancient_archdragons \n everlasting_ancient_archdragons : Seath the Scaleless\nAncient Wyvern\nBlack Dragon Kalameet\nSinh, the Slumbering Dragon\nStone Dragon",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.745850305827872
+  },
+  {
+    "document_id": "47fda18d-5382-519d-bc17-1c89b1cae1f9",
+    "title": "Obsidian Greatsword",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Obsidian Greatsword -  Dark Souls - weapon - availability \n availability : Obtained by cutting off the tail of Black Dragon Kalameet. Players must deal 540 damage to Kalameet's tail in the base game cycle to cut it.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.164255415329812
+  },
+  {
+    "document_id": "074b2da3-8297-58ab-bf29-eb5445180eff",
+    "title": "Dragon Knight",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Dragon Knight -  Dark Souls II - enemy - lore \n lore : The Dragon Knights were a seclusive syndicate of warriors that donned armor inspired by the Dragons, who they held a great esteem towards. Some knights used the scales and tail of the \"Black Dragon,\" which might be the deceased Black Dragon Kalameet, to forge their armor and weapons.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.746840013161098
+  },
+  {
+    "document_id": "0f276cea-f6b2-5637-bc06-ba53121b1988",
+    "title": "Dragon Shrine",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Dragon Shrine -  Dark Souls II - location - notes \n notes : The player can still burn a Bonfire Ascetic at the bonfire while the Ancient Dragon is alive, regardless of whether it is provoked or not.\nAldia will appear at the bonfire in this location if met at Undead Crypt first bonfire before arriving to Dragon Shrine.\nIn *Scholar of the First Sin*, the Dragon Knights will sometimes get stuck and will not move or attack. This tends to happen when the player runs to the first bonfire (only near second Drakekeeper).",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.69859627624272
+  },
+  {
+    "document_id": "c70a81ec-49b2-5f37-8842-3975708e1399",
+    "title": "Ancient Dragon",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Ancient Dragon -  Dark Souls II - boss - trivia \n trivia : Ironically, to get the real Ancient Dragon Soul, the player must talk to the Dragon and receive the Ashen Mist Heart. The player will then have to head to The Duke's Dear Freja's arena to enter the Dragon Memories area.\nThe Ancient Dragon has more HP than most other bosses.\nIn the announcement trailer, the Ancient Dragon has a third eye in the middle of the other two, similar to Kalameet and is also noticeably smaller than he is in-game. In the final version, however, this design appeared to have been cut.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.417479306878327
+  },
+  {
+    "document_id": "0419342d-81d1-5905-af47-cae0e69e6dd8",
+    "title": "Sinh, the Slumbering Dragon",
+    "section": "encounters",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Sinh, the Slumbering Dragon -  Dark Souls II - boss - encounters \n encounters : The player first encounters Sinh before reaching the first bonfire in Shulva, Sanctum City. The dragon's breath can be heard before spotting him. He will be resting over a rocky structure, getting close to it will make the dragon roar and fly away. A second encounter will happen on the bridge leading to the entrance to Dragon's Sanctum. Sinh will appear and blast the bridge with fireballs, killing the two Sanctum Soldiers (and possibly the player if they stand too close).\n\nThe third and final encounter will happen after entering the white fog in Dragon's Rest, where the boss fight takes place. Sinh will wake from its slumber, throw its fiery breath upwards, and attempt to body slam the player from its nest before properly starting the battle.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.69868531835558
+  },
+  {
+    "document_id": "045ecda1-2d03-597e-8f96-4f0d7f2e86a4",
+    "title": "Bonfire (Dark Souls III)",
+    "section": "painted_world_of_ariandel",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": ":From this tower, the player can cross the bridge and run north to reach the roof of a large hall, from which the player can drop down and open the gate for easier access. After dropping down, continuing to the right and dispatching Sir Vilhelm in the large building will allow the player to enter the attic, where The Painter was imprisoned. Exiting the attic through the ledge will bring the player to the Snowy Mountain Pass bonfire.\n\n***Ariandel Chapel**\n:Traveling along the rope bridge will bring the player to a large chapel, before which passive Corvians are praying. Once the player has entered the chapel, the Ariandel Chapel bonfire is found to the left of Sister Friede.\n\n***Sister Friede**\n:Once the contraption in the basement of the chapel has been activated, and the encounter with Father Ariandel made available, the player must defeat the boss in order to spawn the Sister Friede bonfire where Ariandel once sat.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.01177110916363
+  },
+  {
+    "document_id": "f4f80ddb-ec7e-5cae-903b-cf37e56d6864",
+    "title": "Fog Door",
+    "section": "oolacile_fog_doors",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Fog Door -  Dark Souls - mechanic - oolacile_fog_doors \n oolacile_fog_doors : Sanctuary Garden\n**Just ahead of the bonfire, before the encounter with the Sanctuary Guardian.\nRoyal Wood\n**The entrance to the coliseum area, before the encounter with Knight Artorias. Another one will be on the left side of the arena connecting to Oolacile Township.\n**There will be a Fog Door when arriving at the top of the waterfall face Black Dragon Kalameet but only after initiating the fight and if re-entering the arena before Kalameet is defeated.\nChasm of the Abyss\n**Before the encounter with Manus, Father of the Abyss.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.738581120927716
+  },
+  {
+    "document_id": "0c849995-5498-5bdc-bcfb-1eafa8521d80",
+    "title": "Dragon Eye",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Dragon Eye -  Dark Souls - item - general_information \n general_information : Usage of the Dragon Eye is limited to players who are members of the Path of the Dragon covenant.\n\nUsing the Dragon Eye causes the player's sign to appear in the worlds of other players, allowing them to summon the user to their world to duel. The player does not need to be in human form. However, the host must be in human form (reverse-hollowed), but does not need to possess a Dragon Scale (contrary to the in-game description), and the area boss does not need to be alive to interact with the summon sign; users of the dragon eye have no such restrictions as to where and when they can place their signs. Players can summon others that are within their soul level +/-(10+10%) of their level; for example, a level 100 player can be summoned by anyone between level 80 and 120.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.704538246301155
+  },
+  {
+    "document_id": "2739264e-06f1-574c-99c3-cf5a60117719",
+    "title": "Obsidian Greatsword",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Obsidian Greatsword -  Dark Souls - weapon - description \n description : This greatsword, one of the rare dragon weapons, is formed by the tail of the one-eyed black dragon Kalameet, the last of the ancient dragons.\n\nThe mystical power of its obsidian blade will be released when held with both hands.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.5639604709488
+  },
+  {
+    "document_id": "fcae118d-82d4-51e1-8789-c20608f3f3e1",
+    "title": "Grab",
+    "section": "bosses",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Grab -  Dark Souls - mechanic - bosses \n bosses : Black Dragon Kalameet\nCentipede Demon\nDragonslayer Ornstein\nFour Kings\nGaping Dragon\nGravelord Nito\nGwyn, Lord of Cinder\nIron Golem\nManus, Father of the Abyss",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.091762021033826
+  },
+  {
+    "document_id": "9f220b9e-ef70-55b1-a723-f336ffc8bd59",
+    "title": "Dragon Remnants",
+    "section": "how_to_join",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dragon Remnants -  Dark Souls II - mechanic - how_to_join \n how_to_join : Talk to Magerold of Lanafir in Iron Keep, who will beg the player to be given the Petrified Egg if it's in their inventory. Giving him the treasure will allow players to enter the Dragon Remnants covenant, and they recieve an Ancient Dragon Seal and a Dragon Eye upon joining.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.708911222717376
+  },
+  {
+    "document_id": "76929300-f318-5547-b981-223825ec9128",
+    "title": "Drakeblood Armor (Dark Souls III)",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Drakeblood Armor (Dark Souls III) -  Dark Souls III - armor - availability \n availability : Found in the Consumed King's Garden, on the corpse that teaches the Path of the Dragon gesture. For it to appear, the player must first defeat at least one Drakeblood Knight at Archdragon Peak.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.378329076956607
+  },
+  {
+    "document_id": "270e8b82-f0c0-535e-97cf-9a1ed0a2b0d5",
+    "title": "Drakeblood Gauntlets (Dark Souls III)",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Drakeblood Gauntlets (Dark Souls III) -  Dark Souls III - armor - availability \n availability : Found in the Consumed King's Garden, on the corpse that teaches the Path of the Dragon gesture. For it to appear, the player must first defeat at least one Drakeblood Knight at Archdragon Peak.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.378329076956607
+  },
+  {
+    "document_id": "315d5e97-a163-5c1e-861e-15b40faaa296",
+    "title": "Drakeblood Helm (Dark Souls III)",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Drakeblood Helm (Dark Souls III) -  Dark Souls III - armor - availability \n availability : Found in the Consumed King's Garden, on the corpse that teaches the Path of the Dragon gesture. For it to appear, the player must first defeat at least one Drakeblood Knight at Archdragon Peak.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.378329076956607
+  },
+  {
+    "document_id": "8fd61df7-2245-5757-9ea8-48220583bbe4",
+    "title": "Drakeblood Leggings (Dark Souls III)",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Drakeblood Leggings (Dark Souls III) -  Dark Souls III - armor - availability \n availability : Found in the Consumed King's Garden, on the corpse that teaches the Path of the Dragon gesture. For it to appear, the player must first defeat at least one Drakeblood Knight at Archdragon Peak.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.378329076956607
+  },
+  {
+    "document_id": "8bcf127c-37c2-5629-b650-3e383e034b00",
+    "title": "Drakeblood Set (Dark Souls III)",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Drakeblood Set (Dark Souls III) -  Dark Souls III - armor - availability \n availability : Found in the Consumed King's Garden, on the corpse that teaches the Path of the Dragon gesture. For it to appear, the player must first defeat at least one Drakeblood Knight at Archdragon Peak.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.378329076956607
+  }
+]

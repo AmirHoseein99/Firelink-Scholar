@@ -1,0 +1,2080 @@
+[
+  {
+    "document_id": "2cccb899-ac67-5b8f-a9c6-4b2b32a23c03",
+    "title": "Blood Gem",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Blood Gem -  Dark Souls III - item - description \n description : A gem of infused titanite.\nSlurped by Irithyll slaves.\n\nUsed in infusion to create lacerating weapons.\n\nSuch weapons inflict lacerating damage.\nMost effective with sharp or spiked weapons.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "31331ef1-a235-5d80-b342-3ea86192f525",
+    "title": "Blood Gem",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Blood Gem -  Dark Souls III - item - lead \n lead : **Blood Gems** are upgrade materials in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5b2e11cf-e42a-5b22-9dde-e86de9071d47",
+    "title": "Blood Gem",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Blood Gem -  Dark Souls III - item - usage \n usage : The player must obtain the Profaned Coal and give it to Andre of Astora to allow infusion of this gem into a weapon.\n\nUse the Blood Gem to infuse a weapon with the Bleed effect. The infusion will reduce base physical damage and scaling, while adding or increasing Bleed buildup, which scales with Luck.",
+    "sources": [
+      "template",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.86960551462006
+  },
+  {
+    "document_id": "bd7fd77f-29ee-5c0e-abce-8a9cb9ce2396",
+    "title": "Blood Gem",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Blood Gem -  Dark Souls III - item - notes \n notes : Blood-infused weapons cannot be buffed.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bdca5cf7-47a4-5bff-9e91-21398fed77f3",
+    "title": "Blood Gem",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Blood Gem -  Dark Souls III - item - availability \n availability : Irithyll of the Boreal Valley\n**Dropped by Irithyllian Slaves.\n**Found in the area after the dark room filled with Irithyllian Slaves, at the base of a tree guarded by more Irithyllian Slaves before entering the riverbed.\nPainted World of Ariandel\n**Found at the bottom of the rotted basement of Ariandel Chapel, guarded by numerous Giant Flies.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "08c76801-bdbe-5a9c-9c65-d2686244e64e",
+    "title": "Carthus Rouge",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Carthus Rouge -  Dark Souls III - item - description \n description : Highly vicious scarlet plant secretions.\n\nTemporarily applies bleeding effect to right-hand weapon.\n\nAssociated with the warriors of Carthus, whose blades take on the scarlet hues of both this sanguine substance and the spatters of their victims' blood.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1505f7bb-09f3-5eef-acdd-9d6e8ec0bf42",
+    "title": "Carthus Rouge",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Carthus Rouge -  Dark Souls III - item - availability \n availability : Firelink Shrine\nSold by the Shrine Handmaid for 1,000 souls each after she is given the Grave Warden's Ashes.\nCatacombs of Carthus\nDropped by Skeletons and Skeleton Swordsmen.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "24ac5805-d05b-52ca-9845-ae60f5d8c4db",
+    "title": "Carthus Rouge",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Carthus Rouge -  Dark Souls III - item - lead \n lead : The **Carthus Rouge** is a consumable item in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "32ed9505-7523-5f26-aeed-d9db5b02c2cf",
+    "title": "Carthus Rouge",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Carthus Rouge -  Dark Souls III - item - notes \n notes : Prior to App 1.11 Regulation 1.30, Carthus Rouge would increase Bleed build-up by 50.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6e946ca1-aeb2-53b5-81d6-324ee29297a6",
+    "title": "Carthus Rouge",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Carthus Rouge -  Dark Souls III - item - effect \n effect : Adds 20 Bleed build-up to right-hand weapon for 60 seconds. A Blood Loss proc will inflict an additional 100 damage if the threshold was crossed by the build-up from a Carthus Rouge buffed weapon.\n\nThe build-up increase scales with the Luck of the wielder, increasing up to to 26 build-up at 50 Luck.",
+    "sources": [
+      "template",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.73964394370594
+  },
+  {
+    "document_id": "147a7f70-9970-55b7-a8e4-62628baa21de",
+    "title": "Cleric (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Cleric (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : The **Cleric** is one of the classes in *Dark Souls 3*.\n\nIt is a Faith-focused class, with decent Attunement, Strength, and Luck. This makes them well-suited to a Miracle-heavy build, and to using the many Lightning-attuned weapons as they are often also have good Strength-scaling.\n\nWhile it does indeed have spells, in the form of Heal (which heals) and Force (which throws enemies away from you), it does not have any that causes damage, with the earliest ones not being found until Cathedral of the Deep or Farron Keep. This means the class will have to focus primarily on weapons initially, and will do well to keep them upgraded as offensive Miracles consume a lot of Focus Points.",
+    "sources": [
+      "template",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.45301164527014
+  },
+  {
+    "document_id": "212a2f74-2efb-569b-a1be-762cd56cd65d",
+    "title": "Cleric (Dark Souls III)",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Cleric (Dark Souls III) -  Dark Souls III - mechanic - trivia \n trivia : This is the only spellcasting-focused starting class in Dark Souls 3 that doesn't have a damage-boosting ring. Presumably this is because the Cleric doesn't have a damaging Miracle equipped from the start, and the Morne's Ring can instead be found in the Road of Sacrifices.\nThis class has remained remarkably similar throughout the series, always carrying a Mace and the Heal Miracle.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "33f77c45-81c2-5412-8f97-1b9578708d46",
+    "title": "Cleric (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Cleric's Sacred Chime is a fairly good casting tool and is actually the strongest casting tool for Miracles from 45 to 49 Faith. Its Spell Buff (the stat that affects how strong scaling spells are) doesn't actually increase until at least 19 Faith has been reached. Its Weapon Art is Gentle Prayer, a regenerative effect that always restores 360 hp over the course of a minute as long as the Chime is held in an active hand (so replacing it with another item stops it, as does two-handing the item in the other hand). This effect will actually outheal the Heal Miracle by up to 20% until the Chime's Spell Buff reaches 120, and even afterwards it is a strong if slow alternative due to only having about a third the cost in Focus Points.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4728a634-36cd-5056-bd02-a9c1c32bdaec",
+    "title": "Cleric (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Cleric Set is a light, caster-type armor set and as such has low physical defences and high elemental defences, while also having high Poison and Curse resistances.\n\nThe first trainer for more Miracles is found in the Undead Settlement for further development.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ed331070-d8b1-5344-8ffa-f79bdca21a97",
+    "title": "Cleric (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Mace is an unexpectedly strong weapon for what may at first seem like a spellcasting class, but in reality it is often a **Cleric's** main armament. This is because Strike damage is often the strongest physical damage type as armored and skeletal enemies are weak to it (most other physical damage types have fewer enemies weak to them), strong Strength-scaling for easy damage increases, a fairly good moveset, and has a good Weapon Art for trading hits with opponents. How the Weapon Art works is that Perseverance adds a flat 45% extra absorption and causes the attacks of light weapons to bounce off the user, while also granting great Hyper Armor to prevent being staggered.\n\nThe Blue Wooden Shield is not very good, having only decent physical and magic defence with serviceable Stability. While it does have Parry (albeit the inferior Medium Shield version), a strong Weapon Skill shield like the early Silver Eagle Kite Shield would probably serve as a better replacement.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0e7876f3-93dd-5275-ae88-3e7cb98570d0",
+    "title": "Corvian Storyteller",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian Storyteller -  Dark Souls III - enemy - description \n description : Tall avian humanoids that act as shamans for the lesser Corvians. Storytellers use their staff's weapon art and a slow, short ranged wave of fire in combat and are capable of riling up their pack members to make them more aggressive. They are always accompanied by several Corvians.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1eb812f1-5b45-508b-88f8-e8f7a5f4c9e6",
+    "title": "Corvian Storyteller",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian Storyteller -  Dark Souls III - enemy - notes \n notes : Susceptible to Bleed, Poison and Toxic.\nSusceptible to Rapport.\nThere are actually two screams that the storytellers use: one is quicker and quieter, and only alerts other corvians to your presence, but on most occasions it doesn't transform them: he uses this scream most often when you have been spotted but have not attacked yet. The second scream comes after he bends down, shakes, and then lets out a much louder scream: this is the scream that *always* transforms his lesser corvians and frenzies them in the process. This scream in particular is often used after he is attacked or he witnesses you killing a lesser corvian. If they are already transformed and he uses the second type of scream, the corvians with him will randomly attack the environment in their hysteria.\nUnlike the lesser brethren, the storyteller cannot fly in short bursts, nor run. They can only walk slowly, and often just side to side.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a7242022-d4e9-5c7c-ad3a-79bcbac63faf",
+    "title": "Corvian Storyteller",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian Storyteller -  Dark Souls III - enemy - strategy \n strategy : Although physically imposing, Storytellers have little vitality and offer little in the way of physical offense. From a distance, they will use their staff's weapon art to prevent the player from reaching them, but there is a long delay before they can cast the spell and they are easily staggered out of it. They may also cast a wave of fire from the tip of their staff, in a semi-circular motion.\n\nStorytellers will alert any nearby Corvians once they spot the player, which will cause them to begin transforming into their berserk state. It is recommended to eliminate this enemy swiftly before it can draw attention.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cccdc119-6641-5b2e-b768-e238dc3259ad",
+    "title": "Corvian Storyteller",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Unlike the lesser brethren, the storyteller cannot fly in short bursts, nor run. They can only walk slowly, and often just side to side.\nCan be parried, riposted and backstabbed.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cfcd52a2-72b0-55d0-9661-fca5589f6961",
+    "title": "Corvian Storyteller",
+    "section": "locations",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian Storyteller -  Dark Souls III - enemy - locations \n locations : Road of Sacrifices - Two storytellers can be found between the Road of Sacrifices and Halfway Fortress bonfires:\n**The first one is behind a large tree on the left side of the path.\n**The second one stands on a ledge at the other side of a bridge, with a large number of Corvians scattered about. Additionally, it can also alert more of them to come out from a small cave above.\nFarron Keep\n**A storyteller stands at the top of the path on the left, shortly after going through the main gate in the poisonous swamp. A group of Corvians congregate below. If he is attacked first in open combat, his Corvians will come to his aid.\nUntended Graves\n**Found on the path on the left at the beginning of the level, guarding the Ashen Estus Ring along with its lesser brethren.\nGrand Archives\n**Found shortly after exiting the main library area, on a floor below.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ecf5ea56-5bb8-5c6f-84d7-73c5ec952fbd",
+    "title": "Corvian Storyteller",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian Storyteller -  Dark Souls III - enemy - lead \n lead : **Corvian Storytellers** are enemies in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f27cdff9-080b-59ef-9d62-c13c81b94cce",
+    "title": "Corvian Storyteller",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian Storyteller -  Dark Souls III - enemy - see_also \n see_also : Corvian",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "22c7ef8f-b27b-54ce-af44-7389820afda0",
+    "title": "Hollow Gem",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Hollow Gem -  Dark Souls III - item - lead \n lead : **Hollow Gems** are upgrade materials in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9bcba266-de28-5a91-beae-bd864fab6b25",
+    "title": "Hollow Gem",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Hollow Gem -  Dark Souls III - item - usage \n usage : Grants Luck scaling to Physical damage. Reduces Strength and Dexterity scaling, as well as base damage, though the scaling is gradually restored with upgrade levels.\n\nHollow-infused weapons will increase Luck based on the upgrade level of the weapon, if the wielder has at least 15 Hollowing:\n\nBonus Luck is granted for weapons regardless of which hand they are held in, and can stack with each other even when two-handing one of them. Thus, it is possible to have a total of +10 additional Luck by wielding a +10 Hollow-infused weapon/shield in each hand.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7450151784948211,
+    "bm25_score": 32.108987633077184
+  },
+  {
+    "document_id": "c864903a-4764-5b30-8132-b4df5f49c5be",
+    "title": "Hollow Gem",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Hollow Gem -  Dark Souls III - item - description \n description : A gem of infused titanite. A stone plentiful in Londor, land of Hollows.\n\nUsed in infusion to create Hollow weapons.\n\nHollow weapons are said to peer into the essence of its wielder, whose luck boosts attack.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6338254710335791,
+    "bm25_score": 32.8530969504394
+  },
+  {
+    "document_id": "ce1381ef-d5b7-57e1-83c7-49436baecd94",
+    "title": "Hollow Gem",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Hollow Gem -  Dark Souls III - item - availability \n availability : Firelink Shrine\n**Once per game cycle, one can be obtained by trading the Eleonora with the Nestling.\nRoad of Sacrifices\n**Dropped by Corvian Storytellers.\nFarron Keep\n**From the Farron Keep Perimeter bonfire, turn around and walk straight ahead until finding a hole on the wall to the right. Drop through it to find two corpses, one of them holding a Hollow Gem and the other the Atonement miracle.\nUntended Graves\n**Dropped by Corvian Storytellers.\nGrand Archives\n**On the rooftops section of this level, drop to the balcony where several Corvians are gathered and turn around. Proceed straight to find a corpse holding the gem lying next to a boarded-up door.\n**Dropped by the Corvian Storyteller preaching to the group of Corvians as above.\nPainted World of Ariandel\n**Found on a corpse outside of Ariandel Chapel, to the right and past where Sir Vilhelm is standing.\nThe Ringed City\n**Dropped by Undead Clerics.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e5e1f1ca-d5a9-5c77-8018-81003595c1bf",
+    "title": "Hollow Gem",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Hollow Gem -  Dark Souls III - item - notes \n notes : In order to start using Hollow Gems for infusions, the player is first required to find the Profaned Coal in the Irithyll Dungeon and give it to Blacksmith Andre.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6287655891703021,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fb986ac7-f7a9-5ad0-8248-79c9ced56afd",
+    "title": "Hollow Gem",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Painted World of Ariandel\n**Found on a corpse outside of Ariandel Chapel, to the right and past where Sir Vilhelm is standing.\nThe Ringed City\n**Dropped by Undead Clerics.\n**Found on a corpse in the Ringed Inner Wall area, shortly before encountering the first Ringed Knight.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "387fa414-e248-5e45-b01f-14ef5fd33554",
+    "title": "Hollowing",
+    "section": "reversing_hollowing",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Hollowing -  Dark Souls III - mechanic - reversing_hollowing \n reversing_hollowing : The process of reversing Hollowing will remove all levels of Hollowing from the player. However, because they still possess Dark Sigils, they will resume Hollowing with each subsequent death, making the effect temporary. Thus, this \"cure\" is only cosmetic in nature, as well as losing access to the bonus Luck of Hollow-infused weapons.\n\nConsumption of a Purging Stone will immediately remove all Hollowing. Purging Stones may be found as loot across Lothric, or purchased from Yuria of Londor for 4,500 souls.\nPraying at either the Statue of Velka or the Purging Monument will present the option of \"Request Dissolution,\" which will also remove all current levels of Hollowing at a cost of the player's Soul Level times 100. This option is cheaper than purchasing a Purging Stone so long as the player is below Soul Level 45.",
+    "sources": [
+      "template",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.667792864304676
+  },
+  {
+    "document_id": "3929765d-b081-5467-b6bb-4b7ac06f2832",
+    "title": "Hollowing",
+    "section": "hollowing_cures",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Hollowing -  Dark Souls III - mechanic - hollowing_cures \n hollowing_cures : There are two different \"cures\" for Hollowing, one temporary and one permanent:",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7099343877904984,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4dd50deb-71b8-5680-8b8e-9d297e33849f",
+    "title": "Hollowing",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Hollowing -  Dark Souls III - mechanic - lead \n lead : **Hollowing** is a gameplay mechanic in *Dark Souls III*, which can be accessed by drawing out the player's \"true strength\" through Yoel of Londor.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6987450572047798,
+    "bm25_score": 26.9078425867831
+  },
+  {
+    "document_id": "525d1cee-fb9a-5251-b529-112e1ff756e5",
+    "title": "Hollowing",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Hollowing -  Dark Souls III - mechanic - notes \n notes : Equipping the Untrue Dark Ring will give the player the appearance of a human, regardless of Hollowing level, allowing the player to appear human and also retain access to the bonus Luck of Hollow-infused weapons. However, this comes at the cost of using up one of the player's four precious ring slots.\nWhen entering a new NG+ cycle, all held Dark Sigils are removed, but Hollowing level is retained.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6765730109136221,
+    "bm25_score": 29.351996792404034
+  },
+  {
+    "document_id": "8ca05e65-3fd9-566f-b104-4028e1e50ff1",
+    "title": "Hollowing",
+    "section": "healing_the_dark_sigil",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Hollowing -  Dark Souls III - mechanic - healing_the_dark_sigil \n healing_the_dark_sigil : The more permanent option for curing Hollowing is to obtain the Fire Keeper Soul and give it to the Fire Keeper. The player must then pay a soul cost equal to the amount of souls they would pay to level up from their current level, by a number of levels equal to the amount of Dark Sigils held. Thus, if the player is high level and has accepted the additional Dark Sigils from Anri of Astora's wedding, the price for healing the Dark Sigil can be extremely high.\n\nHealing the Dark Sigil is permanent, as it will remove all held Dark Sigils and reset Hollowing to zero. Because of this, it will break the alliance with Yuria of Londor, as the Dark Sigils are required for obtaining the Usurpation of Fire ending.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6405570371210256,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b5d549a6-e40a-52b9-9cc8-e23c3d0c4225",
+    "title": "Hollowing",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Hollowing -  Dark Souls III - mechanic - description \n description : After recruiting Yoel at the Undead Settlement and sending him to Firelink Shrine, the player can accept his offer to draw the Ashen One's true strength out. Accepting this offer allows the player to level up at total of five times at no soul cost. Accepting a level from Yoel will grant the player with a Dark Sigil each time, which in turn affects the rate of Hollowing. Each subsequent level-up with Yoel will require a higher level of Hollowing before it can be accessed, meaning that the player must die a few times between each session.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6958832457836611,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dadde6f1-6751-597a-897b-50f76567bb7a",
+    "title": "Hollowing",
+    "section": "effects",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Hollowing -  Dark Souls III - mechanic - effects \n effects : When the player has at least one Dark Sigil in their inventory, their Hollowing will increase with each death, by a multiple of the number of Dark Sigils carried. Once Hollowing reaches 15, the player will take on the appearance of a Hollow, just as in previous games, though the effect is purely cosmetic.\n\nAdditionally, at 15 Hollowing and beyond, the player unlocks the secondary effects of weapons infused with a Hollow Gem, gaining bonus Luck based on the upgrade level of the weapon.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7147791843371953,
+    "bm25_score": 34.126647406812694
+  },
+  {
+    "document_id": "3984da75-9c4b-56d2-8e6c-ad9f53b827c0",
+    "title": "Human Effigy",
+    "section": "alternatives",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Giving Vendrick the King's Crown as well as the Crown of the Sunken King, Old Iron King and Ivory King in Vendrick's Memory lets the player ignore hollowing, and curse, when wearing any of the crowns.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "39b181cf-54b0-521c-806b-9336f31fb211",
+    "title": "Human Effigy",
+    "section": "enemies",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Human Effigy -  Dark Souls II - item - enemies \n enemies : Parasitized Undead in Brightstone Cove Tseldora.\nSkeletons in Harvest Valley.\nLizardmen in the Shrine of Amana.\nOld Ironclad Soldiers in Forest of Fallen Giants.\nChasm Spirits in the Dark Chasm of Old.\nStray Hounds in No-man's Wharf and The Lost Bastille.\nPetrifying Statue Clusterst in Cave of the Dead.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "483342fa-b4cd-5aac-b500-47df29320df6",
+    "title": "Human Effigy",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Human Effigy -  Dark Souls II - item - availability \n availability : Can be chosen as a starting gift.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6687032c-1aed-5f5e-9fe8-4ec345865e73",
+    "title": "Human Effigy",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Human Effigy -  Dark Souls II - item - description \n description : A warm, soft, shadow-like effigy.\n\nUse this item to reverse Hollowing.\nIt also weakens the links to other worlds, preventing invasions and most cooperation.\n\nPeer closely at an effigy, and one begins to perceive a human form, but whose form it takes depends on the person looking.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "72388193-0bd5-533d-ac15-3bb001e8a1b8",
+    "title": "Human Effigy",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Human Effigy -  Dark Souls II - item - notes \n notes : Unlike Humanity in *Dark Souls*, Human Effigies cannot be used as healing items.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "843a344c-df69-5caa-a1fe-aed3d7e3aeba",
+    "title": "Human Effigy",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Human Effigy -  Dark Souls II - item - lead \n lead : A **Human Effigy** is a restorative item and starting gift in *Dark Souls II*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8daff01e-50df-5fff-9be6-4d5de7b9e55d",
+    "title": "Human Effigy",
+    "section": "general_information",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "It takes 30 minutes for the burning of a Human Effigy to wear off, and once the duration has expired, the player will be able to be invaded by other players again, as well as summon friendly phantoms or dark spirits. This only applies to the area in which the effigy was burned, and the player must remain in that area for the effigy timer to count down; the player can end the effect prematurely by resting at the particular bonfire and selecting the \"Nullify Human Effigy's Effect\" option. Time spent outside the area will not reduce the timer, so it is advised to remain in the location for the duration of the effect if one does not wish to end it prematurely.\n\nOne Human Effigy must also be given to Darkdiver Grandahl for each attempt in the Dark Chasm of Old, until Darklurker is defeated.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "97d3aab8-1fbd-5cc4-a5d4-10b9481ebff5",
+    "title": "Human Effigy",
+    "section": "player_versus_player",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Human Effigy -  Dark Souls II - item - player_versus_player \n player_versus_player : Players receive one Human Effigy after successfully defeating another invading player; this counts for both NPC invaders and online invaders. Black Phantoms that do not have an invasion message, such as the one found above Mytha's fog gate, will not give Effigies, but instead drop a +5 variant of their gear.\nPlayers will also receive a Human Effigy for defeating a player summoned into their world through the Red Sign Soapstone.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "98a927cc-d391-50ec-a970-5451f1bebf87",
+    "title": "Human Effigy",
+    "section": "merchants",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Human Effigy -  Dark Souls II - item - merchants \n merchants : Darkdiver Grandahl sells 3 for 3,000 souls each.\nMagerold of Lanafir sells 1 for 3,000 souls.\nGrave Warden Agdayne sells 13 for 3,000 souls each\nMerchant Hag Melentia sells 5 for 1,500 souls each.\nMilibeth in Things Betwixt will drop 3 if killed.\nStrowen\n**She will give 6 for free. The player needs to talk to her after getting the King's Ring.\n**She will drop 6 if killed.\nDyna & Tillo",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b3f2a477-2c39-56f8-af26-78966423f7c2",
+    "title": "Human Effigy",
+    "section": "treasure",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Human Effigy -  Dark Souls II - item - treasure \n treasure : Cathedral of Blue: Five in a chest before the Old Dragonslayer boss fight.\nForest of Fallen Giants: Five in NG+ and 1 in NG in a chest at the entrance. It's under the little wooden bridge.\nNo-man's Wharf ( ): Three can be looted from a corpse in the room where Lucatiel of Mirrah can be found. The corpse is hidden behind a breakable bookcase near the doorway. Replaces a Ring of Life Protection that was there in the Original edition of the game.\nThings Betwixt: In a chest on the second floor of the hut.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cc0398f4-21ef-53e7-bb11-00a04287e2b9",
+    "title": "Human Effigy",
+    "section": "general_information",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Human Effigy -  Dark Souls II - item - general_information \n general_information : Restores the player back to human form, allowing their health bar to recover up to its maximum value and allowing the player to see and interact with summon signs.\n\nBurning Human Effigies at bonfires temporarily decreases the player's world priority in the invasion selection process and disables the ability to summon other players except NPCs; this includes disabling the ability to use Cracked Blue Eye Orbs and Cracked Red Eye Orbs, but they can still place down their own summon sign to be summoned into other worlds. The effect allows players to perform various tasks in the location they burnt the effigy at, without having to worry about potential engagements by other players. This makes them ideal for when a player wishes to farm enemies for particular items, as well as preventing their summon signs from disappearing due to another player invading their world.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d619e4dc-8d31-5da6-8312-1dd434d998b0",
+    "title": "Human Effigy",
+    "section": "alternatives",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Human Effigy -  Dark Souls II - item - alternatives \n alternatives : Effigies can be difficult to acquire, but they are not the only way to become human again. These things can also reverse Hollowing:\nBeing summoned as a phantom or shade will turn the player human upon successfully completing their duty.\nThe player can find a shrine down a short path found above the fourth bonfire in Shrine of Amana down a short path that will turn the player human for free. This method only works if the player has no effigies. Dropping the effigies on the ground to remove them from the player's inventory will not work.\nA Ring of Life Protection or Ring of Soul Protection will prevent the player from Hollowing after dying as well as other benefits, and can be repaired for a respectable amount of Souls when they break upon death.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "08199941-ded9-5822-8ffb-f2148dffa84e",
+    "title": "Irithyllian Slave",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Irithyllian Slave -  Dark Souls III - enemy - strategy \n strategy : Irithyllian slaves are weak opponents physically; however, their threat comes from the difficulty in locating them. They will often hide in corners, underneath stairs and behind doors to ambush the player, so it is recommended to always mind one's surroundings when navigating the city. Their white eyes give away their location, although their thin form can make them challenging to hit with ranged weapons. As they are always found in packs, the player should progress slowly to avoid becoming surrounded.\n\nMost slaves use claymores, although some can cast projectiles at a distance. They tend to be positioned behind other slaves in an attempt to goad the player toward them, and will flee to another location if pursued.\n\nA few slaves in the basement behind the Church of Yorshka will crawl toward the player to attack them. They can also drop down from above, which leads to a damaging grab attack.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5c625cf1-4039-5d4f-a315-a8576834a507",
+    "title": "Irithyllian Slave",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Irithyllian Slave -  Dark Souls III - enemy - notes \n notes : Can be parried, riposted and backstabbed.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "86ed2f9c-5a0a-5142-91f9-833df6ed3ee0",
+    "title": "Irithyllian Slave",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Irithyllian Slave -  Dark Souls III - enemy - lead \n lead : **Irithyllian Slaves** are enemies in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a5c8eea9-1f5a-5958-a629-0ee0025cd1aa",
+    "title": "Irithyllian Slave",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Irithyllian Slave -  Dark Souls III - enemy - description \n description : The hollowed laborers of the city of Irithyll, these frail creatures blend into their surroundings, making them challenging to locate. In dark areas, only their glowing eyes are visible and they will only appear when close enough to strike.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ef4dde35-ae37-5802-8723-7ff361030b0d",
+    "title": "Irithyllian Slave",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "A few slaves in the basement behind the Church of Yorshka will crawl toward the player to attack them. They can also drop down from above, which leads to a damaging grab attack.\n\nA special, red-eyed banshee variant can be found at the docks after coming out of the cellar. Should she detect the player, she will let out a horrid shriek that will alert all other concealed slaves in the vicinity.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f6a0557a-8b43-5194-8218-46447ff1725e",
+    "title": "Irithyllian Slave",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Irithyllian Slave -  Dark Souls III - enemy - location \n location : Found throughout all the city of Irithyll of the Boreal Valley, either on the streets, inside of buildings, cellars, the docks, long staircases, among other locations.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f5d6c087-723e-5a68-b829-402cbb9167e0",
+    "title": "Katanas (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Katanas (Dark Souls III) -  Dark Souls III - weapon - lead \n lead : **Katanas** are a weapon type in *Dark Souls III*. Katanas are characterized by their quick slashing and thrusting dashing attacks. Most are capable of strong sweeping slash attacks as well as thrusts. Many Katanas have a weapon skill that allows them to Parry or perform a sweeping slash. Additionally, all Katanas have a Bleed effect and will benefit from the Luck stat.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0021b068-8008-592b-9578-96a72a0a3858",
+    "title": "Knight (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Knight Shield is, along with the Herald's Kite Shield, one of only two starting shields with 100% physical blocking, giving the Knight considerable extra survivability early on. However, its elemental defences are bad and it has somewhat mediocre Stability, making it easier to break that block. It has the Parry, allowing for critical hits if the user knows how to time it properly against enemies.\n\nThe Knight Set it is carrying is the strongest starting armor set, with quite good physical defenses and respectable elemental defences, and has a good amount of Poise for if using a weapon or attack capable of activating Hyper Armor. It does however have mediocre status resistances and is fairly heavy, and the Knight largely lacks the ability to exploit its Poise unless a larger weapon is acquired.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2dd1c00d-d162-54c8-a433-4782e161053f",
+    "title": "Knight (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The adequate mental stats mean that just one point in either Intelligence or Faith could let it pick up some helpful spells, Soul Arrow, Spook, and Magic Weapon with the Sorcerer's Staff for the former and Heal Aid with the Talisman for the latter.\n\nIts extremely low Luck of 7, shared with the Pyromancer class, means it is often optimal for a large amount of non-pyromancer, non-luck based builds, due to not wasting any of its starting point in that often sub-optimal stat, though it does lack other classes' starting equipment which might help make them initially more optimal/have earlier access to items for that role.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "75a40ff7-6d08-51ba-ab4f-f7fe0a8a07c9",
+    "title": "Knight (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Knight (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : The **Knight** is one of the classes in *Dark Souls 3*.\n\nIt is the most newcomer friendly-class in Dark Souls 3, thanks to its strong and versatile weapon, its 100%-physical block shield, its strong armor, and its well-rounded stats. It is also suitable to a wide variety of builds thanks to its good Strength and Dexterity, and decent Intelligence and Faith. It also has good Vitality, letting it carry heavier equipment easier.\n\nThe Long Sword is a strong and versatile weapon, with fast swings on its light attacks and a strong thrusting attack as its one-handed heavy attack, capable of dealing heavy damage if a Counter Attack is landed. Its Weapon Art, Stance, is similarly versatile, as following as using a light attack while holding the stance leads to a block-breaking uppercut while the heavy attack version is a lunging thrust to catch enemies off guard.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c7095858-ee76-53c2-b0de-36a97ead21b9",
+    "title": "Luck",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Luck -  Dark Souls III - mechanic - lead \n lead : **Luck** is a stat in *Dark Souls III*. It determines the player's Item Discovery and the effectiveness with luck scaling weapons, such as the Man-grub's Staff, Anri's Straight Sword and Hollow-infused weapons, as well as increasing Bleed and Poison build-up.\n\nItem Discovery determines the likelihood of an enemy dropping items. The higher it is, the easier it is to get drops.\n\nUnlike other offensive stats, luck scaling is not displayed on the weapon's stat screen.\n\nAs with every other stat in the game, it also increases the player's defenses. As well, leveling Luck will increase the player's Curse resistance.",
+    "sources": [
+      "template",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 33.33946040086787
+  },
+  {
+    "document_id": "2b157066-b96e-584b-8c25-87bb74adbce0",
+    "title": "Man-grub's Staff",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Man-grub's Staff -  Dark Souls III - weapon - description \n description : Staff of the man-grubs who guard Rosaria's Bed Chamber. Their holy symbol is formed at the tip.\nWielder's luck strengthens the effects of sorceries.\n\nThe man-grubs have clearly been reborn, but as what?\n\nSkill: Steady Chant\nBoost the strength of sorceries for a very short period. Works while equipped in either hand.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "55715401-e774-5fbc-a97d-d9570db0d81b",
+    "title": "Man-grub's Staff",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Man-grub's Staff -  Dark Souls III - weapon - availability \n availability : Reward for reaching Rank 2 in the Rosaria's Fingers covenant.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "64c08913-7322-5e46-bd5b-3c5d721e72e1",
+    "title": "Man-grub's Staff",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Man-grub's Staff -  Dark Souls III - weapon - characteristics \n characteristics : The Man-grub's Staff is a very unique staff, in that its scaling attribute is not Intelligence, but Luck. As such, it requires a similarly unique build to utilize, as players must increase Intelligence to meet the casting requirements of various Sorceries, as well as Luck to boost the effectiveness of the catalyst itself.\n\nThe most effective way to use this staff is not to level Intelligence and Luck equally, but rather to level Intelligence and Attunement as supplements to a primarily Luck-based build. This gives the player access to powerful utility spells that complement Luck-based weapons, particularly in invasions, without the need to invest massive amounts of Intelligence to boost the hitting power of their spells.",
+    "sources": [
+      "template",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.04999021261628
+  },
+  {
+    "document_id": "7ebcf848-6072-57c9-8341-db3106559fec",
+    "title": "Man-grub's Staff",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Man-grub's Staff -  Dark Souls III - weapon - lead \n lead : The **Man-grub's Staff** is a staff in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9bbde9b7-5d9a-57e0-b7a8-0d0c645c1105",
+    "title": "Man-grub's Staff",
+    "section": "upgrades",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Man-grub's Staff -  Dark Souls III - weapon - upgrades \n upgrades : Reinforced with Titanite.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a606bcb9-41a9-5cdd-8b3e-fe886897cdaa",
+    "title": "Man-grub's Staff",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "At 40 Luck, the Man-grub's Staff has a higher effective Spell Buff than any other staff at 45 Intelligence, and only loses out to pure Intelligence-focused staves at 50 Intelligence and higher.\n\nAt the base wielding requirement of 18 Intelligence, players will have access to utility spells such as Chameleon, Snap Freeze, Great Heavy Soul Arrow and Spook. However, increasing Intelligence to 23 (which can also be achieved by simply equipping a Scholar Ring) will give the player access to relatively powerful spells such as Great Farron Dart, Farron Flashsword, Homing Soulmass, and Soul Greatsword.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d524a86f-c574-55ad-8bd4-aab4b6c1a350",
+    "title": "Man-grub's Staff",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Man-grub's Staff -  Dark Souls III - weapon - notes \n notes : The Spell Buff is always displayed at 100, but it does in fact increase with higher investments of Luck.\nHowever, weapon buffs such as Great Magic Weapon will use the listed 100 Spell Buff.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "39489587-2121-5181-af7b-85a67ac55a36",
+    "title": "Pyromancer (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Hand Axe is a surprisingly useful weapon. While it is pretty short, really only outranging Daggers and the Thrall Axe, it is quick and deals decent damage for its size. Its Weapon Art is Warcry, boosting weapon damage by 10% for 30 seconds and changing the heavy attack into a charge. While the charge is rather difficult to use for a Pyromancer in its default armor due to low Poise and the small size of the weapon itself, the damage boost is easy to use for foes resistant to Fire.\n\nA mediocre Caduceus Round Shield rounds out the equipment setup. While it is unsuitable for blocking anything but the occasional Magic attack, it is still a light Parry tool. Actually blocking attacks should be left to the physically sturdy shields such as the Silver Eagle Kite Shield.\n\nIts Pyromancer Set has good elemental defences and Poison and Curse resistances but bad physical defences.\n\nThe primary Pyromancy trainer is found early on, in the Undead Settlement.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6af2379f-fcb5-514b-b12f-3863ac425c5a",
+    "title": "Pyromancer (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Pyromancer (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : The **Pyromancer** is one of the classes in *Dark Souls 3*.\n\nIt is a class with high Intelligence and Faith, making it suitable for builds based on Pyromancy or Dark Spells. It has the lowest Luck of all classes, a trait shared with the Knight.\n\nFireball is a strong spell and benefits from the fact that many early enemies are vulnerable to Fire, if a bit expensive and hard to aim due to it being thrown in an arc. The **Pyromancer** effectively still has two Pyromancies due to its casting tool, the Pyromancy Flame, having the classic pyromancy Combustion as its Weapon Art for a melee range alternative. The Great Swamp Ring will boost the damage of Fireball by 12% but since Combustion is a Weapon Art it won't be boosted.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ce227391-939d-5252-bdb4-d91a3921b0e8",
+    "title": "Pyromancer (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Speaking of, the Pyromancy Flame will be the only casting tool for Pyromancy for a while and while it scales with both Intelligence and Faith it still works relatively well with more investment in one stat over the other. There is however one complicating factor for the scaling: unless Intelligence is at least 22 (goes down to a minimum of 18 as the Pyromancy Flame is upgraded), certain spells (Fireball, Fire Orb, and Great Chaos Fire Orb) won't scale with the Faith part of the Flame and therefore end up doing greatly decreased damage on a Faith build with insufficient investment in Intelligence. When wielded in the right hand it has the peculiar function of working as a free, short range punch that deals fire damage, helping against enemies weak to fire like the ooze-like Writhing Rotten Flesh in the Cathedral of the Deep.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "08636f85-b989-5c5a-b8fd-a3c99efe8f3c",
+    "title": "Skeleton (Dark Souls III)",
+    "section": "locations",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Skeleton (Dark Souls III) -  Dark Souls III - enemy - locations \n locations : Undead Settlement\nSeveral skeletons inhabit the underground path that leads from the sewers to Irina's cell. This is the only place in the game where those with growing plantlife can be found. Also the skeletons are still wearing some of the clothes and accessories that their hollow brethren do.\nCatacombs of Carthus\nSkeletons of all varieties conform the main enemies encountered in this area, with a notable big mob appearing near the hanging bridge that leads to Wolnir's boss room.\nSeveral skeletons with white glowing eyes are found scattered throughout the large hall where the Demon attacks, just before reaching the Abandoned Tomb bonfire. These will attack both the player and the Demon itself, and must be disabled twice in order to put them down for good, unless the player is using a Blessed weapon.\nSmouldering Lake",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "15fd3fb8-98ab-54a1-82eb-c3ba737ece5c",
+    "title": "Skeleton (Dark Souls III)",
+    "section": "locations",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Smouldering Lake\nTwo skeletons are found along the path that leads to the ballista, among many other skeletal monsters.\nThe Ringed City",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2b938a02-767c-5cc4-8b43-b7a87a04755c",
+    "title": "Skeleton (Dark Souls III)",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Skeleton (Dark Souls III) -  Dark Souls III - enemy - strategy \n strategy : Skeletons often appear in packs and their aggressive fighting style can easily kill an unprepared player. They use a variety of sword attacks, including a leaping slice, dashing lunge, and a dive attack that briefly causes them to fall apart. All of their attacks cause Bleed build-up, and can also parry and riposte the player for heavy damage.\n\nMost skeletons reanimate when the player is close to them; this process takes a few seconds, however, leaving them vulnerable whilst they assemble themselves. They make a distinct sound when reanimating, so the player should listen out for it when exploring skeleton-inhabited lairs to avoid being ambushed. They are very weak to fire and will flail helplessly if ignited.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2be03a69-6e9a-5d3a-92f2-5e8dae51fd41",
+    "title": "Skeleton (Dark Souls III)",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Skeleton (Dark Souls III) -  Dark Souls III - enemy - notes \n notes : The unique rooted skeletons in the Undead Settlement's sewers are immune to Bleed, Poison, and Frost.\nAll variants can be parried, riposted and backstabbed (even the archers, when approached, will attempt to stab the player with their arrow which can be parried).",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "910664cf-29e5-56d8-9286-73bd018e9210",
+    "title": "Skeleton (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Skeleton (Dark Souls III) -  Dark Souls III - enemy - description \n description : Skeletons are piles of bones that reanimate when disturbed. Despite their brittle appearance, they are fast and aggressive opponents that can easily overwhelm an unwary player. They wield of variety of weapons and are capable of fighting despite missing limbs and even their heads.\n\nSome skeletons in the Undead Settlement appear much more decayed, with plantlife growing out from their bodies.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b7a8da45-cb9e-5c7b-8aa7-52228b8ae4ad",
+    "title": "Skeleton (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Skeleton (Dark Souls III) -  Dark Souls III - enemy - lead \n lead : **Skeletons** are enemies in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ef984b20-1205-5ecb-95a2-ec6056831c9f",
+    "title": "Skeleton (Dark Souls III)",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Some of the skeletons in the Catacombs of Carthus have white glowing eyes and will reanimate a second time when defeated. The player should pay attention to see if they drop an item or souls; if they don't, then they will reanimate after a few seconds.\n\nThe player should not be overconfident when approaching a pile of bones, as they may randomly reassemble instantly and start attacking in quick succession.\n\nTwo non-hostile, hooded skeletons are found in the Catacombs of Carthus and will flee when approached. Each controls one of the big skeletal boulders that are rolling in their vicinity. Killing them will make the boulder to crash and break apart, revealing its contents.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7de8a744-7872-598e-8bef-e46f8334cbf5",
+    "title": "Thief (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Though it has decent physical defence and dark defence for light armor, thanks to its Thief Mask and partial Deserter Set not covering its hands slot the **Thief** effectively has a flat defence penalty, since filling an armor slot gives a small bonus to flat defence. This is most easily fixed by taking the Master's Gloves from the Sword Master outside of Firelink Shrine, or by buying the Leather Gloves from the Shrine Handmaid.\n\nIt's more of a hard to use class, owing to its short and fairly weak weapon, asking for greater skill in dodging attacks to get close.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a01a2d66-5a12-53b9-a43a-476c2a17f860",
+    "title": "Thief (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Of the other two pieces of equipment, the Iron Round Shield is a small shield with a decent amount of physical defence (if not elemental defence) and a fairly high amount of Stability, along with a Small Shields improved Parry Weapon Art. The Short Bow on the other hand, is a fairly weak weapon with decent range (if a bit short for a Bow) that is best used for pulling foes from their starting location or to whittle down strong foes from just outside of their reach, instead of as a main weapon. As a light bow it has the advantageous quality of being able to fire directly out of a roll or sprint, and its Weapon Art, Rapid Fire, lets it potentially Poison easier with Poison Arrows. The starting Wood Arrows can be resupplied from the Shrine Handmaid, and will most likely have to be so fairly often if used for attacking since they have low damage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ae508071-b198-519d-9962-0cb62df1cc25",
+    "title": "Thief (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Bandit's Knife has low damage per attack but can mostly make up for this against enemies that can be afflicted with Bleed, since the dagger's rapid attacks can proc the status effect quickly (even more so with a Carthus Rouge on it), and its Quickstep will let it maneuver quickly around foes or in areas that slow movement such as the swamp in Farron Keep. Otherwise, a flat attack buff such as Charcoal Pine Resin or Magic Weapon will help the most in increasing damage dealt.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fc8ed8b1-5e64-52d4-a88f-4c86e3daabe3",
+    "title": "Thief (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Thief (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : The **Thief** is one of the classes in *Dark Souls 3*.\n\nIt is a class focused on Dexterity and Luck, making it good for a build focused on light or status inflicting weapons, such as the Scimitar or the Uchigatana, or weapons with the Sharp, Blood, or Hollow Infusions. It also has just enough Attunement and Intelligence to immediately use supportive Sorceries such as Spook for increased stealth or Magic Weapon for extra damage without additional investment in those stats.",
+    "sources": [
+      "template",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.675142987551975
+  },
+  {
+    "document_id": "1758d6f2-0dd9-5eb0-92c0-e1c105a0061e",
+    "title": "Undead Cleric",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Undead Cleric -  Dark Souls III - enemy - location \n location : Found throughout the Ringed City.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "30da0ff6-5989-54ea-9edc-8c0883660bbb",
+    "title": "Hollow",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Hollow -  Dark Souls III - mechanic - dark_souls_iii \n dark_souls_iii : Hollowing works somewhat differently in *Dark Souls III* compared to the previous games.\n#Hollowing does not occur until the Ashen One has acquired at least one Dark Sigil. Every time the player dies, their \"Hollowing\" stat will increase by an amount equal to the number of Dark Sigils in their inventory. The Ashen One's body will start decaying after reaching a certain level of hollowing, but this effect is purely aesthetic.\n#Hollowing has no negative effects on gameplay. However, it is required for certain NPC questlines and provides a bonus to luck when wielding Hollow weapons, if the player's hollowing level is at least 15.\n#Unlike the previous installments, Hollowing and the \"Host of Embers\" status are unrelated; online interactions are governed only by the latter, meaning that hollowing does not affect invasions or summons.\n#Hollowing can be reversed temporarily or permanently through two mechanics:",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7067208871638971,
+    "bm25_score": 35.345476665651255
+  },
+  {
+    "document_id": "b8d5f771-8179-52f8-9c9d-c088259a7037",
+    "title": "Infusion (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Infusion (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : **Infusion** is a gameplay mechanic in *Dark Souls III*. It is a form of weapon reinforcement. Infusing a weapon can be performed by talking with Blacksmith Andre and change the attributes of a weapon. For example, infusing a Scimitar with the Blessed infusion increases the scaling on that weapon for Faith, while reducing scaling for every other parameter.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6960680940158324,
+    "bm25_score": 27.681732405252234
+  },
+  {
+    "document_id": "0feb975b-677d-5391-b8a1-802863c88dad",
+    "title": "Bleed (Dark Souls II)",
+    "section": "infusion",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - infusion \n infusion : Steady Hand McDuff can infuse most weapons with Bleed through the use of a Bleed Stone. Once a weapon is infused, the Bleed icon () will be displayed next to its image in the HUD.\n\nUninfused weapons imbued with Bleed gain a fixed Bleed buildup value (which does **not** scale with the Bleed Attack Bonus), but the base physical damage is lowered by 30%. For example, if a regular weapon that deals 100 physical damage is infused with Bleed, its stats switch over to 70 physical damage and 112 Bleed buildup.\nWeapons with innate Bleed buildup gain an additional increase to Bleed buildup, but the base physical damage is lowered by 5%, as is the current scaling. For example, the Bandit's Knife goes from 65 physical damage + 67 Bleed buildup to 62 physical damage + 96 Bleed buildup when infused.\nShields gain additional Bleed resistance while lowering other resistances.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6813418462849088,
+    "bm25_score": 28.244132534777282
+  },
+  {
+    "document_id": "6264313b-c0bf-5a5c-a147-f6a326524eb3",
+    "title": "Hollow",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Hollow -  Dark Souls III - mechanic - dark_souls_ii \n dark_souls_ii : Hollowing in *Dark Souls II* is similar to the previous game, with a few key differences:\n\n#Being hollow does not prevent being invaded by NPCs and other players.\n#Each death suffered will reduce the player's max HP in increments of 5%. This will continue until it caps at 50% of maximum HP, unless the player has a sin level of wretch, which will cap it at 5%. With the Ring of Binding equipped, the HP cap is halved.\n#The player's appearance visually degrades with each death.\n\nReverse Hollowing can be made instantly using a Human Effigy from the inventory. Alternatively, seeking Vendrick's blessing and wearing one of the four crowns will completely negate the effect of Hollowing, even upon death.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6784571605280563,
+    "bm25_score": 29.847564938751447
+  },
+  {
+    "document_id": "e5ccbcbf-3942-5a98-9dd9-8a28f98562e8",
+    "title": "Hollow Assassin",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Hollow Assassin -  Dark Souls III - enemy - strategy \n strategy : Hollow Assassins are very quick and agile, and have slightly more health than their fellow area hollows, so equipping a quick weapon is preferred in order to deal with them. They have very little poise, however, and simply raising up a shield will usually be enough for them to become staggered as they hit it, allowing for an easy kill.\n\nIt is not recommended to confront them in groups, as they can easily flank the player and combine a series of quick flurries, locking them in place until they die.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.675991748551969,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9db007c6-d54f-5bae-bc66-f2f930ce10b1",
+    "title": "Hollowslayer Greatsword",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Hollowslayer Greatsword -  Dark Souls III - weapon - notes \n notes : Deals 20% bonus damage to Hollow enemies (does not apply to hollowed players in PvP).",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6735521234938648,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e8e4806e-7a5f-50f5-acd8-9c47f272dc5e",
+    "title": "Hollow",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Hollow -  Dark Souls III - mechanic - dark_souls \n dark_souls : In terms of gameplay, Hollow refers to an in-game mechanism which limits the abilities and possible scenarios of the Chosen Undead. Namely, not being able to summon NPCs and other players in the form of white phantoms. Alternatively, being Hollow might also be desirable at times as it prevents the player from being invaded by other characters and players.\n\nIt is possible to \"Reverse Hollowing\" by offering Humanity at a bonfire; however, death results in reverting to a semi-Hollowed state. Also, the darksign can recreate the Chosen Undead's body in order to be reborn.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.671591614565736,
+    "bm25_score": 25.895718166242613
+  },
+  {
+    "document_id": "288b4b97-a24d-54d8-a76c-fba8f6849dbb",
+    "title": "Hollow Assassin",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Hollow Assassin -  Dark Souls III - enemy - notes \n notes : Affected by Alluring Skulls.\nAffected by Rapport.\nWeak to Poison and Toxic.\nWeak to Hollowslayer Greatsword.\nCan be parried, riposted and backstabbed.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6696559444773154,
+    "bm25_score": null
+  },
+  {
+    "document_id": "addb9345-0370-5615-94a5-432e1980d48e",
+    "title": "Hollow Soldier (Dark Souls III)",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Hollow Soldier (Dark Souls III) -  Dark Souls III - enemy - notes \n notes : Affected by Alluring Skulls.\nAffected by Rapport.\nWeak against Poison and Toxic.\nThey have a long recovery time after an attack (approximately 3-4 seconds) allowing for an easy backstab.\nSpear-wielding hollows will attempt to heal using an Estus Flask.\nThe lantern-wielding hollows will call upon other hollows within the vicinity with a scream if not killed quickly.\nCan be parried, riposted and backstabbed.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.662191316951368,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d21774b7-05ec-5ad8-9f28-035ce53c5411",
+    "title": "Bleed (Dark Souls III)",
+    "section": "bleed_buildup_removal",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls III) -  Dark Souls III - mechanic - bleed_buildup_removal \n bleed_buildup_removal : Bloodred Moss Clump\nCaressing Tears\nDivine Blessing",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6579659954196481,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3b3d395d-bda1-52b5-8027-3599513c7b8b",
+    "title": "Engorged Hollow",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Engorged Hollow -  Dark Souls - enemy - attacks \n attacks : Used upon death.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6508649099116446,
+    "bm25_score": null
+  },
+  {
+    "document_id": "23e7bdde-68f0-51db-a4fb-9c0895108e81",
+    "title": "Dark Sigil",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Dark Sigil -  Dark Souls III - item - usage \n usage : Increases the player's Hollowing level by the number of accumulated Sigils upon death.\nGrants bonus Luck when wielding Hollow-infused weapons if Hollowing is 15 or greater, based on the upgrade level of the weapon.\nOnce eight Dark Sigils are acquired, the Lord of Hollows ending may be unlocked.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.647155473269184,
+    "bm25_score": 27.76246938742539
+  },
+  {
+    "document_id": "9e065626-859f-56e8-a034-6ff671ba0369",
+    "title": "Dark Pyromancy Flame",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Dark Pyromancy Flame -  Dark Souls II - weapon - notes \n notes : Hollowing greater than 10 (50% of base max HP) does not result in greater amounts of damage, even upon reaching a Sin status of Wretch, which enables the maximum hollow state to reach 5% of the player's total health.\nIf the player enters the Brotherhood of Blood or Blue Sentinels' arena while hollowed, the flame will keep its scaling from hollowing even though the player is considered human. This is the only way to get the full damage of the flame without the HP penalty.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6425523226851416,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3207a680-0994-59c1-a969-3119c18f0eb5",
+    "title": "Dark (Dark Souls III)",
+    "section": "infusion",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls III) -  Dark Souls III - mechanic - infusion \n infusion : Infusing a weapon with a Deep Gem will imbue it with Dark damage, at the expense of all stat scaling effects.\nWeapons infused with a Dark Gem inflict Dark damage while scaling with the player's Faith and Intelligence.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6421859477698375,
+    "bm25_score": null
+  },
+  {
+    "document_id": "91ecc7cf-0a9c-517f-9c15-c09bc78f1949",
+    "title": "Hollow",
+    "section": "causes",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Hollow -  Dark Souls III - mechanic - causes \n causes : The causes of Hollowing are not fully understood. Hollowing involves the loss of Humanity, the loss of purpose, or both.\n\nHumanity seems to slow Hollowing. The characters closest to Hollowing do not drop any Humanity when killed. Using the Dark Hand, Humanity can be stolen from most characters, with the exception of several characters close to Hollowing (Crestfallen Warrior, Crestfallen Merchant, Undead Male Merchant, Undead Female Merchant). However, some fully Hollowed characters will drop large amounts of Humanity when killed, indicating that even Humanity cannot prevent Hollowing entirely.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6420235223475067,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dfb43331-ca45-5d2b-a175-f8bf94f06e22",
+    "title": "Hollow",
+    "section": "plot",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Hollow -  Dark Souls III - mechanic - plot \n plot : At the beginning of the Age of Fire, Gwyn marked the Dark Soul within every human being with a seal of fire, blocking its natural powers and causing humans to become mortal. As the First Flame began to fade, the Darksign's power consequently weakened and, as it was no longer able to adequately contain the Dark Soul, humans returned to being immortal, coming back to life with each death, and becoming known as Undead. However, humans are still marked by the Darksign, which consumes their Dark Soul as fuel to continue to exist. This leads the Undead to slowly lose their minds and become Hollows, as the strength that allows them to have a will and emotions and remain human is consumed from within them.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6398265029931259,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a203d882-03b9-5366-96af-ec27e28a1d81",
+    "title": "Bleed (Dark Souls III)",
+    "section": "bleed_resistance_improvement",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls III) -  Dark Souls III - mechanic - bleed_resistance_improvement \n bleed_resistance_improvement : Bloodbite Ring\nDeep Protection\nFleshbite Ring\nIron Flesh\nMossfruit\nProfuse Sweat\nLeveling the Endurance stat\nArmor with high Bleed resistance\nWolf Knight's Greatshield",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6393580791831159,
+    "bm25_score": null
+  },
+  {
+    "document_id": "39dca90b-d72d-5c7e-82ee-eb3a9070767a",
+    "title": "Bleed (Dark Souls II)",
+    "section": "bleed_weapons",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - bleed_weapons \n bleed_weapons : The following is a list of weapons and shields that bear an innate Bleed buildup effect. For information as to how these weapons are effected by Bleed infusions, see this section.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.638601151875537,
+    "bm25_score": null
+  },
+  {
+    "document_id": "485626ea-8d68-554f-a60d-1643c77dc7e2",
+    "title": "Hollow Infantry Set",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Hollow Infantry Set -  Dark Souls II - armor - description \n description : Armor worn by Hollowed Infantry.\n\nA piece of basic, minimal equipment.\nWorse yet, it's worn and nearly falling apart.\nNot recommended unless your options are spent.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6372979634408833,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c8db5968-64ce-5ef9-b203-3988d38eefb0",
+    "title": "Praying Hollow Soldier",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Praying Hollow Soldier -  Dark Souls III - enemy - see_also \n see_also : Hollow Soldier",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.637216351396996,
+    "bm25_score": null
+  },
+  {
+    "document_id": "653182d7-535f-5b99-a138-0937a8c3054a",
+    "title": "Hollow Warrior Set",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Hollow Warrior Set -  Dark Souls - armor - plot \n plot : Worn by Hollow Warriors.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6333003739482703,
+    "bm25_score": null
+  },
+  {
+    "document_id": "719970bd-2136-53ba-8bb4-a10b11cb8d51",
+    "title": "Infusion",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Infusion -  Dark Souls II - mechanic - lead \n lead : For the similar mechanic in Dark Souls, see Weapon Modification. For the same mechanic in Dark Souls III, see Infusion (Dark Souls III). For the action of the player actively buffing a weapon, see Weapon Buff (Dark Souls II).*\n\n**Infusion** is a game mechanic in *Dark Souls II* that allows the player to modify damage types, scaling, and damage reduction for weapons, shields, staves, and sacred chimes.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6332796871169047,
+    "bm25_score": 26.8820097848084
+  },
+  {
+    "document_id": "5b9549c4-8da7-5793-9b21-48d26111bc80",
+    "title": "Hollow Infantry Armor",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Hollow Infantry Armor -  Dark Souls II - armor - availability \n availability : Dropped by Hollow Infantry in Forest of Fallen Giants.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6329862295315105,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7a3be0df-0e2d-59f3-9c75-042d209ed53f",
+    "title": "Hollow Infantry Helm",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Hollow Infantry Helm -  Dark Souls II - armor - description \n description : Helm worn by Hollowed infantry.\n\nA piece of basic, minimal equipment. Worse yet, it's worn and nearly falling apart. Not recommended unless your options are spent.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6304253948166818,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cda87c61-d137-52c6-aae1-a62ad3eb17d0",
+    "title": "Hollow Infantry Gloves",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Hollow Infantry Gloves -  Dark Souls II - armor - description \n description : Gloves worn by Hollowed Infantry.\n\nA piece of basic, minimal equipment. Worse yet, it's worn and nearly falling apart. Not recommended unless your options are spent.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6292093057392757,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ec13027a-5425-506e-afce-4b0a6fbe0e4e",
+    "title": "Bleed (Dark Souls II)",
+    "section": "boosting_bleed_buildup",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - boosting_bleed_buildup \n boosting_bleed_buildup : There are two pieces of equipment that can grant a flat bonus to the Bleed buildup stat on Bleed weapons when worn. The bonus granted from these items can vary depending on what type of Bleed weapon is equipped, be it innate Bleed, infused Bleed or both. Both of these items can be worn together, which would provide double the bonus.\n\nThe following numbers are the menu numbers but they are applied as a fifth of that on hit. Additionally, Shadow Gauntlets have an invisible unique effect that enables bleed scaling on all equipped weapons by a custom amount, making it the only way to increase bleed on lacerating arrows and making it the best status increasing item.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6279248526393779,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5a7451b3-ff21-5fb2-8feb-fea603902e65",
+    "title": "Hollow Infantry Boots",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Hollow Infantry Boots -  Dark Souls II - armor - description \n description : Leggings worn by Hollowed Infantry.\n\nA piece of basic, minimal equipment. Worse yet, it's worn and nearly falling apart. Not recommended unless your options are spent.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6273140527648333,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9122e475-0af8-55af-9295-2c677835e0a7",
+    "title": "Dark (Dark Souls III)",
+    "section": "items_2",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls III) -  Dark Souls III - mechanic - items_2 \n items_2 : Weapons that are not elementally infused can deal Dark damage with the augmentation of a Human Pine Resin or with the miracle Dark Blade.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6271742400928411,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c7c8c5ab-e85a-5a7b-b332-50de5502d1da",
+    "title": "Large Hollow Soldier",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Large Hollow Soldier -  Dark Souls III - enemy - strategy \n strategy : Hollow Soldiers are very vulnerable to backstabs following their attacks and are easily staggered. Whilst not a great threat on their own, they become much more dangerous in groups, so it is advised to lure them away from their small brethren. Although slow moving, both variants can close the distance quickly, the greataxe variant will perform a leaping slam and the halberd variant will use a spinning sweep. Both of these moves are very damaging.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6258653143831296,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8efa4b07-a0fd-52f4-97b9-107fba558471",
+    "title": "Bleed (Dark Souls)",
+    "section": "build_up",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Bleed (Dark Souls) -  Dark Souls - item - build_up \n build_up : When the Bleed effect occurs a build-up bar will appear in the middle of the screen. Blood Loss will take effect when the bleed meter fills up. The size of the bar is determined by the amount of resistance to bleed the player has.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6255495159746979,
+    "bm25_score": 29.046403184911746
+  },
+  {
+    "document_id": "9ef4207b-6a07-5251-9989-0d9e4d004078",
+    "title": "Hollow Infantry",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Hollow Infantry -  Dark Souls II - enemy - strategy \n strategy : The Hollow Infantry are one of the weakest enemies in the game. They can be found wielding a sword and shield, an axe, a bow, a dagger or even nothing at all, in which case, they'll fight bare-handed. They have low to very low health and are easily staggered.\n\nSometimes they can play dead, but will arise and can easily surprise the unaware player. The player should be wary of fighting these enemies in large groups as they can overwhelm them.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6251213898879563,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e52992ae-3efc-568d-8df8-e4460bedec4c",
+    "title": "Hollow Infantry Gloves",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Hollow Infantry Gloves -  Dark Souls II - armor - availability \n availability : Dropped by Hollow Infantry in Forest of Fallen Giants.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6246898249206907,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0da49ee9-8004-550f-bcf8-036d03e3773f",
+    "title": "Hollow Soldier Set",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Hollow Soldier Set -  Dark Souls - armor - plot \n plot : Worn by Hollow Soldiers, this set is never seen on NPCs.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6241020967801278,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ea005640-c301-5171-b885-932bbb3fd92c",
+    "title": "Hollow Infantry Armor",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Hollow Infantry Armor -  Dark Souls II - armor - description \n description : Armor worn by Hollowed Infantry.\n\nA piece of basic, minimal equipment.\nWorse yet, it's worn and nearly falling apart.\nNot recommended unless your options are spent.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6233753739359459,
+    "bm25_score": null
+  },
+  {
+    "document_id": "89775a51-eed4-52b9-b63d-2e167a11f784",
+    "title": "Hollow Infantry Set",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Hollow Infantry Set -  Dark Souls II - armor - availability \n availability : Drops from the Hollow Infantry in the Forest of Fallen Giants.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6216095197112902,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3692c002-88df-5117-a319-657d0fba89f4",
+    "title": "Hollow Assassin",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Hollow Assassin -  Dark Souls III - enemy - lead \n lead : **Hollow Assassins** are enemies in *Dark Souls III*.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6205699378955214,
+    "bm25_score": null
+  },
+  {
+    "document_id": "634f0193-97d2-5f57-8cc4-6a7f6af1d37b",
+    "title": "Hollow (enemy)",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Hollow (enemy) -  Dark Souls - enemy - description \n description : Hollows can be either hostile or non-hostile. They wear little more than rags and are either barehanded or wield a Broken Straight Sword, Short Bow or torch. They are usually lethargic, but can also seem tortured and at times appear catatonic.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6204750739371888,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a2d79e99-12f3-5127-bac4-0b582c00241b",
+    "title": "Hollow Infantry Set",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Hollow Infantry Set -  Dark Souls II - armor - lead \n lead : The **Hollow Infantry Set** is a medium armor set in *Dark Souls II*.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6188330732656451,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3f84210c-d3eb-5125-91c0-4fe1bb03074c",
+    "title": "Hollow Infantry Set",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Hollow Infantry Set -  Dark Souls II - armor - trivia \n trivia : This set is a decayed version of the Infantry Set.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6177382857408853,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5091b33d-6bb0-5875-8e6e-60cd69cbe026",
+    "title": "Hollow's Ashes",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Hollow's Ashes -  Dark Souls III - item - lead \n lead : The **Hollow's Ashes** are a key item in *Dark Souls III*. They are one of several umbral ashes that can be found throughout the course of the game.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6161225440819813,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8d6cd7f5-3a38-5d74-ab18-caf734f1acab",
+    "title": "Hollow",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Hollow -  Dark Souls III - mechanic - lead \n lead : is a degenerative state in the *Dark Souls* franchise which the Undead are doomed to eventually become unless they can find a steady supply of Humanity.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6155895966564534,
+    "bm25_score": null
+  },
+  {
+    "document_id": "95e7ab5c-da84-5fa8-89d7-7ef757647212",
+    "title": "Purging Stone (Dark Souls III)",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Purging Stone (Dark Souls III) -  Dark Souls III - item - usage \n usage : Resets Hollowing to 0. Does not remove the Dark Sigil, so Hollowing will still build up as a result of player death.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.074886858269636
+  },
+  {
+    "document_id": "e518b690-6d0b-5dd7-979c-fd5c4b7523a8",
+    "title": "Anri's Straight Sword",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Anri's Straight Sword -  Dark Souls III - weapon - characteristics \n characteristics : Anri's Straight Sword is unique in that its attack power scales with the wielder's Luck without the need for a Hollow infusion. Simultaneously, it boasts the auxiliary effects of a Blessed infusion, slowly restoring the wielder's health over time and inflicting bonus damage against undead enemies, as well as preventing skeletons and Skeleton Swordsmen from reviving.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.356121160148874
+  },
+  {
+    "document_id": "624d5864-3e51-5435-aea7-99ab542bb964",
+    "title": "Stats (Dark Souls III)",
+    "section": "file_dark_souls_iii_luck_icon_png_luck",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Stats (Dark Souls III) -  Dark Souls III - mechanic - file_dark_souls_iii_luck_icon_png_luck \n file_dark_souls_iii_luck_icon_png_luck : Improves item discovery, bleed and poison output, and the damage of few weapons.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.498061854056367
+  },
+  {
+    "document_id": "7dc37bd4-d1ee-5404-b50a-9be3a75e92e6",
+    "title": "Rotten Pine Resin (Dark Souls III)",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Rotten Pine Resin (Dark Souls III) -  Dark Souls III - item - usage \n usage : Adds 45 Poison build-up to right-hand weapon. Buff lasts for 60 seconds.\n\nThe build-up increase scales with the Luck of the wielder, up to 59 build-up at 50 Luck.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.037945339605713
+  },
+  {
+    "document_id": "127461da-167a-501a-9e6f-3ad1b8fa798f",
+    "title": "Parameter Bonus (Dark Souls III)",
+    "section": "luck",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus (Dark Souls III) -  Dark Souls III - mechanic - luck \n luck : Some weapons scale with Luck. However, the parameter is not displayed anywhere on the weapon's stat screen and it is unknown if Luck scaling is the same across all applicable weapons or not.\n\nAdditionally, most weapons that scale with Luck will also boost Luck by five points when held, if the player's hollowing stat is 15 or higher.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.63468460769671
+  },
+  {
+    "document_id": "1501d16f-29f1-5c11-ae50-08e2809067eb",
+    "title": "Poison Gem",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Poison Gem -  Dark Souls III - item - usage \n usage : Infuses a weapon with Poison, allowing it to inflict the Poison status effect and increasing in effectiveness with the wielder's Luck. Weapons that innately inflict Poison build-up are granted increased build-up and improved Luck scaling.\n\nGreatly reduces Strength, Dexterity, Intelligence and Faith scaling, as well as base damage.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.45995745596433
+  },
+  {
+    "document_id": "2f1385fe-3925-5d95-a70a-ce0b5e2ca34f",
+    "title": "Bleed (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - lead \n lead : **Bleed** is a negative status effect, damage type and auxiliary effect in . It can be inflicted by the environment, various weapons or items. It can also be used as an infusion for weapons. Bleed can affect both the player and most enemies.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.363041729291783
+  },
+  {
+    "document_id": "a2a0110c-90fc-5152-b7ae-a30b032dcc88",
+    "title": "Crescent Axe (Dark Souls III)",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Crescent Axe (Dark Souls III) -  Dark Souls III - weapon - notes \n notes : Unlike its previous appearances in the series, the Crescent Axe in *Dark Souls III* is a halberd, instead of an axe or a greataxe, and does not have an innate Magic infusion.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.20336034424043
+  },
+  {
+    "document_id": "5fcf3caa-fbfa-56b7-92f6-14c71d3f37a8",
+    "title": "Battle Axe (Dark Souls III)",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Battle Axe (Dark Souls III) -  Dark Souls III - weapon - notes \n notes : The Deep Battle Axe found in the High Wall of Lothric has no scaling bonuses due to its infusion. However, it will still deal more damage to non-hollow enemies than most other weapons found early in the game.\n**The infusion can be removed by using a Shriving Stone with Blacksmith Andre, revealing the weapon's base stats and bonuses.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.264765666697862
+  },
+  {
+    "document_id": "4756e905-4c50-5898-8e1b-d85e9e77b697",
+    "title": "Negative Status Effects",
+    "section": "bleed_dark_souls_bleed",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Negative Status Effects -  Dark Souls - mechanic - bleed_dark_souls_bleed \n bleed_dark_souls_bleed : Bleed is a status effect that builds up after successive attacks from specific enemies' weapons. Once the bleed meter is full, it will deal damage based on a percentage of the victim's health. Taking too many bleed effects can become fatal very quickly. Bleed build-up can be stopped through use of a Bloodred Moss Clump, a Divine Blessing, or with the sorcery Remedy.\n\nBleed damage can be avoided by rolling the moment when the bleed meter fills.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.190736938773806
+  },
+  {
+    "document_id": "4ec96d15-9253-5409-80e0-5499576ff11a",
+    "title": "Bleed (Dark Souls)",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Bleed (Dark Souls) -  Dark Souls - item - notes \n notes : Bleed damage can be avoided by rolling the moment when the Bleed meter fills.\nThe bleed bar build-up per strike is not listed in the in-game weapon statistics, only the percentage of health lost when blood loss occurs.\nBleed damage is capped lower for damage against bosses.\nThe skeletons are able to inflict bleed upon the player when using their Scimitars and Falchions, despite these weapons not having a bleed effect when used by the player against enemies. Similarly, the Painting Guardians cannot use their weapons to inflict bleed upon the player, though the Painting Guardian Sword does inflict bleed upon enemies when wielded by the player.\nBleed damage is not blocked by any shields to any degree if the build-up was caused by an opponent in PvP. The same is true with Poison and Toxic.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.023113905769307
+  },
+  {
+    "document_id": "007b625b-f8af-5c2c-ac69-92feb44b4904",
+    "title": "Royal Greatsword",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Royal Greatsword -  Dark Souls II - weapon - description \n description : Due to their similar stats and moveset, the Royal Greatsword can be viewed as a Strength-oriented alternative to the Flamberge.\n\nMuch like the Flamberge, the Royal Greatsword causes Bleed build-up. It provides a good amount of damage while being lighter and slightly more durable than most other greatswords.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.861942582897232
+  },
+  {
+    "document_id": "f2900ba8-eb9f-5757-bcad-75f828ef8a29",
+    "title": "Purging Stone (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Purging Stone (Dark Souls III) -  Dark Souls III - item - description \n description : Ash-colored stone encasing a skull.\n\nReduces undead curse build-up and cures hollowing.\n\nInhabitants of Londor, the land of Hollows, use this secret treasure to feign normalcy.\n\nOccasionally, a Hollow fools even himself, and turns on his own kind.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.81667021194555
+  },
+  {
+    "document_id": "9c115fba-0580-5159-a0fe-7713c177b7a5",
+    "title": "Bleed (Dark Souls III)",
+    "section": "overview",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls III) -  Dark Souls III - mechanic - overview \n overview : Upon being inflicted with the status effect, a bar will appear on the player's HUD indicating the current level of buildup. Once the bar is filled up, the Blood Loss effect will proc, instantly inflicting 15% of the player's health bar as damage plus a flat amount, then shortly resetting to allow Bleed to build up again.\n\nThe flat damage inflicted upon a successful Blood Loss proc alongside the percentage value varies depending on the source:\n\nThe amount of Bleed inflicted by weapons wielded by the player is also influenced by Luck.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.773933618270473
+  },
+  {
+    "document_id": "f5aed9e6-bc8a-54f4-9a4d-5f44a18f1b7a",
+    "title": "Barbed Straight Sword (Dark Souls III)",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Barbed Straight Sword (Dark Souls III) -  Dark Souls III - weapon - characteristics \n characteristics : The Barbed Straight Sword shares the same moveset as the Long Sword, except each successful attack also causes bleed build-up, which upon infliction, will take off a sizable portion of an enemy's HP.\n\nIt is able to be buffed with both resins and spells.\n\nAs a note, the strong attack whilst in Stance will cause notably more bleed build-up if the attack connects with the target.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.401049857743782
+  },
+  {
+    "document_id": "e547df6b-201b-5128-b40d-e423fb2cc21f",
+    "title": "Saint Bident",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Saint Bident -  Dark Souls III - weapon - characteristics \n characteristics : This spear caters towards Faith-oriented builds, working either being infused with a Lightning Gem or buffed with resins or spells, such as Lightning Blade. Oddly enough, the Heavy infusion seems to be the only non-elemental infusion to benefit this spear. It is also one of the longest in its class, save for the Gargoyle Flame Spear and similar in length to the Lothric Knight Long Spear, which is a pike.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.153410419518657
+  },
+  {
+    "document_id": "a64a7cfb-7b4e-557f-8f42-fc01b7f8d621",
+    "title": "Scythe of the Forlorn",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Scythe of the Forlorn -  Dark Souls II - weapon - characteristics \n characteristics : While the Scythe of the Forlorn has decent normal stat scaling, it also scales with hollowing; that is, the more hollow the user is, the higher this scaling. Being in human form causes this weapon to scale *negatively* in this regard.\n\nSpecial Scaling Explanations can be found in Attack Rating.\n\nInfusing Bleed onto this weapon will reduce its stat scaling, but its Bleed effect will be increased and its Bleed damage doubled, causing this weapon at Bleed +5 to have one of the highest Bleed damages in the game. It should also be noted that infusing this weapon with Bleed will still cause it to have a higher Dark scaling if it were instead infused with Dark.\n\nInfusing this weapon with Raw will reduce the negative scaling of being human.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.1262229315428
+  },
+  {
+    "document_id": "5671b8b5-9592-5260-8593-291ace0de765",
+    "title": "Blacksteel Katana",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Blacksteel Katana -  Dark Souls II - weapon - notes \n notes : When used by the Alonne Knights, the Blacksteel Katana causes bleed build-up. However, the variant available to the player has no bleed effect prior to infusion. Similarly the Captains have a lightning-infused version, and the player-obtainable version has no lightning element without infusion.\nIronically, it boasts a slightly-higher bleed effect reduction than most other katanas do, despite not being able to inflict bleed damage when wielded by the player.\nThe 2H heavy attacks can be performed faster after Rolling and Backstep attacks, as well as after guard breaks and a single 2H light attack. This can make the Blacksteel Katana perform combos easily.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.926519151769376
+  },
+  {
+    "document_id": "60930b03-4068-5536-acda-2bc4136d25c4",
+    "title": "Vitality (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Vitality (Dark Souls) -  Dark Souls - mechanic - lead \n lead : **Vitality** is one of the eight base stats in *Dark Souls* that can be increased when leveling up. Investing in vitality increases the player's maximum health points (HP).\n\nContrary to the vitality stats in *Dark Souls II* and *Dark Souls III*, vitality in *Dark Souls* does not affect the player's maximum equipment load. In *Dark Souls*, equipment load is governed by endurance.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.89901243375839
+  },
+  {
+    "document_id": "618ad250-c3e8-52bf-b601-60fc9f5f2c98",
+    "title": "Soul of a Hero (Dark Souls II)",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of a Hero (Dark Souls II) -  Dark Souls II - item - description \n description : Soul of a hero of legend\nwho has long ago gone Hollow.\n\nUse to acquire a large amount of souls.\n\nThe soul is the source of all life,\nand even in undeath, or hollowing,\nthe mind seeks souls.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.82461542769387
+  },
+  {
+    "document_id": "0b05c493-f365-562e-8abd-f3b795ac042b",
+    "title": "Heirs of the Sun",
+    "section": "how_to_join",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Heirs of the Sun -  Dark Souls II - mechanic - how_to_join \n how_to_join : To join the Heirs of the Sun, the player must simply reach the Altar of Sunlight, located in Harvest Valley, and interact with it. Joining the covenant will have the recieve the Sun Seal.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.794517514885914
+  },
+  {
+    "document_id": "5c0c7bde-f426-50bf-a0d6-446d3b1a67bc",
+    "title": "Shadow Gauntlets (Dark Souls II)",
+    "section": "effects",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Shadow Gauntlets (Dark Souls II) -  Dark Souls II - armor - effects \n effects : Seemingly poor defense; however, they increase the Bleed damage of weapons with an innate Bleed effect or Bleed infusion, as well as having a high resistance to both Poison and Bleed status effects.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.728422656679637
+  },
+  {
+    "document_id": "caef51d3-cd39-57d0-b387-0e9616226c55",
+    "title": "Large Soul of a Nameless Soldier (Dark Souls II)",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Large Soul of a Nameless Soldier (Dark Souls II) -  Dark Souls II - item - description \n description : Soul of a nameless Undead soldier\nwho has long ago gone Hollow.\n\nUse to acquire souls.\n\nThe soul is the source of all life,\nand even in undeath, or hollowing,\nthe mind seeks souls.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.67708016867024
+  },
+  {
+    "document_id": "8899efc9-6933-555c-8db1-9e14614c158c",
+    "title": "Soul of a Proud Knight (Dark Souls II)",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of a Proud Knight (Dark Souls II) -  Dark Souls II - item - description \n description : Soul of a proud Undead knight who\nhas long ago gone Hollow.\n\nUse to acquire many souls.\n\nThe soul is the source of all life,\nand even in undeath, or hollowing,\nthe mind seeks souls.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.67708016867024
+  },
+  {
+    "document_id": "0ef78254-d30b-5476-b9e0-0915fa9df3fb",
+    "title": "Soul of a Brave Warrior (Dark Souls II)",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of a Brave Warrior (Dark Souls II) -  Dark Souls II - item - description \n description : Soul of a brave Undead warrior who\nhas long ago gone Hollow.\n\nUse to acquire a large amount of souls.\n\nThe soul is the source of all life,\nand even in undeath, or hollowing,\nthe mind seeks souls.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.664600406663055
+  },
+  {
+    "document_id": "9dc26cc6-4222-55c6-948d-5e35d69d20f2",
+    "title": "Player versus Player (Dark Souls III)",
+    "section": "pvp_oriented_covenants",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Player versus Player (Dark Souls III) -  Dark Souls III - mechanic - pvp_oriented_covenants \n pvp_oriented_covenants : In *Dark Souls III* all of the covenants are geared towards online play; also, all of the covenants can have an aspect related to PvP.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.633389261986718
+  },
+  {
+    "document_id": "2a004c63-7116-5b94-9e21-e44416490e19",
+    "title": "Soul of a Great Hero (Dark Souls II)",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of a Great Hero (Dark Souls II) -  Dark Souls II - item - description \n description : Great soul of a hero of legend\nwho has long ago gone Hollow.\n\nUse to acquire a large amount of souls.\n\nThe soul is the source of all life,\nand even in undeath, or hollowing,\nthe mind seeks souls.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.506740365095606
+  },
+  {
+    "document_id": "a6c9a462-79ca-5a81-9dba-a7b03c5dd033",
+    "title": "Deprived (Dark Souls II)",
+    "section": "starting_equipment",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Deprived (Dark Souls II) -  Dark Souls II - mechanic - starting_equipment \n starting_equipment : The Deprived does not have anything equipped upon creation, not even Lifegems. However, as with all starting classes in Dark Souls 2, the Imported Set worn before the character creation can be found unequipped in the character's inventory.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.49811608285222
+  },
+  {
+    "document_id": "69a026b6-5336-5c3b-82dd-3940f7ccb4a9",
+    "title": "Pharis",
+    "section": "identity",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "More supporting evidence is found within *Dark Souls II*, which ties the equipment of Pharis to a legendary female archer, as well as in *Dark Souls III*, in which Pharis's equipment is yet again found in a location associated with the Forest Hunter Archer, that being Farron Keep, a forested swamp that is heavily implied to be what became of Darkroot Garden in the future. The description of the hat from that game also states that it is especially favored by forest hunters, which is yet another point of connection with the Forest Hunter Archer.\n\nSome members of the *Dark Souls* community have assumed that the two characters can't be the same due to Pharis being described with male pronouns, and the Forest Hunter Archer being a woman. However, the Japanese version does not make any clear statement on Pharis's gender, and the hat's design has been retconned to be unisex in both *Dark Souls II* and *Dark Souls III*.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.464692323973647
+  }
+]

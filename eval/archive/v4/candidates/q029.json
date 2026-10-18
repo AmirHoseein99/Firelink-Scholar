@@ -1,0 +1,2390 @@
+[
+  {
+    "document_id": "02bd7e05-b553-54fe-b09e-b7df3a35959e",
+    "title": "Timeline",
+    "section": "irithyll_of_the_boreal_valley",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "During the exploration of the Profaned Capital, Sulyvahn discovers the Profaned Flame and its immense power. He takes a greatsword imbued of its power and returns to the capital. With the power to control an everlasting, terrible Flame he's seeing as the carrier of an unprecedented power and begins to rapidly climb the Church's ranks\nOnce he achieved a key position within the clergy, he de facto takes control of the city and declares himself Pontiff, therefore leader of the Church. Gwyndolin, the worshipped deity, is secluded in the cathedral and Yorshka is promptly imprisoned away from the rest of the world.\nThe Way of White refuses to officially recognize Sulyvahn new course, therefore a schism erupts within the church, with Irithyll's Pontiff on one side and Carim's Archbishop on the other\nThe Pontiff allows the clergy to freely study sorcery and creates his own militia to guard the city. The Blades of the Darkmoon are disbanded and removed as a threat to his power",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6462038250382189,
+    "bm25_score": null
+  },
+  {
+    "document_id": "05bd5cc0-2563-5537-8533-ae8d1e6dae87",
+    "title": "Gods",
+    "section": "irithyllians_and_descendants_of_the_old_gods",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Shira, Knight of Filianore, daughter of the dragon Seath and the relative of Gwyn he married, sworn to protecting the slumber of Gwyn's child Filianore.\nAldrich, the \"Saint of the Deep\", once a cleric from Irythyll who turned to eating Humans and would become the central figure of a new heretical faith focused around \"The Deep\", to which the Cathedral of the Deep is dedicated. He would later become a Lord of Cinder, yet be resurrected as fodder for a new Linking of the First Flame; renouncing this new duty, he resumed his duties as leader fo the faith of The Deep and seeked to become a \"Devourer of Gods\".\nThe various followers of Pontiff Sulyvahn in Irithyll:\n** The Boreal Outrider Knights, including Vordt of the Boreal Valley, doomed by the dual rings Sulyvahn gifted them to lose their sanity, and eventually turn into horrible beasts.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5122733655893912,
+    "bm25_score": null
+  },
+  {
+    "document_id": "063bf9fe-3591-55b2-9b64-c8358b12ea0b",
+    "title": "Pontiff's Left Eye",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Pontiff's Left Eye -  Dark Souls III - ring - description \n description : Bewitched ring that Pontiff Sulyvahn bestowed upon his knights.\n\nRecovers HP with successive attacks.\n\nKnights who peer into the black orb are lured into battles of death, transformed into frenzied beasts. No wonder the Pontiff only provides these rings to those dispatched to foreign lands.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.780950858109927
+  },
+  {
+    "document_id": "0f3786fc-8d3b-5bb9-8be1-86666f890a1b",
+    "title": "Aldrich Faithful",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Aldrich Faithful -  Dark Souls III - mechanic - description \n description : The Aldrich Faithfuls protect Lord Aldrich from harmful ash, such as the Ashen One, and claim Human Dregs as their prizes. These may be used to rank up in the covenant for rewards.",
+    "sources": [
+      "human",
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "12fc1e6e-0da7-5cbc-8d3c-3de6565043d2",
+    "title": "Pontiff Knight Crown",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Pontiff Knight Crown -  Dark Souls III - armor - description \n description : Crown of the Pontiff's Knights, now harrowed spirits of Irithyll.\n\nThe golden crown signifies those who report directly to Sulyvahn. The knights were his watchful eyes, and when needed, his punitive blades.",
+    "sources": [
+      "human",
+      "dense",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.45230267646101147,
+    "bm25_score": 14.210593541096081
+  },
+  {
+    "document_id": "13d3d975-92f9-53db-9971-c47ea98e8646",
+    "title": "Way of White",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "The Way of White built a cathedral dedicated to the goddess Caitha and with the aim of cleansing humans from the stagnant darkness within them that was becoming an ever-increasing problem, using the \"sacred and peaceful\" body of water on which the structure was built to contain all the remnants from its cleansing rituals and even sent three archdeacons to manage it.\n\nAt a certain point, the king of the gods Gwyndolin was struck by an \"illness\" and Sulyvahn took advantage of it, locking the god in the old abandoned cathedral of Anor Londo and proclaiming himself \"Pontiff\", thus assuming command of the Way of White. This caused a schism within the Way of White, as the Church of Carim and its Archbishop did not recognize Sulyvahn's authority, separating themselves from the denomination of the other Archbishops who kept following the Church of Irithyll.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.4653394878491936,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1507f04c-d1ca-5210-ac7e-b2900eae5688",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "dark_souls_iii : {'name': \"Sulyvahn's Coup and the Downfall\", 'description': 'One day Sulyvahn, a young sorcerer, arrived in Irithyll from the Painted World and was welcomed among the inhabitants despite not being a descendant of the gods, earning Gwyndolin\\'s favor thanks to a crude replica of his magical catalyst presented to his Darkmoon Knights, demonstrating the young man\\'s talent. Eventually Sulyvahn discovered the Profaned Capital deep within the region and the Profaned Flame contained therein, an unfading flame that became the fuel and instrument of his ambitions. Armed with this new power, the young sorcerer thus climbed the ranks of Irithyll\\'s clergy, corrupting the city\\'s holy knights with the everlasting flame and transforming their soldiers into his spies and assassins, effectively enforcing his way through their highest ranks.\\n\\nAt some point Gwyndolin was \"stricken by illness\" and forced to retreat to the old cathedral of Anor Londo, entrusting his sister Yorshka",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5302671133664341,
+    "bm25_score": null
+  },
+  {
+    "document_id": "20a36a9e-646b-54ee-9679-cc03111ec3b0",
+    "title": "Aldrich Faithful (item)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Aldrich Faithful (item) -  Dark Souls III - item - lead \n lead : **Aldrich Faithful** (神喰らいの守り手) is a covenant item in *Dark Souls III*.",
+    "sources": [
+      "human",
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "22e275c5-5018-572d-9244-e7b299974fd5",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "He gathered an army of deacons, who cast off their red robes and crowns—symbolic of their clerical duties— for new dark-blue ones and swore fealty as Aldrich Faithful, their venerance of the Deep finally codified under Aldrich's banner. He then marched on Irithyll, home to the old gods of Anor Londo and the residence of Chief Deity Gwyndolin. Likely forcing his way through the city's magical barrier, he would confront the forces of Pontiff Sulyvahn, who had no intention of relinquishing his power and authority over the city. From the battle that ensued, Aldrich emerged victorious, slaughtering Sulyvahn's troops and forcing him into capitulation. Seemingly, the two eventually struck a deal: the Pontiff would maintain some control over lower Irithyll; in exchange, Aldrich would be granted access to Gwyndolin, who was imprisoned by the Pontiff within the old Cathedral of Anor Londo.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.44775475707218176,
+    "bm25_score": 13.278070113602462
+  },
+  {
+    "document_id": "238b2e9c-f0eb-5efe-a491-c0928e291840",
+    "title": "Gods",
+    "section": "relations_of_the_gods_of_anor_londo",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Pontiff Sulyvahn, a cleric born in another Painted World and who later came to Anor Londo, where he would forcefully take control of Irithyll from Gwyndolin, becoming its tyrannical ruler.\nKing Oceiros, the King of Lothric who married Gwynevere. It is unknown what his original species was, but he would later become similar to a hybrid in an attempt to turn into a Dragon. He is the father of at least three of Gwynevere's children: Lorian, Lothric (named after the kingdom) and her youngest, Ocelotte, none of whom were deified; it is unclear whether or not he fathered Rosaria, the Dancer of the Boreal Valley, or Gertrude, but as Lorian was the heir to the throne, he was likely the two's oldest son, and perhaps their oldest child together.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 11.960945704970479
+  },
+  {
+    "document_id": "2447bcd3-d16f-52ac-9e8b-937656426644",
+    "title": "Pontiff Sulyvahn",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Pontiff Sulyvahn -  Dark Souls III - boss - strategy \n strategy : Once you enter through the fog gate, be cautious as you approach Pontiff as he will likely leap at you with his sword from a distance. With good timing, this attack can be parried, immediately giving you the upper hand.\n\nAs most of his combos are mid or mid-long range, two-handed shield-less builds should roll behind him because the only attacks that hit behind his back are turning pirouette attacks (or jump and plunge attacks in the second phase) that are easier to dodge than his multi-hit combos. Pontiff also overcommits to some attacks and can be combo-locked, giving a player the chance to deal free damage from behind. He will turn around but his turn is slow enough that a player can reposition behind his back. If Pontiff moves to mid-range, close the distance from the side and reposition behind his back.",
+    "sources": [
+      "human",
+      "template",
+      "dense"
+    ],
+    "dense_score": 0.4924153697464751,
+    "bm25_score": null
+  },
+  {
+    "document_id": "29b4e28a-82ac-55f4-b86c-502a41061049",
+    "title": "Pontiff Sulyvahn",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Pontiff Sulyvahn -  Dark Souls III - boss - theories \n theories : It is possible to theorize that the manor at the outskirts of Irithyll of the Boreal Valley was the house that was granted to Sulyvahn when he was accepted into the society of the nobles. The original description of the bonfire is \"Abandoned House on the Outskirts of the City” (街はずれの廃屋)\", implying that the Manor was built on the edge of the city as its inhabitant was not equal to the other nobles of divine origins, and that it had become abandoned by the time that Sulyvahn would have ascended to Pontiff. Furthermore, the \"Distant Manor\" bonfire is en route to the Irithyll Dungeon and consequently the Profaned Capital, where Sulyvahn would find the Profaned Flame below Irithyll, making the access under his house a logical point along his discovery. Curiously, the manor is also the place where the city's sewage system dumped its waste.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5674783889433058,
+    "bm25_score": 15.148377040675566
+  },
+  {
+    "document_id": "31b96939-eedd-52ae-9017-26432faa928d",
+    "title": "Fire Witch Set",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Fire Witch Set -  Dark Souls III - armor - description \n description : Armor of witches who bore the Profaned Flame, now harrowed spirits of Irithyll.\n\nThe witches who lead the Pontiff's Knights were originally ordained as holy knights. It was not long however, before their hearts were swallowed by the Profaned Flame.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3691cfd3-6139-5db6-be36-9523e5e1222f",
+    "title": "Profaned Greatsword",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Profaned Greatsword -  Dark Souls III - weapon - availability \n availability : Obtained by transposing the Soul of Pontiff Sulyvahn with Ludleth of Courland for 3,000 souls.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 13.481243189845525
+  },
+  {
+    "document_id": "41a9959f-194d-52dc-a414-27a129ef070d",
+    "title": "Pontiff Sulyvahn",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "During the fight, it is advised to not extend one's attacks for more than two swings as you would need your stamina to dodge or absorb Pontiff's aggressive retaliation. Sulyvahn's attacks can be difficult to avoid due to varying delays, rapidly chaining combos and the large distances that they can cover. Watch out for the downward strike and impaling slide attacks that he performs - they are telegraphed and have long recovery time, giving you time to strike back or heal up.",
+    "sources": [
+      "human",
+      "template",
+      "dense"
+    ],
+    "dense_score": 0.5491729004074429,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4806b68c-b191-59aa-9dcc-492ac4e31146",
+    "title": "Pontiff Sulyvahn",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "outside their ghostly bodies as monstrous beasts with human faces, wandering the streets. Meanwhile, in the prisons, Sulyvahn tried to transform people into pale dragons, but only managed to produce unrealized Wretches, victims of stunted development that manifested a faded strength of the ancient creatures and feeble tailbones. He would also imprison several sorcerers, probably to force them to share their knowledge, like a dark sorceress, a yellow scholar seeking sorceries from fallen Oolacile, an old Vinheim sorcerer, and a sorcerer-swordsman.",
+    "sources": [
+      "human",
+      "template",
+      "dense"
+    ],
+    "dense_score": 0.4567987056527957,
+    "bm25_score": null
+  },
+  {
+    "document_id": "494b51aa-e598-5800-ad92-042ebe06a9bd",
+    "title": "Pontiff Sulyvahn",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Pontiff Sulyvahn -  Dark Souls III - boss - lore \n lore : Sulyvahn was a humanoid creature born and raised in the Painted World of Ariandel. Despite his isolation from the outside world, he demonstrated incredible intelligence and talent for sorcery as a young man; he created new frost-based sorceries, using the cold climate of his home to strengthen weapons or form clouds of freezing mist. At some point Sulyvahn became dissatisfied with living inside the Painted World, as he had not experienced the loss or despair of those who ended up there to seek refuge after having lost everything else, and decided to abandon it, leaving behind the sorceries he developed to seek knowledge and experiences in the outside world.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6333699101788443,
+    "bm25_score": 13.360052506842685
+  },
+  {
+    "document_id": "49558451-31e8-51bf-8c6a-0d0b99033cd8",
+    "title": "Fire Witch Helm",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Fire Witch Helm -  Dark Souls III - armor - description \n description : Helm of witches who bore the Profaned Flame, now harrowed spirits of Irithyll.\n\nThe witches who lead the Pontiff's Knights were originally ordained as holy knights.\nIt was not long however, before their hearts were swallowed by the Profaned Flame.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4dc08566-fc9a-56ea-a30f-ceeecceef500",
+    "title": "Soul of Pontiff Sulyvahn",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Soul of Pontiff Sulyvahn -  Dark Souls III - item - lead \n lead : The **Soul of Pontiff Sulyvahn** is a boss soul in *Dark Souls III*.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6467394735399524,
+    "bm25_score": 17.602437384051726
+  },
+  {
+    "document_id": "4f08399c-55d6-5fe9-89b7-2dadb0eec54e",
+    "title": "Vordt of the Boreal Valley",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Vordt of the Boreal Valley -  Dark Souls III - boss - lore \n lore : Vordt is a distant descendant of the old gods of Anor Londo. He was among the Irithyllians, hybrids between the race of the gods of Anor Londo and humans, who inhabit Irithyll of the Boreal Valley, the city built for them on the ruins of Anor Londo.\n\nAfter Sulyvahn imprisoned Dark Sun Gwyndolin, proclaimed himself pontiff and assumed control of the city, Vordt was ordered to serve under the tyrant as a Boreal Outrider Knight, equivalent to being exiled. These knights, before being dispatched to foreign lands, were given the eye rings of the Pontiff, which eventually transformed them into savage, raving warriors who only knew how to serve as mindless guards, ensuring Sulyvahn's total control over them and depriving any means of desertion.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 12.841485494129497
+  },
+  {
+    "document_id": "4f16e21f-1fb2-5831-a7e2-598f85f90d14",
+    "title": "Pontiff Knight",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "When Pontiff Sulyvahn plotted to control Irithyll, he corrupted their leaders thanks to the unquenchable Profaned Flame that he found in the ruins of the Profaned Capital. After turning the captains of the army of Irithyll into sorcerers in his service, Sulyvahn also influenced the knights they led, gifting them golden crowns as they helped him seize power. After he took power, the knights would serve as Sulyvahn's watchful eyes and punitive blades. When Aldrich and his Deacons attacked Irithyll, the Pontiff Knights were all slain, and now they are frigid spirits brought back to life by the Pontiff's necromancy. Their swords are now gnawed by the insects of the deep spawned by the Evangelists, and the knights continuously spit dark souls as their bodies were hit and filled by the sorceries of the deacons.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.630977532348006,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4fd3ea82-ff92-5336-b38d-44de2fef3499",
+    "title": "Sulyvahn's Beast",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Sulyvahn's Beast -  Dark Souls III - enemy - lore \n lore : These beings represent the final results of the Left Eye Ring and the Right Eye Ring enchanted by Pontiff Sulyvahn, having fully transformed the Outrider Knights that protect Irithyll into almost completely mindless, guardian beasts.",
+    "sources": [
+      "human",
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.4564135745526819,
+    "bm25_score": 11.222170096391427
+  },
+  {
+    "document_id": "552adfa3-5939-55be-9770-0dddfaa20289",
+    "title": "Gods",
+    "section": "relations_of_the_gods_of_anor_londo",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Many Silver Knights since the Age of Ancients served Lord Gwyn and the other Old Gods of Anor Londo, well into the events of *Dark Souls III*. Their origins and species are never clearly explained.\nCrossbreed Priscilla, hated by the Gods, was exiled to the Painted World of Ariamis hidden in Anor Londo. She was likely the hybrid daughter of Seath, and the mother of both Gwyndolin, with Gwyn as the father, and of Yorshka, from another father.\nPontiff Sulyvahn, a cleric born in another Painted World and who later came to Anor Londo, where he would forcefully take control of Irithyll from Gwyndolin, becoming its tyrannical ruler.",
+    "sources": [
+      "human",
+      "dense",
+      "bm25"
+    ],
+    "dense_score": 0.4429310196375512,
+    "bm25_score": 11.591055480488805
+  },
+  {
+    "document_id": "582268c8-8f05-54dc-ac52-05d934aa0acd",
+    "title": "Soul of Pontiff Sulyvahn",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Soul of Pontiff Sulyvahn -  Dark Souls III - item - availability \n availability : Obtained after defeating Pontiff Sulyvahn in Irithyll of the Boreal Valley.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5719527568267326,
+    "bm25_score": 17.849362582588455
+  },
+  {
+    "document_id": "59d35aa7-2421-5335-9db4-e7572486f722",
+    "title": "Pontiff Knight Great Scythe",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Pontiff Knight Great Scythe -  Dark Souls III - weapon - availability \n availability : Dropped by the great scythe-wielding Pontiff Knight before Pontiff Sulyvahn in Irithyll of the Boreal Valley.",
+    "sources": [
+      "human",
+      "dense",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.44134476986433446,
+    "bm25_score": 15.978680573546267
+  },
+  {
+    "document_id": "5b724906-3609-50f2-a16e-581216364cbc",
+    "title": "Pontiff Sulyvahn",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Despite his coup and the partial schism that saw the Church of Carim establish itself as the alternative political and religious center of the Way of White, Sulyvahn continued to remain an ally of Lothric, donating the Gargoyles he found in the Profaned Capital to the kingdom and allowing their knights and scholars into Irithyll. This powerful alliance allowed the Pontiff to retain international legitimacy and political leverage to strengthen his position and keep other human realms and high members of the clergy faithful to his faction.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5818754630044383,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5d1bdf08-059f-51b6-9732-81331e74c18a",
+    "title": "Pontiff Sulyvahn",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Pontiff Sulyvahn -  Dark Souls III - boss - lead \n lead : **Pontiff Sulyvahn** ([https://en.wikipedia.org/wiki/Japanese_language Orig.]: 法王サリヴァーン, [https://en.wikipedia.org/wiki/Hepburn_romanization Hepburn]: *Hōō Sarivān*) is a mandatory boss in *Dark Souls III*.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6974482849282059,
+    "bm25_score": 16.048364053308294
+  },
+  {
+    "document_id": "617fad37-26f4-5ba8-9376-e91d3754af36",
+    "title": "Oceiros, the Consumed King",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "also be found within Lothric Castle. It's important to note that Lothric and Irithyll remained on good terms even after Sulyvahn's coup, with the Pontiff sending Gargoyles from the Profaned Capital to the Grand Archives, and Grand Archives Scholars travelling to Irithyll. The path to the Archdragon Peak is situated in Irithyll Dangeons, and many Lothric knights are bowed near the Dragon Torso Stone, implying that the knights went in pilgrimage to the Peak, and the fact that they were left untouched by the Jailers is a proof that Lothric was allied with the Pontiff.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "656379e5-5653-5ca6-8a71-ce4cfda0a84c",
+    "title": "Ring of the Sun's First Born",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Ring of the Sun's First Born -  Dark Souls III - ring - availability \n availability : Found at Irithyll of the Boreal Valley.\n\nFrom the Pontiff Sulyvahn bonfire, head back out toward the railing and fall straight onto the altar below.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 11.849198118854858
+  },
+  {
+    "document_id": "666d8515-e619-53bc-9701-bddd30326a3f",
+    "title": "Pontiff Sulyvahn",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "With great foresight and manipulation, Sulyvahn began his rise to power within Irithyll: the sorcerer used the Profaned Flame to enthrall the city's holy knights, corrupting their hearts with the unquenchable version of the Fire they venerated. His influence expanded also to the troops they commanded who became Sulyvahn's personal knights, reporting directly to him, acting as his watchful eyes first and as his designated killers second, effectively becoming his private militia and secret police. Those who were once holy knights became \"fire witches\" who carried the Profaned Flame of Sulyvahn on Immolation Tinders, also catalysts for the sorcery once so abhorred by the clergy, while the swords of the soldiers they led were imbued with the frost magic of their leader.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5449766730681185,
+    "bm25_score": null
+  },
+  {
+    "document_id": "67385a80-96ae-533e-83a1-6ef7d837c318",
+    "title": "Pontiff Sulyvahn",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Having gained power in Irithyll, Sulyvahn set about cleansing the city of potential enemies, exiling or killing the Blades of the Darkmoon until there were no more knights in the order, eliminating the Painting Guardians, and even turning the Giants who worked in the city into slaves. The Pontiff would also build an immense dungeon underground near the Profaned Capital, employing its survivors as cruel jailers in his service, and building prisons for humans around the oldest cell of a giant. In addition, Sulyvahn erected a magic barrier around Irithyll to prevent anyone from entering or leaving without his permission, giving special dolls to his most valued subjects to move through it freely, an artifact which reminded them ceaselessly that their \"home\" would always be the Boreal Valley. Despite his coup and the partial schism that saw the Church of Carim establish itself as the alternative political and religious center of the Way of White, Sulyvahn continued to remain an ally of",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5670222698644773,
+    "bm25_score": null
+  },
+  {
+    "document_id": "67b2297a-d182-59e2-8348-379292b13930",
+    "title": "The Deep",
+    "section": "aldrich_devourer_of_gods_aldrich_saint_of_the_deep",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "aldrich_devourer_of_gods_aldrich_saint_of_the_deep : The \"peaceful and sacred\" Deep would be sharply transformed with the arrival of Aldrich, a Way of White cleric who was practically exiled from his home. Originating from Irithyll of the Boreal Valley, Aldrich was ostensibly a proper man of cloth; however, despite his appearance and status, he was in fact a depraved cleric who took pleasure in devouring humans and indulging in their last screams. Eating people became a routine for Aldrich, keeping it up so long that his own body bloated, becoming melted sludge. With Pontiff Sulyvahn's rise to power in Irithyll, as well as his domination of the Way of White faith within the city, Aldrich's depraved habit became likely to draw unwanted attention to the Pontiff's new \"holy\" regime. In response, Pontiff Sulyvahn seems to have exiled Aldrich to the Cathedral of the Deep, which specialized in rituals of purification from \"stagnant darkness\", in hopes that the sacred and serene waters of",
+    "sources": [
+      "human",
+      "dense",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.4364057469044691,
+    "bm25_score": 12.017790721757628
+  },
+  {
+    "document_id": "6f2fe395-6ab7-52cc-a5fa-f9311b2fe28b",
+    "title": "Timeline",
+    "section": "irithyll_of_the_boreal_valley",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "The Pontiff allows the clergy to freely study sorcery and creates his own militia to guard the city. The Blades of the Darkmoon are disbanded and removed as a threat to his power\nThe former aristocrats and maidens of the Profaned Capital surrender to Sulyvahn, accepting to serve as jailers within Irithyll's Dungeon\nSulyvahn makes a dancer out of one of the member of the Royal Family of Anor Londo (probably a daughter of Gwynevere) as a display of power. He also casts a magic barrier around the city, and only those who carry a special doll can cross it: with this, his control over Irithyll is absolute\nThe Cathedral becomes corrupted by the spreading Deep, therefore Aldrich is chosen as the next Lord of Cinder to link the Fire and cleanse this raging plague",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.42751020731792194,
+    "bm25_score": null
+  },
+  {
+    "document_id": "722cff8f-56ce-5f6f-81a5-a0142b891367",
+    "title": "Drang Knight",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Drang Knight -  Dark Souls III - character - location \n location : Irithyll of the Boreal Valley — Both knights await near the staircase at the far end of the big courtyard scattered with dead Giant Slaves located after the Pontiff Sulyvahn bonfire.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 11.739872427993678
+  },
+  {
+    "document_id": "740bc956-eafd-509b-8a2a-9c5890cde510",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "With Pontiff Sulyvahn's rise to power in Irithyll, as well as his complete domination of the Way of White faith within the city, Aldrich's depraved habit became likely to draw unwanted attention to the Pontiff's new \"holy\" regime. In response, Pontiff Sulyvahn seems to have exiled Aldrich to the Cathedral of the Deep, which specialized in rituals of purification from \"stagnant darkness\", in hopes that the sacred and serene waters of the Cathedral would contain Aldrich's dark habit. The Pontiff also gave one of his small dolls to Aldrich, in the event that he recovered to a point where he could return home.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5820487593091112,
+    "bm25_score": null
+  },
+  {
+    "document_id": "75a32633-fb8e-55d8-a4db-cb1f05eeed05",
+    "title": "Pontiff Sulyvahn",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Pontiff Sulyvahn -  Dark Souls III - boss - trivia \n trivia : \"Sulyvahn\" is phonetically similar to the Irish name \"Súileabháin\" (related to the more common, Anglicized name \"Sullivan\") which means \"One-eyed\" in English. It can also mean \"little dark-eyed one\" in Irish, which matches the black rings he gives to his knights to devolve them.\n**Both names are ironic, given that he lacks eyes.\nIn Japanese, Sulyvahn's title is written like 法王. This word is used to denote Buddha, and also the [https://en.wikipedia.org/wiki/Pope Pope] - the highest dignitary in Catholic Church. Although the word pontiff technically may be applied to any [https://en.wikipedia.org/wiki/Bishops_in_the_Catholic_Church bishop], it was implied that Sulyvahn holds the highest possible position in the Church of Irithyll.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7026190699890713,
+    "bm25_score": 12.915138112964055
+  },
+  {
+    "document_id": "77e3a3c2-5ac4-5e68-9da2-881c052ce193",
+    "title": "Pontiff Sulyvahn",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Sulyvahn continued to climb the ranks of the Way of White's clergy and increase his influence until, at one point, Gwyndolin was \"stricken by illness\" and was forced into retiring from the government of the city, leaving command of the Blades of the Darkmoon to his younger sister Yorshka. The sorcerer took advantage of the situation and proclaimed himself \"Pontiff\", the legitimate representative of the god, who would act as the ad interim ruler over the realm of Irithyll and as head of the Church. The Silver Knights, still faithful to Gwyndolin, and the Blades of the Darkmoon serving Yorshka could have acted against his wrongful proclamation; therefore Sulyvahn preemptively imprisoned the god in the old cathedral of Anor Londo and his sister on the tower of her church, creating a stalemate in which neither the Silver Knights nor the Blades of the Darkmoon could act, afraid of seeing their captive leaders executed.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25"
+    ],
+    "dense_score": 0.5683264477000474,
+    "bm25_score": 11.208599549841189
+  },
+  {
+    "document_id": "7814deb1-61a1-5636-9e8c-aa45b1f69e69",
+    "title": "Aldrich Faithful",
+    "section": "how_to_join",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Aldrich Faithful -  Dark Souls III - mechanic - how_to_join \n how_to_join : To join the Aldrich Faithful covenant, the player must first have cleared the area by defeating both Sulyvahn's Beasts and then proceed to Archdeacon McDonnell's remains and pray to them, at this point they may ask to join and obtain proof of the covenant.\n\nKilling the Sulyvahn's beasts is not required to join the covenant. If one wears the Slumbering Dragoncrest Ring and casts Hidden Body just as they reach the bottom of the ladder, they can sneak around the left, far wall and avoid the beasts and pray to McDonnell, thus joining.",
+    "sources": [
+      "human",
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "796eb7dd-34da-5ec6-baee-23c6755f695a",
+    "title": "Magic (Dark Souls III)",
+    "section": "bosses",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Magic (Dark Souls III) -  Dark Souls III - mechanic - bosses \n bosses : Crystal Sage\nPontiff Sulyvahn\nAldrich, Devourer of Gods\nDancer of the Boreal Valley (phase 2)\nLorian, Elder Prince and Lothric, Younger Prince\nSoul of Cinder\nChampion's Gravetender\n\n(to be completed)",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 11.52716350023466
+  },
+  {
+    "document_id": "7e947534-25ed-51bf-98d0-2fc7b911ab56",
+    "title": "The Deep",
+    "section": "aldrich_devourer_of_gods_aldrich_saint_of_the_deep",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Pontiff Sulyvahn seems to have exiled Aldrich to the Cathedral of the Deep, which specialized in rituals of purification from \"stagnant darkness\", in hopes that the sacred and serene waters of the Cathedral would contain Aldrich's putrescence. The Pontiff also gave one of his small dolls to Aldrich, whom he apparently still viewed as a \"valued subject\", in the event that he recovered to a point where he could return home.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25"
+    ],
+    "dense_score": 0.5857480860953408,
+    "bm25_score": 11.031414794870027
+  },
+  {
+    "document_id": "809e30c3-4bf8-5f43-bc44-a4236b1b0882",
+    "title": "Way of White",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "** Such similarities can also help explaining the dynamic of the schism that emerged within the Way of White after Sulyvahn unilaterally declared himself Pontiff: rejecting his authority, Carim's clergy decided not to recognize Irithyll's position as the legitimate head of the Church, therefore they nominated an Archbishop as the true leader of the Way of White and created a second major sphere of influence in the religious geopolitical scenario. The same thing has taken place in 1054a.D., when the Eastern Roman Empire refused to follow the Pope's lead and created the Orthodox Church, led by the Archbishop of Constantinople.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5069430662053749,
+    "bm25_score": null
+  },
+  {
+    "document_id": "83e8959e-c663-541a-8bc3-3c688c272923",
+    "title": "Pontiff Sulyvahn",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "no intention of relinquishing the source of his control over the city and the Way of White so easily. From the ensuing battle Aldrich emerged victorious, slaughtering Sulyvahn's troops and defeating the Pontiff, who was forced to clear the way for the ruined cathedral of Anor Londo, leaving the old god Gwyndolin to be devoured by Aldrich.",
+    "sources": [
+      "human",
+      "template",
+      "dense"
+    ],
+    "dense_score": 0.46527895883766407,
+    "bm25_score": null
+  },
+  {
+    "document_id": "83fe55d9-552f-5082-ac4c-df0f644caeb0",
+    "title": "Greatsword of Judgment",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Greatsword of Judgment -  Dark Souls III - weapon - availability \n availability : Transpose the Soul of Pontiff Sulyvahn with Ludleth of Courland for 3,000 souls.",
+    "sources": [
+      "human",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 13.625606112270475
+  },
+  {
+    "document_id": "88a7b71c-9ba2-5fe6-a05a-97390ef03d83",
+    "title": "Pontiff Sulyvahn",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "own hide and then devolving them into beasts under the complete control of the Pontiff. At a certain point, Sulyvahn even forced a direct daughter of Gwynevere, Princess of Sunlight to serve him as a \"dancer\", bestowing upon her a set of paired enchanted swords, as a token of her subjugation to the tyrant; these were enchanted with dark magic in the right-hand and fire in the left, mirroring those of the Pontiff.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25"
+    ],
+    "dense_score": 0.5166261592775445,
+    "bm25_score": 10.836844955379467
+  },
+  {
+    "document_id": "8cff7505-1479-5b4e-8324-4f1d1f8af1aa",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "With Pontiff Sulyvahn relinquishing Gwyndolin, the Saint of the Deep was triumphant, taking up residence in the old Cathedral and beginning to feast on the old god. He would fall into a deep slumber in the process of consuming Gwyndolin, during which he would dream and perceive the form of a young, pale girl in hiding. The Aldrich Faithful guarded the old Cathedral to ward off any intrusion on Aldrich's slumber, with the ancient Silver Knights unwittingly aiding the consumption of their former master.\n\nWhen the Ashen One seeking the Lords of Cinder arrives at Irithyll to slay Aldrich in their quest, he awakens to defend himself, puppeteering Gwyndolin's magic and body, as well as using a miracle developed from his dreams.",
+    "sources": [
+      "human",
+      "template",
+      "dense"
+    ],
+    "dense_score": 0.47890777854337385,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8d180403-dcea-5353-b87b-b4aae6c0eb38",
+    "title": "Company Captain Yorshka",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Amidst the power vacuum left by Gwyndolin's absence, Sulyvahn would take advantage of the fragile situation, declaring himself Pontiff and becoming the tyrant of Irithyll. He managed to imprison Yorshka on the tower of her own church, isolating her from the world and holding her hostage. Over time, the Darkmoon would lose every one of its followers, being integrated into the ranks of Sulyvahn's knights, killed, or exiled, leaving Yorshka as the head of a covenant with no knights and only its legacy to preserve. Yorshka would have remained alone on the tower, unable to hear from her brother, with only the chime that he had given her to console her in her solitude. Despite her imprisonment, the humans of Irithyll, now enslaved by Pontiff Sulyvahn and subjected to his experiments, would continue to pray to the goddess in secret, worshipping the sacred spears that were enchanted with a soporific spell, trying to find comfort and rest from their condition, even at the cost of hitting",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.4892591872839923,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8e3796b8-7382-541a-98a8-1e9965d3d4a3",
+    "title": "Dancer of the Boreal Valley",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Dancer of the Boreal Valley -  Dark Souls III - boss - lore \n lore : The Dancer is a direct descendant of Gwynevere, Princess of Sunlight. She was among the Irithyllians, hybrids between the race of the gods of Anor Londo and humans, who inhabit Irithyll of the Boreal Valley, the city built for them on the ruins of Anor Londo.\n\nAfter Sulyvahn imprisoned Dark Sun Gwyndolin, proclaimed himself pontiff and assumed control of the city, he bestowed upon the Dancer a set of paired enchanted swords. A symbol of her subjugation by the tyrant, the twinblades were enchanted with dark magic in the right-hand and fire in the left, mirroring those of the Pontiff. She was then ordered to serve Sulyvahn as a \"dancer\".",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.623133348789096
+  },
+  {
+    "document_id": "90a32cde-76a5-5ee0-a226-10b3d4d37b3e",
+    "title": "Pontiff Sulyvahn",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Despite having lost the source of his religious and political power, Sulyvahn, still wearing his torn robes from the battle, remained in the city's cathedral. The Pontiff set about bringing his knights back to life through necromancy, and had them patrol lower Irithyll as frigid spirits. In addition, his beasts regained control over access to the city and cornered Archdeacon McDonnell, who was leading Aldrich's legion, into the Water Reserve, implying his resolve to bring the city back under his control while Aldrich was still busy digesting Gwyndolin.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5728073159188767,
+    "bm25_score": 12.970889811402866
+  },
+  {
+    "document_id": "90aa9e4d-f880-5629-b6f2-4fe3a1e0d09f",
+    "title": "Pontiff Sulyvahn",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Pontiff Sulyvahn -  Dark Souls III - boss - location \n location : Sulyvahn is located in the large cathedral at the end of Irithyll of the Boreal Valley.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6377497357241497,
+    "bm25_score": 15.553413872928324
+  },
+  {
+    "document_id": "918b5e27-ce74-5880-9203-05c7957a3f05",
+    "title": "Fire Witch Leggings",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Fire Witch Leggings -  Dark Souls III - armor - description \n description : Leggings of witches who bore the Profaned Flame, now harrowed spirits of Irithyll.\n\nThe witches who lead the Pontiff's Knights were originally ordained as holy knights.\nIt was not long however, before their hearts were swallowed by the Profaned Flame.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9613f7d9-e11c-59d9-bbdc-a93906fd26ef",
+    "title": "Profaned Greatsword",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Profaned Greatsword -  Dark Souls III - weapon - description \n description : A ceremonial sword, held in Pontiff Sulyvahn's right hand, representing the Profaned Flame.\n\nLong ago, when Sulyvahn was yet a young sorcerer, he discovered the Profaned Capital and an unfading flame below a distant tundra of Irithyll, and a burning ambition took root within him.\n\nSkill: Profaned Flame\nTemporarily summon the Profaned Flame. Lunge forward and use strong attack to enshroud blade in flame.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 11.127578082219042
+  },
+  {
+    "document_id": "96c8ce40-6d18-5b4b-a64b-81878251d73c",
+    "title": "Aldrich Faithful",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Aldrich Faithful -  Dark Souls III - mechanic - lead \n lead : **Aldrich Faithful** is a covenant in *Dark Souls III*.",
+    "sources": [
+      "human",
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "988f9546-08ca-58fb-95e1-fa91608932c8",
+    "title": "Pontiff Sulyvahn",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Pontiff Sulyvahn -  Dark Souls III - boss - notes \n notes : Sulyvahn can be parried and riposted in both stages of the fight.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.602470992417188,
+    "bm25_score": 16.096834885960078
+  },
+  {
+    "document_id": "a1f394b3-f2e3-504d-8069-aa88124a581f",
+    "title": "Aldrich Faithful (item)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Aldrich Faithful (item) -  Dark Souls III - item - description \n description : The holy symbol of the Cathedral of the Deep, and crest of those who see beyond fire to the age of deep waters. Equip to pledge oneself to the Aldrich Faithful covenant.\n\nThe faithful ensure that Aldrich, Devourer of Gods, remains undisturbed, by taking the form of loyal spirits and hunting down those who would trespass the ruined cathedral.\n\nSummoning takes place automatically while this is equipped.",
+    "sources": [
+      "human",
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a607bcf6-206e-52d5-8ee4-ed01f9305549",
+    "title": "Frost",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Frost -  Dark Souls III - mechanic - trivia \n trivia : It is implied that Pontiff Sulyvahn is the source of almost all Frost items, except for the scythe Friede wields, due to his history with the painting.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5670471241520374,
+    "bm25_score": 12.189743242206514
+  },
+  {
+    "document_id": "a72cf3cc-8c9c-5333-8020-244f51231999",
+    "title": "Irithyll of the Boreal Valley",
+    "section": "boss",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Irithyll of the Boreal Valley -  Dark Souls III - location - boss \n boss : Pontiff Sulyvahn",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 15.259677717989415
+  },
+  {
+    "document_id": "a8533c44-1e67-56d3-bee1-32125d0aff2f",
+    "title": "Sulyvahn's Beast",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Sulyvahn's Beast -  Dark Souls III - enemy - lead \n lead : **Sulyvahn's Beasts** are Mini-Bosses in *Dark Souls III*.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.4489062281343906,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ac868d82-940d-59de-983f-48be573dc245",
+    "title": "Pontiff Sulyvahn",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Sulyvahn consolidated his rule of the church and the city, wielding in his right hand the ceremonial Profaned Greatsword infused with the power of the dark Profaned Flame that had fueled his ambitions and in his left hand the ceremonial Greatsword of Judgment, a symbol of his authority as Gwyndolin's judge, but actually infused with moon magic very close to dark sorcery. The two swords together was not only a representation of the violent rule of Sulyvahn but also an avowal of the Pontiff's dark roots. In fact, the Pontiff spread the practice of sorcery even among the highest ranks of his clergy and his knights and began to carry out various experiments on darkness. The humans who worked on the city were enslaved and reduced to conditions of extreme misery; their Dark Soul would manifest outside their ghostly bodies as monstrous beasts with human faces, wandering the streets. Meanwhile, in the prisons, Sulyvahn tried to transform people into pale dragons, but only managed to produce",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25"
+    ],
+    "dense_score": 0.5998393851790713,
+    "bm25_score": 11.064504224457089
+  },
+  {
+    "document_id": "b9187845-8bb0-550b-a0b4-e62a05d3215e",
+    "title": "The Deep",
+    "section": "aldrich_devourer_of_gods_aldrich_saint_of_the_deep",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "themselves responsible with sealing away the horrors that rose from the Deep, to the point of needing grand stories to drive away the madness caused by these abominations. At one point, Sulyvahn sent in Archdeacon McDonnell to aid the deacons of the Cathedral, who conversely found the stagnant souls of the Deep delightful, believing the place to be the \"bottom of the world\".",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.42748370132289526,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bea056db-217f-5313-bd5c-8daf9727de46",
+    "title": "Archdeacon McDonnell",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "At some point McDonnell was incapacitated and his body ended up in the lower levels of Irithyll, in a cistern guarded by two of Pontiff Sulyvahn's beasts, however he is still able to recognize others, as he manages Aldrich's covenant and teaches sorceries.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c48f5285-8b98-552c-bce5-5cc904e44187",
+    "title": "Pontiff Sulyvahn",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Sulyvahn would also craft dark eye rings for his Boreal Outrider Knights, an order of knights who were sent away to serve in foreign campaigns as exiles. The Pontiff exploited the Outriders through these rings that would boost their attacks or recover their health as long as their fighting persisted; the process would lead to the Outrider Knights turning into raving, mindless warriors and guards. The end result ensured the unquestioning, unwavering obedience of the ferocious Outrider Knights to the Pontiff. The knights who peered inside the black orbs would be lured into visions of endless deadly battles and go insane, transformed into frenzied beasts. However, the effect of the rings, whose black eyes constantly hound the knights, continues over time, first fusing their armor with their own hide and then devolving them into beasts under the complete control of the Pontiff. At a certain point, Sulyvahn even forced a direct daughter of Gwynevere, Princess of Sunlight to serve him as a",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.455664232708712,
+    "bm25_score": 12.33415776123002
+  },
+  {
+    "document_id": "c9d5042d-3473-5e45-a440-1842378a63a9",
+    "title": "Pontiff Sulyvahn",
+    "section": "artifacts",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Pontiff Sulyvahn -  Dark Souls III - boss - artifacts \n artifacts : Snap Freeze\nFrozen Weapon\nGolden Ritual Spear\nProfaned Greatsword\nGreatsword of Judgment\nSmall Doll\nPontiff's Right Eye\nPontiff's Left Eye\nSoul of Pontiff Sulyvahn",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5198338980462289,
+    "bm25_score": 16.570863466703805
+  },
+  {
+    "document_id": "cd0a9658-f25a-50dd-b9dd-a99d7549cd08",
+    "title": "Soul of Pontiff Sulyvahn",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Soul of Pontiff Sulyvahn -  Dark Souls III - item - usage \n usage : Consume to acquire 12,000 souls or transpose with Ludleth to create either the Greatsword of Judgment or the Profaned Greatsword.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.536580641542089,
+    "bm25_score": 12.550442067487303
+  },
+  {
+    "document_id": "ce284ea0-dace-5860-9df9-5229b5b2eab4",
+    "title": "Soul of Pontiff Sulyvahn",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Soul of Pontiff Sulyvahn -  Dark Souls III - item - description \n description : Soul of Pontiff Sulyvahn.\nOne of the twisted souls, steeped in strength.\n\nUse to acquire many souls, or transpose to extract its true strength.\n\nPontiff Sulyvahn of Irithyll imprisoned a god of the old royalty in the abandoned cathedral, to be fed to the devourer.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5713834042117227,
+    "bm25_score": 16.759872292002015
+  },
+  {
+    "document_id": "cec6914c-45e7-5577-8956-0450bdb6dec1",
+    "title": "Pontiff's Right Eye",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Pontiff's Right Eye -  Dark Souls III - ring - description \n description : Bewitched ring that Pontiff Sulyvahn bestowed upon his knights.\n\nBoosts attacks, as long as attacking persists.\n\nKnights who peer into the black orb are lured into battles of death, transformed into frenzied beasts. No wonder the Pontiff only provides these rings to those dispatched to foreign lands.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.578915738384044
+  },
+  {
+    "document_id": "d7382308-6351-549e-9a68-0b12091900ff",
+    "title": "Dancer of the Boreal Valley",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "After Prince Lothric refused to link the First Flame and his kingdom fell into ruin due to various internal problems, Sulyvahn ordered the Dancer to serve as a Boreal Outrider Knight, equivalent to being exiled. These knights, before being dispatched to foreign lands, were given the eye rings of the Pontiff, which eventually transformed them into savage, raving warriors who only knew how to serve as mindless guards, which ensured Sulyvahn's total control over the knights and deprived them of any means of desertion.\n\nThe Dancer was sent to Lothric together with a division of Boreal Outrider Knights under the watchful eye of Vordt of the Boreal Valley. Here she positioned herself to guard the Cathedral and High Priestess Emma. Like other Outrider Knights, she would end up transformed into a frenzied beast by the rings of the Pontiff, causing her armor to be fused with her hide.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dcb93fc6-3c4b-56e9-86d5-fe6594164ef8",
+    "title": "Fire Witch Armor",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Fire Witch Armor -  Dark Souls III - armor - description \n description : Armor of witches who bore the Profaned Flame, now harrowed spirits of Irithyll.\n\nThe witches who lead the Pontiff's Knights were originally ordained as holy knights.\nIt was not long however, before their hearts were swallowed by the Profaned Flame.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "df69a8a9-0ac8-5164-8fd1-60ff77b5af36",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "effectively enforcing his way through their highest ranks.\\n\\nAt some point Gwyndolin was \"stricken by illness\" and forced to retreat to the old cathedral of Anor Londo, entrusting his sister Yorshka with command of the covenant of the Blades of the Darkmoon and the leading of its knights against the enemies of the gods and to watch over those who linked the First Flame. Yorshka continued accepting the proofs of their accomplished duty and rewarding them with the miracles of Gwyndolin, even without knowledge of their meaning. However, Sulyvahn exploited the frail situation, declaring himself Pontiff and becoming the tyrant of Irithyll, leveraging the influence he already had among the clergy and knights of the city. The man thus imprisoned Yorshka on the tower of her own church, isolating her from the world and holding her hostage, unable to hear any news of her brother. Afterwards Sulyvahn took Gwyndolin himself hostage, locking him up in the old cathedral, cementing his position as",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.45652354404752876,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e169ab9d-c1a4-50eb-81cd-6cf71fc6f8bb",
+    "title": "Pontiff Sulyvahn",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "There is a statue in the High Wall of Lothric that resembles Sulyvahn, in the square patrolled by the Winged Knight. It depicts a barefooted man in the Robe of Prayer wielding the Profaned Greatsword and wearing bracelets, both of which are on the right wrist, similar to Sulyvahn's own bracelets.\n**It is although more likely that the statue is an example of propaganda through symbolism, where the young Prince Lothric, embodiment of the hope of all realms, would carry on the legacy of the Linking of the Fire armed with the Pontiff's Sword, symbol of the support of the Church, strength of Faith and power of the Fire.\nThe Pontiff seems to lack a face, and the front of his head is instead covered in what looks like roots. Removing his armor and the root-like formations shows a completely featureless face.",
+    "sources": [
+      "human",
+      "template",
+      "dense"
+    ],
+    "dense_score": 0.4862336211812749,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e3405009-de37-565c-946d-695f145a95a1",
+    "title": "Pontiff's Right Eye",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Pontiff's Right Eye -  Dark Souls III - ring - availability \n availability : Found in Irithyll of the Boreal Valley. Guaranteed drop from the Sulyvahn's Beast that ambushes on the bridge to Central Irithyll.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e907c7a0-8f86-52de-a2c1-d8e09adfee67",
+    "title": "Pontiff Sulyvahn",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Pontiff Sulyvahn is extremely susceptible to parrying, each riposte dealing upwards of 1000 damage. A couple of his moves can be easily exploited as the swings of his flaming sword are usually telegraphed and can be predicted. Utilizing parry and riposte throughout the battle can end the fight quickly, leaving him close to death just as he begins to summon the phantom.\n\nAn easier method that forgoes parries (and even rolling) is to simply circle around him clockwise while raising a shield that offers 100% physical absorption. Circling left (Sulyvahn's right) will avoid almost every attack and allow you time to land one or two hits after most of his attack patterns. When he begins to summon a phantom, start attacking immediately to kill the phantom as quick as possible and resume circling clockwise. Since this strategy allows you to steadily attack throughout the fight, it will typically end before he tries to summon another one.",
+    "sources": [
+      "human",
+      "template",
+      "dense"
+    ],
+    "dense_score": 0.5698780657270694,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e98da7fc-9ab0-5272-acad-4aa38c0e6f17",
+    "title": "Fire Witch Gauntlets",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Fire Witch Gauntlets -  Dark Souls III - armor - description \n description : Gauntlets of witches who bore the Profaned Flame, now harrowed spirits of Irithyll.\n\nThe witches who lead the Pontiff's Knights were originally ordained as holy knights.\nIt was not long however, before their hearts were swallowed by the Profaned Flame.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "eb94ced4-edf2-51ca-9c5e-b591b24b3870",
+    "title": "Soul of Pontiff Sulyvahn",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Soul of Pontiff Sulyvahn -  Dark Souls III - item - trivia \n trivia : A more accurate translation of \"主神\" would be \"king god/main deity\". This confirms the fact that Gwyndolin, the god who is devoured by Aldrich, had effectively become the leader of the gods of ancient Anor Londo and obtained the place at the helm of the Way of White. To do this he would have to overthrow Allfather Lloyd, Gwyn's uncle who had assumed command while Gwyndolin was still considered a \"daughter\" of Gwyn.",
+    "sources": [
+      "human",
+      "dense",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.4592472848231419,
+    "bm25_score": 13.364363511163285
+  },
+  {
+    "document_id": "ebb497d1-8af2-5ed1-aaaf-f0417945de59",
+    "title": "Drang Twinspears",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Drang Twinspears -  Dark Souls III - weapon - availability \n availability : Dropped by the Drang Knight who wields them in Irithyll of the Boreal Valley, in the courtyard after Pontiff Sulyvahn.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 16.08830726589097
+  },
+  {
+    "document_id": "f1395193-7c4c-55e9-95e5-2b76b0cd7891",
+    "title": "Pontiff Sulyvahn",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "One day, when Sulyvahn was still young, he unearthed the Profaned Capital underneath the outskirts of Irithyll; he also discovered in the ruins of the city the Profaned Flame. It was a \"cold\" flame, found preserved in icy remains; it was an unfading, everlasting flame, and one that held within it the Dark of humanity. Having obtained the sinful flame, an unquenchable ambition took root in Sulyvahn's heart, as the young man understood its potential as an element of immense political and religious power: The First Flame would eventually fade, while his Profaned Flame was everlasting.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.49027270957363833,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f48e94fb-2124-58bc-9646-9edcfeb4c6b6",
+    "title": "Pontiff Sulyvahn",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Pontiff Sulyvahn -  Dark Souls III - boss - description \n description : Sulyvahn is a tall humanoid clothed in torn ceremonial robes, with nothing on his feet. He wears a crown and is adorned with a necklace of his eye rings. His skin is pale and seems to be decayed and covered in large cracks. His face is covered in dark roots; when he is brought to half of his life, masses of similar roots and branches emerge from his back, akin to wings.\n\nSulyvahn wields two greatswords: the Profaned Ultra Greatsword in his right hand and the Greatsword of Judgment in his left. When the Ashen One enters the church, Sulyvahn is standing still with his two swords; when approached, his swords start to glow and he advances towards the player before quickly charging with an overhead slash.\n\nDuring the fight, Sulyvahn can be heard grunting and growling in a deep, distorted voice.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5826375491513007,
+    "bm25_score": 10.534691197488643
+  },
+  {
+    "document_id": "f85ec58b-5c8b-5d2c-a080-9ef695e833a0",
+    "title": "Anor Londo (Dark Souls III)",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "In the times of the kingdom of Lothric, things have changed. The beautiful city that once had a glowing sunlight is now cold and dark; the cathedral where the Chosen Undead once fought Ornstein and Smough is now corrupted by the Deep and the home to Gwyndolin, who took his father's title of King of the Gods but fell ill; and the chamber that once held Gwynevere now has nothing but the Sun Princess Ring. A denizen that came from the Painted World, Sulyvahn, infiltrated the city of Irithyll and Gwyndolin's Covenant and later proclaimed himself Pontiff. When Gwyndolin fell ill and became incapable of leading the city and the Covenant, he was forced to retire in the cathedral. The leadership passed to Captain Yorshka, Gwyndolin's crossbreed sister, who was immediately imprisoned by Sulyvahn. Sulyvahn converted Irithyll's knights to the worship of the Deep. The Pontiff then led his master and Saint of the Deep, Aldrich, to devour the helpless Gwyndolin.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5244780354553398,
+    "bm25_score": 14.670476622242884
+  },
+  {
+    "document_id": "fc89bf45-0294-556a-8f1a-2598b796707a",
+    "title": "Aldrich Faithful",
+    "section": "benefits",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Aldrich Faithful -  Dark Souls III - mechanic - benefits \n benefits : Like the Watchdogs of Farron, Aldrich Faithful will be called upon to defend Aldrich's territory from trespassers; any player who has Host of Embers status will be subject to invasion. This area is defined as anywhere from the courtyard upon exiting Pontiff Sulyvahn's arena, up until the rotating stairway leading up to Anor Londo. Aldrich Faithful can pursue trespassers up into the cathedral itself, but will not be summoned for trespassers who have already reached the upper level bonfire.\n\nDefeating the Host of Embers will reward all present Aldrich Faithful with Human Dregs, which can be offered to Archdeacon McDonnell to deepen their allegiance to the covenant.",
+    "sources": [
+      "human",
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fcd15b3a-a6bc-5f3d-aac7-e10ab992bd16",
+    "title": "Aldrich Faithful",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Aldrich Faithful -  Dark Souls III - mechanic - location \n location : The Aldrich Faithful covenant can be found in the lower plane of Irithyll of the Boreal Valley.\n\nFrom the Pontiff Sulyvahn bonfire, proceed onward and make way to the other side of the large courtyard with several dead Giant Slaves. Upon entering the main building on the opposite side, hit the wall on the left to reveal an illusory wall concealing the main access to the covenant.\n\nClimb down the large ladder to reach a big, flooded hall. There are two Sulyvahn's Beasts lying in wait once reaching this area, one on the left and one further ahead on the right.\n\nIn one corner of the room lie the remains of Archdeacon McDonnell. Interacting with him allows access into the covenant.",
+    "sources": [
+      "human",
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fd1ac7b8-a8dc-5642-837a-ca74001162d9",
+    "title": "Gods",
+    "section": "irithyllians_and_descendants_of_the_old_gods",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "** The Boreal Outrider Knights, including Vordt of the Boreal Valley, doomed by the dual rings Sulyvahn gifted them to lose their sanity, and eventually turn into horrible beasts.\n** The Pontiff Knights, whom were slaughtered by Aldrich shortly before the events of *Dark Souls III* and resurrected by Sulyvahn's necromancy, fighting for him still now as empty husks.\n** The Fire Witches, former holy knights who were corrupted by the Profaned Flame.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 11.275030563138877
+  },
+  {
+    "document_id": "26065647-8584-5b99-9ec3-4fd34dee07d0",
+    "title": "Pontiff Sulyvahn",
+    "section": "summons",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Pontiff Sulyvahn -  Dark Souls III - boss - summons \n summons : Black Hand Gotthard: His summon sign can be found directly outside of the fog wall leading into the boss arena.\nLondor Pale Shade: Can be summoned if the player is following Yuria's questline. His summon sign is located on a balcony just left of Gotthard's sign.\nAnri of Astora: Anri's summon sign is located on a balcony opposite to the Londor Pale Shade (if they have not been killed yet).",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2decdd12-ea15-567c-bc5a-5efec31fedc2",
+    "title": "Pontiff Sulyvahn",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "As the First Flame continued to fade and Prince Lothric refused to link it, the Lords of Cinder of the past were exhumed from their graves to once again be used as fuel. Among them was Aldrich who, like the other exhumed Lords, had no intention of sacrificing himself again, as his reflections on the state of the world had led him to understand that an Age of the Deep would soon arrive, motivating him to devour the gods themselves, in order to erode their hold on the Flame and accelerate the coming of his vision. Gathering an army of deacons from the Cathedral of the Deep led by Archdeacon McDonnell, Aldrich would march on Irithyll, intent on capturing Anor Londo to devour the king of the gods himself. However, he would find his way blocked by Sulyvahn and his knights, as the Pontiff had no intention of relinquishing the source of his control over the city and the Way of White so easily. From the ensuing battle Aldrich emerged victorious, slaughtering Sulyvahn's troops and defeating",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6134d868-aefd-5dcb-a2de-091f61e9d796",
+    "title": "Pontiff Sulyvahn",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Good fire and/or magic block, such as the Dragon Crest Shield, is recommended.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ba021cb1-3732-52a3-a22f-6682798d8cf7",
+    "title": "Pontiff Sulyvahn",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "It is possible to theorize that the transformation of Oceiros into a deformed pale dragon was a project carried out with the collaboration of Sulyvahn. In fact, although the partial transformation into a dragon is a technique already mastered by the cult of the Path of the Dragon, it is a long process that requires particular practices, but which does not offer the certainty of transforming into the particular dragon that Oceiros aspired to, namely Seath. In the dungeons of Irithyll it is possible to find abominations with a very similar appearance to the draconic form of Oceiros, the result of failed experiments to transform human beings into ancient dragons, but with no scales and a pale complexion. The Pale Pine Resin made from their bodies possesses magical power and can also be found within Lothric Castle.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bcf8872e-a0eb-5d6e-9c0f-f11f1172b0da",
+    "title": "Pontiff Sulyvahn",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "When Prince Lothric refused to link the First Flame and his kingdom fell into ruin due to various internal problems, Emma, the High Priestess of Lothric, would send out messengers bearing the banner of Lothric to ask allied countries for aid in resolving their internal situation. Sulyvahn would respond to his ally's call, ordering his Dancer to serve as a Boreal Outrider Knight in Lothric alongside a division of Boreal Outrider Knights, under the watchful eye of Vordt of the Boreal Valley. Here she positioned herself to guard the Cathedral and High Priestess Emma while Vordt guarded the main gate of the city and the Outrider Knights infiltrated inside and around the city of Lothric.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e0b86e28-2b45-50b8-b961-5686c09a8f7f",
+    "title": "Pontiff Sulyvahn",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Once Pontiff loses half of his health, he enters the second phase. The transition animation deals area of effect damage over its duration. At this point Pontiff starts using new attacks, including area-of-effect ground slams, long-range lunges and magic projectiles. At some point, he will summon a phantom copy of himself that performs each of the Pontiff's moves moments before he executes them himself. While it is possible to slay the phantom, the damage it takes is not drained from the Pontiff's own health, and as the Pontiff is also capable of re-summoning the copy should it die, one should avoid exclusively attacking it unless it's at low health already.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fc4fa76f-c99a-562c-b913-07ee2d3f3863",
+    "title": "Pontiff Sulyvahn",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "The young sorcerer ended up in the city of Irithyll of the Boreal Valley, inhabited by descendants of the old gods, and was welcomed among them despite not having divine blood. He earned the favor of Chief Deity Dark Sun Gwyndolin thanks to a crude replica of his magical catalyst, presenting it to his Darkmoon Knights as a ritual spear, demonstrating his talent, creativity and ambition even if he lacked resources.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bc073d0d-0639-58bc-9b51-8c7f3eda6612",
+    "title": "Aldrich Faithful (item)",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Aldrich Faithful (item) -  Dark Souls III - item - availability \n availability : Found in Irithyll of the Boreal Valley. Obtained by interacting with Archdeacon McDonnell's remains in the Water Reserve and accepting to join the Aldrich Faithful covenant.\n\nFrom the Pontiff Sulyvahn bonfire, proceed through the level and make way to the opposite side of the big courtyard with several dead Giant Slaves. Enter the building at the end and hit the wall on the left to reveal a hidden ladder. Climb down and defeat the two Sulyvahn's Beasts lurking at the bottom. Once done, head to the far-left corner of the room to find McDonnell's remains.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fa56dabb-0fa7-5f2a-b298-ce6107c2e65d",
+    "title": "Aldrich Faithful (item)",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Aldrich Faithful (item) -  Dark Souls III - item - usage \n usage : Equip to pledge oneself to the Aldrich Faithful covenant. Summoning takes place automatically while this item is equipped.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2c5af74e-cba0-593a-b779-8cd5a5df9733",
+    "title": "Aldrich's Ruby",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Aldrich's Ruby -  Dark Souls III - ring - lead \n lead : **Aldrich's Ruby** (エルドリッチの赤石) is a ring in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "465bacf3-8b21-5627-bc68-61c0dc03d3bd",
+    "title": "Aldrich's Ruby",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Aldrich's Ruby -  Dark Souls III - ring - description \n description : A malformed ring left by Aldrich, Saint of the Deep. Recovers HP from critical attacks.\n\nAldrich, infamous for his appetite for flesh, apparently had the desire to share with others his joy of imbibing the final shudders of life while luxuriating in his victim's screams.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5000436d-a502-583d-9e1a-5e1bb2029f6f",
+    "title": "Aldrich's Ruby",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Aldrich's Ruby -  Dark Souls III - ring - availability \n availability : Dropped by the Deep Accursed found in Anor Londo's cathedral.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "80ccc089-761d-52e9-8240-554c98ec246a",
+    "title": "Aldrich's Ruby",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Aldrich's Ruby -  Dark Souls III - ring - effect \n effect : Recovers 85 HP for each successful critical attack.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7d8d0366-b20d-5832-a284-1fffd6ea89fd",
+    "title": "Aldrich's Sapphire",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Aldrich's Sapphire -  Dark Souls III - ring - effect \n effect : Recovers 15 FP for each successful critical attack.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a501cbae-a9fa-58e8-9c23-3df3ed4f5c21",
+    "title": "Aldrich's Sapphire",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Aldrich's Sapphire -  Dark Souls III - ring - description \n description : A malformed ring left by Aldrich, Saint of the Deep. Recovers FP from critical attacks.\n\nAldrich, infamous for his appetite for flesh, apparently had the desire to share with others his joy of imbibing the final shudders of life while luxuriating in his victim's screams.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f2610427-52e6-5012-8478-753b78e0a00c",
+    "title": "Aldrich's Sapphire",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Aldrich's Sapphire -  Dark Souls III - ring - availability \n availability : Dropped by the Deep Accursed found in the room behind the first Cathedral Knight on the bottom-most floor of the Cathedral of the Deep, before the open area where the two giants are located.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fca477d2-f734-582b-b7f8-09f30fd6a1f3",
+    "title": "Aldrich's Sapphire",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Aldrich's Sapphire -  Dark Souls III - ring - lead \n lead : **Aldrich's Sapphire** (エルドリッチの青石) is a ring in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0296cf6a-519d-52d4-b9b6-d559b70eaec4",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "As the First Flame continued to fade and Prince Lothric refused to link it, the Lords of Cinder of the past were exhumed from their graves to once again be used as fuel. However, most Lords refused the call to action, with Aldrich denouncing his throne based on an epiphany: that an Age of Deep would soon be cast upon the world. The Cathedral had by then become a shrine to unspeakable horrors, to all repulsive rejects that sought a cure in its cleansing waters. Within the Cathedral—in McDonnell's sorceries, and their taboo miracles— Aldrich observed a stagnation that seemed inherent to the world, belike rotten remains which find their way down into a dark, deep seabed. Following these ruminations on the nature of existence, Aldrich concluded that an Age of Deep was what followed the waning Age of Fire. He understood that all things would stagnate into the Deep, including the representatives of the old world order; he also understood that he was in a position where he could help usher",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "13d3fe5f-2fe0-54b7-8b3b-bd34985b4708",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "In the soul of Aldrich, there is a distinct lighter portion inside the soul that is not present in other deep soul; it is probably what's left of Gwyndolin's soul.\nThe comic *Dark Souls: The Breath of Andolus* features a scryer named Aldrich as the deuteragonist, potentially as a reference to him, despite them not being the same character. Alternatively, it may have been Aldrich long in the past, given he begins to adopt Aldrich's characteristics, such as cannibalism. While he claims to have been forced into it, the scryer Aldrich is later revealed to be a two faced schemer.\nThe music played during his fight is a more sinister and macabre arrangement of Gwyndolin's theme from the first game, as he uses the body of the god to defend himself, there are also elements from Nito's theme that are played in the first phase as displayed by the sinister chants and piano notes that are also prevalent in Nito's theme.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "20a6ef07-fc06-5dd1-aced-d8760cfbdfb4",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Aldrich, Devourer of Gods -  Dark Souls III - boss - description \n description : Aldrich is an expansive sludge of maggot-ridden rotten flesh, humanity dregs, and his own bones as well as those of the victims he has consumed.\n\nBy the time the player reaches him, he will be inert and spread across the floor, using the weapons and malformed body of Gwyndolin to interact with his environment and perform attacks.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2c6b15c7-720a-5997-8b40-8cae7f668715",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "thus found themselves faced with the duty of sealing away the horrors that rose from the Deep with their faith and holy fire, to the point of needing grand stories to drive away the madness that was caused by the repulsiveness of the Deep.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "37a8c100-7a65-5ba4-869f-ef8130014213",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "At his new posting at the Cathedral, Aldrich was provided a steady flow of sustenance in the form of the Road of Sacrifices. The Cathedral would dispatch Evangelists to establish missions and gain influence at the Undead Settlement; these preachers would tell stories of enlightenment to the cursed Undead, who were shipped off en masse to become feed to Aldrich's gluttony. At some point, he would desire for others to share in the elation of devouring men; to this end he fashioned warped magic rings that allowed one to feel the same depraved sensations as the repulsive maneater. The bearers of these rings underwent a mutation similar to his, transforming into bestial creatures with stomachs filled with the remains of their meals and infused with the power of the Deep.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3a0e6d64-ef23-51e6-a3c0-809366e896b7",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Continuing to gorge himself on humans and devouring their very essence, Aldrich eventually attained an extraordinary amount of power, and with it the qualifications to become a Champion to link the First Flame. As the Flame waned, Aldrich was prepared to become a Lord of Cinder just for his strength, without any consideration for his morality or how he acquired his power. Now left to indulge in his every perversion so that he could one day link the Flame, Aldrich was even allowed to eat children, some of them his own. Aldrich, despite his unbridled hedonism, still decided to follow his ideals on the Age of Fire as a cleric and, when the time came, he sacrificed himself on the Flame to prolong its life.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "43dfc789-3f7f-5d58-aff1-48154c8f4158",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Aldrich, Devourer of Gods -  Dark Souls III - boss - theories \n theories : It is possible to theorize that the many children that Aldrich had when he was trapped inside the Cathedral of the Deep were the results of repeated violence on Rosaria, Mother of Rebirth. Rosaria's room is covered with cradles and Aldrich was already known for having had multiple children, of whom Anri and Horace are the only survivors. Additionally, Rosaria's soul has a broken and twisted appearance, and Ringfinger Leonhard talks about how his goddess's body has been violated.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4546941c-254e-55e2-b332-2218cb2e2238",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "fight_overview",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "When he rears up and aims his bow, he will launch an expanding wave of highly damaging arrows in front of him, allowing you to circle behind him and get hits in.\n\nThroughout the course of the battle, Aldrich will be constantly summoning small homing projectiles. Each one of these, on its own, only deals a small amount of damage and the player may even opt to sustain a few of them in exchange of inflicting some damage to the boss. However, if they are caught by the full attack, they will sustain heavy damage, which may even kill them in a single barrage.\n\nAldrich is most vulnerable on his tail, which provides an area where the player may attack without risking themselves too much from being in the staff's range.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "573ef1db-489e-5dcf-aa96-2f970a64ccd2",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Aldrich, Devourer of Gods -  Dark Souls III - boss - strategy \n strategy : At the beginning of the fight, charge at Aldrich to avoid his hard-hitting soul spear. Get behind him and focus your attacks on his tail. This leaves him with nothing to do but swing his two slow, devastating melee attacks or teleport across the room (usually, adjacent to where he teleported from).\n\nAt about 55%-60% health, he will teleport and come back up, buffed with fire. His arrows also go from going forward to following a specific player. If the arrows following the player catch up to them, then that player will most likely go down quick. Blue Bug and Red Bug Pellets are recommended for this fight.\n\nCasting the sorcery Twisted Wall of Light can negate Aldrich's ranged attacks, including his arrow barrage in the second phase, allowing one to wait out the attack by casting repeatedly.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5de4c92a-0ed9-5ba1-b9be-d172c9a4d722",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "However, although the monstrous man-eater had done his duty and was no longer active, the effect of his stay in the Cathedral had become profound. Aldrich, through devouring humans and their Dark Souls, had accumulated an immense amount of darkness that remained in his body to ferment and degenerate, becoming dark dregs, a darkness beyond any natural limit. The Cathedral's sacred and peaceful body of water that served for purification had consequently been infected, continuing to accumulate and stagnate filth to the point of becoming the \"Deep\", an abyssal sea of rotten darkness. This dark pool became a cradle of repulsive life, which began to spawn ravenous insects and maggots that infested the corpses buried around the church and brought them back to life. The deacons of the Cathedral thus found themselves faced with the duty of sealing away the horrors that rose from the Deep with their faith and holy fire, to the point of needing grand stories to drive away the madness that was",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "70467388-e2a4-5f9d-b6a6-52f83e8c0c4c",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Aldrich, Devourer of Gods -  Dark Souls III - boss - lead \n lead : , also known as , is a boss and one of the five Lords of Cinder encountered by the Ashen One in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "74ce354f-96b5-5224-8d58-f1eb3703f14b",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "While the attacks of Gwyndolin were light blue energy that dealt magic damage in the first game, Aldrich uses variations of the same attacks with purple energy that dealt dark damage.\nInnumerable bones and large amounts of sludge can be seen on the floor of the arena, similar in appearance to Aldrich himself, and possibly being actually part of his body. If this is the case, then, Aldrich insists on attacks by exerting his will over the body of Gwyndolin, instead of simply devouring the player.\nThe sludge and bones remain after Aldrich dies, though they are inert, making him and Archdeacon Royce the only two bosses to leave behind physical remains.\nHis melee attacks, during his first phase, closely resemble those of Nito.\nAldrich's staff uses a Dark Miracle version of Nito's Gravelord Sword and in the deleted files Aldrich was able to do the Gravelord Sword Dance miracle.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "80416189-cd6b-5bd8-aeaf-0a0194b9102e",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "darkness of the Deep could become an incredible new power, and by studying it, he created sorceries that manipulated the dark soul dregs, then imparted them to Archdeacon Royce and his deacons. The faith of the Cathedral's deacons in the gods was thus severely corroded, and they began to worship the Deep and its powerful entity: Aldrich, the \"Saint of the Deep\".",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9086184e-19fb-57cd-9625-55865ae03a0c",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "artifacts",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Aldrich, Devourer of Gods -  Dark Souls III - boss - artifacts \n artifacts : Soul of Aldrich\nCinders of a Lord\nAldrich's Ruby\nAldrich's Sapphire\nLifehunt Scythe (Dark Souls III)",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a256119a-d32e-58ca-8fa6-319b2bc9fbb9",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Aldrich, Devourer of Gods -  Dark Souls III - boss - notes \n notes : Aldrich is susceptible to Vow of Silence, which will block most of his attacks.\nAs an Abyssal creature, Aldrich is weak to the Wolf Knight's Greatsword and Farron Greatsword.\nHitting Aldrich in different parts of the body affects how much damage is dealt.\n**Attacks on the sludge/tail deals normal damage.\n**Attacks on the body below the waist deals 50% more damage.\n**Attacks on the body above the waist deals double damage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a2929584-7150-5dcd-97ea-0620fd5e6c8f",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Aldrich, Devourer of Gods -  Dark Souls III - boss - lore \n lore : Aldrich was once a cleric of the Way of White originating from Irithyll of the Boreal Valley, implying that he may have been a descendant of the gods of Anor Londo. Despite his status as a man of faith serving the gods, he was actually a depraved cleric who took pleasure in devouring humans and indulging in their last screams. For the cleric, eating people became a routine, keeping it up so long that his own body bloated, becoming melted sludge.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a4be5f04-4061-5c64-91a9-6870d73f7afe",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "fight_overview",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Aldrich is most vulnerable on his tail, which provides an area where the player may attack without risking themselves too much from being in the staff's range.\n\nUpon receiving some damage, Aldrich will raise his staff and create a big vortex on the ground in front of him, plunging inside to escape from punishment. This vortex is heavily damaging and the player would be wise in not attacking the boss too many times in a row, preparing instead to move away when it is cast. Aldrich will emerge a moment later on the other side of the hall, as far away from the player as possible, trying to buy some time to cast more spells.\n\nOnce Aldrich has lost about 40% of his health, he will buff his scythe with fire. At this point, every time he emerges from the ground, he will deal damage to nearby players while a much greater amount of homing projectiles spawn with him as he rises.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a655e529-f817-5d33-b94c-55113b8bbc66",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Aldrich, Devourer of Gods -  Dark Souls III - boss - location \n location : Aldrich is found in Anor Londo in the same cathedral hall where Ornstein and Smough were fought in *Dark Souls.*",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "acc0a14f-86f6-5acb-9c54-11884d8ac8d3",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Aldrich's staff uses a Dark Miracle version of Nito's Gravelord Sword and in the deleted files Aldrich was able to do the Gravelord Sword Dance miracle.\nAs he is an amalgamation of corpses just like Nito and the Rotten, and his overall resemblance to Nito, it could be theorized that Aldrich is the new gravelord or that he found the soul of the old dead one, which allowed him to pursue his cannibalistic habits further.\nIn original his name writing like エルドリッチ which can be translated as Eldritch, that means “mystic, unnatural, frightening”, with an association with terror or horror that cannot be comprehended by the human mind. The whole theme of The Deep and Age of Deep Sea may be inspired by such horrors.\nIn the soul of Aldrich, there is a distinct lighter portion inside the soul that is not present in other deep soul; it is probably what's left of Gwyndolin's soul.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b46c8934-297a-55f2-8891-1428e711fe2e",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "fight_overview",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "He will also use a replica of the Lifehunt Scythe, starting a large windup before spinning twice in a full circle, and stealing health with each target that it connects to. This attack is telegraphed, and one can see the miracle generating on his staff, but it can often be confused for another standard swing.\n\nHis most devastating attack is, without a doubt, is taking out Gwyndolin's bow and shooting toward the sky, making an extensive barrage of arrows rain over the player and follow them for a considerable amount of time. He telegraphs this attack by suddenly stopping and erecting his upper body, while a white flash of light emanates from him. Being caught under the rain of arrows, practically means instant death. As soon as this attack is detected, the player is advised to completely disengage from battle and start running throughout the room with no specific direction.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c6b8cb6c-758c-5055-876c-cfccba4098b5",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Age of Fire. He understood that all things would stagnate into the Deep, including the representatives of the old world order; he also understood that he was in a position where he could help usher in the new Age. Thus he set out to devour the old gods himself, stagnating these obsolete forces into the Deep Sea.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e0160806-e9e8-58a4-8dc7-7f40c9ab7bd6",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "fight_overview",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Aldrich, Devourer of Gods -  Dark Souls III - boss - fight_overview \n fight_overview : The encounter begins with Aldrich standing on the far end of the room, imbuing his staff with magic and wielding it menacingly while he prepares for battle. He specializes in ranged combat, doing so by casting diverse dangerous magical spells. Conversely, his close combat abilities become heavily compromised due to his sluggish mobility and tendency to miss hits with his weapon. His substandard melee abilities should not be underestimated, however, because what he lacks in accuracy, he more than makes it up in damage-dealing potential.\n\nWhen he rears up and aims his bow, he will launch an expanding wave of highly damaging arrows in front of him, allowing you to circle behind him and get hits in.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ea4fee52-2857-551d-a94c-e6fd66527fc5",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Aldrich, Devourer of Gods -  Dark Souls III - boss - trivia \n trivia : Aldrich's throne in Firelink Shrine refers to him as \"Saint Aldrich of the Deep\".\nBefore eating Gwyndolin, Aldrich imposed on himself a practice of asceticism (苦行), that is, he refrained from eating humans before he could devour the god.\nDuring the fight, as well as when the boss is passive, shrieks and moans of pain can be heard coming from Gwyndolin. As Aldrich was half-way through consuming Gwyndolin and had used the God's body to defend himself, this disturbingly implies that Gwyndolin was still alive (albeit barely) and in a semi-conscious state of being continuously devoured by Aldrich, even during the fight.\nWhile the attacks of Gwyndolin were light blue energy that dealt magic damage in the first game, Aldrich uses variations of the same attacks with purple energy that dealt dark damage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f14d0fe4-5993-5c6f-8fb3-22b3b1c757eb",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "At one point, Sulyvahn sent McDonnell, an Archdeacon from Irithyll that was a sorcerer despite being a high-ranking cleric, to help the deacons of the Cathedral. McDonnell shared his sorceries with the priests of the Cathedral, who in turn became sorcerers, turning their holy candles into sorcery staves and blades, better equipped to face the abominations of the Deep. However McDonnell would soon find delight in the stagnant souls of the Deep, believing the place to be the \"bottom of the world\". Over time the deacons themselves, despite their faith and holy flame, began to succumb to the power of the Deep. They began to add dark stories about the Deep to the holy scriptures intended to grant them divine protection, corrupting these holy tales into profanity. McDonnell realized that the rotten darkness of the Deep could become an incredible new power, and by studying it, he created sorceries that manipulated the dark soul dregs, then imparted them to Archdeacon Royce and his deacons.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "065cea98-b8bd-5129-9e65-03a5c6015167",
+    "title": "Alva, Seeker of the Spurned",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Alva, Seeker of the Spurned -  Dark Souls III - character - lead \n lead : is a dark spirit in *Dark Souls III*. He also appears as a dark spirit in *The Ringed City DLC*, where he is known simply as .",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5351e923-624f-5109-81b1-1468fbb6e8ca",
+    "title": "Alva, Seeker of the Spurned",
+    "section": "locations",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Alva, Seeker of the Spurned -  Dark Souls III - character - locations \n locations : He will invade on the cliffside before reaching Irithyll Dungeon, as soon as the player leaves the manor's doorway.\n\nHe can be later encountered in the Ringed City as the player approaches an alleyway with a lootable corpse, which is found past a single Ringed Knight.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bb1799e6-74ae-5374-9781-3b9a63bc4198",
+    "title": "Alva, Seeker of the Spurned",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "In the Ringed City, he'll use most of the same strategies, now without the risk of either him or the player falling to their deaths. However, one must be aware of the Ringed Knight who patrols the area, who may give them trouble during the encounter if he is ran past and not dealt with before it's initiated. Since the dark spirit will stay put until the player enters his line of sight, there's no danger he will attack prematurely, even if the invasion has already started. Unlike in the base game, Alluring Skulls won't have any effect on him.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cd8060ad-0b73-5cbc-ae81-bbf51fe23131",
+    "title": "Alva, Seeker of the Spurned",
+    "section": "plot",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Alva, Seeker of the Spurned -  Dark Souls III - character - plot \n plot : Alva is an optional encounter that can be battled if the player is a Host of Embers in his invasion area found between Irithyll of the Boreal Valley and its homonymous dungeon. He must be defeated before killing Yhorm the Giant, as that will prevent him from invading any longer. If the player is successful, they'll earn his weapon, the Murakumo, and his armor set, situated on a corpse that will appear in the lower level of the dungeon, just in front of Karla's cell.\n\nUnlike his base game counterpart, *The Ringed City DLC's* Seeker of the Spurned will invade the player regardless of if they are a Host of Embers or not, a trait shared with other dark spirits in this expansion. Defeating him here nets them the Wolf Ring +3 and allows them easier access to the corpse he was guarding, which holds the Black Witch Set.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f055cf5f-cd7c-58e2-98ea-f0a766a059f4",
+    "title": "Alva, Seeker of the Spurned",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Alva, Seeker of the Spurned -  Dark Souls III - character - trivia \n trivia : This may be the same Alva that is mentioned in *Dark Souls II.*",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f2353026-f970-5c61-bfc4-87c16cdfb2ca",
+    "title": "Alva, Seeker of the Spurned",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Alva, Seeker of the Spurned -  Dark Souls III - character - lore \n lore : Alva is a renowned wandering knight who is very popular among troubadours, who sing the tales of his many tragic adventures, which also involve the figures of Saint Serreta and Zullie the Witch. Eventually, Alva ceased his aimless wayfaring, equipped a peculiar eastern blade, and began a search for the spurned in a journey with seemingly no end. This led him to the forsaken prison of Irithyll, where Karla, a spurned child of the Abyss, had been locked away. The knight seemed to be interested in the witch, possibly even wishing to protect her. This puts him at odd with the Ashen One, who is forced to engage him in a battle and vanquish him, causing him to seemingly perish near the poor witch's cell.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "551a0b2a-b829-58b3-9ae9-35bfb248011b",
+    "title": "Servant Roster",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Servant Roster -  Dark Souls - item - general_information \n general_information : The Servant Roster can be used to see a leaderboard of most Humanity donated to the covenant when online. Apart from this, it has no further uses.",
+    "sources": [
+      "enhanced"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5942c236-4fb7-5105-b132-fe4ef6851c2b",
+    "title": "Book of the Guilty",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Book of the Guilty -  Dark Souls - item - general_information \n general_information : The Book of the Guilty's only purpose is to check the list of players in a ranking system indicating another's level of Indictment. The player can also see his/her own position in the \"rank\" amongst other sinners.",
+    "sources": [
+      "enhanced"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "05e19e0d-22aa-579f-a733-7145823f6014",
+    "title": "Pontiff's Right Eye",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Pontiff's Right Eye -  Dark Souls III - ring - see_also \n see_also : Pontiff's Left Eye",
+    "sources": [
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e7d230d5-5d4e-5bde-93e1-340b98f9bff3",
+    "title": "Pontiff's Left Eye",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Pontiff's Left Eye -  Dark Souls III - ring - see_also \n see_also : Pontiff's Right Eye",
+    "sources": [
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "da9d3d41-2bab-53db-aa2c-ea7587be9492",
+    "title": "Deacons of the Deep",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Deacons of the Deep -  Dark Souls III - boss - see_also \n see_also : Deacon",
+    "sources": [
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "471e9458-211f-5dd1-80cb-a93314fb3a81",
+    "title": "Llewellyn Set",
+    "section": "historical_notes",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Llewellyn Set -  Dark Souls II - armor - historical_notes \n historical_notes : Prior to Calibration 1.15, the pieces of the Llewellyn Set did not offer any Poise.",
+    "sources": [
+      "enhanced"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "57623a1c-f0d7-5b35-9114-2f7317bf92cd",
+    "title": "New Londo Ruins",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - dark_souls \n dark_souls : {'name': 'Theories', 'description': 'The numerous female statues accompanying a child present in New Londo may represent the advent of the Dark Lord awaited by humanity, as opposed to the statues present at the Undead Burg, Undead Parish and Firelink Shrine which awaited a Chosen Undead who would have brought him back to the splendor of the Age of Fire. Unlike the statues outside the city, those in New Londo represent the child standing on their legs instead of being held in the lap of the female figure, who only accompanies them.\\nAdditionally the female figure may represent Velka, Goddess of Sin as New Londo was a city of humans whose sins and salvation were her responsibility to administer, and the same statue can be found in the Painted World of Ariamis, where multiple artifacts affiliated with Velka or considered heretical, like the potential message about the coming of the Dark Lord, can be found'}",
+    "sources": [
+      "enhanced"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "77313fa2-38ea-5e21-85aa-031c5484043a",
+    "title": "Soul of a Venerable Old Hand",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Soul of a Venerable Old Hand -  Dark Souls III - item - availability \n availability : Can only be obtained in NG+ onward, where it replaces the Large Soul of a Weary Warrior.",
+    "sources": [
+      "enhanced"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f9679330-1911-5b9f-bd52-c8bfc420b489",
+    "title": "Seek Guidance",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Seek Guidance -  Dark Souls - spell - general_information \n general_information : Seek Guidance reveals more messages on the ground from other players and the positive / negative ratings. In addition, it also reveals hidden developer messages made by FromSoftware that give hints as to how to proceed. It may also increase the number of summon signs from other players.",
+    "sources": [
+      "enhanced"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "51df0b09-88d1-55eb-b83b-2fdc2f4fe976",
+    "title": "Set of the Great Lord",
+    "section": "upgraded_stats",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Set of the Great Lord -  Dark Souls - armor - upgraded_stats \n upgraded_stats : The Set of the Great Lord cannot be upgraded.",
+    "sources": [
+      "enhanced"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4f34e0d0-4745-580c-b160-b66d2804243d",
+    "title": "Large Soul of a Proud Paladin",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Large Soul of a Proud Paladin -  Dark Souls III - item - availability \n availability : Can only be obtained in NG+ onward, where it replaces the Large Soul of a Deserted Corpse.",
+    "sources": [
+      "enhanced"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c80e7666-5633-5d31-b623-23463b0b4c48",
+    "title": "Timeline",
+    "section": "cathedral_of_the_deep_the_rise_of_the_deep",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Timeline -  Dark Souls III - storyline - cathedral_of_the_deep_the_rise_of_the_deep \n cathedral_of_the_deep_the_rise_of_the_deep : (**INCOMPLETE**)",
+    "sources": [
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "66a85198-7731-525a-81f4-e534bad40f73",
+    "title": "Timeline",
+    "section": "abyss_watchers_the_abyss_watchers",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Timeline -  Dark Souls III - storyline - abyss_watchers_the_abyss_watchers \n abyss_watchers_the_abyss_watchers : TBA",
+    "sources": [
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1bc6edf1-6714-5550-9af5-d6da26f051ad",
+    "title": "Large Soul of an Intrepid Hero",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Large Soul of an Intrepid Hero -  Dark Souls III - item - availability \n availability : Can only be obtained in NG+ onward, where it replaces the Large Soul of an Unknown Traveler.",
+    "sources": [
+      "enhanced"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "aa2ccdaf-e989-5175-b9d2-0f18637bd31f",
+    "title": "The Deep",
+    "section": "aldrich_devourer_of_gods_aldrich_saint_of_the_deep",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "The Deep -  Dark Souls III - storyline - aldrich_devourer_of_gods_aldrich_saint_of_the_deep",
+    "sources": [
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f03b2878-cfc1-5b29-8c47-112193476068",
+    "title": "Seek Guidance",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Seek Guidance -  Dark Souls - spell - description \n description : Miracle of Clerics on an Undead mission. Display more guidance from other worlds.\n\nGuidance facilitates communication between Undead, but their value varies greatly. A balance of faith and wisdom is required.",
+    "sources": [
+      "enhanced"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1501b2cf-7160-5bb6-ac00-5ab93b1fb673",
+    "title": "Great Swamp Pyromancy Tome",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Great Swamp Pyromancy Tome -  Dark Souls III - item - usage \n usage : After providing the tome to Cornyx of the Great Swamp, the following pyromancies will be available to the player:",
+    "sources": [
+      "enhanced"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4c5eeb40-c4a5-5123-8d9e-3133d0f99a89",
+    "title": "Proof of a Concord Well Kept",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Proof of a Concord Well Kept -  Dark Souls III - item - see_also \n see_also : Proof of a Concord Kept",
+    "sources": [
+      "enhanced"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "df010e20-459b-5321-95b5-aa451dbde7a4",
+    "title": "The Deep",
+    "section": "cathedral_of_the_deep",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "The Deep -  Dark Souls III - storyline - cathedral_of_the_deep",
+    "sources": [
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f067310b-f8c7-5fa8-8389-f9f8d3fe04fc",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Dark Sun Gwyndolin -  Dark Souls III - boss - dark_souls_iii",
+    "sources": [
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "46b63c25-3827-5ff6-8a78-c00f05039b6d",
+    "title": "Stats (Dark Souls III)",
+    "section": "file_dark_souls_iii_faith_icon_png_faith_dark_souls_iii_faith",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Stats (Dark Souls III) -  Dark Souls III - mechanic - file_dark_souls_iii_faith_icon_png_faith_dark_souls_iii_faith \n file_dark_souls_iii_faith_icon_png_faith_dark_souls_iii_faith : Boosts and is required for miracles, pyromancies, and few weapons",
+    "sources": [
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "eed45cbe-e1eb-54b8-a8cf-bd99ded266e6",
+    "title": "Lothric",
+    "section": "the_outrider_knights",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Lothric -  Dark Souls III - location - the_outrider_knights \n the_outrider_knights : After Pontiff Sulyvahn rose to power in Irithyll, he began looking for strategies to expand his influence and power. As such, he established a force of Outrider Knights, who would serve as his militia-in-exile. These knights were bestowed rings that allowed their surveillance by the Pontiff. Unbeknownst to the knights, these rings would eventually drive them insane, and transform them into savage mindless beasts. Part of his strategy consisted of corrupting and destabilizing Lothric. By sending his Outrider Knights, who acted as fierce and relentless invaders, he created chaos and began to undermine the stability of Lothric, making it easier for him to exert control.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 11.210169169547317
+  },
+  {
+    "document_id": "b11c2ca4-9e62-5da7-a574-dcf4da74cafd",
+    "title": "Jailer Gloves",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Jailer Gloves -  Dark Souls III - armor - description \n description : Gloves worn by jailers of Irithyll Dungeon.\n\nThe jailers were among the few survivors inhabiting the Profaned Capital, later serving under Pontiff Sulyvahn. Perhaps the screams emanating from the cells help them forget their old home.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 11.124060815284995
+  },
+  {
+    "document_id": "06ffd8ff-255c-5c02-b311-50ae1f4f7b19",
+    "title": "Jailer Trousers",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Jailer Trousers -  Dark Souls III - armor - description \n description : Trousers worn by jailers of Irithyll Dungeon.\n\nThe jailers were among the few survivors inhabiting the Profaned Capital, later serving under Pontiff Sulyvahn. Perhaps the screams emanating from the cells help them forget their old home.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 11.124060815284995
+  },
+  {
+    "document_id": "5fbd39e7-6872-564e-969e-c8527ac6534e",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "of the resurrected Lords of Cinder, Aldrich had no intention of sacrificing himself anew, as he had come to believe that an \"Age of the Deep\" should come and replace the Age of Fire, motivating him to try to devour the gods themselves to erode their hold on the Flame and accelerate the coming of his vision. Gathering an army of deacons from the Cathedral of the Deep, Aldrich, still hungry for flesh and now eager to devour Gods, marched on Irithyll with his followers so that he could devour Gwyndolin, the king of the Gods. He found his way blocked by Sulyvahn and his knights, as the Pontiff had no intention of relinquishing the source of his control over the city and the Way of White without a fight. Aldrich emerged victorious from the ensuing battle, slaughtering Sulyvahn\\'s troops and forcing the Pontiff to reluctantly clear the way for the ruined cathedral of Anor Londo. Having finally reached his prey, Aldrich began to slowly devour Gwyndolin, who was most likely powerless to fight",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 11.117216870599977
+  },
+  {
+    "document_id": "d1c23fed-a858-5a81-a31e-31d4dcf516f6",
+    "title": "Dancer's Enchanted Swords",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Dancer's Enchanted Swords -  Dark Souls III - weapon - description \n description : Paired enchanted swords that Pontiff Sulyvahn bestowed upon the Dancer of the Boreal Valley.\nThese blades, symbolic of the Dancer's vows, are enchanted with dark magic in the right-hand, and fire in the left, mirroring the Pontiff.\n\nSkill: Dancer's Grace\nUnleash the fury of both blades in a dancing spin motion and use strong attack to continue the performance until stamina is exhausted.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.900916427894552
+  },
+  {
+    "document_id": "630be5dc-f525-5cee-81b5-1ba29d42bc1f",
+    "title": "Jailer Robe",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Jailer Robe -  Dark Souls III - armor - description \n description : Robe worn by jailers of Irithyll Dungeon.\nOriginally ritualistic formal wear.\n\nThe jailers were among the few survivors inhabiting the Profaned Capital, later serving under Pontiff Sulyvahn. Perhaps the screams emanating from the cells help them forget their old home.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.748198390039747
+  },
+  {
+    "document_id": "03a5142d-88b8-58b9-bdb4-8745d928cd68",
+    "title": "Ashen One",
+    "section": "irithyll_and_anor_londo_dark_souls_iii_anor_londo",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - irithyll_and_anor_londo_dark_souls_iii_anor_londo \n irithyll_and_anor_londo_dark_souls_iii_anor_londo : On the surface, the Ashen One fights their way to the grand church in Irithyll where they find Pontiff Sulyvahn. Killing Sulyvahn opens the way to Anor Londo, fabled city of the gods, where Aldrich awaits. Aldrich, having lost interest in the flame and having instead turned towards the Dark, sought out Anor Londo to devour the gods themselves. He found and devoured Dark Sun Gwyndolin in Anor Londo, who had been \"stricken by illness\" and had retreated to the Anor Londo Cathedral, only to be imprisoned by the Pontiff to be fed to Aldrich. Fighting their way past the archers protecting the city, the Ashen One finds Aldrich using Gwyndolin as a puppet of sorts, and kills him, acquiring his ashes to be delivered to his throne.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.698093066654693
+  },
+  {
+    "document_id": "bd83b904-4cd1-56a0-bfa1-977bca5d56ee",
+    "title": "Jailer Set",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Jailer Set -  Dark Souls III - armor - description \n description : Robe worn by the jailers of Irithyll Dungeon.\nOriginally ritualistic formal wear.\n\nThe jailers were among the few survivors inhabiting the Profaned Capital, later serving under Pontiff Sulyvahn.\nPerhaps the screams emanating from the cells help them forget their old home.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.658168206430087
+  },
+  {
+    "document_id": "e6e32f30-f6a6-5161-a2d2-84def5e03ea8",
+    "title": "Aristocrat's Mask",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Aristocrat's Mask -  Dark Souls III - armor - description \n description : Mask worn by jailers of Irithyll Dungeon.\nNoblemen delighted in its plump features.\n\nThe jailers were among the few survivors inhabiting the Profaned Capital, later serving under Pontiff Sulyvahn. Perhaps the screams emanating from the cells help them forget their old home.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 10.569633734763702
+  },
+  {
+    "document_id": "4fd1dc61-d523-502c-ab58-39d85ecf7d19",
+    "title": "Timeline",
+    "section": "the_rise_of_the_dark_lord",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Timeline -  Dark Souls III - storyline - the_rise_of_the_dark_lord \n the_rise_of_the_dark_lord : (The events of Dark Souls III)\n\n**Yuria and Dark Lord stuff still need to be added**",
+    "sources": [
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "165f8c86-306a-54d0-baab-1d3da68d5b2a",
+    "title": "Boss Soul Items (Dark Souls III)",
+    "section": "transposition_rewards",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Boss Soul Items (Dark Souls III) -  Dark Souls III - mechanic - transposition_rewards \n transposition_rewards : Each soul is capable of transposing into at least two different rewards. Care should be taken when deciding which one is chosen, as only one soul from each boss can be obtained per playthrough.",
+    "sources": [
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e4ec1c20-e954-599d-acd4-73228281e0ef",
+    "title": "Spear of the Church",
+    "section": "church_guardians",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Spear of the Church -  Dark Souls III - boss - church_guardians \n church_guardians : Church Guardian Shiv",
+    "sources": [
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8d8223db-2265-5f0c-8612-679adea21a99",
+    "title": "Ashes of Ariandel",
+    "section": "boss_souls",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - boss_souls \n boss_souls : Soul of Sister Friede",
+    "sources": [
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0cc545b3-3485-52e6-942f-5e7d0ab735bc",
+    "title": "Timeline",
+    "section": "the_rise_and_fall_of_drangleic",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Timeline -  Dark Souls III - storyline - the_rise_and_fall_of_drangleic \n the_rise_and_fall_of_drangleic : These events before Dark Souls II\n\nSee Drangleic",
+    "sources": [
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8ab10735-35c0-597f-abc8-bcba85bcaa2e",
+    "title": "Angel",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Angel -  Dark Souls III - enemy - see_also \n see_also : Darklurker",
+    "sources": [
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "65c38f5d-5359-5fc3-984f-fd4492ef05f3",
+    "title": "Dark Lord",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Dark Lord -  Dark Souls III - character - dark_souls_iii \n dark_souls_iii : Sister Friede\nAshen One*",
+    "sources": [
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7c8b9f2e-2f18-5d8c-ba1b-e299ac7e7c55",
+    "title": "Timeline",
+    "section": "the_age_of_fire",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Timeline -  Dark Souls III - storyline - the_age_of_fire \n the_age_of_fire : (**INCOMPLETE**)",
+    "sources": [
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d76cfc81-7f66-5943-be41-59199ac7410a",
+    "title": "Road of Sacrifices",
+    "section": "boss",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Road of Sacrifices -  Dark Souls III - location - boss \n boss : Crystal Sage",
+    "sources": [
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "60ce4f3f-a012-58e7-9a71-756c4092afcd",
+    "title": "Lothric",
+    "section": "three_pillars",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Lothric -  Dark Souls III - location - three_pillars",
+    "sources": [
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4158956b-a800-5561-8302-f1037fb55aeb",
+    "title": "Vinheim",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Vinheim -  Dark Souls III - location - dark_souls_iii \n dark_souls_iii : WIP",
+    "sources": [
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7f1f7e6c-816f-591f-9d15-f8f59b1d03e1",
+    "title": "Dark Lord",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Dark Lord -  Dark Souls III - character - dark_souls_ii \n dark_souls_ii : Bearer of the Curse*\nNashandra",
+    "sources": [
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  }
+]

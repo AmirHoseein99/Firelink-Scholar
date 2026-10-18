@@ -3,356 +3,1441 @@
     "id": "q001",
     "question": "Who was Gwyn, Lord of Sunlight, and what was his role at the founding of the Age of Fire?",
     "game": "Dark Souls",
-    "category": "entity",
-    "expected_entities": ["Gwyn", "Lord of Cinder", "Lord of Sunlight", "Four Knights", "Gwynevere", "Lore"]
+    "category": "lore",
+    "expected_entities": [
+      "Lore",
+      "Lord Soul",
+      "First Flame",
+      "Witch of Izalith",
+      "Gravelord Nito",
+      "Seath the Scaleless",
+      "Furtive Pygmy"
+    ],
+    "subcategory": "entity"
   },
   {
     "id": "q002",
     "question": "Who was Knight Artorias the Abysswalker?",
     "game": "Dark Souls",
-    "category": "entity",
-    "expected_entities": ["Artorias", "Abysswalker", "Sif", "Great Grey Wolf", "Crest of Artorias"]
+    "category": "lore",
+    "expected_entities": [
+      "Artorias of the Abyss",
+      "Great Grey Wolf Sif",
+      "Crest of Artorias",
+      "Oolacile",
+      "Abyss"
+    ],
+    "subcategory": "entity"
   },
   {
     "id": "q003",
     "question": "Who was the Witch of Izalith, and what was her role in the founding myth of the Age of Fire?",
     "game": "Dark Souls",
-    "category": "entity",
-    "expected_entities": ["Witch of Izalith", "Quelana", "Quelaag", "Lost Izalith", "Bed of Chaos"]
+    "category": "lore",
+    "expected_entities": [
+      "Witch of Izalith",
+      "Quelana",
+      "Quelaag",
+      "Lost Izalith",
+      "Bed of Chaos"
+    ],
+    "subcategory": "entity"
   },
   {
     "id": "q004",
-    "question": "Who were Dragonslayer Ornstein and Executioner Smough, and why did they guard Anor Londo together?",
+    "question": "Who were Dragon Slayer Ornstein and Executioner Smough, and what was their role in Anor Londo?",
     "game": "Dark Souls",
-    "category": "entity",
-    "expected_entities": ["Ornstein", "Smough", "Dragonslayer", "Executioner", "Gwyndolin"]
+    "category": "lore",
+    "expected_entities": [
+      "Dragon Slayer Ornstein and Executioner Smough",
+      "Ornstein",
+      "Smough",
+      "Anor Londo",
+      "Soul of Gwyndolin",
+      "Four Knights of Gwyn"
+    ],
+    "subcategory": "entity"
   },
   {
     "id": "q005",
     "question": "What is the relationship between Knight Artorias and Great Grey Wolf Sif?",
     "game": "Dark Souls",
-    "category": "relationship",
-    "expected_entities": ["Artorias", "Sif", "Great Grey Wolf", "Crest of Artorias", "Oolacile"]
+    "category": "lore",
+    "expected_entities": [
+      "Artorias of the Abyss",
+      "Great Grey Wolf Sif",
+      "Crest of Artorias",
+      "Oolacile",
+      "Abyss"
+    ],
+    "subcategory": "relationship"
   },
   {
     "id": "q006",
     "question": "What is the relationship between Kingseeker Frampt and Darkstalker Kaathe, and what does each want the player to do?",
     "game": "Dark Souls",
-    "category": "relationship",
-    "expected_entities": ["Frampt", "Kaathe", "Darkstalker", "Kingseeker", "Serpent", "First Flame"]
+    "category": "lore",
+    "expected_entities": [
+      "Kingseeker Frampt",
+      "Darkstalker Kaathe",
+      "First Flame",
+      "Lore",
+      "Covenant"
+    ],
+    "subcategory": "relationship"
   },
   {
     "id": "q007",
     "question": "What is the relationship between the Witch of Izalith and her daughters Quelaag and Quelana?",
     "game": "Dark Souls",
-    "category": "relationship",
-    "expected_entities": ["Witch of Izalith", "Quelana", "Quelaag", "Daughters", "Lost Izalith"]
+    "category": "lore",
+    "expected_entities": [
+      "Witch of Izalith",
+      "Quelana of Izalith",
+      "Quelaag's Domain",
+      "Lost Izalith",
+      "Bed of Chaos"
+    ],
+    "subcategory": "relationship"
   },
   {
     "id": "q008",
     "question": "How did Knight Artorias fall to the Abyss, and what role did Sif play afterward?",
     "game": "Dark Souls",
-    "category": "multihop",
-    "expected_entities": ["Artorias", "Sif", "Abyss", "Manus", "Oolacile", "Abysswalker", "Chasm of the Abyss"]
+    "category": "lore",
+    "expected_entities": [
+      "Artorias of the Abyss",
+      "Great Grey Wolf Sif",
+      "Abyss",
+      "Manus, Father of the Abyss",
+      "Oolacile",
+      "Chasm of the Abyss"
+    ],
+    "subcategory": "multihop"
   },
   {
     "id": "q009",
     "question": "What happened to Oolacile, and how is its downfall connected to Manus and the spreading of the Abyss?",
     "game": "Dark Souls",
-    "category": "multihop",
-    "expected_entities": ["Oolacile", "Manus", "Abyss", "Dusk of Oolacile", "Chasm of the Abyss", "Artorias"]
+    "category": "lore",
+    "expected_entities": [
+      "Oolacile",
+      "Manus, Father of the Abyss",
+      "Abyss",
+      "Dusk of Oolacile",
+      "Chasm of the Abyss",
+      "Artorias of the Abyss"
+    ],
+    "subcategory": "multihop"
   },
   {
     "id": "q010",
     "question": "How does the player access the Artorias of the Abyss DLC content, and what does the Broken Pendant do?",
     "game": "Dark Souls",
-    "category": "multihop",
-    "expected_entities": ["Broken Pendant", "Oolacile", "Artorias", "Darkroot", "Princess Dusk"]
+    "category": "lore",
+    "expected_entities": [
+      "Broken Pendant",
+      "Oolacile",
+      "Artorias of the Abyss",
+      "Darkroot Basin",
+      "Dusk of Oolacile"
+    ],
+    "subcategory": "multihop"
   },
   {
     "id": "q011",
     "question": "What does the Crest of Artorias allow the player to access, and how is it obtained?",
     "game": "Dark Souls",
-    "category": "item",
-    "expected_entities": ["Crest of Artorias", "Artorias", "Sif", "Darkroot", "Great Grey Wolf"]
+    "category": "item_location",
+    "expected_entities": [
+      "Crest of Artorias",
+      "Artorias of the Abyss",
+      "Great Grey Wolf Sif",
+      "Darkroot Garden",
+      "Darkroot Basin"
+    ],
+    "subcategory": "item"
   },
   {
     "id": "q012",
     "question": "What does the Lordvessel do, and how does the player obtain it?",
     "game": "Dark Souls",
-    "category": "item",
-    "expected_entities": ["Lordvessel", "Gwyn", "Anor Londo", "Firelink Shrine", "First Flame"]
+    "category": "item_location",
+    "expected_entities": [
+      "Lordvessel",
+      "Anor Londo",
+      "Firelink Shrine",
+      "First Flame",
+      "Lord Soul"
+    ],
+    "subcategory": "item"
   },
   {
     "id": "q013",
     "question": "What is Lost Izalith, and what catastrophic event happened there?",
     "game": "Dark Souls",
-    "category": "location",
-    "expected_entities": ["Lost Izalith", "Witch of Izalith", "Bed of Chaos", "Demon Ruins", "Chaos"]
+    "category": "item_location",
+    "expected_entities": [
+      "Lost Izalith",
+      "Witch of Izalith",
+      "Bed of Chaos",
+      "Demon Ruins",
+      "Chaos"
+    ],
+    "subcategory": "location"
   },
   {
     "id": "q014",
     "question": "Summarize the cosmology of Dark Souls: the Age of Ancients, the First Flame, and the founding of the Age of Fire.",
     "game": "Dark Souls",
-    "category": "synthesis",
-    "expected_entities": ["Age of Ancients", "First Flame", "Age of Fire", "Lore", "Gwyn", "Lord Souls"]
+    "category": "lore",
+    "expected_entities": [
+      "Age of Ancients",
+      "First Flame",
+      "Age of Fire",
+      "Lore",
+      "Lord Soul"
+    ],
+    "subcategory": "synthesis"
   },
-
   {
     "id": "q015",
     "question": "Who was King Vendrick, and what happened to the kingdom of Drangleic?",
     "game": "Dark Souls II",
-    "category": "entity",
-    "expected_entities": ["Vendrick", "Drangleic", "Drangleic Castle", "King", "Soul of the King"]
+    "category": "lore",
+    "expected_entities": [
+      "Vendrick",
+      "Drangleic",
+      "Drangleic Castle",
+      "Soul of the King",
+      "Throne of Want"
+    ],
+    "subcategory": "entity"
   },
   {
     "id": "q016",
     "question": "Who was Aldia, Scholar of the First Sin?",
     "game": "Dark Souls II",
-    "category": "entity",
-    "expected_entities": ["Aldia", "Scholar of the First Sin", "Aldia's Keep", "Dragon Aerie"]
+    "category": "lore",
+    "expected_entities": [
+      "Aldia, Scholar of the First Sin",
+      "Aldia's Keep",
+      "Dragon Aerie",
+      "Bearer of the Curse"
+    ],
+    "subcategory": "entity"
   },
   {
     "id": "q017",
     "question": "Who was Nashandra, and what was her connection to Manus?",
     "game": "Dark Souls II",
-    "category": "entity",
-    "expected_entities": ["Nashandra", "Manus", "Dark", "Queen", "Soul of Nashandra", "Daughters of Manus"]
+    "category": "lore",
+    "expected_entities": [
+      "Nashandra",
+      "Vendrick",
+      "Throne of Want",
+      "Soul of Nashandra",
+      "Drangleic"
+    ],
+    "subcategory": "entity"
   },
   {
     "id": "q018",
     "question": "What was the relationship between Vendrick and Nashandra, and how did it end?",
     "game": "Dark Souls II",
-    "category": "relationship",
-    "expected_entities": ["Vendrick", "Nashandra", "Drangleic", "Throne of Want", "Manus"]
+    "category": "lore",
+    "expected_entities": [
+      "Vendrick",
+      "Nashandra",
+      "Drangleic",
+      "Throne of Want",
+      "Soul of Nashandra"
+    ],
+    "subcategory": "relationship"
   },
   {
     "id": "q019",
-    "question": "Who is the Emerald Herald, and what is her relationship to the Bearer of the Curse?",
+    "question": "Who is the Emerald Herald, and what is her role for the Bearer of the Curse?",
     "game": "Dark Souls II",
-    "category": "relationship",
-    "expected_entities": ["Emerald Herald", "Bearer of the Curse", "Fire Keepers", "Drangleic"]
+    "category": "lore",
+    "expected_entities": [
+      "Emerald Herald",
+      "Bearer of the Curse",
+      "Drangleic",
+      "Throne of Want"
+    ],
+    "subcategory": "relationship"
   },
   {
     "id": "q020",
     "question": "What is the Throne of Want, and why does Nashandra seek it?",
     "game": "Dark Souls II",
-    "category": "relationship",
-    "expected_entities": ["Throne of Want", "Nashandra", "Vendrick", "Manus", "First Flame"]
+    "category": "lore",
+    "expected_entities": [
+      "Throne of Want",
+      "Nashandra",
+      "Vendrick",
+      "Soul of Nashandra",
+      "Drangleic Castle"
+    ],
+    "subcategory": "relationship"
   },
   {
     "id": "q021",
     "question": "How did the war between Drangleic and the Giants begin, and what was its consequence for Vendrick and his kingdom?",
     "game": "Dark Souls II",
-    "category": "multihop",
-    "expected_entities": ["Giants", "Vendrick", "Drangleic", "Last Giant", "Giant Lord", "Forest of Fallen Giants"]
+    "category": "lore",
+    "expected_entities": [
+      "Giant Lord",
+      "The Last Giant",
+      "Forest of Fallen Giants",
+      "Vendrick",
+      "Drangleic"
+    ],
+    "subcategory": "multihop"
   },
   {
     "id": "q022",
     "question": "What does the Ashen Mist Heart allow the Bearer of the Curse to do?",
     "game": "Dark Souls II",
-    "category": "item",
-    "expected_entities": ["Ashen Mist Heart", "Bearer of the Curse", "Memory", "Vendrick", "Aldia"]
+    "category": "item_location",
+    "expected_entities": [
+      "Ashen Mist Heart",
+      "Bearer of the Curse",
+      "Memory of the King",
+      "Vendrick",
+      "Aldia, Scholar of the First Sin"
+    ],
+    "subcategory": "item"
   },
   {
     "id": "q023",
     "question": "What is the significance of the three crowns from the Lost Crowns DLC?",
     "game": "Dark Souls II",
-    "category": "item",
-    "expected_entities": ["Crown", "Lost Crowns", "Sunken King", "Old Iron King", "Ivory King", "Vendrick"]
+    "category": "item_location",
+    "expected_entities": [
+      "Crown of the Sunken King",
+      "Crown of the Old Iron King",
+      "Crown of the Ivory King",
+      "Vendrick",
+      "Sunken King"
+    ],
+    "subcategory": "item"
   },
   {
     "id": "q024",
-    "question": "What is the Shrine of Amana, and what is its narrative significance?",
+    "question": "What is the Shrine of Amana, and what role does it play in the Bearer of the Curse's journey?",
     "game": "Dark Souls II",
-    "category": "location",
-    "expected_entities": ["Shrine of Amana", "Amana", "Milfanito", "Drangleic"]
+    "category": "item_location",
+    "expected_entities": [
+      "Shrine of Amana",
+      "Milfanito",
+      "Drangleic",
+      "Undead Crypt"
+    ],
+    "subcategory": "location"
   },
   {
     "id": "q025",
-    "question": "What does Aldia's dialogue reveal about the cycle of Light and Dark?",
+    "question": "What does Aldia teach the Bearer of the Curse about the cycle of Light and Dark?",
     "game": "Dark Souls II",
-    "category": "synthesis",
-    "expected_entities": ["Aldia", "Scholar of the First Sin", "First Sin", "Light", "Dark", "Cycle", "Undead"]
+    "category": "lore",
+    "expected_entities": [
+      "Aldia, Scholar of the First Sin",
+      "Bearer of the Curse",
+      "First sin",
+      "Throne of Want",
+      "Vendrick"
+    ],
+    "subcategory": "synthesis"
   },
-
   {
     "id": "q026",
     "question": "Who were the Lords of Cinder, and what role did they play in the linking of the First Flame?",
     "game": "Dark Souls III",
-    "category": "entity",
-    "expected_entities": ["Lords of Cinder", "Lord of Cinder", "First Flame", "Gwyn", "Ludleth", "Yhorm", "Aldrich", "Lothric"]
+    "category": "lore",
+    "expected_entities": [
+      "Lords of Cinder",
+      "First Flame",
+      "Ludleth of Courland",
+      "Yhorm the Giant",
+      "Aldrich, Devourer of Gods",
+      "Lothric, Younger Prince",
+      "Soul of Cinder"
+    ],
+    "subcategory": "entity"
   },
   {
     "id": "q027",
     "question": "Who was Prince Lothric, and why did he refuse to link the First Flame?",
     "game": "Dark Souls III",
-    "category": "entity",
-    "expected_entities": ["Lothric", "Younger Prince", "Prince Lothric", "Lorian", "First Flame"]
+    "category": "lore",
+    "expected_entities": [
+      "Lothric, Younger Prince",
+      "Lorian, Elder Prince and Lothric, Younger Prince",
+      "First Flame",
+      "Soul of Cinder"
+    ],
+    "subcategory": "entity"
   },
   {
     "id": "q028",
     "question": "Who was Aldrich, Devourer of Gods?",
     "game": "Dark Souls III",
-    "category": "entity",
-    "expected_entities": ["Aldrich", "Devourer of Gods", "Saint of the Deep", "Lords of Cinder", "Gwyndolin"]
+    "category": "lore",
+    "expected_entities": [
+      "Aldrich, Devourer of Gods",
+      "Devourer of Gods",
+      "Cathedral of the Deep",
+      "Deacons of the Deep",
+      "Lords of Cinder",
+      "Dark Sun Gwyndolin"
+    ],
+    "subcategory": "entity"
   },
   {
     "id": "q029",
     "question": "Who was Pontiff Sulyvahn?",
     "game": "Dark Souls III",
-    "category": "entity",
-    "expected_entities": ["Pontiff Sulyvahn", "Sulyvahn", "Irithyll", "Aldrich"]
+    "category": "lore",
+    "expected_entities": [
+      "Pontiff Sulyvahn",
+      "Sulyvahn",
+      "Irithyll of the Boreal Valley",
+      "Aldrich, Devourer of Gods",
+      "Anor Londo"
+    ],
+    "subcategory": "entity"
   },
   {
     "id": "q030",
     "question": "What was the relationship between Lothric and his elder brother Lorian?",
     "game": "Dark Souls III",
-    "category": "relationship",
-    "expected_entities": ["Lothric", "Lorian", "Prince", "Elder Prince", "Younger Prince"]
+    "category": "lore",
+    "expected_entities": [
+      "Lothric, Younger Prince",
+      "Lorian, Elder Prince and Lothric, Younger Prince",
+      "Lothric",
+      "Lorian",
+      "Younger Prince",
+      "Elder Prince"
+    ],
+    "subcategory": "relationship"
   },
   {
     "id": "q031",
-    "question": "What was the relationship between the Abyss Watchers and Artorias the Abysswalker?",
+    "question": "What is the connection between the Abyss Watchers and Artorias the Abysswalker?",
     "game": "Dark Souls III",
-    "category": "relationship",
-    "expected_entities": ["Abyss Watchers", "Artorias", "Abysswalker", "Wolf", "Abyss"]
+    "category": "lore",
+    "expected_entities": [
+      "Abyss Watchers",
+      "Knight Artorias",
+      "Abyss"
+    ],
+    "subcategory": "relationship"
   },
   {
     "id": "q032",
-    "question": "What role did Sulyvahn play in the rise of Aldrich to godhood?",
+    "question": "What role did Sulyvahn play in Aldrich's rise and the events in Irithyll and Anor Londo?",
     "game": "Dark Souls III",
-    "category": "relationship",
-    "expected_entities": ["Sulyvahn", "Pontiff", "Aldrich", "Devourer of Gods", "Irithyll", "Anor Londo"]
+    "category": "lore",
+    "expected_entities": [
+      "Pontiff Sulyvahn",
+      "Sulyvahn",
+      "Aldrich, Devourer of Gods",
+      "Irithyll of the Boreal Valley",
+      "Anor Londo",
+      "Devourer of Gods"
+    ],
+    "subcategory": "relationship"
   },
   {
     "id": "q033",
-    "question": "Why did the Lords of Cinder refuse to return to their thrones, and how did Lothric's refusal trigger their resurrection?",
+    "question": "Why did the Lords of Cinder refuse to return to their thrones, and what role did Lothric's refusal play in the events of Dark Souls III?",
     "game": "Dark Souls III",
-    "category": "multihop",
-    "expected_entities": ["Lords of Cinder", "Lothric", "First Flame", "Link", "Bell", "Unkindled"]
+    "category": "lore",
+    "expected_entities": [
+      "Lords of Cinder",
+      "Lothric, Younger Prince",
+      "First Flame",
+      "Unkindled",
+      "Ashen One"
+    ],
+    "subcategory": "multihop"
   },
   {
     "id": "q034",
     "question": "What is the Soul of Cinder, and what does it represent narratively?",
     "game": "Dark Souls III",
-    "category": "item",
-    "expected_entities": ["Soul of Cinder", "First Flame", "Link", "Lords of Cinder", "Gwyn"]
+    "category": "item_location",
+    "expected_entities": [
+      "Soul of Cinder",
+      "First Flame",
+      "Lords of Cinder",
+      "Gwyn, Lord of Cinder",
+      "Kiln of the First Flame (Dark Souls III)"
+    ],
+    "subcategory": "item"
   },
   {
     "id": "q035",
     "question": "What happened to the Profaned Capital, and what is Yhorm the Giant's role in it?",
     "game": "Dark Souls III",
-    "category": "item",
-    "expected_entities": ["Profaned Capital", "Yhorm", "Giant", "Profaned Flame", "Lords of Cinder"]
+    "category": "lore",
+    "expected_entities": [
+      "Profaned Capital",
+      "Yhorm the Giant",
+      "Profaned Flame",
+      "Lords of Cinder"
+    ],
+    "subcategory": "item"
   },
   {
     "id": "q036",
     "question": "What is the Painted World of Ariandel, and why must it burn?",
     "game": "Dark Souls III",
-    "category": "location",
-    "expected_entities": ["Painted World of Ariandel", "Father Ariandel", "Sister Friede", "Ashes of Ariandel", "Ariandel"]
+    "category": "lore",
+    "expected_entities": [
+      "Painted World of Ariandel",
+      "Father Ariandel",
+      "Sister Friede",
+      "Ashes of Ariandel",
+      "Ariandel"
+    ],
+    "subcategory": "location"
   },
-   {
+  {
     "id": "q037",
-    "question": "What does the Adaptability stat govern in Dark Souls II?",
+    "question": "How does power stancing work in Dark Souls II?",
     "game": "Dark Souls II",
-    "category": "mechanic",
-    "expected_entities": ["Adaptability", "Agility", "Attunement", "Stats"]
+    "category": "mechanics_build",
+    "expected_entities": [
+      "Power Stance",
+      "Strength (Dark Souls II)",
+      "Dexterity (Dark Souls II)",
+      "Equip Load",
+      "Weapon"
+    ],
+    "subcategory": "mechanic"
   },
   {
     "id": "q038",
     "question": "What is the significance of the Unkindled in the cosmology of Dark Souls III?",
     "game": "Dark Souls III",
-    "category": "synthesis",
-    "expected_entities": ["Unkindled", "Ashen One", "First Flame", "Lords of Cinder", "Bell"]
+    "category": "lore",
+    "expected_entities": [
+      "Unkindled",
+      "Ashen One",
+      "First Flame",
+      "Lords of Cinder",
+      "Cemetery of Ash"
+    ],
+    "subcategory": "synthesis"
   },
-
   {
     "id": "q039",
     "question": "How does Manus's legacy continue to influence the events of Dark Souls II?",
     "game": "All",
-    "category": "multihop",
-    "expected_entities": ["Manus", "Nashandra", "Elana", "Nadalia", "Alsanna", "Abyss", "Daughters of Manus", "Dark"]
+    "category": "cross_game",
+    "expected_entities": [
+      "Manus, Father of the Abyss",
+      "Nashandra",
+      "Elana, the Squalid Queen",
+      "Nadalia, Bride of Ash",
+      "Alsanna, Silent Oracle",
+      "Abyss",
+      "Dark Soul"
+    ],
+    "subcategory": "multihop"
   },
   {
     "id": "q040",
     "question": "How does the concept of linking the First Flame change across Dark Souls, Dark Souls II, and Dark Souls III?",
     "game": "All",
-    "category": "synthesis",
-    "expected_entities": ["First Flame", "Lord of Cinder", "Lords of Cinder", "Gwyn", "Aldia", "Lothric", "Soul of Cinder", "Link", "Unkindled"]
+    "category": "cross_game",
+    "expected_entities": [
+      "First Flame",
+      "Lord Soul",
+      "Lords of Cinder",
+      "Soul of Cinder",
+      "Aldia, Scholar of the First Sin",
+      "Lothric, Younger Prince",
+      "Unkindled"
+    ],
+    "subcategory": "synthesis"
   },
   {
     "id": "q041",
     "question": "How are the Abyss, Humanity, and the Dark connected across the three Dark Souls games?",
     "game": "All",
-    "category": "synthesis",
-    "expected_entities": ["Abyss", "Humanity", "Dark Soul", "Dark", "Manus", "Furtive Pygmy", "Darkstalker Kaathe", "Aldia", "Hollow"]
+    "category": "cross_game",
+    "expected_entities": [
+      "Abyss",
+      "Humanity (item)",
+      "Dark Soul",
+      "Manus, Father of the Abyss",
+      "Furtive Pygmy",
+      "Darkstalker Kaathe",
+      "Aldia, Scholar of the First Sin"
+    ],
+    "subcategory": "synthesis"
   },
-
   {
     "id": "q042",
     "question": "What was the relationship between Raime, the Fume Knight, and Velstadt, the Royal Aegis?",
     "game": "Dark Souls II",
-    "category": "relationship",
-    "expected_entities": ["Raime", "Fume Knight", "Velstadt", "Vendrick", "Nadalia", "Brume Tower"]
+    "category": "lore",
+    "expected_entities": [
+      "Fume Knight",
+      "Raime",
+      "Velstadt",
+      "Vendrick",
+      "Nadalia, Bride of Ash",
+      "Brume Tower"
+    ],
+    "subcategory": "relationship"
   },
   {
     "id": "q043",
     "question": "How did Alsanna come to serve the Ivory King of Eleum Loyce?",
     "game": "Dark Souls II",
-    "category": "relationship",
-    "expected_entities": ["Alsanna", "Ivory King", "Eleum Loyce", "Burnt Ivory King", "Chaos"]
+    "category": "lore",
+    "expected_entities": [
+      "Alsanna, Silent Oracle",
+      "Burnt Ivory King",
+      "Eleum Loyce",
+      "Ivory King",
+      "Nadalia, Bride of Ash"
+    ],
+    "subcategory": "relationship"
   },
-
   {
     "id": "q044",
     "question": "How did Seath the Scaleless betray the Everlasting Dragons?",
     "game": "Dark Souls",
-    "category": "entity",
-    "expected_entities": ["Seath", "Scaleless", "Duke's Archives", "Primordial Crystal", "Everlasting Dragon"]
+    "category": "lore",
+    "expected_entities": [
+      "Seath the Scaleless",
+      "The Duke's Archives",
+      "Crystal Cave",
+      "Stone Dragon",
+      "Dragon Scale",
+      "Lord Soul"
+    ],
+    "subcategory": "entity"
   },
   {
     "id": "q045",
     "question": "How does the player enter the Abyss to face the Four Kings?",
     "game": "Dark Souls",
-    "category": "multihop",
-    "expected_entities": ["Covenant of Artorias", "Great Grey Wolf Sif", "Four Kings", "New Londo", "Abyss"]
+    "category": "quests_exploration",
+    "expected_entities": [
+      "Covenant of Artorias",
+      "Great Grey Wolf Sif",
+      "Four Kings",
+      "New Londo Ruins",
+      "Abyss",
+      "Darkstalker Kaathe"
+    ],
+    "subcategory": "multihop"
   },
   {
     "id": "q046",
     "question": "Why is Anor Londo deserted when the player arrives?",
     "game": "Dark Souls",
-    "category": "location",
-    "expected_entities": ["Anor Londo", "Gwyndolin", "Gwynevere", "Darkmoon", "Illusory Wall"]
+    "category": "lore",
+    "expected_entities": [
+      "Anor Londo",
+      "Soul of Gwyndolin",
+      "Darkmoon Knightess",
+      "Illusory Wall",
+      "Darkmoon Blade"
+    ],
+    "subcategory": "location"
   },
-
   {
     "id": "q047",
     "question": "Why was the Nameless King's name expunged from the annals?",
     "game": "Dark Souls III",
-    "category": "multihop",
-    "expected_entities": ["Nameless King", "Gwyn", "Firstborn", "Everlasting Dragon", "Archdragon Peak"]
+    "category": "lore",
+    "expected_entities": [
+      "The Nameless King",
+      "Gwyn, Lord of Cinder",
+      "Archdragon Peak",
+      "Ancient Wyvern",
+      "Soul of the Nameless King"
+    ],
+    "subcategory": "multihop"
   },
   {
     "id": "q048",
     "question": "What does Slave Knight Gael seek at the end of the world?",
     "game": "Dark Souls III",
-    "category": "multihop",
-    "expected_entities": ["Slave Knight Gael", "Ringed City", "Filianore", "Dark Soul", "Pygmy"]
+    "category": "lore",
+    "expected_entities": [
+      "Slave Knight Gael",
+      "The Ringed City",
+      "Filianore",
+      "Pygmy Lord",
+      "The Painter"
+    ],
+    "subcategory": "multihop"
   },
   {
     "id": "q049",
     "question": "How does the player reverse hollowing in Dark Souls II?",
     "game": "Dark Souls II",
-    "category": "multihop",
-    "expected_entities": ["Human Effigy", "Darksign", "Hollow", "Undead", "Bearer of the Curse"]
+    "category": "mechanics_build",
+    "expected_entities": [
+      "Human Effigy",
+      "Darksign",
+      "Bearer of the Curse",
+      "Emerald Herald"
+    ],
+    "subcategory": "multihop"
   },
   {
     "id": "q050",
     "question": "How does the Usurpation of Fire end the cycle of linking the First Flame?",
     "game": "Dark Souls III",
-    "category": "synthesis",
-    "expected_entities": ["Yoel of Londor", "Yuria of Londor", "Londor", "Dark Sigil", "Unkindled", "First Flame"]
+    "category": "lore",
+    "expected_entities": [
+      "Yoel of Londor",
+      "Yuria of Londor",
+      "Londor",
+      "Dark Sigil",
+      "Unkindled",
+      "First Flame"
+    ],
+    "subcategory": "synthesis"
+  },
+  {
+    "id": "q051",
+    "question": "What are the Four Kings, how did they fall under the influence of the Abyss, and what must the player do to reach them?",
+    "game": "Dark Souls",
+    "category": "boss",
+    "expected_entities": [
+      "Four Kings",
+      "New Londo Ruins",
+      "Abyss",
+      "Covenant of Artorias",
+      "Darkstalker Kaathe"
+    ],
+    "subcategory": "boss_lore"
+  },
+  {
+    "id": "q052",
+    "question": "How can the player defeat Ornstein and Smough, and how does defeating Ornstein first versus Smough first change the second phase?",
+    "game": "Dark Souls",
+    "category": "boss",
+    "expected_entities": [
+      "Dragon Slayer Ornstein and Executioner Smough",
+      "Ornstein",
+      "Smough",
+      "Anor Londo"
+    ],
+    "subcategory": "boss_strategy"
+  },
+  {
+    "id": "q053",
+    "question": "What are the main attack patterns of Knight Artorias, and how can the player interrupt or punish his attempts to empower himself?",
+    "game": "Dark Souls",
+    "category": "boss",
+    "expected_entities": [
+      "Artorias of the Abyss",
+      "Abyss",
+      "Oolacile",
+      "Great Grey Wolf Sif"
+    ],
+    "subcategory": "boss_strategy"
+  },
+  {
+    "id": "q054",
+    "question": "What makes the Bed of Chaos fight different from a conventional Dark Souls boss fight, and how does the player defeat it?",
+    "game": "Dark Souls",
+    "category": "boss",
+    "expected_entities": [
+      "Bed of Chaos",
+      "Lost Izalith",
+      "Witch of Izalith",
+      "Chaos"
+    ],
+    "subcategory": "boss_strategy"
+  },
+  {
+    "id": "q055",
+    "question": "What are Seath the Scaleless's main attacks and elemental resistances, and how can the player obtain the Moonlight Greatsword by cutting off his tail?",
+    "game": "Dark Souls",
+    "category": "boss",
+    "expected_entities": [
+      "Seath the Scaleless",
+      "Moonlight Greatsword (Dark Souls)",
+      "Crystal Cave",
+      "The Duke's Archives",
+      "Dragon Scale"
+    ],
+    "subcategory": "boss_strategy"
+  },
+  {
+    "id": "q056",
+    "question": "How does the player avoid the Curse status effect when fighting Seath the Scaleless, and what happens if Curse builds up completely?",
+    "game": "Dark Souls",
+    "category": "boss",
+    "expected_entities": [
+      "Seath the Scaleless",
+      "Curse (Dark Souls)",
+      "Transient Curse",
+      "Cursebite Ring",
+      "The Duke's Archives"
+    ],
+    "subcategory": "boss_strategy"
+  },
+  {
+    "id": "q057",
+    "question": "How does the player defeat Black Dragon Kalameet, and what must happen before Gough can help bring the dragon down?",
+    "game": "Dark Souls",
+    "category": "boss",
+    "expected_entities": [
+      "Black Dragon Kalameet",
+      "Gough's Greatbow",
+      "Oolacile Township",
+      "Royal Wood",
+      "Artorias of the Abyss"
+    ],
+    "subcategory": "boss_strategy"
+  },
+  {
+    "id": "q058",
+    "question": "How do the Ancient Dragon and Sinh, the Slumbering Dragon, differ in their attacks, weaknesses, and combat strategies?",
+    "game": "Dark Souls II",
+    "category": "boss",
+    "expected_entities": [
+      "Ancient Dragon",
+      "Sinh, the Slumbering Dragon",
+      "Dragon Shrine",
+      "Shulva, Sanctum City",
+      "Dragon Aerie"
+    ],
+    "subcategory": "boss_comparison"
+  },
+  {
+    "id": "q059",
+    "question": "Why is the Fume Knight considered a difficult boss, and how can the player prevent the Ashen Idols from healing him during the fight?",
+    "game": "Dark Souls II",
+    "category": "boss",
+    "expected_entities": [
+      "Fume Knight",
+      "Raime",
+      "Ashen Idol",
+      "Smelter Wedge",
+      "Brume Tower",
+      "Nadalia, Bride of Ash"
+    ],
+    "subcategory": "boss_strategy"
+  },
+  {
+    "id": "q060",
+    "question": "How does the Looking Glass Knight use lightning and summon assistance, and what tactics help the player defeat him?",
+    "game": "Dark Souls II",
+    "category": "boss",
+    "expected_entities": [
+      "Looking Glass Knight",
+      "Drangleic Castle",
+      "King's Mirror",
+      "Lightning (Dark Souls II)"
+    ],
+    "subcategory": "boss_strategy"
+  },
+  {
+    "id": "q061",
+    "question": "What are Sister Friede's three phases, how does Father Ariandel participate in the encounter, and how can the player manage the fight?",
+    "game": "Dark Souls III",
+    "category": "boss",
+    "expected_entities": [
+      "Sister Friede",
+      "Father Ariandel",
+      "Ashes of Ariandel",
+      "Soul of Sister Friede"
+    ],
+    "subcategory": "boss_strategy"
+  },
+  {
+    "id": "q062",
+    "question": "How does the player defeat the Nameless King, and why does the strategy need to change between the King of the Storm and the second phase?",
+    "game": "Dark Souls III",
+    "category": "boss",
+    "expected_entities": [
+      "The Nameless King",
+      "Archdragon Peak",
+      "Lightning",
+      "Soul of the Nameless King"
+    ],
+    "subcategory": "boss_strategy"
+  },
+  {
+    "id": "q063",
+    "question": "How can the player survive Slave Knight Gael's three phases, and what changes in his attacks as the fight progresses?",
+    "game": "Dark Souls III",
+    "category": "boss",
+    "expected_entities": [
+      "Slave Knight Gael",
+      "Filianore",
+      "The Ringed City",
+      "Ashes of Ariandel",
+      "Soul of Slave Knight Gael"
+    ],
+    "subcategory": "boss_strategy"
+  },
+  {
+    "id": "q064",
+    "question": "What is the recommended strategy for fighting the Dancer of the Boreal Valley early in Dark Souls III, and how do her attack patterns change during the encounter?",
+    "game": "Dark Souls III",
+    "category": "boss",
+    "expected_entities": [
+      "Dancer of the Boreal Valley",
+      "Vordt of the Boreal Valley",
+      "Irithyll of the Boreal Valley",
+      "Dark Gem",
+      "Fire Gem"
+    ],
+    "subcategory": "boss_strategy"
+  },
+  {
+    "id": "q065",
+    "question": "How do weapon scaling and attribute requirements influence the damage dealt by a melee weapon in Dark Souls?",
+    "game": "Dark Souls",
+    "category": "mechanics_build",
+    "expected_entities": [
+      "Parameter Bonus",
+      "Strength (Dark Souls)",
+      "Dexterity (Dark Souls)",
+      "Weapon Types (Dark Souls)",
+      "Weapon Augmentation"
+    ],
+    "subcategory": "mechanic"
+  },
+  {
+    "id": "q066",
+    "question": "What stat allocation and equipment does the wiki recommend for a beginner strength build in Dark Souls?",
+    "game": "Dark Souls",
+    "category": "mechanics_build",
+    "expected_entities": [
+      "Strength (Dark Souls)",
+      "Dexterity (Dark Souls)",
+      "Vitality (Dark Souls)",
+      "Endurance (Dark Souls)",
+      "Great Club",
+      "Zweihander"
+    ],
+    "subcategory": "build"
+  },
+  {
+    "id": "q067",
+    "question": "What are the trade-offs of a quality build compared with pure Strength or pure Dexterity builds?",
+    "game": "Dark Souls III",
+    "category": "mechanics_build",
+    "expected_entities": [
+      "Refined Gem",
+      "Heavy Gem",
+      "Sharp Gem",
+      "Strength (Dark Souls III)",
+      "Dexterity (Dark Souls III)",
+      "Infusion (Dark Souls III)"
+    ],
+    "subcategory": "build_comparison"
+  },
+  {
+    "id": "q068",
+    "question": "How do Intelligence and Faith affect sorcery and miracle builds in Dark Souls III, and which catalysts are used to cast each type of spell?",
+    "game": "Dark Souls III",
+    "category": "mechanics_build",
+    "expected_entities": [
+      "Intelligence (Dark Souls III)",
+      "Faith (Dark Souls III)",
+      "Sorcery (Dark Souls III)",
+      "Miracle (Dark Souls III)",
+      "Court Sorcerer's Staff",
+      "Cleric's Sacred Chime (Dark Souls III)",
+      "Pyromancy (Dark Souls III)"
+    ],
+    "subcategory": "build"
+  },
+  {
+    "id": "q069",
+    "question": "How does Adaptability affect Agility, item usage speed, and rolling invincibility frames in Dark Souls II?",
+    "game": "Dark Souls II",
+    "category": "mechanics_build",
+    "expected_entities": [
+      "Adaptability",
+      "Attunement (Dark Souls II)",
+      "Equip Load",
+      "Vigor",
+      "Endurance (Dark Souls II)"
+    ],
+    "subcategory": "mechanic"
+  },
+  {
+    "id": "q070",
+    "question": "How does equipment load affect rolling, movement, and stamina recovery in Dark Souls III, and how can a player maintain a fast or medium roll?",
+    "game": "Dark Souls III",
+    "category": "mechanics_build",
+    "expected_entities": [
+      "Vitality (Dark Souls III)",
+      "Endurance (Dark Souls III)",
+      "Havel's Ring (Dark Souls III)",
+      "Ring of Favor",
+      "Chloranthy Ring (Dark Souls III)",
+      "Havel's Set (Dark Souls III)"
+    ],
+    "subcategory": "mechanic"
+  },
+  {
+    "id": "q071",
+    "question": "How do weapon infusions change base damage and attribute scaling in Dark Souls III, and what do the wiki's recommendations say about choosing Heavy, Sharp, Refined, or Raw?",
+    "game": "Dark Souls III",
+    "category": "mechanics_build",
+    "expected_entities": [
+      "Infusion (Dark Souls III)",
+      "Heavy Gem",
+      "Sharp Gem",
+      "Refined Gem",
+      "Raw Gem",
+      "Strength (Dark Souls III)",
+      "Dexterity (Dark Souls III)"
+    ],
+    "subcategory": "build"
+  },
+  {
+    "id": "q072",
+    "question": "How do sorcery, pyromancy, and miracles differ in their attributes, casting equipment, and combat roles across the Dark Souls series?",
+    "game": "All",
+    "category": "cross_game",
+    "expected_entities": [
+      "Sorcery",
+      "Pyromancy",
+      "Miracle",
+      "Intelligence",
+      "Faith",
+      "Attunement",
+      "Catalyst"
+    ],
+    "subcategory": "build_comparison"
+  },
+  {
+    "id": "q073",
+    "question": "How does poise work in Dark Souls III, and how do armor, weapon hyperarmor, and attack timing affect a player's ability to withstand attacks?",
+    "game": "Dark Souls III",
+    "category": "mechanics_build",
+    "expected_entities": [
+      "Poise (Dark Souls III)",
+      "Hyper Armor",
+      "Armor (Dark Souls III)",
+      "Weapon",
+      "Attack"
+    ],
+    "subcategory": "mechanic"
+  },
+  {
+    "id": "q074",
+    "question": "How does the Hollow infusion interact with Luck and hollowing, and what equipment can support a bleed-oriented build in Dark Souls III?",
+    "game": "Dark Souls III",
+    "category": "mechanics_build",
+    "expected_entities": [
+      "Hollow Gem",
+      "Luck",
+      "Hollowing",
+      "Bleed (Dark Souls III)",
+      "Carthus Rouge",
+      "Blood Gem"
+    ],
+    "subcategory": "build"
+  },
+  {
+    "id": "q075",
+    "question": "What is the recommended early-game progression route in Dark Souls, and which areas and bosses normally lead to obtaining the Lordvessel?",
+    "game": "Dark Souls",
+    "category": "quests_exploration",
+    "expected_entities": [
+      "Undead Burg",
+      "Undead Parish",
+      "Blighttown",
+      "Sen's Fortress",
+      "Anor Londo",
+      "Lordvessel"
+    ],
+    "subcategory": "progression"
+  },
+  {
+    "id": "q076",
+    "question": "How can the player reach the Great Hollow and Ash Lake, and what makes this route easy to miss during a normal playthrough?",
+    "game": "Dark Souls",
+    "category": "quests_exploration",
+    "expected_entities": [
+      "The Great Hollow",
+      "Ash Lake",
+      "Blighttown",
+      "Gaping Dragon",
+      "Stone Dragon"
+    ],
+    "subcategory": "exploration"
+  },
+  {
+    "id": "q077",
+    "question": "How does the player unlock access to the Shrine of Winter in Dark Souls II, and what are the alternative ways to satisfy its requirements?",
+    "game": "Dark Souls II",
+    "category": "quests_exploration",
+    "expected_entities": [
+      "Shrine of Winter",
+      "King's Ring",
+      "Giant's Kinship",
+      "Lost Sinner",
+      "Old Iron King",
+      "The Rotten",
+      "The Duke's Dear Freja"
+    ],
+    "subcategory": "progression"
+  },
+  {
+    "id": "q078",
+    "question": "What are the major steps in Lucatiel of Mirrah's questline, and what conditions must be met to receive her equipment and complete her quest?",
+    "game": "Dark Souls II",
+    "category": "quests_exploration",
+    "expected_entities": [
+      "Lucatiel of Mirrah",
+      "Bearer of the Curse",
+      "No-man's Wharf",
+      "The Lost Bastille",
+      "Aldia's Keep",
+      "Mirrah Greatsword"
+    ],
+    "subcategory": "questline"
+  },
+  {
+    "id": "q079",
+    "question": "How does the player complete Anri of Astora's questline, and which choices determine whether the quest leads to the Usurpation of Fire ending?",
+    "game": "Dark Souls III",
+    "category": "quests_exploration",
+    "expected_entities": [
+      "Anri of Astora",
+      "Horace the Hushed",
+      "Yuria of Londor",
+      "Dark Sigil",
+      "Londor"
+    ],
+    "subcategory": "questline"
+  },
+  {
+    "id": "q080",
+    "question": "How does Siegward of Catarina's questline progress from the Undead Settlement to his final encounter, and what rewards can the player obtain?",
+    "game": "Dark Souls III",
+    "category": "quests_exploration",
+    "expected_entities": [
+      "Siegward of Catarina",
+      "Undead Settlement",
+      "Irithyll Dungeon",
+      "Yhorm the Giant",
+      "Storm Ruler",
+      "Catarina Set (Dark Souls III)"
+    ],
+    "subcategory": "questline"
+  },
+  {
+    "id": "q081",
+    "question": "How can the player access the Painted World of Ariamis, and what optional encounters and unique rewards can be found there?",
+    "game": "Dark Souls",
+    "category": "quests_exploration",
+    "expected_entities": [
+      "Painted World of Ariamis",
+      "Peculiar Doll",
+      "Anor Londo",
+      "Crossbreed Priscilla",
+      "Dark Ember"
+    ],
+    "subcategory": "exploration"
+  },
+  {
+    "id": "q082",
+    "question": "How does the player reach Archdragon Peak, and what items or gestures are required to discover the hidden area?",
+    "game": "Dark Souls III",
+    "category": "quests_exploration",
+    "expected_entities": [
+      "Archdragon Peak",
+      "The Nameless King",
+      "Oceiros, the Consumed King",
+      "Consumed King's Garden",
+      "Ancient Wyvern"
+    ],
+    "subcategory": "exploration"
+  },
+  {
+    "id": "q083",
+    "question": "How does the player obtain the four Lord Souls in Dark Souls, and which major areas and bosses must be explored to acquire them?",
+    "game": "Dark Souls",
+    "category": "quests_exploration",
+    "expected_entities": [
+      "Lord Soul",
+      "Seath the Scaleless",
+      "Four Kings",
+      "Gravelord Nito",
+      "Bed of Chaos",
+      "Lordvessel"
+    ],
+    "subcategory": "progression"
+  },
+  {
+    "id": "q084",
+    "question": "What does the Small Doll unlock in Dark Souls III, where is it obtained, and how does it relate to progression through Irithyll?",
+    "game": "Dark Souls III",
+    "category": "item_location",
+    "expected_entities": [
+      "Small Doll",
+      "Deacons of the Deep",
+      "Cathedral of the Deep",
+      "Irithyll of the Boreal Valley"
+    ],
+    "subcategory": "item"
+  },
+  {
+    "id": "q085",
+    "question": "How do weapon reinforcement and upgrade materials work in each Dark Souls game, and how do normal weapon upgrades differ from unique weapon upgrades?",
+    "game": "All",
+    "category": "cross_game",
+    "expected_entities": [
+      "Upgrade Materials",
+      "Titanite Shard",
+      "Titanite Slab",
+      "Twinkling Titanite",
+      "Dragon Scale",
+      "Infusion (Dark Souls III)",
+      "Weapon Augmentation"
+    ],
+    "subcategory": "mechanic"
+  },
+  {
+    "id": "q086",
+    "question": "How can the player obtain the Moonlight Greatsword in each game where it appears, and what attributes or combat styles best support its use?",
+    "game": "All",
+    "category": "cross_game",
+    "expected_entities": [
+      "Moonlight Greatsword (Dark Souls)",
+      "Seath the Scaleless",
+      "Darklurker",
+      "Oceiros, the Consumed King",
+      "Intelligence",
+      "Dexterity"
+    ],
+    "subcategory": "weapon"
+  },
+  {
+    "id": "q087",
+    "question": "How does the Estus Flask work in Dark Souls, and where can the player find Fire Keeper Souls to increase its healing effectiveness?",
+    "game": "Dark Souls",
+    "category": "item_location",
+    "expected_entities": [
+      "Estus Flask (Dark Souls)",
+      "Fire Keeper Soul",
+      "Firelink Shrine",
+      "Undead Parish",
+      "Quelaag's Domain",
+      "New Londo Ruins"
+    ],
+    "subcategory": "item"
+  },
+  {
+    "id": "q088",
+    "question": "What are the differences between the Covetous Silver Serpent Ring and Covetous Gold Serpent Ring, and how can the player obtain them?",
+    "game": "Dark Souls",
+    "category": "item_location",
+    "expected_entities": [
+      "Covetous Silver Serpent Ring",
+      "Covetous Gold Serpent Ring",
+      "Item Discovery",
+      "Sen's Fortress",
+      "Tomb of the Giants"
+    ],
+    "subcategory": "item"
+  },
+  {
+    "id": "q089",
+    "question": "How do the Ring of Favor and Protection, Havel's Ring, and Cloranthy Ring affect character performance, and what does the wiki recommend for builds that use them?",
+    "game": "Dark Souls",
+    "category": "item_location",
+    "expected_entities": [
+      "Ring of Favor and Protection",
+      "Havel's Ring",
+      "Cloranthy Ring",
+      "Equipment Load (Dark Souls)",
+      "Stamina (Dark Souls)",
+      "Vitality (Dark Souls)",
+      "Endurance (Dark Souls)"
+    ],
+    "subcategory": "equipment"
+  },
+  {
+    "id": "q090",
+    "question": "What are the effects of the different elemental infusions and resins in Dark Souls III, and when can a weapon be buffed with a temporary effect?",
+    "game": "Dark Souls III",
+    "category": "mechanics_build",
+    "expected_entities": [
+      "Infusion (Dark Souls III)",
+      "Gold Pine Resin (Dark Souls III)",
+      "Charcoal Pine Resin (Dark Souls III)",
+      "Lightning Blade",
+      "Dark Blade",
+      "Spell Buff"
+    ],
+    "subcategory": "mechanic"
+  },
+  {
+    "id": "q091",
+    "question": "How does the Covenant of Artorias differ from other rings, why is it required for a particular boss encounter, and what happens if the player removes it at the wrong time?",
+    "game": "Dark Souls",
+    "category": "item_location",
+    "expected_entities": [
+      "Covenant of Artorias",
+      "Four Kings",
+      "Abyss",
+      "Great Grey Wolf Sif",
+      "New Londo Ruins"
+    ],
+    "subcategory": "item"
+  },
+  {
+    "id": "q092",
+    "question": "How do miracles such as Lightning Spear and Sunlight Spear differ in their requirements, damage, and acquisition methods?",
+    "game": "Dark Souls",
+    "category": "mechanics_build",
+    "expected_entities": [
+      "Lightning Spear",
+      "Sunlight Spear",
+      "Warrior of Sunlight",
+      "Faith (Dark Souls)",
+      "Soul of Gwyn, Lord of Cinder",
+      "Covenant"
+    ],
+    "subcategory": "spell"
+  },
+  {
+    "id": "q093",
+    "question": "What are the major differences between the three Dark Souls games' healing systems, and how do Estus Flask upgrades and additional healing items work in each game?",
+    "game": "All",
+    "category": "cross_game",
+    "expected_entities": [
+      "Estus Flask",
+      "Estus Flask Shard",
+      "Undead Bone Shard",
+      "Lifegem",
+      "Human Effigy",
+      "Divine Blessing"
+    ],
+    "subcategory": "mechanic"
+  },
+  {
+    "id": "q094",
+    "question": "How do covenants differ in their multiplayer functions and rewards, and which covenants focus on cooperation, invasions, or defending specific areas?",
+    "game": "All",
+    "category": "cross_game",
+    "expected_entities": [
+      "Warrior of Sunlight",
+      "Way of Blue",
+      "Darkwraith",
+      "Blade of the Darkmoon",
+      "Bell Keepers",
+      "Aldrich Faithful",
+      "Watchdogs of Farron"
+    ],
+    "subcategory": "multiplayer"
+  },
+  {
+    "id": "q095",
+    "question": "How does summoning work in the Dark Souls series, including the conditions for seeing summon signs, NPC summons, and restrictions on cooperative play?",
+    "game": "All",
+    "category": "cross_game",
+    "expected_entities": [
+      "White Sign Soapstone",
+      "Red Sign Soapstone",
+      "Humanity (item)",
+      "Human Effigy",
+      "Ember",
+      "Covenant",
+      "Warrior of Sunlight"
+    ],
+    "subcategory": "multiplayer"
+  },
+  {
+    "id": "q096",
+    "question": "What is the difference between parrying, backstabbing, and guard breaking, and which enemy attacks or weapon types can be countered with each technique?",
+    "game": "All",
+    "category": "cross_game",
+    "expected_entities": [
+      "Parry",
+      "Backstab",
+      "Guard Break",
+      "Riposte",
+      "Shield",
+      "Poise"
+    ],
+    "subcategory": "combat_mechanics"
+  },
+  {
+    "id": "q097",
+    "question": "How does New Game Plus change enemy difficulty, item availability, and rewards, and what does the wiki recommend completing before the next cycle?",
+    "game": "All",
+    "category": "cross_game",
+    "expected_entities": [
+      "New Game Plus",
+      "Bonfire",
+      "Boss Soul",
+      "Titanite Slab",
+      "Covenant",
+      "Upgrade Materials"
+    ],
+    "subcategory": "gameplay_strategy"
+  },
+  {
+    "id": "q098",
+    "question": "How do the three Dark Souls games portray dragons and their relationship with the ancient world, and how do Seath, the Ancient Dragon, and the Nameless King fit into that history?",
+    "game": "All",
+    "category": "cross_game",
+    "expected_entities": [
+      "Stone Dragon",
+      "Seath the Scaleless",
+      "Ancient Dragon",
+      "The Nameless King",
+      "Archdragon Peak",
+      "Gwyn, Lord of Cinder"
+    ],
+    "subcategory": "cross_game_lore"
+  },
+  {
+    "id": "q099",
+    "question": "How does the Ringed City DLC expand the lore of the Pygmies and the Dark Soul, and why is the blood of the Dark Soul important to the Painter?",
+    "game": "Dark Souls III",
+    "category": "lore",
+    "expected_entities": [
+      "The Ringed City",
+      "Slave Knight Gael",
+      "Pygmy Lord",
+      "Ringed City Pygmy",
+      "Filianore",
+      "The Painter"
+    ],
+    "subcategory": "dlc_lore"
+  },
+  {
+    "id": "q100",
+    "question": "What are the main differences between the endings of Dark Souls, Dark Souls II, and Dark Souls III, and how does each ending treat the cycle of Fire and Dark?",
+    "game": "All",
+    "category": "cross_game",
+    "expected_entities": [
+      "Age of Dark",
+      "Age of Fire",
+      "Lords of Cinder",
+      "Bearer of the Curse",
+      "Throne of Want",
+      "Ashen One",
+      "Aldia, Scholar of the First Sin"
+    ],
+    "subcategory": "cross_game_synthesis"
   }
 ]

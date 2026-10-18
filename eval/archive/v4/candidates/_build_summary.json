@@ -1,0 +1,1811 @@
+{
+  "built_at": "2026-10-17T08:10:58Z",
+  "config": {
+    "system_k": 50,
+    "quota": 60,
+    "cap": 300,
+    "template_cap": 80
+  },
+  "questions": [
+    {
+      "question": "q001",
+      "pool_size": 167,
+      "counts": {
+        "human": 79,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 1,
+        "enhanced": 14,
+        "bm25": 5,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q002",
+      "pool_size": 187,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 28,
+        "bm25": 5,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q003",
+      "pool_size": 169,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 13,
+        "bm25": 1,
+        "hybrid": 1
+      }
+    },
+    {
+      "question": "q004",
+      "pool_size": 205,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 43,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 49,
+        "bm25": 0,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q005",
+      "pool_size": 187,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 44,
+        "hybrid": 45
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 32,
+        "bm25": 0,
+        "hybrid": 1
+      }
+    },
+    {
+      "question": "q006",
+      "pool_size": 207,
+      "counts": {
+        "human": 79,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 1,
+        "enhanced": 42,
+        "bm25": 4,
+        "hybrid": 2
+      }
+    },
+    {
+      "question": "q007",
+      "pool_size": 173,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 16,
+        "bm25": 5,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q008",
+      "pool_size": 192,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 23,
+        "bm25": 4,
+        "hybrid": 16
+      }
+    },
+    {
+      "question": "q009",
+      "pool_size": 158,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 49,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 6,
+        "bm25": 2,
+        "hybrid": 1
+      }
+    },
+    {
+      "question": "q010",
+      "pool_size": 196,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 49,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 45,
+        "bm25": 1,
+        "hybrid": 2
+      }
+    },
+    {
+      "question": "q011",
+      "pool_size": 202,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 36,
+        "bm25": 9,
+        "hybrid": 5
+      }
+    },
+    {
+      "question": "q012",
+      "pool_size": 225,
+      "counts": {
+        "human": 79,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 45,
+        "bm25": 15,
+        "hybrid": 6
+      }
+    },
+    {
+      "question": "q013",
+      "pool_size": 197,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 38,
+        "bm25": 6,
+        "hybrid": 4
+      }
+    },
+    {
+      "question": "q014",
+      "pool_size": 182,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 32,
+        "bm25": 0,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q015",
+      "pool_size": 183,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 15,
+        "bm25": 6,
+        "hybrid": 4
+      }
+    },
+    {
+      "question": "q016",
+      "pool_size": 198,
+      "counts": {
+        "human": 79,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 1,
+        "enhanced": 34,
+        "bm25": 3,
+        "hybrid": 20
+      }
+    },
+    {
+      "question": "q017",
+      "pool_size": 198,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 41,
+        "bm25": 4,
+        "hybrid": 9
+      }
+    },
+    {
+      "question": "q018",
+      "pool_size": 202,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 43,
+        "bm25": 4,
+        "hybrid": 1
+      }
+    },
+    {
+      "question": "q019",
+      "pool_size": 184,
+      "counts": {
+        "human": 79,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 1,
+        "enhanced": 44,
+        "bm25": 1,
+        "hybrid": 2
+      }
+    },
+    {
+      "question": "q020",
+      "pool_size": 196,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 43,
+        "bm25": 2,
+        "hybrid": 2
+      }
+    },
+    {
+      "question": "q021",
+      "pool_size": 212,
+      "counts": {
+        "human": 79,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 1,
+        "enhanced": 25,
+        "bm25": 4,
+        "hybrid": 23
+      }
+    },
+    {
+      "question": "q022",
+      "pool_size": 175,
+      "counts": {
+        "human": 79,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 1,
+        "enhanced": 32,
+        "bm25": 7,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q023",
+      "pool_size": 198,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 26,
+        "bm25": 1,
+        "hybrid": 12
+      }
+    },
+    {
+      "question": "q024",
+      "pool_size": 184,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 22,
+        "bm25": 2,
+        "hybrid": 9
+      }
+    },
+    {
+      "question": "q025",
+      "pool_size": 227,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 40,
+        "bm25": 21,
+        "hybrid": 11
+      }
+    },
+    {
+      "question": "q026",
+      "pool_size": 186,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 27,
+        "bm25": 0,
+        "hybrid": 2
+      }
+    },
+    {
+      "question": "q027",
+      "pool_size": 183,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 29,
+        "bm25": 1,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q028",
+      "pool_size": 173,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 22,
+        "bm25": 7,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q029",
+      "pool_size": 169,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 21,
+        "bm25": 9,
+        "hybrid": 12
+      }
+    },
+    {
+      "question": "q030",
+      "pool_size": 185,
+      "counts": {
+        "human": 68,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 36,
+        "bm25": 14,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q031",
+      "pool_size": 139,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 0,
+        "bm25": 2,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q032",
+      "pool_size": 169,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 0,
+        "bm25": 12,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q033",
+      "pool_size": 164,
+      "counts": {
+        "human": 76,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 3,
+        "enhanced": 0,
+        "bm25": 9,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q034",
+      "pool_size": 162,
+      "counts": {
+        "human": 79,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 1,
+        "enhanced": 0,
+        "bm25": 5,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q035",
+      "pool_size": 164,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 0,
+        "bm25": 7,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q036",
+      "pool_size": 153,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 0,
+        "bm25": 0,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q037",
+      "pool_size": 168,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 0,
+        "bm25": 16,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q038",
+      "pool_size": 173,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 0,
+        "bm25": 14,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q039",
+      "pool_size": 202,
+      "counts": {
+        "human": 96,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 1,
+        "enhanced": 0,
+        "bm25": 25,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q040",
+      "pool_size": 164,
+      "counts": {
+        "human": 79,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 1,
+        "enhanced": 0,
+        "bm25": 7,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q041",
+      "pool_size": 167,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 0,
+        "bm25": 17,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q042",
+      "pool_size": 161,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 0,
+        "bm25": 8,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q043",
+      "pool_size": 146,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 0,
+        "bm25": 1,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q044",
+      "pool_size": 162,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 47,
+        "hybrid": 48
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 0,
+        "bm25": 7,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q045",
+      "pool_size": 136,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 48,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 0,
+        "bm25": 5,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q046",
+      "pool_size": 149,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 0,
+        "bm25": 8,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q047",
+      "pool_size": 170,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 0,
+        "bm25": 14,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q048",
+      "pool_size": 150,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 0,
+        "bm25": 1,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q049",
+      "pool_size": 167,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 0,
+        "bm25": 7,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q050",
+      "pool_size": 156,
+      "counts": {
+        "human": 80,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 0,
+        "enhanced": 0,
+        "bm25": 2,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q051",
+      "pool_size": 152,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 45,
+        "enhanced": 0,
+        "bm25": 27,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q052",
+      "pool_size": 152,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 42,
+        "hybrid": 45
+      },
+      "fresh": {
+        "dense": 49,
+        "enhanced": 0,
+        "bm25": 23,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q053",
+      "pool_size": 164,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 49,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 46,
+        "enhanced": 0,
+        "bm25": 38,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q054",
+      "pool_size": 156,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 49,
+        "hybrid": 49
+      },
+      "fresh": {
+        "dense": 37,
+        "enhanced": 0,
+        "bm25": 39,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q055",
+      "pool_size": 144,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 48,
+        "hybrid": 49
+      },
+      "fresh": {
+        "dense": 30,
+        "enhanced": 0,
+        "bm25": 34,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q056",
+      "pool_size": 139,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 45,
+        "hybrid": 45
+      },
+      "fresh": {
+        "dense": 36,
+        "enhanced": 0,
+        "bm25": 23,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q057",
+      "pool_size": 134,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 41,
+        "hybrid": 42
+      },
+      "fresh": {
+        "dense": 36,
+        "enhanced": 0,
+        "bm25": 18,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q058",
+      "pool_size": 148,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 39,
+        "enhanced": 0,
+        "bm25": 29,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q059",
+      "pool_size": 150,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 36,
+        "enhanced": 0,
+        "bm25": 34,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q060",
+      "pool_size": 163,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 49,
+        "hybrid": 49
+      },
+      "fresh": {
+        "dense": 50,
+        "enhanced": 0,
+        "bm25": 33,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q061",
+      "pool_size": 160,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 46,
+        "enhanced": 0,
+        "bm25": 34,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q062",
+      "pool_size": 161,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 50,
+        "enhanced": 0,
+        "bm25": 31,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q063",
+      "pool_size": 167,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 49,
+        "hybrid": 49
+      },
+      "fresh": {
+        "dense": 50,
+        "enhanced": 0,
+        "bm25": 37,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q064",
+      "pool_size": 149,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 37,
+        "enhanced": 0,
+        "bm25": 32,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q065",
+      "pool_size": 169,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 45,
+        "enhanced": 0,
+        "bm25": 44,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q066",
+      "pool_size": 166,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 50,
+        "enhanced": 0,
+        "bm25": 36,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q067",
+      "pool_size": 171,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 46,
+        "enhanced": 0,
+        "bm25": 45,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q068",
+      "pool_size": 166,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 50,
+        "enhanced": 0,
+        "bm25": 36,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q069",
+      "pool_size": 157,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 49,
+        "hybrid": 49
+      },
+      "fresh": {
+        "dense": 42,
+        "enhanced": 0,
+        "bm25": 35,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q070",
+      "pool_size": 151,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 48,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 43,
+        "enhanced": 0,
+        "bm25": 28,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q071",
+      "pool_size": 160,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 49,
+        "hybrid": 49
+      },
+      "fresh": {
+        "dense": 46,
+        "enhanced": 0,
+        "bm25": 34,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q072",
+      "pool_size": 167,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 50,
+        "enhanced": 0,
+        "bm25": 37,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q073",
+      "pool_size": 160,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 49,
+        "hybrid": 49
+      },
+      "fresh": {
+        "dense": 48,
+        "enhanced": 0,
+        "bm25": 32,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q074",
+      "pool_size": 150,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 49,
+        "hybrid": 49
+      },
+      "fresh": {
+        "dense": 41,
+        "enhanced": 0,
+        "bm25": 29,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q075",
+      "pool_size": 173,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 48,
+        "enhanced": 0,
+        "bm25": 45,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q076",
+      "pool_size": 154,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 38,
+        "enhanced": 0,
+        "bm25": 36,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q077",
+      "pool_size": 158,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 40,
+        "enhanced": 0,
+        "bm25": 38,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q078",
+      "pool_size": 159,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 49,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 48,
+        "enhanced": 0,
+        "bm25": 31,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q079",
+      "pool_size": 136,
+      "counts": {
+        "human": 0,
+        "template": 78,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 35,
+        "enhanced": 0,
+        "bm25": 23,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q080",
+      "pool_size": 166,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 49,
+        "enhanced": 0,
+        "bm25": 37,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q081",
+      "pool_size": 157,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 49,
+        "enhanced": 0,
+        "bm25": 28,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q082",
+      "pool_size": 157,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 42,
+        "enhanced": 0,
+        "bm25": 35,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q083",
+      "pool_size": 170,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 48,
+        "enhanced": 0,
+        "bm25": 42,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q084",
+      "pool_size": 171,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 50,
+        "enhanced": 0,
+        "bm25": 41,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q085",
+      "pool_size": 172,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 50,
+        "enhanced": 0,
+        "bm25": 42,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q086",
+      "pool_size": 159,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 41,
+        "enhanced": 0,
+        "bm25": 38,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q087",
+      "pool_size": 153,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 50,
+        "enhanced": 0,
+        "bm25": 23,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q088",
+      "pool_size": 145,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 42,
+        "enhanced": 0,
+        "bm25": 23,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q089",
+      "pool_size": 152,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 41,
+        "enhanced": 0,
+        "bm25": 31,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q090",
+      "pool_size": 170,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 44,
+        "enhanced": 0,
+        "bm25": 46,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q091",
+      "pool_size": 170,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 44,
+        "enhanced": 0,
+        "bm25": 46,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q092",
+      "pool_size": 146,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 50,
+        "enhanced": 0,
+        "bm25": 16,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q093",
+      "pool_size": 156,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 49,
+        "enhanced": 0,
+        "bm25": 27,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q094",
+      "pool_size": 149,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 44,
+        "enhanced": 0,
+        "bm25": 25,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q095",
+      "pool_size": 158,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 49,
+        "hybrid": 49
+      },
+      "fresh": {
+        "dense": 50,
+        "enhanced": 0,
+        "bm25": 28,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q096",
+      "pool_size": 161,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 49,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 45,
+        "enhanced": 0,
+        "bm25": 36,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q097",
+      "pool_size": 162,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 50,
+        "enhanced": 0,
+        "bm25": 32,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q098",
+      "pool_size": 153,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 43,
+        "enhanced": 0,
+        "bm25": 30,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q099",
+      "pool_size": 146,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 38,
+        "enhanced": 0,
+        "bm25": 28,
+        "hybrid": 0
+      }
+    },
+    {
+      "question": "q100",
+      "pool_size": 170,
+      "counts": {
+        "human": 0,
+        "template": 80,
+        "dense": 50,
+        "enhanced": 50,
+        "bm25": 50,
+        "hybrid": 50
+      },
+      "fresh": {
+        "dense": 45,
+        "enhanced": 0,
+        "bm25": 45,
+        "hybrid": 0
+      }
+    }
+  ]
+}

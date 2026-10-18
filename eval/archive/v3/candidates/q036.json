@@ -1,0 +1,2740 @@
+[
+  {
+    "document_id": "02a6c1c6-2a46-59d9-a194-cd0de4ce8a20",
+    "title": "Corvian Knight",
+    "section": "locations",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian Knight -  Dark Souls III - enemy - locations \n locations : Found throughout the Corvian Settlement in the Painted World of Ariandel.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.897244639410005
+  },
+  {
+    "document_id": "05e73794-a80a-5a99-ae34-ebfc2cc4df94",
+    "title": "Timeline",
+    "section": "the_rise_of_the_dark_lord",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "The Ashen One realizes that Friede is preventing the painted world from being purified with the Flame and is leaving it to rot like the outside world\nThe Ashen One returns to the cathedral but is confronted by Friede and Father Ariandel, the corvid that was capable of purifying the painting world but who was convinced by the woman to let it rot\nThe Ashen One defeats Friede and Ariandel, releasing the Flame of the painted world\nThe Ashen One learns from the young painter that she intends to draw a new and improved painted world, using the released Flame and Darkness that she still lacks\nThe Ashen One resumes their journey and returns to the Cathedral of the Deep, fighting their way through deacons, evangelists and cathedral knights\nThe Ashen One reaches Aldrich's coffin but finds themselves confronted by the Deacons of the Deep led by Archdeacon Royce\nThe Ashen One defeats the deacons and comes into possession of a Small Doll that comes from Irithyll",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.605657775569562,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0837e327-61fc-555d-8f8f-90f2ce1f6071",
+    "title": "Painted World of Ariandel",
+    "section": "bosses",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariandel -  Dark Souls III - location - bosses \n bosses : Champion's Gravetender and Gravetender Greatwolf\nSister Friede and Father Ariandel",
+    "sources": [
+      "human",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.76233393315705
+  },
+  {
+    "document_id": "12859196-24ae-5d8f-a0ef-633d2751b90a",
+    "title": "The Painter",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "After Friede (formerly *Elfriede*) left behind her role as a leader of the Sable Church of Londor, she was eventually drawn into the Painted World of Ariandel. She came to accept the Painted World as her new home; she also discovered that she wished to \"protect\" its forlorn inhabitants. Over time Friede earned their trust, to the point that the Corvian Knights who protected the village became infatuated with her; above all, she managed to get close to Father Ariandel, a Great Corvian who had the task of guarding the Flame within the Painted World and to burn it when the painting began to rot. This was done to bring the Painting back to life, thus avoiding the fate of the stagnant outside world, and make way for a new Painted World. However, when the painting began to rot away and its inhabitants made up their minds to burn it, Friede opposed their wish, preferring a slow death in the comforting rot to the renewing change of the Flame. She convinced Ariandel to bury the flame of the",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.7213244071194524,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1522a7f6-059a-5b72-b73a-af33fb80824e",
+    "title": "Painted World of Ariamis",
+    "section": "miracles",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariamis -  Dark Souls - location - miracles \n miracles : Vow of Silence",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6176140210897939,
+    "bm25_score": null
+  },
+  {
+    "document_id": "17a53f83-3df6-595d-8977-6d39ea99be76",
+    "title": "Vilhelm's Gauntlets",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Vilhelm's Gauntlets -  Dark Souls III - armor - availability \n availability : Found within the Painted World of Ariandel. Within the rotting basement of Ariandel Chapel, several Giant Flies guard it and other loot on the lower level.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.036451948471797
+  },
+  {
+    "document_id": "18772f90-32b8-5a56-ac30-9aa1134680c6",
+    "title": "Painted World of Ariandel",
+    "section": "adjacent_locations",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariandel -  Dark Souls III - location - adjacent_locations \n adjacent_locations : Even if the Painted World of Ariandel is accessible through the Cathedral of the Deep, there is no way to come back directly there, although the player is allowed to travel between bonfires to reach other areas of Lothric.\n\nIf the player owns *The Ringed City*, defeating the boss of the Painted World will unlock a path to the Dreg Heap.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5935334233601024,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1957346c-67be-523f-9087-1735993a6cab",
+    "title": "Ariamis",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "The Painted World of Ariamis was protected by an order of Painting Guardians. Anor Londo benefited from the Painted World as a prison for the spurned; it served as a place to seal away dangerous artifacts, abominations, sinners and Hollows. Velka, following from her role as the Goddess of Sin, eventually spread her influence inside the Painted World, where dozens of her cultist followers found refuge. Crossbreed Priscilla considered herself a guardian of the Painted World which she characterized as \"peaceful\". She pitied the \"kind\" inhabitants of the painting, as the outside world had shunned and locked them away, like herself. Priscilla became the \"Lady\" of the Painted World and its inhabitants, and welcomed the forlorn who were led into the cold world by the heretical tales of corvian storytellers. The humanoid corvians who found refuge in the Painting formed a small village, complete with knights and a library.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.59489089014765,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1d6fa9ce-78cb-51e9-b8a5-9c28436e2f3e",
+    "title": "Ashen One",
+    "section": "the_painted_world_of_ariandel",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "If the Ashen One chooses to ignore Friede and explores the Painted World, they may fight the Champion's Gravetender and Gravetender Greatwolf, which allows the Ashen One to participate in the Undead Match. Deeper inside the painting, the Ashen One finds the Painter, Slave Knight Gael's aforementioned Lady, who has been imprisoned by Friede and Vilhelm in order to prevent her from painting the next world. If the Ashen One opens the way to the inner sanctum hiding Father Ariandel, Friede will confront them and fight to preserve the painting. After a long battle, the Ashen One defeats Friede and Ariandel, prompting the Painted World to begin burning and dooming it to destruction.\n\nThe Painter informs the Ashen One that she has sent Gael to find the Dark Soul, which she will use for her next painting.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6350989953188251,
+    "bm25_score": null
+  },
+  {
+    "document_id": "20234969-678e-5fe1-aace-a39ab2c42397",
+    "title": "Sister Friede",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Friede remained in the chapel of the Painted World, guarding the Flame and Father Ariandel against trespassers, while the inhabitants of the painting rotted and filthy insects spread. When an Ashen One arrived in the painting, she would kindly but firmly invite them to leave and return to the outside world, leaving the inhabitants of the painting in peace and forgetting about them. When they ignored her advice and descended the chapel to confront Father Ariandel, she would be forced to wield her scythe and confront them, not before asking Father Ariandel to turn his gaze away from the imminent carnage. When she is defeated the first time, an enraged Ariandel sparks the Flame he bled so much to subdue, in a desperate attempt to revive her. Now rekindled, Friede would come back from death to fight by his side, their souls linked. After falling a second time, Friede would rise yet again thanks to her inner Dark Flame, in a final struggle to defeat the Ashen One and prevent the Painted",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6431079572165354,
+    "bm25_score": null
+  },
+  {
+    "document_id": "24dc9d5e-5b38-5bce-910a-1eb5176aa18b",
+    "title": "The Painter",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "made up their minds to burn it, Friede opposed their wish, preferring a slow death in the comforting rot to the renewing change of the Flame. She convinced Ariandel to bury the flame of the Painting and to smother it using his blood, while her Corvian Knights swore to \"protect\" the painting from fire, even killing their own brethren who opposed her.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6362408835134311,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2756f3fe-fef3-5daa-9403-0456043fdd4b",
+    "title": "Painted World of Ariamis",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariamis -  Dark Souls - location - lead \n lead : The **Painted World of Ariamis** (エレーミアス絵画世界) is an optional location in *Dark Souls*, accessible through Anor Londo.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5826889360000901,
+    "bm25_score": null
+  },
+  {
+    "document_id": "291ebe1f-ff6d-562a-9dde-90eefcc1943e",
+    "title": "Vilhelm's Leggings",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Vilhelm's Leggings -  Dark Souls III - armor - availability \n availability : Found within the Painted World of Ariandel. Within the rotting basement of Ariandel Chapel, several Giant Flies guard it and other loot on the lower level.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.036451948471797
+  },
+  {
+    "document_id": "2927226a-efe5-5917-9081-7c8f5ca5201a",
+    "title": "Contraption Key",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Contraption Key -  Dark Souls III - item - availability \n availability : Dropped by Sir Vilhelm after defeating him in the Painted World of Ariandel.",
+    "sources": [
+      "human",
+      "template",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.603774348263677
+  },
+  {
+    "document_id": "2c68f462-c7dd-52bd-9b78-dc87b6c2f231",
+    "title": "Painted World of Ariamis",
+    "section": "rings",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariamis -  Dark Souls - location - rings \n rings : Ring of Sacrifice",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6010796415232251,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2fe829da-e975-5b2b-bb77-e5a57b5bf85a",
+    "title": "Follower Boots",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Follower Boots -  Dark Souls III - armor - availability \n availability : Dropped by Farron Followers in the Painted World of Ariandel.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.36507670317362
+  },
+  {
+    "document_id": "31af5d09-8011-5169-a7fd-68d7d197550a",
+    "title": "Painted World of Ariamis",
+    "section": "non_respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariamis -  Dark Souls - location - non_respawning \n non_respawning : Undead Dragon",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.612292394627101,
+    "bm25_score": null
+  },
+  {
+    "document_id": "31bfea26-1e1f-50a0-bdc4-a785b3863394",
+    "title": "Vilhelm's Set",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Vilhelm's Set -  Dark Souls III - armor - availability \n availability : Found within the Painted World of Ariandel. Within the rotting basement of Ariandel Chapel, several Giant Flies guard it and other loot on the lower level.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.036451948471797
+  },
+  {
+    "document_id": "34ad6b3a-808c-5bb6-b95e-db2489e3a929",
+    "title": "Painted World of Ariandel",
+    "section": "entering",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariandel -  Dark Souls III - location - entering \n entering : In order to access this area, the player must travel to the Cleansing Chapel in the Cathedral of the Deep and speak with Slave Knight Gael, near the bonfire. Exhausting his dialogue will start a cutscene and the Ashen One will be teleported into the Painted World.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6550839480889208,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3620f077-379d-5c07-81d2-b223f038b91c",
+    "title": "Follower Helm",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Follower Helm -  Dark Souls III - armor - availability \n availability : Dropped by Farron Followers in the Painted World of Ariandel.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.36507670317362
+  },
+  {
+    "document_id": "37c77d17-7969-5f95-a903-96de962a5c28",
+    "title": "Painted World of Ariandel",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariandel -  Dark Souls III - location - lead \n lead : The **Painted World of Ariandel** is a location in *Dark Souls III*, accessible through the downloadable content *Ashes of Ariandel*.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.674553184119185,
+    "bm25_score": null
+  },
+  {
+    "document_id": "38c25f01-b3e8-5658-861c-052eb31cfa0e",
+    "title": "Painted World of Ariamis",
+    "section": "keys",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariamis -  Dark Souls - location - keys \n keys : Annex Key",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5881152939009724,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4078ee6e-975b-53ce-a27d-3721bf45a0f4",
+    "title": "Rose of Ariandel",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Rose of Ariandel -  Dark Souls III - weapon - description \n description : A flail used by the bulbous Father of the Painted World to shred his own skin, producing blood to appease the flame.\nBoth a weapon and a miracle catalyst.\n\nAriandel, being the restorer of the Painted World, knew that it was painted with blood, and only blood could protect the secret.\n\nSkill: Awakening\nViolently flail oneself to trigger an awakening that temporarily boosts the strength of miracles, just as the good Father used the rose himself.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.600295712821577
+  },
+  {
+    "document_id": "44627a91-9d23-58f9-bd26-f241039dac5b",
+    "title": "Gods",
+    "section": "others",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The natives of the forest of Millwood worshipped an \"Ethereal Oak\", and the grounds of their lands from which it grew. The tree would later rot due to the dragon Midir's attempts to use it to heal himself of Abyss, and the people of Millwood moved to the Painted World of Ariandel.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.608918609410416
+  },
+  {
+    "document_id": "44f1ddc8-2266-5c96-8a92-1cb702936ed2",
+    "title": "Peculiar Doll",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Peculiar Doll -  Dark Souls - item - general_information \n general_information : The Peculiar Doll is used to enter the Painted World of Ariamis. To enter the Painted World, players need to have the Peculiar Doll in their inventory and examine the large painting in the cathedral in Anor Londo.\n\nThe Peculiar doll is lost at the end of each playthrough and must be collected again in order to access the Painted World in NG+.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6105628916316567,
+    "bm25_score": null
+  },
+  {
+    "document_id": "46bb4335-de95-514b-ab94-ea3938c794e8",
+    "title": "Painted World of Ariamis",
+    "section": "boss",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariamis -  Dark Souls - location - boss \n boss : Priscilla the Crossbreed",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5868119927189677,
+    "bm25_score": null
+  },
+  {
+    "document_id": "48365461-1a87-5661-97f1-6b004f08bc09",
+    "title": "Slave Knight Gael",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Friede \"protected\" their world, even killing their own brethren who opposed her. The Painter, the \"Lady\" of the corvians, was imprisoned in the library of the corvian village, to prevent her from preparing the next Painted World.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5879301121905243,
+    "bm25_score": null
+  },
+  {
+    "document_id": "49aa56e0-f13b-55b7-bb6c-9e7c07c73a33",
+    "title": "Timeline",
+    "section": "the_fire_fades",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "----\n\nOver the centuries, unwanted and despised creatures are eventually drawn into the Painted World of Ariamis, where they find refuge from the outside world and legends are born about this place\nPriscilla comes to consider the painting as a peaceful place and its inhabitants as kind, pledging to defend them and becoming their mistress\nThe order of the Painting Guardians continues to watch over Anor Londo's paintings for centuries and generations but ends up forgetting the reason for why they do it",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5945456473603262,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4e0d1180-4896-5b45-940e-e00258bffad0",
+    "title": "Vilhelm's Helm",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Vilhelm's Helm -  Dark Souls III - armor - availability \n availability : Found within the Painted World of Ariandel. Within the rotting basement of Ariandel Chapel, several Giant Flies guard it and other loot on the lower level.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.036451948471797
+  },
+  {
+    "document_id": "503100a2-d1be-50ec-88aa-03330b34c378",
+    "title": "Livid Pyromancer Dunnel",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Livid Pyromancer Dunnel -  Dark Souls III - character - location \n location : He is found in the Painted World of Ariandel, on top of the tower-like structure situated above the Champion's Gravetender and Gravetender Greatwolf boss arena. This area can only be accessed by a hidden path in the basement of the Ariandel Chapel.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.113561521702866
+  },
+  {
+    "document_id": "53c07621-a944-5395-8464-6e50848cc60b",
+    "title": "Cathedral of the Deep",
+    "section": "adjacent_locations",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Cathedral of the Deep -  Dark Souls III - location - adjacent_locations \n adjacent_locations : Farron Keep\nPainted World of Ariandel",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.15021783210075
+  },
+  {
+    "document_id": "54079b9f-994e-5e40-bcd0-a84879b35da4",
+    "title": "Painted World of Ariamis",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariamis -  Dark Souls - location - notes \n notes : After exiting the Painted World safely, casting Homeward or using a Homeward Bone will return the player to the bonfire in Anor Londo, near the Darkmoon Knightess, and not the bonfire within the Painted World.\nLater warping to the Painted World via the use of the Lordvessel and then using Homeward or a Homeward Bone will cause the player to be taken to the last outside bonfire rested at, so long as one does not rest at the bonfire within the Painted World of Ariamis. This method only works if warping into the Painted World through the use of the Lordvessel and will therefore be impossible if entering for the first time.\nThe player can hear eerie ambiance in the graveyard, near the prison blocks in the area to the right of Phalanx from the bonfire.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6034772506407311,
+    "bm25_score": null
+  },
+  {
+    "document_id": "552bb631-1f8f-5a6b-99e7-eebb9ef5362d",
+    "title": "Humans",
+    "section": "last_days_of_fire",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "On their quest, the Ashen One encounters the Painted World of Ariandel, and a little girl whose duty it is to become the new Painter, and replace it with a fresh, unrotted version. To do this, she reveals that she needs the blood of the bearer of the Dark Soul, and that her guardian Gael has gone to find it. At the end of time, as the flames are reduced to embers and sparks, the entire world has begun to collapse in on itself, surrounding the ageless Ringed City. Gael travels to this heap of reality to find the Dark Soul, with the Ashen One following suit, eventually slaying Argo, the leader of the Spears of the Church.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6349721304055944,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5e87323d-3aef-5685-afe9-14cd583eb5f6",
+    "title": "Painting Guardian Set",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Painting Guardian Set -  Dark Souls - armor - plot \n plot : Worn by the Painting Guardians that guard the entrance to the Painted World of Ariamis.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5895238552414668,
+    "bm25_score": null
+  },
+  {
+    "document_id": "60a4a317-0b65-5437-b653-c723be48c484",
+    "title": "Corvian (Lore)",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "However, Corvian society would split when the painting began rotting, just as it had long ago. Most of the settlers wished for the painting to burn like the time before, so that a new one could be restored in its place. Friede, however, couldn't let go of the world that had become her home, convincing Ariandel to bury the flame and enlisting the Corvian Knights to protect the painting from fire. She even had her enforcer, Sir Vilhelm, hide away the Painter who was meant to see flame, just to ensure the world wouldn't be burnt to cinders.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6395069372402044,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6119fd9b-ca8b-5432-a04e-aaa6c81389bb",
+    "title": "Ashen One",
+    "section": "the_ringed_city",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The Ashen One defeats Gael, and gains the Blood of the Dark Soul. They may then return this to the Painter, who states that she will use the Blood of the Dark Soul to paint a new Painted World. She offers to name it after the Ashen One, and if the Ashen One gives no name, she states that she will name it the Painted World of Ash.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5854344149645041,
+    "bm25_score": null
+  },
+  {
+    "document_id": "61b7a39c-e1e6-5bd4-a8be-c1fbe68a6506",
+    "title": "Ariamis",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Ariamis created the Painted World as a sanctuary for Priscilla, so that she could be left alone. He depicted in his painting a township consisting of a cathedral and a storehouse amidst a wintry forest. Its first inhabitant was Priscilla, a half-dragon that was feared by the gods of Anor Londo and treated as an abomination due to her body being naturally infused with the occult power capable of killing them.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6077982501263395,
+    "bm25_score": null
+  },
+  {
+    "document_id": "66003768-7432-5741-95d6-4c46999cd8dd",
+    "title": "Sister Friede",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Sister Friede -  Dark Souls III - boss - location \n location : Sister Friede is found sitting on a chair in Ariandel Chapel in the Painted World of Ariandel.",
+    "sources": [
+      "human",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.54708931802342
+  },
+  {
+    "document_id": "67400009-0efb-5aba-b621-d66e29e52f2e",
+    "title": "Wolf",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Wolf -  Dark Souls III - enemy - location \n location : They are commonly found in the road between the first and the second bonfire in the Painted World of Ariandel.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.897011130988737
+  },
+  {
+    "document_id": "680c5efc-f3b4-5d60-bc14-55a2035150e1",
+    "title": "Pyromancer's Parting Flame",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Pyromancer's Parting Flame -  Dark Souls III - weapon - availability \n availability : Found on a corpse in the Painted World of Ariandel, in the tower where Livid Pyromancer Dunnel invades (Crossbreed Priscilla's boss arena). The path to the tower is hidden behind an illusory wall in the lower level of Ariandel Chapel basement.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.609960871574508
+  },
+  {
+    "document_id": "70570936-491e-50bf-bbdf-7b845bae9933",
+    "title": "Painted World of Ariamis",
+    "section": "pyromancies",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariamis -  Dark Souls - location - pyromancies \n pyromancies : Acid Surge\nFire Surge",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6075171071434605,
+    "bm25_score": null
+  },
+  {
+    "document_id": "725ea209-a7fa-5b12-b5cb-cbf8f730ce31",
+    "title": "Sister Friede",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Over time Friede earned the trust of some painting inhabitants, to the point that the Corvian Knights of their village became infatuated with her. Above all, she managed to get close to Father Ariandel, a great Corvian who guarded the Flame inside the Painted World. His task was to unleash the Flame when the painting stagnated and began to rot, a custom intended for making way for the next painted world. However, when the painting began to be corrupted and its inhabitants made up their minds to burn it away, Friede opposed their wish, preferring a slow death in the comforting rot to the renewing change of the Flame. She convinced Ariandel to bury the Flame of the painting and to quench it with his blood, while her Corvian Knights swore to \"protect\" the painting from fire, even killing their brethren who opposed Friede. The Painter was imprisoned in the library of the corvian village and guarded by Sir Vilhelm, to prevent her from restoring the painting. His Lady's imprisonment",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6704096888175339,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7ef7b118-9a25-5b9c-925c-bd649b247747",
+    "title": "Ashes of Ariandel",
+    "section": "upgrade_materials",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - upgrade_materials \n upgrade_materials : Titanite Slab ×3",
+    "sources": [
+      "human",
+      "template",
+      "dense"
+    ],
+    "dense_score": 0.5799463236288036,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7f230ad8-9ddb-50a9-89a2-c61de51f95d8",
+    "title": "Painted World of Ariandel",
+    "section": "characters",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariandel -  Dark Souls III - location - characters \n characters : Drowsy Forlorn\nSir Vilhelm\nSister Friede\nForlorn Corvian Settler\nThe Painter",
+    "sources": [
+      "human",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.603774348263677
+  },
+  {
+    "document_id": "8064f1a8-85c3-5a74-9c55-89948b2cff91",
+    "title": "The Dreg Heap",
+    "section": "adjacent_locations",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "The Dreg Heap -  Dark Souls III - location - adjacent_locations \n adjacent_locations : Kiln of the First Flame\nPainted World of Ariandel\nThe Ringed City",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.138858576584923
+  },
+  {
+    "document_id": "89c9ba31-0c5b-58db-9d11-d48a0c79415e",
+    "title": "Slave Knight Gael",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Nevertheless, the tales of the painting also told of a prophecy: \"When the Ashes are two, a flame alighteth\". If another Ash were to enter the Painting, there would yet be hope to kindle the flame and burn the rotten world away. And so Gael fled the Painted World, taking with him a rotten scrap of it, to seek out another Unkindled who could show Flame to his Lady. After a long, unsuccessful search, Gael would find himself in the Cleansing Chapel where he laid prostrate before a shrine to Caitha, mother of the forlorn, praying that his wish be granted by the goddess. This was where Gael finally encountered the Ashen One during their journey through Lothric, and managed to convince them to touch the scrap of painting, transporting them to the Painted World of Ariandel.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6025567042002171,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8a72c5df-8575-56fb-9c0d-4332395ecc34",
+    "title": "Follower Set",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Follower Set -  Dark Souls III - armor - availability \n availability : Dropped by Farron Followers in the Painted World of Ariandel.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.36507670317362
+  },
+  {
+    "document_id": "8db3286d-e59b-5790-9fcd-2dd2b2f74246",
+    "title": "Ashes of Ariandel",
+    "section": "locations",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - locations \n locations : Painted World of Ariandel",
+    "sources": [
+      "human",
+      "template",
+      "dense"
+    ],
+    "dense_score": 0.6293880483124572,
+    "bm25_score": null
+  },
+  {
+    "document_id": "913ebbb3-7d13-5f04-938a-c88cde4181e4",
+    "title": "Ariamis",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "While the Painted World of Ariamis was replaced with the next world, traces of its existence endured within the depths of the Painted World of Ariandel. Ariamis's knowledge too was passed on to a Painter, a young crossbreed girl addressed as \"Lady\" by the inhabitants of the Painted World.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6582664225449137,
+    "bm25_score": null
+  },
+  {
+    "document_id": "96c73edb-4afe-58bc-b882-7e085b267105",
+    "title": "Birch Woman",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Birch Woman -  Dark Souls III - enemy - location \n location : Birch Women are only found in the Painted World of Ariandel.",
+    "sources": [
+      "human",
+      "template",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.105674531926795
+  },
+  {
+    "document_id": "97e2b9b9-a531-5c03-a993-ddc823324305",
+    "title": "Timeline",
+    "section": "the_rise_of_the_dark_lord",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "The Ashen One enters the Cleansing Chapel where purification rituals for humans took place\nThe Ashen One meets Slave Knight Gael, who asks them to \"show the flame\" to his lady to \"burn the rot away\"\nThe Ashen One is tricked by Gael, that uses a fragment of the Painted World of Ariandel to teleports them inside it\nThe Ashen One fights their way through the inhabitants of the cold painted world and reaches its cathedral\nThe Ashen One is welcomed by Sister Friede, another Unkindled, who however urges them to leave this world alone and go back to theirs\nThe Ashen One fights their way through the rotting inhabitants of the painted world and finds a young painter trapped by Friede's servants\nThe Ashen One realizes that Friede is preventing the painted world from being purified with the Flame and is leaving it to rot like the outside world",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.591353351197742,
+    "bm25_score": null
+  },
+  {
+    "document_id": "98824d1e-5832-5197-b07a-1c20bbe80bcb",
+    "title": "Ashen One",
+    "section": "the_painted_world_of_ariandel",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - the_painted_world_of_ariandel \n the_painted_world_of_ariandel : Within the Cathedral of the Deep the Ashen One can encounter Slave Knight Gael, a Slave Knight who seeks unkindled ash to aid his Lady. Gael presents the Ashen One with a fragment of the Painted World of Ariandel, which sucks the Ashen One in. Within the painting, the Ashen One encounters Sister Friede and her loyal knight Sir Vilhelm. Friede is an advisor to Ariandel, the painting's creator, and convinced him to allow the painting to rot rather than allow it to be destroyed and replaced by a new one, despite the wishes of many of the painting's denizens. Friede bids the Ashen One to leave, telling them that they do not belong in the Painted World.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6213745707587669,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9ce58c0b-85d6-59d6-b4d8-1e88063182f4",
+    "title": "Millwood Knight",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Millwood Knight -  Dark Souls III - enemy - location \n location : Common enemies throughout the Painted World of Ariandel.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.90175589575935
+  },
+  {
+    "document_id": "9dcb63dd-b4a8-51f3-a120-75e13f81db62",
+    "title": "Corvian Knight",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian Knight -  Dark Souls III - enemy - lore \n lore : Corvian Knights presumably protected the Corvian Settlement and its inhabitants within the Painted World of Ariandel. Whenever a Painting begins to rot, those who settled within it resolve to burn it away in order to give way for the creation of a new one. When the Corvians were faced with this event, they were prepared to burn it. However, after Sister Friede arrived in the Painting, the Corvian Knights became infatuated with her, choosing to loyally serve her and assist in her mission to let the world rot instead. To that end, the Corvian Knights betrayed their brethren, and their loyalty to Friede was so devout that they willingly slaughtered their own kin if they were perceived to be a threat.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.671916690160117
+  },
+  {
+    "document_id": "a0937baa-d217-5f5c-886f-38a2e7ede7da",
+    "title": "Young White Branch",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Painted World of Ariandel\n**One is found in the Corvian Settlement, to the right of the building where Sir Vilhelm is fought. it is guarded by a lone Birch Woman.\nThe Ringed City\n**Three are found in the Ringed City Streets, at the base of a white birch at the far end of the swamp guarded by numerous Hobbled Clerics.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6267248580369675,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a20dee4c-8b7e-5b41-ab70-bc521d0c56ff",
+    "title": "Father Ariandel",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Father Ariandel -  Dark Souls III - boss - lore \n lore : Father Ariandel is the keeper of the Painted World of Ariandel, thought to have been the most recent one to restore it after the Painted World of Ariamis rotted away. When he met the Unkindled Sister Elfriede, she convinced him to forgo the destruction of his rotting world, and to stifle the flame that would burn it to be replaced by a new world by the next restorer, choosing to rot together\n\nHe constantly flails himself, bleeding onto the flame, to prevent the fire from burning his world, for he used blood in the restoration, and only that blood could prevent the fire from blazing again. When Friede's blood flows to the bowl containing the flame, the sight of her corpse enrages Father Ariandel, causing him to break free and strike the bowl against her unkindled blood to spark the flame and revive her by restoring her ember as an unkindled.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6322807339883758,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a3aa223b-cd73-59cf-9785-304050cd5d04",
+    "title": "Chameleon (Dark Souls III)",
+    "section": "painted_world_of_ariandel",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Chameleon (Dark Souls III) -  Dark Souls III - spell - painted_world_of_ariandel \n painted_world_of_ariandel : Snowfield, Rope Bridge Cave, Snowy Mountain Pass:\nBirch Woman\nMedium-height tree\n\nCorvian Settlement:\nDestroyed woman statue\nMedium white tombstone\nWooden box\n\nAriandel Chapel:\nShort stepladder\nWooden box\nWooden chair\n\nDepths of the Painting:\nSnow-covered rock",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.32054812381172
+  },
+  {
+    "document_id": "a5566d35-1e56-52de-bd88-cd7fcf551402",
+    "title": "Vilhelm's Armor",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Vilhelm's Armor -  Dark Souls III - armor - availability \n availability : Found within the Painted World of Ariandel. Within the rotting basement of Ariandel Chapel, several Giant Flies guard it and other loot on the lower level.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.036451948471797
+  },
+  {
+    "document_id": "aa306ddf-db8b-546b-9aa7-d389134241da",
+    "title": "Painted World of Ariamis",
+    "section": "souls",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariamis -  Dark Souls - location - souls \n souls : Soul of Priscilla",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.583149597063606,
+    "bm25_score": null
+  },
+  {
+    "document_id": "acb5e89d-7aa6-5aa1-a1ce-da1f6f6a48ad",
+    "title": "Ashes of Ariandel",
+    "section": "consumables",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - consumables \n consumables : Millwood Greatarrow",
+    "sources": [
+      "human",
+      "template",
+      "dense"
+    ],
+    "dense_score": 0.574405760812772,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b2e74526-17c2-546d-a9a8-2970cb116971",
+    "title": "Crossbreed Priscilla",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Her mere existence considered a \"taboo\", Priscilla was first confined in the Undead Asylum, and eventually banished from the realm of the Gods, and sealed away inside the cold and lonely Painted World, created by Ariamis with the purpose of granting her seclusion. The Painted World was protected by an order of Painting Guardians—such was the perceived threat she posed to the reigning Gods. Anor Londo benefited from the Painted World as a prison for the spurned; it served as a place to seal away dangerous artifacts, abominations, sinners and Hollows.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5878433474025722,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b674b838-8335-5eba-b069-40554cf44bc0",
+    "title": "Slave Knight Gael",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The Painted World inhabitants normally followed a custom to preserve the painting against the erosion of time: When their world showed signs of rotting, one that would slowly corrupt and stagnate the entire Painted World, they would \"cleanse\" it by burning their own home. Father Ariandel, a Great Corvian, was entrusted with the flame with which the Painted World would be burned when the time came; following a collective decision, he would unleash the flame, for the sake of the next Painted World. However, after Friede's arrival, when the world began to wither away due to the rot, she opposed the inhabitants' wish to burn their world, preferring the comforting rot to the cleansing flame. She convinced Ariandel to subdue the flame using his own blood, while Corvian Knights infatuated with Friede \"protected\" their world, even killing their own brethren who opposed her. The Painter, the \"Lady\" of the corvians, was imprisoned in the library of the corvian village, to prevent her from",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6913734881089324,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b837c3fc-8f86-5f98-94f9-c34760febb5a",
+    "title": "Painted World of Ariandel",
+    "section": "non_respawning",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariandel -  Dark Souls III - location - non_respawning \n non_respawning : Sir Vilhelm",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6709899445271964,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bd48dfbe-2ff3-598d-88a1-ffd5f6490a8e",
+    "title": "Floating Chaos",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Floating Chaos -  Dark Souls III - spell - availability \n availability : Dropped by Livid Pyromancer Dunnel in the Painted World of Ariandel, who invades the player in Crossbreed Priscilla's boss arena.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.635699916051074
+  },
+  {
+    "document_id": "c33a0c8f-abcf-5de4-bf98-5d90a5693100",
+    "title": "Painted World of Ariamis",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariamis -  Dark Souls - location - dark_souls_iii \n dark_souls_iii : The Painted World of Ariamis likely rotted and was set on fire in order to be restored. This is a usual cycle within painted worlds. The history of Painted World is no longer known in Lothric. It is taught only in the mythology of heretics, passed down just among them, and in ancient tales of hunchbacked heretics. Those heretics are Corvian Storytellers, spreading tales of Painted World among forlorn ones. They are wretched beings with no place to go, just like their followers, Corvians, the unwanted ones possessed by fear. Some of them wield Great Corvian Scythes, visually resembling the one used by the mistress of the Painted World and causing bleeding. It is a reference to Priscilla's scythe rather than Friede's, mistress of the Painted World of Ariandel.\n\nCompany Captain Yorshka is speculated to be the daughter of Crossbreed Priscilla.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5967446495210986,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c3ee905f-18f0-57af-88ec-db0261be316b",
+    "title": "Painted World of Ariandel",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariandel -  Dark Souls III - location - description \n description : When the Ashen One reaches the Painted World, they will discover that this land is strange, cold and snow coated, and filled with deadly enemies, just like the Lordran's Painted World of Ariamis.\n\nThere are some differences with Ariamis, though; first of all, the area is larger and also there are many new enemies. The player will recognize some similar structures anyway, such as the wooden bridge that leads to a cathedral. There is also a tower reminiscent of Priscilla's tower.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6058778061023598,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c5cacc30-a055-5b2b-bc09-5137a9d291e1",
+    "title": "Follower Armor",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Follower Armor -  Dark Souls III - armor - availability \n availability : Dropped by Farron Followers in the Painted World of Ariandel.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.36507670317362
+  },
+  {
+    "document_id": "cad719f1-2759-5178-bd18-4b9c53575ee0",
+    "title": "Painted World of Ariandel",
+    "section": "depths_of_the_painting",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariandel -  Dark Souls III - location - depths_of_the_painting \n depths_of_the_painting : Crystal Gem\nEmber\nFollower Sabre\nHomeward Bone\nRime-blue Moss Clump\nSnap Freeze\nTitanite Slab\nTwinkling Titanite",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.574356447517825,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cb14730a-44ff-56e6-a9a7-0c3493051ef6",
+    "title": "Follower Gloves",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Follower Gloves -  Dark Souls III - armor - availability \n availability : Dropped by Farron Followers in the Painted World of Ariandel.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.36507670317362
+  },
+  {
+    "document_id": "d3cb97a3-e469-545b-964b-78aa018ad4ed",
+    "title": "Father Ariandel",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Father Ariandel -  Dark Souls III - boss - location \n location : Father Ariandel is located in the Painted World of Ariandel, inside the Ariandel Chapel. He can be accessed by turning a wheel in the insect pit underneath the chapel, which will activate a contraption revealing the passage near Sister Friede, where he is held.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5821196131602501,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d7c6a12e-aa86-594c-8265-f7ff17b52cef",
+    "title": "Corvian Greatknife",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Corvian Greatknife -  Dark Souls III - weapon - availability \n availability : Dropped by Corvians in the Road of Sacrifices, Farron Keep, Painted World of Ariandel and Untended Graves.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.690288260709448
+  },
+  {
+    "document_id": "d86055c4-0072-54d6-8707-2a634fd1be08",
+    "title": "Soul of Sister Friede",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Soul of Sister Friede -  Dark Souls III - item - availability \n availability : Obtained after defeating Sister Friede in the Painted World of Ariandel.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.40716507790374
+  },
+  {
+    "document_id": "d94e5279-b9c2-52af-af62-983c0c613810",
+    "title": "Painted World of Ariamis",
+    "section": "embers",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariamis -  Dark Souls - location - embers \n embers : Dark Ember",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6116366088875582,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e12412cc-3e25-53a3-893d-af13d234b873",
+    "title": "Millwood Battle Axe",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Millwood Battle Axe -  Dark Souls III - weapon - availability \n availability : Found in the Painted World of Ariandel. Within the Snowfield area, enter the destroyed village guarded by Millwood Knights and ascend the tower. The axe is located on an isolated platform at the top that must be jumped or dropped down onto.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.074761860031607
+  },
+  {
+    "document_id": "e39619e5-31e5-5513-b549-b2cfcd3648f3",
+    "title": "The Painter",
+    "section": "plot",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The Painter was brought to the library's attic by Sir Vilhelm, who was guarding her and the key to her chamber. Vilhelm was acting on the orders of Sister Friede, who imprisoned the Painter with Father Ariandel's help. Ariandel is suppressing the Flame of the Painting with his own blood, hence only his and Friede's death can allow the Painter to see Flame. Upon being freed from house arrest, the Painter relocates from the library to the Ariandel Chapel attic. At the attic, she's found sitting in front of a big canvas; when spoken to, she divulges her vision of the new Painting. She emphasizes that the painting will show \"a cold, dark, and very gentle place\", which is going to be a good home for someone.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6162785311547756,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ec2d1b49-4144-5ba9-b715-1e581c431759",
+    "title": "Heavy Gem",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Painted World of Ariandel\n**Dropped commonly by Millwood Knights.\n**Found in the abandoned village guarded by Millwood Knights, next to a destroyed wall guarded by a great hammer-wielding knight.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6518353546132674,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f1557755-9dfe-5b17-ab0c-20e3c3b2edb7",
+    "title": "Painted World of Ariamis",
+    "section": "upgrade_materials",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariamis -  Dark Souls - location - upgrade_materials \n upgrade_materials : Dragon Scale",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5885918679360772,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f1b84b00-6382-57ab-ac1a-aba9fedabdc4",
+    "title": "Ariamis",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Ariamis -  Dark Souls - character - dark_souls \n dark_souls : Ariamis is the creator of the Painted World of Ariamis, a nested world that exists within a magical painting. To create this artifact the First Flame and the Dark Soul must be used as pigments, suggesting that Ariamis had access to the two primordial forces. Enclosed in a great canvas, the painted world can be accessed from the outside by touching the painting and being pulled inside by dark magic. A small fragment of the painting, even if rotten and wilted, suffices for entering a painted world. As it is within the network of bonfires, the Lordvessel allows warping inside the painting.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5828019602766332,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fb986ac7-f7a9-5ad0-8248-79c9ced56afd",
+    "title": "Hollow Gem",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Painted World of Ariandel\n**Found on a corpse outside of Ariandel Chapel, to the right and past where Sir Vilhelm is standing.\nThe Ringed City\n**Dropped by Undead Clerics.\n**Found on a corpse in the Ringed Inner Wall area, shortly before encountering the first Ringed Knight.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5824564128379282,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fe5b9414-034e-568f-a1d9-b69ceff57d0c",
+    "title": "Slave Knight Gael",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Gael would help the Ashen One in their battle against Sister Friede and Father Ariandel, killing them and reigniting the Flame they were suppressing, finally allowing his Lady to see it. The Painter would have commenced painting a new world like she promised Gael, but for the cold and gentle place that she had in mind to create, she also needed a special \"pigment\": the Dark Soul, the primordial Lord Soul discovered by the Furtive Pygmy and used to create humankind.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5820903086115281,
+    "bm25_score": null
+  },
+  {
+    "document_id": "05cd7b64-e6bc-5c81-9751-d7bc4a87453f",
+    "title": "Ashes of Ariandel",
+    "section": "bonfires",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - bonfires \n bonfires : Snowfield\nRope Bridge Cave\nCorvian Settlement\nSnowy Mountain Pass\nAriandel Chapel\nDepth of the Painting\nChampion's Gravetender",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "18158bc1-29f3-5d45-9c64-9b938c54dc5f",
+    "title": "Ashes of Ariandel",
+    "section": "key_items",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - key_items \n key_items : Captain's Ashes\nChampion's Bones\nContraption Key",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2ad578f7-886b-5848-96f4-77fd9e38dca7",
+    "title": "Ashes of Ariandel",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - trivia \n trivia : Due to a logistical error, *Ashes of Ariandel* was released early for a short period of time on October 21st, 2016, for Season Pass owners on Xbox One. This accidental release forced the company to reschedule the release date for Steam and PlayStation 4 to October 24th, instead of the originally planned October 25th for all consoles.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "584d46ed-e212-5fda-9b2a-35d2cb267dd5",
+    "title": "Ashes of Ariandel",
+    "section": "weapons",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - weapons \n weapons : Crow Quills\nCrow Talons\nEarth Seeker\nEthereal Oak Shield\nFollower Javelin\nFollower Sabre\nFollower Shield\nFollower Torch\nFriede's Great Scythe\nMillwood Battle Axe\nMillwood Greatbow\nOnyx Blade\nPyromancer's Parting Flame\nQuakestone Hammer\nRose of Ariandel\nValorheart",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5cf643ec-40a7-583f-8af7-c0ed3c22e192",
+    "title": "Ashes of Ariandel",
+    "section": "overview",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - overview \n overview : Slave Knight Gael asks the Ashen One to show Ariandel fire as rot has spread like a plague. He will ask you to touch a scrap of the Painting of Ariandel, which pulls the Ashen One into its frozen landscape. The Ashen One will then traverse the painting’s frigid landscape and encounter its deadly inhabitants.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5e1ab3d3-aa8d-56ee-b9c1-2b1e14945226",
+    "title": "Ashes of Ariandel",
+    "section": "invaders",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - invaders \n invaders : Livid Pyromancer Dunnel",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5fd391e1-5c40-59e1-8a25-b6562d604a1b",
+    "title": "Ashes of Ariandel",
+    "section": "magic",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - magic \n magic : Floating Chaos\nFrozen Weapon\nSnap Freeze\nWay of White Corona",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7b1d28d1-0ffa-5036-b110-cc6c8fd93952",
+    "title": "Ashes of Ariandel",
+    "section": "armor",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - armor \n armor : Follower Set\nMillwood Knight Set\nOrdained Set\nSlave Knight Set\nVilhelm's Set",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8d8223db-2265-5f0c-8612-679adea21a99",
+    "title": "Ashes of Ariandel",
+    "section": "boss_souls",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - boss_souls \n boss_souls : Soul of Sister Friede",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a1d6ffcd-ef86-593b-bc28-9b66145c1186",
+    "title": "Ashes of Ariandel",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - lead \n lead : ***Ashes of Ariandel*** is downloadable content for the game *Dark Souls III*. It was released on October 21st, 2016 for Xbox One, and on October 24th, 2016 for PlayStation 4 and PC.\n\nIts cost on release was $14.99, or it could be downloaded with the Season Pass.\n\nIt is the first of two expansions, the other being *The Ringed City*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a7455c5f-fad7-58c0-92fb-53757f4ed1c5",
+    "title": "Ashes of Ariandel",
+    "section": "enemies",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - enemies \n enemies : Birch Woman\nCorvian\nCorvian Knight\nFarron Follower\nForlorn Corvian Settler\nGiant Fly\nMillwood Knight\nSewer Centipede\nWolf",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bf0895cc-ef57-57cf-8603-2139d8d6c5d8",
+    "title": "Ashes of Ariandel",
+    "section": "access",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - access \n access : Accessed by interacting with Slave Knight Gael at the Cleansing Chapel bonfire in the Cathedral of the Deep.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d01e9e1e-26c4-5169-a401-1e1924d46b5e",
+    "title": "Ashes of Ariandel",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - see_also \n see_also : **The Ringed City*",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d06946f7-64f8-5ac7-82ae-44cefd7cc375",
+    "title": "Ashes of Ariandel",
+    "section": "rings",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - rings \n rings : Chillbite Ring",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d2b2d371-34df-577c-bcf0-47cb41612d39",
+    "title": "Ashes of Ariandel",
+    "section": "summons",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - summons \n summons : Slave Knight Gael",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ef4e6cc7-5042-5999-b12a-bb8f5db0e4ac",
+    "title": "Ashes of Ariandel",
+    "section": "characters",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - characters \n characters : Drowsy Forlorn\nFather Ariandel\nForlorn Corvian Settler (character)\nSir Vilhelm\nSister Friede\nThe Painter",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f459440e-ed4b-544a-8c30-e04c0bb64a25",
+    "title": "Ashes of Ariandel",
+    "section": "bosses",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - bosses \n bosses : Champion's Gravetender and Gravetender Greatwolf\nSister Friede and Father Ariandel",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "07410b05-21a9-5498-af07-95a0f840fc3d",
+    "title": "Birch Woman",
+    "section": "birch_woman_cryomancer",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Birch Woman -  Dark Souls III - enemy - birch_woman_cryomancer \n birch_woman_cryomancer : This type of Birch Woman is especially dangerous because, as they have no fireballs attached to their branches, they blend perfectly in the environment. It attacks silently with a flood of ice that inflicts Frostbite build-up and a fairly high damage. It can also stretch its branches to strike the player from a distance.\n\nVersions of this enemy that use both forms of combat are located in the Depths of The Painting.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "441d78cb-e2c4-5888-af3f-28973b81675c",
+    "title": "Birch Woman",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Birch Woman -  Dark Souls III - enemy - notes \n notes : Fireballs are affected by Alluring Skulls.\nThere is a Birch Woman who guards the Snap Freeze spell that seems to be more aggressive than the rest.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5abeb831-1733-5338-99f0-15a3428e62dd",
+    "title": "Birch Woman",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Another suggested strategy is throwing an Alluring Skull down on the earth. The fireballs cast by the Birch Woman Pyromancer will follow the skull instead of the player, allowing the player to attack safely.\n\nFor those who prefer archery, they are easily dealt with from a long distance (farther than their attack range, especially with the Hawk Ring) with either a crossbow or bow.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "64fa31c2-37f1-5df5-8661-5a1e05094e0e",
+    "title": "Birch Woman",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Birch Woman -  Dark Souls III - enemy - strategy \n strategy : The real threat provided by these enemies is their camouflage. It is possible to determine whether a Birch Woman is dangerous by looking directly at the hair on their heads. If the hair stands still, it is not an enemy, but if it move slightly because of the wind, then it is an enemy.\n\nEven though they are slow enemies, they must not be underestimated because they are often found near other faster enemies, such as Wolves. They provide ranged support for these enemies, and can be problematic if not dealt with.\n\nAs soon as a Birch Woman is recognized, the player can simply run and kill it. The player shouldn't be greedy; attack them from behind, as to prevent their grab attack. In about three to four hits they should be down. If they are hit with Fire damage, they will catch fire and scream, becoming incapacitated.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6e8b0c0a-2d29-5878-97c7-9ba2677a4f59",
+    "title": "Birch Woman",
+    "section": "birch_woman_pyromancer",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Birch Woman -  Dark Souls III - enemy - birch_woman_pyromancer \n birch_woman_pyromancer : This White Tree can be identified by the little fireballs lying on its branches. It will unleash these fireballs if triggered and they will follow the player until they strike them or a solid surface. If all fireballs reach the player, they will inflict a noticeable amount of damage or a heavy stamina drain.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "762d2586-0e86-545d-9b02-098792e988f5",
+    "title": "Birch Woman",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Birch Woman -  Dark Souls III - enemy - description \n description : Birch Women are silent enemies that resemble a tree with feminine features that blend themselves into the environment. They are, in fact, trees, but are capable of slowly moving and attack in different ways. If the player is not in their aggro range, they will stand still and, even if triggered, they will attack silently, better from behind the player's shoulders, trying not to be located. Indeed, sometimes it can be hard to locate one of them because they are almost perfectly camouflaged in the wilderness.\n\nNear the first bonfire there are some non-hostile specimens.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ebbd89fd-3a35-57d8-8df9-dfe06479e1f8",
+    "title": "Birch Woman",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Birch Woman -  Dark Souls III - enemy - lead \n lead : **Birch Women** are enemies in *Dark Souls III: Ashes of Ariandel*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ff8851a4-e0a5-52aa-b252-60056647a1b3",
+    "title": "Birch Woman",
+    "section": "types",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Birch Woman -  Dark Souls III - enemy - types \n types : All Birch Women can do a grab attack that instantly Frostbites the player and inflicts high damage.\n\nThere are two main types of these enemies:",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "16e6979d-f492-5406-bf41-62236cb60da2",
+    "title": "Captain's Ashes",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Captain's Ashes -  Dark Souls III - item - availability \n availability : Found in the Painted World of Ariandel. At the top of the tower in the ruined Millwood village guarded by several Millwood Knights, along with two Millwood archers. The ashes can be found on a corpse at the very top of the tower.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6490677f-db9f-54f0-93ed-470143e63a02",
+    "title": "Captain's Ashes",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Captain's Ashes -  Dark Souls III - item - usage \n usage : Extends the Shrine Handmaid's inventory to include the following items:",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "805be044-089e-5827-b02a-8aed502117fa",
+    "title": "Captain's Ashes",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Captain's Ashes -  Dark Souls III - item - lead \n lead : **Captain's Ashes** is a key item in *Dark Souls III: Ashes of Ariandel*. It is one of several umbral ashes that can be found throughout the course of the game.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "906844d8-d817-54d2-b623-ff010605babe",
+    "title": "Captain's Ashes",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Captain's Ashes -  Dark Souls III - item - description \n description : Umbral ash of the Captain of the Millwood Knights. With this, the Shrine Handmaiden will prepare new items.\n\nLong ago, when the Millwood Knights lost the forest they called home, they began a journey so long that even thoughts of their sworn enemy washed away, replaced by a vision of a cold and brittle wood.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a8b42758-3e27-5969-9a83-0b382c286b3c",
+    "title": "Champion's Bones",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Champion's Bones -  Dark Souls III - item - availability \n availability : Dropped by Champion's Gravetender and Gravetender Greatwolf.\n\nObtained by completing Amnesiac Lapp's questline, or dropped by Lapp upon death, if it has not been obtained by defeating the Gravetender and Greatwolf.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d14eeb04-31f6-58e5-ace1-d395ba7726fe",
+    "title": "Champion's Bones",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Champion's Bones -  Dark Souls III - item - lead \n lead : **Champion's Bones** is a key item in *Dark Souls III: Ashes of Ariandel* as well as *The Ringed City*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e5adf067-f6a0-5385-bed5-4f7cf0118b84",
+    "title": "Champion's Bones",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Champion's Bones -  Dark Souls III - item - usage \n usage : The player may burn them at the Firelink Shrine bonfire in order to access Undead Matches.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fb0d6a76-3ac6-5e5a-824b-89e92b716522",
+    "title": "Champion's Bones",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Champion's Bones -  Dark Souls III - item - description \n description : The charred but warm bones of a champion.\n\nLong ago, an Undead declared a fight. A fight to celebrate their undeath, and so to preserve what remained of their souls. So it was that the Undead Matches were born. The merit of an Undead is measured in deaths. Could there be a greater gift for such a creature, than a fight that has no end?",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "11e2c49b-7fac-57d0-9661-23533d2e9eb7",
+    "title": "Champion's Gravetender and Gravetender Greatwolf",
+    "section": "exploit",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "The Gravetender will walk up after a short time (his footprints will be visible through the fog). Once he is there, cast Poison or Toxic Mist again, until his health bar begins to shrink. Be aware that he can shoot sorceries through the fog and they can hit you. Once he is dead, in order to spawn the Greatwolf, you have to make your way all the way up to the chapel (warping via a bonfire resets the fight) and down into the basement with the Giant Flies until the howl of the Greatwolf is heard, then run all the way back to the fog wall of the boss fight, and repeat the cheese on the wolf as with the Gravetender. However, since the trip is long and arduous and the flies are particularly dangerous, you can just enter the fog after the man dies (the prompt appears when close to it) and deal with the wolf in normal combat. The wolf will appear near the building, as soon as the fog wall is entered.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "13f00a4e-753e-53fa-9d92-1e36973a0924",
+    "title": "Champion's Gravetender and Gravetender Greatwolf",
+    "section": "artifacts",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Champion's Gravetender and Gravetender Greatwolf -  Dark Souls III - boss - artifacts \n artifacts : Valorheart\nChampion's Bones",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "171ec142-21db-5758-b237-9e004dfa21d3",
+    "title": "Champion's Gravetender and Gravetender Greatwolf",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "The ideal strategy during the second phase is to try to finish off the Gravetender as quickly as possible, to remove the Greatwolf's support and ensure that there is only one enemy to focus on. A good tactic to minimize exposure to the Greatwolf's attacks is to lure it around the pillars of the large tower in the arena; this works particularly well against its charging attacks as the pillars provide cover against them as well as deflecting the Greatwolf away from the player. This can allow the player to avoid the Greatwolf's attacks, and buy time to maneuver around to engage the Gravetender alone.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "32b32250-b353-5dad-bb7b-2ece03b8d1b5",
+    "title": "Champion's Gravetender and Gravetender Greatwolf",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Champion's Gravetender and Gravetender Greatwolf -  Dark Souls III - boss - lore \n lore : Long ago, an Undead declared a tournament in which their fellow cursed souls would battle to the repeated death, with their worth being measured in deaths. This was seen as a gift to the Undead, who go hollow without a purpose, and a fight with no end was considered by some to be a glorious use of their immortality.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3c73a594-272b-50a2-9e4a-445377e78047",
+    "title": "Champion's Gravetender and Gravetender Greatwolf",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Champion's Gravetender and Gravetender Greatwolf -  Dark Souls III - boss - strategy \n strategy : It is advised to kill the three wolves that accompany the Champion's Gravetender at the beginning of the fight as to ensure they do not become problematic when facing him head on. The Gravetender will fight very aggressively, using his sword and shield's unique combination attacks to strike while blocking, turning each attempt to attack him into a trade that minimizes damage to himself. For this reason, it is not suggested to use small arms such as straight swords to fight him, but rather to use bigger weapons such as an ultra greatsword to inflict heavy stagger on him and to break his guard to open him up to ripostes. He is weak against Lightning and Bleed, which might be good to keep in mind.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3e63f1ac-8c15-51c0-a7bf-7f573987ea1e",
+    "title": "Champion's Gravetender and Gravetender Greatwolf",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "They will only be relieved of their duty by the Ashen One, who finds their way to the bottom of the painting and challenges the duo to partake in the old turnament of the champion. Should they not do that, however, the fate of the page and wolf remains a mystery. All that is known is that the old champion's remains would find their way in the possession of Amnesiac Lapp during the collapse of the world into the Dreg Heap.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "501f2530-b8b5-5161-9903-3bdb99ab617c",
+    "title": "Champion's Gravetender and Gravetender Greatwolf",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "The Gravetender Greatwolf can actually be found earlier on in two different locations. The first of them is at the end of a forested field full of wolves, found beyond the collapsing snow shelf. The second one is found as the player proceeds uphill past the ruined tower guarded by Millwood Knights.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "640453d7-4f98-5daa-9d43-c01bd3c1d5b1",
+    "title": "Champion's Gravetender and Gravetender Greatwolf",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Champion's Gravetender and Gravetender Greatwolf -  Dark Souls III - boss - location",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "645fe7c7-913c-55cc-bedb-10a22eb325f1",
+    "title": "Champion's Gravetender and Gravetender Greatwolf",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Once the Gravetender Greatwolf joins the fight, the enemy will bring out a Sorcerer's Staff and start using spells like Great Soul Arrow and Snap Freeze more often to support his beastly enforcer from a distance, switching back to his sword and shield should the player get too close.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7318633f-06ec-5239-8cab-641191468051",
+    "title": "Champion's Gravetender and Gravetender Greatwolf",
+    "section": "exploit",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Champion's Gravetender and Gravetender Greatwolf -  Dark Souls III - boss - exploit \n exploit : It is possible to cheese the fight against the boss: from the Depths of the Painting bonfire, approach the ledge around the arena, but do not hop down. Instead, equip the Black Bow of Pharis and the Hawk Ring, plus Feather Arrows. The bow paired with the ring and standard arrows doesn't work for the cheese, as they don't go far enough. Zoom in and there will be a wolf visible to the right, next to a column. Shoot at it to aggro it and the fog wall will appear. Step back at this point and cast poison Mist or Toxic Mist around the area where you just stood. Three wolves at the base of the short cliff will get poisoned and their diminishing health bars will appear visible behind the wall.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8a19ecaf-5304-5b87-9296-f723fe255d55",
+    "title": "Champion's Gravetender and Gravetender Greatwolf",
+    "section": "plot",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Champion's Gravetender and Gravetender Greatwolf -  Dark Souls III - boss - plot \n plot : The Champion's Gravetender and Gravetender Greatwolf are an easy to miss optional encounter found within the *Ashes of Ariandel DLC*.\n\nThe fight starts off with just the Champion's Gravetender and three wolves. Once his health has been halved, he will call for the Greatwolf by performing the \"By my sword\" gesture, making the fight a lot more challenging. Defeating both enemies here allows the player to obtain the Champion's Bones. By burning them at the bonfire in Firelink Shrine, they'll be able to unlock the Undead Match, a type of PvP mode. Beating the boss also results in obtaining Valorheart, which could be the player's only reward if they've somehow found the Champion's Bones already by exploring *The Ringed City DLC* first.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "90dc089b-4590-58de-a23d-8404118571e4",
+    "title": "Champion's Gravetender and Gravetender Greatwolf",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "The Greatwolf, on the other hand, fights very aggressively and will perform a charging attack very similar to that of Vordt of the Boreal Valley, albeit much faster. It's not advised to block these attacks with anything less than a greatshield, as they can devastate the player's stamina, leading to a guard break and an almost guaranteed hit from the Greatwolf. Once the Greatwolf is at 50% health, it will perform a howl and its eyes will glow red. At this point the Greatwolf gains a Frost breath attack and becomes even faster and more aggressive. It shares the same weaknesses to Lightning and Bleed as its master, with an added Fire weakness. Most of these strategies also apply to its solo appearances outside the boss fight, though one must be aware of the amount of normal wolves that may turn the tides in the beast's favor in those situations.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "92791f06-d957-5d9c-a5ae-767296910d10",
+    "title": "Champion's Gravetender and Gravetender Greatwolf",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Champion's Gravetender and Gravetender Greatwolf -  Dark Souls III - boss - lead \n lead : The and the are an optional duo boss in the *Dark Souls III: Ashes of Ariandel DLC*. The Greatwolf also appears as a powerful enemy outside of the designated boss fight.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a70ece33-50d7-5cd9-b7b5-1e7625cb74df",
+    "title": "Champion's Gravetender and Gravetender Greatwolf",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "location : The boss fight is found in an optional location of the Painted World of Ariandel. The player must destroy the rickety bridge that leads to the chapel from the side of said chapel, which will then allow them to climb down using the bridge's remains, like in the Catacombs of Carthus. From there, they must descend using the large roots jutting out of the cliffside, fending off Farron Followers and avoiding the exploding arrows that are shot by the two Millwood Knights below. After reaching the bottom, one can find the Depths of the Painting bonfire by proceeding forward from the last root where one of the Millwood Knights stood. From there, the boss fight can be reached by turning right and dropping down into the flower field opposite from the side of the frozen lake with Frost Crabs. The Champion's Gravetender will be found beneath a building resembling Crossbreed Priscilla's old battle arena from *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a7660089-397f-5f72-a643-6e51c398b9a4",
+    "title": "Champion's Gravetender and Gravetender Greatwolf",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "The Champion of the Undead Match eventually went mad, ending up in the Painted World of Ariandel as a result. Only his page and a large wolf stayed by his side, until the day he finally died. The champion was buried in the lower section of the painting, where a small tombstone is still guarded by the very same page and wolf that had remained with him in his madness. They became guardians of that place, learning to utilize the frost that permeated that land as a way to uphold their task. The Greatwolf quickly established itself as the leader among the other wolves as well, commanding them and likely using them as guards of the tomb as well.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "eb7063c7-7088-586b-9af6-846c07599c57",
+    "title": "Champion's Gravetender and Gravetender Greatwolf",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Champion's Gravetender and Gravetender Greatwolf -  Dark Souls III - boss - trivia \n trivia : The word \"**大狼**\", which means a \"Great Wolf\", was also used in *Dark Souls* as part of Sif's title.\nThe translation of the Greatwolf's name may cause a bit of confusion: the Greatwolf is just a pet of the Gravetender, not a Gravetender itself.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f7ccbcd0-609b-5843-82fa-3fc098a4afe1",
+    "title": "Champion's Gravetender and Gravetender Greatwolf",
+    "section": "plot",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Unlike the Gravetender, who remains in the arena at all times, the Greatwolf can be encountered earlier on as a powerful miniboss-like encounter, fighting alongside a rather numerous pack of smaller wolves. It has the same abilities as in the boss battle, but unlike in that fight, its health must not be depleated fully, as it will flee after less than half of it has been removed.\n\nIf the player defeats the Greatwolf in these two encounters, they will receive three Large Titanite Shard with each victory. This also has the added bonus of lowering its boss fight health by 10% with each time it is beaten.The effect will not reset if the player dies on their first attempt of the boss battle, meaning it is permanently weakened. Beating it with the Gravetender before defeating it in the other areas of Ariandel will make it disappear from those locations, meaning the Large Titanite Shards cannot be obtained any longer.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "61388284-8690-5f37-9ff7-879197872146",
+    "title": "Chillbite Ring",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Chillbite Ring -  Dark Souls III - ring - availability \n availability : Painted World of Ariandel:\nGifted by Sister Friede after speaking to her twice inside of Ariandel Chapel.\nDropped by Friede if her illusion within the chapel is attacked.\nLeft on Friede's chair if her boss fight is engaged without obtaining the ring from her.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "649c55e3-d2c7-51b6-8110-bd3f4d5a22d7",
+    "title": "Chillbite Ring",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Chillbite Ring -  Dark Souls III - ring - effect \n effect : Increases Frost resistance by 140 points.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "87ef347a-2533-55db-9607-1e9b78cd71c7",
+    "title": "Chillbite Ring",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Chillbite Ring -  Dark Souls III - ring - lead \n lead : The **Chillbite Ring** is a ring in *Dark Souls III: Ashes of Ariandel*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e0b54a81-653b-56b0-b2f0-e734d345e5bf",
+    "title": "Chillbite Ring",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Chillbite Ring -  Dark Souls III - ring - description \n description : One of the bite rings native to Carim. Increases frost resistance.\n\nThis ring would never grace Friede's hand, for the painting and its frost became her home.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5dffe577-eee4-57b0-81d7-acdd56cd3698",
+    "title": "Contraption Key",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Contraption Key -  Dark Souls III - item - usage \n usage : Unlocks the path leading to the attic of the archive found on the edge of the Corvian Settlement.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "67b45324-88b8-5d39-b795-82cdece14139",
+    "title": "Contraption Key",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Contraption Key -  Dark Souls III - item - lead \n lead : The **Contraption Key** is a key item in *Dark Souls III: Ashes of Ariandel*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d867ad85-6c05-58d8-9e06-abddac2c20e2",
+    "title": "Contraption Key",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Contraption Key -  Dark Souls III - item - description \n description : The key to the contraption leading to the attic of the archive found on the edge of the Corvian Settlement.\n\nAfter Sir Vilhelm led a white-haired woman to the attic of the library, he kept this key as if it were his life.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "302b2d7c-1d91-5803-8ccf-7e380e268507",
+    "title": "Corvian",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian -  Dark Souls III - enemy - strategy \n strategy : Corvians are almost completely vulnerable before starting their transformation. However, if they have already started it and are attacked, the transformation will complete immediately, rendering them able to retaliate. They stagger easily, though, and fast weapons like straight swords should leave them with no opportunity to counterattack. If a heavy weapon is used, the player should make sure that the corvian will die in one or two hits.\n\nIt is not advisable to engage more than one of these creatures at a time due to the constant damage output they can deal and their quick recovery times. If they are found congregated in front of a storyteller, either the latter should be dealt first or each corvian should be drawn in individually with ranged attacks. In some cases, if the storyteller dies, all remaining corvians will become completely oblivious to the player, making for easy kills.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3924abf2-8309-521a-a899-a33d6e9b036b",
+    "title": "Corvian",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian -  Dark Souls III - enemy - notes \n notes : Susceptible to Rapport.\nSusceptible to Poison, Toxic and Bleed.\nSimilar to Lothric Knights, there is a red-eyed Corvian variant that is more powerful and resilient.\nVulnerable to parries, ripostes and backstabs, with scythe wielders having more parryable attacks.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5245590b-47a1-53ef-8d4b-c4a5efc48942",
+    "title": "Corvian",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian -  Dark Souls III - enemy - lead \n lead : **Corvians** are enemies in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9c960bbd-4ea0-5ae8-a5cf-3cdcccf44f71",
+    "title": "Corvian",
+    "section": "locations",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian -  Dark Souls III - enemy - locations \n locations : Road of Sacrifices\nFarron Keep\nUntended Graves\nGrand Archives\nPainted World of Ariandel",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c1b5dab6-ef69-5c6c-b8b5-69b53c32b855",
+    "title": "Corvian",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian -  Dark Souls III - enemy - trivia \n trivia : The descriptions of the Storyteller's Staff and the Great Corvian Scythe imply that Corvians may be related to the Crow Demons of the Painted World of Ariamis, and by extension Velka.\n**The scythe in particular mentions a \"mistress of the Painted World\" said to wield a great scythe, which could either be Priscilla or Sister Friede.\nThe word *corvian* appears to have its origins in *corvus*, which is Latin for \"crow\".",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d46978fa-8759-5f9d-b0aa-c31245ca3d71",
+    "title": "Corvian",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian -  Dark Souls III - enemy - see_also \n see_also : Corvian Knight\nCorvian Storyteller\nForlorn Corvian Settler",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f99b9364-6ec8-5f2a-989e-d565a8da7920",
+    "title": "Corvian",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian -  Dark Souls III - enemy - description \n description : Hunchbacked, foul medium-sized creatures, hybrids between a hollow and a crow, and armed with either a dagger or a scythe. Corvians initially stand on their posts and barely attack or move from place until approached. When this happens, however, they will begin a brief transformation in which two pairs of wings extrude from their backs, one at a time. When they finish, they will become extremely aggressive, being able to chase the player for long distances. They will also gain the ability to fly in short bursts and attack with a rapid barrage of claw-swipes with their legs.\n\nIn some cases, a group of corvians can be found congregated around a Corvian Storyteller. If the storyteller spots the player, it will unleash a shivering shriek that will alert the rest of the flock, making all corvians in the vicinity begin their transformations and then rush toward the player in unison.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1ca8f453-95ee-539b-ba7b-deab8239629c",
+    "title": "Corvian Knight",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian Knight -  Dark Souls III - enemy - lead \n lead : **Corvian Knights** are enemies in *Dark Souls III: Ashes of Ariandel*.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "240bb40d-3971-5bef-aca1-0426f8d646b5",
+    "title": "Corvian Knight",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian Knight -  Dark Souls III - enemy - notes \n notes : Affected by Alluring Skulls (only if they have been alerted first).\nAffected by Rapport.\nCan be parried, riposted and backstabbed.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6aa1bf3a-1695-535c-94d0-6b707fd37606",
+    "title": "Corvian Knight",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian Knight -  Dark Souls III - enemy - description \n description : Corvian Knights are tall avian warriors that tower over their lesser brethren and are considerably more intelligent and fearsome. They exist in two variations, one that wears a hooded robe and wields the Crow Quills, and a naked variant that wields the Crow Talons.\n\nThey can be encountered throughout the Corvian Settlement exterminating other Forlorn Corvians, although they will quickly turn their attention to the player.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b6787223-5c39-5df0-a5b6-afbcf4a9d947",
+    "title": "Corvian Knight",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian Knight -  Dark Souls III - enemy - trivia \n trivia : Crow Talons-wielding Corvian Knights can perform an attack similar to that of Crow Demons, where they jump onto the back of the player and start pecking at their faces.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dc2cd034-4fe8-5623-94b6-e4ee850f3b5b",
+    "title": "Corvian Knight",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian Knight -  Dark Souls III - enemy - strategy \n strategy : Corvian Knights are incredibly agile opponents and will regularly backflip away or leap over the player to disorient them, often following up with a lunging stab. This can be punished by dodging and backstabbing. Their flurry of blade attacks can rapidly inflict bleed, even when guarding through a shield, so it's not recommended to attempt to block their strikes. From a distance, they will throw several knives and will often perform this attack if the player attempts to heal or use an item.\n\nThe robed Corvian Knights will pursue and eliminate the lesser Corvians around the settlement, although they will focus on the player if alerted. The variant wielding talons is often encountered hiding upside down under bridges and ceilings, so it is advisable for the player to be mindful of their surroundings.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2076494a-3eb6-5578-9c5d-ad80f42d14d8",
+    "title": "Crow Quills",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Crow Quills -  Dark Souls III - weapon - characteristics \n characteristics : A special thrusting sword, the Crow Quills are specially suited for aggressive playstyles and can be a force to be reckoned with in the right hands.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2971262b-4801-5c74-a8d7-dab939fae8dc",
+    "title": "Crow Quills",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Crow Quills -  Dark Souls III - weapon - lead \n lead : The **Crow Quills** is a thrusting sword in *Dark Souls III: Ashes of Ariandel*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6acec116-7b04-5742-adba-2beda310c719",
+    "title": "Crow Quills",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Crow Quills -  Dark Souls III - weapon - description \n description : Thrusting sword wielded by Corvian Knights, and a special paired weapon. When twin-handed, brandish four thin-edge blades in the left hand.\n\nIn their infatuation with Sister Friede, the Corvian Knights swore to protect the painting from fire, and to this end, took to the execution of their own brethren.\n\nSkill: Quill Dart\nSimultaneously throw temporarily substantial illusions of the four thin-edged blades wielded in the left hand.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b3301e98-8871-5fee-8c65-e0395072726d",
+    "title": "Crow Quills",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Crow Quills -  Dark Souls III - weapon - availability \n availability : From the Corvian Settlement bonfire, head out and across the bridge. Follow the wall of the house on your left until you see a smaller bridge. Go across and follow the path to the left. On your left you will see two entrances across a small gap. Jump it and go into the house on your right. Barrels will be blocking a platform that you need to run and leap off of and land on the elevated platform with the Crow Quills.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "35aa73f2-7dd0-588f-99f4-b7896025db79",
+    "title": "Ariamis",
+    "section": "theories",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Ariamis -  Dark Souls - character - theories \n theories : It is possible to theorize that Ariamis is strongly affiliated with the Gods of Anor Londo. To create the painting he had to use the First Flame and the Dark Soul, both powers kept under control by the gods. Furthermore, the painting was kept in Anor Londo, implying that even if the gods themselves had not commissioned it, the product of Ariamis' work was known and available to them. This also implies that the gods had placed a lot of trust in Ariamis to freely manipulate the First Flame and the Dark Soul and that they possess uncommon magical abilities to understand these primordial powers and use them to shape nested worlds.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "819f1023-c2d7-5f97-9f64-d61c5a14f6ff",
+    "title": "Ariamis",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Ariamis -  Dark Souls - character - dark_souls_iii \n dark_souls_iii : Although Ariamis's name and figure were eventually lost to history, their knowledge on the nature of Painted Worlds was passed down. In the following iterations of Paintings, the natives of Painted Worlds possessed a proficient understanding of the First Flame and the Dark Soul. Whenever their world showed signs of corruption, they used the Flame to \"restore\" the Painting, to avoid the fate of the stagnating outside world. For this purpose the corvians chose a \"Father\" who presided over the Flame and would burn away their home when the time came. After the Flame was unleashed, a painter like Ariamis would use the Dark Soul as pigment to create a new painting.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "92a4e077-2782-546c-b2ba-31393d981af8",
+    "title": "Ariamis",
+    "section": "theories",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Inside the Painted World it is possible to find the same statues of a woman holding a little girl by the hand that are found in New Londo Ruins, a decorative element that must have been created together with the cathedral within the painting, as it is a part of the mechanism that opens the path further into the ruins.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f75d3a17-635e-5e12-9ec1-3d2f29e9dd10",
+    "title": "Ariamis",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Ariamis -  Dark Souls - character - lead \n lead : is a mentioned character in *Dark Souls*.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0126da40-493b-5451-9c84-21280603a225",
+    "title": "Ashen One",
+    "section": "undead_settlement",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The Ashen One may also rescue Cornyx of the Great Swamp, a master of pyromancy who will offer his teachings to the Ashen One. Upon finding the church in the center of the settlement, the Ashen One encounters Eygon of Carim, a disdainful knight of Carim. If the Ashen One purchases a key from the handmaiden, they may free Eygon's ward, a blind nun by the name of Irina, who will offer to tell the Ashen One stories of miracles. After freeing her, Eygon will offer an alliance to the Ashen One, for as long as Irina's safety is guaranteed.\n\nInside the church, the Ashen One encounters Siegward of Catarina, a Catarina knight who is perplexed by a lift that will only take him down, rather than up where he wishes to speak to the Giant. If the Ashen One solves the riddle of the lift, they may make peace with the Giant, who will offer his help.\n\nOnce through the settlement, the Ashen One makes it to the Road of Sacrifices, where offerings were once transported to Aldrich, Saint of the Deep.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "032d08da-7e92-57e4-9ec6-0870c4ad6926",
+    "title": "Ashen One",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - lead \n lead : The **Ashen One,** also referred to as the **Champion of Ash** or **the Unkindled One,** is the playable character and the protagonist of *Dark Souls III*.\n\nThe title of Ashen One is given to the player by the Fire Keeper of Firelink Shrine. The Ashen One is an Unkindled, an Undead who failed to link the First Flame and became ash, who has been raised from their grave, and is tasked with a journey to defeat four Lords of Cinder and return them to their thrones, since the link of the Flame is threatened and the Lords refuse to serve as its fuel once again.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "03a5142d-88b8-58b9-bdb4-8745d928cd68",
+    "title": "Ashen One",
+    "section": "irithyll_and_anor_londo_dark_souls_iii_anor_londo",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - irithyll_and_anor_londo_dark_souls_iii_anor_londo \n irithyll_and_anor_londo_dark_souls_iii_anor_londo : On the surface, the Ashen One fights their way to the grand church in Irithyll where they find Pontiff Sulyvahn. Killing Sulyvahn opens the way to Anor Londo, fabled city of the gods, where Aldrich awaits. Aldrich, having lost interest in the flame and having instead turned towards the Dark, sought out Anor Londo to devour the gods themselves. He found and devoured Dark Sun Gwyndolin in Anor Londo, who had been \"stricken by illness\" and had retreated to the Anor Londo Cathedral, only to be imprisoned by the Pontiff to be fed to Aldrich. Fighting their way past the archers protecting the city, the Ashen One finds Aldrich using Gwyndolin as a puppet of sorts, and kills him, acquiring his ashes to be delivered to his throne.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "03bef784-bfda-5690-8f5f-170905ad4f7a",
+    "title": "Ashen One",
+    "section": "farron_keep",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - farron_keep \n farron_keep : Returning to the Crucifixion Woods and progressing towards Farron Keep, the Ashen One finds a massive swamp, the corrupted remnants of the once-vibrant Royal Wood. In order to make their way to the Abyss Watchers, the Ashen One must extinguish three flames, per the ceremony of admission into the Undead Legion. After doing so, the path to the Keep opens, allowing the Ashen One to face the Abyss Watchers.\n\nThe Abyss Watchers, reduced to fighting amongst themselves, are defeated by the Ashen One, who claims their ashes in order to restore them to their throne in Firelink Shrine. Killing the Watchers opens the way to the Catacombs of Carthus, an underground tomb filled with skeletal warriors.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "07625880-3446-5bb1-8183-abc2e9337d12",
+    "title": "Ashen One",
+    "section": "the_ringed_city",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Within the city, the Ashen One may encounter Shira, Knight of Filianore, who asks the Ashen One to put down Midir, a mighty dragon who once served the Gods, but who has now been consumed by the Dark. Fighting their way through the city, the Ashen One finds Midir and sends him hurtling down a chasm. Chasing Midir to his lair, the Ashen One may fulfill Shira's request and fight him to the death. In the Church of Filianore, the Ashen One finds Judicator Argo who bars the way to Filianore. He will summon Halflight, Spear of the Church to fight the Ashen One.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "08f39ba6-37fc-594b-a1ea-4e40c6cd2cf4",
+    "title": "Ashen One",
+    "section": "firelink_shrine_dark_souls_iii_firelink_shrine",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "firelink_shrine_dark_souls_iii_firelink_shrine : Inside the shrine, they encounter the Fire Keeper, who tells the Ashen One that the Lords of Cinder—Aldrich, Devourer of Gods, Yhorm the Giant, the Abyss Watchers, and Lothric, Younger Prince—have abandoned their thrones, and charges them with bringing the lords back. The Fire Keeper offers to channel souls in order to increase the Ashen One's strength. Also in the shrine are Blacksmith Andre, a smith from the Age of Gods; the Shrine Handmaid, who offers an expanding store of goods in exchange for souls; Hawkwood the Deserter, a crestfallen warrior; Ludleth of Courland, the last remaining Lord of Cinder who offers the Ashen One advice and the art of soul transposition (provided the Ashen One can provide him with a Transposing Kiln); and Nestling, a bird who offers to trade items. The shrine is populated by more character as the game progresses: Ringfinger Leonhard, a servant of the goddess Rosaria, who urges the Ashen One to invade the",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "11b0dd48-4b91-513e-8bef-060890173ea4",
+    "title": "Ashen One",
+    "section": "epilogue",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - epilogue \n epilogue : ***Link the Fire**: In this ending, the Ashen One attempts to do as all the other lords had done before them and link the fire. The Ashen One stretches out a hand and begins to burn, but unlike in the past, the fire is not rekindled. Instead, the Ashen One merely sits beside the flame, unable to prolong its life, as the sun remains a Darksign.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "12f1e645-2e19-5a80-8fee-bfb189b4de4f",
+    "title": "Ashen One",
+    "section": "origin",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - origin \n origin : The background of the Ashen One can be selected, depending of which \"Face Preset\" they choose:",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3041f86f-f6a6-5b25-b9f6-f5704d6081e9",
+    "title": "Ashen One",
+    "section": "lothric_castle_and_the_consumed_king_s_garden",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "After killing Oceiros, the Ashen One acquires the means to access two more optional areas. One is a gesture that will allow passage to Archdragon Peak, and the other is a secret path to the Untended Graves, a dark version of Firelink Shrine. Here the Ashen One finds Champion Gundyr, and behind him an abandoned Firelink Shrine home only to a Shrine Handmaiden. Here the Ashen One can find the Eyes of a Fire Keeper which if presented to the Firekeeper will allow her to see a dark vision of the future that the Ashen One may choose to fulfill.\n\nIn Archdragon Peak, the Ashen One can face the Ancient Wyvern and The Nameless King, once known as Lord Gwyn's Firstborn, the old God of War who aligned himself with the Ancient Dragons.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "31c77ae1-9a4b-5711-a7fa-84ddee11fada",
+    "title": "Ashen One",
+    "section": "the_ringed_city",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "After defeating Halflight, the path to Filianore is open. Filianore lies sleeping while clutching a broken egg-like object. If the Ashen One touches the object, it will shatter into pieces and Filianore will wake, upon which a blinding light emanates from the shards of the object and envelopes the chamber. The Ashen One opens their eyes to find that the Ringed City is now a lifeless desert, and Filianore an emaciated corpse. Leaving her room, the Ashen One comes upon a fleeing Pygmy. Investigating the scene closer, they find Gael consuming the remains of a Pygmy Lord in order to gain their Dark Soul. He proceeds to attack the Ashen One in order to gain their piece of the Dark Soul.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "461018f1-47d2-560e-afe8-37357a8ba2a6",
+    "title": "Ashen One",
+    "section": "cemetery_of_ash",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - cemetery_of_ash \n cemetery_of_ash : At some point in time, the Ashen One attempted to link the fire. They were not powerful enough and were instead burnt to ash by the flames. Some time later, the Ashen One was awakened by the toll of the bells in the Cemetery of Ash, signifying that the link of fire was threatened. The Ashen One emerges from their grave and sets out to leave their tomb. Finding the Coiled Sword lodged inside Iudex Gundyr, the Ashen One pulls it out, awakening Gundyr and beginning a fight. Halfway through, Gundyr is seemingly consumed by the Pus of Man, but the Ashen One defeats him and finds Firelink Shrine.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4b29c405-417c-53c3-ac7f-8fca889453b9",
+    "title": "Ashen One",
+    "section": "firelink_shrine_dark_souls_iii_firelink_shrine",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The Ashen One places the Coiled Sword in the center of the shrine, creating a bonfire, and proceeds to travel to the High Wall of Lothric.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "549eb374-0336-53f0-adac-df181eceb74f",
+    "title": "Ashen One",
+    "section": "catacombs_of_carthus",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - catacombs_of_carthus \n catacombs_of_carthus : Progressing through the trap-ridden Catacombs, the Ashen One eventually finds a rickety drawbridge that will lead them to Irithyll of the Boreal Valley. Should the Ashen One choose to descend the fallen drawbridge, they may find the Smouldering Lake, ruled by the Old Demon King and home to various demons and a great slithering worm.\n\nAcross the bridge, the Ashen One finds a strange goblet that pulls them into the Abyss. Here they encounter High Lord Wolnir, who attacks the Ashen One. By destroying his enchanted bracelets, Wolnir loses his grip and falls into the Abyss, allowing the Ashen One to return to the regular world, where the path to Irithyll, a frozen city guarded by an impenetrable barrier and ruled by Pontiff Sulyvahn in the name of Aldrich, is now open.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "57cff77e-fe48-5c99-a51b-895f373fa0ab",
+    "title": "Ashen One",
+    "section": "cathedral_of_the_deep",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Deep within the Cathedral, the Ashen One encounters the Deacons of the Deep guarding Aldrich's tomb. After defeating them, the Ashen One finds that Aldrich has left the cathedral, finding instead a doll that will allow the Ashen One to enter Irithyll of the Boreal Valley.\n\nAfter returning to Firelink Shrine, the Ashen One again encounters Anri and Horace, who tell the Ashen One that Aldrich supposedly hails from Irithyll and that he may have returned home. They will also find Sirris of the Sunless Realms, who shows little interest in the Ashen One, unless they provide the Handmaiden with a certain ash, prompting Sirris to offer the Ashen One her sign.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5b9dea47-7668-5e2e-9b33-c818ef91f166",
+    "title": "Ashen One",
+    "section": "origin",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Commoner: The oh-so plain face of a commoner. Everyone has imperfections, but a commoner without flaws is a rare creature indeed.\nNorthern Warrior: The face of a warrior, as if hewn from rock. It's been long whispered in jest northerners are born weathered and old.\nAstora Noble: The features of a true blue blood. Blue of eye and fair of hair, a little reminder of Astora's former glory.\nDragon Academy Student: Intelligent face with fine lines, often ribbed for looking like a prentice.\nCarim Novice: The face of a cheerless cleric of Carim. \"Novice\" is used as something of a derogatory term for men of the cloth.\nCatarina Merrymaker: The large eyes and mouth give this face a look of jubilation. From Catarina, known for its zest for life and love of drink.\nSerpentine Traveler: An uncommon face defined by its narrow eyes and thin lips. Some praise it as the visage of a true dragon.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "69657be0-b4f7-5c6e-8cf9-dccd99758653",
+    "title": "Ashen One",
+    "section": "farron_keep",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "At this point in the game, Yoel of Londor will die. If the Ashen One has allowed him to draw out their true strength a sufficient number of times, Yoel will be replaced by Yuria of Londor, who attempts to sway the Ashen One into usurping the First Flame and becoming the Lord of Hollows.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6cee28ea-0ae3-5a7f-b0e2-8c9b44130705",
+    "title": "Ashen One",
+    "section": "soul_of_cinder",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - soul_of_cinder \n soul_of_cinder : After returning to the shrine, the Ashen One places the ashes of the Lords on their thrones, and the Firekeeper channels their strength to the Ashen One. The Firekeeper bids the Ashen One travel to the First Flame. Accepting the strength of the Lords, the Ashen One is transported to a copy of the Firelink shrine, standing amid the wreckage of kingdoms. From there, the Ashen One proceeds to the Kiln of the First Flame.\n\nThere they encounter the Soul of Cinder, a manifestation of the Lords that had previously linked the flame. The Soul of Cinder takes on many forms and fighting styles, mimicking those who had linked the flame. Once the Ashen One weakens it, the Soul of Cinder assumes the style of Gwyn, Lord of Cinder, first one to link the flame. After defeating the Soul of Cinder, the Ashen One is presented with four options depending on the choices they made.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "79e35663-be0a-54b3-9215-59058ef55f69",
+    "title": "Ashen One",
+    "section": "epilogue",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "***Ash Seeketh Embers**: If the Ashen One gave the Eyes of a Fire Keeper to the Fire Keeper, they may summon her upon defeating the Soul of Cinder. The Fire Keeper will take the First Flame into her hands. Before the flames fade, the Ashen One may strike her down. The Ashen One steps over the limp body of the Fire Keeper and takes the First Flame into their own hands. Kneeling, the Ashen One raises the flame, offering it to the Darksign Sun.\n***The Usurpation of Fire**: If the Ashen One allowed Yoel to draw out their true strength a sufficient amount of times through the Dark Sigil, followed Yuria's instructions and \"married\" Anri, the Ashen One may, instead of linking the fire, absorb it into themselves. The Ashen One collapses from the strain and awakens before a Darksign Sun turned white, and also finds Yuria, Anri, and an army of hollows greeting them as their Lord and praying for the Ashen One to make Londor whole.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "79eedab3-81cf-5881-b92a-553d8a71b731",
+    "title": "Ashen One",
+    "section": "road_of_sacrifices_and_crucifixion_woods",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - road_of_sacrifices_and_crucifixion_woods \n road_of_sacrifices_and_crucifixion_woods : Following the road leads the Ashen One to the Crucifixion Woods, where they encounter Anri of Astora and their companion Horace the Hushed. Anri seeks Aldrich, and thinks to find him in the Cathedral of the Deep. They offer their help to the Ashen One, should the Ashen One need it. Here the Ashen One may also find Orbeck of Vinheim, a sorcerer who will offer to share his knowledge if the Ashen One brings him magic scrolls.\n\nMaking their way through the Crucifixion Woods leads the Ashen One to a crossroads. One path leads to Farron Keep, home of the Abyss Watchers, whereas the other one, guarded by one of the Crystal Sages, leads to the Cathedral of the Deep, home of Aldrich.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9af63879-18f9-53a5-9312-02889d55a16e",
+    "title": "Ashen One",
+    "section": "undead_settlement",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - undead_settlement \n undead_settlement : Arriving in the Undead Settlement, the Ashen One finds Yoel of Londor praying for death at a ledge. Upon encountering the Ashen One, Yoel offers his services, providing rudimentary sorceries and offering to draw out the Ashen One's \"true strength\", not telling them that doing so will burden the Ashen One with the Dark Sigil which will make them hollow upon death.\n\nInside the Settlement, the Ashen One is accosted by the inhabitants of the town and pelted with massive arrows by a Giant atop a tower. After fighting and killing the Curse-rotted Greatwood, the Ashen One will find a Transposing Kiln that will allow Ludleth to provide great spells and weapons from the souls of powerful creatures.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a200d7d9-037e-5c8f-8021-100e799a73dc",
+    "title": "Ashen One",
+    "section": "grand_archives_and_prince_lothric",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - grand_archives_and_prince_lothric \n grand_archives_and_prince_lothric : Progressing through Lothric Castle will bring the Ashen One face to face with a Dragonslayer Armour controlled by a Pilgrim Butterfly. Defeating the armour opens the way to the Grand Archives, home to ancient knowledge.\n\nThe Ashen One fights their way through the Archives, and find themselves close to the location of Prince Lothric, who hides at the very top of the castle. Lothric has no intention of returning as a Lord of Cinder however, preferring to watch the world end from afar with his brother Lorian. The brothers attack the Ashen One, who slays them both, and claims Lothric's ashes.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a99661d4-58cb-5f36-bc0c-f06d5f3687cc",
+    "title": "Ashen One",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - trivia \n trivia : The Ashen One, as depicted in promotional material, is a Knight.\nThe Ashen One is often referred to as the 'Champion of Ash' or the 'Unkindled One' by other characters.\nA knight in the cover is named as 'Red Knight' in the Funko Pop! line.\n**There’s a misconception about the Soul of Cinder armor and the Red Knight armor: They are essentially the same Firelink set, the only difference being that the Red Knight (Ashen One) version has a tabard, while the Soul of Cinder version does not.\n**The Red Knight armor is a variant of the Firelink set, distinguished by its tabard bearing a coat of arms reminiscent of the Lothric Knights.\nIn the Pre-Alpha *Dark Souls III*, the Ashen One is shown to use a cut-content weapon called the Legion Scimitars. Its dual combat art Spin Slash was ultimately given to the Sellsword Twinblades, while its design was relegated to a curved sword named Scimitar.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "aad5173a-06a3-576e-be8d-0409e26ba04e",
+    "title": "Ashen One",
+    "section": "origin",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Serpentine Traveler: An uncommon face defined by its narrow eyes and thin lips. Some praise it as the visage of a true dragon.\nGreat Swamp Outcast: A uniquely deformed face. Or perhaps merely ugly. Prejudice births malcontents, and malcontents swarm to the Great Swamp.\nLondor Shadow of Death: A lifeless face, almost that of a hollow. Londor is a realm of those hollow and old.\nIrithyllian: The features of the old gods, as if from legend. They say children born like this are fated to be taken to the Boreal Valley.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b391da62-d59b-59b8-83bd-1896cf34370c",
+    "title": "Ashen One",
+    "section": "profaned_capital",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - profaned_capital \n profaned_capital : Descending through the dungeon of Irithyll brings the Ashen One to the Profaned Capital, home of the reclusive Yhorm the Giant, one of the missing lords. Fighting their way past the gargoyles and priestesses that guard the way to the giant, the Ashen One finds him atop his throne. The enormously strong and durable Yhorm initially seems insurmountable, but the Ashen One finds the magic blade Storm Ruler, a sword with the ability to fell giants, beside his throne. Using the power of the blade, the Ashen One is able to bring Yhorm to his knees and kill him, collecting his ashes.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bc71f628-0c2e-5ab8-99a0-78ad5942f996",
+    "title": "Ashen One",
+    "section": "firelink_shrine_dark_souls_iii_firelink_shrine",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "a bird who offers to trade items. The shrine is populated by more character as the game progresses: Ringfinger Leonhard, a servant of the goddess Rosaria, who urges the Ashen One to invade the worlds of others to take their embers; Sirris of the Sunless Realms, on a quest to hunt down members of Rosaria's Fingers; and Yuria of Londor, a founder of the Sable Church, who urges the Ashen One to usurp the first flame.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bdd4b552-749b-5ea2-b69f-1acb338842d1",
+    "title": "Ashen One",
+    "section": "the_ringed_city",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - the_ringed_city \n the_ringed_city : If the Ashen One follows Gael, they will find themselves in the Dreg Heap, an amalgamation of collapsed kingdoms and civilizations at the end of time. Within the Dreg Heap they may encounter Lapp, a hollow who seeks the Purging Monument in order to remember his past life. Fighting their way past the Dreg Heap they find two demons, the Demon in Pain & the Demon Below. Following the fall of the last of the two, its corpse is enkindled by the Chaos Flame and reawakened as the Demon Prince. Defeating the Demon Prince allows the Ashen One to travel to the Ringed City, the first city of Man, inhabited by the Pygmies. Gwyn, the first Lord of Cinder, had gifted the city to humanity after the end of the Age of Ancients, along with his daughter Filianore.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c8c3fdc7-89b5-5434-bc17-56911ed193a8",
+    "title": "Ashen One",
+    "section": "irithyll_of_the_boreal_valley",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - irithyll_of_the_boreal_valley \n irithyll_of_the_boreal_valley : The Ashen One is able to penetrate the barrier to Irithyll with the magic doll they found in the Cathedral of the Deep. Progressing through the frozen city, the Ashen One will again come to a crossroads. They may either descend through the dungeons of Irithyll to find the Profaned Capital, or progress further into the city, finding the ancient city of the gods, Anor Londo.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c9dd78a4-14ad-5029-bdc8-7af4f9e05e4a",
+    "title": "Ashen One",
+    "section": "cathedral_of_the_deep",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - cathedral_of_the_deep \n cathedral_of_the_deep : After defeating the Crystal Sage, the Ashen One follows the road to the Cathedral of the Deep. Once there, the Ashen One may encounter a \"knight of Catarina\" who will attempt to lure them onto a narrow path with the promises of treasure. Should the Ashen One fail to see through his ruse, the \"knight\" will lower them below where a giant awaits before revealing himself to be Unbreakable Patches, a thief and con-artist. If confronted later, Patches will attempt to feign innocence, but if the Ashen One presses him on the matter, he will admit his wrongdoings and offer a gift in recompense, as well as selling the Ashen One his goods.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ce8b32be-5c5b-50c6-9362-a117742b2b85",
+    "title": "Ashen One",
+    "section": "epilogue",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "***The End of Fire**: If the Ashen One gave the Eyes of a Fire Keeper to the Fire Keeper, they may summon her upon defeating the Soul of Cinder. The Fire Keeper will take the First Flame into her hands. She states that the fire quickly fades and that dark will soon settle, but predicts that one day, tiny flames will dance across the darkness, like embers linked by lords past, suggesting that the other Lords of Cinder of the past will one day rise and wander through the darkness with their own fragments of the First Flame. As the absolute darkness settles upon the world, the Fire Keeper asks if the Ashen One can still hear her.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ced26daf-fda3-533f-b858-fb22241ea7ff",
+    "title": "Ashen One",
+    "section": "returning_to_the_high_wall",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - returning_to_the_high_wall \n returning_to_the_high_wall : After slaying the penultimate Lord of Cinder, the Ashen One is transported back to Emma, High Priestess of Lothric Castle in the High Wall of Lothric. A dying Emma begs the Ashen One to find Prince Lothric and tell him that he must be a Lord of Cinder, giving the Ashen One the Basin of Vows that will allow them access into Lothric Castle.\n\nBefore the Ashen One can place the basin, they are ambushed by the Dancer of the Boreal Valley, who attacks them. After killing the Dancer, the Ashen One can place the basin and gain access to the castle.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dccbd8c2-c77e-58ef-a84e-bc4a98181992",
+    "title": "Ashen One",
+    "section": "lothric_castle_and_the_consumed_king_s_garden",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - lothric_castle_and_the_consumed_king_s_garden \n lothric_castle_and_the_consumed_king_s_garden : The Castle, home to various knights and soldiers of Lothric along with fire-breathing wyverns, holds the final Lord of Cinder. By now, the very sun itself resembles a Darksign, and Pilgrim Butterflies are seen flying towards the castle. Fighting their way through the castle, the Ashen One may choose to make a detour to the Consumed King's Garden, home to the king of Lothric, Oceiros. The king, having gone mad long ago and deformed himself into a dragon-like being, ferociously attacks the Ashen One.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e4a56903-fd7c-5044-ba18-a888efe96ce5",
+    "title": "Ashen One",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "**Legion Scimitars / dual curved sword Scimitar had appeared as part of the Red Knight Statue Collectors Edition.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e980d415-f46c-5993-90b8-860cdb81fb93",
+    "title": "Ashen One",
+    "section": "firelink_shrine_dark_souls_iii_firelink_shrine",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - firelink_shrine_dark_souls_iii_firelink_shrine",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f50fe936-9256-54dd-bc78-85fbda9160e2",
+    "title": "Ashen One",
+    "section": "high_wall_of_lothric",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - high_wall_of_lothric \n high_wall_of_lothric : The Ashen One then progresses through the High Wall of Lothric, now home to mindless hollow soldiers, knights, and a fire-breathing wyvern. Fighting their way to a church, they encounter Emma, the high priestess of Lothric Castle. Emma provides them with a banner that will allow them safe passage to the Undead Settlement, but warns them that their path is guarded by Vordt of the Boreal Valley. Emma also gives the opportunity to join the Way of Blue covenant. Also in the High Wall is Greirat of the Undead Settlement, a thief that will swear himself to the Ashen One if they rescue him from his cell and promises to look for a woman named Loretta in the Undead Settlement.\n\nAfter finding and defeating Vordt, the Ashen One raises the banner on a ledge, and is transported by Batwing Demons to the Undead Settlement, a dilapidated town inhabited by hollows.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "039f93b5-f0ee-552e-bcd7-1e0874ea7ab3",
+    "title": "Corvian (Lore)",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "It's likely they had a good relationship with Priscilla, who considers them kind, much like every other inhabitant of the painting. They might have taken care of her, perhaps a duty given to them by their beloved goddess, who seemed to favor the poor crossbreed. However, the specifics of their relationship are never made clear.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0650c8c4-e0f7-5aa7-9b3c-ea90978cbe80",
+    "title": "Corvian (Lore)",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Corvian (Lore) -  Dark Souls III - character - dark_souls_iii \n dark_souls_iii : In the time of Lothric, more Corvians are seen outside the painting, some of them even acting as storytellers who share tales of their frigid home. Their stories are considered heretical, and most of their listeners are Corvians themselves. All of them have no place to go, and seemingly yearn to return to the frozen landscape of their painting.\n\nThese aren't the only descendants of the Crow People, however, and many of them still exist within a new Painted World, restored by Father Ariandel. He appears to be a large humanoid akin to a Giant, but shows some crow-like features across his body, like fuzzy legs and talon-like hands. It's unclear if he was one of the Corvians, but he was one of the more important figures of their society. The most important one by far was the mistress of the Painted World, who wielded a great scythe, which became a symbol of a long-lost home to the forlorn corvids.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2a229795-6b0a-5932-8d39-9f1e0696773c",
+    "title": "Corvian (Lore)",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Corvian (Lore) -  Dark Souls III - character - dark_souls_ii \n dark_souls_ii : By the time of Drangleic, knowledge of the Painted World had been lost. Regardless, some of its Corvian inhabitants took their leave, as one of their descendants, Weaponsmith Ornifex, can be found in the old town of Tseldora. Her choice to live in Tseldora seems rather curious, as the town has some passing connection to the ancient Goddess of Sin. It's unclear if she even knows of her and how relevant she used to be to her people.\n\nShe uses a special forging technique that originated from a strange being that once inhabited the area, though she is unaware of what it truly was. She also believes humans to be inherently different than her kind, suggesting that across the ages, the Crow People had forgotten that they originated from humans. This was probably not helped by the general distrust humanity displays when dealing with creatures who are different than them.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "410282bb-2f18-5b6e-b8f8-513706c8b2f5",
+    "title": "Corvian (Lore)",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Now, many of the Corvian Settlers are being slaughtered by their knights for disagreeing with Friede's decision, and the people's opinion of her had turned sour. The Corvians suffered under the effects of the rot, many shriveling up, unable to move their legs, or festering with poison. Most of them drag tails made of feces, strung together by undigested plant matter. Only the coming of a second Ash can set things right, and that is what the forlorn Corvians and other inhabitants of the Painted World desire more than anything.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "44f9de23-792b-55a6-ad85-cc96ab993667",
+    "title": "Corvian (Lore)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Corvian (Lore) -  Dark Souls III - character - lead \n lead : **Corvians**, also known as **Crow People** or **Crow Demons**, are a race of anthropomorphic crows in the *Dark Souls* series.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4fe18246-38b1-5a7b-bb68-afeef607a315",
+    "title": "Corvian (Lore)",
+    "section": "members",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Corvian (Lore) -  Dark Souls III - character - members \n members : Weaponsmith Ornifex\nDrowsy Forlorn\nFriendly Corvian Settler\nFather Ariandel\nCrow Demons\nCorvians\nCorvian Storytellers\nForlorn Corvian Settlers\nCorvian Knights",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "59448214-3884-5ac2-8b72-470470ad674c",
+    "title": "Corvian (Lore)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Corvian (Lore) -  Dark Souls III - character - description \n description : Corvians are transformed humans, warped by their obsessive devotion to Velka, Goddess of Sin. They are surprisingly varied in appearance, varying in how humanoid or bird-like they are. The earliest ones had lanky, androgynous bodies with crow heads, large wings replacing their arms, and red feet, while the later ones looked like emaciated humanoids with feathered legs and bird-like feet, capable of sprouting wings separate from their arms, though they lacked any real corvid feature in their faces. Lastly, most of the ones living in the painting, deprived of wings and sporting a few scattered feathers, but with an undeniable bird head with desaturated white eyes. Their knights are like a mix of this latter type and the very first one, showing a lanky yet imposing frame, while having no wings of their own. They are characterized as being unwanted, forlorn beings with no place to call home.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5ca1d54e-17a5-554a-8bf2-710d913c06e1",
+    "title": "Corvian (Lore)",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "She is also the only Corvian that can be met in Drangleic, found in the clutches of the Lion Clan, who live in the nearby Shaded Woods. It's very likely more Corvians were travelling the world, but they are never met by the Bearer of the Curse.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ab7facf7-7b48-50aa-aa36-936b9e3cdc79",
+    "title": "Corvian (Lore)",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Corvian (Lore) -  Dark Souls III - character - dark_souls \n dark_souls : The Corvians have humble beginnings. Once, they were simple human worshippers of the Goddess Velka, who transformed through their devotion. In the time of Lordran, they were best known as Crow People of Velka, or simply Crow Demons. Despite being called \"demons\", they share no relation with the Chaos Demons of Izalith, as they were ultimately human in nature.\n\nAt some point, these devotees would find themselves in the Painted World of Ariamis, either banished there or simply seeking an escape from the real world, along with many of Velka's artifacts and a peculiar crossbreed child. Whether they transformed before setting foot within the painting or afterwards is unclear, but their presence was entirely localized within the frigid landscape, with none of them found elsewhere in this age. They are hostile to all those who enter the painting and don't belong there.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "63f15cbc-2ade-59f8-87a5-e4657af446f7",
+    "title": "Rose of Ariandel",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Rose of Ariandel -  Dark Souls III - weapon - availability \n availability : Transpose the Soul of Sister Friede with Ludleth of Courland for 3,000 souls.",
+    "sources": [
+      "run"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  }
+]

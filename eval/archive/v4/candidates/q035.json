@@ -1,0 +1,2330 @@
+[
+  {
+    "document_id": "0246a911-ca1f-53b5-b5b9-bdde1f2981d6",
+    "title": "Profaned Capital",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Multiples Statues in the Capital portray sages pointing a snake-shaped object in the sky. Sage is a term used multiple times for the sorcerers, and since the flame which burned the Capital is said to have come from the sky, it's possible that the Court Sorcerers were burned in a failed ritual involving the profaned flame.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.75862678980524
+  },
+  {
+    "document_id": "06805e58-a3d5-560c-bf98-7cce97aeea6c",
+    "title": "Giant",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Giant -  Dark Souls - enemy - description \n description : Gigantic humanoids that perform various tasks in Sen's Fortress. They look identical to the Giant Blacksmith and have similar attacks.\n\nAlthough they share the same name, they share only a few similarities with the Giants in *Dark Souls II*.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5071321073782002,
+    "bm25_score": null
+  },
+  {
+    "document_id": "10e73349-22de-51c3-b959-1c2b3b73b4ca",
+    "title": "Archive Tower Giant Door Key",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Archive Tower Giant Door Key -  Dark Souls - item - description \n description : Key to the giant door leading out from the uppermost floor of Archive Tower, which now serves as a prison.\n\nThe key's design resembles not the key of a prison; indeed, the tower was once no prison at all, but a trove of precious tomes.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "117c67ae-b790-5a83-9146-bbbe4da0bf9a",
+    "title": "Yhorm the Giant",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Yhorm the Giant -  Dark Souls III - boss - lead \n lead : is a boss in *Dark Souls III* and one of the five Lords of Cinder encountered by the Ashen One in *Dark Souls III*.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.4933713734428998,
+    "bm25_score": null
+  },
+  {
+    "document_id": "16d8d281-81a6-5deb-958d-42dbc95ea4bc",
+    "title": "Captain Drummond",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "What happened to Drummond afterwards is never stated, but his armor, sword and shield can be found in the ruins of the fort, now enveloped by the surrounding forest, around the wall where the Giant Lord was felled in the past. It is therefore likely that he perished shortly after the victory on the Giants, becoming the last of his family line. The absence of his helm is also meaningful, as he gifted it to the Bearer of the Curse in the past for helping his remaining army in their hour of need.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.4982951733626012,
+    "bm25_score": 25.756152292523726
+  },
+  {
+    "document_id": "19a4a1a4-f625-5fb4-8912-4bb5f451a9cc",
+    "title": "Handmaid's Dagger",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Handmaid's Dagger -  Dark Souls III - weapon - availability \n availability : Dropped by Jailer Handmaids in the Profaned Capital.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.10023673349164
+  },
+  {
+    "document_id": "246c3649-068b-5bd4-a716-1a2760f39780",
+    "title": "Timeline",
+    "section": "profaned_capital_the_capital_of_sin",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "A \"priest\" experiments on the women of his family, causing their Humanity to go out of control and transforming them into monstrosities\nDespite this he continues to live without any care and the other court sorcerers continue to experiment on the Dark Sign and Humanity\nThe court sorcerers manage to create a flame that originates from the Dark Soul: the Profaned Flame\nThe Profaned Flame can burn without fuel and forever, but produces no heat\nThe Profaned Flame becomes too powerful and puts the city at risk\nYhorm decides to become a Lord of Cinder to quell the Profaned Flame, believing that by restoring the First Flame's power the dark flame of the Profaned Capital would lose power\nYhorm links the First Flame and is buried with a fragment of it still in his body, becoming a Lord of Cinder\nAfter Yhorm links the First Flame, the court sorcerers continue to experiment with the Profaned Flame\nThe court sorcerers create gargoyles as guardians and soldiers",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5471543182633629,
+    "bm25_score": 27.7871376586789
+  },
+  {
+    "document_id": "24e951f7-7d86-5f8d-aa90-2a38f1dd901c",
+    "title": "Profaned Capital",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "After Yhorm became a Lord of Cinder in order to stop the Profaned Flame, the city was burned down by a fire said to be coming from the sky, which burned only humans.\n\nThe only survivors of the Capital are the Handmaids, the court sorcerer Eamon, and the four malformed women. The Handmaids who served in the Capital reportedly took pleasure in hurting others.\n\nSometime after the Profaned Flame destroyed the Capital, Pontiff Sulyvahn discovered the Profaned Flame and the Capital, \"a burning ambition took root within him\". He would later infuse the Profaned Flame within his own greatsword, and would perhaps introduce the Profaned Flame to the Fire Witches. They would learn to use its power and summon firestorms with their halberds., and would eventually take Irithyll for themselves.\n\nSulyvahn would later build a dungeon, and hired some handmaids to guard the prison, which preserves part of the profaned flame in a icy skull.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5838472270254018,
+    "bm25_score": 29.967188899708106
+  },
+  {
+    "document_id": "26d9adef-7721-5af8-8d8a-53f0fb8ec070",
+    "title": "Ringfinger Leonhard",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ringfinger Leonhard -  Dark Souls III - character - theories \n theories : It is possible that Leonhard comes from the Profaned Capital, and that is the son of Yhorm. Leonhard's is described to be burned, expecially his face, and the Capital is known to be burned by the Profaned Flame. Leonhard comes from royalty and was taught sorcery, and the Profaned Capital housed the Court Sorcerers.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.744946160325217
+  },
+  {
+    "document_id": "2acb3bbe-c9d1-5ab2-bdd3-4768a3f9f95b",
+    "title": "Profaned Flame",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Profaned Flame -  Dark Souls III - spell - availability \n availability : Found in Irithyll Dungeon, on the floor in the Giant Slave's cell. It is guarded by the giant itself and numerous Hound Rats.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2b844ff0-8061-5906-8fc7-06364d3fc11c",
+    "title": "Fire Keeper",
+    "section": "others",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Herald was rumored a Fire Keeper and that Yoel is male, this marks him as the only character very likely not to be a Fire Keeper yet still able to draw out the strength of an Undead. He claims to be able to do so because \"We pilgrims of Londor are keenly aware. That those branded by the Darksign possess something quite special\", indicating that perhaps others in Londor have the same ability.'}",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.49150679500832206,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2f36e5ac-61c1-52be-8846-cd2ae64e19c6",
+    "title": "Onislayer Greatarrow",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Onislayer Greatarrow -  Dark Souls III - item - availability \n availability : Sold by the Shrine Handmaid for 600 souls each, once she has been given the Easterner's Ashes.\n8 are found in the Profaned Capital, on the stone bridge patrolled by the Gargoyle that leads towards Yhorm the Giant's boss arena, above where the Onislayer Greatbow is found.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.9307082614656
+  },
+  {
+    "document_id": "31a0b2e8-f055-5253-b386-4df48d162144",
+    "title": "Greatshield of Glory (Dark Souls III)",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Greatshield of Glory (Dark Souls III) -  Dark Souls III - weapon - availability \n availability : Dropped by a Mimic in the Profaned Capital, in the treasury room to the right of Yhorm the Giant's boss arena.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 38.6308684094922
+  },
+  {
+    "document_id": "3363b903-cec4-59f0-83e5-072ebf7ae1f1",
+    "title": "Profaned Capital",
+    "section": "adjacent_locations",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Profaned Capital -  Dark Souls III - location - adjacent_locations \n adjacent_locations : Irithyll Dungeon",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5067652498257849,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3c709b62-e7de-5d98-88c9-d17d1881913a",
+    "title": "Profaned Capital",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Profaned Capital -  Dark Souls III - location - theories \n theories : It's possible that the Profaned Capital was part of the kindgom of Carthus, and that the city declared independence from said kingdom.\n** Yhorm is said to be the descendant of an ancient conqueror, and the only conqueror mentioned in the game is Wolnir.\n** Both countries apply the use of pyromancies.\n** Wolnir's use of the abyss and his following discovery of Dark Pyromancies may have prompt the Court Sorcerers to study the dark and the abyss, leading to the creation of the Profamed Flame.\nIt's possible that the one dear to Yhorm was his wife, and that Leonhard is their son. Leonhard is said to be a member of royalty, that was taught sorcery, and that was burned in his young age, and the Profaned Capital is a country of sorcerers burned by the profaned flame.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6408068891566336,
+    "bm25_score": 29.810683810244647
+  },
+  {
+    "document_id": "3d9fa8a8-bb67-50fa-8c39-a6f6497cad7e",
+    "title": "Archive Tower Giant Cell Key",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Archive Tower Giant Cell Key -  Dark Souls - item - general_information \n general_information : Opens the large cell at the bottom of The Duke's Archives prison tower, where Big Hat Logan will be if his plot is followed correctly. The room also holds a Firekeeper Soul on a corpse at the back of the room.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "408e4a4b-3602-5b4f-b76e-9904eade7aa6",
+    "title": "Yhorm the Giant",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Yhorm the Giant -  Dark Souls III - boss - description \n description : Yhorm is a hulking giant, comparable in size to the Iron Golem from *Dark Souls* or the Giant Lord from *Dark Souls II*.\n\nHe is armed with an enormous machete, his eyes glow red and his face appears skeletal. Similar to other Lords of Cinder, his body and armor is covered in several burning scars and cuts.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.579734179226887,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4175ebfd-b6c5-57de-9a36-353465371065",
+    "title": "Profaned Capital",
+    "section": "boss",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Profaned Capital -  Dark Souls III - location - boss \n boss : Yhorm the Giant",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6250158621185082,
+    "bm25_score": 31.47084000267091
+  },
+  {
+    "document_id": "4376b737-ec2f-5928-870d-0cce9f9bf902",
+    "title": "Giant Helm",
+    "section": "upgrades",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Giant Helm -  Dark Souls - armor - upgrades \n upgrades : Requires 200 souls per upgrade.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.49985534447676355,
+    "bm25_score": null
+  },
+  {
+    "document_id": "46fc7b09-cce7-534e-a0ab-df7f37656446",
+    "title": "Siegward of Catarina",
+    "section": "fulfilling_his_duty",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Siegward of Catarina -  Dark Souls III - character - fulfilling_his_duty \n fulfilling_his_duty : Siegward's last appearance will be at Yhorm the Giant's boss fight, where he will join the player with a Storm Ruler should he have been freed prior to entering Yhorm's boss arena for the first time. If he survives the encounter, he will give the player one final Siegbräu. Upon reloading the arena, his armor set, shield and Storm Ruler can be found within the arena. If the player has already defeated Yhorm before freeing Siegward from the cell in the Profaned Capital, the Storm Ruler will appear as a drop in the boss area, but the player will not receive his armor set nor shield or Siegbräu.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.404338181249976
+  },
+  {
+    "document_id": "47b2e40e-d15c-534a-ae72-a117259901b0",
+    "title": "Onislayer Greatbow",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Onislayer Greatbow -  Dark Souls III - weapon - availability \n availability : Found in the Profaned Capital. From the Profaned Capital bonfire, climb down the ladder towards Yhorm the Giant's arena, and head towards the bridge guarded by the Headless Gargoyle. Drop off the right side of the bridge, and it can be found on a corpse along with eight Onislayer Greatarrows.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 37.996861005427384
+  },
+  {
+    "document_id": "49d1cc61-3f18-51c1-841a-5041a79f0b31",
+    "title": "Giant (Dark Souls II)",
+    "section": "war_with_drangleic",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Battles waged endlessly between Vendrick's forces and the Giants, and much of Drangleic's citizens fled the kingdom to escape the conflict. Ultimately, the Giants were defeated by an unnamed hero. In the aftermath, much of Drangleic had been reduced to rubble, and visitors to the kingdom were rare. Many Giants were killed in the conflict, and their corpses eventually grew into large trees that sprawled across the once prosperous kingdom. The last known Giant to have survived the conflict was terribly wounded and kept prisoner in a cavern beneath the Forest of Fallen Giants. It was later discovered another two Giants survived the war, but remained hidden in a cavern in Black Gulch.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.4913833914314305,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4cd0cf98-dd80-501d-950f-0383a4ba3ee1",
+    "title": "Lords of Cinder",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Lords of Cinder -  Dark Souls III - character - dark_souls_iii \n dark_souls_iii : Soul of Cinder: A deific manifestation of the souls of all those who have linked themselves to the First Flame through history.\nYhorm the Giant: A giant humanoid, king of the Profaned Capital, who linked the First Flame in an attempt to save his city from the Profaned Flame.\nLudleth of Courland: A small pygmy from Courland and a student of the art of transposition: the process of extracting and coalescing the essence of souls to gain incredible powers.\nAbyss Watchers: A legion of Undead soldiers tasked with fighting the Abyss wherever it takes shape, united in their souls by the wolf blood of Artorias to link the First Flame and do their duty one last time.\nAldrich, Saint of the Deep: A cleric from Irithyll of the Boreal Valley who took pleasure in devouring humans, eating so much that his body became a sludge of darkness and was made to link the First Flame for his strength.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.48750439144508045,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4d321cfb-2e35-5085-9d13-a857ed1476ed",
+    "title": "Timeline",
+    "section": "profaned_capital_the_capital_of_sin",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "After Yhorm links the First Flame, the court sorcerers continue to experiment with the Profaned Flame\nThe court sorcerers create gargoyles as guardians and soldiers\nThe court sorcerers equip the gargoyles with staffs capable of using the Profaned Flame as a weapon\nIn a ritual, the Profaned Flame goes out of control and devours the city, but only burns the people\nOnly a family of sorcerers and their handmaidens survive\nThe Profaned Flame is however stored in the skulls of its victims and used by the survivors\nDue to the **Stagnation**, the ruins of the Profaned Capital are submerged underground, drifting all the way beneath the city of Irithyll\nThe First Flame starts to fade again but Prince Lothric, the designated Lord of Cinder, refuses to link the Flame\nYhorm, as one of the previous Lords of Cinder, is exhumed from his graves to use the embers of the Flame still within him as fuel for it",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5606500312649978,
+    "bm25_score": 27.400500918223972
+  },
+  {
+    "document_id": "50528443-2903-5314-b005-274d16bfc68f",
+    "title": "Profaned Capital",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Profaned Capital -  Dark Souls III - location - lead \n lead : The **Profaned Capital (罪の都, Tsumi no Miyako, Capital of Sin)** is a location in *Dark Souls III*. It is a subsection of the Irithyll Dungeon.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5241117733141523,
+    "bm25_score": 28.75582722503895
+  },
+  {
+    "document_id": "52a5c421-c234-56be-b971-fe409e2b07d2",
+    "title": "Catarina",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "At a certain point Catarina came into contact, on a conflict or diplomatic level, with the Profaned Capital, and Yhorm the Giant, the ruler of the city became a great friend of the knight Siegward. Before facing his fate as a Lord of Cinder and linking the First Flame, Yhorm made Siegward promise to kill him if he were ever exhumed from his grave, gifting him a weapon capable of killing him easily.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6452348497697031,
+    "bm25_score": 24.795711513832188
+  },
+  {
+    "document_id": "6330e20c-8278-5d84-bd52-6b31041516c4",
+    "title": "Profaned Capital",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Profaned Capital -  Dark Souls III - location - description \n description : The Profaned Capital is a highly decimated ruin that has somehow sunken into a great chasm, the only natural light pouring from a crack in the cavernous walls. Very little of what was once a proud civilization remains, making this area quite small. The state of the Capital is in such disarray that the only things remaining are a few bridges and tunnels, a vestige of a great tower, a church sunken in a swamp, and the throne room of Yhorm the Giant. The rest of what was once a prosperous realm has long since corroded away. An overlook of the Capital is viewable from Irithyll Dungeon.\n\nOne of two bonfires is within the central tower, its interior hollowed out, but its heights traversable thanks to numerous ladders up and down its interior and exterior. The source of the ladders is no mystery, as the corpse of Laddersmith Gilligan can be seen splayed out right by the bonfire, where the player can learn a gesture.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5997578756524459,
+    "bm25_score": 32.10787820878741
+  },
+  {
+    "document_id": "66e81f62-bf55-5402-9af5-e5db5939eb65",
+    "title": "Rusted Gold Coin",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Profaned Capital\n**Dropped by Jailer Handmaids throughout the level.\n**Two are dropped by a Mimic in the treasury hall to the right of Yhorm's boss arena.\nPainted World of Ariandel\n**Three are found on a separated rooftop within the Corvian Settlement, which requires climbing to the crosswalks to the cliff above the settlement and then dropping down to reach.\nThe Dreg Heap\n** Three are sold by the Stone-humped Hag directly in front of the Dreg Heap bonfire for 1800 souls each.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "67f7a314-5671-5e5f-bbf9-82ef2de54764",
+    "title": "Timeline",
+    "section": "profaned_capital_the_capital_of_sin",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Yhorm loses a dear friend in battle and stops fighting using his shield, starting to use his machete with two hands instead\nDespite his docility and blind dedication, the city's noble families continue to fear and doubt him\nYhorm gives the city's noble families a weapon capable of seriously wounding and killing him quickly to eliminate any doubts about his loyalty to the city and try to gain their trust\nNow that the Profaned Capital is safe from any external threat, the city's noble families begin to accumulate enormous wealth\nThe noble families of the Profaned Capital get hold of some of Big Hat Logan's ancient writings\nThe court nobles begin to study the writings and become sorcerers\nThe court nobles go from being priests to sorcerers, going as far as declaring themselves the heirs of Logan's legacy\nThe court nobles become sorcerers of incredible intelligence and even try to emulate Logan with copies of the staff he used.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.556852044861301,
+    "bm25_score": 24.149240631439422
+  },
+  {
+    "document_id": "69ce5075-e0d5-5e21-919d-0907bab897c1",
+    "title": "Profaned Greatsword",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Profaned Greatsword -  Dark Souls III - weapon - trivia \n trivia : The Profaned Greatsword removes maggot parasites from the various maggot-creatures around the Cathedral of the Deep, similarly to a torch. This effect only takes place while buffed with the Skill, however. It's unclear why this weapon has this ability while other fire weapons do not.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.4845005019421432,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6af570e9-c205-5144-967a-fd9517a503e3",
+    "title": "Soul of Yhorm the Giant",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Soul of Yhorm the Giant -  Dark Souls III - item - description \n description : Soul of Yhorm the Giant.\nOne of the twisted souls, steeped in strength.\n\nUse to acquire numerous souls, or transpose to extract its true strength.\n\nYhorm is the descendant of an ancient conqueror, but was asked by the very people once subjugated to lead them, serving as both a weighty blade and a stone-hard shield.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5484796585594537,
+    "bm25_score": null
+  },
+  {
+    "document_id": "742641ad-c15f-583a-b561-029b759a5432",
+    "title": "Profaned Flame",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Profaned Flame -  Dark Souls III - spell - description \n description : Pyromancy deriving from the Profaned Flame.\n\nEngulfs foes at range and burns them to ashes.\n\nThe Profaned Capital was consumed by fire after Yhorm the Giant became a Lord of Cinder. The fire, born of the sky, is said to have incinerated naught but human flesh.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5350822530056796,
+    "bm25_score": 27.972276861306423
+  },
+  {
+    "document_id": "76803ab5-636f-58d5-9690-7b5b2300b8c4",
+    "title": "Court Sorcerer's Staff",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Court Sorcerer's Staff -  Dark Souls III - weapon - availability \n availability : Dropped by a Mimic in the Profaned Capital, inside the second floor of the building within the Toxic swamp. It is guarded by a Monstrosity of Sin.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.066939371992422
+  },
+  {
+    "document_id": "7a69398b-a932-5fb1-bda5-02167f7773ce",
+    "title": "Giant (Dark Souls II)",
+    "section": "war_with_drangleic",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "While the Giants invasion was largely stopped, their souls remained powerful. King Vendrick's elder brother, Lord Aldia, kept Giants in his manor and performed experiments on them in an attempt to recreate a dragon. The outcome of Lord Aldia's experiments is unknown, but oddly when the Ancient Dragon roosting at the summit of Aldia's realm was slain, the soul of a Giant was found in its remains. Legend holds that the Giants' resentment of King Vendrick was possibly emboldened in death. This was proven true when the Bearer of the Curse fought the hollowed remains of Vendrick. With the souls of several Giants in the Bearer's possession, Vendrick was significantly weakened and subsequently defeated.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5055971172856343,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7a9625b7-a24d-5545-8468-349da48db6dc",
+    "title": "Large Soul of a Weary Warrior",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Irithyll Dungeon\n**On the path from the bottom floor cell block towards the Profaned Capital, one can be looted from a corpse prior to encountering a Gargoyle.\nAnor Londo\n**Past the two Silver Knights that patrol the stairs to the cathedral, to the left before the gate leading to the Giant Blacksmith is a corpse.\nProfaned Capital\n**On the path leading to Yhorm the Giant. Past the Gargoyle guarding the narrow bridge is a corpse outside the side building entrance.\nLothric Castle\n**Found on a corpse on the path to the Dragon Barracks. Before going up the stairs guarded by the two crossbow-wielding Hollow Soldiers, keep going down the left path. The corpse is near a parapet patrolled by a Large Hollow Soldier.\n**After reaching the lever that opens the castle gate, there is a corpse perched on a drop-down above an ultra greatsword wielding Lothric Knight.\nArchdragon Peak",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5084408015272757,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7b426a2c-3c43-57e6-bd13-d74bec9fb49c",
+    "title": "Logan's Scroll",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Logan's Scroll -  Dark Souls III - item - availability \n availability : Dropped by the Court Sorcerer Eamon in the Profaned Capital.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.141121672329458
+  },
+  {
+    "document_id": "7c01986a-05b8-517d-a0e9-dc2ae495f769",
+    "title": "Storm Ruler",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Storm Ruler -  Dark Souls III - weapon - availability \n availability : Found beside Yhorm the Giant's throne in the Profaned Capital.\nDropped by Siegward of Catarina.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 39.95463276528098
+  },
+  {
+    "document_id": "847985d1-dbce-5d8a-aecf-5d076830a1e1",
+    "title": "Yhorm the Giant",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Yhorm the Giant -  Dark Souls III - boss - lore \n lore : Long ago, Yhorm, as the descendant of an ancient conqueror, was asked to lead the people once subjugated, serving as both their blade and shield. When there were those who doubted him, he gave them a giant-slaying sword, to show his trustworthiness. He risked everything for his people in the frontlines, fighting valiantly as a one-man vanguard. It is stated that he lost someone dear to him and, as a result, he forsook his greatshield. Afterwards, he notched his machete to allow for two hand use, giving him an even more ferocious fighting style. At some point, \"lonely\" Yhorm befriended Siegward of Catarina, who became a dear friend of his.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.526254853107579,
+    "bm25_score": null
+  },
+  {
+    "document_id": "903d166f-4a20-5cb0-ad81-1ba29000f576",
+    "title": "Profaned Capital",
+    "section": "bonfires",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Profaned Capital -  Dark Souls III - location - bonfires \n bonfires : The Profaned Capital is a subsection of the Irithyll Dungeon and comprises the following bonfires:",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5184072176063322,
+    "bm25_score": 26.257097913861344
+  },
+  {
+    "document_id": "915b20c1-3ada-5aeb-a676-5093426e357b",
+    "title": "Archive Tower Giant Cell Key",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Archive Tower Giant Cell Key -  Dark Souls - item - lead \n lead : The **Archive Tower Giant Cell Key** is a key item in *Dark Souls*.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9370338f-6a34-584c-9dd6-cf723ebb778b",
+    "title": "Archive Tower Giant Cell Key",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Archive Tower Giant Cell Key -  Dark Souls - item - description \n description : Key to the giant cell below the Duke's Archives Tower. The giant cell once imprisoned countless maidens, but is now empty, save for a few key persons. They struggle to uphold their sanity, as the horde of \"mistakes\" writhe at a fearfully close proximity.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9659927b-f45e-5d3f-85c4-362198fe5c26",
+    "title": "Profaned Coal",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Profaned Coal -  Dark Souls III - item - availability \n availability : Found in the Irithyll Dungeon, in the lower cell block that precedes the route to the Profaned Capital. It is inside the cell containing several Wretches, just opposite of Karla's cell.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.952441359071514
+  },
+  {
+    "document_id": "971a88b4-c561-53a6-8cc3-596433467153",
+    "title": "Yhorm the Giant",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Yhorm the Giant -  Dark Souls III - boss - notes \n notes : Just charging the Storm Ruler's blade is not sufficient to deal damage to Yhorm. The player needs to actually unleash the weapon's skill on him (see this page for details).\nTrying to use the Storm Ruler's skill without fully charging it, which takes about five seconds, will result in a standard greatsword's stance attack.\n**These attacks deal no extra damage and do not bring Yhorm to his knees. Thus, one needs to be careful not to attack prematurely, as it may result in an untimely death.\nHas multiple targeting points:\n**Legs take heavily reduced damage;\n**Torso and arms takes normal damage;\n**Head takes extra damage;\nWith enough hits to the head, he can be staggered for several seconds. That allows to deal massive damage to Yhorm and perform a riposte dealing significant damage.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.48671766022928714,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9a68b029-7737-5fda-beba-179720f280b7",
+    "title": "Soul of Yhorm the Giant",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Soul of Yhorm the Giant -  Dark Souls III - item - usage \n usage : Consume to acquire 20,000 souls or transpose with Ludleth to create either Yhorm's Great Machete or Yhorm's Greatshield.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5262090821415684,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9bcf942f-cd95-5cc5-88ba-7e58744a5881",
+    "title": "Gargoyle",
+    "section": "locations",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Gargoyle -  Dark Souls III - enemy - locations \n locations : Profaned Capital\nThe first gargoyle attacks as the player crosses the bridge that connects the Irithyll Dungeon with the Profaned Capital.\nAnother one will spring into battle near the entrance of the building that leads to the toxic swamp.\nA third will also attack midway through a bridge, this time on the one that leads toward Yhorm's arena and that is being bombarded by fireballs from afar.\nTwo more will attempt to ambush the player along groups of Jailer Handmaids in the treasury, one on each wing of the building.\n\nGrand Archives\nSeveral are found along the rooftops after exiting the library section.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9efb033e-4fb7-54a6-a931-cb0002867541",
+    "title": "Giant (Dark Souls II)",
+    "section": "war_with_drangleic",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Seeking vengeance for the subjugation of his kingdom, the king of the Giants amassed an army in a vengeful counter-invasion of Drangleic. He also sought to reclaim the invaluable \"prize\" stolen from him. Unwilling to forgive the actions of Vendrick, the Giants crossed the sea and landed on the northern shores of Drangleic. They set siege to Drangleic Castle and relentlessly attacked various settlements, forts and keeps across the land for several generations.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.49263838527795467,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a034313e-48ac-5ac8-a551-12caaf4e9946",
+    "title": "Yhorm the Giant",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Yhorm the Giant -  Dark Souls III - boss - theories \n theories : It is possible to theorize that the \"great conqueror\" from whom Yhorm descends is High Lord Wolnir, as the only character in the lore of Dark Souls III addressed as a great conqueror. In addition, Yhorm's immense size could be explained by his descent from Wolnir, also a gigantic humanoid. Again, the Catacombs of Carthus and the Profaned Capital, despite the convergence of the lands towards Lothric, are both underground and close together, implying that Wolnir had also conquered the Profaned Capital and that when Wolnir was overwhelmed by the Abyss, only his son remained as potential heir who could reign over the conquered city.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5712793921076664,
+    "bm25_score": 28.86778086596193
+  },
+  {
+    "document_id": "a2d26d8b-33a3-5a4e-91d3-d1d1ad778bf4",
+    "title": "Soul of Yhorm the Giant",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Soul of Yhorm the Giant -  Dark Souls III - item - lead \n lead : The **Soul of Yhorm the Giant** is a boss soul in *Dark Souls III*.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5639863572741939,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a81a1516-b289-53e8-a2cc-411b6f122a3f",
+    "title": "Gods",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The members of the race of the gods and their priests were buried inside the Tomb of the Giants overseen by Gravelord Nito.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.49902656974549064,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a9144be3-1b6e-514a-b916-6eba39e0a506",
+    "title": "The Last Giant",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "The Last Giant -  Dark Souls II - boss - lore \n lore : The Last Giant is the Giant Lord who laid waste to Drangleic before his defeat by an unknown hero long ago. Beaten and broken, he was imprisoned beneath the stronghold where he remains to this present day. Once his arena is entered, he recognizes the player's character and charges for one last stand.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.48731846408786555,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a9424c2a-f498-5538-9546-d9ad8fade861",
+    "title": "Bonfire (Dark Souls III)",
+    "section": "irithyll_dungeon",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Bonfire (Dark Souls III) -  Dark Souls III - mechanic - irithyll_dungeon \n irithyll_dungeon : ***Irithyll Dungeon**\n\n***Profaned Capital**\n***Yhorm the Giant**",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5024769133593201,
+    "bm25_score": 28.654165580179026
+  },
+  {
+    "document_id": "ae0fca80-2d5c-5475-8e4d-9520e5e42b82",
+    "title": "Chancellor Wellager",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "However, the Giants would return with a vengance, and shortly after the king would vanish too. At some point after that, the chancellor would meet his end and linger on as a ghost, seemingly stuck in time and unable to move on, completely unaware of his current predicament.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.4817982798886221,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b0fafe47-71d7-5773-be6f-9dd092d11c74",
+    "title": "Gargoyle",
+    "section": "profaned_capital",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Gargoyle -  Dark Souls III - enemy - profaned_capital \n profaned_capital : Gargoyles encountered in the Profaned Capital are often positioned on bridges or rooftops, so the player should be mindful of their surroundings when engaging them in combat. They will disguise themselves as regular statues and will spring to life when in close proximity, although striking them with a ranged weapon will trigger them early. Their attacks inflict Fire damage and they can block attacks with their wings. If struck during this, they will retaliate with a shunt that can send the player flying.\n\nGargoyles will often take flight and attempt to strike the player from above before crashing down on top of them. By running underneath when they jump, it is possible to sprint past them.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.49386272611000254,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b100d3dd-9319-54e0-be8e-e9858d6e856e",
+    "title": "Soul of Yhorm the Giant",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Soul of Yhorm the Giant -  Dark Souls III - item - availability \n availability : Obtained upon defeating Yhorm the Giant in the Profaned Capital.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6011594516738505,
+    "bm25_score": 35.58427894300738
+  },
+  {
+    "document_id": "b2216246-11ba-5ba5-807c-939cf9b9e068",
+    "title": "Yhorm the Giant",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Yhorm the Giant -  Dark Souls III - boss - trivia \n trivia : Yhorm, normally spelled Jorm, is an Old Norse word meaning \"huge\". It appears in the name of the Norse world-serpent *Jormungandr*, literally \"huge monster\". The spelling Yhorm may help with pronunciation, as the letter J is usually pronounced in Old Norse as a Y.\nHis appearance seems unique to giants. For one he is the only living giant with facial features, consisting of two bright red eyes and an angular jawline. His proportions are very similar to human proportions, unlike most giants in the games, and he appears to be taller than the giants of Anor Londo.\nA player version of Yhorm's armor set exists in the game files, but it is not available to the player under normal circumstances.\nDespite being one of the easiest bosses to beat, Yhorm has the highest HP of any boss in *Dark Souls III* (including Darkeater Midir, Sister Friede, and The Demon Prince).",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.559637317561474,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b391da62-d59b-59b8-83bd-1896cf34370c",
+    "title": "Ashen One",
+    "section": "profaned_capital",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - profaned_capital \n profaned_capital : Descending through the dungeon of Irithyll brings the Ashen One to the Profaned Capital, home of the reclusive Yhorm the Giant, one of the missing lords. Fighting their way past the gargoyles and priestesses that guard the way to the giant, the Ashen One finds him atop his throne. The enormously strong and durable Yhorm initially seems insurmountable, but the Ashen One finds the magic blade Storm Ruler, a sword with the ability to fell giants, beside his throne. Using the power of the blade, the Ashen One is able to bring Yhorm to his knees and kill him, collecting his ashes.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6493760290441254,
+    "bm25_score": 30.715434815558318
+  },
+  {
+    "document_id": "b3fadf51-de42-5604-a58b-5acfd160afe2",
+    "title": "Profaned Capital",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Yhorm defended the kingdom from many threats, serving as the kingdom's heavy blade and solid shield, and at some point, Yhorm acquired two Storm Rulers, probably from the enemies he defeated. He gave one such sword to his subjects in an efford to win their trust.\n\nAs a result of a curse which bound a group of women which were four relatives of a priest (a court sorcerer), the everlasting Profaned Flame was triggered. Those involved in the curse went on living carelessly, although the curse turned the women into malformed creatures.. The sorcerers created Gargoyles that wield either spears, or hammers imbued with the Profaned Flame.\n\nAfter Yhorm became a Lord of Cinder in order to stop the Profaned Flame, the city was burned down by a fire said to be coming from the sky, which burned only humans.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5910443459586506,
+    "bm25_score": 24.139753815648483
+  },
+  {
+    "document_id": "b77cedc8-14bc-53d3-ae6d-2928bbae7700",
+    "title": "Cinders of a Lord",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Cinders of a Lord -  Dark Souls III - item - availability \n availability : There are four cinders to be obtained in the game, each belonging to a Lord of Cinder.\n#Obtained by defeating the Abyss Watchers in the Farron Keep.\n#Obtained by defeating Yhorm the Giant in the Profaned Capital.\n#Obtained by defeating Aldrich, Devourer of Gods in Anor Londo.\n#Obtained by defeating Lothric in the Grand Archives.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.038203521911953
+  },
+  {
+    "document_id": "be0942d6-e632-5e37-a0be-bb0cb48c8a05",
+    "title": "Timeline",
+    "section": "profaned_capital_the_capital_of_sin",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Yhorm, as one of the previous Lords of Cinder, is exhumed from his graves to use the embers of the Flame still within him as fuel for it\nYhorm refuses to contribute to the linking of the Flame once again and instead returns to the Profaned Capital\nYhorm remains on his throne inside the city's ruins to prevent further disastrous uses of the Profaned Flame",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5864744029168188,
+    "bm25_score": 30.865193220559348
+  },
+  {
+    "document_id": "bff1785e-b7c6-59af-9aef-a9d89b4b98db",
+    "title": "Jailer's Key Ring",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Jailer's Key Ring -  Dark Souls III - item - availability \n availability : Found in the upper levels of the Giant Slave's cell in the Irithyll Dungeon. To reach it, the player must head through the toxic swamp of the Profaned Capital, up the chapel, and through a passage with a hole on the wall overlooking the giant and guarded by two invisible Jailers. The key lies at the end of the hallway.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c3b8c3d0-2dad-5671-8224-051616aa91b4",
+    "title": "Unkindled",
+    "section": "unkindled_resurrected_to_supplant_lothric_younger_prince_prince_lothric",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Siegward of Catarina, who in his first life was a trusted friend of Yhorm the Giant. In his second life, Siegward is seemingly uninterested in linking the First Flame, but aims nonetheless to slay Yhorm, beholden to a promise between the two.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.49368937602859164,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c671a0d4-1937-5c78-816b-da01b8231b7e",
+    "title": "Yhorm's Greatshield",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Yhorm's Greatshield -  Dark Souls III - weapon - availability \n availability : Obtained by transposing the Soul of Yhorm the Giant with Ludleth of Courland.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.4886414487821597,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cec57d37-2cda-5cb2-bdc4-50dfc8532c72",
+    "title": "Llewellyn",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "It's unclear what became of the blacksmith after the fall of the kingdom, as he doesn't reside in Drangleic Castle anymore.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d1587942-5d32-596d-8e75-ceac91f43415",
+    "title": "Archive Tower Giant Cell Key",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Archive Tower Giant Cell Key -  Dark Souls - item - availability \n availability : In a chest in the room close to the exit from the Duke's Archives, leading to Crystal Cave.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dc335b1d-5e63-5e05-b642-023f9f5108ee",
+    "title": "Profaned Capital",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Profaned Capital -  Dark Souls III - location - lore \n lore : The Profaned Capital was ruled over by Yhorm the Giant, descendant of an ancient conqueror, who was nevertheless asked by the previously subjugated people to lead them. A sorcery school was established there, one of two leading schools claiming to be heir to the legacy of Big Hat Logan. The court sorcerers from the Profaned Capital also served as priests, as golden stitching of their robes suggest. Although they were undeniably intelligent and adept in their craft, it is possible that they did not follow Big Hat Logan as much as they claimed to. Despite the Citizens of the Profaned Capital called Yhorm \"King\", their hearts were not their voice, meaning they merely used him and didn't trust him.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7160103263145134,
+    "bm25_score": 30.571667089020213
+  },
+  {
+    "document_id": "dc6bb52b-2a9f-50fb-af5a-8891cee4744d",
+    "title": "Profaned Coal",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Profaned Coal -  Dark Souls III - item - description \n description : Coal used for weapon infusion.\n\nRemnants of the fire that burned down the Profaned Capital, preserved in an icy skull.\n\nGive to the blacksmith in the shrine to allow the use of gems for dark, blood, and hollow infusion.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.674918272436834
+  },
+  {
+    "document_id": "e3963f0c-c3af-5334-aaf2-9c68aa4d4856",
+    "title": "Court Sorcerer Eamon",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Court Sorcerer Eamon -  Dark Souls III - character - location \n location : Found in the Profaned Capital. Awaits on the roof of the ruined chapel in the toxic swamp.",
+    "sources": [
+      "human",
+      "template",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.39641848013789
+  },
+  {
+    "document_id": "e4dc37db-fc11-5a84-a674-423898b75bb4",
+    "title": "Seek Guidance (Dark Souls III)",
+    "section": "messages",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Seek Guidance (Dark Souls III) -  Dark Souls III - spell - messages \n messages : Firelink Shrine - Behind the Sword Master and near Yoel of Londor.\n:*\"To soothe the dark sigil, pillage the Fire Keeper's grave.\"*\nCatacombs of Carthus - Near the bridge.\n:*\"Even broken, it still has use.\"*\nGrand Archives - Several locations.\n:*\"Wear wax when nearing the tome.\"*\nGrand Archives - Near the Avelyn.\n:*\"Try jumping off.\"*\nAnor Londo - Near the invisible path that leads to Yorshka.\n:*\"Who treads across thin air?\"*\nProfaned Capital - In front of Yhorm the Giant's boss room and where the Storm Ruler is found.\n:*\"To vanquish the giant, bring the sword that rules the storms.\"*\nIrithyll Dungeon - In front of the meditating dragon torso and at the end of Archdragon Peak.\n:*\"The path to the archdragons lies through meditation.\"*\n:",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.773933417310115
+  },
+  {
+    "document_id": "e598a3e0-e522-58dc-8396-4fc738a1b0df",
+    "title": "Profaned Capital",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "** It can be assumed that the monstruosities were Eimon's handmaids, given that the Court Sorcerer is found in the same cathedral where some of the monstruosities are found.\nWhile it's true that the profaned flame burned humans in the city, it's possible that only burned the nobles and the court, as the only burned bodies we find in the city are found in Yhorm's throne room. Given that the only survivors of the Capital, excluding Eamon and the monstruosities, are the Handmaids, and that the Handmaids and the Jailers are shown to be sadists, it's plausible that the Handmaids went wild after the nobles died and Yhorm sacrifice himself, and that they killed any other inhabitant of the capital for fun and took over the city.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5103985431724936,
+    "bm25_score": 25.3586861995657
+  },
+  {
+    "document_id": "e6dc67fb-afa9-545c-be1a-85ad82a6ec06",
+    "title": "Azal, Sage of Forossa",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Azal, Sage of Forossa -  Dark Souls II - character - lore \n lore : Azal was an accomplished sage of Forossa, one of the Northwarders who earn their title after surviving a journey of great hardship. He was exceptionally skilled as he imbued his staff with magic, granting it unique powers. This made the tool unwieldy for the inexperienced, which proved the sage's magical prowess.\n\nWhat became of him is unknown, but his staff can be retrieved on a corpse in Eleum Loyce, a kingdom ruled by a Forossan champion. It's possible, then, that Azal died in the frozen city, perhaps while investigating what had happened to it.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.206671965482133
+  },
+  {
+    "document_id": "ec32ae7e-5d67-5eb9-a9eb-f3fd2cd074cf",
+    "title": "Yhorm the Giant",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Yhorm the Giant -  Dark Souls III - boss - location \n location : Found at the end of the Profaned Capital, in a large throne room located between two treasury rooms guarded by Jailer Handmaids, Mimics, and Gargoyles.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5905372530819373,
+    "bm25_score": 29.83306745621974
+  },
+  {
+    "document_id": "ed9789d5-bd69-557b-9f95-762162911b63",
+    "title": "Giants (Lore)",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "After the end of the great war, Lord Gwyn and his clan gained dominion over the world and began their Age of Fire, with the giants continuing to coexist with their civilization in a subordinate but close position. A number of giants became Sentinels guarding the walls and streets of Anor Londo, the city of the gods, employing giant halberds made of brass and retaining the power of lightning, giant shields of white iron, and heavy armor of finely decorated golden brass. An even more powerful group of giants defended the royal cathedral in the center of the city and were capable of performing restorative and offensive miracles.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.4952399784773038,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ef1a73fe-ca65-597f-b644-0c4981fd9337",
+    "title": "Cursebite Ring (Dark Souls III)",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Cursebite Ring (Dark Souls III) -  Dark Souls III - ring - availability \n availability : Found in the Profaned Capital.\n\nFrom the Profaned Capital bonfire, climb down the ladder and exit through a hole in the wall. The path eventually leads to a toxic swamp and the ruins of a chapel. Drop into the swamp and head inside a cavern inhabited by several Sewer Centipedes on the opposite side of the chapel. The ring can be found on a corpse within such cavern.",
+    "sources": [
+      "human",
+      "template",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.41028299507282
+  },
+  {
+    "document_id": "ef962659-0dc7-5f69-a63a-dcb63db65c9c",
+    "title": "Yhorm the Giant",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Due to a curse triggered by the four female relatives of an unknown oracle, which also turned them into careless greedy creatures, the Profaned Flame was unleashed, a flame that never goes out. Yhorm became a Lord of Cinder to put the Profaned Flame to rest, even as many spoke insincerely of his role. However, after he became a Lord of Cinder, the hellish flame fell out of the sky and destroyed the city, yet consuming naught but human flesh, incinerating the human inhabitants. The flame, despite deriving from Dark and the Abyss, actively sought to harm humanity.\n\nBefore linking the First Flame, he gave his other Storm Ruler to Siegward, who promised to end Yhorm's suffering if he ever returned to life.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5817289034393691,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f1395193-7c4c-55e9-95e5-2b76b0cd7891",
+    "title": "Pontiff Sulyvahn",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "One day, when Sulyvahn was still young, he unearthed the Profaned Capital underneath the outskirts of Irithyll; he also discovered in the ruins of the city the Profaned Flame. It was a \"cold\" flame, found preserved in icy remains; it was an unfading, everlasting flame, and one that held within it the Dark of humanity. Having obtained the sinful flame, an unquenchable ambition took root in Sulyvahn's heart, as the young man understood its potential as an element of immense political and religious power: The First Flame would eventually fade, while his Profaned Flame was everlasting.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.875826876252262
+  },
+  {
+    "document_id": "f1e9adbb-e2de-5256-8887-29adc9d02346",
+    "title": "Yhorm the Giant",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "It is possible to theorize that Yhorm refused to serve as fuel for the First Flame a second time due to the fact that, once awakened from his grave, he realized that his sacrifice had been futile. The sorcerers of the Profaned Capital had continued to experiment on the Profaned Flame he had tried to quell with his sacrifice and as a result the entire city was destroyed, making his life of service meaningless even after the end. The moment he rises from the grave, he can be seen already howling in despair. In addition, he may also have simply understood the state of the world, now corrupted beyond any possibility of traditional salvation through the linking of the Fire, and simply decided to await death in the ruins of his city.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5921291045302276,
+    "bm25_score": 23.957841260286145
+  },
+  {
+    "document_id": "f3556141-a223-521d-a413-ab93bef49dc1",
+    "title": "Giant's Kinship",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "shield",
+    "snippet": "Giant's Kinship -  Dark Souls II - shield - description \n description : Each king has his rightful throne. And when he sits upon it, he sees what he chooses to see.\n\nOr perhaps, it is the throne, which shows the king only what he wants.\n\nThe flames roar, but will soon begin to fade, and only a worthy heir might burnish their light. What is it, truly, a claimant of the throne could desire?",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.6309929198516
+  },
+  {
+    "document_id": "f435f524-43a6-510c-8a7d-460c70f07ea6",
+    "title": "Timeline",
+    "section": "profaned_capital_the_capital_of_sin",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Timeline -  Dark Souls III - storyline - profaned_capital_the_capital_of_sin \n profaned_capital_the_capital_of_sin : The Profaned Capital is build\nThe Profaned Capital is ruled by several noble families of priests\nThe Profaned Capital is conquered by Carthus\nYhorm, a giant humanoid, is the son of the conqueror Wolnir\nAfter the disappearance of Carthus, the Profaned Capital is left without a king and an army to defend it\nThe noble families of the Profaned Capital ask Yhorm to become their king and protect them\nYhorm accepts and becomes the \"in name\" king of the Profaned Capital, even if he knew that he was being used and that those who spoke of him as lord were quite insincere.\nYhorm, thanks to his immense strength, becomes the defender of the Profaned Capital, risking everything and fighting unflinchingly as a one-man vanguard against all the city's enemies\nYhorm loses a dear friend in battle and stops fighting using his shield, starting to use his machete with two hands instead",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.709207883353401,
+    "bm25_score": 37.931799222852376
+  },
+  {
+    "document_id": "f6858934-38cc-5ded-afd0-75318f4237b1",
+    "title": "Yhorm the Giant",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "It is possible to theorize that the event in which the Profaned Flame went out of control, destroying the Profaned Capital, was the result of a Court Sorcerers ritual gone awry. In fact, these sorcerers did not care about their creations even when they were as dangerous as the dark flame, continuing to live as if nothing had happened, driven by an unethical and unruly pursuit of knowledge. In addition, the only survivors of the destruction of the city are a noble court sorcerer and the handmaids, possibly in the noble's service, implying that someone had somehow managed to avoid being devoured by the flame. Furthermore, the detail of the Profaned Flame \"falling\" from the sky and devouring only human beings implies an unnatural event in which the flame was not in its previous controlled conditions but was activated toward human targets.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5373396341085681,
+    "bm25_score": 26.274481656543017
+  },
+  {
+    "document_id": "f9c04958-5cf3-567b-8d3b-d26fd2d19705",
+    "title": "Yhorm's Greatshield",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Yhorm's Greatshield -  Dark Souls III - weapon - characteristics \n characteristics : Yhorm's Greatshield is on the heavier end of greatshields, being in the same weight class as titans like the Moaning Shield and Stone Greatshield.\n\nTo back up its heavy weight, Yhorm's Greatshield provides strong all-round defenses and very high stability, allowing it to shrug off most attacks with minimal stamina damage and negligible chip elemental damage. What makes it unique among greatshields, however, is that it increases the player's Poise by 15% while wielded, a trait shared only by the Lothric Knight Long Spear. As such, it pairs well with large Hyper Armor weapons, allowing the wielder to more easily win trades against foes foolish enough to engage.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0296cf6a-519d-52d4-b9b6-d559b70eaec4",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "As the First Flame continued to fade and Prince Lothric refused to link it, the Lords of Cinder of the past were exhumed from their graves to once again be used as fuel. However, most Lords refused the call to action, with Aldrich denouncing his throne based on an epiphany: that an Age of Deep would soon be cast upon the world. The Cathedral had by then become a shrine to unspeakable horrors, to all repulsive rejects that sought a cure in its cleansing waters. Within the Cathedral—in McDonnell's sorceries, and their taboo miracles— Aldrich observed a stagnation that seemed inherent to the world, belike rotten remains which find their way down into a dark, deep seabed. Following these ruminations on the nature of existence, Aldrich concluded that an Age of Deep was what followed the waning Age of Fire. He understood that all things would stagnate into the Deep, including the representatives of the old world order; he also understood that he was in a position where he could help usher",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "13d3fe5f-2fe0-54b7-8b3b-bd34985b4708",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "In the soul of Aldrich, there is a distinct lighter portion inside the soul that is not present in other deep soul; it is probably what's left of Gwyndolin's soul.\nThe comic *Dark Souls: The Breath of Andolus* features a scryer named Aldrich as the deuteragonist, potentially as a reference to him, despite them not being the same character. Alternatively, it may have been Aldrich long in the past, given he begins to adopt Aldrich's characteristics, such as cannibalism. While he claims to have been forced into it, the scryer Aldrich is later revealed to be a two faced schemer.\nThe music played during his fight is a more sinister and macabre arrangement of Gwyndolin's theme from the first game, as he uses the body of the god to defend himself, there are also elements from Nito's theme that are played in the first phase as displayed by the sinister chants and piano notes that are also prevalent in Nito's theme.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "20a6ef07-fc06-5dd1-aced-d8760cfbdfb4",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Aldrich, Devourer of Gods -  Dark Souls III - boss - description \n description : Aldrich is an expansive sludge of maggot-ridden rotten flesh, humanity dregs, and his own bones as well as those of the victims he has consumed.\n\nBy the time the player reaches him, he will be inert and spread across the floor, using the weapons and malformed body of Gwyndolin to interact with his environment and perform attacks.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "22e275c5-5018-572d-9244-e7b299974fd5",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "He gathered an army of deacons, who cast off their red robes and crowns—symbolic of their clerical duties— for new dark-blue ones and swore fealty as Aldrich Faithful, their venerance of the Deep finally codified under Aldrich's banner. He then marched on Irithyll, home to the old gods of Anor Londo and the residence of Chief Deity Gwyndolin. Likely forcing his way through the city's magical barrier, he would confront the forces of Pontiff Sulyvahn, who had no intention of relinquishing his power and authority over the city. From the battle that ensued, Aldrich emerged victorious, slaughtering Sulyvahn's troops and forcing him into capitulation. Seemingly, the two eventually struck a deal: the Pontiff would maintain some control over lower Irithyll; in exchange, Aldrich would be granted access to Gwyndolin, who was imprisoned by the Pontiff within the old Cathedral of Anor Londo.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2c6b15c7-720a-5997-8b40-8cae7f668715",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "thus found themselves faced with the duty of sealing away the horrors that rose from the Deep with their faith and holy fire, to the point of needing grand stories to drive away the madness that was caused by the repulsiveness of the Deep.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "37a8c100-7a65-5ba4-869f-ef8130014213",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "At his new posting at the Cathedral, Aldrich was provided a steady flow of sustenance in the form of the Road of Sacrifices. The Cathedral would dispatch Evangelists to establish missions and gain influence at the Undead Settlement; these preachers would tell stories of enlightenment to the cursed Undead, who were shipped off en masse to become feed to Aldrich's gluttony. At some point, he would desire for others to share in the elation of devouring men; to this end he fashioned warped magic rings that allowed one to feel the same depraved sensations as the repulsive maneater. The bearers of these rings underwent a mutation similar to his, transforming into bestial creatures with stomachs filled with the remains of their meals and infused with the power of the Deep.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3a0e6d64-ef23-51e6-a3c0-809366e896b7",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Continuing to gorge himself on humans and devouring their very essence, Aldrich eventually attained an extraordinary amount of power, and with it the qualifications to become a Champion to link the First Flame. As the Flame waned, Aldrich was prepared to become a Lord of Cinder just for his strength, without any consideration for his morality or how he acquired his power. Now left to indulge in his every perversion so that he could one day link the Flame, Aldrich was even allowed to eat children, some of them his own. Aldrich, despite his unbridled hedonism, still decided to follow his ideals on the Age of Fire as a cleric and, when the time came, he sacrificed himself on the Flame to prolong its life.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "43dfc789-3f7f-5d58-aff1-48154c8f4158",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Aldrich, Devourer of Gods -  Dark Souls III - boss - theories \n theories : It is possible to theorize that the many children that Aldrich had when he was trapped inside the Cathedral of the Deep were the results of repeated violence on Rosaria, Mother of Rebirth. Rosaria's room is covered with cradles and Aldrich was already known for having had multiple children, of whom Anri and Horace are the only survivors. Additionally, Rosaria's soul has a broken and twisted appearance, and Ringfinger Leonhard talks about how his goddess's body has been violated.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4546941c-254e-55e2-b332-2218cb2e2238",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "fight_overview",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "When he rears up and aims his bow, he will launch an expanding wave of highly damaging arrows in front of him, allowing you to circle behind him and get hits in.\n\nThroughout the course of the battle, Aldrich will be constantly summoning small homing projectiles. Each one of these, on its own, only deals a small amount of damage and the player may even opt to sustain a few of them in exchange of inflicting some damage to the boss. However, if they are caught by the full attack, they will sustain heavy damage, which may even kill them in a single barrage.\n\nAldrich is most vulnerable on his tail, which provides an area where the player may attack without risking themselves too much from being in the staff's range.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "573ef1db-489e-5dcf-aa96-2f970a64ccd2",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Aldrich, Devourer of Gods -  Dark Souls III - boss - strategy \n strategy : At the beginning of the fight, charge at Aldrich to avoid his hard-hitting soul spear. Get behind him and focus your attacks on his tail. This leaves him with nothing to do but swing his two slow, devastating melee attacks or teleport across the room (usually, adjacent to where he teleported from).\n\nAt about 55%-60% health, he will teleport and come back up, buffed with fire. His arrows also go from going forward to following a specific player. If the arrows following the player catch up to them, then that player will most likely go down quick. Blue Bug and Red Bug Pellets are recommended for this fight.\n\nCasting the sorcery Twisted Wall of Light can negate Aldrich's ranged attacks, including his arrow barrage in the second phase, allowing one to wait out the attack by casting repeatedly.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5de4c92a-0ed9-5ba1-b9be-d172c9a4d722",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "However, although the monstrous man-eater had done his duty and was no longer active, the effect of his stay in the Cathedral had become profound. Aldrich, through devouring humans and their Dark Souls, had accumulated an immense amount of darkness that remained in his body to ferment and degenerate, becoming dark dregs, a darkness beyond any natural limit. The Cathedral's sacred and peaceful body of water that served for purification had consequently been infected, continuing to accumulate and stagnate filth to the point of becoming the \"Deep\", an abyssal sea of rotten darkness. This dark pool became a cradle of repulsive life, which began to spawn ravenous insects and maggots that infested the corpses buried around the church and brought them back to life. The deacons of the Cathedral thus found themselves faced with the duty of sealing away the horrors that rose from the Deep with their faith and holy fire, to the point of needing grand stories to drive away the madness that was",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "70467388-e2a4-5f9d-b6a6-52f83e8c0c4c",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Aldrich, Devourer of Gods -  Dark Souls III - boss - lead \n lead : , also known as , is a boss and one of the five Lords of Cinder encountered by the Ashen One in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "740bc956-eafd-509b-8a2a-9c5890cde510",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "With Pontiff Sulyvahn's rise to power in Irithyll, as well as his complete domination of the Way of White faith within the city, Aldrich's depraved habit became likely to draw unwanted attention to the Pontiff's new \"holy\" regime. In response, Pontiff Sulyvahn seems to have exiled Aldrich to the Cathedral of the Deep, which specialized in rituals of purification from \"stagnant darkness\", in hopes that the sacred and serene waters of the Cathedral would contain Aldrich's dark habit. The Pontiff also gave one of his small dolls to Aldrich, in the event that he recovered to a point where he could return home.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "74ce354f-96b5-5224-8d58-f1eb3703f14b",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "While the attacks of Gwyndolin were light blue energy that dealt magic damage in the first game, Aldrich uses variations of the same attacks with purple energy that dealt dark damage.\nInnumerable bones and large amounts of sludge can be seen on the floor of the arena, similar in appearance to Aldrich himself, and possibly being actually part of his body. If this is the case, then, Aldrich insists on attacks by exerting his will over the body of Gwyndolin, instead of simply devouring the player.\nThe sludge and bones remain after Aldrich dies, though they are inert, making him and Archdeacon Royce the only two bosses to leave behind physical remains.\nHis melee attacks, during his first phase, closely resemble those of Nito.\nAldrich's staff uses a Dark Miracle version of Nito's Gravelord Sword and in the deleted files Aldrich was able to do the Gravelord Sword Dance miracle.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "80416189-cd6b-5bd8-aeaf-0a0194b9102e",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "darkness of the Deep could become an incredible new power, and by studying it, he created sorceries that manipulated the dark soul dregs, then imparted them to Archdeacon Royce and his deacons. The faith of the Cathedral's deacons in the gods was thus severely corroded, and they began to worship the Deep and its powerful entity: Aldrich, the \"Saint of the Deep\".",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8cff7505-1479-5b4e-8324-4f1d1f8af1aa",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "With Pontiff Sulyvahn relinquishing Gwyndolin, the Saint of the Deep was triumphant, taking up residence in the old Cathedral and beginning to feast on the old god. He would fall into a deep slumber in the process of consuming Gwyndolin, during which he would dream and perceive the form of a young, pale girl in hiding. The Aldrich Faithful guarded the old Cathedral to ward off any intrusion on Aldrich's slumber, with the ancient Silver Knights unwittingly aiding the consumption of their former master.\n\nWhen the Ashen One seeking the Lords of Cinder arrives at Irithyll to slay Aldrich in their quest, he awakens to defend himself, puppeteering Gwyndolin's magic and body, as well as using a miracle developed from his dreams.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9086184e-19fb-57cd-9625-55865ae03a0c",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "artifacts",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Aldrich, Devourer of Gods -  Dark Souls III - boss - artifacts \n artifacts : Soul of Aldrich\nCinders of a Lord\nAldrich's Ruby\nAldrich's Sapphire\nLifehunt Scythe (Dark Souls III)",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a256119a-d32e-58ca-8fa6-319b2bc9fbb9",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Aldrich, Devourer of Gods -  Dark Souls III - boss - notes \n notes : Aldrich is susceptible to Vow of Silence, which will block most of his attacks.\nAs an Abyssal creature, Aldrich is weak to the Wolf Knight's Greatsword and Farron Greatsword.\nHitting Aldrich in different parts of the body affects how much damage is dealt.\n**Attacks on the sludge/tail deals normal damage.\n**Attacks on the body below the waist deals 50% more damage.\n**Attacks on the body above the waist deals double damage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a2929584-7150-5dcd-97ea-0620fd5e6c8f",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Aldrich, Devourer of Gods -  Dark Souls III - boss - lore \n lore : Aldrich was once a cleric of the Way of White originating from Irithyll of the Boreal Valley, implying that he may have been a descendant of the gods of Anor Londo. Despite his status as a man of faith serving the gods, he was actually a depraved cleric who took pleasure in devouring humans and indulging in their last screams. For the cleric, eating people became a routine, keeping it up so long that his own body bloated, becoming melted sludge.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a4be5f04-4061-5c64-91a9-6870d73f7afe",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "fight_overview",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Aldrich is most vulnerable on his tail, which provides an area where the player may attack without risking themselves too much from being in the staff's range.\n\nUpon receiving some damage, Aldrich will raise his staff and create a big vortex on the ground in front of him, plunging inside to escape from punishment. This vortex is heavily damaging and the player would be wise in not attacking the boss too many times in a row, preparing instead to move away when it is cast. Aldrich will emerge a moment later on the other side of the hall, as far away from the player as possible, trying to buy some time to cast more spells.\n\nOnce Aldrich has lost about 40% of his health, he will buff his scythe with fire. At this point, every time he emerges from the ground, he will deal damage to nearby players while a much greater amount of homing projectiles spawn with him as he rises.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a655e529-f817-5d33-b94c-55113b8bbc66",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Aldrich, Devourer of Gods -  Dark Souls III - boss - location \n location : Aldrich is found in Anor Londo in the same cathedral hall where Ornstein and Smough were fought in *Dark Souls.*",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "acc0a14f-86f6-5acb-9c54-11884d8ac8d3",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Aldrich's staff uses a Dark Miracle version of Nito's Gravelord Sword and in the deleted files Aldrich was able to do the Gravelord Sword Dance miracle.\nAs he is an amalgamation of corpses just like Nito and the Rotten, and his overall resemblance to Nito, it could be theorized that Aldrich is the new gravelord or that he found the soul of the old dead one, which allowed him to pursue his cannibalistic habits further.\nIn original his name writing like エルドリッチ which can be translated as Eldritch, that means “mystic, unnatural, frightening”, with an association with terror or horror that cannot be comprehended by the human mind. The whole theme of The Deep and Age of Deep Sea may be inspired by such horrors.\nIn the soul of Aldrich, there is a distinct lighter portion inside the soul that is not present in other deep soul; it is probably what's left of Gwyndolin's soul.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b46c8934-297a-55f2-8891-1428e711fe2e",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "fight_overview",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "He will also use a replica of the Lifehunt Scythe, starting a large windup before spinning twice in a full circle, and stealing health with each target that it connects to. This attack is telegraphed, and one can see the miracle generating on his staff, but it can often be confused for another standard swing.\n\nHis most devastating attack is, without a doubt, is taking out Gwyndolin's bow and shooting toward the sky, making an extensive barrage of arrows rain over the player and follow them for a considerable amount of time. He telegraphs this attack by suddenly stopping and erecting his upper body, while a white flash of light emanates from him. Being caught under the rain of arrows, practically means instant death. As soon as this attack is detected, the player is advised to completely disengage from battle and start running throughout the room with no specific direction.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c6b8cb6c-758c-5055-876c-cfccba4098b5",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Age of Fire. He understood that all things would stagnate into the Deep, including the representatives of the old world order; he also understood that he was in a position where he could help usher in the new Age. Thus he set out to devour the old gods himself, stagnating these obsolete forces into the Deep Sea.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e0160806-e9e8-58a4-8dc7-7f40c9ab7bd6",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "fight_overview",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Aldrich, Devourer of Gods -  Dark Souls III - boss - fight_overview \n fight_overview : The encounter begins with Aldrich standing on the far end of the room, imbuing his staff with magic and wielding it menacingly while he prepares for battle. He specializes in ranged combat, doing so by casting diverse dangerous magical spells. Conversely, his close combat abilities become heavily compromised due to his sluggish mobility and tendency to miss hits with his weapon. His substandard melee abilities should not be underestimated, however, because what he lacks in accuracy, he more than makes it up in damage-dealing potential.\n\nWhen he rears up and aims his bow, he will launch an expanding wave of highly damaging arrows in front of him, allowing you to circle behind him and get hits in.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ea4fee52-2857-551d-a94c-e6fd66527fc5",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Aldrich, Devourer of Gods -  Dark Souls III - boss - trivia \n trivia : Aldrich's throne in Firelink Shrine refers to him as \"Saint Aldrich of the Deep\".\nBefore eating Gwyndolin, Aldrich imposed on himself a practice of asceticism (苦行), that is, he refrained from eating humans before he could devour the god.\nDuring the fight, as well as when the boss is passive, shrieks and moans of pain can be heard coming from Gwyndolin. As Aldrich was half-way through consuming Gwyndolin and had used the God's body to defend himself, this disturbingly implies that Gwyndolin was still alive (albeit barely) and in a semi-conscious state of being continuously devoured by Aldrich, even during the fight.\nWhile the attacks of Gwyndolin were light blue energy that dealt magic damage in the first game, Aldrich uses variations of the same attacks with purple energy that dealt dark damage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f14d0fe4-5993-5c6f-8fb3-22b3b1c757eb",
+    "title": "Aldrich, Devourer of Gods",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "At one point, Sulyvahn sent McDonnell, an Archdeacon from Irithyll that was a sorcerer despite being a high-ranking cleric, to help the deacons of the Cathedral. McDonnell shared his sorceries with the priests of the Cathedral, who in turn became sorcerers, turning their holy candles into sorcery staves and blades, better equipped to face the abominations of the Deep. However McDonnell would soon find delight in the stagnant souls of the Deep, believing the place to be the \"bottom of the world\". Over time the deacons themselves, despite their faith and holy flame, began to succumb to the power of the Deep. They began to add dark stories about the Deep to the holy scriptures intended to grant them divine protection, corrupting these holy tales into profanity. McDonnell realized that the rotten darkness of the Deep could become an incredible new power, and by studying it, he created sorceries that manipulated the dark soul dregs, then imparted them to Archdeacon Royce and his deacons.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0126da40-493b-5451-9c84-21280603a225",
+    "title": "Ashen One",
+    "section": "undead_settlement",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The Ashen One may also rescue Cornyx of the Great Swamp, a master of pyromancy who will offer his teachings to the Ashen One. Upon finding the church in the center of the settlement, the Ashen One encounters Eygon of Carim, a disdainful knight of Carim. If the Ashen One purchases a key from the handmaiden, they may free Eygon's ward, a blind nun by the name of Irina, who will offer to tell the Ashen One stories of miracles. After freeing her, Eygon will offer an alliance to the Ashen One, for as long as Irina's safety is guaranteed.\n\nInside the church, the Ashen One encounters Siegward of Catarina, a Catarina knight who is perplexed by a lift that will only take him down, rather than up where he wishes to speak to the Giant. If the Ashen One solves the riddle of the lift, they may make peace with the Giant, who will offer his help.\n\nOnce through the settlement, the Ashen One makes it to the Road of Sacrifices, where offerings were once transported to Aldrich, Saint of the Deep.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "032d08da-7e92-57e4-9ec6-0870c4ad6926",
+    "title": "Ashen One",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - lead \n lead : The **Ashen One,** also referred to as the **Champion of Ash** or **the Unkindled One,** is the playable character and the protagonist of *Dark Souls III*.\n\nThe title of Ashen One is given to the player by the Fire Keeper of Firelink Shrine. The Ashen One is an Unkindled, an Undead who failed to link the First Flame and became ash, who has been raised from their grave, and is tasked with a journey to defeat four Lords of Cinder and return them to their thrones, since the link of the Flame is threatened and the Lords refuse to serve as its fuel once again.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "03a5142d-88b8-58b9-bdb4-8745d928cd68",
+    "title": "Ashen One",
+    "section": "irithyll_and_anor_londo_dark_souls_iii_anor_londo",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - irithyll_and_anor_londo_dark_souls_iii_anor_londo \n irithyll_and_anor_londo_dark_souls_iii_anor_londo : On the surface, the Ashen One fights their way to the grand church in Irithyll where they find Pontiff Sulyvahn. Killing Sulyvahn opens the way to Anor Londo, fabled city of the gods, where Aldrich awaits. Aldrich, having lost interest in the flame and having instead turned towards the Dark, sought out Anor Londo to devour the gods themselves. He found and devoured Dark Sun Gwyndolin in Anor Londo, who had been \"stricken by illness\" and had retreated to the Anor Londo Cathedral, only to be imprisoned by the Pontiff to be fed to Aldrich. Fighting their way past the archers protecting the city, the Ashen One finds Aldrich using Gwyndolin as a puppet of sorts, and kills him, acquiring his ashes to be delivered to his throne.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "03bef784-bfda-5690-8f5f-170905ad4f7a",
+    "title": "Ashen One",
+    "section": "farron_keep",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - farron_keep \n farron_keep : Returning to the Crucifixion Woods and progressing towards Farron Keep, the Ashen One finds a massive swamp, the corrupted remnants of the once-vibrant Royal Wood. In order to make their way to the Abyss Watchers, the Ashen One must extinguish three flames, per the ceremony of admission into the Undead Legion. After doing so, the path to the Keep opens, allowing the Ashen One to face the Abyss Watchers.\n\nThe Abyss Watchers, reduced to fighting amongst themselves, are defeated by the Ashen One, who claims their ashes in order to restore them to their throne in Firelink Shrine. Killing the Watchers opens the way to the Catacombs of Carthus, an underground tomb filled with skeletal warriors.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "07625880-3446-5bb1-8183-abc2e9337d12",
+    "title": "Ashen One",
+    "section": "the_ringed_city",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Within the city, the Ashen One may encounter Shira, Knight of Filianore, who asks the Ashen One to put down Midir, a mighty dragon who once served the Gods, but who has now been consumed by the Dark. Fighting their way through the city, the Ashen One finds Midir and sends him hurtling down a chasm. Chasing Midir to his lair, the Ashen One may fulfill Shira's request and fight him to the death. In the Church of Filianore, the Ashen One finds Judicator Argo who bars the way to Filianore. He will summon Halflight, Spear of the Church to fight the Ashen One.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "08f39ba6-37fc-594b-a1ea-4e40c6cd2cf4",
+    "title": "Ashen One",
+    "section": "firelink_shrine_dark_souls_iii_firelink_shrine",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "firelink_shrine_dark_souls_iii_firelink_shrine : Inside the shrine, they encounter the Fire Keeper, who tells the Ashen One that the Lords of Cinder—Aldrich, Devourer of Gods, Yhorm the Giant, the Abyss Watchers, and Lothric, Younger Prince—have abandoned their thrones, and charges them with bringing the lords back. The Fire Keeper offers to channel souls in order to increase the Ashen One's strength. Also in the shrine are Blacksmith Andre, a smith from the Age of Gods; the Shrine Handmaid, who offers an expanding store of goods in exchange for souls; Hawkwood the Deserter, a crestfallen warrior; Ludleth of Courland, the last remaining Lord of Cinder who offers the Ashen One advice and the art of soul transposition (provided the Ashen One can provide him with a Transposing Kiln); and Nestling, a bird who offers to trade items. The shrine is populated by more character as the game progresses: Ringfinger Leonhard, a servant of the goddess Rosaria, who urges the Ashen One to invade the",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "11b0dd48-4b91-513e-8bef-060890173ea4",
+    "title": "Ashen One",
+    "section": "epilogue",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - epilogue \n epilogue : ***Link the Fire**: In this ending, the Ashen One attempts to do as all the other lords had done before them and link the fire. The Ashen One stretches out a hand and begins to burn, but unlike in the past, the fire is not rekindled. Instead, the Ashen One merely sits beside the flame, unable to prolong its life, as the sun remains a Darksign.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "12f1e645-2e19-5a80-8fee-bfb189b4de4f",
+    "title": "Ashen One",
+    "section": "origin",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - origin \n origin : The background of the Ashen One can be selected, depending of which \"Face Preset\" they choose:",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1d6fa9ce-78cb-51e9-b8a5-9c28436e2f3e",
+    "title": "Ashen One",
+    "section": "the_painted_world_of_ariandel",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "If the Ashen One chooses to ignore Friede and explores the Painted World, they may fight the Champion's Gravetender and Gravetender Greatwolf, which allows the Ashen One to participate in the Undead Match. Deeper inside the painting, the Ashen One finds the Painter, Slave Knight Gael's aforementioned Lady, who has been imprisoned by Friede and Vilhelm in order to prevent her from painting the next world. If the Ashen One opens the way to the inner sanctum hiding Father Ariandel, Friede will confront them and fight to preserve the painting. After a long battle, the Ashen One defeats Friede and Ariandel, prompting the Painted World to begin burning and dooming it to destruction.\n\nThe Painter informs the Ashen One that she has sent Gael to find the Dark Soul, which she will use for her next painting.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3041f86f-f6a6-5b25-b9f6-f5704d6081e9",
+    "title": "Ashen One",
+    "section": "lothric_castle_and_the_consumed_king_s_garden",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "After killing Oceiros, the Ashen One acquires the means to access two more optional areas. One is a gesture that will allow passage to Archdragon Peak, and the other is a secret path to the Untended Graves, a dark version of Firelink Shrine. Here the Ashen One finds Champion Gundyr, and behind him an abandoned Firelink Shrine home only to a Shrine Handmaiden. Here the Ashen One can find the Eyes of a Fire Keeper which if presented to the Firekeeper will allow her to see a dark vision of the future that the Ashen One may choose to fulfill.\n\nIn Archdragon Peak, the Ashen One can face the Ancient Wyvern and The Nameless King, once known as Lord Gwyn's Firstborn, the old God of War who aligned himself with the Ancient Dragons.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "31c77ae1-9a4b-5711-a7fa-84ddee11fada",
+    "title": "Ashen One",
+    "section": "the_ringed_city",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "After defeating Halflight, the path to Filianore is open. Filianore lies sleeping while clutching a broken egg-like object. If the Ashen One touches the object, it will shatter into pieces and Filianore will wake, upon which a blinding light emanates from the shards of the object and envelopes the chamber. The Ashen One opens their eyes to find that the Ringed City is now a lifeless desert, and Filianore an emaciated corpse. Leaving her room, the Ashen One comes upon a fleeing Pygmy. Investigating the scene closer, they find Gael consuming the remains of a Pygmy Lord in order to gain their Dark Soul. He proceeds to attack the Ashen One in order to gain their piece of the Dark Soul.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "461018f1-47d2-560e-afe8-37357a8ba2a6",
+    "title": "Ashen One",
+    "section": "cemetery_of_ash",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - cemetery_of_ash \n cemetery_of_ash : At some point in time, the Ashen One attempted to link the fire. They were not powerful enough and were instead burnt to ash by the flames. Some time later, the Ashen One was awakened by the toll of the bells in the Cemetery of Ash, signifying that the link of fire was threatened. The Ashen One emerges from their grave and sets out to leave their tomb. Finding the Coiled Sword lodged inside Iudex Gundyr, the Ashen One pulls it out, awakening Gundyr and beginning a fight. Halfway through, Gundyr is seemingly consumed by the Pus of Man, but the Ashen One defeats him and finds Firelink Shrine.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4b29c405-417c-53c3-ac7f-8fca889453b9",
+    "title": "Ashen One",
+    "section": "firelink_shrine_dark_souls_iii_firelink_shrine",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The Ashen One places the Coiled Sword in the center of the shrine, creating a bonfire, and proceeds to travel to the High Wall of Lothric.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "549eb374-0336-53f0-adac-df181eceb74f",
+    "title": "Ashen One",
+    "section": "catacombs_of_carthus",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - catacombs_of_carthus \n catacombs_of_carthus : Progressing through the trap-ridden Catacombs, the Ashen One eventually finds a rickety drawbridge that will lead them to Irithyll of the Boreal Valley. Should the Ashen One choose to descend the fallen drawbridge, they may find the Smouldering Lake, ruled by the Old Demon King and home to various demons and a great slithering worm.\n\nAcross the bridge, the Ashen One finds a strange goblet that pulls them into the Abyss. Here they encounter High Lord Wolnir, who attacks the Ashen One. By destroying his enchanted bracelets, Wolnir loses his grip and falls into the Abyss, allowing the Ashen One to return to the regular world, where the path to Irithyll, a frozen city guarded by an impenetrable barrier and ruled by Pontiff Sulyvahn in the name of Aldrich, is now open.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "57cff77e-fe48-5c99-a51b-895f373fa0ab",
+    "title": "Ashen One",
+    "section": "cathedral_of_the_deep",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Deep within the Cathedral, the Ashen One encounters the Deacons of the Deep guarding Aldrich's tomb. After defeating them, the Ashen One finds that Aldrich has left the cathedral, finding instead a doll that will allow the Ashen One to enter Irithyll of the Boreal Valley.\n\nAfter returning to Firelink Shrine, the Ashen One again encounters Anri and Horace, who tell the Ashen One that Aldrich supposedly hails from Irithyll and that he may have returned home. They will also find Sirris of the Sunless Realms, who shows little interest in the Ashen One, unless they provide the Handmaiden with a certain ash, prompting Sirris to offer the Ashen One her sign.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5b9dea47-7668-5e2e-9b33-c818ef91f166",
+    "title": "Ashen One",
+    "section": "origin",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Commoner: The oh-so plain face of a commoner. Everyone has imperfections, but a commoner without flaws is a rare creature indeed.\nNorthern Warrior: The face of a warrior, as if hewn from rock. It's been long whispered in jest northerners are born weathered and old.\nAstora Noble: The features of a true blue blood. Blue of eye and fair of hair, a little reminder of Astora's former glory.\nDragon Academy Student: Intelligent face with fine lines, often ribbed for looking like a prentice.\nCarim Novice: The face of a cheerless cleric of Carim. \"Novice\" is used as something of a derogatory term for men of the cloth.\nCatarina Merrymaker: The large eyes and mouth give this face a look of jubilation. From Catarina, known for its zest for life and love of drink.\nSerpentine Traveler: An uncommon face defined by its narrow eyes and thin lips. Some praise it as the visage of a true dragon.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6119fd9b-ca8b-5432-a04e-aaa6c81389bb",
+    "title": "Ashen One",
+    "section": "the_ringed_city",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The Ashen One defeats Gael, and gains the Blood of the Dark Soul. They may then return this to the Painter, who states that she will use the Blood of the Dark Soul to paint a new Painted World. She offers to name it after the Ashen One, and if the Ashen One gives no name, she states that she will name it the Painted World of Ash.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "69657be0-b4f7-5c6e-8cf9-dccd99758653",
+    "title": "Ashen One",
+    "section": "farron_keep",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "At this point in the game, Yoel of Londor will die. If the Ashen One has allowed him to draw out their true strength a sufficient number of times, Yoel will be replaced by Yuria of Londor, who attempts to sway the Ashen One into usurping the First Flame and becoming the Lord of Hollows.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6cee28ea-0ae3-5a7f-b0e2-8c9b44130705",
+    "title": "Ashen One",
+    "section": "soul_of_cinder",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - soul_of_cinder \n soul_of_cinder : After returning to the shrine, the Ashen One places the ashes of the Lords on their thrones, and the Firekeeper channels their strength to the Ashen One. The Firekeeper bids the Ashen One travel to the First Flame. Accepting the strength of the Lords, the Ashen One is transported to a copy of the Firelink shrine, standing amid the wreckage of kingdoms. From there, the Ashen One proceeds to the Kiln of the First Flame.\n\nThere they encounter the Soul of Cinder, a manifestation of the Lords that had previously linked the flame. The Soul of Cinder takes on many forms and fighting styles, mimicking those who had linked the flame. Once the Ashen One weakens it, the Soul of Cinder assumes the style of Gwyn, Lord of Cinder, first one to link the flame. After defeating the Soul of Cinder, the Ashen One is presented with four options depending on the choices they made.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "79e35663-be0a-54b3-9215-59058ef55f69",
+    "title": "Ashen One",
+    "section": "epilogue",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "***Ash Seeketh Embers**: If the Ashen One gave the Eyes of a Fire Keeper to the Fire Keeper, they may summon her upon defeating the Soul of Cinder. The Fire Keeper will take the First Flame into her hands. Before the flames fade, the Ashen One may strike her down. The Ashen One steps over the limp body of the Fire Keeper and takes the First Flame into their own hands. Kneeling, the Ashen One raises the flame, offering it to the Darksign Sun.\n***The Usurpation of Fire**: If the Ashen One allowed Yoel to draw out their true strength a sufficient amount of times through the Dark Sigil, followed Yuria's instructions and \"married\" Anri, the Ashen One may, instead of linking the fire, absorb it into themselves. The Ashen One collapses from the strain and awakens before a Darksign Sun turned white, and also finds Yuria, Anri, and an army of hollows greeting them as their Lord and praying for the Ashen One to make Londor whole.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "79eedab3-81cf-5881-b92a-553d8a71b731",
+    "title": "Ashen One",
+    "section": "road_of_sacrifices_and_crucifixion_woods",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - road_of_sacrifices_and_crucifixion_woods \n road_of_sacrifices_and_crucifixion_woods : Following the road leads the Ashen One to the Crucifixion Woods, where they encounter Anri of Astora and their companion Horace the Hushed. Anri seeks Aldrich, and thinks to find him in the Cathedral of the Deep. They offer their help to the Ashen One, should the Ashen One need it. Here the Ashen One may also find Orbeck of Vinheim, a sorcerer who will offer to share his knowledge if the Ashen One brings him magic scrolls.\n\nMaking their way through the Crucifixion Woods leads the Ashen One to a crossroads. One path leads to Farron Keep, home of the Abyss Watchers, whereas the other one, guarded by one of the Crystal Sages, leads to the Cathedral of the Deep, home of Aldrich.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "98824d1e-5832-5197-b07a-1c20bbe80bcb",
+    "title": "Ashen One",
+    "section": "the_painted_world_of_ariandel",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - the_painted_world_of_ariandel \n the_painted_world_of_ariandel : Within the Cathedral of the Deep the Ashen One can encounter Slave Knight Gael, a Slave Knight who seeks unkindled ash to aid his Lady. Gael presents the Ashen One with a fragment of the Painted World of Ariandel, which sucks the Ashen One in. Within the painting, the Ashen One encounters Sister Friede and her loyal knight Sir Vilhelm. Friede is an advisor to Ariandel, the painting's creator, and convinced him to allow the painting to rot rather than allow it to be destroyed and replaced by a new one, despite the wishes of many of the painting's denizens. Friede bids the Ashen One to leave, telling them that they do not belong in the Painted World.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9af63879-18f9-53a5-9312-02889d55a16e",
+    "title": "Ashen One",
+    "section": "undead_settlement",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - undead_settlement \n undead_settlement : Arriving in the Undead Settlement, the Ashen One finds Yoel of Londor praying for death at a ledge. Upon encountering the Ashen One, Yoel offers his services, providing rudimentary sorceries and offering to draw out the Ashen One's \"true strength\", not telling them that doing so will burden the Ashen One with the Dark Sigil which will make them hollow upon death.\n\nInside the Settlement, the Ashen One is accosted by the inhabitants of the town and pelted with massive arrows by a Giant atop a tower. After fighting and killing the Curse-rotted Greatwood, the Ashen One will find a Transposing Kiln that will allow Ludleth to provide great spells and weapons from the souls of powerful creatures.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a200d7d9-037e-5c8f-8021-100e799a73dc",
+    "title": "Ashen One",
+    "section": "grand_archives_and_prince_lothric",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - grand_archives_and_prince_lothric \n grand_archives_and_prince_lothric : Progressing through Lothric Castle will bring the Ashen One face to face with a Dragonslayer Armour controlled by a Pilgrim Butterfly. Defeating the armour opens the way to the Grand Archives, home to ancient knowledge.\n\nThe Ashen One fights their way through the Archives, and find themselves close to the location of Prince Lothric, who hides at the very top of the castle. Lothric has no intention of returning as a Lord of Cinder however, preferring to watch the world end from afar with his brother Lorian. The brothers attack the Ashen One, who slays them both, and claims Lothric's ashes.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a99661d4-58cb-5f36-bc0c-f06d5f3687cc",
+    "title": "Ashen One",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - trivia \n trivia : The Ashen One, as depicted in promotional material, is a Knight.\nThe Ashen One is often referred to as the 'Champion of Ash' or the 'Unkindled One' by other characters.\nA knight in the cover is named as 'Red Knight' in the Funko Pop! line.\n**There’s a misconception about the Soul of Cinder armor and the Red Knight armor: They are essentially the same Firelink set, the only difference being that the Red Knight (Ashen One) version has a tabard, while the Soul of Cinder version does not.\n**The Red Knight armor is a variant of the Firelink set, distinguished by its tabard bearing a coat of arms reminiscent of the Lothric Knights.\nIn the Pre-Alpha *Dark Souls III*, the Ashen One is shown to use a cut-content weapon called the Legion Scimitars. Its dual combat art Spin Slash was ultimately given to the Sellsword Twinblades, while its design was relegated to a curved sword named Scimitar.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "aad5173a-06a3-576e-be8d-0409e26ba04e",
+    "title": "Ashen One",
+    "section": "origin",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Serpentine Traveler: An uncommon face defined by its narrow eyes and thin lips. Some praise it as the visage of a true dragon.\nGreat Swamp Outcast: A uniquely deformed face. Or perhaps merely ugly. Prejudice births malcontents, and malcontents swarm to the Great Swamp.\nLondor Shadow of Death: A lifeless face, almost that of a hollow. Londor is a realm of those hollow and old.\nIrithyllian: The features of the old gods, as if from legend. They say children born like this are fated to be taken to the Boreal Valley.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bc71f628-0c2e-5ab8-99a0-78ad5942f996",
+    "title": "Ashen One",
+    "section": "firelink_shrine_dark_souls_iii_firelink_shrine",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "a bird who offers to trade items. The shrine is populated by more character as the game progresses: Ringfinger Leonhard, a servant of the goddess Rosaria, who urges the Ashen One to invade the worlds of others to take their embers; Sirris of the Sunless Realms, on a quest to hunt down members of Rosaria's Fingers; and Yuria of Londor, a founder of the Sable Church, who urges the Ashen One to usurp the first flame.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bdd4b552-749b-5ea2-b69f-1acb338842d1",
+    "title": "Ashen One",
+    "section": "the_ringed_city",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - the_ringed_city \n the_ringed_city : If the Ashen One follows Gael, they will find themselves in the Dreg Heap, an amalgamation of collapsed kingdoms and civilizations at the end of time. Within the Dreg Heap they may encounter Lapp, a hollow who seeks the Purging Monument in order to remember his past life. Fighting their way past the Dreg Heap they find two demons, the Demon in Pain & the Demon Below. Following the fall of the last of the two, its corpse is enkindled by the Chaos Flame and reawakened as the Demon Prince. Defeating the Demon Prince allows the Ashen One to travel to the Ringed City, the first city of Man, inhabited by the Pygmies. Gwyn, the first Lord of Cinder, had gifted the city to humanity after the end of the Age of Ancients, along with his daughter Filianore.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c8c3fdc7-89b5-5434-bc17-56911ed193a8",
+    "title": "Ashen One",
+    "section": "irithyll_of_the_boreal_valley",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - irithyll_of_the_boreal_valley \n irithyll_of_the_boreal_valley : The Ashen One is able to penetrate the barrier to Irithyll with the magic doll they found in the Cathedral of the Deep. Progressing through the frozen city, the Ashen One will again come to a crossroads. They may either descend through the dungeons of Irithyll to find the Profaned Capital, or progress further into the city, finding the ancient city of the gods, Anor Londo.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c9dd78a4-14ad-5029-bdc8-7af4f9e05e4a",
+    "title": "Ashen One",
+    "section": "cathedral_of_the_deep",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - cathedral_of_the_deep \n cathedral_of_the_deep : After defeating the Crystal Sage, the Ashen One follows the road to the Cathedral of the Deep. Once there, the Ashen One may encounter a \"knight of Catarina\" who will attempt to lure them onto a narrow path with the promises of treasure. Should the Ashen One fail to see through his ruse, the \"knight\" will lower them below where a giant awaits before revealing himself to be Unbreakable Patches, a thief and con-artist. If confronted later, Patches will attempt to feign innocence, but if the Ashen One presses him on the matter, he will admit his wrongdoings and offer a gift in recompense, as well as selling the Ashen One his goods.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ce8b32be-5c5b-50c6-9362-a117742b2b85",
+    "title": "Ashen One",
+    "section": "epilogue",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "***The End of Fire**: If the Ashen One gave the Eyes of a Fire Keeper to the Fire Keeper, they may summon her upon defeating the Soul of Cinder. The Fire Keeper will take the First Flame into her hands. She states that the fire quickly fades and that dark will soon settle, but predicts that one day, tiny flames will dance across the darkness, like embers linked by lords past, suggesting that the other Lords of Cinder of the past will one day rise and wander through the darkness with their own fragments of the First Flame. As the absolute darkness settles upon the world, the Fire Keeper asks if the Ashen One can still hear her.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ced26daf-fda3-533f-b858-fb22241ea7ff",
+    "title": "Ashen One",
+    "section": "returning_to_the_high_wall",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - returning_to_the_high_wall \n returning_to_the_high_wall : After slaying the penultimate Lord of Cinder, the Ashen One is transported back to Emma, High Priestess of Lothric Castle in the High Wall of Lothric. A dying Emma begs the Ashen One to find Prince Lothric and tell him that he must be a Lord of Cinder, giving the Ashen One the Basin of Vows that will allow them access into Lothric Castle.\n\nBefore the Ashen One can place the basin, they are ambushed by the Dancer of the Boreal Valley, who attacks them. After killing the Dancer, the Ashen One can place the basin and gain access to the castle.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dccbd8c2-c77e-58ef-a84e-bc4a98181992",
+    "title": "Ashen One",
+    "section": "lothric_castle_and_the_consumed_king_s_garden",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - lothric_castle_and_the_consumed_king_s_garden \n lothric_castle_and_the_consumed_king_s_garden : The Castle, home to various knights and soldiers of Lothric along with fire-breathing wyverns, holds the final Lord of Cinder. By now, the very sun itself resembles a Darksign, and Pilgrim Butterflies are seen flying towards the castle. Fighting their way through the castle, the Ashen One may choose to make a detour to the Consumed King's Garden, home to the king of Lothric, Oceiros. The king, having gone mad long ago and deformed himself into a dragon-like being, ferociously attacks the Ashen One.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e4a56903-fd7c-5044-ba18-a888efe96ce5",
+    "title": "Ashen One",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "**Legion Scimitars / dual curved sword Scimitar had appeared as part of the Red Knight Statue Collectors Edition.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e980d415-f46c-5993-90b8-860cdb81fb93",
+    "title": "Ashen One",
+    "section": "firelink_shrine_dark_souls_iii_firelink_shrine",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - firelink_shrine_dark_souls_iii_firelink_shrine",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f50fe936-9256-54dd-bc78-85fbda9160e2",
+    "title": "Ashen One",
+    "section": "high_wall_of_lothric",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - high_wall_of_lothric \n high_wall_of_lothric : The Ashen One then progresses through the High Wall of Lothric, now home to mindless hollow soldiers, knights, and a fire-breathing wyvern. Fighting their way to a church, they encounter Emma, the high priestess of Lothric Castle. Emma provides them with a banner that will allow them safe passage to the Undead Settlement, but warns them that their path is guarded by Vordt of the Boreal Valley. Emma also gives the opportunity to join the Way of Blue covenant. Also in the High Wall is Greirat of the Undead Settlement, a thief that will swear himself to the Ashen One if they rescue him from his cell and promises to look for a woman named Loretta in the Undead Settlement.\n\nAfter finding and defeating Vordt, the Ashen One raises the banner on a ledge, and is transported by Batwing Demons to the Undead Settlement, a dilapidated town inhabited by hollows.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "18ab76c3-196e-5563-85fb-ac7ccd4deb0e",
+    "title": "Court Sorcerer Eamon",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Fortunately, he is not very resilient and is staggered easily, which allows the player to deal many consecutive hits.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5de08e79-f70c-56d5-b99b-27b83a5dc34c",
+    "title": "Court Sorcerer Eamon",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Court Sorcerer Eamon -  Dark Souls III - character - strategy \n strategy : Court Sorcerer Eamon is a very aggressive opponent. He awaits on the roof of the ruined chapel in the Profaned Capital. Due to the area's layout, he will most likely approach from the rear while the player is making their way upstairs; this usually gives him the opportunity to start the battle by casting one of his sorceries. His repertoire includes Soul Spear and Homing Soulmass.\n\nHe also comes armed with a Gargoyle Flame Hammer and will quickly switch between casting spells and this weapon, frequently holding it with both hands for increased damage. His melee attacks are very similar to that of Havel's, and thus he is often vulnerable after finishing a combo. Care must be taken, though, as he can quickly inflict a considerable amount of damage in return; more so if the player is taken off-balance due to the different tactics used for dealing with a sorcerer and a warrior.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "657c28cd-b5fe-577b-a826-b05e9c38f861",
+    "title": "Court Sorcerer Eamon",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Court Sorcerer Eamon -  Dark Souls III - character - trivia \n trivia : He goes unnamed in-game, but it is revealed in the *Dark Souls III: Prima Official Game Guide*.\n** This is further reinforced in the *Dark Souls III Design Works* concept art, which names the character 宮廷魔術師エーメン.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "65974477-1853-5447-acac-57ad4f0c2bc5",
+    "title": "Court Sorcerer Eamon",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Court Sorcerer Eamon -  Dark Souls III - character - description \n description : Eamon is the last-remaining Court Sorcerer of the Profaned Capital, a group of spell-casters who once claimed heirship to the legendary Big Hat Logan, even copying the staff he used to emulate him better. Despite these grand claims, however, their legitimacy was dubious at best.\n\nIn battle, Eamon is an aggressive spellcaster armed with a great bludgeoning weapon. He constantly switches between casting powerful sorceries and melee combat throughout the fight.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7f253e1c-a82e-5e46-93c5-95ee22c9b619",
+    "title": "Court Sorcerer Eamon",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Court Sorcerer Eamon -  Dark Souls III - character - lead \n lead : is an enemy character in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7306c0fd-01a4-560c-8367-7aa294bb592b",
+    "title": "Covetous Gold Serpent Ring (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Covetous Gold Serpent Ring (Dark Souls III) -  Dark Souls III - ring - lead \n lead : The **Covetous Gold Serpent Ring** is a ring in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7f325055-ba4b-5e2b-911c-e887c89ce8be",
+    "title": "Covetous Gold Serpent Ring (Dark Souls III)",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "***Covetous Gold Serpent Ring+3** (The Ringed City)\n**Found in The Ringed City, in a building at the end of the great stairway. It is in the area at the top of the long ladder from the swamp guarded by multiple Hobbled Clerics, past two Ringed Knights and in the room where Amnesiac Lapp is found.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b4020337-c6e1-5ace-8a91-287f580d8a83",
+    "title": "Covetous Gold Serpent Ring (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Covetous Gold Serpent Ring (Dark Souls III) -  Dark Souls III - ring - description \n description : A gold ring depicting a snake that could have been, but never was, a dragon.\n\nFallen foes are more likely to drop items.\n\nSnakes are known as creatures of great avarice, devouring prey even larger than themselves by swallowing them whole. If one's shackles are cause for discontent, perhaps it is time for some good old fashioned greed.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bb3c436d-2db4-5fd9-b789-0d32a7881cb1",
+    "title": "Covetous Gold Serpent Ring (Dark Souls III)",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Covetous Gold Serpent Ring (Dark Souls III) -  Dark Souls III - ring - availability \n availability : ***Covetous Gold Serpent Ring**\n**Found in the Profaned Capital, on a corpse inside a locked cell along with Siegward. The only access is through an open window reached by jumping from the chapel's roof above the toxic swamp (Old Cell Key required).\n***Covetous Gold Serpent Ring+1** (NG+)\n**Found in Irithyll of the Boreal Valley, on a corpse lying on a ledge below a broken railing, immediately after the dark room with several Irithyllian Slaves and before reaching the lake surrounding the city.\n***Covetous Gold Serpent Ring+2** (NG++)\n**Found in Archdragon Peak, in the big courtyard after defeating the Nameless King. A corpse on the third stairway on the right can be found holding the ring.\n***Covetous Gold Serpent Ring+3** (The Ringed City)",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cef0a96d-c8c9-5143-aeee-f69f134d544c",
+    "title": "Covetous Gold Serpent Ring (Dark Souls III)",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Covetous Gold Serpent Ring (Dark Souls III) -  Dark Souls III - ring - effect \n effect : ***Covetous Gold Serpent Ring**: Increases Item Discovery by 50.\n***Covetous Gold Serpent Ring+1**: Increases Item Discovery by 75.\n***Covetous Gold Serpent Ring+2**: Increases Item Discovery by 100.\n***Covetous Gold Serpent Ring+3**: Increases Item Discovery by 115.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "541c13e0-4ca6-5dbf-a5d0-5647603f55a1",
+    "title": "Cursebite Ring (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Cursebite Ring (Dark Souls III) -  Dark Souls III - ring - lead \n lead : The **Cursebite Ring** is a ring in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "61eea08a-93cc-5703-8a95-b2e80501ea16",
+    "title": "Cursebite Ring (Dark Souls III)",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Cursebite Ring (Dark Souls III) -  Dark Souls III - ring - trivia \n trivia : As stated in the first game, this ring was designed and created by Sir Arstor of Carim.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "64bb5692-0643-566b-8645-7e709f3aafb1",
+    "title": "Cursebite Ring (Dark Souls III)",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Cursebite Ring (Dark Souls III) -  Dark Souls III - ring - effect \n effect : Increases Curse resistance by 90.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8c466e41-d758-531a-8c03-890cdc6a1d68",
+    "title": "Cursebite Ring (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Cursebite Ring (Dark Souls III) -  Dark Souls III - ring - description \n description : One of the bite rings native to Carim.\n\nIncreases curse resistance.\n\nThe crafting of these rings is forbidden, perhaps owing to a fear of malleable stone. Clerics, however, dabble freely in the art.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "60490ff4-7da4-5c14-a226-450bcb4cc2cb",
+    "title": "Eleonora",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Eleonora -  Dark Souls III - weapon - availability \n availability : Found in the Profaned Capital. Guaranteed drop from the already awoken Monstrosity of Sin found on the lower level of the ruined chapel that lies in the toxic swamp.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.944562053048635
+  },
+  {
+    "document_id": "7e815df8-3384-52f2-96c8-147cc9fc7bcb",
+    "title": "Felkin the Outcast",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "In spite of his magical abilities, Felkin struggled with his studies due to motivation issues; no magic appealed to him, to the point where he considers that he has learned \"nothing at all\" during those years. However, while at that school in the South, he \"happened upon the dark\". It is unclear what exactly he means by this, but the result, or perhaps the event itself, was his discovery of hexes, a form of magic different from all others he had studied before.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.825698700150497
+  },
+  {
+    "document_id": "44a2658e-9d0a-5c00-82e7-f7287cfbb448",
+    "title": "Ember",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Irithyll Dungeon\n** x2 found on corpses on the ground floor in the main room, patrolled by seven Jailers.\nProfaned Capital\n** x1 found in a chest in the treasury hall to the right of Yhorm the Giant's arena.\nUntended Graves\n**×2 sold by the Shrine Handmaid for 2,500 souls each.\nArchdragon Peak\n** x1 found on a corpse next to the Archdragon Peak bonfire.\n** x2 found on corpses within the Ancient Wyvern boss arena. From the entrance, head up the stairs and take a right. Both corpses are at the end of this path.\n** x1 found on a corpse under the room containing the Great Belfry bonfire.\nLothric Castle\n** x1 found on a corpse next to the Dragon Barracks bonfire.\n** x2 found on corpses in the area between the Lothric Wyverns.\n** x1 found on a corpse to the left of the main stairs in the room behind the portcullis.\n** x4 rewarded for defeating the two Pus of Man infesting the corpses of the Lothric Wyverns.\nGrand Archives",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.80895623362621
+  },
+  {
+    "document_id": "5680fe79-6052-56be-a196-1894558e8378",
+    "title": "Xanthous Ashes",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Xanthous Ashes -  Dark Souls III - item - availability \n availability : Found within a cell in the Irithyll Dungeon. The cell is found in the final cell block with the seven Jailers patrolling it, just before the Profaned Capital. They belonged to a Xanthous Scholar, and unlock items connected to the Xanthous and Oolacile.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.5456464217344
+  },
+  {
+    "document_id": "9613f7d9-e11c-59d9-bbdc-a93906fd26ef",
+    "title": "Profaned Greatsword",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Profaned Greatsword -  Dark Souls III - weapon - description \n description : A ceremonial sword, held in Pontiff Sulyvahn's right hand, representing the Profaned Flame.\n\nLong ago, when Sulyvahn was yet a young sorcerer, he discovered the Profaned Capital and an unfading flame below a distant tundra of Irithyll, and a burning ambition took root within him.\n\nSkill: Profaned Flame\nTemporarily summon the Profaned Flame. Lunge forward and use strong attack to enshroud blade in flame.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.230637409558092
+  },
+  {
+    "document_id": "15fc19f9-b79b-5404-9ab4-79766160f2d9",
+    "title": "Siegbräu",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Siegbräu -  Dark Souls III - item - availability \n availability : Up to three Siegbräus can be collected in a single playthrough in the base game, all of them presented by Siegward of Catarina during various stages throughout his questline:\nUndead Settlement: Given by Siegward after defeating the Demon.\nIrithyll of the Boreal Valley: Given after meeting Siegward sleeping in the kitchen near the Distant Manor bonfire.\nProfaned Capital: Given at the aftermath of Yhorm the Giant's boss battle if Siegward assisted and survived.\n\nTwo more per playthrough can be obtained in *Dark Souls III: The Ringed City*:\nIf the player obtains the Titanite Slab in the Earthen Peak Ruins swamp without Amnesiac Lapp's assistance, he will toast the player and give them a Siegbräu. Otherwise, once he has moved on to the Ringed Inner Wall, a Siegbräu will be left at his location near this bonfire.\nOnce the player meets Lapp within the Ringed Inner Wall, he will toast them and give them a Siegbräu.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.208925812521137
+  },
+  {
+    "document_id": "c9a0ef74-7d0f-5af1-afb2-1090e5366ee0",
+    "title": "Gargoyle Flame Hammer",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Gargoyle Flame Hammer -  Dark Souls III - weapon - availability \n availability : Dropped by hammer-wielding Gargoyles in the Profaned Capital and Grand Archives.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.990970452442294
+  }
+]

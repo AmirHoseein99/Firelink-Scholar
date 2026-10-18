@@ -1,0 +1,2162 @@
+[
+  {
+    "document_id": "005648e6-6dbc-5b9c-9e39-26c3c67b8565",
+    "title": "Soul of Slave Knight Gael",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Soul of Slave Knight Gael -  Dark Souls III - item - usage \n usage : Consume to acquire 20,000 souls or transpose with Ludleth to create either Gael's Greatsword or Repeating Crossbow.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6931929806506748,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0522c301-bb63-51de-9312-d03efe10270b",
+    "title": "Farron Coal",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Farron Coal -  Dark Souls III - item - availability \n availability : Found in the Road of Sacrifices on what once was the eastern access to the keep. The area can be reached by following the eastern shore of the marsh, fighting a couple of Lycanthropes along the way. The coal can be found at the end of a blocked passageway, guarded by a Black Knight.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.611957598814676
+  },
+  {
+    "document_id": "0b8491cc-f186-57d8-8600-5e9fb3d37e88",
+    "title": "Bonfire (Dark Souls III)",
+    "section": "the_ringed_city_location_the_ringed_city",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "***Slave Knight Gael**\n:This bonfire will spawn at the end of the arena where Slave Knight Gael is fought, once he has been defeated. It is located between the thrones of the Pygmy Kings.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6632021251673981,
+    "bm25_score": 39.811299310594094
+  },
+  {
+    "document_id": "109f6bc4-4254-5d4e-86db-59c31005faed",
+    "title": "Slave Knight Set",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Slave Knight Set -  Dark Souls III - armor - characteristics \n characteristics : The Slave Knight Set is renowned for possessing the best physical protection to weight ratio among all armor sets in the game, providing strong defenses against physical damage for a very light weight. It possesses equal amounts of resistance to Regular and Slash damage, and its weakest elemental defenses, against Magic and Lightning, are also equivalent.\n\nGiven its weight, it provides respectable Poise, albeit not a significant amount.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5562860758776831,
+    "bm25_score": null
+  },
+  {
+    "document_id": "155267c9-d70e-5c59-a154-8b55e6f7420f",
+    "title": "Slave Knight Gael",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "been fully consumed both physically and mentally by the Dark Soul. He demands the Ashen One's portion of it, attacking them in a rage when they refuse. He is finally struck down, allowing the Ashen One to obtain his blood filled with the Dark Soul, who could now deliver it to his Lady to be used as pigment, thereby fulfilling Gael's final duty in death.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5931070469962649,
+    "bm25_score": null
+  },
+  {
+    "document_id": "15f024bc-edb3-5ef2-b2f6-5fb3cc391c79",
+    "title": "Slave Knight Gael",
+    "section": "fight_overview",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Slave Knight Gael -  Dark Souls III - character - fight_overview",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7117638557300381,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1662b5f7-a153-54da-baf8-08b7823ff7e2",
+    "title": "The Ringed City",
+    "section": "overview",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Ringed City -  Dark Souls III - mechanic - overview \n overview : At the close of the Age of Fire, as the world ends and all lands converge upon themselves, a lone adventurer descends into the madness of the earth and uncovers the secrets of the past.\n\nThe Ringed City is said to be at World's End, as far as one can go...",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "174dcc52-3a3c-520e-afde-d56888258b45",
+    "title": "Sunset Shield",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Sunset Shield -  Dark Souls III - weapon - description \n description : The Sunset Shield is wielded by two characters: Sirris of the Sunless Realms, from whom it can be obtained from, and Slave Knight Gael when he appears as an NPC. As Gael does not fight back when attacked as an NPC, and his shield is nowhere to be seen during his boss fight in *The Ringed City*, he only uses the shield as a friendly summon.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.08445265083559
+  },
+  {
+    "document_id": "18b38c12-bd2d-5b4c-8ca9-774f76ac9922",
+    "title": "Knight Set (Dark Souls)",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Knight Set (Dark Souls) -  Dark Souls - armor - availability \n availability : Starting equipment for the Knight class.\nDarkroot Basin, on a corpse in front of the Hydra.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5705493563893822,
+    "bm25_score": null
+  },
+  {
+    "document_id": "19c45690-aac6-5b74-9574-201d5ed7e6f5",
+    "title": "Slave Knight Gael",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Slave Knight Gael -  Dark Souls III - character - trivia \n trivia : Gael's facial data, including his beard, is unique to him and is not available as an option when creating the player's character.\nImpaling the corpse of a Pygmy lord with his sword and tossing it at the player is a reference to Knight Artorias, who performs a similar act at the start of his boss fight, and to the Penetrator before him in *Demon's Souls*.\nOut of any boss from the entire franchise, Gael has the biggest boss arena, as the Pygmy's Throne is a completely explorable desert-like zone.\nThe way Gael moves and fights on the first phase is very similar to how Guts, from the *Berserk* anime/manga, does when using the Berserker Armor. In the second phase, the Repeating Crossbow is also reminiscent of Guts' Repeater Crossbow and the way he hides and follows his attacks with a cape.\nA summon sign appears beneath Gael wherever he reappears at when he teleports during his boss fight.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5597828998093084,
+    "bm25_score": 26.97539573238057
+  },
+  {
+    "document_id": "1d6fa9ce-78cb-51e9-b8a5-9c28436e2f3e",
+    "title": "Ashen One",
+    "section": "the_painted_world_of_ariandel",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "If the Ashen One chooses to ignore Friede and explores the Painted World, they may fight the Champion's Gravetender and Gravetender Greatwolf, which allows the Ashen One to participate in the Undead Match. Deeper inside the painting, the Ashen One finds the Painter, Slave Knight Gael's aforementioned Lady, who has been imprisoned by Friede and Vilhelm in order to prevent her from painting the next world. If the Ashen One opens the way to the inner sanctum hiding Father Ariandel, Friede will confront them and fight to preserve the painting. After a long battle, the Ashen One defeats Friede and Ariandel, prompting the Painted World to begin burning and dooming it to destruction.\n\nThe Painter informs the Ashen One that she has sent Gael to find the Dark Soul, which she will use for her next painting.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1d8a291b-c847-5c8a-bdf6-d06f6e7a3a0a",
+    "title": "Thrust (Dark Souls III)",
+    "section": "enemies_that_use",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Alva, Seeker of the Spurned\nBlack Hand Kamui\nDaughter of Crystal Kriemhild (only as invader)\nHoly Knight Hodrick\nLivid Pyromancer Dunnel\nLondor Pale Shade\nLongfinger Kirk\nYellowfinger Heysel\n\nBosses:\nCrystal Sage\nDeacons of the Deep\nDancer of the Boreal Valley\nPontiff Sulyvahn\nKing of the Storm & Nameless King\nLorian, Elder Prince\nAldrich, Devourer of Gods\nSoul of Cinder\nChampion's Gravetender\nHalflight, Spear of the Church\nSlave Knight Gael (excluding first phase)",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.805094047715567
+  },
+  {
+    "document_id": "1dd76cb3-c224-508c-9936-579e8a1ffe50",
+    "title": "Soul of a Proud Knight",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Soul of a Proud Knight -  Dark Souls - item - availability \n availability : Found on various corpses throughout Lordran.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5741672172183814,
+    "bm25_score": null
+  },
+  {
+    "document_id": "248bb389-4107-5a0a-ad69-3e11d204f65a",
+    "title": "The Ringed City",
+    "section": "locations_and_bonfires",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Ringed City -  Dark Souls III - mechanic - locations_and_bonfires \n locations_and_bonfires : The Dreg Heap\n**The Dreg Heap\n**Earthen Peak Ruins\n**Within the Earthen Peak Ruins\n**The Demon Prince\nThe Ringed City\n**Mausoleum Lookout\n**Ringed Inner Wall\n**Ringed City Streets\n**Shared Grave\n**Church of Filianore\n**Darkeater Midir\n**Filianore's Rest\n**Slave Knight Gael",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.254905106764294
+  },
+  {
+    "document_id": "26537093-6b12-5a8f-833e-a88da3a198aa",
+    "title": "Slave Knight Armor",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Slave Knight Armor -  Dark Souls III - armor - lead \n lead : The **Slave Knight Armor** is a chest armor piece in *Dark Souls III: Ashes of Ariandel*. It is part of the Slave Knight Set.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.289752798960023
+  },
+  {
+    "document_id": "34a99f57-eaa1-51d1-b9a5-29255e9ed84e",
+    "title": "The Ringed City",
+    "section": "boss_souls",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Ringed City -  Dark Souls III - mechanic - boss_souls \n boss_souls : Soul of Darkeater Midir\nSoul of Slave Knight Gael\nSoul of the Demon Prince",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.021940609120836
+  },
+  {
+    "document_id": "34ad6b3a-808c-5bb6-b95e-db2489e3a929",
+    "title": "Painted World of Ariandel",
+    "section": "entering",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariandel -  Dark Souls III - location - entering \n entering : In order to access this area, the player must travel to the Cleansing Chapel in the Cathedral of the Deep and speak with Slave Knight Gael, near the bonfire. Exhausting his dialogue will start a cutscene and the Ashen One will be teleported into the Painted World.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.601506858169778
+  },
+  {
+    "document_id": "3b7344de-d824-5c90-ae99-ecb7e2d171b5",
+    "title": "Hollowslayer Greatsword",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Deacons of the Deep\nSlave Knight Gael, from phase 2 onwards",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6493118738965505,
+    "bm25_score": 30.62067122884864
+  },
+  {
+    "document_id": "3e63f1ac-8c15-51c0-a7bf-7f573987ea1e",
+    "title": "Champion's Gravetender and Gravetender Greatwolf",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "They will only be relieved of their duty by the Ashen One, who finds their way to the bottom of the painting and challenges the duo to partake in the old turnament of the champion. Should they not do that, however, the fate of the page and wolf remains a mystery. All that is known is that the old champion's remains would find their way in the possession of Amnesiac Lapp during the collapse of the world into the Dreg Heap.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5555938783552119,
+    "bm25_score": null
+  },
+  {
+    "document_id": "46471db7-aa32-57b7-92a8-e250cba19504",
+    "title": "Sister Friede",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "their brethren who opposed Friede. The Painter was imprisoned in the library of the corvian village and guarded by Sir Vilhelm, to prevent her from restoring the painting. His Lady's imprisonment prompted Slave Knight Gael to escape from the painting, taking with him a rotten scrap of it, and search for another Unkindled that could fulfill the prophecy of the painting, which stated that when the Ashes inside the painting became two, the Flame would return and burn the rot away.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5792102650937649,
+    "bm25_score": 23.08345726781484
+  },
+  {
+    "document_id": "46d632b6-ec4e-57bd-97f3-a45ce262a982",
+    "title": "Slave Knight Gael",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Slave Knight Gael -  Dark Souls III - character - lead \n lead : **Slave Knight Gael** is a character in *Dark Souls III: Ashes of Ariandel* and the final boss in *The Ringed City* DLC.\n\nHe is voiced by Stephen Boxer.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6896042016384925,
+    "bm25_score": 30.56280544367359
+  },
+  {
+    "document_id": "4872c0c2-f489-5050-9263-958b989adb3f",
+    "title": "Sir Vilhelm",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The revived Elfriede would renounce everything after her resurrection, which included her knight's allegiance towards her. As a parting gift, she handed him a greatsword permeated with her blackflame. Accepting it would symbolize the end of his service. Yet in spite of accepting the blade, the knight followed his former mistress through the entirety of her miserable pilgrimage, until they found the Painted World of Ariandel, a place where the forlorn and forsaken would call their home. Here, Elfriede would find a new purpose, the knight still standing by her side of his own volition.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5713639330921153,
+    "bm25_score": null
+  },
+  {
+    "document_id": "539d9624-4291-51c8-9f5b-8ad1c231dcb9",
+    "title": "Soul of Slave Knight Gael",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Soul of Slave Knight Gael -  Dark Souls III - item - description \n description : Soul of Slave Knight Gael.\nOne of the twisted souls, steeped in strength.\n\nUse to acquire many souls, or transpose to extract its true strength.\n\nThe red-hooded, wandering slave knight Gael sought the blood of the dark soul as pigment for the Painted World. But Gael knew he was no Champion, that the dark soul would likely ruin him and that he had little hope of a safe return.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6717895246889876,
+    "bm25_score": 35.367058716414654
+  },
+  {
+    "document_id": "54dedbe6-0f4f-5076-a628-c49588f99f90",
+    "title": "Pygmy Lord",
+    "section": "plot",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Pygmy Lord -  Dark Souls III - character - plot \n plot : The Pygmy Lord is found dragging his broken body up a dune in the ashen desert accessed after interacting with Filianore. He exists largely to point towards the location where Slave Knight Gael's fight can be initiated, adding some anticipation and flavor to the ensuing encounter. He drops nothing upon death, and will die on his own once he makes it near the doors to Filianore's ruined chamber.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5814754923586649,
+    "bm25_score": null
+  },
+  {
+    "document_id": "552bb631-1f8f-5a6b-99e7-eebb9ef5362d",
+    "title": "Humans",
+    "section": "last_days_of_fire",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "On their quest, the Ashen One encounters the Painted World of Ariandel, and a little girl whose duty it is to become the new Painter, and replace it with a fresh, unrotted version. To do this, she reveals that she needs the blood of the bearer of the Dark Soul, and that her guardian Gael has gone to find it. At the end of time, as the flames are reduced to embers and sparks, the entire world has begun to collapse in on itself, surrounding the ageless Ringed City. Gael travels to this heap of reality to find the Dark Soul, with the Ashen One following suit, eventually slaying Argo, the leader of the Spears of the Church.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5971525990328115,
+    "bm25_score": 25.711671023661967
+  },
+  {
+    "document_id": "5bb9e07d-a08b-5ce1-9d41-2614c7357ad3",
+    "title": "Furtive Pygmy",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Sometime before the arrival of the Ashen One at the Ringed City, a pygmy—plausibly a disgruntled Pygmy Lord— came to detest the Gods for condemning the pygmies to their accursed fate, and took up residence at the outskirts of their city. There, he welcomed new arrivals and directed into Filianore's Church those who sought the Dark Soul, where they could confront the \"lid covering an overgrown privy\".\n\nThe Pygmy Lords obeyed and relied on the gods for eons, and remained passive unto the end of time, at which point even their own blood had dried up. The last Pygmy Lords would meet their ends at the hands of Slave Knight Gael, who had sought their Dark Soul for centuries. Finding that their blood had long ago dried up, he consumed their Dark Soul, so that he could take it back to his Lady to be used as pigment for her painting.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5908167946535254,
+    "bm25_score": 22.979998244281354
+  },
+  {
+    "document_id": "5c51b5aa-7ff8-5306-9ca2-ae9618089fa8",
+    "title": "Cathedral Knight",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Cathedral Knight -  Dark Souls III - enemy - lore",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5669562689578574,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5c9aeede-1e93-5c26-ac0e-50caaff51714",
+    "title": "Slave Knight Gael",
+    "section": "locations",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Slave Knight Gael -  Dark Souls III - character - locations \n locations : Cathedral of the Deep — He is first found praying before the statue next to the Cleansing Chapel bonfire.\nPainted World of Ariandel — He can be summoned for the second phase of the Sister Friede boss fight. His summon sign becomes unavailable after defeating the Demon Prince.\nThe Dreg Heap — He can be summoned for the Demon Prince boss fight. His summon sign is near the Within the Earthen Peak Ruins bonfire. His summon sign is still available after defeating Sister Friede.\nThe Ringed City — Found near Filianore's Rest as a boss.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6365026286547841,
+    "bm25_score": 23.891108306265025
+  },
+  {
+    "document_id": "5cf643ec-40a7-583f-8af7-c0ed3c22e192",
+    "title": "Ashes of Ariandel",
+    "section": "overview",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - overview \n overview : Slave Knight Gael asks the Ashen One to show Ariandel fire as rot has spread like a plague. He will ask you to touch a scrap of the Painting of Ariandel, which pulls the Ashen One into its frozen landscape. The Ashen One will then traverse the painting’s frigid landscape and encounter its deadly inhabitants.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.630701334162904
+  },
+  {
+    "document_id": "66c4900c-6fff-5e5d-ba30-7a472a889a7d",
+    "title": "Alva the Wayfarer",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "That defeat would not end the Seeker of the Spurned. He'd continue his journey in search of the one he had been looking for, eventually leading him to the Ringed City of legend. It was there, at the edge of the world, that he'd find the one who had given him a fresh purpose so long ago. Unfortunately, his beloved had been dead all along, and the knight could do nothing more than protect her resting place from anyone who'd dare loot her remains. Once again the Ashen One would battle the knight, conquering the ordeal and slaying him for good.\n\nPerhaps in death, there would be a way for the lovers to find closure and even be reunited in the Abyss, or so the White-Faced Locusts preach.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5737714144588764,
+    "bm25_score": null
+  },
+  {
+    "document_id": "68c23a7d-4d1d-5fb0-9966-baeac986a9ab",
+    "title": "The Painter",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "In service of her twisted goal, Friede ordered Sir Vilhelm to imprison and guard the Painter in the library of the corvian village to prevent her from restoring the painting. This would prompt Slave Knight Gael to escape from the painting, taking with him a rotten scrap of it and beginning his search for another Unkindled that would fulfill the prophecy, which stated that when the Ashes inside the painting became two, the Flame would return and burn the rot away.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6143494531478675,
+    "bm25_score": 22.953619776805013
+  },
+  {
+    "document_id": "6a73aef7-0c12-5ca5-ab4a-7847c84d63a7",
+    "title": "Slave Knight Set",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Slave Knight Set -  Dark Souls III - armor - lead \n lead : The **Slave Knight Set** is a medium armor set in *Dark Souls III: Ashes of Ariandel*.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5632943183215996,
+    "bm25_score": null
+  },
+  {
+    "document_id": "712ffeab-2c8b-520b-b3ab-c1c2d8984759",
+    "title": "The Ringed City",
+    "section": "summons",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Ringed City -  Dark Souls III - mechanic - summons \n summons : Amnesiac Lapp\nSlave Knight Gael",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.4148951382775
+  },
+  {
+    "document_id": "745ebeb7-1014-505f-b87c-dd2b6ff940c4",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "bonfire, and some guidance, first towards the illusion of Gwynevere, or, if they have already obtained the Lordvessel from the illusion, with information on Seath the Scaleless, the nearest of the powerful beings the prophecy would have the Undead slay to feed the Lordvessel. The Knightess helped maintain the facade of Gwynevere, talking about the illusion as if it was the real Goddess even as she knew it was not real. Should an Undead prove a threat to the Gods by attacking the illusion or Gwyndolin, or passing through the later's Fog Door and witness his true form, the Knightess would attempt to slay the heretic Undead.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5661590053578172,
+    "bm25_score": null
+  },
+  {
+    "document_id": "74bbda4a-03db-5d9d-bc46-6cc3b0f389b6",
+    "title": "Achievements/Trophies (Dark Souls II)",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Achievements/Trophies (Dark Souls II) -  Dark Souls II - mechanic - notes \n notes : None of the DLC spells, miracles, pyromancies, or hexes are needed for achievements/trophies that require all spells on the original version. In the Scholar of the First Sin edition, they are required.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "79410e95-0060-5937-901c-3992dd28d29b",
+    "title": "Seek Guidance (Dark Souls III)",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Seek Guidance (Dark Souls III) -  Dark Souls III - spell - availability \n availability : Found in the Cathedral of the Deep. Head past the first Giant Slave on the second floor and take the path on the left after descending a small set of stairs. Follow this path to the end to reach a corpse holding the miracle under a Writhing Rotten Flesh.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.441890311384086
+  },
+  {
+    "document_id": "7c937f96-d80e-556b-b7ff-78e86bbf1de4",
+    "title": "Drowsy Forlorn",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Drowsy Forlorn -  Dark Souls III - character - location \n location : Found at the very beginning of the Painted World of Ariandel, just before the Snowfield bonfire. He lies right behind the player when they first arrive through the painting fragment given by Gael.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.012922901473907
+  },
+  {
+    "document_id": "7d9ea288-d572-5166-a93b-86d49dce40c3",
+    "title": "Slave Knight Hood",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Slave Knight Hood -  Dark Souls III - armor - lead \n lead : The **Slave Knight Hood** is a head armor piece in *Dark Souls III: Ashes of Ariandel*. It is part of the Slave Knight Set.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.289752798960023
+  },
+  {
+    "document_id": "7e58e87f-82e3-545a-8a61-2955896083ee",
+    "title": "Slave Knight Leggings",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Slave Knight Leggings -  Dark Souls III - armor - lead \n lead : The **Slave Knight Leggings** are legs armor in *Dark Souls III: Ashes of Ariandel*. They are part of the Slave Knight Set.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.56178961079125
+  },
+  {
+    "document_id": "86ecd952-0840-5eb2-8be6-91e06b3d4ec7",
+    "title": "Silver Knight Set",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Silver Knight Set -  Dark Souls - armor - plot \n plot : Worn by the Silver Knights of Anor Londo.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5564529269467372,
+    "bm25_score": null
+  },
+  {
+    "document_id": "89c9ba31-0c5b-58db-9d11-d48a0c79415e",
+    "title": "Slave Knight Gael",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Nevertheless, the tales of the painting also told of a prophecy: \"When the Ashes are two, a flame alighteth\". If another Ash were to enter the Painting, there would yet be hope to kindle the flame and burn the rotten world away. And so Gael fled the Painted World, taking with him a rotten scrap of it, to seek out another Unkindled who could show Flame to his Lady. After a long, unsuccessful search, Gael would find himself in the Cleansing Chapel where he laid prostrate before a shrine to Caitha, mother of the forlorn, praying that his wish be granted by the goddess. This was where Gael finally encountered the Ashen One during their journey through Lothric, and managed to convince them to touch the scrap of painting, transporting them to the Painted World of Ariandel.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5724815108956696,
+    "bm25_score": 26.369736000623405
+  },
+  {
+    "document_id": "8e0bb94f-63b2-5661-bee5-6f4c8e4d3ca1",
+    "title": "Gael's Greatsword",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Gael's Greatsword -  Dark Souls III - weapon - availability \n availability : Obtained by transposing the Soul of Slave Knight Gael with Ludleth of Courland for 20,000 souls.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.957852118467486
+  },
+  {
+    "document_id": "92331ee3-5fe9-5b37-b506-bd4b2576c20f",
+    "title": "Balder",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "managed to overcome the final test of the Iron Golem placed to defend the entrance to the city of the gods from countless heroes trying to reach it, and continued to try and fail for decades until even the Knight King himself died, losing his ring in the fortress, leaving the now hollowed knights to wander around aimlessly.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5959945275296791,
+    "bm25_score": null
+  },
+  {
+    "document_id": "97e2b9b9-a531-5c03-a993-ddc823324305",
+    "title": "Timeline",
+    "section": "the_rise_of_the_dark_lord",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "The Ashen One enters the Cleansing Chapel where purification rituals for humans took place\nThe Ashen One meets Slave Knight Gael, who asks them to \"show the flame\" to his lady to \"burn the rot away\"\nThe Ashen One is tricked by Gael, that uses a fragment of the Painted World of Ariandel to teleports them inside it\nThe Ashen One fights their way through the inhabitants of the cold painted world and reaches its cathedral\nThe Ashen One is welcomed by Sister Friede, another Unkindled, who however urges them to leave this world alone and go back to theirs\nThe Ashen One fights their way through the rotting inhabitants of the painted world and finds a young painter trapped by Friede's servants\nThe Ashen One realizes that Friede is preventing the painted world from being purified with the Flame and is leaving it to rot like the outside world",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.719754974509595
+  },
+  {
+    "document_id": "98824d1e-5832-5197-b07a-1c20bbe80bcb",
+    "title": "Ashen One",
+    "section": "the_painted_world_of_ariandel",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - the_painted_world_of_ariandel \n the_painted_world_of_ariandel : Within the Cathedral of the Deep the Ashen One can encounter Slave Knight Gael, a Slave Knight who seeks unkindled ash to aid his Lady. Gael presents the Ashen One with a fragment of the Painted World of Ariandel, which sucks the Ashen One in. Within the painting, the Ashen One encounters Sister Friede and her loyal knight Sir Vilhelm. Friede is an advisor to Ariandel, the painting's creator, and convinced him to allow the painting to rot rather than allow it to be destroyed and replaced by a new one, despite the wishes of many of the painting's denizens. Friede bids the Ashen One to leave, telling them that they do not belong in the Painted World.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5579669947053616,
+    "bm25_score": 30.945419723988408
+  },
+  {
+    "document_id": "99b8b8cb-e73c-5077-b774-ac445ddf6de3",
+    "title": "Soul of Slave Knight Gael",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Soul of Slave Knight Gael -  Dark Souls III - item - availability \n availability : Obtained upon defeating Slave Knight Gael.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7251302475090822,
+    "bm25_score": 27.588162463479712
+  },
+  {
+    "document_id": "9b6ed65c-0a3a-5bed-ae50-d918d8d53c70",
+    "title": "Large Soul of a Proud Knight",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Large Soul of a Proud Knight -  Dark Souls - item - availability \n availability : Found on various corpses throughout Lordran:",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5870709669149697,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9d955f8c-639f-5020-8d67-0235b895645b",
+    "title": "Slave Knight Gauntlets",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Slave Knight Gauntlets -  Dark Souls III - armor - lead \n lead : The **Slave Knight Gauntlets** are hands armor in *Dark Souls III: Ashes of Ariandel*. They are part of the Slave Knight Set.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5607878118636784,
+    "bm25_score": 24.56178961079125
+  },
+  {
+    "document_id": "a2233c4a-4704-557d-ba70-956eabcf1b40",
+    "title": "Shira, Knight of Filianore",
+    "section": "plot",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "She will have some extra dialogue if the player has joined the Spears of the Church covenant, commending them on their choice to serve Princess Filianore. However, Shira will become permanently hostile if her slumber is disturbed, disappearing from all her previous locations, halting her involvement in the Midir sideplot. She will ambush the player in a delapitated ruin found in the ashen desert accessed from the Filianore's Rest bonfire. While battling the player, the Slave Knight Gael fight won't begin. Conversely, if his boss fight has already started, she will not show up at her spot. She'll still attack the player even after his defeat.\n\nSlaying her here will net her Crucifix of the Mad King as well as any item she could have gifted but hadn't yet. The door from which you could speak to her before will also be open, revealing a corpse holding the entirety of her set.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5864364407564759,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a3ba4ee6-e391-5984-a140-36485c6bc0b3",
+    "title": "Slave Knight Gael",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Slave Knight Gael -  Dark Souls III - character - notes \n notes : Gael cannot be permanently killed as a character. He will always respawn in the Cleansing Chapel (may take several reloads).\nGael's summon sign for fighting Sister Friede is unique in that it can be used even if not embered; moreover, he will be summoned directly into the arena, not at his summoning sign, and only when the second phase of the fight commences. He is the only character in the franchise to have a summon sign that functions this way. It also can be used if all your phantom summons are filled up even with the Dried Finger, allowing for a boss fight with 4 phantoms. Furthermore, this summon does not increase Friede's health, similarly to Great Grey Wolf Sif's summon in *Dark Souls I* for Manus, Father of the Abyss.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5942913957848305,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a69a6ca0-eeb9-5408-a6ab-98361ba2c00c",
+    "title": "Demon Prince",
+    "section": "summons",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Demon Prince -  Dark Souls III - boss - summons \n summons : Slave Knight Gael can be summoned to aid in this fight.\nAmnesiac Lapp can be summoned if the player has encountered him at the Earthen Peak Ruins and exhausted his dialogue.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.13721261061487
+  },
+  {
+    "document_id": "ab020abe-f65a-52b0-b497-dfb8a3a8e423",
+    "title": "The Ringed City (Location)",
+    "section": "bosses",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "The Ringed City (Location) -  Dark Souls III - location - bosses \n bosses : Darkeater Midir\nHalflight, Spear of the Church\nSlave Knight Gael",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.18307504633451
+  },
+  {
+    "document_id": "af55b323-63e2-57e6-b525-613de6999ce1",
+    "title": "Achievements/Trophies (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Achievements/Trophies (Dark Souls II) -  Dark Souls II - mechanic - lead \n lead : In *Dark Souls II* and its version, there are 38 possible **achievements** for Xbox 360 and Xbox One, totaling 1000 points. There are 38 **trophies** for PS3 and PS4, and 38 Steam Achievements for PC.",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b0fd0908-aa99-5a0b-89f0-df70d451728b",
+    "title": "Gael's Greatsword",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Gael's Greatsword -  Dark Souls III - weapon - description \n description : Greatsword of Slave Knight Gael, the only weapon that he kept with him from beginning to end.\n\nOriginally an executioner's sword made for decapitation, this blade is heavily chipped and stained with the blood of countless battles.\n\nSkill: Blade of Peril\nA precarious technique unique to undead Gael. Leap in any direction, slamming the greatsword to the ground, then follow with normal attack for a large spinning slash, or strong attack to back-step and jump forward in an overhead slam.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5628345268288417,
+    "bm25_score": 25.594186985794632
+  },
+  {
+    "document_id": "b3fdcd3b-656f-5631-b607-ba8d7e681ad1",
+    "title": "The Painter",
+    "section": "plot",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The Painter -  Dark Souls III - character - plot \n plot : The Ashen One first hears about the Painter while talking with Slave Knight Gael, the one she affectionately calls \"uncle\", at the Cathedral of the Deep. Gael mentions that \"his Lady\" resides in the cold land of Ariandel and claims that the Ashen One's role is to \"show her flame\". Similarly, the Forlorn Corvian Settler met in the Corvian Settlement shows his enthusiasm upon meeting the Ashen One, as this is the only person who can show \"his Lady\" flame.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.78587931340512
+  },
+  {
+    "document_id": "b4cd967e-f6be-55db-83d1-12f2cfa3cfba",
+    "title": "Heide Knight",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "The Knight sitting behind the Shrine of Winter is capable of dropping either of the two Heide Lances, but the Knight himself is equipped with a sword.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5766918840709891,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b54927ec-bcf9-5c93-bfbd-3a270ebd26c7",
+    "title": "Cathedral Knight",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Cathedral Knight -  Dark Souls III - enemy - see_also \n see_also : Consumed King's Knight",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.579356306907231,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b8e79b7b-9246-508e-83dd-559c8776d70b",
+    "title": "Timeline",
+    "section": "the_rise_of_the_dark_lord",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "The Ashen One is suddenly confronted by Slave Knight Gael, who reached the end of time and devoured the Dark Soul from the pygmy nobles to bring it to the young painter\nThe Ashen One defeats Gael and obtains the mass of Dark Soul contained in his blood and brinks it back to the young painter in the painted world\nThe Ashen One, before resuming their journey, learns how the young painter will now be able, using Flame and Darkness, to create a new painted world\nThe Ashen One, during their journey, obtains an immense amount of souls, reaching the power necessary to link the First Flame\nThe Ashen One, reaches the First Flame but is confronted by the Soul of Cinder, the manifestation of the previous Lords of Cinder who had linked it and now protect it as its last defense\nThe Ashen One defeats the Soul of Cinder and gains access to the First Flame",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.914835834668835
+  },
+  {
+    "document_id": "ba2d6348-e614-53e4-925a-d1af1ad3a97e",
+    "title": "Lightning (Dark Souls III)",
+    "section": "bosses",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Lightning (Dark Souls III) -  Dark Souls III - mechanic - bosses \n bosses : Dragonslayer Armour\nNameless King\nSoul of Cinder\nHalflight, Spear of the Church\nSlave Knight Gael\n(to be completed)",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.17329122650488
+  },
+  {
+    "document_id": "bc7f13c9-f636-5eda-853f-080ee40c18a2",
+    "title": "Slave Knight Gael",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Slave Knight Gael -  Dark Souls III - character - lore \n lore : Gael was once a slave knight, an order of Undead knights who were used as fodder in the bleakest of battles. Even as they grew decrepit, their skin charred black, their bones twisted and their minds lost, they were never relieved from duty, their condemned stature signified by their vibrant red hoods. At one point, Gael managed to free himself from his life of bloody battles and ended up in the Painted World of Ariandel, a refuge for the forlorn souls who had no place to call home. There he eventually met the Painter, the \"Lady\" of the corvian inhabitants of the Painted World, who had extensive knowledge of the First Flame and the Dark Soul. The Painter apparently had the ability to incorporate these two concepts into creating new Painted Worlds. Gael eventually came to be a parental figure for her, such that she called him \"Uncle Gael\".",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6870786203853685,
+    "bm25_score": 30.713715022701017
+  },
+  {
+    "document_id": "bf0895cc-ef57-57cf-8603-2139d8d6c5d8",
+    "title": "Ashes of Ariandel",
+    "section": "access",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - access \n access : Accessed by interacting with Slave Knight Gael at the Cleansing Chapel bonfire in the Cathedral of the Deep.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.193014479360905
+  },
+  {
+    "document_id": "d1a7287c-54c8-5ed9-b30f-69422b67e0b4",
+    "title": "Sir Vilhelm",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "At some point, the Ashen One is beckoned to the Painted World of Ariandel by Slave Knight Gael, who believed they are the Ash meant to defeat the other Ash currently ruling over the painted landscape. The first meeting appears to be cordial, with Vilhelm pointing them to Friede, and then reinforcing her sentiment about them leaving the world behind and getting back to their journey. He also warns them to suppress their curiosity, as the depths of the painting would easily destroy them in their endeavors to sate it.\n\nWhen encountered in the building housing the captive painter girl, he will deride the Ashen One's inquisitiveness, claiming he has seen their type often and that they would never have what it takes to actually face the danger they have put themselves in by sticking their nose where it didn't belong. After a duel to the death, the Unkindled champion is victorious, slaying Vilhelm, who laments his failure to uphold his oath to Friede.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.61373309863379
+  },
+  {
+    "document_id": "d2b2d371-34df-577c-bcf0-47cb41612d39",
+    "title": "Ashes of Ariandel",
+    "section": "summons",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ashes of Ariandel -  Dark Souls III - mechanic - summons \n summons : Slave Knight Gael",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.863319009065783
+  },
+  {
+    "document_id": "d316d1ef-8408-5383-911b-6ef10ceb8277",
+    "title": "Sister Friede",
+    "section": "summons",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Sister Friede -  Dark Souls III - boss - summons \n summons : Slave Knight Gael: His sign is to the left of the boss arena entrance, opposite where Friede sits. Can be summoned even while not Embered. After activating his sign, he will be summoned not immediately, but as the second phase begins, and directly inside the arena.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5695976976850712,
+    "bm25_score": 23.37640446440149
+  },
+  {
+    "document_id": "d841ac1c-afa7-5da5-b63f-f5ce1b5af864",
+    "title": "Slave Knight Set",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Slave Knight Set -  Dark Souls III - armor - description \n description : Armor issued to slave knights. The fine craftsmanship made this a symbol of honor.\n\nLong ago, only the Undead served as slave knights, warriors used as fodder in the bleakest of battles.\n\nThey grew decrepit, their skin charred black and their bones twisted. Eventually they went outright mad, but were never relieved from duty.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5704060737617129,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d8d677e6-bcd9-5999-a65c-8f43424f15fa",
+    "title": "Consumed King's Knight",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Consumed King's Knight -  Dark Souls III - enemy - see_also \n see_also : Cathedral Knight",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5725714810076319,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d8ff872a-ec49-5ece-a216-dfdd6d71e024",
+    "title": "Caitha, Goddess of Tears",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Caitha, Goddess of Tears -  Dark Souls III - character - trivia \n trivia : When heard praying to her covered statue in the Cleansing Chapel, Slave Knight Gael will address her as \"Mother of the taboo/abominable creatures without a place to call home\" (居場所無き忌みものたちの母よ).",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5694642065517934,
+    "bm25_score": 25.195188083610294
+  },
+  {
+    "document_id": "d9fe46e9-d24e-5b3d-9b5c-9435f17623f2",
+    "title": "Dark Soul",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Near the end of the Age of Fire, a slave knight called Gael traveled to the Ringed City, seeking the Pygmy Lords to gain their blood. The blood of the Dark Soul was intended to be used to paint a new Painted World, but to Gael's shock, Filianore's spell was broken and the Pygmy Lords were aged to the point that their blood did not flow, for it was dried in their veins. Even though he knew he had not the strength to survive bearing it, Gael slew the Pygmy Lords and drank from their wounds, absorbing the Dark Soul into himself. It imbued him with a dark miasma and warped his mind, but in the end he was successful, slain by the Ashen One to extract the soul's blood. The current state of the Dark Soul is unknown, but given the eternal nature of Lord Souls, it is unlikely that it was truly destroyed.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6320154356635591,
+    "bm25_score": 26.363543606590465
+  },
+  {
+    "document_id": "de31561d-f702-5ce8-8f7e-a72bc6e40ada",
+    "title": "Slave Knight Gael",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Gael's mission was therefore not over, and so the knight set off again with a new mission: to find the Dark Soul and bring it back to the Painter so she could complete her painting. He knew that he lacked a Champion's strength, that bearing the Dark Soul would likely ruin and consume him, leaving him scant hope of safe return; nonetheless, he set out on his endless journey, crossing the centuries through countless battles and hardships. His Executioner's Greatsword remained with him from beginning to end, becoming heavily chipped and stained with blood, and the Repeating Crossbow he customized was rusted with blood, overused, twisted and marred with dents and scratches. Gael's own body too suffered from the long journey, being consumed by the ever-expanding Darksign that fused his flesh with his now rusted and cracked armor.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6732333529475268,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e029bf75-dad2-5ecd-b400-8a4376f31533",
+    "title": "Allfather Lloyd",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Some of the dethroned god's followers, now cast out from the reformed faith, would find refuge in the Painted World of Ariandel, bringing with them the lost miracles of the old religion and fully believing that one day the aureoles of light associated with Lloyd would return with him. It's possible that Slave Knight Gael was once such a believer, due to his usage of that very miracle. That is in spite of his nature as a cursed Undead, which the old god seemingly despised.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6554521436949423,
+    "bm25_score": 25.523446972413684
+  },
+  {
+    "document_id": "e0892d3c-9722-5ab7-86ab-a3a758930a88",
+    "title": "Soul of Slave Knight Gael",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Soul of Slave Knight Gael -  Dark Souls III - item - lead \n lead : The **Soul of Slave Knight Gael** is a boss soul in *Dark Souls III: The Ringed City*.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6785725068665522,
+    "bm25_score": 33.322110608684866
+  },
+  {
+    "document_id": "e58492ce-fff3-5777-ab0b-d5f779980c98",
+    "title": "Sister Friede",
+    "section": "second_phase_father_ariandel_and_friede",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "-If the player has used Slave Knight Gael's summon sign, he will be summoned into the arena once the second phase begins.\n\n-The first time the player defeats this phase, they will be rewarded with a Titanite Slab",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6526710144893133,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f02a3057-9d04-56cd-815d-e55109b7d7e4",
+    "title": "Knight Artorias",
+    "section": "dark_souls_the_age_of_fire",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Many years later during the Age of Fire, shortly after the fall of Izalith to the Flame of Chaos, a group of Dragon Knights serving Gwyn and led by Dragon Knight Gravis arrives in New Londo in an attempt to negociate assistance against Izalith, unaware that the Four Kings have been convinced to rebel against Gwyn. They are attacked by a group of Darkwraiths and Skeletons, who slay all but Gravis and hired mercenary Wurdow; as they prepare for a last stand, the two are rescued by Artorias, who decapitates all foes surrounding them. As Gravis expresses her surprise and gratitude, Artorias points them to the gate they had entered to silently order them to leave, and progresses deeper into New Londo alone.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5578422899208598,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f26a4353-08c1-5dd9-872c-18df221d2dbd",
+    "title": "Pygmy Lord",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "As primordial beings predating most modern humans, they were able to better resist the effects of aging thanks to the Dark Soul that kept them alive to the point that their very blood dried out. The wizened Slave Knight Gael, who sought the Dark Soul with the goal of taking it to his Lady, devoured them and their viscous blood rich of the Dark Soul, even though he was quite aware of the negative effects it would inflict, for he was not a champion fit to receive its full power.\n\nAs the last survivor of Gael's massacre, he attempts to make it to Filianore's remains even with his throat slashed by Gael, and his legs bleeding and broken. The Ashen One would pass by the pitiful soul, who would never get to see the princess' final state, succumbing to his wounds as he called out her name in vain.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6583849229981,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fa526814-1d27-511c-82f4-842c2765a8e0",
+    "title": "Repeating Crossbow",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Repeating Crossbow -  Dark Souls III - weapon - availability \n availability : Obtained by transposing the Soul of Slave Knight Gael with Ludleth of Courland for 5,000 souls.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.957852118467486
+  },
+  {
+    "document_id": "fa9ddf0f-a64d-5e79-bb30-c5287bc77962",
+    "title": "The Ringed City",
+    "section": "bosses",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Ringed City -  Dark Souls III - mechanic - bosses \n bosses : Darkeater Midir\nDemon Prince\nHalflight, Spear of the Church\nSlave Knight Gael",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.892929652220236
+  },
+  {
+    "document_id": "fafdb7a4-9c21-5563-bd97-6e51868e1061",
+    "title": "Slave Knight Gael",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "His search continued until the end of the world itself, when it was now reduced to an expanse of dust, ash and rubble, but the knight was finally successful, reaching the Ringed City where the Dark Soul was contained. In the ruins of the city he found the Pygmy Kings, holders of the Dark Soul inherited from the Primordial Pygmy; however, their blood had dried long ago over their ages of inaction, making it useless for his Lady's painting. Determined to complete his mission, Gael slaughtered the Pygmies before eating and drinking the dried-up Dark Soul from their bodies, in a desperate attempt to take it for himself and make it strong enough to be useful again. However the Dark Soul would prove too powerful for him, and when the Ashen One finally reunites with Gael at the end of time, he has been fully consumed both physically and mentally by the Dark Soul. He demands the Ashen One's portion of it, attacking them in a rage when they refuse. He is finally struck down, allowing the Ashen",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.676037281811112,
+    "bm25_score": 23.392899238099467
+  },
+  {
+    "document_id": "fbdaa085-109d-51c1-a457-3be62a414870",
+    "title": "Bonfire (Dark Souls III)",
+    "section": "painted_world_of_ariandel",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Bonfire (Dark Souls III) -  Dark Souls III - mechanic - painted_world_of_ariandel \n painted_world_of_ariandel : ***Snowfield**\n:The first bonfire available to the player in the Painted World. It is found directly outside the cave to which the player is teleported after speaking with Slave Knight Gael at the Cathedral of the Deep's Cleansing Chapel bonfire.\n\n***Rope Bridge Cave**\n:From the Snowfield bonfire, traveling north then east brings the player to an area populated by Farron Followers and wolves. Once the player has climbed the large hill to the north, and subsequently descended upon the other side, the Rope Bridge Cave bonfire can be found near the long rope bridge, in a cave along the right-hand cliff face. This small cave can be entered either from the front, or from a hole in its roof.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.772052629604715
+  },
+  {
+    "document_id": "fc07a19b-405c-5e8f-9c83-b4658891e63c",
+    "title": "Slave Knight Gael",
+    "section": "questline",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Slave Knight Gael -  Dark Souls III - character - questline \n questline : Upon arrival to the Cleansing Chapel, he will be found beside the altar, praying to who is likely Caitha. Noticing the player, he will ask if they would show his lady flame. If the player says no, he will ignore their refusal until agreed, playing a cutscene wherein he will produce a fragment of the painting for the player to enter. While this will be the last time the player sees of him for a while, he can later be summoned for the fight against Sister Friede.\n\nWhen journeying to the Ringed City through the Dreg Heap, Gael will guide the Ashen One in the form of messages, encouraging them to defy common sense in several locations by taking leaps of faith. Later on, he can be summoned for the fight against the Demon Prince, the final hurdle before reaching the Ringed City.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6818764834206781,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fc280a7d-ceb9-5f79-9304-94bcdfd84022",
+    "title": "Slave Knight Gael",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Slave Knight Gael -  Dark Souls III - character - description \n description : Gael wears the Slave Knight Set and is equipped with the Executioner's Greatsword and the Sunset Shield. He has long, silver hair that reaches his shoulders and a large, gray beard which reaches down to his chest.\n\nAfter devouring many Pygmy Lords and absorbing the essence of the Dark Soul, Gael's size greatly increases. His torso is now larger in comparison to the rest of his body and his chest has a large hole in it, exposing and seeming to originate from his darksign. The mantle of his armor also increases in size, becoming akin to a cape. His greatsword is now damaged, having lost its tip and part of the fuller, and his shield is nowhere to be seen.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6731556408725796,
+    "bm25_score": 24.119637814180223
+  },
+  {
+    "document_id": "10cd309a-887f-5045-8523-ca55b3c2675e",
+    "title": "Dark Soul",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Dark Soul -  Dark Souls - item - lore \n lore : During the advent of Fire, the concept of Disparity came into existence, and with it the Dark and the Light. At some point humanoid creatures found powerful souls near the First Flame and claimed them, becoming known as Lords. While the other three \"Lords\" found larger souls, a lowly and forgotten being known only as the Furtive Pygmy found a fourth, peculiar soul: the Dark Soul.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5e612369-14ae-5bd6-beee-268756e08448",
+    "title": "Dark Soul",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Most Humans would come to serve the Gods in the years that followed, while their ancestors, the Pygmies and their royal family, were relocated to the Ringed City, “gifted” to them by the \"generous\" Lord Gwyn. He also gave to them his youngest daughter, Filianore, and as she was given away, her father promised the Princess that he would come back for her, one day.\n\nThose royal pygmies that retreated to the Ringed City brought the Dark Soul with them, with the original soul eventually ending up split among multiple Pygmy Lords. The majority of the royals of the Pygmies continued to serve and revere the gods for millennia, but the Ringed Knights that took parts in the ancient war against the dragons subtly defied them in what ways they could.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6fae3cad-02ad-540b-a1b8-0b39a9eaf3d2",
+    "title": "Dark Soul",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Dark Soul -  Dark Souls - item - description \n description : The Dark Soul, one of the unique Lord Souls, was claimed by the Furtive Pygmy, the ancestor of the Chosen Undead and Humanity. In the introduction to the first *Dark Souls*, it is depicted as a small, reddish flame like a candle. However, this conflicts with later descriptions.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "75612cd5-5e0c-5f4d-8ee0-7f892da28236",
+    "title": "Dark Soul",
+    "section": "capabilities",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "In terms of passive uses, bearers or close descendants of the true Dark Soul via its Blood—such as the Pygmies—have increased longevity, though it does not seem to truly render mortal bearers immune to age and death. It is discovered that the Dark Soul carries the power necessary to create a Painted World, and the painter of the next incarnation uses this \"pigment\" to paint a cold, dark world on a canvas to escape the current painted world, once two Unkindled (Elfriede & the Ashen One) arrive and ignite the flame that burns its rot away.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "830c100b-bfad-5cd6-8195-343efd6380a9",
+    "title": "Dark Soul",
+    "section": "capabilities",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Dark Soul -  Dark Souls - item - capabilities \n capabilities : Any fragment of the Dark Soul that separates from the original can be fueled by emotions and willpower, and increase its usable power, making it the most unique of the four Lord Souls.\n\nMost notable of its functions is the power to animate life and raise sentient beings from the Abyss, for the Dark Soul is the only Lord Soul which is intrinsically tied to the Abyss, unlike the other forms of life that take energy from Souls. The main lifeform connected to it is the Human race, but lesser creatures are said to have also risen from the Dark, such as the White-faced Locust. The Dark Soul is also linked to the Dark Hand, and by extension, the art of Lifedrain. This is the legendary power of the fabled Dark Lord, used to gain humanity from others. The Darkwraiths used this power to steal Humanity from their victims.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d4dd76cf-6d94-5dea-bdb1-d0d196c433b7",
+    "title": "Dark Soul",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Using the Dark Soul, the Pygmy created black sprites of darkness called Humanity, which was given to his descendants. These dark-souled beings risen from the Abyss were called Humans, and each bore a small fragment of the Dark Soul. When the other Lords began fighting against the Everlasting Dragons, they conscripted the Humans into the forces, who aided the Lords by forging quasi-living arms and armor deep within the Abyss. But the Humans were betrayed by the Lords, for they feared the Dark that resides within each and every one of them. Their contributions to the War of the Ancients went completely unrecorded, and upon their Humanity, the Gods placed a sealing ring of fire, later to be known as the Darksign.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f0618ec0-34e9-5f3a-8c41-b9216eafaea5",
+    "title": "Dark Soul",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Dark Soul -  Dark Souls - item - trivia \n trivia : While the sprites of Humanity are pitch black and bear white eyes, the Dark Soul itself is an actual flame, implying that the sprites are more creations than exact replications.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f17875f7-83bc-5647-9306-3063892fe5be",
+    "title": "Dark Soul",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Dark Soul -  Dark Souls - item - lead \n lead : The is one of the Souls of Lords in *Dark Souls* and the one found by the Furtive Pygmy. It is the namesake of the *Dark Souls* series.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3d2ee1d8-1bdd-5662-98dc-453694e5d1b6",
+    "title": "Filianore",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Filianore -  Dark Souls III - character - theories \n theories : Given that her name doesn't contain the particle \"Gwyn\" like her siblings, it is possible to theorize that Gwyn wholly severed kinship ties with Filianore as he \"gave\" her away. Doing so could have served to impede a Pygmy Lord being officially inducted into the Anor Londo clan through marriage with Filianore, in the same way as it had happened with Seath the Scaleless, a prospect which Gwyn likely desired to avoid, given the Pygmies' heritage. If so, Gwyn's \"gift\" of his daughter to the Pygmies would be a merely symbolic gesture with little political value. Furthermore, her title as \"Princess\" seems to indicate that she never married into the pygmy royalty.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3f138d4d-f35e-531e-b2c0-de629b8d08ba",
+    "title": "Filianore",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Filianore -  Dark Souls III - character - lore \n lore : Filianore is the last daughter of Gwyn, Lord of Sunlight. Her sacred symbol is a crest of young grass.\n\nShe did not reside in Anor Londo during the Age of Fire unlike the other deities. Her father Gwyn, after winning the war against the dragons, \"gave\" Filianore as a gift to the Pygmy Lords together with a magnificent ringed city at the edge of the world. Before leaving her in the Ringed City, Gwyn promised her that he would come back for her some day.\n\nThroughout the millennia that followed in the Age of Fire, the Pygmies worshipped Filianore as a goddess, building a church in her name with her as the matriarch. Even the Pygmy Lords who possessed the Dark Soul and ruled the city relied on her for salvation.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "48ddcd9a-68d4-5e92-9e24-db274a67913a",
+    "title": "Filianore",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Filianore -  Dark Souls III - character - description \n description : Filianore is a large woman with long, dark hair. She wears long, white robes and a silver circlet. She rests eternally on a bed, embracing a cracked shell which resembles an egg.\n\nAfter the \"egg\" shatters, Filianore's body suddenly becomes worn and dry, with hollowed eyes and consumed appearance.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7dfe75bb-d6e4-5717-83c0-dd4008d6e608",
+    "title": "Filianore",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "At a certain point Filianore fell into a deep sleep hugging a Vagrant egg, causing the appearance of a space-time barrier that isolated the Ringed City from the effects of the fading of the First Flame on the rest of the world. The order of the Spears of the Church was thus founded, which enlisted knights with the duty of protecting the princess's slumber from trespassers, and maintaining the city's state of isolation and containing the Dark Soul within. These guardians received Filianore's Spear Ornaments as proof of the fulfillment of their duties.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8e2397a7-3671-5e12-9c4c-5228fef568e6",
+    "title": "Filianore",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "It is possible to theorize that the space-time barrier that isolates the Ringed City from the effects of the fading of the First Flame is the result of the interaction between the \"light\" of Filianore and the \"darkness\" of the Vagrant egg she embraces, as the darkness can manipulate space and light can manipulate time. However, the mechanisms of this interaction and its origins are impossible to know.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9e5eea46-50bf-5b89-8539-e961cf1012b7",
+    "title": "Filianore",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Filianore -  Dark Souls III - character - location \n location : Filianore is located in Filianore's Rest in the Ringed City.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a5f7cffd-aa59-5bf8-b8f5-418a4e6e845f",
+    "title": "Filianore",
+    "section": "plot",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Filianore -  Dark Souls III - character - plot \n plot : Filianore is guarded by the members of the Spears of the Church covenant. They prevent trespassers from disturbing her slumber. Once the player defeats the Spears of the Church, they can enter the Filianore's chamber and touch the broken shell she is embracing. Doing so will awaken Filianore and transport the Ashen One to an endless, empty desert resembling that particular scene in the opening cinematic of the game, containing ruins of the Ringed City. While the exact nature of this location is unknown, Filianore's decayed corpse is found on the bed within her tower in the desert.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "be726258-a4bc-5d22-8aab-498906479189",
+    "title": "Filianore",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Filianore -  Dark Souls III - character - trivia \n trivia : When the player is summoned as a phantom, Filianore's body is seen in ghostly form.\nShe is unable to be struck via any means other than initiating her cutscene, as any attempt to strike her will either be absorbed or deflected.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f0714cef-7b3c-57d4-ba95-c2d605e6d0f2",
+    "title": "Filianore",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Filianore -  Dark Souls III - character - lead \n lead : **Filianore** (フィリアノール) is a special character in *Dark Souls III: The Ringed City*.\n\nShe can only be interacted with once near the end of the DLC, triggering a cutscene.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1274caa7-fc26-58e8-8a6b-aed5c1605385",
+    "title": "First sin",
+    "section": "theories",
+    "game": "Dark Souls II",
+    "entity_type": "storyline",
+    "snippet": "Similarly, after the Lords were successful in defeating the Ancient Dragons, Gwyn used his Soul to build a civilization above-ground, for humans to worship the gods in; allowing the Furtive Pygmy's descendants to come out of their abyssal caverns and live in the sunlight. The gods built a city of castles above this world from which to rule, and effectively made ingress impossible without great strength. However, in the stead of humanity taking the plunge into sin, it is Anor Londo, following the lead of its king. Thus - perhaps symbolic of this inversion - humankind becomes damned to eternal life instead of the persistent death of reality; and the gods of *Dark Souls* become ineffectual rulers, where systems similarly devolve into chaos in real life, but as designated by Providence.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "290160f1-1cf5-5a75-9d7d-e3c4da08cd71",
+    "title": "First sin",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "storyline",
+    "snippet": "In other words, Aldia here says that Gwyn, in denying the ascension of the Dark Lord and unnaturally postponing the Age of Dark, resisted the course of nature and forced not only the Age of Fire in an attempted perpetuity; he also forcefully suppressed the humanity within the humans, constricting it. Although, the dark soul is able to have feelings, and once released after a life-long imprisonment it bursts out of control, consuming the resurrected being's sanity. To avoid such disastrous consequences, the more aware population of the Ringed City has found ways to avoid neglecting the darkness within themselves, while at the same time avoiding the reprisal of the gods. The exact process of this curse's forging and its origin point are both found in *Dark Souls III: The Ringed City.*",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "349d48e8-6c40-5929-9f37-82df8a8b6a33",
+    "title": "First sin",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "storyline",
+    "snippet": "But on the other hand, a gradual process of indoctrination began: the brave contribution of the human soldiers during the war against the dragons was removed from the annals, their knights' armors were sealed with a ring of fire as well as all the pigmies. The Fire still had such strenght that soon humans were naturally born bearing the Dark Sign, that would although not become visible as long as the First Flame remained strong enough. The Way of White spreaded the faith of the gods and light, relinquishing the true origins of humanity into the forgotten past and bringing the Ringed City to a gradual, complete isolation from the rest of the world and humanity, basked in a blinding sunlight and guarded by a dark-eating dragon. The rest of humanity, living in the entirety of the world, in time forgot their original nature of beings of the dark and believed that the undeath was a terrible sin, a curse falling upon humans with the dying cycle of the Fire and that it was threfore their",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "385566d1-d4da-5f8c-9287-41476f848450",
+    "title": "First sin",
+    "section": "theories",
+    "game": "Dark Souls II",
+    "entity_type": "storyline",
+    "snippet": "The term \"First Sin\" is likely derived from the Judeo-Christian account of humankind's [https://en.wikipedia.org/wiki/Original_sin original sin], generally agreed amongst most sects to be a base flaw in all people stemming from the original humans, Adam and Eve, partaking in the fruits of a certain tree in the Garden of Eden; the sole action God strictly forbade that they do under threat of death. This fruit opened their eyes, allowing them to see and \"be as God, knowing good and evil\", but in disobeying God they effectively caused humans to be branded by Him as untrustworthy and capable of sin. He then cast them out of the Garden and had them toil for their food all their lives. Most significantly, however, was that there was a second tree within the Garden that bestowed everlasting life, with God Himself saying \"and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever\" before casting the pair out to eventually die.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3e8ce3fd-a8e9-59bc-8cb8-f275291fc14f",
+    "title": "First sin",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "storyline",
+    "snippet": "Such decision was originated by fear, for the darkness was potentially allmighty: the Dark Soul could be split endlessly without losing its inherent strenght, the darkness could spread and expand creating an abyss uninhabitable to those who gained their strenght from the light, and it was capable of producing life. A life that, like the humans', was not bound by the death. But at the times of the end of the War against the Dragons, the young and small civilization of the humans was not yet able to pose a significant threat, and the clan of Anor Londo was at the peak of its power: therefore, Gwyn decided to act swiftly without causing the wrath of the humans. The Pigmies were granted a city to call their own, a vassal of the realm of the gods, and their king obtained the hand of one of Gwyn's daughter, Filianore, granting a great prestige to the human nobility now able to focus on the growth and prosperity of their people in peace.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4fe1db8c-b64e-5f7b-a4ec-a55649d119f6",
+    "title": "First sin",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "storyline",
+    "snippet": "First sin -  Dark Souls II - storyline - lead \n lead : The **First Sin** is an event in the timeline of the series mentioned in *Dark Souls II,* which was researched by Aldia, elder brother of King Vendrick. This pursuit gave Aldia the title \"Scholar of the First Sin,\" for which the complete version of *Dark Souls II* is named.\n\nAmidst his study of the Undead Curse, Aldia committed himself to horrific experiments relating to the Curse, transforming Undead into monsters and eventually becoming one himself, amalgamated and trapped within the Bonfires. However, he had learned the cause of Undeath, an event he would come to call the **First Sin**: Lord of Sunlight Gwyn decided to contain the power of the Dark Soul and its bearers by imposing a sigil of fire on the first humans.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d9dcb027-a46a-5edf-9fb5-7d02b0d8ba83",
+    "title": "First sin",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "storyline",
+    "snippet": "time forgot their original nature of beings of the dark and believed that the undeath was a terrible sin, a curse falling upon humans with the dying cycle of the Fire and that it was threfore their duty, as the profecy foretold, to ensure the salvation of the Age of Fire. In the Undead Crypt, Aldia says the following, which supports this viewpoint:",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ddba0dbb-5726-58ca-b959-ae89171b7611",
+    "title": "First sin",
+    "section": "theories",
+    "game": "Dark Souls II",
+    "entity_type": "storyline",
+    "snippet": "First sin -  Dark Souls II - storyline - theories \n theories : Please note: the following is not proselytizing, merely pointing out how many parallels exist between these concepts. Please note that for differentiation and syntax reasons, throughout the section I have referred to* Dark Souls*' deities as \"gods,\" whereas the Abrahamic one is with a capital G \"God.\" Moreover, capitalizing His pronouns is mandatory in formal writing in English.*",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "14cbba77-bb92-5716-bf39-cb842e37d9d9",
+    "title": "Furtive Pygmy",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Furtive Pygmy -  Dark Souls - character - lead \n lead : The is a mentioned character in *Dark Souls*.\n\nOnly glimpsed or named in the opening cutscene of *Dark Souls*, he is one of the four beings who acquired Lord Souls from the First Flame; while the other three waged war against the Everlasting Dragons, Pygmy used his, the titular Dark Soul, to create the Humans, all of whom are his descendents.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "160e120a-6c09-5145-bff0-d143ba613b1a",
+    "title": "Furtive Pygmy",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Furtive Pygmy -  Dark Souls - character - trivia \n trivia : If the statue in the Ringed City truly depicts the Pygmy, it would then mean that he was still alive when the humans were gifted the Ringed City by Lord Gwyn, and having been its original ruler makes highly probable that his body is conserved in the Mausoleum that towers above the city.\nThe Furtive Pygmy being Humanity's ancestor was confirmed in an interview with Miyazaki. This clarified the words of Darkstalker Kaathe, who refers to Pygmy as \"your ancestor\", as being true but also not meaning that the Chosen Undead in particular was Pygmy's descendents, as opposed to other humans.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "18b05f05-6556-56cf-afef-b38c4ba74802",
+    "title": "Furtive Pygmy",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Furtive Pygmy -  Dark Souls - character - plot \n plot : He is only ever mentioned indirectly by Darkstalker Kaathe, leader of the Darkwraiths, who resides in the Abyss formed in New Londo. According to Kaathe, the Furtive Pygmy planned to use the Dark Soul and its power to bring about the Age of Dark. This task is then passed on by Kaathe to the Chosen Undead, a distant descendant of the Pygmy. If complied with, Kaathe and several other Primordial Serpents—including Frampt—will bow in respect to the new Dark Lord.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2b1186aa-9e3b-5cc1-9ef5-167864442f13",
+    "title": "Furtive Pygmy",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "His precautions notwithstanding, Gwyn continued to fear humans and the potential of their soul. Looking for a more permanent solution, he marked the humans with the Darksign, a ring of fire around the darkness of their souls. Powered by the First Flame itself, the Darksign castrated the powers of humans, making them mortal as well as incapable of using their natural abilities, who consequently assumed a \"fleeting form\". Despite this cruel attempt to contain the Abyss seeping out of their souls, the pygmies continued to make use of the Abyss in subtle defiance of the gods' wishes, using it to taint multiple layers of cloth to cover their eyes, revealing to themselves the very darkness that the seal of fire had occluded.\n\nAfter several centuries of the Age of Fire and the rule of the gods over men, the history of the Pygmy had been nearly lost. It remained known only to the Primordial Serpent Kaathe, who provides the following account:",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "31e3d9b8-a313-5cd0-b652-58f10ea0919e",
+    "title": "Furtive Pygmy",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "The pilgrims of Londor appear to possess knowledge of the situation of the Ringed City, to the extent that they were inspired by the motifs of the Pygmies, modeling their Sword of Avowal after the symbolism of their fabled city. This sword would be \"wielded\" by their destined Dark Lord, who would usher the Age of Man that was long desired by Kaathe and the pilgrims of Londor.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3c0e7f30-e130-57ba-99b0-d61e2cb1db6a",
+    "title": "Furtive Pygmy",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Furtive Pygmy -  Dark Souls - character - dark_souls \n dark_souls : The Furtive Pygmy is one of the primordial humanoids that appeared underground following the advent of the First Flame which brought \"disparity\"—heat and cold, life and death, light and dark. He was the one who found the Dark Soul among the four Lord Souls, the other three of which were discovered by Gwyn, Lord of Sunlight, Gravelord Nito, and the Witch of Izalith.\n\nThe Furtive Pygmy fragmented his Dark Soul among his descendants, creating the first Humans in the form of the Pygmies. The pygmies harnessed their peculiar Lord Soul and unlocked the life-generating capabilities of its Abyss, forging weapons and armor that adopted the properties of darkness.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "500e718b-2b92-57d1-b223-38ae17aa8036",
+    "title": "Furtive Pygmy",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "wherein she could slumber peacefully, \"all for the sake of man\". Gwyn had given Filianore his word that he would come for her \"when the time came\", a promise he never fulfilled, abandoning her to slumber in her church eternally.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6d2ce6e8-a2d2-5ac1-9765-cb2eae06028a",
+    "title": "Furtive Pygmy",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "While the Lords emerged victorious and were free to carve out their new domains, Great Lord Gwyn was evidently afraid of the Dark Soul. His dominion was threatened by the life-generating capabilities of the Abyss—it was similar to the First Flame, with a key exception: it had seemingly endless potential, as it lost little to no power when divided unlike Gwyn's own Lord Soul. The Lord of Sunlight resolved the issue through skillful diplomacy: He gifted the Pygmies a city at the edge of the world, along with his daughter Filianore as a token of their pact. Gwyn's generosity was cause for much gratitude among the Pygmies, which manifested as veneration and prostration to the Great Lord. His daughter Filianore became an object of worship within the Ringed City, for whom a church was established wherein she could slumber peacefully, \"all for the sake of man\". Gwyn had given Filianore his word that he would come for her \"when the time came\", a promise he never fulfilled, abandoning her to",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7d888e2c-e846-50c8-a4e1-02e9a4a5a993",
+    "title": "Furtive Pygmy",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "With this clever move Gwyn ensured the subjugation of the Pygmy Lords, their Dark Soul trapped inside the Ringed City and expunged from the annals. Even the contributions of the Ringed Knights during the war against the dragons were erased from history, as well as the very existence of the Pygmy.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8a207be4-354e-5992-80c6-d71b0081ebf9",
+    "title": "Furtive Pygmy",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Furtive Pygmy -  Dark Souls - character - dark_souls_iii \n dark_souls_iii : At some point, the primordial Pygmy died and his Dark Soul was inherited by his descendants, the royal family of the Ringed City. Throughout the millennia that followed in the Age of Fire, the Pygmies maintained their obeisance and worship of the gods. The Pygmy Lords who inherited the Dark Soul and ruled the city would turn to Filianore for salvation in their direst times.\n\nA \"mad\" king was one day born among the pygmies, whose actions led Shira, Knight of Filianore to put him to rest. Made undying by the Dark Soul, Shira was only able to pin her cross spear to the king's body, where she watched over his imprisoned remains forever. Following this event, the Pygmy Lords apparently continued to rule as an oligarchy.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9462cfbb-b209-50f9-a7f3-1538a726a0e4",
+    "title": "Furtive Pygmy",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Furtive Pygmy -  Dark Souls - character - dark_souls_ii \n dark_souls_ii : Several centuries after Lord Gwyn linked the First Flame for the first time, the Furtive Pygmy is all but forgotten even in Drangleic, a realm beyond the direct influence of the gods. Only the group known as the Pilgrims of Dark is still aware of the origins of the humans and appear to worship a Dark Lord of some sort, though they never directly refer to the Pygmy. Darkdiver Grandhal would encourage the undead who come to Drangleic to dive into the Abyss that has opened up in the region and to challenge the depths deeper and deeper to understand their own darkness, for which he rewarded them with his hexes and dark sorceries.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a0013629-2c85-5b59-850c-189f309e2bb1",
+    "title": "Furtive Pygmy",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "As Gwyn's war against the Dragons proved costly for his forces, the Lord of Sunlight was forced to integrate into his ranks the Ringed Knights, descendants of the Furtive Pygmy who had developed their own weapons and armor vitalized by the Abyss. With their combined might, the four Lords eventually defeated the dragons, beginning a new age.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bf0b9b41-d474-5a14-b6cf-59a0e820a47c",
+    "title": "Furtive Pygmy",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Furtive Pygmy -  Dark Souls - character - description \n description : The Pygmy looks like a normal humanoid figure, particularly thin, with an indistinguishable face and lacking hair.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3d93d5bc-4328-5f61-9f54-a15731d54afb",
+    "title": "Pygmy Lord",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Pygmy Lord -  Dark Souls III - character - trivia \n trivia : Several corpses belonging to the same group as the Pygmy Lord can be seen scattered across Gael's boss arena.\n**One of them is even killed by Gael during the cutscene before his boss fight.\nGiven the location of the thrones in relation to Filianore's chamber in the cathedral, it means that the throne room of the Pygmy Lords was located inside the mausoleum that can be seen from the first bonfire of the Ringed City.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7fe5e219-f5bd-5fad-bbec-c11fd73fc742",
+    "title": "Pygmy Lord",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Pygmy Lord -  Dark Souls III - character - lead \n lead : The is a character in the *Dark Souls III: The Ringed City DLC*.\n\nHe is voiced by Ramon Tikaram, who also voiced the Ringed City Pygmy in *Dark Souls III*, as well as [https://eldenring.fandom.com/wiki/Godrick_the_Grafted Godrick the Grafted] and the [https://eldenring.fandom.com/wiki/Mad_Pumpkin_Head Mad Pumpkin Heads] in *[https://eldenring.fandom.com/wiki/Elden_Ring_(game) Elden Ring]* and *[https://eldenring.fandom.com/wiki/Elden_Ring_Nightreign Elden Ring Nightreign]*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cbd7a1c2-0c5d-5646-81f7-2bb66a94812c",
+    "title": "Pygmy Lord",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Pygmy Lord -  Dark Souls III - character - lore \n lore : This Pygmy Lord is a member of the royalty within the Ringed City, who directly inherited the Dark Soul and protected it within themselves, being related to the Furtive Pygmy in some way.\n\nLord Gwyn gifted them the city as a sort of peace offering, as well as his daughter Filianore, who would eventually slumber, preserving the city and keeping the Dark at bay. They ruled the city in a rather adequate manner, with the exception of a madman who would rise among the royalty. He would be dispatched by Shira, Knight of Filianore, who failed to kill him for good, and thus secluded herself inside a darkroom where she and the cross spear that had impaled the undying king would be held close until the end of time, preventing him from causing havoc.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fb814a6a-db91-56ee-9803-8cb50739dfd3",
+    "title": "Pygmy Lord",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Pygmy Lord -  Dark Souls III - character - location \n location : He is encountered in the Ringed City after awakening Princess Filianore, in Filianore's Rest.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1993f297-3dcc-59b4-abcd-939703cb0389",
+    "title": "Ringed City Pygmy",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ringed City Pygmy -  Dark Souls III - character - theories \n theories : Some people speculate that the Ringed City Pygmy is actually the fabled Furtive Pygmy. This isn't based on much other than his mysterious demeanor, fairly unassuming presence, and subsequent disappearance from the game. His similarities to the city's rulers, as well as his surprisingly beefy health bar only serve to fuel this specific conclusion.\n\nThis is all just speculation though, to be taken with a grain of salt.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2dd6db4c-53f4-5e25-b004-09ebb6dcf92b",
+    "title": "Ringed City Pygmy",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ringed City Pygmy -  Dark Souls III - character - lead \n lead : The **Ringed City Pygmy**, or **Ringed City Hollow**, is a character in the *Dark Souls III: The Ringed City DLC*.\n\nHe is voiced by Ramon Tikaram, who also voiced the Pygmy Lord in *Dark Souls III*, as well as [https://eldenring.fandom.com/wiki/Godrick_the_Grafted Godrick the Grafted] and the [https://eldenring.fandom.com/wiki/Mad_Pumpkin_Head Mad Pumpkin Heads] in *[https://eldenring.fandom.com/wiki/Elden_Ring_(game) Elden Ring]* and *[https://eldenring.fandom.com/wiki/Elden_Ring_Nightreign Elden Ring Nightreign]*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "416f0880-fc6f-5380-9471-99bfd558d9cd",
+    "title": "Ringed City Pygmy",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ringed City Pygmy -  Dark Souls III - character - lore \n lore : Not much is known about this enigmatic Pygmy. His appearance resembles that of the Pygmy Lords, as he wears a tatterd version of their clothes and has their same long white hair. All he is missing is their signature crown, something that was seemingly gifted to them by Gwyn and the Gods, which he very openly despises.\n\nHe believes that the Ashen One found their way to the city in an attempt to dispell Filianore's illusion and get their hands on the Dark Soul, no matter what they say about their own intentions. He directs them to the ends of the city, claiming to be their friend and ally and vanishing once the deed is done.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c9338510-2216-5e1b-a0a2-91b70890c31d",
+    "title": "Ringed City Pygmy",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ringed City Pygmy -  Dark Souls III - character - trivia \n trivia : He has unnaturally high HP, leading some players to think he's unkillable.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e69862f5-77e9-5a74-9a3d-5aa14cf91fe8",
+    "title": "Ringed City Pygmy",
+    "section": "plot",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ringed City Pygmy -  Dark Souls III - character - plot \n plot : The Ringed City Pygmy is the first character the player will meet when making their way past the Demon Prince. He doesn't have much of a purpose outside of pointing the player towards a new objective once they've finally reached the fabled city, which is to disturb Princess Filianore's slumber. He mainly serves an expository role.\n\nHe will disappear completely once the player does what he suggested and Filianore is awakened.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "eee6c8a2-7f19-56a4-8102-a2ece18e53af",
+    "title": "Ringed City Pygmy",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ringed City Pygmy -  Dark Souls III - character - location \n location : He is encountered at the entrance of the Ringed City, just before the Mausoleum Lookout bonfire.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0d843c59-bf5e-5d5c-9ae6-81a972d3f82c",
+    "title": "Shira, Knight of Filianore",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Shira, Knight of Filianore -  Dark Souls III - character - lead \n lead : is a character and summonable phantom in the *Dark Souls III: The Ringed City DLC*. At a certain stage of the DLC, she will permanently turn hostile.\n\nShe is voiced by Poppy Drayton.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "19b65122-8f5e-5f11-b6ee-6aa8aa0431f2",
+    "title": "Shira, Knight of Filianore",
+    "section": "plot",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Shira, Knight of Filianore -  Dark Souls III - character - plot \n plot : Shira is one of the few friendly characters in the Ringed City. She stands behind a locked door and can be interacted from the other side. Upon telling her the name of Lord Gwyn she will warm up to the player's presence, and request of them the great favor of mercy-killing the afflicted Midir, a dragon that still guards the city and the princess from intruders. If the player accepts to aid her, she will give them the Sacred Chime of Filianore.\n\nThis interaction will also allow Shira to be summoned for the boss fight against said dragon, providing ranged support with her Lightning Arrow miracle. She tends to have a hard time keeping up with the beast's aggressive attacks however. Summoning her for the encounter or not has no bearing on the completion of her request, as she'll thank the player for granting Midir his deserved rest regardless. As a reward, she'll give out a Titanite Slab.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "314bdf72-bfb6-525d-8744-457b53dcb374",
+    "title": "Shira, Knight of Filianore",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Shira, Knight of Filianore -  Dark Souls III - character - theories \n theories : It is incredibly likely that the Duke mentioned by Shira is none other than Seath the Scaleless himself. For one, he is the only prominent duke who is ever mentioned as part of the age of the gods, which would explain why Shira speaks of her parentage to a duke as if it were self-explanatory. Another clue may come from the pearl lodged in her crown, which was harvested from the Man Eater Clams. These creatures were found nesting in the Crystal Cave, part of Seath's domain, as well as the primordial Ash Lake, a place tied to the dragons.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3655c97f-a4be-50cc-9253-422d945fe47c",
+    "title": "Shira, Knight of Filianore",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Shira, Knight of Filianore -  Dark Souls III - character - trivia \n trivia : Shira's Japanese name \"**シラ**\" could also be read as an alternative spelling of \"Scylla\", which is the name of a [https://en.wikipedia.org/wiki/Scylla sea monster] in Greek mythology.\n**This could lend more credence to her connection to Seath, as the Japanese name for the Pisacas, some of his creations, is the more widely used Japanese name for Scylla: \"**スキュラ**\".\nHer concept art shows her with flowing white hair, while her in-game model opts for light brown hair, bordering dirty blonde, tied up in a braid.\nDue to a bug in the PC version, she may clip through the floor and fall to her death when she is summoned, or traverse the fog before the beginning of Darkeater Midir's boss fight.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "38c9c963-3d06-50dc-a962-4ac408aaf92e",
+    "title": "Shira, Knight of Filianore",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The Lord of Sunlight would end up gifting the Pygmies with a magnificent city at the edge of the world, sealing the deal by relinquishing his beloved daughter too, who would remain there until the day he would return for her. Shira and her trusted friend, the dragon Midir, who was raised by the Gods and given the duty of battling the Dark, would follow their liege and guard the Ringed City, keeping those who would rouse her awake at bay. By the king's decree, the Judicator Giants and the Spears of the Church would follow suit, ensuring peace. Shira seemes to admire this order, especially those of them who would reach the rank of Divine Spear.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "41f91680-5d4f-547c-a371-2fb22fe83548",
+    "title": "Shira, Knight of Filianore",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Shira and Midir continued to uphold their duties, even as the state of the city deteriorated over the countless years of the unnaturally prolonged Age of Fire. Even as the world began collapsing onto itself, the two stood dutiful, until the Ashen One follows the path of the world-ending spiral to the hidden city. The Unkindled, speaking the name of the ancient king Gwyn, manages to win the knight's trust, who takes the opportunity to enlist them to finally put Midir to rest, even offering her aid to accomplish that feat, leaving the darkroom she had secluded herself into just for the sake of releasing her friend from his duties.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6985b2f9-6013-56b5-8b2c-f9b1a6c0d103",
+    "title": "Shira, Knight of Filianore",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Shira would eventually have to quell a corruption that had been growing within the very city, caused by a mad king that had emerged among the other Pygmy Lords. When she tried to put him to rest, she realized that his body could not die, and he simply remained impaled to her cross spear, which began to be permeated with the king's dark power. As a result, Shira would bring her weapon to a darkroom, sealing the door shut and remaining by its side to ensure the king would remain put. Even in this prolonged captivity, the descendant of the Gods remained dignified, wearing her noble attire even though no one would see it.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "71d7699d-e9cc-5de7-a38d-8eb8a999d667",
+    "title": "Shira, Knight of Filianore",
+    "section": "artifacts",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Shira, Knight of Filianore -  Dark Souls III - character - artifacts \n artifacts : Crucifix of the Mad King\nShira's Set",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7539fdcd-0dce-5dd6-a38c-19427eda23cc",
+    "title": "Shira, Knight of Filianore",
+    "section": "locations",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Shira, Knight of Filianore -  Dark Souls III - character - locations \n locations : She is first encountered behind a large door, which is found at the top of the stairs above the Ringed City Streets swamp, patrolled by several Harald Legion Knights.\n\nShira's summon sign is located inside the small shrine from which Darkeater Midir's arena can be accessed.\n\nAfter the player has interacted with the slumbering Filianore, her previous locations will all become unavailable, as she will now be found exclusively within a small ruin in the ash-covered landscape accessed from the Filianore's Rest bonfire.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "809e23ce-08e0-58f3-ae32-0d96ebe7fb0d",
+    "title": "Shira, Knight of Filianore",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Shira, Knight of Filianore -  Dark Souls III - character - strategy \n strategy : Shira is likely to be the player's final NPC fight in the game, and as such she proves to be fairly challenging. She'll constantly cast Lightning Arrow against players who stay out of reach of her halberd. Sometimes she'll even be the one to create distance on purpose so she may safely attack them from a distance.\n\nShe favors using her melee weapon two-handed when it's time to fight at close range, and she isn't shy about using her weapon's Mad King's Folly skill either. It allows her to gain a temporary buff to her poise and defense, cast a dark projectile, or simply hit the player with a screech which knocks them back a fair bit, so that she may begin pelting them with elemental arrows again.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "84dfd81a-5f9a-504e-82af-3b5bf9cdf886",
+    "title": "Shira, Knight of Filianore",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "She has access to five Estus Flasks during this encounter, allowing her to persist much longer than other enemies like her. Her resistence to Fire and Lightning is also nothing to scoff at. Thankfully she remains susceptible to status effects like Poison/Toxic and Frost, which could help greatly during the battle. Luring her away to the single Ringed Knight who resides within the ashen wasteland is not a good idea however, as the enemy will not be hostile to Shira and will instead work with her to destroy the player.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8f205ac0-a93b-5156-80ea-46d11ca18809",
+    "title": "Shira, Knight of Filianore",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Even the name has some thematic and etymological connection to Seath, as Shira resembles the Japanese word for \"white\", written as \"**白**\" and pronounced \"*shiro*\", a kanji that makes up part of the Duke's title of \"White Dragon\", written as \"**白竜**\". It doesn't stop there, though, as the name also shares an impressive connection with Priscilla's, as Shira's Japanese name \"**シラ**\" is part of the Crossbreed's Japanese name \"**プリシラ**\". Priscilla's connections to Seath come from her stark white coloration and her nature as a half-dragon, as crossbreeds were something the old Paledrake was highly interested in. This would make the two half-sisters, but not full ones, as Priscilla is stated to have been born of adultery, meaning they'd have two distinct mothers.\n\nThis is all just speculation, however, to be taken with a grain of salt.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b2f7f647-dc74-5612-b8cc-f1c3109a2ba2",
+    "title": "Shira, Knight of Filianore",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Meanwhile, her friend Midir had been corroded by the powers of the Dark he had been battling. Although his strong sense of duty wouldn't let him cease his watch, the knight reluctantly concluded that the afflicted dragon had to die, for the Dark would eventually destroy everything that made him who he was, eroding him into nothing but a mad beast. She wished to let him pass on with his honor and sense of self still intact.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b7834ed3-c59f-5a65-8523-25f91a97b48e",
+    "title": "Shira, Knight of Filianore",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The great weight lifted from Midir's shoulders is celebrated, but the respite is brief. In truth, the Ashen One was seeking Princess Filianore, following the trail that had been left by Gael. This was the one thing Shira had warned them not to do. Betrayed and filled with righteous fury, she attacks the Unkindled in the name of her heritage, her princess and her companion Midir. The champion of Ash would triumph, likely extinguishing the line of the Gods.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e3bf9533-c29a-59e1-ab3e-daf79c7b44a9",
+    "title": "Shira, Knight of Filianore",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Shira, Knight of Filianore -  Dark Souls III - character - lore \n lore : Shira is a descendant of the Gods, a child of royalty, and the daughter of a certain Duke, who goes unnamed. Her crown denotes her noble pedigree, made out of silver and adorned with a pearl retrieved from a dangerous Man Eater Shell. She appears to have been from the early age of the gods, as she makes use of a miracle of that era, issued to female knights. She was also the sworn knight and personal handmaiden of Princess Filianore, the youngest daughter of Gwyn.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f31c85a6-2b69-5e0b-a4ee-b4342714eedd",
+    "title": "Shira, Knight of Filianore",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Shira's descent from royalty and the Gods would also make sense, due to the original *Dark Souls* establishing that Seath had become part of Gwyn's family by becoming the consort of one of his female relatives. This would mean that she would be born of that marriage, thus retaining most of her divine heritage. Her friendship with Midir could also take on a new light, as if she had draconic descent, she'd be able to relate and even grow incredibly close to the great being with relative ease due to their partially shared roots.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "30b58bb8-c632-5f9f-b9a4-8147f6b691ad",
+    "title": "Slave Knight Gael",
+    "section": "fight_overview",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "At this point Gael will more commonly mix two forms of his attacks, one being a flipping vertical attack that comes down on the player, quickly followed with another identical strike. This will leave him open for several attacks (two with a heavy weapon). It is still possible to stun Gael in this form, but he is able to recover quicker, and in some cases he will instead release another swarm of the slow moving seeker projectiles. After releasing the projectiles Gael will fly off into the air to the players left, and come in for a diving attack. The player should dodge either into the attack or off to its right, as Gaels cloak will usually swipe players dodging to the left or away. If the player needs to escape Gael to cast buffs or heal, there are three sections of wall around the arena that are large enough to get him caught behind in his attack animations to offer such times. Gael does possess the ability to disappear and teleport to the player, though the process is slow, and its",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "40842343-75cc-53d4-a4de-daf0aaeb74fd",
+    "title": "Slave Knight Gael",
+    "section": "fight_overview",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "fight_overview : When encountered as a boss, Gael appears monstrous and his moves mirror his beastly nature, he does high amounts of damage and can endure some significant punishment himself. Aside from the damage his moveset has him bounding, and jumping around the players position in a manner that can even force the lock-on function to drop. His attacks are all easy to memorize however, and the only time the player should worry is when Gael rears back, releases a frustrated groan, quickly followed by several powerful strikes. Followed at the end by high leap plunge attack that affects a small area around the blades impact. Key to this battle is his poise, he can be staggered but not riposted, the player should pay close attention to how many hits it takes to stagger him (usually three with great weapons), and act accordingly, if this weakness exploited correctly he can be stunned out of his hard-hitting combos in the second phase.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "48365461-1a87-5661-97f1-6b004f08bc09",
+    "title": "Slave Knight Gael",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Friede \"protected\" their world, even killing their own brethren who opposed her. The Painter, the \"Lady\" of the corvians, was imprisoned in the library of the corvian village, to prevent her from preparing the next Painted World.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6b1dd261-9af7-5b93-ab00-86f126d06fe5",
+    "title": "Slave Knight Gael",
+    "section": "fight_overview",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Once a third of his HP has been depleted he transitions into his second phase and turns hollow (Noted by the fact that the Hollowslayer Greatsword deals more damage to him in his second and third phase), in which he abandons his previously bestial stance in moves in a very human manner. at this point he also gains new moves and starts using his Repeating Crossbow, a special version of the Way of White Corona, and a slow acting teleport sometimes used when the players is at extreme ranges. The crossbow attacks are best avoided unless using a shield with high stability, due to the sheer volume of projectiles. The corona projectiles usually precede his use of the Repeating Crossbow, and will fan out in a large cone in front of his current position. The player should charge Gael as he winds up this attack and dodge past him in order to avoid the coronas launch, and return path. Attacks with his sword are followed by his damaging cape so dodging towards him is recommended to avoid getting",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7105ef8b-913f-5607-b7f9-b0d5755cee1a",
+    "title": "Slave Knight Gael",
+    "section": "fight_overview",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "that are large enough to get him caught behind in his attack animations to offer such times. Gael does possess the ability to disappear and teleport to the player, though the process is slow, and its wind up after his teleportation is just as slow. The resulting attack does cover a massive radius however, so it is advised to time the dodge correctly. Or run from Gael once it is noticed that he is teleporting to the players position. One such wall is opposite of the players starting position in the second phase of the fight. It has a broken wall that leads down a slope on the other side that is too sharp for Gael to follow. Forcing him to path around the large structure on his own to reach the player.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f09797e2-9348-5139-83a9-73338a7b04ab",
+    "title": "Dragon Scale",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Dragon Scale -  Dark Souls - item - description \n description : Dragon scale for reinforcing dragon weapons. Peeled from an ancient dragon.\n\nA dragon is inseparable from its scales, and the transcendent apostles, who seek the perpetuity of the ancient dragons, have crossed the very end of the earth to seek this invaluable treasure.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.926621616203004
+  }
+]

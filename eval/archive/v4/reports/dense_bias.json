@@ -1,0 +1,805 @@
+{
+  "generated_at": "2026-10-16T15:17:10Z",
+  "inputs": {
+    "human_seeds": "eval/v3/seeds/human-judgments.json",
+    "v1_qrels": "eval/v1/qrels.final.json",
+    "v1_dense_run": "eval/v1/runs/contextfromvectors_k10.run.json",
+    "v3_dense_run": "eval/v3/runs/contextfromvectors_k10.run.json",
+    "v3_hybrid_run": "eval/v3/runs/contextfromvectors_hybrid_k10.run.json",
+    "min_grade": 2,
+    "dense_k": 10
+  },
+  "provenance_check": {
+    "claim": "v3 human gold is imported verbatim from v1 qrels",
+    "questions_total": 50,
+    "questions_with_identical_gold": 50,
+    "all_identical": true
+  },
+  "v3_metrics_anomaly": {
+    "dense_ndcg@10": 0.590436651563472,
+    "hybrid_ndcg@10": 0.5013213962468509,
+    "note": "v3 anomaly this audit explains: dense structurally wins because human gold is dense-top-k-shaped"
+  },
+  "pooled": {
+    "n_questions": 50,
+    "human_gold_total": 638,
+    "gold_ids_in_v1_dense_top10_total": 274,
+    "mean_frac_gold_in_dense_top10": 0.4744638236496158,
+    "median_frac_gold_in_dense_top10": 0.4166666666666667,
+    "n_questions_majority_gold_in_dense_top10": 21
+  },
+  "per_question": {
+    "q001": {
+      "n_human_gold": 15,
+      "n_dense_top10_in_gold": 6,
+      "dense_top10_precision": 0.6,
+      "n_gold_in_dense_top10": 6,
+      "frac_gold_in_dense_top10": 0.4,
+      "gold_ids_in_dense_top10": [
+        "a3ea31f3-6886-5de4-b5c8-d38564c72297",
+        "d3dcf730-58ad-529a-8c36-6e188e97ba50",
+        "31f7625a-0a64-575f-bef3-5f7a42300f53",
+        "e7ee451c-f3b3-51c5-9449-355396ef817d",
+        "9d35389b-adff-551c-bc2e-2b7fca7e8dfa",
+        "3982a66f-fad1-5598-891a-0ec30263439e"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q002": {
+      "n_human_gold": 24,
+      "n_dense_top10_in_gold": 10,
+      "dense_top10_precision": 1.0,
+      "n_gold_in_dense_top10": 10,
+      "frac_gold_in_dense_top10": 0.4166666666666667,
+      "gold_ids_in_dense_top10": [
+        "9949cb20-3bc2-59d1-8d22-371b104d1f8f",
+        "db549071-dd75-52a2-a36c-c82d255d9752",
+        "b973ad28-00f7-51da-98d8-954179376f9a",
+        "e0a9614c-c3a0-51c6-bbe3-aa7978f5940c",
+        "6a526081-9a33-52ac-8cbf-3d95bc679b99",
+        "8140a5b2-fa7c-5340-bcc0-eed39042a8f1",
+        "8c2ac1b7-5f2d-5467-924a-4a65c26e421d",
+        "dbde7d75-06a7-520b-b017-5550fe901781",
+        "f28309f9-75e6-5837-8aa5-1086014a8e52",
+        "c3631e29-b2d7-5198-8d8d-eb579f99298c"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q003": {
+      "n_human_gold": 27,
+      "n_dense_top10_in_gold": 9,
+      "dense_top10_precision": 0.9,
+      "n_gold_in_dense_top10": 9,
+      "frac_gold_in_dense_top10": 0.3333333333333333,
+      "gold_ids_in_dense_top10": [
+        "96afac64-516b-5314-8a46-07ff1016c834",
+        "aae4f31c-339e-57dc-8d1a-051ee27b59a0",
+        "6c237de0-f3ba-54d9-9638-691bc533f1ad",
+        "08d50a00-3fd9-5054-b56e-9a70b11454c7",
+        "dd0981a9-895b-5720-867f-c978516a9834",
+        "acb59141-dd10-59da-836c-290a7b82d8dd",
+        "7d8ab888-64a3-56db-baad-12db150e37f4",
+        "771f16fa-2b07-5164-b680-ce8550b52fe4",
+        "8992c83d-fbe1-51af-915c-f94a087048e8"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q004": {
+      "n_human_gold": 12,
+      "n_dense_top10_in_gold": 5,
+      "dense_top10_precision": 0.5,
+      "n_gold_in_dense_top10": 5,
+      "frac_gold_in_dense_top10": 0.4166666666666667,
+      "gold_ids_in_dense_top10": [
+        "7cc08680-9b94-5db5-bb42-4fc67a3ea2d0",
+        "16795989-f803-5757-a9c2-7bfb1d91bf7a",
+        "8ae69310-27b0-54b7-9eb1-5cde302fed29",
+        "d9c5b2a5-d518-5e77-b27d-e659209c71a7",
+        "41f9161b-fe14-5db4-9cb8-ae5a33f690ab"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q005": {
+      "n_human_gold": 11,
+      "n_dense_top10_in_gold": 7,
+      "dense_top10_precision": 0.7,
+      "n_gold_in_dense_top10": 7,
+      "frac_gold_in_dense_top10": 0.6363636363636364,
+      "gold_ids_in_dense_top10": [
+        "a0c53d8b-d7cf-5c2c-9913-3d7828fd2340",
+        "8208ca16-c392-549a-9f2e-f54d00e2921f",
+        "096f28de-5eb7-5ff0-8e13-d5a8c5cec2ca",
+        "bd1a2e47-42a8-5c04-8ea7-5a57a8574e06",
+        "15b233d6-e976-5555-99a7-51fdd65f4a07",
+        "95777e6e-b0ca-5e76-9358-66c7ac4ac3ad",
+        "b8a29fe5-5dcc-5fb7-8c09-3c6ad923e513"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q006": {
+      "n_human_gold": 12,
+      "n_dense_top10_in_gold": 7,
+      "dense_top10_precision": 0.7,
+      "n_gold_in_dense_top10": 7,
+      "frac_gold_in_dense_top10": 0.5833333333333334,
+      "gold_ids_in_dense_top10": [
+        "7b82f581-96f0-5602-aabd-9f8f98dbda53",
+        "271de031-aa05-57c4-9a15-7232337e70d8",
+        "aa4a04df-e9ed-5d2f-9cc5-ca7173b5165a",
+        "820bc0cb-02ed-515d-837c-401fb4b49237",
+        "b0873372-477c-5aa6-bb91-2f69db7e442b",
+        "2e9e6274-5879-5f9a-b41e-38fd52a6bc4c",
+        "a5920d6b-a687-50d1-8380-b184fca27d9e"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q007": {
+      "n_human_gold": 26,
+      "n_dense_top10_in_gold": 7,
+      "dense_top10_precision": 0.7,
+      "n_gold_in_dense_top10": 7,
+      "frac_gold_in_dense_top10": 0.2692307692307692,
+      "gold_ids_in_dense_top10": [
+        "0c9f3967-4171-53e7-89a2-ab8f355ba3d5",
+        "08d50a00-3fd9-5054-b56e-9a70b11454c7",
+        "aae4f31c-339e-57dc-8d1a-051ee27b59a0",
+        "96afac64-516b-5314-8a46-07ff1016c834",
+        "a0d78687-841b-5f92-abbd-3288d802aee2",
+        "f76aa087-4895-56e5-b46a-3f775e613d44",
+        "052d4b96-efac-5a8f-9fac-fdf65e98daa3"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q008": {
+      "n_human_gold": 17,
+      "n_dense_top10_in_gold": 7,
+      "dense_top10_precision": 0.7,
+      "n_gold_in_dense_top10": 7,
+      "frac_gold_in_dense_top10": 0.4117647058823529,
+      "gold_ids_in_dense_top10": [
+        "f28309f9-75e6-5837-8aa5-1086014a8e52",
+        "dbde7d75-06a7-520b-b017-5550fe901781",
+        "bd1a2e47-42a8-5c04-8ea7-5a57a8574e06",
+        "3084a087-32ee-5ec0-b7d9-2f496e4b4604",
+        "8c2ac1b7-5f2d-5467-924a-4a65c26e421d",
+        "e0a9614c-c3a0-51c6-bbe3-aa7978f5940c",
+        "a0c53d8b-d7cf-5c2c-9913-3d7828fd2340"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q009": {
+      "n_human_gold": 23,
+      "n_dense_top10_in_gold": 9,
+      "dense_top10_precision": 0.9,
+      "n_gold_in_dense_top10": 9,
+      "frac_gold_in_dense_top10": 0.391304347826087,
+      "gold_ids_in_dense_top10": [
+        "dd7afd29-89a5-5c70-85e3-a2c319c5308a",
+        "6ab5d255-e36c-59b1-93d2-283c78a1c9a7",
+        "985958be-9408-5ac2-9cf6-6f0e9be514f6",
+        "8e3fd917-80ba-5511-9e4d-c56055791296",
+        "2483ee55-c8ff-5cf8-84b6-f3c1fa2927e7",
+        "9abf34cc-6504-54b7-8cd8-5ffead9dff54",
+        "f28309f9-75e6-5837-8aa5-1086014a8e52",
+        "dbde7d75-06a7-520b-b017-5550fe901781",
+        "10fc8d45-509d-5954-a5b2-dbafd1598772"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q010": {
+      "n_human_gold": 6,
+      "n_dense_top10_in_gold": 2,
+      "dense_top10_precision": 0.2,
+      "n_gold_in_dense_top10": 2,
+      "frac_gold_in_dense_top10": 0.3333333333333333,
+      "gold_ids_in_dense_top10": [
+        "c39e3660-4c58-5b01-b8be-d4803617ee54",
+        "1dc02d53-b0d7-5eaf-a5d6-3c448eb83e37"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q011": {
+      "n_human_gold": 8,
+      "n_dense_top10_in_gold": 5,
+      "dense_top10_precision": 0.5,
+      "n_gold_in_dense_top10": 5,
+      "frac_gold_in_dense_top10": 0.625,
+      "gold_ids_in_dense_top10": [
+        "aa597a89-2430-599d-b234-cefa14ab5e83",
+        "5862a989-4287-54c3-9602-db246be19dcc",
+        "879cef9a-d5b5-5608-9b6c-081625044f8e",
+        "08af4ed8-c9b7-5fab-a319-c84d58f41552",
+        "a65685c8-e85e-5fca-ab38-9114aedbb97c"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q012": {
+      "n_human_gold": 6,
+      "n_dense_top10_in_gold": 6,
+      "dense_top10_precision": 0.6,
+      "n_gold_in_dense_top10": 6,
+      "frac_gold_in_dense_top10": 1.0,
+      "gold_ids_in_dense_top10": [
+        "7589984f-ebb7-5b41-a49e-0c34ff093149",
+        "7f83a41d-0f5a-5e0b-bb0f-68bc58f40776",
+        "17f95ce3-162a-5150-81ac-91de0170fa64",
+        "803f8919-5ae9-5dae-b49c-e84091cd1a95",
+        "bf638d4f-71e7-5dde-860e-fef95367a496",
+        "d8af51c5-d73c-53a9-b780-f4395ad73a85"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q013": {
+      "n_human_gold": 5,
+      "n_dense_top10_in_gold": 4,
+      "dense_top10_precision": 0.4,
+      "n_gold_in_dense_top10": 4,
+      "frac_gold_in_dense_top10": 0.8,
+      "gold_ids_in_dense_top10": [
+        "863e00cd-9064-5f65-aec6-c84b6156fce0",
+        "0b6d1693-5c8d-5553-bdd8-def1ebbe7c70",
+        "acb59141-dd10-59da-836c-290a7b82d8dd",
+        "f76aa087-4895-56e5-b46a-3f775e613d44"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q014": {
+      "n_human_gold": 30,
+      "n_dense_top10_in_gold": 8,
+      "dense_top10_precision": 0.8,
+      "n_gold_in_dense_top10": 8,
+      "frac_gold_in_dense_top10": 0.26666666666666666,
+      "gold_ids_in_dense_top10": [
+        "9e7dbd94-c221-5c7b-897e-71b2b5a96e76",
+        "83a7e3e3-3b47-5c83-9f7e-e0ef38521bb8",
+        "d9a92758-1045-54f9-bc27-fab7117df6d8",
+        "eb4d099c-2283-5973-8f4f-0d61cef8f8a9",
+        "b9fe0a38-714c-5c06-8afd-1a76794ebe3d",
+        "cedb0d21-489c-51ed-be23-d9a90188bdc8",
+        "c3e4f83a-5fb3-564b-8e4e-c6f91cbb9224",
+        "4644cc68-a322-5741-8ed0-a65d4158f536"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q015": {
+      "n_human_gold": 32,
+      "n_dense_top10_in_gold": 8,
+      "dense_top10_precision": 0.8,
+      "n_gold_in_dense_top10": 8,
+      "frac_gold_in_dense_top10": 0.25,
+      "gold_ids_in_dense_top10": [
+        "822ee919-88de-535c-a87e-1239d4b859cb",
+        "78e2b7b0-9e97-5abf-903c-794cec471bd8",
+        "5aa76c85-6c48-59cd-815e-1947e5c02705",
+        "52aa550f-550b-51dd-a677-016f1a0154da",
+        "6844b9e6-76b9-5b5d-aa74-81a0e69302e2",
+        "ac9f9463-a800-5c7d-b4cc-af97adb02e98",
+        "26955a2f-2b84-5ade-8971-86258d6e5659",
+        "8b6573e6-d6f6-5adb-ab8f-08f5a0b44d92"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q016": {
+      "n_human_gold": 16,
+      "n_dense_top10_in_gold": 8,
+      "dense_top10_precision": 0.8,
+      "n_gold_in_dense_top10": 8,
+      "frac_gold_in_dense_top10": 0.5,
+      "gold_ids_in_dense_top10": [
+        "cf34461b-829a-5a09-8778-df30f750ba9f",
+        "63d9e366-6c15-5f76-a5b5-7238429b9974",
+        "e026ab5c-b091-5cfa-93cb-60e9a9e2b533",
+        "c4ac6d64-24e0-580a-887a-e88ea1a71fbf",
+        "a17f8944-8afa-5e4f-a01c-7b5314a69650",
+        "9ec92bc6-3e47-5db6-b8d1-5013ccac7236",
+        "bc6aea0f-5e8a-53f5-97e9-e70f5b19989b",
+        "4676aff5-e564-5610-ac43-0b3560a5645f"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q017": {
+      "n_human_gold": 15,
+      "n_dense_top10_in_gold": 9,
+      "dense_top10_precision": 0.9,
+      "n_gold_in_dense_top10": 9,
+      "frac_gold_in_dense_top10": 0.6,
+      "gold_ids_in_dense_top10": [
+        "fc777fc6-5d37-53c1-95f7-9e30f0e94fcd",
+        "26955a2f-2b84-5ade-8971-86258d6e5659",
+        "d87581bd-d8b8-5838-bdbb-d4347cc15e1e",
+        "c39839cc-6eaf-5328-a817-8f5aaaf2387f",
+        "b1fcf41c-4fd9-52c5-a620-9e9965e66f1e",
+        "7476f668-bc26-55ac-822d-a1d151a1460c",
+        "641d710a-93f1-5156-b8dd-e8909a6b0da4",
+        "b48662fe-b60a-55d5-8ca4-88f70a64f3ab",
+        "10a0d884-75b8-5a43-8684-3d5f05e32f50"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q018": {
+      "n_human_gold": 8,
+      "n_dense_top10_in_gold": 5,
+      "dense_top10_precision": 0.5,
+      "n_gold_in_dense_top10": 5,
+      "frac_gold_in_dense_top10": 0.625,
+      "gold_ids_in_dense_top10": [
+        "26955a2f-2b84-5ade-8971-86258d6e5659",
+        "7476f668-bc26-55ac-822d-a1d151a1460c",
+        "b1fcf41c-4fd9-52c5-a620-9e9965e66f1e",
+        "e5692941-5b1d-5f88-bab4-d7cac6a414d0",
+        "10a0d884-75b8-5a43-8684-3d5f05e32f50"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q019": {
+      "n_human_gold": 6,
+      "n_dense_top10_in_gold": 4,
+      "dense_top10_precision": 0.4,
+      "n_gold_in_dense_top10": 4,
+      "frac_gold_in_dense_top10": 0.6666666666666666,
+      "gold_ids_in_dense_top10": [
+        "f3ee1724-b37a-545a-b58a-3cf99a6c0912",
+        "d3cbea34-ea96-5b29-8bd7-02067d07dddd",
+        "657bf614-5d38-5192-b3da-41a038bea05b",
+        "f7a1ce8f-ffc9-5c71-89df-77f7bf5d1721"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q020": {
+      "n_human_gold": 9,
+      "n_dense_top10_in_gold": 6,
+      "dense_top10_precision": 0.6,
+      "n_gold_in_dense_top10": 6,
+      "frac_gold_in_dense_top10": 0.6666666666666666,
+      "gold_ids_in_dense_top10": [
+        "c39839cc-6eaf-5328-a817-8f5aaaf2387f",
+        "b48662fe-b60a-55d5-8ca4-88f70a64f3ab",
+        "52687972-c29b-56ff-9d47-f7e177885ee3",
+        "7476f668-bc26-55ac-822d-a1d151a1460c",
+        "a441e6dd-6143-552e-84ce-bb4b56905458",
+        "10a0d884-75b8-5a43-8684-3d5f05e32f50"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q021": {
+      "n_human_gold": 19,
+      "n_dense_top10_in_gold": 10,
+      "dense_top10_precision": 1.0,
+      "n_gold_in_dense_top10": 10,
+      "frac_gold_in_dense_top10": 0.5263157894736842,
+      "gold_ids_in_dense_top10": [
+        "49d1cc61-3f18-51c1-841a-5041a79f0b31",
+        "9efb033e-4fb7-54a6-a931-cb0002867541",
+        "ac9f9463-a800-5c7d-b4cc-af97adb02e98",
+        "52aa550f-550b-51dd-a677-016f1a0154da",
+        "b1fcf41c-4fd9-52c5-a620-9e9965e66f1e",
+        "26955a2f-2b84-5ade-8971-86258d6e5659",
+        "42e7d776-3588-5fc4-8ea9-aab5c9de79c5",
+        "822ee919-88de-535c-a87e-1239d4b859cb",
+        "6844b9e6-76b9-5b5d-aa74-81a0e69302e2",
+        "1c574e87-be0c-53f6-9b04-aa07b99a8af9"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q022": {
+      "n_human_gold": 13,
+      "n_dense_top10_in_gold": 4,
+      "dense_top10_precision": 0.4,
+      "n_gold_in_dense_top10": 4,
+      "frac_gold_in_dense_top10": 0.3076923076923077,
+      "gold_ids_in_dense_top10": [
+        "6b440a02-2a3e-5b6f-a65c-ac71de06c3f1",
+        "bb65f144-2081-5066-ad7d-f883d60286dc",
+        "2bdb2cba-eefb-5f09-85f8-5ba8a67131d8",
+        "a178cfff-414e-58f7-855d-7892a5407fd0"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q023": {
+      "n_human_gold": 8,
+      "n_dense_top10_in_gold": 1,
+      "dense_top10_precision": 0.1,
+      "n_gold_in_dense_top10": 1,
+      "frac_gold_in_dense_top10": 0.125,
+      "gold_ids_in_dense_top10": [
+        "387578db-d7c5-57a6-b40b-c98acd59e4d1"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q024": {
+      "n_human_gold": 10,
+      "n_dense_top10_in_gold": 4,
+      "dense_top10_precision": 0.4,
+      "n_gold_in_dense_top10": 4,
+      "frac_gold_in_dense_top10": 0.4,
+      "gold_ids_in_dense_top10": [
+        "63e129e9-4228-5bdd-8b1e-0dd548145c7a",
+        "d43a440e-24a0-5aa6-b815-f42650e767da",
+        "3523d5fb-84c7-5758-ac23-bd2e3015148b",
+        "e15225f3-3158-53f3-bf73-be5231030e5c"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q025": {
+      "n_human_gold": 6,
+      "n_dense_top10_in_gold": 3,
+      "dense_top10_precision": 0.3,
+      "n_gold_in_dense_top10": 3,
+      "frac_gold_in_dense_top10": 0.5,
+      "gold_ids_in_dense_top10": [
+        "4676aff5-e564-5610-ac43-0b3560a5645f",
+        "bc6aea0f-5e8a-53f5-97e9-e70f5b19989b",
+        "63d9e366-6c15-5f76-a5b5-7238429b9974"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q026": {
+      "n_human_gold": 17,
+      "n_dense_top10_in_gold": 10,
+      "dense_top10_precision": 1.0,
+      "n_gold_in_dense_top10": 10,
+      "frac_gold_in_dense_top10": 0.5882352941176471,
+      "gold_ids_in_dense_top10": [
+        "c9229a1f-3e83-5766-abea-9d7c8aded7bd",
+        "8c3a55a8-2e40-50d8-9b84-3d6eeb58e1fc",
+        "977c65ab-f4e6-52a9-a076-2f838ba89683",
+        "5a481ce9-dc5d-56da-9b1a-114779ace6f2",
+        "fa4bc56c-e0e5-56cb-b635-05dbfd4ae5ad",
+        "5c12d4a3-fbf2-554c-8aa3-9181c78208bb",
+        "710aaee6-ed70-5531-b178-9071c24dd307",
+        "cac62d4c-4d39-55d7-98b6-e95320fe6d7a",
+        "cf8291c1-f750-5350-ae83-0be13e013c62",
+        "a6267571-623e-5bac-b9e7-ff0d7495679e"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q027": {
+      "n_human_gold": 23,
+      "n_dense_top10_in_gold": 9,
+      "dense_top10_precision": 0.9,
+      "n_gold_in_dense_top10": 9,
+      "frac_gold_in_dense_top10": 0.391304347826087,
+      "gold_ids_in_dense_top10": [
+        "bf5a51b7-a1b7-5d56-8d1a-9462e418429f",
+        "70ae555d-3845-571f-99e8-7f7eedbbb2fb",
+        "e8a62708-5eb2-514b-9d3d-631820d5b808",
+        "dcb103ab-516c-5600-8dc0-32fcc471cf83",
+        "6231ee30-62fa-59ca-b7ca-b38af9656268",
+        "6b3638ce-6a4d-52f0-a311-1bb8c22b0d8b",
+        "2c46afc8-9410-5ca9-8823-a78ba25dffcb",
+        "7c39ad1e-91fb-5a1d-9933-59408c420f61",
+        "a0efc6a9-406f-5dbf-919f-1b47473e5ef4"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q028": {
+      "n_human_gold": 15,
+      "n_dense_top10_in_gold": 6,
+      "dense_top10_precision": 0.6,
+      "n_gold_in_dense_top10": 6,
+      "frac_gold_in_dense_top10": 0.4,
+      "gold_ids_in_dense_top10": [
+        "20a6ef07-fc06-5dd1-aced-d8760cfbdfb4",
+        "a2929584-7150-5dcd-97ea-0620fd5e6c8f",
+        "5fbd39e7-6872-564e-969e-c8527ac6534e",
+        "ea4fee52-2857-551d-a94c-e6fd66527fc5",
+        "67b2297a-d182-59e2-8348-379292b13930",
+        "2decdd12-ea15-567c-bc5a-5efec31fedc2"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q029": {
+      "n_human_gold": 21,
+      "n_dense_top10_in_gold": 5,
+      "dense_top10_precision": 0.5,
+      "n_gold_in_dense_top10": 5,
+      "frac_gold_in_dense_top10": 0.23809523809523808,
+      "gold_ids_in_dense_top10": [
+        "5d1bdf08-059f-51b6-9732-81331e74c18a",
+        "02bd7e05-b553-54fe-b09e-b7df3a35959e",
+        "494b51aa-e598-5800-ad92-042ebe06a9bd",
+        "ac868d82-940d-59de-983f-48be573dc245",
+        "7e947534-25ed-51bf-98d0-2fc7b911ab56"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q030": {
+      "n_human_gold": 16,
+      "n_dense_top10_in_gold": 8,
+      "dense_top10_precision": 0.8,
+      "n_gold_in_dense_top10": 8,
+      "frac_gold_in_dense_top10": 0.5,
+      "gold_ids_in_dense_top10": [
+        "5ec4f1ca-7e02-5f2c-aecd-092baae31fcc",
+        "9eb0d656-6368-5136-8c17-ec4afa74f449",
+        "40bbf5ca-000a-5b9c-a0b8-1f4bd1a3d242",
+        "8d01a21c-b67c-5a72-8328-44b1d0be7dba",
+        "2cfb4204-9f35-5ac0-97f7-148fa222e708",
+        "2c46afc8-9410-5ca9-8823-a78ba25dffcb",
+        "7c39ad1e-91fb-5a1d-9933-59408c420f61",
+        "a0efc6a9-406f-5dbf-919f-1b47473e5ef4"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q031": {
+      "n_human_gold": 3,
+      "n_dense_top10_in_gold": 3,
+      "dense_top10_precision": 0.3,
+      "n_gold_in_dense_top10": 3,
+      "frac_gold_in_dense_top10": 1.0,
+      "gold_ids_in_dense_top10": [
+        "dad6d4de-fcc6-51ea-8cb5-103d1f967f35",
+        "8140a5b2-fa7c-5340-bcc0-eed39042a8f1",
+        "0f2d8b25-cd43-5669-b92a-38c36f42ab4f"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q032": {
+      "n_human_gold": 14,
+      "n_dense_top10_in_gold": 4,
+      "dense_top10_precision": 0.4,
+      "n_gold_in_dense_top10": 4,
+      "frac_gold_in_dense_top10": 0.2857142857142857,
+      "gold_ids_in_dense_top10": [
+        "90a32cde-76a5-5ee0-a226-10b3d4d37b3e",
+        "740bc956-eafd-509b-8a2a-9c5890cde510",
+        "7e947534-25ed-51bf-98d0-2fc7b911ab56",
+        "83e8959e-c663-541a-8bc3-3c688c272923"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q033": {
+      "n_human_gold": 10,
+      "n_dense_top10_in_gold": 7,
+      "dense_top10_precision": 0.7,
+      "n_gold_in_dense_top10": 7,
+      "frac_gold_in_dense_top10": 0.7,
+      "gold_ids_in_dense_top10": [
+        "bce79125-d6bd-5341-8f9c-74b8b9d5ce1f",
+        "6d2e3b6a-cb51-5fe3-aacd-0998d15b3cbf",
+        "fa4bc56c-e0e5-56cb-b635-05dbfd4ae5ad",
+        "a6267571-623e-5bac-b9e7-ff0d7495679e",
+        "68c4a86a-08dc-5eaf-8962-aaef13f2ddb4",
+        "cf8291c1-f750-5350-ae83-0be13e013c62",
+        "e8a62708-5eb2-514b-9d3d-631820d5b808"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q034": {
+      "n_human_gold": 8,
+      "n_dense_top10_in_gold": 5,
+      "dense_top10_precision": 0.5,
+      "n_gold_in_dense_top10": 5,
+      "frac_gold_in_dense_top10": 0.625,
+      "gold_ids_in_dense_top10": [
+        "9c76ba4f-c370-5475-bd38-726aec2d8c09",
+        "6eb02921-c353-542f-9b2f-b7730071d6dd",
+        "e6389350-4215-5c3c-b7a2-06671b999789",
+        "69fdc547-e7a6-5985-9bdc-84bc0acf4181",
+        "2293644a-9497-5e89-9f8e-164f65924a7d"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q035": {
+      "n_human_gold": 16,
+      "n_dense_top10_in_gold": 5,
+      "dense_top10_precision": 0.5,
+      "n_gold_in_dense_top10": 5,
+      "frac_gold_in_dense_top10": 0.3125,
+      "gold_ids_in_dense_top10": [
+        "dc335b1d-5e63-5e05-b642-023f9f5108ee",
+        "f435f524-43a6-510c-8a7d-460c70f07ea6",
+        "3c709b62-e7de-5d98-88c9-d17d1881913a",
+        "6330e20c-8278-5d84-bd52-6b31041516c4",
+        "b3fadf51-de42-5604-a58b-5acfd160afe2"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q036": {
+      "n_human_gold": 13,
+      "n_dense_top10_in_gold": 5,
+      "dense_top10_precision": 0.5,
+      "n_gold_in_dense_top10": 5,
+      "frac_gold_in_dense_top10": 0.38461538461538464,
+      "gold_ids_in_dense_top10": [
+        "12859196-24ae-5d8f-a0ef-633d2751b90a",
+        "b674b838-8335-5eba-b069-40554cf44bc0",
+        "725ea209-a7fa-5b12-b5cb-cbf8f730ce31",
+        "913ebbb3-7d13-5f04-938a-c88cde4181e4",
+        "60a4a317-0b65-5437-b653-c723be48c484"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q037": {
+      "n_human_gold": 6,
+      "n_dense_top10_in_gold": 5,
+      "dense_top10_precision": 0.5,
+      "n_gold_in_dense_top10": 5,
+      "frac_gold_in_dense_top10": 0.8333333333333334,
+      "gold_ids_in_dense_top10": [
+        "d3e4ca5a-931b-5566-bcd8-9c3562d85b4f",
+        "b252b9d3-715a-5a57-9ddb-830e67401a47",
+        "e7cb2b2c-9cf0-53aa-ab01-cdb6cfb26a68",
+        "3bf89b28-d391-54e4-a024-80c8412ee40c",
+        "07f9b09a-1643-55ca-ad18-d080d5ed5642"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q038": {
+      "n_human_gold": 8,
+      "n_dense_top10_in_gold": 5,
+      "dense_top10_precision": 0.5,
+      "n_gold_in_dense_top10": 5,
+      "frac_gold_in_dense_top10": 0.625,
+      "gold_ids_in_dense_top10": [
+        "65ed37a7-69f5-5dbb-82f0-02222c087fd5",
+        "11ccdc46-cd25-5adc-8842-d8159bd41ae5",
+        "1c03b4ad-3210-55b7-903e-96c1a1148dbe",
+        "67b77ccf-4c4a-5767-831d-2c67ee82451e",
+        "d3868a74-d2c9-5f74-87ad-0d9d849cea65"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q039": {
+      "n_human_gold": 17,
+      "n_dense_top10_in_gold": 1,
+      "dense_top10_precision": 0.1,
+      "n_gold_in_dense_top10": 1,
+      "frac_gold_in_dense_top10": 0.058823529411764705,
+      "gold_ids_in_dense_top10": [
+        "edaa9b72-53d3-5cf5-b948-ea076b7a98c8"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q040": {
+      "n_human_gold": 10,
+      "n_dense_top10_in_gold": 6,
+      "dense_top10_precision": 0.6,
+      "n_gold_in_dense_top10": 6,
+      "frac_gold_in_dense_top10": 0.6,
+      "gold_ids_in_dense_top10": [
+        "1f5b002f-b022-5141-af27-5ac5acaa808d",
+        "710aaee6-ed70-5531-b178-9071c24dd307",
+        "977c65ab-f4e6-52a9-a076-2f838ba89683",
+        "b2b9bd03-dc36-51bb-9183-184848e2711f",
+        "e5a9750e-7b81-5d3c-86cd-b902b247536e",
+        "c2eadf96-f176-5a86-860e-2bee48f2add8"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q041": {
+      "n_human_gold": 10,
+      "n_dense_top10_in_gold": 0,
+      "dense_top10_precision": 0.0,
+      "n_gold_in_dense_top10": 0,
+      "frac_gold_in_dense_top10": 0.0,
+      "gold_ids_in_dense_top10": [],
+      "v1_gold_identical_to_v3": true
+    },
+    "q042": {
+      "n_human_gold": 11,
+      "n_dense_top10_in_gold": 8,
+      "dense_top10_precision": 0.8,
+      "n_gold_in_dense_top10": 8,
+      "frac_gold_in_dense_top10": 0.7272727272727273,
+      "gold_ids_in_dense_top10": [
+        "850c4310-7ba0-5a47-bec3-4995e0d03e35",
+        "ff421020-0f2f-5428-982b-5e47ae93605a",
+        "b5479972-0cc6-50c7-b1f6-81f90809760a",
+        "e4466b5f-7de1-5df7-97a7-3aa0a5b882a4",
+        "152397d1-5d46-59e1-b743-3a3988ebf930",
+        "cead53f5-c206-57fe-aecc-390e0f01bbba",
+        "01370a6c-9598-53b0-aca0-e8790a0cf585",
+        "3e008303-c20c-57c0-88b3-ea71f953a0a1"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q043": {
+      "n_human_gold": 9,
+      "n_dense_top10_in_gold": 8,
+      "dense_top10_precision": 0.8,
+      "n_gold_in_dense_top10": 8,
+      "frac_gold_in_dense_top10": 0.8888888888888888,
+      "gold_ids_in_dense_top10": [
+        "22b29981-6493-5e32-bd48-42f13806aad6",
+        "4aeea538-e986-5dc5-9eb9-66c26db18866",
+        "055045d8-8b86-5031-8b78-351df2251199",
+        "b06422e2-a2e4-5f37-b420-12cfbedeb614",
+        "830440b2-5403-53d6-9357-749de402ce2d",
+        "f6713c65-d466-5334-9f39-bd0059b55f4c",
+        "c8d92072-e587-5f0c-97f6-3e10b5e6cb84",
+        "47724e00-644e-599e-b567-66a22f7c4ef4"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q044": {
+      "n_human_gold": 11,
+      "n_dense_top10_in_gold": 6,
+      "dense_top10_precision": 0.6,
+      "n_gold_in_dense_top10": 6,
+      "frac_gold_in_dense_top10": 0.5454545454545454,
+      "gold_ids_in_dense_top10": [
+        "28fb3df6-8e67-55c1-9bb7-ee78594f2952",
+        "35795752-f63d-51b1-b835-d9bea200e969",
+        "aff2dcc1-7b1c-5df2-822d-e161259a961b",
+        "a2729ca4-0b13-57b6-8544-e948bbb151d0",
+        "3178199e-9947-5bbb-8d86-54f5ae0f95ba",
+        "6bffd669-5a11-5506-8f12-8e3a50092b52"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q045": {
+      "n_human_gold": 5,
+      "n_dense_top10_in_gold": 3,
+      "dense_top10_precision": 0.3,
+      "n_gold_in_dense_top10": 3,
+      "frac_gold_in_dense_top10": 0.6,
+      "gold_ids_in_dense_top10": [
+        "5890636a-9324-5c21-96f6-f94b4001303d",
+        "6b29fe29-3e4b-59b3-894e-b05482ac6b97",
+        "542fa741-9a4a-50f0-b62e-c0c587e7f205"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q046": {
+      "n_human_gold": 1,
+      "n_dense_top10_in_gold": 0,
+      "dense_top10_precision": 0.0,
+      "n_gold_in_dense_top10": 0,
+      "frac_gold_in_dense_top10": 0.0,
+      "gold_ids_in_dense_top10": [],
+      "v1_gold_identical_to_v3": true
+    },
+    "q047": {
+      "n_human_gold": 13,
+      "n_dense_top10_in_gold": 5,
+      "dense_top10_precision": 0.5,
+      "n_gold_in_dense_top10": 5,
+      "frac_gold_in_dense_top10": 0.38461538461538464,
+      "gold_ids_in_dense_top10": [
+        "2d54c962-0051-5201-8cd7-dd819dc876b3",
+        "242b7300-d9fd-564c-be3d-b3d912d6b2d9",
+        "f92f0253-6aa0-5167-b23d-b5c8628086bf",
+        "e96aa17c-65e8-5025-a40a-8c3b0c53207c",
+        "b6decb33-68b9-5507-8371-43d7dd328f43"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q048": {
+      "n_human_gold": 10,
+      "n_dense_top10_in_gold": 4,
+      "dense_top10_precision": 0.4,
+      "n_gold_in_dense_top10": 4,
+      "frac_gold_in_dense_top10": 0.4,
+      "gold_ids_in_dense_top10": [
+        "bc7f13c9-f636-5eda-853f-080ee40c18a2",
+        "fafdb7a4-9c21-5563-bd97-6e51868e1061",
+        "de31561d-f702-5ce8-8f7e-a72bc6e40ada",
+        "fc280a7d-ceb9-5f79-9304-94bcdfd84022"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q049": {
+      "n_human_gold": 3,
+      "n_dense_top10_in_gold": 1,
+      "dense_top10_precision": 0.1,
+      "n_gold_in_dense_top10": 1,
+      "frac_gold_in_dense_top10": 0.3333333333333333,
+      "gold_ids_in_dense_top10": [
+        "6264313b-c0bf-5a5c-a147-f6a326524eb3"
+      ],
+      "v1_gold_identical_to_v3": true
+    },
+    "q050": {
+      "n_human_gold": 4,
+      "n_dense_top10_in_gold": 1,
+      "dense_top10_precision": 0.1,
+      "n_gold_in_dense_top10": 1,
+      "frac_gold_in_dense_top10": 0.25,
+      "gold_ids_in_dense_top10": [
+        "296b4ca6-a12e-5131-a6e3-fda0e4204a14"
+      ],
+      "v1_gold_identical_to_v3": true
+    }
+  }
+}

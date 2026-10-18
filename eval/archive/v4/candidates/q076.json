@@ -1,0 +1,2130 @@
+[
+  {
+    "document_id": "077e4b67-fa4a-504f-a5f9-fe344009c79c",
+    "title": "Ash Lake",
+    "section": "bonfires",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Ash Lake -  Dark Souls - location - bonfires \n bonfires : Two bonfires are at either end of the area. One can be found shortly after arriving from The Great Hollow, and another is directly in front of the Stone Dragon, which is the only one in the area that can be warped to with the Lordvessel.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.546880834451314,
+    "bm25_score": 26.780549711610767
+  },
+  {
+    "document_id": "07e1bc99-970a-530c-877f-f6d4f0ff7ac6",
+    "title": "Ash Lake",
+    "section": "miscellaneous",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Ash Lake -  Dark Souls - location - miscellaneous \n miscellaneous : Dragon Eye\nDragon Headstone\nDragon Torso Stone",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "196565e6-eee2-5fbd-9046-31053de9854d",
+    "title": "Ash Lake",
+    "section": "upgrade_materials",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Ash Lake -  Dark Souls - location - upgrade_materials \n upgrade_materials : Dragon Scale x3 x2\nTitanite Slab",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5052799918542388,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1c2490ce-779d-589f-839c-90a71b3126c8",
+    "title": "Ash Lake",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Ash Lake -  Dark Souls - location - trivia \n trivia : The Archtrees of Ash Lake can be seen from the Tomb of the Giants.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5676426207609717,
+    "bm25_score": 26.99222422525728
+  },
+  {
+    "document_id": "24603143-d1c1-58d7-be17-e9f62ab06f57",
+    "title": "Ash Lake",
+    "section": "characters",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Ash Lake -  Dark Souls - location - characters \n characters : Sieglinde of Catarina\nSiegmeyer of Catarina (cannot interact)\nStone Dragon",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "38e66305-ec0b-5537-8bf1-0b35145cb5c0",
+    "title": "Ash Lake",
+    "section": "miracles",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Ash Lake -  Dark Souls - location - miracles \n miracles : Great Magic Barrier",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5382583550684312,
+    "bm25_score": null
+  },
+  {
+    "document_id": "486df13e-fc8f-5fc4-b9f1-d247ed019af8",
+    "title": "Ash Lake",
+    "section": "weapons",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Ash Lake -  Dark Souls - location - weapons \n weapons : Dragon Greatsword",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5110403186782971,
+    "bm25_score": null
+  },
+  {
+    "document_id": "61e3d303-0cfa-57f0-bb7f-8fbc298f9bea",
+    "title": "Ash Lake",
+    "section": "respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Ash Lake -  Dark Souls - location - respawning \n respawning : Basilisk\nGiant Clam\nMushroom Parent",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.4663888666514324,
+    "bm25_score": null
+  },
+  {
+    "document_id": "69c4f4af-2e40-56db-90bb-92cdfeac97af",
+    "title": "Ash Lake",
+    "section": "non_respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Ash Lake -  Dark Souls - location - non_respawning \n non_respawning : Black Hydra",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5384876701628127,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6dbeae2e-ec49-5cf7-97ad-477fd9aa7edf",
+    "title": "Ash Lake",
+    "section": "covenant",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Ash Lake -  Dark Souls - location - covenant \n covenant : Path of the Dragon",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.4897527017477443,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8e3f2c28-ef0a-50be-8cbc-16a9205ad305",
+    "title": "Ash Lake",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Ash Lake -  Dark Souls - location - description \n description : Ash Lake is an optional area accessed by successfully reaching the bottom of The Great Hollow, through a tunnel past the Mushroom enemies. It is a wide, open space with seemingly endless views of Archtrees amidst deep, dark blue waters and below a sky of dense clouds. A large stretch of sand connects two Archtrees, and the shores abruptly end, leading to a watery grave.\n\nThe Stone Dragon is a passive and invulnerable entity that serves as initiator to the Path of the Dragon covenant.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5720391398183383,
+    "bm25_score": 28.245788444292767
+  },
+  {
+    "document_id": "c639ef8c-e433-593d-93a6-6b3f53c52b93",
+    "title": "Ash Lake",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Ash Lake -  Dark Souls - location - lead \n lead : **Ash Lake** is a location in *Dark Souls*.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.565658371829052,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cfd52885-82ae-56c7-9757-24cbc0bca895",
+    "title": "Ash Lake",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Ash Lake -  Dark Souls - location - notes \n notes : If one continues through Ash Lake without defeating the Hydra, it will attempt to follow the player. Once the player passes the area where the Giant Clams are, the Hydra will jump out of the water and fly across the beach to the other side to continue to pursue the player. It will then follow all the way to the Archtree near the end of the area. This makes confrontation with the Hydra almost completely unavoidable.\n**It's possible to avoid the Hydra by wearing the Slumbering Dragoncrest Ring while staying near the opposite shore of the beach. Doing so will allow the player to advance outside of the Hydra's aggro range and continue undisturbed all the way to the Stone Dragon.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.583385372414116,
+    "bm25_score": 25.118247193285693
+  },
+  {
+    "document_id": "0a16eb5e-9d73-587d-be78-6f9355de26ba",
+    "title": "Basilisk",
+    "section": "critical",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Basilisk -  Dark Souls - enemy - critical \n critical : Hitting any part of a basilisk's face will deal increased damage. Because the face is the point that gets targeted when locking onto the basilisk, using thrust attacks will work exceedingly well against basilisks, as each strike will almost guarantee this bonus damage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0ec7857e-c158-52e5-bd6f-15f62dbc00fa",
+    "title": "Basilisk",
+    "section": "melee",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Basilisk -  Dark Souls - enemy - melee \n melee : Basilisks have no melee attacks whatsoever. Combined with relatively low health, they can be quickly dealt with. However getting too close risks exposure to Curse and is ill-advised if they are in any significant numbers, or the player has low Curse resistance.\n\nConsidering their only means of offense are their Curse attacks, the player could equip a shield with high Curse block in order to take basilisks down more easily. Spears and Thrusting Swords are excellent for this strategy, as they can strike from behind shields.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "236f82ec-3043-5b2f-9fa1-ceffc7591bae",
+    "title": "Basilisk",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Basilisk -  Dark Souls - enemy - general_information \n general_information : The basilisk can only cause curse status; they cause no other effects or any direct damage in any form unless they jump directly on the player.\n\nThe basilisks in the Depths guard the Ring of the Evil Eye.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "268625f1-601e-50ef-bf41-431a8021d3da",
+    "title": "Basilisk",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Basilisk -  Dark Souls - enemy - strategy \n strategy : Basilisks have low health and no poise, making them easy to kill with almost any attack. Their most dangerous move is the leaping curse breath attack, due to its low wind-up, while their standing curse breath is far more telegraphed and easily interrupted. With sufficient curse resistance and rapid offense even groups of basilisks won't prove too challenging as long as the player is mindful of the clouds.\n\nBasilisks are deaf, meaning they struggle to detect the player unless they see or touch them. Even if they do detect the player, they are slow to turn around, often favoring simply running away before turning around, meaning that they struggle to react to the player getting behind them.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3bb4bc91-98cb-5cc7-aa04-4b3576acbe91",
+    "title": "Basilisk",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Basilisk -  Dark Souls - enemy - description \n description : Basilisks are slender, scrawny lizards. Upon seeing the player, it will frantically scramble or leap into position and exhale a grey mist that will quickly overwhelm the player with the Curse status, causing immediate death.\n\nThe bulbous appendages that appear on the basilisk are not its actual eyes. The basilisk's true eyes are the small yellow beads that appear right over its mouth.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "66fdbc58-5bae-54f1-bc92-14b09f9efda4",
+    "title": "Basilisk",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Basilisk -  Dark Souls - enemy - location \n location : Basilisks are found initially in the Depths, then again in The Great Hollow and Ash Lake.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.45991231089954004,
+    "bm25_score": 29.281485945076444
+  },
+  {
+    "document_id": "6e674169-b1d3-593c-8e36-e896b7160a0e",
+    "title": "Basilisk",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Basilisk -  Dark Souls - enemy - lead \n lead : The **Basilisk** is an enemy in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fabb5d7d-5817-53ae-bcf2-59e6ca991c80",
+    "title": "Basilisk",
+    "section": "ranged",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Basilisk -  Dark Souls - enemy - ranged \n ranged : Basilisks stagger from just about any hit, and can easily be pelted with arrows without them being able to execute a single attack. This gives the added bonus of allowing players to pull one or two basilisks at a time, rather than have the entire swarm of seven or so rushing after them.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "166a9d4c-1aaa-5b36-af33-bae7e64a0f7e",
+    "title": "Bells of Awakening",
+    "section": "quelaag_s_domain_bell",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Bells of Awakening -  Dark Souls - mechanic - quelaag_s_domain_bell \n quelaag_s_domain_bell : The other Bell is significantly harder to reach. The Chosen Undead must first head downward and find their way into Blighttown, a multileveled and dangerous labyrinth. At the very bottom of Blighttown, the player will traverse a poison swamp leading to a half-demon's lair known as Quelaag's Domain. It is here that the player must defeat Chaos Witch Quelaag in order to progress to the Bell of Awakening.\n\nUpon ringing the second Bell, a short cutscene plays showing the gatekeeper Giant hearing the call and pulling the chains to lift up the portcullis, bearing passage to Sen's Fortress. It is at this point that Kingseeker Frampt appears in Firelink Shrine, and instructs the player that his new task is to secure the Lordvessel, proving that the player is in fact, the Chosen Undead.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2bd8c443-de71-5933-87e5-899dc0b8e45f",
+    "title": "Bells of Awakening",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Bells of Awakening -  Dark Souls - mechanic - lead \n lead : The **Bells of Awakening** are a storyline concept, as well as two locations, in *Dark Souls*.\n\nThey are the first destinations hinted at for the Chosen Undead after they have escaped the Undead Asylum into Lordran. The two Bells are part of a prophecy devised by the Gods of Anor Londo to help bring about an Undead to link the First Flame. The two Bells are respectively located past the Bell Gargoyles atop the Undead Parish, and past Queelag past the swamp at the bottom of Blighttown. Both Bells must be rung by activating levers near them to progress, opening the way to Sen's Fortress.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "355e0a5e-d85a-5679-90a2-043d7eb80471",
+    "title": "Bells of Awakening",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Bells of Awakening -  Dark Souls - mechanic - plot \n plot : The Bells of Awakening are hinted at being the first destination of the Chosen Undead and, when rung, the fate of the undead shall be known. Upon arriving in Firelink Shrine, the Crestfallen Warrior informs the player that there are, in fact, two Bells of Awakening. One up above and one far below. This is essentially all the instruction and plot that is revealed upon arrival in Lordran.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bdfec07a-f6af-50cc-bbf4-e1291d6bad5d",
+    "title": "Bells of Awakening",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Ringing the bell in Quelaag's Domain first will have no different effect than if the player rang the [https://darksouls.fandom.com/wiki/File:Parish_bell.jpg Undead Parish Bell] first. Although this will cause Lautrec's questline to progress, leading to the death of Anastacia.\nThe Bells of Awakening were used to awaken Kingseeker Frampt and open the way to Sen's Fortress.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e4b6163d-2cc2-5ee1-a373-ed3c15e06733",
+    "title": "Bells of Awakening",
+    "section": "undead_church_bell",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Bells of Awakening -  Dark Souls - mechanic - undead_church_bell \n undead_church_bell : One of the Bells is located in the Undead Parish, up above from Firelink Shrine. After dispatching the Bell Gargoyles, the Chosen Undead is able to climb to the top of the Church Belltower and ring the Bell of Awakening.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ee995096-d504-5bc8-9046-f8a1d10912a6",
+    "title": "Bells of Awakening",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Bells of Awakening -  Dark Souls - mechanic - notes \n notes : In the Prepare to Die Edition, online players in the vicinity of the [https://darksouls.fandom.com/wiki/File:Parish_bell.jpg Undead Parish Bell] were able to hear the bell being rung from other player worlds. This wasn’t the case for the [https://darksouls.fandom.com/wiki/File:Quelaag_bell.jpg Bell in Quelaag’s Domain].\nIn the remastered version of the game, online players are now able to hear either the [https://darksouls.fandom.com/wiki/File:Parish_bell.jpg Undead Parish Bell] or the [https://darksouls.fandom.com/wiki/File:Quelaag_bell.jpg Quelaag’s domain Bell] being rung from other player worlds while exploring one area or the other . (as the [https://darksouls.fandom.com/wiki/File:Quelaag_bell.jpg Quelaag’s Bell] toll was specifically added in the remaster)",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "01039cca-27a5-5b2c-b258-81d87cf13a78",
+    "title": "Blighttown",
+    "section": "miscellaneous",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Blighttown -  Dark Souls - location - miscellaneous \n miscellaneous : Blooming Purple Moss Clump ×3\nFire Keeper Soul\nTwin Humanities\nVarious souls items",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "08e7d468-2a66-5f6f-b12a-7cbd20953cc3",
+    "title": "Blighttown",
+    "section": "merchants",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Blighttown -  Dark Souls - location - merchants \n merchants : Quelana of Izalith will show up next to a pillar outside of Quelaag's Domain, selling pyromancies.The player must have a Pyromancy Flame that is upgraded to at least +10 in order for her to appear, though she will also appear if a player phantom with a sufficiently upgraded flame is present.\nShiva of the East, along with his bodyguard, will appear near the bottom of the elevator to Valley of Drakes. The player must be part of the Forest Hunter Covenant and have talked to him in Darkroot Garden for him to appear. This is the only area where he acts as a merchant.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2cc26e06-ccf8-58bd-932a-0c440d9d7db3",
+    "title": "Blighttown",
+    "section": "phantoms",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Blighttown -  Dark Souls - location - phantoms \n phantoms : Maneater Mildred invades just outside the swamp bonfire. If defeated, she can be summoned as a white phantom in front of Quelaag's Fog Door.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4b3f142b-bf45-5701-bab9-7b90aa040dd5",
+    "title": "Blighttown",
+    "section": "quelaag_s_domain",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Blighttown -  Dark Souls - location - quelaag_s_domain \n quelaag_s_domain : Even though Chaos Witch Quelaag is located in Quelaag's Domain, she is considered to be the boss of Blighttown as well; slaying her will prevent any future summoning and invading in Blighttown. The entrance to Quelaag's Domain can be found on the face of the large mound covered in spider webs in the swamp.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5b9e6f19-8e4a-5bcb-8e50-841d2f27df6e",
+    "title": "Blighttown",
+    "section": "respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Blighttown -  Dark Souls - location - respawning \n respawning : Cragspider\nFlaming Attack Dog\nGiant Leech\nGiant Mosquito\nInfested Barbarian\nInfested Ghoul",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5e1a9cf1-d283-52ac-a2b3-0608c8e4d529",
+    "title": "Blighttown",
+    "section": "keys",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Blighttown -  Dark Souls - location - keys \n keys : Key to New Londo Ruins",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "61a6ec74-afbd-56fe-b888-f2ce3899a578",
+    "title": "Blighttown",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Blighttown -  Dark Souls - location - lead \n lead : **Blighttown** is a location in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "626fba70-1980-54f4-9125-9c42b4d8b215",
+    "title": "Blighttown",
+    "section": "sorceries",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Blighttown -  Dark Souls - location - sorceries \n sorceries : Remedy",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "68694077-e6eb-5d6b-8876-fdab083059f7",
+    "title": "Blighttown",
+    "section": "characters",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Blighttown -  Dark Souls - location - characters \n characters : Laurentius of the Great Swamp\nManeater Mildred",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7827d462-d07f-554a-b2e6-87a5bcd7ea62",
+    "title": "Blighttown",
+    "section": "pyromancies",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Blighttown -  Dark Souls - location - pyromancies \n pyromancies : Fire Tempest\nPoison Mist\nPower Within",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "78b2eb06-eac0-5dfb-a24f-515e69d4d104",
+    "title": "Blighttown",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Blighttown -  Dark Souls - location - strategies \n strategies : In general, high poison resistance will serve the player greatly while navigating both the upper and lower parts; it buys more time while navigating the poison swamp before being poisoned and gives a better chance of avoiding becoming toxic from blowdarts.\nCare should be taken when using weapons with attacks that move the player, such as curved swords, as the additional movement may lead to unintended falls.\nThere are multiple bridges in the upper area that will shift and move while the player walks on them. Caution should be used while on these.\nThe Rusted Iron Ring will negate the slowing effect of the poison sludge, allowing players to traverse the area considerably faster.\n**Standard rolls are not affected by the slowing effect and can be used to speed up travel through the swamp. However, the Dark Wood Grain Ring's special roll can only be used in slowing terrain if the Rusted Iron Ring is also worn.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "83262485-c3ea-57ee-bab1-351eeab91f05",
+    "title": "Blighttown",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Blighttown -  Dark Souls - location - description \n description : Blighttown is a rather treacherous area with a high degree of verticality. It can be accessed through either the Depths through defeating the Gaping Dragon and acquiring the Blighttown Key, or the Valley of Drakes by navigating through Darkroot Basin from the Undead Parish.\n\nThe upper parts consist of interconnecting bridges and scaffolding, with plenty of places to fall to one's death if not careful. The bottom portion of the area is a poisonous swamp that will slow the player's movements.\n\nMany enemies in the area can inflict poison, while Blowdart Snipers are able to deal Toxic from a great distance.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9e2a3c17-59b1-58cc-874f-b9bf91d2f158",
+    "title": "Blighttown",
+    "section": "weapons",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Blighttown -  Dark Souls - location - weapons \n weapons : Butcher Knife\nEagle Shield\nFalchion\nGreat Club\nIaito\nPierce Shield\nPlank Shield\nServer\nTin Banishment Catalyst\nWhip",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a1fe92c5-e074-52b0-9fff-ea00a4215c48",
+    "title": "Blighttown",
+    "section": "upgrade_materials",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Blighttown -  Dark Souls - location - upgrade_materials \n upgrade_materials : Dragon Scale\nGreen Titanite Shard\nLarge Titanite Shard ×2",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a2689c72-cb8b-50ce-b5eb-9bbb107b7d30",
+    "title": "Blighttown",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "If contracted, the swamp's Poison will deal 4 damage per second for 3 minutes.\n**Poison will not continue to build up once afflicted. As such, poisoned players can trek through the swamp without further penalty, aside from the reduced movement speed, until the poison wears off or is cured.\nIt is possible to access Blighttown immediately after arriving in Firelink Shrine if the Master Key is chosen as the starting gift, by going through the locked door between New Londo Ruins and Valley of Drakes that would normally require the Key to New Londo Ruins located within Blighttown itself.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ac5b841e-4fb0-5d10-b392-719207a14292",
+    "title": "Blighttown",
+    "section": "non_respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Blighttown -  Dark Souls - location - non_respawning \n non_respawning : Blowdart Sniper\nParasitic Wall Hugger",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bb312901-6ba4-57fe-bb7f-cf24e85c23d1",
+    "title": "Blighttown",
+    "section": "bosses",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Blighttown -  Dark Souls - location - bosses \n bosses : Chaos Witch Quelaag",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "df340a69-2935-55b7-8b32-2e1ada32ef7a",
+    "title": "Blighttown",
+    "section": "bonfires",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Blighttown -  Dark Souls - location - bonfires \n bonfires : There are two bonfires in this area. Neither can be warped to with the Lordvessel.\n\nThe first bonfire is located close to the entrance from the Depths, on the bridge that acts as a structural support for the great stone wall.\n\nThe other bonfire is located just inside a tunnel accessed through the swamp at the bottom of Blighttown; it is nearest to the Valley of Drakes entrance. A Dragon Scale is located in a chest further into the tunnel.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ec535058-bbaf-506e-97c0-ac00cc2e471b",
+    "title": "Blighttown",
+    "section": "other",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Blighttown -  Dark Souls - location - other \n other : Laurentius of the Great Swamp will hollow here if the player tells him how to acquire advanced pyromancies by answering \"Yes\" to his question in Firelink Shrine. He will be located in the swamp, straight across from the bonfire at the base of Blighttown.\nSiegmeyer of Catarina will appear near the ramp leading to the entrance of The Great Hollow after speaking to him at Firelink Shrine. He needs to be assisted in both Sen's Fortress and Anor Londo in order to appear at Firelink.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f0a6e70a-01c9-53b1-b7c6-eef1826aca3d",
+    "title": "Blighttown",
+    "section": "armor",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Blighttown -  Dark Souls - location - armor \n armor : Crimson Set\nTattered Cloth Set\nShadow Set\nWanderer Set",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f4245d32-86d1-5972-a437-2b8c8da84127",
+    "title": "Blighttown",
+    "section": "adjacent_locations",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Blighttown -  Dark Souls - location - adjacent_locations \n adjacent_locations : Depths\nQuelaag's Domain\nThe Great Hollow\nValley of Drakes",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f578d2ec-44fd-54ac-96bb-acf1b7161a82",
+    "title": "Blighttown",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Blighttown -  Dark Souls - location - plot \n plot : Accessing Blighttown is necessary to ring the second Bell of Awakening, found past Chaos Witch Quelaag in Quelaag's Domain located at the very bottom of the area. Several NPCs visit Blighttown as part of their respective questlines, with Quelana of Izalith and Shiva of the East both acting as merchants.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0ded29e6-4b61-5bec-ab7f-dd050232da2c",
+    "title": "Blighttown Key",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Blighttown Key -  Dark Souls - item - lead \n lead : The **Blighttown Key** is a key in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "29281d9f-bfb4-55d7-b7df-61bdeff239e2",
+    "title": "Blighttown Key",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Blighttown Key -  Dark Souls - item - description \n description : Key to Blighttown from the Depths of the Undead Burg. Swallowed by the Gaping Dragon.\n\nAs its name suggests, Blighttown is a place of great pestilence. Even the polluted inhabitants of the Depths are aware of its dangers, and built this mighty door in hopes that they could remain safely separated.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2d1f1587-09d8-5778-82eb-a69f1c2ce3d5",
+    "title": "Blighttown Key",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Blighttown Key -  Dark Souls - item - availability \n availability : The Blighttown Key is dropped by the Gaping Dragon upon defeat.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6934bdcd-8506-535f-8324-65cd3f3658ab",
+    "title": "Blighttown Key",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Blighttown Key -  Dark Souls - item - general_information \n general_information : The Blighttown Key opens the door from the Depths to Blighttown.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2d126548-9edd-5b98-8522-36885c652496",
+    "title": "Blowdart Sniper",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Blowdart Sniper -  Dark Souls - enemy - location \n location : They are encountered in Blighttown, scattered throughout the upper parts.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "79b48e47-b4bf-59d1-b548-252863618147",
+    "title": "Blowdart Sniper",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Other than the darts, they have no other way of attacking the player other than a weak shove at close range. Assuming that there isn't more than one sniper attacking at once, running past them can work if the player is fast enough.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8380768e-c587-577b-9ecb-2747c8e366a8",
+    "title": "Blowdart Sniper",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Blowdart Sniper -  Dark Souls - enemy - strategy \n strategy : A minimum of 81 poison resistance is required to avoid becoming toxic in one shot from a blowdart without blocking.\nBecause they appear in dark, secluded areas, can detect the player from long distances, and start shooting continuously with high precision once they've detected the player, the snipers may intoxicate a player before they even know where the shots are coming from. Therefore, it is viable to employ some form of stealth such as the Ring of Fog to greatly reduce the distance at which a sniper becomes hostile.\nA rather effective, though unsavory, way of countering them is to intoxicate yourself using a few Dung Pies dropped from the Infested Barbarians throughout upper Blighttown. The effect is unstackable and only deals 7 HP/sec in damage as opposed to 14 HP/sec from the snipers.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9388060d-0e69-56d1-9bcd-015ed7372ac3",
+    "title": "Blowdart Sniper",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Blowdart Sniper -  Dark Souls - enemy - lead \n lead : **Blowdart Snipers** are non-respawning enemies in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b82b3e36-c495-5a7c-9b7f-d048453ca044",
+    "title": "Blowdart Sniper",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Blowdart Sniper -  Dark Souls - enemy - trivia \n trivia : In the *Demon's Souls*' opening cutscene there are warriors who have the same appearance as the Blowdart Snipers.\nThe sounds they make upon death are the same sounds made by the Dreglings in *Demon's Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "df9fbd8e-64eb-5867-b970-5ae9e647eaa7",
+    "title": "Blowdart Sniper",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Blowdart Sniper -  Dark Souls - enemy - notes \n notes : Killing Blowdart Snipers automatically grants players their dropped items. This includes if they were to fall to their deaths.\nEven though they don't deal any damage, the darts can stagger players with little-to-no poise.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e511d20e-f9b8-54b4-aaf4-107a31d3dbb1",
+    "title": "Blowdart Sniper",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Blowdart Sniper -  Dark Souls - enemy - description \n description : As their name would suggest, Blowdart Snipers have very long range and can spot the player from a long distance. In addition, they're hard to detect and make little noise.\n\nTheir darts inflict an extremely high amount of Toxic buildup. Their toxin is the most dangerous in the game, as although it is the briefest one in duration it also deals the most amount of damage per second.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0b5d670d-d1c2-5dea-888b-fc6bf474890f",
+    "title": "Cragspider",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Cragspider -  Dark Souls - enemy - lead \n lead : **Cragspiders** are enemies in *Dark Souls.*",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "581d14bb-2260-5d0f-af83-78e88febe463",
+    "title": "Cragspider",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Cragspider -  Dark Souls - enemy - trivia \n trivia : This creature's eyes resemble that of Quelaag's lower body (and Quelaag herself is located below the Blighttown where the Cragspiders live) and this trait, coupled with its warped body and humanoid hands, suggest that it's a demon-corrupted monster or even a lesser demon.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cc2f14e5-e9af-5e4a-9bbf-8f600961a217",
+    "title": "Cragspider",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Cragspider -  Dark Souls - enemy - location \n location : They are encountered in Blighttown, namely throughout the swamp and upper walkways by the entrance from the Valley of the Drakes.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ccd08be6-70c5-5896-a8e5-7118d8253477",
+    "title": "Cragspider",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Cragspider -  Dark Souls - enemy - description \n description : Cragspiders are slow, weak, fire breathing arthropod-like creatures with small, nigh useless wings. They telegraph their attacks long before dealing actual damage and have slow recoveries, making them easy to deal with.\n\nThey should pose little threat to the player unless they are caught unaware or allow the spiders to group up and attack.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2be57d31-0206-5bd1-b10f-c9eb4e29fec2",
+    "title": "Dragon Scale",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Dragon Scale -  Dark Souls - item - lead \n lead : **Dragon Scales** are upgrade materials in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "83604174-991c-5df8-bfa7-82be7525a38f",
+    "title": "Dragon Scale",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Dragon Scale -  Dark Souls - item - availability \n availability : Rare drop from Blue Drakes.\nGuaranteed drop from Hydras and Undead Dragons.\nFound in a chest in lower Blighttown, near the bonfire.\nFound on several corpses in Ash Lake.\nReward for winning PvP as or against a member of the Path of the Dragon covenant.\nOne per playthrough can be obtained by trading an Egg Vermifuge to Snuggly the Crow.",
+    "sources": [
+      "template",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.951937890237947
+  },
+  {
+    "document_id": "9140c4f0-4332-5b9a-91af-65ab52d98f4b",
+    "title": "Dragon Scale",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Dragon Scale -  Dark Souls - item - general_information \n general_information : Dragon Scales can be used to reinforce Dragon weapons and increase one's rank in the Path of the Dragon covenant.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f09797e2-9348-5139-83a9-73338a7b04ab",
+    "title": "Dragon Scale",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Dragon Scale -  Dark Souls - item - description \n description : Dragon scale for reinforcing dragon weapons. Peeled from an ancient dragon.\n\nA dragon is inseparable from its scales, and the transcendent apostles, who seek the perpetuity of the ancient dragons, have crossed the very end of the earth to seek this invaluable treasure.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2c1667e8-f359-574f-b5c9-7d486f61d914",
+    "title": "Eagle Shield",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Eagle Shield -  Dark Souls - weapon - availability \n availability : The Eagle Shield is found on a buttress close to the upper area bonfire in Blighttown.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6e13c1c4-4fec-5adc-80df-82ae24db0167",
+    "title": "Eagle Shield",
+    "section": "resistance_defense",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Eagle Shield -  Dark Souls - weapon - resistance_defense \n resistance_defense : Along with Physical and Elemental damage reduction, weapons also have hidden stats that reduce the amount of status build-up while blocking. It also has the second best resistance to Curse build-up among greatshields.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7040cfe9-3791-57de-b5a9-36890a2e483b",
+    "title": "Eagle Shield",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Eagle Shield -  Dark Souls - weapon - lead \n lead : The **Eagle Shield** is a greatshield in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "803f9bea-6d20-5f34-837e-705db98eaf6d",
+    "title": "Eagle Shield",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Eagle Shield -  Dark Souls - weapon - description \n description : Greatshield with an eagle design. Lightest and easiest greatshield to handle.\n\nGreatshields are very stable, and deflect attacks. But one cannot parry, and instead bashes with the shield.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ba892e86-8fd5-5683-8b2c-943359978839",
+    "title": "Eagle Shield",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Eagle Shield -  Dark Souls - weapon - characteristics \n characteristics : Both the lightest and least Strength-reliant greatshield in the game. An extremely versatile shield, it combines heavy deflection, and very high stability, with low stat requirements and weight that makes it usable even by non-Strength focused characters. This shield has a standard bash attack and the crystal durability is 30.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f4fd8b62-a5d3-53cf-8e92-32ee37de00ab",
+    "title": "Eagle Shield",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Eagle Shield -  Dark Souls - weapon - notes \n notes : Pre-patch 1.06, the Eagle shield had 100% physical damage reduction.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "239207d4-c94b-55e7-a238-c13a504cac80",
+    "title": "Falchion (Dark Souls)",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Falchion (Dark Souls) -  Dark Souls - weapon - description \n description : Small curved sword. Each hit inflicts little damage, but fluid chain attacks are deadly.\n\nThe falchion's sharp slashing attacks are effective against cloth and flesh, but not against metal armor or tough scales.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "26bbeac9-a276-5c84-bcf2-ecf07afec809",
+    "title": "Falchion (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Falchion (Dark Souls) -  Dark Souls - weapon - lead \n lead : The **Falchion** is a curved sword in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "47105293-4c4b-5cff-8794-71ba37891517",
+    "title": "Falchion (Dark Souls)",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Falchion (Dark Souls) -  Dark Souls - weapon - characteristics \n characteristics : The Falchion has the same scaling, moveset, attack speed, and stamina consumption as the Scimitar, but has higher base damage. The Falchion has a higher Strength requirement than the Scimitar (although all starting classes have enough Strength for it). The only weakness it has compared to the Scimitar is its heavier weight. In terms of damage output, the Falchion loses to the Painting Guardian Sword at higher levels; however, it possesses a slightly longer reach.\n\nThe Falchion is one of lowest stamina-consuming weapons in the game, meaning that in conjunction with its fast attacks, the Falchion is capable of quickly dispatching enemies.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9bc0630d-4162-592d-8750-eefdb4a4b36f",
+    "title": "Falchion (Dark Souls)",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Falchion (Dark Souls) -  Dark Souls - weapon - availability \n availability : Found on a corpse in Blighttown with the Wanderer set, near the end of the scaffolding area leading from the Depths.\nSemi-uncommon drop from Falchion wielding Skeletons.\nAn Enchanted Falchion is dropped by a Mimic in The Duke's Archives, near where Logan sets up shop.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bdddc5ad-54cf-53d6-a90f-b0d17087f979",
+    "title": "Falchion (Dark Souls)",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Falchion (Dark Souls) -  Dark Souls - weapon - notes \n notes : The Falchion has bleed effect when handled by the Falchion-wielding Skeletons.\n\nThe Falchion has slightly longer range than the Scimitar.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fee11e44-75ae-5f1a-92f2-4c473958442c",
+    "title": "Falchion (Dark Souls)",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Falchion (Dark Souls) -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f209e483-9197-577d-a58f-3bc4821e132b",
+    "title": "The Great Hollow",
+    "section": "adjacent_locations",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Great Hollow -  Dark Souls - location - adjacent_locations \n adjacent_locations : Blighttown\nAsh Lake",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6298337803758967,
+    "bm25_score": 30.172791833012315
+  },
+  {
+    "document_id": "c7c582bf-b516-5a58-867b-c859e4a722da",
+    "title": "The Great Hollow",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Great Hollow -  Dark Souls - location - description \n description : The Great Hollow is in the center of a giant tree, the entrance of which is located in the poison swamp at the bottom of Blighttown. There are two illusory walls that lie along the way. At the very bottom of the tree is the entrance to Ash Lake.\n\nThe Great Hollow can be a dangerous place due the constant possibility of falling to one's death, getting Cursed by Basilisks, or failing to deal with the Mushroom Parents and Mushroom Children.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6177921792209033,
+    "bm25_score": 29.264972897933923
+  },
+  {
+    "document_id": "86304e0d-8f00-5708-b108-fe317fb03b9c",
+    "title": "Path of the Dragon",
+    "section": "how_to_join",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Path of the Dragon -  Dark Souls - mechanic - how_to_join \n how_to_join : Talk to the Stone Dragon in Ash Lake. To access Ash Lake, travel from Blighttown to The Great Hollow and get to its very bottom; upon arriving there, follow the path along the beach to its end.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5904661587041375,
+    "bm25_score": 35.55253113446243
+  },
+  {
+    "document_id": "201448de-9464-5c77-bc0d-d04c3b00aa1b",
+    "title": "The Great Hollow",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Great Hollow -  Dark Souls - location - trivia \n trivia : It is possible to see the exterior of The Great Hollow from Firelink Shrine.\nIt is very similar to the Archtrees featured in the opening cinematic and in Ash Lake.\nLater down below there is a basilisk that commits suicide, resulting in gaining souls; however, this is an ineffective farming method.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5880084790566737,
+    "bm25_score": 29.62161493019383
+  },
+  {
+    "document_id": "bdc8a401-a588-5d31-8929-97559b1b27db",
+    "title": "The Great Hollow",
+    "section": "non_respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Great Hollow -  Dark Souls - location - non_respawning \n non_respawning : Crystal Lizard",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5832220274386898,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4e6f4a30-f8c4-59cc-a08c-7e1e04f24db9",
+    "title": "The Great Hollow",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Great Hollow -  Dark Souls - location - strategies \n strategies : Utilizing the sorcery spell Fall Control can make obtaining all of the items in the area a bit easier.\nIt is possible to speed through to the bottom by making a series of short drops rather than circling around on the walkways.\nWaiting until the Lordvessel is obtained can make the journey back up through the tree significantly easier.\nDue to the Basilisks, the Cursebite Ring can help as they are a greater threat than in the depths.\nThe Antiquated Set, which can be obtained fairly early in the game, makes even The Great Hollow's Basilisks a much lesser threat.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5476646736556985,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2aa1bd4f-1f50-5a78-a9c6-12a3c69496e6",
+    "title": "The Great Hollow",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Great Hollow -  Dark Souls - location - lead \n lead : **The Great Hollow** (大樹のうつろ, \"The Cavity of the Great Tree\") is a location in *Dark Souls*.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5425089723721692,
+    "bm25_score": null
+  },
+  {
+    "document_id": "06d032a7-75ec-5ba8-a2d6-8b6cc88fa072",
+    "title": "Bonfire (Dark Souls)",
+    "section": "lordran",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "***Depths** (warping point)\n**Behind a locked wooden door, guarded by a torch carrying Hollow, in the corridor with the falling Slimes.\n\n***Blighttown**\n**Beyond the tunnel that connects to the Depths, on a bridge between giant supporting stone pillars.\n**On the bottom level, in a tunnel leading off of the poison Swamp.\n\n***Quelaag's Domain**\n****Daughter of Chaos** (warping point) - Behind an illusory wall, below the Bell of Awakening. Answer \"Yes\" when questioned by Eingyi, the Egg Burdened or kill him.\n\n***The Great Hollow**\n**At the beginning of the Hollow, behind two illusory walls.\n\n***Ash Lake**\n**Shortly after arriving from The Great Hollow.\n****Stone Dragon** (warping point) - At the very end of the long path, in front of the Stone Dragon.\n\n***Sen's Fortress**\n**Close to the top of the fortress, in the area where the Giant Firebomber throws giant firebombs, drop off of a crumbling ledge.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5389817812696271,
+    "bm25_score": 24.99190171593085
+  },
+  {
+    "document_id": "85bab59a-1752-5300-ab88-0732872814be",
+    "title": "The Great Hollow",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Great Hollow -  Dark Souls - location - notes \n notes : The Great Hollow is notable for hosting a large amount of Crystal Lizards, many of which spawn in close proximity to one another.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5294536559549988,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4ddf1c86-2a8e-57cd-a9ce-6c9380a14354",
+    "title": "Smouldering Lake",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "An unconfirmed, yet possible, theory is that the Smouldering Lake is another section of the Ash Lake from *Dark Souls*. This theory is supported by the presence of massive trees, resembling the archtrees that the ancient dragons once lived in and that the witches of Izalith burned with their pyromancy. It is also supported by the close proximity the Ash Lake had to the Demon Ruins as well. Looking from a top-down view from Blighttown, one could see that the entrance to the Demon Ruins was right across from the entrance to the Ash Lake; and as both were beneath, then it would seem reasonable that the two areas were in close proximity to each other.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5180434936723708,
+    "bm25_score": 24.749290601336604
+  },
+  {
+    "document_id": "2e2df13d-3c9c-539f-b8f8-fb8ae39b7258",
+    "title": "Hollow (enemy)",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Hollow (enemy) -  Dark Souls - enemy - location \n location : They can be found in Undead Asylum, Undead Burg, Undead Parish, Depths, New Londo Ruins, and the Painted World of Ariamis.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5047342549949744,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5b94a454-4471-58de-82dd-3dd470a4a246",
+    "title": "The Gutter",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "The level is filled with hollows, who may mob and ambush unsuspecting players who venture forth without a source of light and do not keep an eye on their surroundings. While not very threatening individually, the level's vertical design and lack of light allows them to surprise players at inopportune moments. Care should be taken while navigating the Gutter so as to avoid being overwhelmed or knocked into the abyss.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5040164823042125,
+    "bm25_score": null
+  },
+  {
+    "document_id": "88a39b04-8140-57c8-ac98-aefe41fd6e4d",
+    "title": "The Great Hollow",
+    "section": "miscellaneous",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Great Hollow -  Dark Souls - location - miscellaneous \n miscellaneous : Large Soul of a Nameless Soldier x2 (corpses)",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5018272585235403,
+    "bm25_score": null
+  },
+  {
+    "document_id": "390af477-9294-572b-87ac-3f8d06a410e4",
+    "title": "Giant Clam",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Giant Clam -  Dark Souls - enemy - location \n location : Ash Lake\nCrystal Cave",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5009028049854052,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f56ae29b-9328-5fbb-b662-c33cc2d8281f",
+    "title": "The Great Hollow",
+    "section": "respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Great Hollow -  Dark Souls - location - respawning \n respawning : Basilisk\nMushroom Child\nMushroom Parent",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.4942343546644872,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4356e1eb-90c5-5baf-b90f-7fdfb5e3e1aa",
+    "title": "Gravetender Hollow",
+    "section": "locations",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Gravetender Hollow -  Dark Souls III - enemy - locations \n locations : Cemetery of Ash\nUntended Graves",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.49022752876478354,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4124fe87-f342-5149-a893-1d4c89498c37",
+    "title": "Sieglinde of Catarina",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "***Firelink Shrine #2**: She can be talked to there again after you save Siegmeyer in Lost Izalith (see his page for more information on progression of his questline).\n***Ash Lake**: After you talk to her in Firelink Shrine the second time, she will be last found in Ash Lake, at the first bonfire. (If you didn't talk to Sieglinde at the Firelink Shrine *before* saving Siegmeyer, you simply have to talk to her there twice, exiting the location or reloading the game to trigger the second dialogue. Only after that she'll appear at Ash Lake.)",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.48398506492831606,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6f74ddbf-48f7-5908-8c68-61adc78390d6",
+    "title": "Darkdiver Grandahl",
+    "section": "location",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Darkdiver Grandahl -  Dark Souls II - character - location \n location : Grandahl is found in three separate shrines throughout Drangleic. These shrines are often in hidden places and they all need to be found to activate Grandahl's services as the Pilgrims of Dark Covenant leader. These places are often accessed via dropping, and are located in the Black Gulch, Shaded Woods, and Drangleic Castle.\nTo open The Black Gulch entrance, the player will need the Forgotten Key gained from killing two Elite Giants in a cave located underneath the door's platform.\nThe Shaded Woods access point is located to the right of the path that leads up to the Scorpioness Najka fight. The player will find a grassy patch to the right and fall through the boards in the ground, finding the shrine.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.4782041917034008,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7b7eaa9c-77ea-5628-a8b9-5f52f02c4b09",
+    "title": "The Great Hollow",
+    "section": "upgrade_materials",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The Great Hollow -  Dark Souls - location - upgrade_materials \n upgrade_materials : Blue Titanite Chunk x2 (corpses)\nRed Titanite Chunk x2 (corpses)\nTitanite Chunk (corpse)\nWhite Titanite Chunk (corpse)\nTwinkling Titanite x10 (Crystal Lizards)",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.4755627309500462,
+    "bm25_score": null
+  },
+  {
+    "document_id": "26f09a90-7e5f-5301-ae7c-e4d2c1ec55ab",
+    "title": "Hollow Pyromancer",
+    "section": "locations",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Hollow Pyromancer -  Dark Souls II - enemy - locations \n locations : Three total are located past the Rise of the Dead bonfire in the Shrine of Amana.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.4731944913271837,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a448911e-a90b-5aac-a112-3b749d4fd23b",
+    "title": "Player versus Player",
+    "section": "black_phantoms",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Black Phantoms may only invade players who have not yet cleared an area's boss. Thus, it is impossible to invade in some places that do not have bosses, such as the Firelink Shrine and Ash Lake.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.47003225563054835,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ddaa3aff-7e57-5049-b741-ec1018c61b8b",
+    "title": "Hydra",
+    "section": "ash_lake",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Hydra -  Dark Souls - enemy - ash_lake \n ash_lake : The Ash Lake Hydra rests near the edge of a sandbar entering the lake. Some distance from the Hydra, a large log lies on top of a ridge of the sandbar. Sheltering behind this log will attract long range attacks from the Hydra, which will be blocked completely by the log. It is possible to shelter behind the log and attack the Hydra safely with a bow; the Hawk Ring and Dragonslayer Greatbow are recommended. When the Hydra is already at very low health, the Symbol of Avarice and Covetous Silver Serpent Ring can be equipped to increase the number of souls gained when the Hydra dies. Equipping the Symbol of Avarice will mean shooting blind, but the Hydra is so large that it is easy to continue hitting its body (it is not necessary or advisable to aim for the heads), for the last few shots required to kill it.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.4699826176730619,
+    "bm25_score": 27.67265251217767
+  },
+  {
+    "document_id": "c7f4baaf-28a8-5883-811d-2e29b87a19e9",
+    "title": "Skeleton Boulder",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The hooded skeleton controlling this boulder can be found overlooking on the second floor, although it will be heavily guarded by three Skeleton Swordsmen. To reach this area, the player can take the second doorway on the left. However, a safer route can be found by hitting an illusory wall to the left of this archway, uncovering another path that will provide a more strategic approach.\n\nOnce this boulder breaks apart, it will drop a Dark Gem and also release a Lesser Crab.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.46912821141027966,
+    "bm25_score": 25.895331814892273
+  },
+  {
+    "document_id": "3e96b23e-52ab-517a-9ad3-28af2b13136c",
+    "title": "Fog Door",
+    "section": "lordran_fog_doors",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Depths\n**Before the Channeler and Undead Rats.\n**Before the encounter with the Gaping Dragon, at the bottom of the stairs and near the Heavy Crossbow.\nDarkroot Garden\n**To the right of the locked door that requires the Crest of Artorias, separating the large area with many Stone Knights that eventually leads to the Moonlight Butterfly.\n**Before the fight with the Moonlight Butterfly.\n**The fog door appears in place of the large doors that lead to the area where Great Grey Wolf Sif is fought, but only after initiating the fight and if re-entering the arena before Sif is defeated.\nBlighttown\n**Above the swamp, dividing the upper and lower wooden platform sections that eventually connect to the Depths. It is near a corpse that holds the Whip.\nThe Great Hollow\n**At the bottom, before entering Ash Lake.\nQuelaag's Domain\n**Just before the fight with Chaos Witch Quelaag.\nSen's Fortress\n**To the right after entering the exterior of the fortress, with the spherical boulders rolling down.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.4687249957603674,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b7a87071-d3c3-56ac-bb3e-246225e7c0db",
+    "title": "Horace the Hushed",
+    "section": "plot",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Horace can be seen standing at the bottom of the large chasm below the hanging bridge that leads to High Lord Wolnir. The access to this location can be found via climbing down the bridge after destroying it to access Smouldering Lake, and then navigating a long tunnel on the right side upon entering the lake proper. Upon approach, however, Horace will attack the player (presumably due to hollowing), leaving no other option than to fight back. He wields a regular Halberd, and will use its Charge skill quite often to close the distance.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.466732969515339,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dfa911c4-8158-52bc-a51c-c09b7bccf500",
+    "title": "Hollow Infantry",
+    "section": "locations",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Hollow Infantry -  Dark Souls II - enemy - locations \n locations : Forest of Fallen Giants\nNo-man's Wharf",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.46642522761367283,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f6143bf8-643a-5a64-bba4-2387f81b9830",
+    "title": "Dark Chasm of Old",
+    "section": "overview",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Dark Chasm of Old -  Dark Souls II - location - overview \n overview : This location is accessible via a magic portal located at any of the three places one can find Darkdiver Grandahl in; each location the player can access the Dark Chasm of Old from offers a different area. Each area challenges the player with lighting a sconce with a torch, killing all of the black phantoms so the fog wall covering the exit disappears, and then finally jumping through a dark, foggy pit which will teleport the player either back to Grandahl or, if all three areas have been successfully cleared out and their beacons lit, to the Darklurker.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.4633254411429578,
+    "bm25_score": null
+  },
+  {
+    "document_id": "24d9b51d-9bd8-5add-aa24-806c819fc8b1",
+    "title": "Grand Cathedral",
+    "section": "overview",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Grand Cathedral -  Dark Souls II - location - overview \n overview : Upon entering the main hall, Alsanna the Silent Oracle can be found. After speaking to her and accepting her offer, she will melt various frozen sections of Eleum Loyce. Most notably, the large pit leading to The Old Chaos will be opened.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.46152114228387603,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d38dd829-4428-5cc3-a5da-4d36d3d2a907",
+    "title": "Smouldering Lake",
+    "section": "adjacent_locations",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Smouldering Lake -  Dark Souls III - location - adjacent_locations \n adjacent_locations : Catacombs of Carthus",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.46009344286928255,
+    "bm25_score": null
+  },
+  {
+    "document_id": "08bd5c09-4222-5d69-b28c-5687baa202ab",
+    "title": "Cemetery of Ash",
+    "section": "adjacent_locations",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Cemetery of Ash -  Dark Souls III - location - adjacent_locations \n adjacent_locations : Firelink Shrine",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.45989883572429935,
+    "bm25_score": null
+  },
+  {
+    "document_id": "74c0987e-3ab9-5652-ae02-5b1658706449",
+    "title": "Hollow Thief",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Hollow Thief -  Dark Souls - enemy - location \n location : Encountered in the Lower Undead Burg.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.4594740582612788,
+    "bm25_score": null
+  },
+  {
+    "document_id": "deaa4f0e-1398-5d40-8244-4002a208fca5",
+    "title": "Projected Heal",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Projected Heal -  Dark Souls III - spell - availability \n availability : Found in The Dreg Heap. After meeting Amnesiac Lapp for the first time, progress through the area past him guarded by numerous Murkmen. Upon reaching the area overlooking the Harald Legion Knight, look to the right, where there is an ash pile at the bottom of a drop leading to a battlement remnant being patrolled by a banner-wielding Lothric Knight and several Murkmen. Drop onto the ash pile below and clear the area, the Miracle will be on a corpse behind a summoning Murkman.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.4582030791706024,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5e7fba14-53db-530f-bc0e-ac50571133ac",
+    "title": "Hollow Mage",
+    "section": "location",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Hollow Mage -  Dark Souls II - enemy - location \n location : Hollow Mages are found in Brightstone Cove Tseldora. They appear throughout the whole area between the Chapel Threshold and the Lower Brightstone Cove bonfires, either in open spaces or inside of houses.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.45813874047444914,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f8065750-6171-5495-9f53-b050aed3fa7b",
+    "title": "Black Gulch",
+    "section": "adjacent_locations",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Black Gulch -  Dark Souls II - location - adjacent_locations \n adjacent_locations : The Gutter\nShulva, Sanctum City (via portal)",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.45745949463049984,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8cd16e9d-3c6f-5915-9d04-78e384f1625f",
+    "title": "Pilgrims of Dark",
+    "section": "how_to_join",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Pilgrims of Dark -  Dark Souls II - mechanic - how_to_join \n how_to_join : Players must talk to Darkdiver Grandahl in three separate locations:\n#Shaded Woods: From the Shaded Ruins bonfire, advance forward until an open area is reached. Start walking right and past the two towers that lead to Scorpioness Najka. There will be a boarded up hole in the nearby grassy area by the cliff, which will let the player drop down to Grandahl. To break it, the player must simply walk over it.\n#Black Gulch: Dropping down from the cliff near the two Razorback Nightcrawlers will land the player on a ledge with a locked door. To obtain the key for it, drop down two more times into an enclave that houses two Elite Giants; killing them will grant the Forgotten Key, along with a Soul of a Giant.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.4560358954298559,
+    "bm25_score": null
+  },
+  {
+    "document_id": "69286ace-a24b-5dd6-8e29-d461eb37cace",
+    "title": "High Wall of Lothric",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "This is the first level where a crossbow can be obtained; while crossbow-wielding hollows appeared in the previous level, they do not drop the weapon.\nAfter Vordt is slain, it is possible to walk out to the very edge of the cliff and see all but three areas in the base game that can be explored: the Undead Settlement, the Cathedral of the Deep, the Road of Sacrifices and the adjacent Farron Keep and swamp, Irithyll of the Boreal Valley and Anor Londo, and Archdragon Peak. The areas that cannot be seen are underground areas: Irithyll Dungeon and connected Profaned Capital, and the Catacombs of Carthus. One other, unknown, location is seen far off into the mountains, between the Settlement and the Cathedral: the size of a village or small town, with trees and buildings clearly seen.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.454171616173061,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a234df3e-b272-598d-aa8a-ee0a7b464fdd",
+    "title": "Cemetery of Ash",
+    "section": "respawning",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Cemetery of Ash -  Dark Souls III - location - respawning \n respawning : Gravetender Hollow\nStarved Hound",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.4541426650254867,
+    "bm25_score": null
+  },
+  {
+    "document_id": "347a29e7-6432-5f84-ba34-afa345a18f01",
+    "title": "Large Hollow Soldier",
+    "section": "locations",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Large Hollow Soldier -  Dark Souls III - enemy - locations \n locations : High Wall of Lothric\nLothric Castle",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.4539937099470108,
+    "bm25_score": null
+  },
+  {
+    "document_id": "be7b39ff-1ed1-59ee-a68f-a9a778daf4d1",
+    "title": "Great Magic Barrier",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Great Magic Barrier -  Dark Souls - spell - availability \n availability : Found in Ash Lake, inside the hollow tree. When entering the tree normally, the spell will be unreachable. To reach it, the player must walk on the branch outside (the one with a Basilisk on it) and stop halfway, turn the camera, and fall down onto a lower branch.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 33.258285861868885
+  },
+  {
+    "document_id": "a8039504-72d1-5e85-8787-3b2f043c2994",
+    "title": "Mushroom Parent",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Mushroom Parent -  Dark Souls - enemy - location \n location : Mushroom Parents are located in the Darkroot Garden, Ash Lake, and The Great Hollow.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.57311497390013
+  },
+  {
+    "document_id": "b2710411-f137-5c4a-aaed-961d5c7411ce",
+    "title": "Smouldering Lake",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Inside the Demon Ruins reside Smouldering Ghrus, Demon Clerics, Demon Statues, Hound Rats and Giant Hound Rats, Basilisks, and two Black Knights. To reach the upper reaches of the lake, a long, winding route through the ruins must be taken, with a great number of these enemies along the way.\n\nIn the deepest part of the ruins, above a pool of deadly lava, there is a ladder leading up to the high ledges above the lake, guarded by a Black Knight. Below, Knight Slayer Tsorig can be found. Once emerging on the ledge, a few ballista bolts must be avoided, but the rock formations will prevent most of them from reaching below. A few Skeletons, Skeleton Wheels and Skeleton Swordsmen patrol this area. Past them, the ballista is spinning its gears and can be deactivated with a lever, making the lower area of the lake substantially safer to traverse. A series of ledges against the wall can be dropped down to reach the bottom quickly.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.73168127334388
+  },
+  {
+    "document_id": "bfdc5c27-39a1-5f9d-9897-d2af20ba9b82",
+    "title": "Sieglinde of Catarina",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "**Other details suggest that, in the final version of the game, Sieglinde is intended to be Undead. The player can steal 10 Humanity from Sieglinde with the Dark Hand, and only an Undead would have reason to hold more than a single Humanity. Her continued affection for Siegmeyer suggests that Catarina may not hate Undead as much as other regions. Also, it is implausible that an ordinary Human could traverse the Great Hollow and reach the bottom of Ash Lake without being killed.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.721400510814977
+  },
+  {
+    "document_id": "72629669-c64f-528d-b112-fbfba6891a07",
+    "title": "Crest Shield",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "shield",
+    "snippet": "Crest Shield -  Dark Souls - shield - characteristics \n characteristics : What sets the Crest Shield apart from other medium shields is its massive 80% magic reduction. This makes the Crest Shield a powerful asset when facing magic-dealing enemies. When used in conjunction with miracles such as Great Magic Barrier, the player can become virtually immune to magic damage.\n\nThe Crest Shield has medium deflection and a normal parry speed.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.48335182594572
+  },
+  {
+    "document_id": "eafc9809-b392-5b05-bc27-d67d80ed544f",
+    "title": "Engraved Gauntlets",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Engraved Gauntlets -  Dark Souls II - armor - characteristics \n characteristics : At first glance, the Engraved Gauntlets seem to be very poor stat-wise, as they offer little physical and elemental resistances; however, they makes up for it by having the highest Curse and Petrification resistances in the game for hand armor, and by having a unique effect of a 5% chance for normal hits to deal damage equal to a critical attack. When this effect is triggered, the gauntlets cause an explosion, releasing what seems to be ash around the player.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.930059399099136
+  },
+  {
+    "document_id": "78907490-ecf8-5a2c-a792-70db24562c7e",
+    "title": "Smouldering Lake",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "On the highest ledge above the Smouldering Lake, a colossal triple ballista fires giant bolts at anyone trying to cross the lake. It is fully automated and the Giant Slaves that maintained it are long dead. It represents a significant threat; however, it can be used to one's advantage by getting a bolt to hit the unstable floor in the middle of the lake, opening an entrance to the Old King's Antechamber. Additionally, at the far wall left of the ballista is a crumbling wall which hides the Speckled Stoneplate Ring, and demolishing the wall with a bolt allows access to it.\n\nAnother entrance to the Demon Ruins lies straight ahead from the entrance to the lake, near the chamber of the Old Demon King. However, burrowed into the ground nearby is a Carthus Sand Worm, which will shoot up when someone comes nearby. As bolts from the ballista can also reach this area, it is an extremely dangerous route to take.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.338980073987912
+  },
+  {
+    "document_id": "5c31d418-b8ac-5783-9de1-c714f69c412d",
+    "title": "Mushroom People",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "This is not the only place where they dwell, however, as they inhabit the hollowed out insides of a great tree situated at the foot of Blighttown. They are also found inside nearby trees in the Ash Lake, situated at the roots of the Great Hollow. This might suggest they originated from inside these imposing descendants of the Archtrees in a much older age.\n\nThey appear to be the source of Gold Pine Resin, as it is believed to be fungal in nature and the Mushroom People drop the substance upon death.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.178004591824003
+  },
+  {
+    "document_id": "08bba552-2443-5e22-a705-877e7d3a212e",
+    "title": "Siegmeyer of Catarina",
+    "section": "removed_content",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Siegmeyer of Catarina -  Dark Souls - character - removed_content \n removed_content : From text dumps, Siegmeyer was supposed to encounter Basilisks, probably in the Depths or in The Great Hollow. The player can choose to help him there in a similar fashion to his other encounters. Siegmeyer was also aware that his journey to Ash Lake would be his last; he also has removed dialogue with the player after meeting with.\n\nThis video shows Siegmeyer's entire dialogue including cut content dialogue. [https://m.youtube.com/watch?v=PBKDEQZSAsk]",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.668962374131787
+  },
+  {
+    "document_id": "3274a0eb-45ad-5eab-8346-2e53c3d82b4c",
+    "title": "Giant Clam",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Giant Clam -  Dark Souls - enemy - notes \n notes : Giant Clams are an easy source of Twinkling Titanite, an otherwise expensive upgrade material. They can be farmed in Ash Lake and the Crystal Cave, where they can be respawned repeatedly.\nShooting an arrow into a Giant Clam's mouth will briefly stun it.\nWhen encountering Seath the Scaleless for the first time, in the Crystal Cave, the fog wall is not present. This allows the clams the chance to enter the room that houses the boss fight, if the player tries to run past them. Seath's attacks can harm them, but they will still only attack the player, making the fight a fair bit more challenging.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.457590303595477
+  },
+  {
+    "document_id": "8206b700-3cd5-5ea0-bd62-87d4feb6cc94",
+    "title": "Ashen Estus Flask",
+    "section": "overview",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Ashen Estus Flask -  Dark Souls III - item - overview \n overview : Drinking from the Ashen Estus Flask restores FP, much like how the normal Estus Flask restores HP. Resting at a bonfire will refill it to maximum charges.\n\nThe total number of shared charges between the normal Estus Flask and Ashen Estus Flask can be increased by bringing Estus Shards to Blacksmith Andre, and the potency of each charge increased by burning an Undead Bone Shard at Firelink Shrine's bonfire. The number of total charges between the two flasks can reach a maximum of 15, while the potency of the flasks can reach a maximum of +10. The player can also talk to Blacksmith Andre to allot their Estus charges between the two flasks.\n\nThe potency of each charge of the Ashen Estus Flask can be increased by 20% by equipping the Ashen Estus Ring.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.066121171632318
+  },
+  {
+    "document_id": "21fdac4d-7a66-5e2d-b095-acf14f56724f",
+    "title": "Great Crab",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "If the player befriended the giant archer in the Undead Settlement, he will aid in killing the Great Crab in the Farron Keep, which guards the Crown of Dusk among other items.\n\nIf the player wants to fight those encountered in the Smouldering Lake, it's recommended to make a detour through the Demon Ruins first and turn off the ballista. A series of ledges can be found near it, which the player can drop onto to head back to the lake and near from where the Great Crabs are.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.044109721444784
+  },
+  {
+    "document_id": "09c7c1af-5a64-5549-a46e-91210e556c10",
+    "title": "Gold Pine Resin",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Gold Pine Resin -  Dark Souls - item - availability \n availability : ×3 in a chest on a ledge accessible only with the Master Key (starting gift, or purchased off Domhnall of Zena) or the Residence Key (purchased off the Undead Male Merchant) in the Undead Burg.\nDropped by Mushroom Parents in the Darkroot Garden and The Great Hollow at an 80% drop rate for 1 & a 20% for 2\nDropped by Mushroom Children in the Darkroot Garden and The Great Hollow at a 5% drop rate\nDomhnall of Zena sells 3 per playthrough\nElizabeth sells 5 per playthrough",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.66290214378245
+  },
+  {
+    "document_id": "f554e967-2e97-53da-b358-d7b443ac3dd3",
+    "title": "Starting Gifts",
+    "section": "black_firebomb",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Starting Gifts -  Dark Souls - item - black_firebomb \n black_firebomb : Black Firebomb ×10. Throwable item that creates a powerful blaze, inflicting Fire Damage to those near the impact. They can be used to easily defeat the Asylum Demon when first encountered and therefore is a relatively easy way to obtain the Demon's Great Hammer on the first playthrough.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.348859972116216
+  },
+  {
+    "document_id": "c08a8d82-054c-50db-9bb3-fbb754db41e9",
+    "title": "Zweihander",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Contrary to popular belief, Zweihander is NOT a \"Strength Weapon\" but is a \"Quality\" Scaling weapon meaning it scales near equally off Strength and Dexterity and will be at its full potential at the relevant stat softcaps.\n\nThe overhead swing also has the advantage of a high vertical reach. This makes it a very good weapon to use to cut Dragon tails: most other Ultra Greatswords will require a running attack to swing upwards, and Great Hammers don't reach quite as high. The overhead swing also makes the player dodge certain attacks that reach horizontally.\n\nThe Zweihander can be a very strong weapon early in the game due to its close proximity to the starting area and relatively low stat requirement of 16 Strength to two-hand the weapon. Even un-upgraded, its base damage and staggering abilities are formidable for the Undead Burg area.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.302957613919272
+  },
+  {
+    "document_id": "33b24575-a1ed-5ba9-bc92-729f1c5d51dc",
+    "title": "Claymore (Dark Souls III)",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Claymore (Dark Souls III) -  Dark Souls III - weapon - characteristics \n characteristics : Like in the previous games, the Claymore is a reliable and versatile weapon with great damage output. It's balanced scaling between Strength and Dexterity makes it a great candidate for Refined infusion, and it can be buffed with spells and items. This, coupled with its adaptable moveset and early accessibility, makes the Claymore a promising weapon for any melee build.\n\nThe Claymore is also one of the longest Greatswords in the game, giving it a better reach than most swords of its class. This allows certain character builds to perform multiple attacks and roll away with near-impunity, particularly during boss fights. Its Weapon Arts is particularly effective against enemies with weapons no longer than a Spear as it makes full use of the sword's length. As with its previous incarnations, the Claymore remains exceptional at stun-locking enemies with low poise.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.29676480732398
+  },
+  {
+    "document_id": "55c80df3-51a8-5750-bb51-86c0a6eacd58",
+    "title": "Hydra",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Hydra -  Dark Souls - enemy - location \n location : A Hydra can be found at the bottom of Darkroot Basin and another is found close to the entrance to Ash Lake.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.22775063879866
+  },
+  {
+    "document_id": "d2306ded-a522-5090-80aa-19ad529e6b77",
+    "title": "Soul of an Unknown Traveler",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Soul of an Unknown Traveler -  Dark Souls III - item - availability \n availability : A minimum of eight are guaranteed to the player per playthrough.\nCemetery of Ash\n**At the far end of the side area guarded by the Ravenous Crystal Lizard.\nUndead Settlement\n**To the side of the wide-open area where the Evangelist preaches before the burning tree. To the left are a large number of explosive barrels which hide a corpse that holds the item.\n**Above the Cliff Underside area, where Cornyx of the Great Swamp is encountered. In the wide-open area where Peasant Hollows throw Firebombs and a Hollow Manservant holding a pot guards the path, there is a corpse pinned under a torture rack that is holding the consumable.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.190186099687153
+  },
+  {
+    "document_id": "0ed91f7a-288f-5fa3-9744-5d6794f0d34b",
+    "title": "Gwyn, Lord of Cinder",
+    "section": "drops",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Gwyn, Lord of Cinder -  Dark Souls III - boss - drops \n drops : Gwyn's armor, the Set of the Great Lord, can be purchased from Domhnall of Zena during the next playthrough.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.131138175265615
+  },
+  {
+    "document_id": "c16d046e-ca55-5568-a11e-21036348822e",
+    "title": "Hellkite Drake",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "In order to progress into the Undead Parish, the player has two options:\n\nRun across the bridge hugging the right hand side, go down the stairs to the right and kick down the ladder that leads to the Undead Burg Bonfire. Go back up to the bridge and wait in the safe pockets that are on either side of the bridge. Watch the Hellkite Drake and wait a moment. The Drake will land on the bridge and players can run right past it to Sunlight Altar Bonfire located in the room directly below where the Drake perches.\nThere is a route underneath the bridge, close to the shortcut to the Undead Burg bonfire. It is guarded by two Hollow Soldiers and several Undead Rats. This route has no rest points until one reaches the bonfire close to Andre of Astora, so it is more punishing should the player die en route to their objective.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.03868696789945
+  },
+  {
+    "document_id": "b7c386e6-938b-59c5-b710-05c260e26432",
+    "title": "Crystal Cave",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Crystal Cave -  Dark Souls - location - description \n description : This area is characterized by walkways of which some are invisible. Snowflakes falling from the ceiling and orange guidance signs etched from other worlds can guide the player on these walkways. The player can also shoot arrows at the air, or drop Prism Stones to see if they stick. The enemies may prove to be an annoyance when on narrow crystal walkways. This makes it easy for the player to fall off with or without being hit.\n\nCrystal Cave is a good location for farming Twinkling Titanite because it's a common drop from Giant Clams, especially with raised Item Discovery. Killing Seath first to unlock the bonfire in the boss area just next to the cave with a group of Giant Clams makes for easy farming.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.9587596981518
+  },
+  {
+    "document_id": "1f6f4004-9cdf-5308-8a56-bf3a366d5ac8",
+    "title": "Bonfire (Dark Souls III)",
+    "section": "archdragon_peak",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "***Dragon-Kin Mausoleum**\n:As this bonfire's name implies, it is located inside the big mausoleum erected behind from where the Ancient Wyvern makes its last stand. To reach it, the player must defeat the wyvern, either in close combat or by killing it in one hit with a plunging attack at the end of a long gauntlet of enemies. Either way, the player will be automatically teleported to the bonfire once the boss has been defeated.\n\n***Great Belfry**\n:This bonfire is located far into the level, after traveling through a few long, open side paths of the sanctuary. At one point, the player will reach a small corner room where a Man Serpent Summoner will continuously summon the Rapier Champion. The bonfire is located on the next corner room, past the great belfry that gives access to the Nameless King boss fight.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.947584369641252
+  },
+  {
+    "document_id": "70b8a4fc-9035-5dd0-a8ae-df14170b0242",
+    "title": "Brightstone Cove Tseldora",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Brightstone Cove Tseldora -  Dark Souls II - location - notes \n notes : The lower bonfire provides a route to the second section of the area, as you reach the second section you drop down into a room with a skeleton corpse, an item and a large sand mound covering most of the room. This mound can be used to jump off and land back onto the path (first section). This will save the use of 10+ homeward bones when soul farming.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.90242116705705
+  },
+  {
+    "document_id": "d5cbf6ee-82f6-5e57-872d-f5ab408a6a9b",
+    "title": "Friede's Great Scythe",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "These advantages do not come without drawbacks, however. In order to wield the weapon, players must first invest a non-negligible amount of levels in Faith, which makes the weapon more difficult to build for. Additionally, despite what is listed in the weapon's information, with its normal moveset it cannot inflict Magic damage at all. As such, in regular situations this reaper is little different from the Pontiff Knight Great Scythe.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.880409798465063
+  },
+  {
+    "document_id": "0a02cd5b-e132-54e2-b140-acadb9a920e0",
+    "title": "Siegmeyer of Catarina",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "If Siegmeyer jumps down and retains more than 50% of his health by the end of the encounter, he can then be found in Ash Lake. With no more pride and resolve, Siegmeyer had nothing, and when Undead lose everything, they turn Hollow. He then proceeds to attack his daughter, Sieglinde of Catarina, who defeats him. The player arrives too late to save him and witnesses Sieglinde crying over his broken corpse, then gives the player a Titanite Slab.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.74374634913574
+  },
+  {
+    "document_id": "6b29fe29-3e4b-59b3-894e-b05482ac6b97",
+    "title": "Abyss",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Abyss -  Dark Souls - location - notes \n notes : It is possible to reach and kill the Four Kings by killing Ingward, even if the player hasn't acquired the Lordvessel yet.\nThe bonfire that appears *will* allow warping to escape the Abyss, even without the Lordvessel.\n**This can be used as a shortcut for far away locations, such as Anor Londo, Tomb of the Giants or Ash Lake. If the player avoids resting at other bonfires, the Abyss can be used as a \"home base\", warping to locations in Lordran, and returning via Homeward Bone.\nAlthough it appears to be a black void of nothingness, the \"ground\" of the abyss actually floats a few meters above an unseen cobblestone floor. This can be observed by using a light source, such as the Skull Lantern or Sunlight Maggot.\nItems that require hitting a surface to activate, such as Prism Stones and Carvings, will not work in the Abyss as they simply fall through the \"floor\".",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.66080126781921
+  },
+  {
+    "document_id": "f0be858f-f09c-5e73-a82d-6b87de95da2a",
+    "title": "Sen's Fortress",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "The rolling ball trap is a tricky situation to contend with: initially, when a player first reaches it, it appears as though the direction of the balls can be manually controlled via the central mechanism, and while this is indeed true, the mechanism will actually reset itself should the player move far enough away. It will generally not reset while the player is on a potentially hazardous ball ramp / grove, but *can* reset if the player goes from one grove to the other, and will seemingly do so as if aiming for the player.\n** Interacting with this ball trap mechanism is necessary to reach certain optional sections of the fortress. Covetous Gold Serpent Ring can only accessed by filling the zig-zagging stair route with several balls, and Big Hat Logan's imprisonment area can be found by rolling a ball down the central ramp (the one facing the fortress' entrance).",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.465122487694057
+  },
+  {
+    "document_id": "6cb9ede3-b3ff-5129-9f22-197da0e0b8bd",
+    "title": "Smouldering Lake",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Smouldering Lake -  Dark Souls III - location - description \n description : The Smouldering Lake is a shallow lake that lies deep underground. Enormous trees that smoulder with embers grow up to the ceiling and their roots reach far into the chambers below the lake. It has been known to be the remains of the once molten Lost Izalith, or an area adjacent to the lost city. After many years, the lava had subsided significantly; the evidence to this being the presence of the demon corpses that litter the ground in the Demon Ruins, which in *Dark Souls* was the area one would have to go through to reach Lost Izalith.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.394397641217758
+  },
+  {
+    "document_id": "8d889aa8-9ff9-5dfb-9607-d0037a1bdfc3",
+    "title": "Cromwell the Pardoner",
+    "section": "character_information",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Cromwell the Pardoner -  Dark Souls II - character - character_information \n character_information : Cromwell, as his title implies, can be visited so the players may have their sins forgiven. This will remove the current sin title the player has, but it does allow hostile NPCs that the player provoked to become friendly again (the Royal Soldiers found in the Giant's Memories are excluded from this), as well as removing the damage penalty on the Lost Sinner's Sword, and thus reverting it to the normal damage it dealt.\n\nHe also sells many useful items, such as useful miracles (such as Great Heal and Perseverance) and the statusbite rings, which can greatly aid the player along the way.\n\nHe dons the Judgment Set, similarly to how Oswald of Carim donned the Black Set, and wields a Great Scythe.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.384345203677224
+  },
+  {
+    "document_id": "eae9151c-0e97-5822-9792-4da65920bec5",
+    "title": "Dark Set",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Two of its drawbacks are that, to acquire it, the player must reach level +2 in the Darkwraith covenant, which can be both difficult and time-consuming, and the player must acquire Twinkling Titanite to upgrade it. Later in the game, however, the second issue can be nullified by being able to purchase the Twinkling Titanite from the Giant Blacksmith in Anor Londo for 8,000 souls per piece and by unlocking good Twinkling Titanite farming locations, such as Ash Lake or the Crystal Cave's boss area.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.38233567918638
+  },
+  {
+    "document_id": "b1b1d2ea-b75e-568c-8e7a-0f240c56c4cc",
+    "title": "Mound-makers",
+    "section": "how_to_join",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Mound-makers -  Dark Souls III - mechanic - how_to_join \n how_to_join : The Mound-makers can be joined in the Undead Settlement. By navigating to a hidden area patrolled by numerous Thralls, the player can discover a non-hostile Hollow Manservant carrying an empty cage on its back. By examining the hollow, the player will enter the cage and be transported to the Pit of Hollows, below the Curse-rotted Greatwood's boss arena. This Manservant will be hostile if the Greatwood has been confronted or defeated, and thus cannot be interacted with.\n\nOnce there, the player must talk to Holy Knight Hodrick, who stands next to the covenant's Sacrificial Altar and who will give them the Mound-makers covenant item. If talked to again, he will give the player a Homeward Bone, which is required to leave the area without using the Darksign or committing suicide.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.3709301860318
+  },
+  {
+    "document_id": "d267f5e6-4700-5ace-bf37-8cbfe4105c3b",
+    "title": "Sniper Crossbow (Dark Souls III)",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Sniper Crossbow (Dark Souls III) -  Dark Souls III - weapon - availability \n availability : Found in Lothric Castle, on a corpse on a small tower guarded by a Hollow Soldier that throws Undead Hunter Charms, before reaching the Dragon Barracks bonfire. To reach it, the player must drop into the moat before the Lothric Wyverns and follow the path to the right, defeating several Hollow Assassins and a Winged Knight in order to reach it.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.35147769183423
+  },
+  {
+    "document_id": "3670cd19-e03e-561c-90e3-18abb7b7dab2",
+    "title": "Bonfire (Dark Souls III)",
+    "section": "catacombs_of_carthus",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": ":Alternatively, if the player entered by the Demon Ruins side, the bonfire can also be reached by traveling through the complex of tunnels below that conform the rest of the area.\n\n***Demon Ruins**\n:From the Abandoned Tomb, follow the tunnel down to reach the Smouldering Lake. Head toward the opposite side of the lake whilst hugging the left wall. To the right of the staircase that leads to the Old Demon King, look for an inclined path that goes upward. Follow it to reach a tunnel where the bonfire is found.\n\n***Old Demon King**\n:From the Abandoned Tomb, follow the tunnel down to reach the Smouldering Lake. A large fog door will be visible in the distance, beyond from where the Carthus Sand Worm attacks. Enter the mist into an optional boss arena, where one must face the Old Demon King; the bonfire will appear once the boss has been defeated.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.269489206918102
+  },
+  {
+    "document_id": "d5b4d065-1325-5684-b299-5b4fb723ff89",
+    "title": "Gyrm Great Hammer",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Gyrm Great Hammer -  Dark Souls II - weapon - characteristics \n characteristics : The Gyrm Great Hammer is a strong great hammer. Compared to the Dragon Tooth that has the same weight, it has the same attack rating, but much shorter range and does not have the unique bonus defense. In fact, it is the shortest great hammer in the game.\n\nWhat makes this great hammer useful is it's moveset, which helps dealing more Poise damage than many other great hammer.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.262007169060933
+  },
+  {
+    "document_id": "752d026a-7201-5187-b8c9-3e93af4fd66a",
+    "title": "Covenant of Artorias",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Covenant of Artorias -  Dark Souls - ring - general_information \n general_information : Covenant of Artorias allows the player to reach the Abyss. As such, it is necessary in order to reach the Four Kings boss battle. Without wearing the ring, it is impossible to survive the fall into the Abyss. Taking off the ring during the fight with the Four Kings will cause the player to be devoured by the Abyss. Other than this, the ring has no other purpose.\n\nThe Covenant of Artorias is one of the very few rings that do not carry over to NG+; players are required to kill Great Grey Wolf Sif every playthrough to obtain the ring and beat the game. This ring, when dropped, will end up in the chest behind Kingseeker Frampt after the player has quit and reloaded the game. However, in the remaster, it will automatically be in the player’s inventory.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.24706578737954
+  },
+  {
+    "document_id": "efb54357-ee49-576d-8b0f-2381214843ea",
+    "title": "Four Kings",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Using a ranged attack and staying at around 1-1.5 roll distance away in front of the king (just within the reach of his sword) makes him rely mostly on the vertical slashes and the occasional Homing Abyss Arrow or Life Drain. The Life Drain is also easier avoided since it looks less like Wrath of the Kings at this distance then it does close up, and the player already has a head start on getting out of reach.\nTheir homing attacks can be deflected by using Force or Wrath of the Gods, although it is safer to avoid the attacks entirely. Due to the speed at which the King approaches, the player will become vulnerable to other attacks during the casting animation. Deflecting the large homing shot will likely be fatal, since the duration of the attack lasts a fair while and doesn't collide with anything other than the player.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.19901347072242
+  }
+]

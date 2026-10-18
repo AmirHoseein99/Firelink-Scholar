@@ -1,0 +1,2406 @@
+[
+  {
+    "document_id": "0499f002-5cc4-594b-b65e-cbe66ff45806",
+    "title": "Lindelt Cleric",
+    "section": "location",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Lindelt Cleric -  Dark Souls II - enemy - location \n location : Shrine of Amana",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.48945552675682463,
+    "bm25_score": null
+  },
+  {
+    "document_id": "050bd6f2-67ce-5b77-9752-8dcb9b41a44f",
+    "title": "Holy Water Urn",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Holy Water Urn -  Dark Souls II - item - availability \n availability : An unlimited amount can be purchased from Blue Sentinel Targray in the Cathedral of Blue for 300 souls each.\nDown the well near the campsite in Brightstone Cove Tseldora.\nUncommon drop from Amana Shrine Maidens in the Shrine of Amana.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.110171346532162
+  },
+  {
+    "document_id": "07eca015-a362-5029-bd0b-ae79ca4541f1",
+    "title": "Shrine of Winter",
+    "section": "non_respawning",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Shrine of Winter -  Dark Souls II - location - non_respawning \n non_respawning : Heide Knight",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.4896047914119421,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0a22ba20-a47c-5abf-8e40-dd3a1224ec31",
+    "title": "Firelink Shrine (Dark Souls III)",
+    "section": "adjacent_locations",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Firelink Shrine (Dark Souls III) -  Dark Souls III - location - adjacent_locations \n adjacent_locations : Cemetery of Ash\nHigh Wall of Lothric\nKiln of the First Flame",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.46171058211404403,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0a583bf5-ca55-5e88-946b-804f519e8403",
+    "title": "Demon of Song Soul",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Demon of Song Soul -  Dark Souls II - item - description \n description : Soul of the Demon of Song at the Shrine of Amana.\n\nWhen this demon developed a taste for human flesh, it was contained within the Shrine of Amana, but the line of priestesses who looked after the shrine and appeased the creature have died off.\n\nUse the special soul of this demon to acquire numerous souls, or to create something of great worth.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5437165080792451,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0a7bf407-7545-50e8-b681-27cc05773d40",
+    "title": "Large Soul of a Nameless Soldier (Dark Souls II)",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "**Near the first pile of pots.\nShrine of Winter\n**After the Heide Knight on the road to Drangleic Castle.\nShrine of Amana\n**At the bottom of the tower near the Tower of Prayer bonfire.\nUndead Crypt\n**On a corpse near Agdayne.\nAldia's Keep\n**In the acid pit.\nMemory of Vammar\n**In the ruins of a house after going outside.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5297846655547545,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0ea92fd7-e93e-52a5-bd1c-c55da2fcf3e3",
+    "title": "Sunlight Parma",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "shield",
+    "snippet": "Sunlight Parma -  Dark Souls II - shield - description \n description : A small shield depicting a hero of yore.\n\nPerhaps these famed champions are no more, or perhaps they have no desire to appear in public view.\n\nBut their very absence has made tales of their brave deeds all the more alluring, and this shield memorializes one of their brethren.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.4647593505229484,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1081b125-7288-5672-98f9-ef8eb4cee563",
+    "title": "Firelink Shrine",
+    "section": "rings",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Firelink Shrine -  Dark Souls - location - rings \n rings : Ring of Sacrifice",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.4616805439403124,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1174d054-d092-5653-ace3-275407622ebf",
+    "title": "Quelana of Izalith",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Following the destruction of the Bed of Chaos, Quelana appears to have returned to Izalith, or what remains of it, at some point. Within the Demon Ruins, now neighbouring the Catacombs of Carthus, Quelana's pyromancy tome is found on a corpse clutching onto what seems like the petrified corpse of her sister. If these two fossils are indeed those of Quelana and the Fair Lady, it would show that Quelana ultimately ended her self-imposed exile to be reunited with her last extant sister, in the final hours of her life.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.925541880125294
+  },
+  {
+    "document_id": "16a49044-ed3b-563e-a984-8fb67537faac",
+    "title": "Amana Shrine Healer",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Amana Shrine Healer -  Dark Souls II - enemy - description \n description : Similar in appearance to Amana Shrine Maidens, the Healers dress in large robes that cover their entire bodies. The robes are larger than the Maidens' and they have two antlers on their headdress, as opposed to just one.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.554557441190372,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1b8dd069-9ad9-53c3-a6e4-a6d1ff2d5714",
+    "title": "Crimson Water",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Crimson Water -  Dark Souls II - item - availability \n availability : Rare drop from Amana Shrine Maidens in the Shrine of Amana.\nFound in a chest in Earthen Peak.\nFive are sold by Royal Sorcerer Navlaan for 4,200 souls each.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.459451628845283,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1fd9b9bc-5010-5f51-9b23-d60a06a2bcd1",
+    "title": "Shrine of Amana",
+    "section": "items",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Shrine of Amana -  Dark Souls II - location - items \n items : Sunlight Blade\nFire Tempest\nHoming Crystal Soulmass\nHelix Halberd\nLife Ring+2\nManslayer\nRed Iron Twinblade\nSinger's Dress\nSoul of the King\nKing's Set",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.47966553932923667,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2217a091-0403-5fee-88bd-2091e72eccb9",
+    "title": "Dragon Shrine",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Dragon Shrine -  Dark Souls II - location - lead \n lead : The** Dragon Shrine** is a location in *Dark Souls II.*",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.46231400578135534,
+    "bm25_score": null
+  },
+  {
+    "document_id": "24f05f69-4b96-54bb-a015-b3631521bdb1",
+    "title": "Shrine of Amana",
+    "section": "boss",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Shrine of Amana -  Dark Souls II - location - boss \n boss : Demon of Song",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.679687901007646,
+    "bm25_score": null
+  },
+  {
+    "document_id": "26f09a90-7e5f-5301-ae7c-e4d2c1ec55ab",
+    "title": "Hollow Pyromancer",
+    "section": "locations",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Hollow Pyromancer -  Dark Souls II - enemy - locations \n locations : Three total are located past the Rise of the Dead bonfire in the Shrine of Amana.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.60393102163693
+  },
+  {
+    "document_id": "28f77fcb-a65b-5f4a-b4a5-0e24586576ef",
+    "title": "Soul of a Brave Warrior (Dark Souls II)",
+    "section": "enemy_drops",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of a Brave Warrior (Dark Souls II) -  Dark Souls II - item - enemy_drops \n enemy_drops : Dropped by Ogres in Shrine of Amana.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.46039465984428185,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2fcd567e-63de-5c65-b117-c00eae3ff431",
+    "title": "Archdrake Gloves",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Archdrake Gloves -  Dark Souls II - armor - availability \n availability : Dropped by Lindelt Clerics in the Shrine of Amana.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.891492946578566
+  },
+  {
+    "document_id": "3172ee96-26aa-5758-8a4a-c0596cbf4242",
+    "title": "Archtree",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "In the region of Drangleic, the lower remains of an Archtree can be found in the north. Under the immense structures of the tree's roots the Shrine of Amana was built and and it was inhabited by the maidens of Amana, while, even deeper under the roots the Undead Crypt was located. Here the Fenito and Milfanito took care of the sleep of the undead and alleviated their suffering.\n\nAt the end of the world, when the First Flame has reached the last crumbs of its power, the entire world has come to converge around its Kiln. The last sparks of the First Flame are located inside a immense dead archtree, cleanly sliced in half and now empty inside. The Demon Prince took refuge inside this hollow tree after being defeated by Lorian and retreating beneath the earth.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.46148013944943617,
+    "bm25_score": null
+  },
+  {
+    "document_id": "34fd1235-5421-572e-9f88-e56550be8245",
+    "title": "Amana Shrine Healer",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Amana Shrine Healer -  Dark Souls II - enemy - lead \n lead : **Amana Shrine Healers** are enemies in *Dark Souls II*.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6052547643095301,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3523d5fb-84c7-5758-ac23-bd2e3015148b",
+    "title": "Amana Shrine Healer",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Amana Shrine Healer -  Dark Souls II - enemy - lore \n lore : These priestesses maintained the Shrine of Amana and contained the Demon of Song there through use of sacred rituals. They kept the Demon appeased, but the line of these priestesses soon died off, setting the Demon free.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6830909758505318,
+    "bm25_score": null
+  },
+  {
+    "document_id": "369fa575-19cb-598e-916f-63588ea58999",
+    "title": "Broken Pendant",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Broken Pendant -  Dark Souls - item - trivia \n trivia : The pendant is mentioned in the description of the Soul of Manus as an item of great importance and the reason for his descent into insanity.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.46083949101503163,
+    "bm25_score": null
+  },
+  {
+    "document_id": "38b59426-b41f-5d12-bd0c-24cf50f230f3",
+    "title": "King's Passage",
+    "section": "adjacent_locations",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "King's Passage -  Dark Souls II - location - adjacent_locations \n adjacent_locations : Drangleic Castle\nShrine of Amana",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.4649040418822149,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3d2d3ce5-4545-5653-a2ae-445eb0729528",
+    "title": "Demon of Song",
+    "section": "location",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Demon of Song -  Dark Souls II - boss - location \n location : The Demon of Song is found in the Shrine of Amana. It resides in a large and partially flooded arena.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.21645210747636
+  },
+  {
+    "document_id": "3f06b9c5-e825-50b6-ba11-d4da799a84af",
+    "title": "Staff of Amana",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Staff of Amana -  Dark Souls II - weapon - lead \n lead : The **Staff of Amana** is a staff in *Dark Souls II*.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5265310722236959,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3f359ee9-b6a8-57d3-a27e-48f39565be45",
+    "title": "Herald Set",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "What is most peculiar of this set is that the cloth garments are not as reliable as the game states them to be, with the gloves and leggings both having terrible absorption in what they should protect more effectively against lightning and strike damage.\n\nIt is best to replace both of the gloves and leggings with a more suitable, protective choice in those slots, to help balance out the set's drawbacks more efficiently.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.68553538614121
+  },
+  {
+    "document_id": "4829ef0d-0ab5-5e68-be9f-27b8b03b509b",
+    "title": "Milfanito",
+    "section": "plot",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Milfanito -  Dark Souls II - character - plot \n plot : The Milfanito are secluded maidens who reside within the Shrine of Amana and sing to comfort those that carry death and dark within themselves. They seem to have very little individuality and more so refer to themselves as a single entity. When they sing, \"the little ones dance\", referring to the Brightbugs scattered around the area. They constantly say that they know nothing about the outside world but have no desire to leave. However, they possess Divine Blessings, although they don't know what they are. There are three Milfanito in the Shrine of Amana and one in Drangleic Castle.",
+    "sources": [
+      "human",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.4064787290911
+  },
+  {
+    "document_id": "4b29c405-417c-53c3-ac7f-8fca889453b9",
+    "title": "Ashen One",
+    "section": "firelink_shrine_dark_souls_iii_firelink_shrine",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The Ashen One places the Coiled Sword in the center of the shrine, creating a bonfire, and proceeds to travel to the High Wall of Lothric.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.4648192164255246,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4c5ba402-49df-5cbb-9165-957329770d79",
+    "title": "Milfanito",
+    "section": "dialogue",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "|-\n|*\"Is there anything wrong? Perhaps this will help.\n[Gives Smooth & Silky Stone × 1]*\nThis is all that we can do.\"*\n|-\n| scope=\"row\" rowspan=\"5\" style=\"width: 50px; background-color: #151515;\" |**Talk — Milfanito at the Shrine of the Living**\n|*\"Who are you... And what do you want from us?\"*\n|-\n|*\"Milfanito, that is what we are called. My name? Do you mean our name? We know nothing of the outside world...\"*\n|-\n|*\"We sing eternally for those who bear death and Dark within themselves. We have been here forever. We know nothing of the outside world, and we do not need to.\"*\n|-\n|*\"The little ones were born from the Great Dead One. And the Great Dead One taught us song. We have sung ever since. To comfort those bound by death and Dark. This is what we were taught.\"*\n|-\n|*\"Do you seek comfort too? You poor thing... Take this, at the very least.\n[Gives Petrified Something × 1]*\nThis is all that we can do.\"*\n|-",
+    "sources": [
+      "human",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.519034853131956
+  },
+  {
+    "document_id": "4f162cdf-07f5-50f3-81bb-5be84578b421",
+    "title": "Greirat's Ashes",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Greirat's Ashes -  Dark Souls III - item - description \n description : Umbral ash of Greirat of the Undead Settlement. With this, the shrine handmaid will prepare new items.\n\nGreirat was a thief who fancied himself a martyr for the poor, which is what drove him to climb the wall.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.411351569424273
+  },
+  {
+    "document_id": "4f9507ed-4d7b-5965-baaf-54e5d39a9340",
+    "title": "Pharros' Contraption",
+    "section": "locations",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "***Four (4) open doors to combinations of alternate paths, treasure, and Gyrm Warriors.\nShrine of Amana - Found near the Crumbled Ruins bonfire, under the water near the ruins on the left side.\nUndead Crypt - Found behind an illusory wall, in the room behind the two Imperious Knights. Reveals a hidden room on the opposite wall with a chest that contains Olenford's Staff and Great Lightning Spear.\nAldia's Keep - Found in the room past the Giant Basilisk, look to the immediate right after opening the door via pull-chain. This contraption illuminates the room.\nDragon Shrine - Found behind the first knight which grants access to a room with a metal chest, containing the Judgment Set and the Staff of Wisdom.\nMemory of Orro - There are two (2) contraptions in the Memory of Orro:\n**The first Pharros contraption opens an illusory door to three (3) chests and the second contraption.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5091331917272361,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5da72d27-e10f-522b-b65e-8216f5041df6",
+    "title": "Archdrake Helm",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Archdrake Helm -  Dark Souls II - armor - availability \n availability : Dropped by Lindelt Clerics in the Shrine of Amana.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.891492946578566
+  },
+  {
+    "document_id": "61fb302e-cc10-5fb8-bc77-9ff481bf4232",
+    "title": "Bonfire Ascetic",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Bonfire Ascetics may be farmed from the inhabitants of the Dark Chasm of Old, which costs one Human Effigy to enter and one must be a member of the Pilgrims of Dark covenant.\nAfter defeating the Looking Glass Knight, three can be found in a chest to the left of the path leading to the elevator that takes the Cursed Undead to the Shrine of Amana.\nOne can be found in the Shrine of Amana, on the opposite side of the stairs where the Manslayer is found.\nTen can be purchased from Royal Sorcerer Navlaan for 7,500 souls each.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.4864547390009423,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6330e20c-8278-5d84-bd52-6b31041516c4",
+    "title": "Profaned Capital",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Profaned Capital -  Dark Souls III - location - description \n description : The Profaned Capital is a highly decimated ruin that has somehow sunken into a great chasm, the only natural light pouring from a crack in the cavernous walls. Very little of what was once a proud civilization remains, making this area quite small. The state of the Capital is in such disarray that the only things remaining are a few bridges and tunnels, a vestige of a great tower, a church sunken in a swamp, and the throne room of Yhorm the Giant. The rest of what was once a prosperous realm has long since corroded away. An overlook of the Capital is viewable from Irithyll Dungeon.\n\nOne of two bonfires is within the central tower, its interior hollowed out, but its heights traversable thanks to numerous ladders up and down its interior and exterior. The source of the ladders is no mystery, as the corpse of Laddersmith Gilligan can be seen splayed out right by the bonfire, where the player can learn a gesture.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.647493428713815
+  },
+  {
+    "document_id": "63e129e9-4228-5bdd-8b1e-0dd548145c7a",
+    "title": "Shrine of Amana",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Shrine of Amana -  Dark Souls II - location - lore \n lore : The shrine was once dedicated to sustaining the Demon of Song, long before the undead curse ravaged the kingdom of Drangleic.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.7117376162582363,
+    "bm25_score": null
+  },
+  {
+    "document_id": "69bbb5b0-c87b-5e2b-8188-d74bc5aee17d",
+    "title": "Fog Door (Dark Souls II)",
+    "section": "drangleic",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Shrine of Amana\n**After killing multiple Amana Shrine Maidens and Lindelt Clerics, leading to the third bonfire of the area.\n**Entrance to the Demon of Song fight.\nUndead Crypt\n**After killing two Royal Guards shortly after entering the area, this fog gate will lead to the second bonfire of the area.\n**Entrance to the Velstadt, the Royal Aegis fight.\n**Entrance to the Vendrick fight, after he has been activated as a fight.\nAldia's Keep\n**Entrance to the Guardian Dragon fight.\nDragon Shrine\n**Entrance to the Ancient Dragon fight, after he has been activated as a fight.\nMemory of Jeigh\n**Entrance to the Giant Lord fight.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5918090459046053,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6b75a714-0245-52fe-ac75-3073cccc376e",
+    "title": "Firelink Shrine (Dark Souls III)",
+    "section": "visiting_guests",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Firelink Shrine (Dark Souls III) -  Dark Souls III - location - visiting_guests \n visiting_guests : Wandering warriors will sometimes visit the Firelink Shrine for one reason or another. By talking to them, the player can recieve useful information or progress a character's storyline.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.4733408831719581,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6da799be-dfcc-599a-a0c4-8cb3747ffd2a",
+    "title": "Firelink Shrine",
+    "section": "miracles",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Firelink Shrine -  Dark Souls - location - miracles \n miracles : Emit Force",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.46679596044877675,
+    "bm25_score": null
+  },
+  {
+    "document_id": "70e523c1-f436-55de-94da-bf3c252cc7a5",
+    "title": "Staff of Amana",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Staff of Amana -  Dark Souls II - weapon - availability \n availability : Rare drop from the Amana Shrine Maidens in the Shrine of Amana.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.541423090939767,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7aa361f5-747d-57a7-b254-5c201f578b97",
+    "title": "Shrine of Amana",
+    "section": "respawning",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Shrine of Amana -  Dark Souls II - location - respawning \n respawning : Acid Horn Beetle\nGiant Acid Horn Beetle\nAmana Shrine Healer\nAmana Shrine Maiden\nBasilisk\nHollow Pyromancer\nLindelt Cleric\nLizardman\nOgre\nDragonrider\nOld Knight\nRoyal Guard\nUndead Supplicant",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5291128091779649,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7ecb87c7-ee45-5a2a-8f1e-f5f99c270c34",
+    "title": "King's Passage",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "King's Passage -  Dark Souls II - location - description \n description : The King's Passage is a long corridor extending from the adjoining room past the Central Castle Drangleic bonfire, which serves as a connecting passage to the Shrine of Amana. Filled with broken windows and pillars, this part of the castle is filled with what remains of Velstadt's royal soldiers, flanking either side of the path atop stone perches. This passage once served as the final test awaiting those who wished to serve in Vendrick's royal guard, by testing their might against the Looking Glass Knight.\n\nNow, this desolate and decrepit part of the castle serves as the home for the Looking Glass Knight, who to this day awaits worthy foes and defends the road to the Shrine, ensuring only the worthy may pass.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.101205927701848
+  },
+  {
+    "document_id": "7fb6ebe1-7c82-54e9-97d3-2e80bf193f6c",
+    "title": "Amana Shrine Maiden",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Amana Shrine Maiden -  Dark Souls II - enemy - lead \n lead : **Amana Shrine Maidens** are enemies in *Dark Souls II*.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5763859361841432,
+    "bm25_score": null
+  },
+  {
+    "document_id": "80e75fd6-d1fb-5115-8c4d-0e72a3f7c525",
+    "title": "Lion Clan Shield",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "shield",
+    "snippet": "Lion Clan Shield -  Dark Souls II - shield - description \n description : Shield used by the Lion Clan warriors. Made of wood, but reinforced with metal. Light yet sturdy.\n\nThe design on the shield appears to have some religious significance, but we will never know what sort of gods these warriors answer to.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.716024228935847
+  },
+  {
+    "document_id": "85726639-84a6-52fa-911a-7bbf6592614f",
+    "title": "Demon of Song Soul",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Demon of Song Soul -  Dark Souls II - item - availability \n availability : Obtained after defeating the Demon of Song in the Shrine of Amana.",
+    "sources": [
+      "human",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.931154662794164
+  },
+  {
+    "document_id": "8cb21e09-d3fd-50aa-988c-b1a97483a965",
+    "title": "Red Rust Sword",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Red Rust Sword -  Dark Souls II - weapon - characteristics \n characteristics : What makes the Red Rust Sword unique is that its entire moveset is that of an axe, (apparently due to its weight as mentioned in its description).",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.910544826834453
+  },
+  {
+    "document_id": "900dee93-d3b2-5d8f-9b7a-75acad5e08e6",
+    "title": "Staff of Amana",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Staff of Amana -  Dark Souls II - weapon - characteristics \n characteristics : The Staff of Amana is highly effective for sorceries due to its S-scaling in Magic Bonus even at base level, while being fairly efficient in hexes as well, with a B-scaling in Dark Bonus when upgraded to +10. Overall a decent option for players that wish to use both sorceries and hexes while mainly focusing on sorceries.\n\nOne downside is that in order to use it to its full potential, one must be human, or there will be a minor damage penalty for both hexes and sorceries.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.4798513960391355,
+    "bm25_score": null
+  },
+  {
+    "document_id": "91c06742-1eac-5f15-a6bc-b4c96acaa209",
+    "title": "Black Knight",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Black Knight -  Dark Souls - enemy - trivia \n trivia : In *Dark Souls: The Age of Fire*, it is revealed that the Black Knight in the Northern Undead Asylum is actually what remains of the protagonist of the comic series, Silver Knight Arkon.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.624960407953008
+  },
+  {
+    "document_id": "94d70f7c-cb93-5d15-8ad5-2b52a997efed",
+    "title": "Slumbering Dragon Shield",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "shield",
+    "snippet": "Slumbering Dragon Shield -  Dark Souls II - shield - availability \n availability : Dropped by Lindelt Clerics in the Shrine of Amana.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.47671862196059606,
+    "bm25_score": null
+  },
+  {
+    "document_id": "992fee50-ca6d-53f4-a03b-43c34620ebe9",
+    "title": "Amana Shrine Healer",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Amana Shrine Healer -  Dark Souls II - enemy - strategy \n strategy : They will never attack the player directly, and simply follows them around if no other enemies are nearby. They will use miracles to heal enemies and themselves when injured.\n\nThey have low health and are easily stun-locked, making them easy to kill at melee range. However, they're often guarded by Lindelt Clerics, so it is recommended to take out the healer from long range to avoid having to fight the clerics while they're being healed.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5681275726359923,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9a92aad0-8b41-5bd7-b7f4-6c4d9a15b558",
+    "title": "Leydia Black Set",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Leydia Black Set -  Dark Souls II - armor - availability \n availability : Drop from Peculiar Kindalur in the Shrine of Amana and the Leydia Witches of the Undead Crypt.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.490842080977618
+  },
+  {
+    "document_id": "9fc7f459-87a7-5ffa-9a16-1aae6f66023e",
+    "title": "Dragon Shrine",
+    "section": "adjacent_locations",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Dragon Shrine -  Dark Souls II - location - adjacent_locations \n adjacent_locations : Dragon Aerie",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.4712580835652502,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a06b04d4-e44c-5c47-950c-2be5b3c4de04",
+    "title": "Shrine of Amana",
+    "section": "non_respawning",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Shrine of Amana -  Dark Souls II - location - non_respawning \n non_respawning : Great Moth\nPeculiar Kindalur\nProwling Magus\nDark Spirit Tattered Butcher",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5761225799580652,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a71b6e64-91cd-5093-8269-ae4267c83906",
+    "title": "Shrine of Amana",
+    "section": "bonfires",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Shrine of Amana -  Dark Souls II - location - bonfires \n bonfires : ***Tower of Prayer**: After defeating the Looking Glass Knight and taking the elevator down, the bonfire is found by continuing straight ahead.\n***Crumbled Ruins**: After passing through the first cave, this bonfire will be in a ruined building with one Lizardman submerged in the doorway.\n***Rhoy's Resting Place**: Upon reaching the cave filled with Acid Horn Beetles, this bonfire will be a short distance in, to the left.\n***Rise of the Dead**: After defeating the boss, this bonfire can be found in a tower by following a small path diverging from the one leading to the Undead Crypt. In , the base is surrounded by Basilisks and the entrance is blocked by a petrified Undead Traveler, requiring use of a Fragrant Branch of Yore to access.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.46921368178147016,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ae1f9076-cf9c-5370-b986-25180c6b158e",
+    "title": "Red Leech Troches",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Red Leech Troches -  Dark Souls II - item - availability \n availability : Dropped by Lizardmen in the Shrine of Amana.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.891492946578566
+  },
+  {
+    "document_id": "b412537e-1113-5ebc-bc87-135794e0a0cb",
+    "title": "Giant Acid Horn Beetle",
+    "section": "location",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Giant Acid Horn Beetle -  Dark Souls II - enemy - location \n location : One is encountered in the Shrine of Amana, near the Rhoy's Resting Place bonfire.\nAnother can be found caged in Aldia's Keep.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.4598500656651994,
+    "bm25_score": null
+  },
+  {
+    "document_id": "be8870a8-7994-5381-9f07-52dea77be5e6",
+    "title": "Lizardman",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Lizardman -  Dark Souls II - enemy - description \n description : A Hollow that lived in an aquatic environment for an extended period of time and eventually adapted to its surroundings by mutating into its present form. These creatures prowl the shallow waters of the Shrine of Amana, perpetually searching for sources of fresh Souls.\n\nLizardmen appear to be hollowed travelers who wear tattered clothing. Their exposed flesh appears to be raw. Typically, the Lizardmen will lie in wait within the water beside one of the paths in the Shrine of Amana for unknowing passers-by, at whom they will leap. They are often seen from afar with fireflies flying above them, which emit a particular sound.\n\nWhen hearing the song of a Milfanito, Brightbugs will surround the Lizardmen, revealing their positions and reducing their aggro range almost to the point of passiveness, only attacking the player when extremely close.\n\nLizardmen are only encountered in the Shrine of Amana.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.233194195441182
+  },
+  {
+    "document_id": "c761196e-d90e-5a55-a4e6-f23058f04797",
+    "title": "Archdrake Mace",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Archdrake Mace -  Dark Souls II - weapon - availability \n availability : Dropped by Lindelt Clerics in the Shrine of Amana.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.891492946578566
+  },
+  {
+    "document_id": "c80e7666-5633-5d31-b623-23463b0b4c48",
+    "title": "Timeline",
+    "section": "cathedral_of_the_deep_the_rise_of_the_deep",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Timeline -  Dark Souls III - storyline - cathedral_of_the_deep_the_rise_of_the_deep \n cathedral_of_the_deep_the_rise_of_the_deep : (**INCOMPLETE**)",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.4651591116740361,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ce43adc9-5c59-550c-a3dd-09ba40729082",
+    "title": "Darklurker Soul",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Darklurker Soul -  Dark Souls II - item - description \n description : Soul of what lurks in the Dark Chasm.\n\nThe Dark Chasm of Old is the remnant of some ancient, dissipated being.\n\nUse the special soul of what lurks within to acquire numerous souls, or to create something of great worth.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.490684413521848
+  },
+  {
+    "document_id": "cec57d37-2cda-5cb2-bdc4-50dfc8532c72",
+    "title": "Llewellyn",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "It's unclear what became of the blacksmith after the fall of the kingdom, as he doesn't reside in Drangleic Castle anymore.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.916574113404817
+  },
+  {
+    "document_id": "d0b38b05-3f82-54e6-b086-0cd80d3cf86c",
+    "title": "Shrine of Amana",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Shrine of Amana -  Dark Souls II - location - notes \n notes : There is a shrine located above the last bonfire. The player must be hollow and have talked to all of the Milfanito to unlock the door. This shrine can be used to reverse hollowing, but only if the player has no Human Effigies in their inventory or storage and is not a sinner.\nThe Shrine of Amana is a good location to farm Twinkling Titanite because it drops from most enemies. Equipment that raises item discovery is recommended. It's easier to start farming runs from the third bonfire.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6034885147619002,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d1816632-c651-588b-9835-43f5ac6692e4",
+    "title": "Shrine of Amana",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Shrine of Amana -  Dark Souls II - location - lead \n lead : The **Shrine of Amana** is a location in *Dark Souls II*.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.7086562823572745,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d2f71e19-ae66-5f14-8abe-857f05577a4e",
+    "title": "Spirit (Dark Souls)",
+    "section": "appearance",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Spirit (Dark Souls) -  Dark Souls - mechanic - appearance \n appearance : Spirits appear as transparent light blue hollowed figures. They do not wear any armor and do not directly show what equipment that player was wearing. Instead what weapons they carry represent what class of weapon they actually have. Quivers and Bolt Quivers can also be seen if they are equipped. Spirits also ignore the aspects of character creation, and all use the *Average* body type, while all males are represented with the *Receding* hairstyle, and all females are represented with the *Ponytail A* hairstyle.\n\nWhile most of the time a spirit's appearance is left vague and undefined, their true form can be seen when they approach within range of a bonfire.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.528506909225058
+  },
+  {
+    "document_id": "d3ddeac3-8fcd-543d-99ae-9193428ba26a",
+    "title": "Amana Shrine Maiden",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Amana Shrine Maiden -  Dark Souls II - enemy - description \n description : These enemies will be provoked by the player from long distances, causing them to bombard the player with cast after cast of Homing Soul Arrow.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5466346079919828,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d43a440e-24a0-5aa6-b815-f42650e767da",
+    "title": "Shrine of Amana",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Shrine of Amana -  Dark Souls II - location - description \n description : The Shrine of Amana is a large, waterlogged cavern littered with ruined pillars and archways.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.7053762258610441,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d4fb8dbf-f27f-5a65-94c4-334f9f1be4ca",
+    "title": "Xanthous Overcoat (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Xanthous Overcoat (Dark Souls III) -  Dark Souls III - armor - description \n description : Yellowish overcoat covering a band of brass medallions.\n\nXanthous clothing is the mark of a researcher of lost sorceries, and the number of medallions denotes their success.\nA point of pride for the researchers, even if its significance is lost on others.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.149602340016227
+  },
+  {
+    "document_id": "d93c0d6c-cb7b-54f9-9468-0d6350596d79",
+    "title": "Firelink Shrine (Dark Souls III)",
+    "section": "shrine_inhabitants",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Firelink Shrine (Dark Souls III) -  Dark Souls III - location - shrine_inhabitants \n shrine_inhabitants : These characters all reside within the Firelink Shrine from the very beginning and can never leave its grounds, as they offer important services relating to gameplay. As such, they cannot be killed permanently, and will always respawn.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.4784088618539805,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d9976c41-774e-542b-aa91-bdb5addcc4ab",
+    "title": "Archdrake Boots",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Archdrake Boots -  Dark Souls II - armor - availability \n availability : Dropped by Lindelt Clerics in the Shrine of Amana.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.891492946578566
+  },
+  {
+    "document_id": "dc64ff71-f563-5709-93dd-b099c26cfd33",
+    "title": "New Game Plus (Dark Souls II)",
+    "section": "additional_changes",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Shrine of Amana\nA red phantom wielding the Butcher's Knife spawns past the second bonfire, near the first Ogre.\n\nUndead Crypt\nA pair of Imperious Knights spawn past the first bonfire.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5385924303553802,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e15225f3-3158-53f3-bf73-be5231030e5c",
+    "title": "Amana Shrine Maiden",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Amana Shrine Maiden -  Dark Souls II - enemy - lore \n lore : Amana Shrine Maidens are former priestesses who were tasked with performing the rituals that kept the Demon of Song imprisoned. However, the line of maidens eventually disintegrated through death or became hollow; and with no one to maintain the seal, the Demon was unleashed from its prison.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6457450268420539,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e4f6249b-fdc0-57b1-bcb8-69008378ad72",
+    "title": "Carthus of the Sands",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Carthus of the Sands -  Dark Souls III - location - lead \n lead : is a mentioned location in *Dark Souls III*. What the player passes through are only the catacombs of the ancient kingdom.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.11824416662416
+  },
+  {
+    "document_id": "e9ac13c9-205c-533d-9f1d-8c24ab8605b7",
+    "title": "Demon of Song",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Demon of Song -  Dark Souls II - boss - lore \n lore : The Demon of Song's origins are unknown but it was originally sealed inside the Shrine of Amana due to it developing a taste for human flesh. However, after the priestesses tasked with maintaining the seal died or became hollow, the demon was able to escape its prison. Its name comes from its ability to mimic the song of the Milfanito, in order to lure prey into its lair.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.4727220629438507,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e9c3ea5d-9923-56bd-8181-3cd2c477052b",
+    "title": "Vitality (Dark Souls)",
+    "section": "stat_development",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Vitality (Dark Souls) -  Dark Souls - mechanic - stat_development \n stat_development : The following is a table of what the maximum HP the player will have at each level of vitality.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.16182918838338
+  },
+  {
+    "document_id": "f032fe54-3643-5ae7-839a-31af9197d026",
+    "title": "Sneering Mask",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Sneering Mask -  Dark Souls III - armor - description \n description : Gold mask worn by those who kill in the name of the Sable Church of Londor.\n\nA faint, kindly smile is bound to its surface, giving them the moniker Harlots of Death.\n\nWhat lies beneath that expression, however, is nothing more than the face of a darkly shriveled Hollow.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.044627925233748
+  },
+  {
+    "document_id": "f3556141-a223-521d-a413-ab93bef49dc1",
+    "title": "Giant's Kinship",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "shield",
+    "snippet": "Giant's Kinship -  Dark Souls II - shield - description \n description : Each king has his rightful throne. And when he sits upon it, he sees what he chooses to see.\n\nOr perhaps, it is the throne, which shows the king only what he wants.\n\nThe flames roar, but will soon begin to fade, and only a worthy heir might burnish their light. What is it, truly, a claimant of the throne could desire?",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.786309791609472
+  },
+  {
+    "document_id": "f3f271a7-7342-5db9-8a21-821203b764e5",
+    "title": "Peculiar Kindalur",
+    "section": "location",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Peculiar Kindalur -  Dark Souls II - enemy - location \n location : He will invade the player in Shrine of Amana, right before they make their way to the Demon of Song boss battle.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.27474545919226
+  },
+  {
+    "document_id": "f88be939-2e7e-53c7-ae42-4bc86fa6af9c",
+    "title": "Shrine of Amana",
+    "section": "adjacent_locations",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Shrine of Amana -  Dark Souls II - location - adjacent_locations \n adjacent_locations : King's Passage\nUndead Crypt",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6621727358870069,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fd792ccd-13e2-55d8-8aa0-d0ef9624dba1",
+    "title": "Dragon Shrine",
+    "section": "characters",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Dragon Shrine -  Dark Souls II - location - characters \n characters : Ancient Dragon",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.46744712123889215,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fdd38d17-9eb8-5b70-ac2f-7790d8919bbd",
+    "title": "Boss (Dark Souls II)",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Darklurker *\nShrine of Amana\nDemon of Song\nUndead Crypt\nVelstadt, the Royal Aegis\nVendrick *\nAldia's Keep\nGuardian Dragon\nDragon Shrine\nAncient Dragon *\nMemory of Jeigh\nGiant Lord\nThrone of Want\nThrone Watcher and Defender\nNashandra\nAldia, Scholar of the First Sin *",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5124602638925776,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fdddfa6e-f71e-5ef0-9d03-be4af8674222",
+    "title": "Staff of Amana",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Staff of Amana -  Dark Souls II - weapon - description \n description : Staff held by a priestess of Amana. A ritual staff that was not intended for use in battle, but nevertheless it functions as a catalyst for sorceries, and hexes.\n\nThe Demon was contained within the shrine by sacred rituals, but over time the tradition was lost, and the Demon set free. It gained knowledge, and learned to lure humans into its lair using song.\n\nEffect: spell damage modifier while human.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5505633008538473,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fedb7ced-e667-5a98-a448-aa488912fea5",
+    "title": "Shrine of Amana",
+    "section": "characters",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Shrine of Amana -  Dark Souls II - location - characters \n characters : Felicia the Brave/Lone Hunter Schmidt\nMilfanito",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.574131407801208,
+    "bm25_score": null
+  },
+  {
+    "document_id": "10e531ad-b73c-5f23-89db-dfb883a9875f",
+    "title": "Acid Horn Beetle",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Acid Horn Beetle -  Dark Souls II - enemy - lead \n lead : **Acid Horn Beetles** are enemies in *Dark Souls II*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "62e95410-0e93-540d-93e2-4159ce265e49",
+    "title": "Acid Horn Beetle",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Acid Horn Beetle -  Dark Souls II - enemy - description \n description : Small, slow-moving insects with large porous mushrooms affixed to their backs. They are able to spew an acidic cloud that damages equipment. Certain rings mention that they can break easily and it is those who break in a matter of a few seconds if exposed enough to the cloud. Either remove them temporarily and re-equip them after the threat has been dealt with or exercise even more caution.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7120d95c-8d3f-5ac6-a2d0-7ea9d635491f",
+    "title": "Acid Horn Beetle",
+    "section": "location",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Acid Horn Beetle -  Dark Souls II - enemy - location \n location : Acid Horn Beetles are found near Rhoy's Resting Place bonfire in Shrine of Amana.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "adbc63e7-6165-55b4-b3a9-80dca5341b8e",
+    "title": "Acid Horn Beetle",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Acid Horn Beetle -  Dark Souls II - enemy - strategy \n strategy : It is best to take them out at a distance with ranged weapons or spells to avoid the acid cloud they emit. Also, there is a delay when they releasing the acid loud, so you could attack them with melee weapons and back out before they finish releasing the fume if you don't favor ranged combat.\n\nLike Poison Horn Beetles, they can perform a headbutt at close range. Whilst the damage is minimal, the stun effect can leave the player vulnerable to their acid cloud.\n\nSince these enemies usually come in groups, it is also wise to carry a weapon that has a good range of strike, such as a greatsword or an ultra greatsword to kill them quickly.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1ae6cb42-997e-52af-bd74-f3e32f1980ea",
+    "title": "Amana Shrine Maiden",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Amana Shrine Maiden -  Dark Souls II - enemy - strategy \n strategy : Amana Shrine Maidens pose a large threat from a distance. There are some instances, however, where the player will be able to use a bow to snipe a Maiden without provoking them to attack. Even if the Shrine Maiden does aggro, they have no Poise so landing a successful hit on them will stagger them, interrupting their ability to cast.\n\nShould the player get within melee range of a Maiden, she will pose little threat and fall in a few hits.\n\nPoison can be used to effectively kill the Maidens as well. The player just needs to inflict the status effect on the Maidens, then get out of spell range and wait for the Maidens to die.\n\nIf they are knocked down (such as by the Smelter Hammer's spinning attack, or the Great Club's and Large Club's two-handed heavy attack) they will not stand up again.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "25380414-bbfd-5583-8210-eb76d0b16a14",
+    "title": "Bearer of the Curse",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - lead \n lead : The **Bearer of the Curse** is the player character and the protagonist of *Dark Souls II* and its expansions, *The Lost Crowns*.\n\nThe Bearer of the Curse travels to Drangleic by a compulsion to find a way to break the curse of the undead and avoid Hollowing at any cost.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "290ce4af-a175-51f9-8c39-9afd8e3b8aa8",
+    "title": "Bearer of the Curse",
+    "section": "four_great_ones",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "At the bottom of the gaping hole in Majula lurks things long forgotten. Here, The Rotten, a hideous amalgamation of corpses awaits. After making their way through The Gutter, a place where unwanted things have been discarded, the Bearer of the Curse faces down the Rotten itself in its lair, slaying it and claiming its soul for their own.\n\nAfter freeing Rosabeth of Melfia from her petrification, the path is now open from Majula to Brightstone Cove Tseldora. The Brightstone Cove Tseldora once housed a prosperous town, grown rich after its founder, the Duke Tseldora, discovered its massive crystal deposits. The Duke was always a peculiar figure however, obsessed with spiders, and one day, a massive spider known as The Duke's Dear Freja and her countless children overran the town, and the Duke was never seen again. Fighting their way to the spider's lair, the Bearer of the Curse slays the beast and finds the final Great Soul hidden in her lair.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4657d82c-1000-5dec-a4e6-f2eb468dc426",
+    "title": "Bearer of the Curse",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - trivia \n trivia : While not mentioned in the game, according to the official *Dark Souls II* twitter, the Bearer of the Curse for both genders have birthdates; April 8th for the female character, and May 8th for the male character. This was agreed upon by the developers as it represents them well and is a fun additional fact. This extra information is recent and mentioned on twitter after the game's online servers went online.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5557c279-354d-5f52-a5e3-be50ec1fb102",
+    "title": "Bearer of the Curse",
+    "section": "dragon_aerie",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - dragon_aerie \n dragon_aerie : Following the symbol of the King will lead the Bearer of the Curse to Aldia's Keep. Aldia was the King's brother, who sought to create dragons, and has long since disappeared. Journeying through the Keep, home to the results of Aldia's mad experiments, will eventually bring the Bearer to the Dragon Aerie, where they will find the Emerald Herald awaiting them. She directs the Bearer to the very top of the Aerie, the Dragon Shrine, to seek the Ancient Dragon. She claims that the dragon has been watching over the world for aeons, and awaits the Bearer of the Curse.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6484a53c-96d2-5457-bda6-7c0162cab9a6",
+    "title": "Bearer of the Curse",
+    "section": "undead_crypt",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "The Bearer of the Curse fights their way through the knights and defeats Velstadt, finding Vendrick at last. The King, however, has been reduced to a hollow, wandering the grounds aimlessly. The Bearer may choose to put the king out of his misery, or leave him to wander endlessly. Here, the Bearer of the Curse finds the King's Ring, and the Emerald Herald, who tells them that the ring will open the way to the far east, where the Bearer of the Curse must journey next. She proceeds to warn the Bearer that if they continue on this path, they too will one day walk these grounds without really remembering why.\n\nShould the Bearer of the Curse seek her council, Nashandra too will direct the Bearer of the Curse to follow the symbol of the King.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "677bc659-70b4-5828-a438-a8c3f3b98de4",
+    "title": "Bearer of the Curse",
+    "section": "prologue",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - prologue \n prologue : The Bearer of the Curse became undead at some point, hollowing until they had no recollection of their former life. Desperate to find a cure, they were drawn to the walled off kingdom of Drangleic, where a cure to the undead curse was rumored to exist. Journeying through a portal and guided by a Fire Keeper, the Bearer of the Curse found themselves in the Things Betwixt. Finding there a hut with the remaining Fire Keepers, the Bearer of the Curse is made to remember more of their past and is cured of their hollowing through a Human Effigy. The Bearer is then guided towards Majula to seek the Emerald Herald.\n\nThe Herald, in turn, tells the Bearer of the Curse to seek the king, Vendrick, to find their answers and claim the throne, but warns that the Bearer will never find the king with a soul so pallid, instructing them to seek out the four Great Ones and to claim their power.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6b440a02-2a3e-5b6f-a65c-ac71de06c3f1",
+    "title": "Bearer of the Curse",
+    "section": "the_three_crowns",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - the_three_crowns \n the_three_crowns : Should the Bearer of the Curse choose to do so, they may use the Ashen Mist Heart on Vendrick's belongings in the Undead Crypt. Doing so will allow the Bearer to speak directly to the king as he was before he hollowed. Bitter and resigned to defeat, the king will council the Bearer of the Curse, warning them of the futility in seeking fire, of the dark that lies within them, and of the children of Manus, Father of the Abyss. He will tell the Bearer to seek three crowns of power, belonging to fallen kings. He will also warn the Bearer of his wife, Nashandra, revealing that she too is a child of the Abyss.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6d382dff-e6e5-51c0-9cf0-2725057c2112",
+    "title": "Bearer of the Curse",
+    "section": "undead_crypt",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - undead_crypt \n undead_crypt : After traveling through the Shrine of Amana, the Bearer of the Curse will come upon the Undead Crypt, a place that has stood since the dawn of time, and where men and gods alike have been interred. Here, Vendrick came along with his loyal knights and his right hand, Velstadt, the Royal Aegis. Many servants of Vendrick have come to find the King, only to meet their end at the hands of the Royal Aegis and the King's knights.\n\nUpon descending from the elevator, the Bearer of the Curse will stumble upon the Scholar once more if met at the last primal bonfire. The Scholar will ask the Bearer if they still desire peace, if answered yes, he will tell them that Vendrick is here and not far off. He will state that the Bearer was neither born with greatness nor granted it by the fates, before once again disappearing into the flames.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7096fb6f-96b3-5ac5-8192-28fa00134672",
+    "title": "Bearer of the Curse",
+    "section": "the_three_crowns",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "The Bearer of the Curse will journey through the Black Gulch to find the fallen kingdom of Shulva, Sanctum City, once ruled by the Sunken King. The king ruled the city, centred around the worship of a slumbering dragon known as Sinh, until his kingdom was invaded by the Drakeblood Knights lead by Sir Yorgh, who sought to claim the dragon's blood. Sir Yorgh slew the king, and awoke the dragon, which proceeded to kill him and lay waste to the city with its poison. The Bearer of the Curse slays Elana, the Squalid Queen, a child of the Abyss, and the dragon Sinh to claim the Sunken King's crown.\n\nNext, the Bearer of the Curse returns to the Old Iron Kingdom, to seek the Old Iron King's crown. Finding the kingdom under the sway of another child of the Abyss, Nadalia, Bride of Ash, the Bearer braves their way through the ruined towers to find the Fume Knight, who guards the crown of the Old Iron King.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "89b5af06-8ed3-512a-86a3-20ae57ef6323",
+    "title": "Bearer of the Curse",
+    "section": "the_three_crowns",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Finally, the Bearer of the Curse travels to Frozen Eleum Loyce, once ruled by the Ivory King. Built to contain the Old Chaos, the city was abandoned and froze over when its king vanished into the chaos. Guided by the last child of the Abyss, Alsanna, Silent Oracle, the Bearer of the Curse seeks out the remaining knights of Eleum Loyce to gain their help in braving the Old Chaos. Finding the Burnt Ivory King there, the Bearer of the Curse defeats him and claims his crown.\n\nOnce the Bearer of the Curse has found all three crowns of old, along with Vendrick's own crown, the fallen king will unleash the hidden power of the crowns, making the Bearer of the Curse immune to the hollowing effects of the curse. Bidding the Bearer to seek strength, and asking them whether allowing the flames to fade is truly their only choice, the king sends the Bearer of the Curse on their way.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8ac1f311-c5e1-5edf-afdd-77532b3330b7",
+    "title": "Bearer of the Curse",
+    "section": "four_great_ones",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "When about to light the last primal bonfire, the Bearer of the Curse is surprised by the Scholar of the First Sin, who emerges from the bonfire. The Scholar asks if they want to \"shed the curse\", unless they have already joined the crestfallen, he tells them that there are two paths: to inherit the order of the world, or destroy it. He admits that very few have come this far, and yet the Bearer's journey is far from over. The Scholar asks of the Bearer to seek Vendrick, \"he who almost became a true monarch\", for he will guide their way. After this, the Scholar will disappear, letting the Bearer of the Curse light the primal bonfire.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8d20a47f-429a-5983-8d6b-8d556cf10fc5",
+    "title": "Bearer of the Curse",
+    "section": "four_great_ones",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - four_great_ones \n four_great_ones : The Bearer of the Curse sets out to find the Four Great Ones.\n\nThrough the rotunda in Majula, the Bearer of the Curse makes their way to the ancient domain of the Old Iron King, whose hubris led to his death beneath the molten iron, where he was possessed by the soul of one whose name must not be repeated. Making their way through the king's old hunting grounds and the now poison-filled valley surrounding the castle, the Bearer of the Curse finds and slays the Old Iron King, claiming his soul for their own.\n\nBy way of ship or on the wings of an eagle, the Bearer of the Curse makes their way to The Lost Bastille, a forgotten prison where the Lost Sinner is held. The Lost Sinner was imprisoned for the sin of attempting to relight the First Flame. The Bearer of the Curse fights their way down into the very bottom of the prison, where they face the Sinner and take her soul for their own.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a178cfff-414e-58f7-855d-7892a5407fd0",
+    "title": "Bearer of the Curse",
+    "section": "giant_memories",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - giant_memories \n giant_memories : Using the Ashen Mist Heart on the corpse of the giant Jeigh will allow the Bearer of the Curse to enter the giant's memories and fight the Giant Lord during the final days of the war between Drangleic and the Giants. Upon defeating the Giant Lord, they will acquire the Giant's Kinship which will allow them to claim the Throne of Want.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d401e569-35eb-5763-b183-8468deb6c2fc",
+    "title": "Bearer of the Curse",
+    "section": "dragon_aerie",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Once arriving at the Dragon Shrine bonfire, the Scholar appears once more. He will reveal that he is in fact Aldia, the elder brother of Vendrick. Aldia says that he \"sought to shed the yoke of fate, but failed\" and that he now only awaits an answer. He asks of the Bearer of the Curse to \"seek the Throne, seek light, dark and what lies beyond\", for the last time, he'll vanish into the flames, allowing the Bearer of the Curse to light the bonfire.\n\nThe Ancient Dragon will give the Bearer the Ashen Mist Heart, which allows one to peer into the memories of things long withered. Should the Bearer of the Curse again seek out Nashandra's council, she will warn that the dragon is a false deity and is in fact no more than a prop. Still, she will direct the Bearer of the Curse to go to the Forest of Fallen Giants, to use the Ashen Mist Heart to peer into the Giants' memories.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d93c2039-f671-5b9a-8291-e42a66e1e54f",
+    "title": "Bearer of the Curse",
+    "section": "epilogue",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - epilogue \n epilogue : ***Proceed to the Throne:** In this ending, the Bearer of the Curse will accept their part in the cycle of the world, and take the throne. Doing so means that they will either sacrifice themselves to link the flame, or allow the flame to continue fading and become the Dark Lord. Which the Bearer of the Curse chooses is unknown.\n\n***Leave the Throne: **In this ending, the Bearer of the Curse rejects the throne, and bitterly walks away, seemingly to seek another, more permanent way to end the curse.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ecea3dd1-3f60-5575-b850-3c7b3fb6295b",
+    "title": "Bearer of the Curse",
+    "section": "appearance",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - appearance \n appearance : In the trailers, artwork, and promotional artwork for *Dark Souls II*, the Bearer of the Curse is depicted wearing the Faraam Set as well as using the Longsword and Spear (dual-wielding) along with the Golden Wing Shield as their main weapons. In the intro video of *Dark Souls II*, the Bearer of the Curse is seen wearing the Imported Set.\n\nIn-game, like the Chosen Undead from *Dark Souls*, the Bearer of the Curse's appearance and attributes are determined by the player, including their face/body, sex, origin, starting class and equipment.\n\nAlso, like the Chosen Undead, the character's personality is portrayed as an archetypal silent protagonist who doesn't have any sort of spoken dialogue during the game (aside from making some grunts or cries whenever they are hurt or killed).",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ef4e9192-38c6-5f92-862b-127da4466664",
+    "title": "Bearer of the Curse",
+    "section": "drangleic_castle",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - drangleic_castle \n drangleic_castle : Now with the strength of the four Great Ones, the Bearer of the Curse may pass through the Shrine of Winter to reach Drangleic Castle, the stronghold of Vendrick himself. The Emerald Herald awaits outside, directing the Bearer of the Curse to enter the castle. There is no trace of the King inside the castle however, instead the Bearer of the Curse finds his Queen, Nashandra. Nashandra tells the Bearer of the Curse that Vendrick was less of a king than one might imagine, and that he never took the true throne. She will direct the Bearer of the Curse to the Undead Crypt, to put an end to Vendrick.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "efa8a349-e145-5312-b3ff-6ad602446463",
+    "title": "Bearer of the Curse",
+    "section": "throne_of_want",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "If Vendrick is defeated before Nashandra, and the Bearer of the Curse has spoken to Aldia in the three mentioned locations, answering yes to both questions asked by Aldia, after Nashandra's defeat, Aldia will appear saying that \"many monarchs have come and gone\" and requires the Bearer of the Curse's answer as \"conqueror of adversities\". Aldia will then test the Bearer of the Curse to see if they are truly worthy of receiving the throne by confronting them himself. The Bearer of the Curse defeats Aldia. After Aldia, The Scholar of the First Sin is defeated, the Bearer of the Curse is given two endings.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f7a1ce8f-ffc9-5c71-89df-77f7bf5d1721",
+    "title": "Bearer of the Curse",
+    "section": "throne_of_want",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - throne_of_want \n throne_of_want : Below Drangleic Castle, the Throne of Want awaits. Here the Emerald Herald will meet the Bearer of the Curse one final time, declaring her journey completed. She warns that if the Bearer of the Curse proceeds, Nashandra, knowing the Bearer of the Curse will link the fire, and coveting the power of the First Flame and the Great Soul, will come for them. She urges the Bearer of the Curse to put an end to Nashandra.\n\nAfter defeating the Throne Watcher and Defender, the Bearer of the Curse will be greeted by Nashandra, now in her true form, as a child of Manus, Father of the Abyss. The Bearer of the Curse defeats Nashandra.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "09f3ea8b-452e-5e19-a95d-60b7c55b32f6",
+    "title": "Big Hat Logan",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Big Hat Logan -  Dark Souls - character - lead \n lead : is a character in *Dark Souls*. First met in Sen's Fortress, from which he relocates to Firelink Shrine, he is a merchant of advanced sorceries, including new ones upon following his questline into The Duke's Archives.\n\nVoiced by Ian Thompson in his final role before his passing in 2022, Logan is also a mentioned character in *Dark Souls II* and a mentioned character in *Dark Souls III*, although *Dark Souls II* refers to him as an unnamed \"master sorcerer\" due to his name being forgotten in Drangleic.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1dd4509c-5c7c-5fb1-b5f8-3245da54dc28",
+    "title": "Big Hat Logan",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Big Hat Logan -  Dark Souls - character - lore \n lore : Master Logan was a famous Sorcerer and a royal member of the Vinheim Dragon School before he turned Undead about one hundred years ago. His nickname stems from the gigantic hat he wore which completely hid his face; he used it to block the noise and stares from those around him in order to focus his thoughts. His weapon was once an ordinary catalyst employed by the Sorcerers of Vinheim, but it has since been strengthened due to lengthy use over time. His sage robe, called prototype, meaning it goes back the School foundation of the Dragon School, therefore the School was founded around the times Logan was alive.\n\nLogan is credited with having developed the Soul Spear Sorcery, among others, which is referenced repeatedly in the legends and is said to be on par with Lord Gwyn's lightning.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "32d464d1-5f0a-5c15-b0f9-769a3815804e",
+    "title": "Big Hat Logan",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Big Hat Logan -  Dark Souls - character - trivia \n trivia : Big Hat Logan seems to prefer sitting down in a meditative position, except for the first encounter when he's in a hanging jail cage.\nIf you get the Man-Serpent leaning against the wall next to the cage he is in, It will break, meaning you don't need to get the boulder trap to break it, with careful planning.\nLogan shares many similarities with Sage Freke from *Demon's Souls*. Both are first found trapped in cages and rescued by the player. Both are preceded by apprentices looking for them, have an unhealthy fascination with magic, and are found sitting in the main hub area.\nRickert of Vinheim mentions to the player that Big Hat Logan is famous in Vinheim; however, he also mentions that Logan was from \"a hundred years ago\". Either Logan has remained sane for as long as he has been undead, or time warping in Lordran has brought Logan to a time where one does not belong.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3893f177-aa87-545b-9c6a-b1d3d536aabc",
+    "title": "Big Hat Logan",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "When Logan is encountered hostile, he is not hollowed, but was driven insane in a more \"traditional\" sense. All other NPCs appear in their charred, undead forms when they attack players after hollowing.\nIf the player dies fighting against Big Hat Logan while in Seath's arena, the player will respawn in the prison as if they were killed by Seath himself, which underlines that Logan became just as mad as Seath.\nLogan's Tin Crystallization Catalyst is actually 結晶の錫杖 (\"Crystall Staff\"). 錫杖 (khakkhara), is a ringed staff used by Buddhist monks. This implies that Logan venerated Seath as a God.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3c259af1-66d2-5f67-9148-a3c852cfe7d3",
+    "title": "Big Hat Logan",
+    "section": "locations",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Big Hat Logan -  Dark Souls - character - locations \n locations : #Caged in Sen's Fortress behind a destructible wall (can be broken by a Serpent Soldier, a strong weapon, or rolling a boulder down the middle groove).\n#Prison in the Duke's Archives.\n#Library in the Duke's Archives, near the room leading to the Crystal Cave.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3ce67832-6ce4-51b5-befd-51dac4bde1cc",
+    "title": "Big Hat Logan",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Big Hat Logan -  Dark Souls - character - plot \n plot : Big Hat Logan is first encountered in Sen's Fortress. His cage is hidden behind a wall, which can be destroyed by manipulating the iron ball trap mechanism, using a powerful enough weapon, or goading the sleeping man-serpent guard to attack the wall. After freeing him with either the Cage Key or Master Key, Big Hat Logan thanks the player and later retreats to Firelink Shrine. There, he accompanies Griggs of Vinheim and offers to sell the player advanced Sorceries.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "455ba02e-7593-5c09-b631-ccefb8584b34",
+    "title": "Big Hat Logan",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Logan is credited with having developed the Soul Spear Sorcery, among others, which is referenced repeatedly in the legends and is said to be on par with Lord Gwyn's lightning.\n\nHe is also the creator of Homing Soulmass, a sinister spell similar to Pursuers and therefore closer to dark sorceries, which enlights a more shady side of Logan. Griggs affirms that Logan has not concern for others, and that he is an unreasonable and troublesome man.\n\nIn his attempt to reach Anor Londo, presumably to gain access to The Duke's Archives and its vast store of endless knowledge, he became imprisoned in Sen's Fortress, where he first encounters the Chosen Undead.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "60233997-ee10-572a-9dfc-941d48ced272",
+    "title": "Big Hat Logan",
+    "section": "wares",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Big Hat Logan -  Dark Souls - character - wares \n wares : Logan will not sell anything to the player unless they have at least 15 Intelligence.\n\nOnly available at The Duke's Archives",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "984b5ce7-03d9-537e-8656-77c9e98496c1",
+    "title": "Big Hat Logan",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Big Hat Logan -  Dark Souls - character - notes \n notes : Big Hat's Set and Logan's Catalyst are found in a chest where he normally sits in The Duke's Archives after he goes insane and travels to the arena where Seath is first encountered. (The elevator is likely at the top of its shaft and the lever will need to be used to bring it back. It is recessed and hidden on the first floor.) The player must kill Logan then trigger a loading screen (either by logging out or using a Homeward Bone) to make the chest appear.\nWhen Big Hat Logan is battled, he wears no clothes except for his big hat, because he has gone insane.\nWhen spoken to in the Duke's Archives there is no Intelligence requirement to purchase his spells.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ae6bf3ae-74d2-555a-844d-e38b138b4cf9",
+    "title": "Big Hat Logan",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Big Hat Logan soon leaves Firelink Shrine after the Lordvessel has been obtained. He is then jailed in The Duke's Archives. Logan explains that he is there to study Seath the Scaleless and his magic. After freeing him with the Archive Tower Giant Cell Key, players can find Logan in an ancillary library close to the third bonfire in The Duke's Archives, where he sells Crystal Sorceries as well as his prior spells. Alternatively, if not freed by you by Seath's defeat, he will free himself and move to the library.\n\nUnfortunately, Logan's infatuation with Seath's magic eventually drives him insane after Seath has been defeated and his entire stock of spells has been purchased. Speaking with him again, after the above conditions are met, will cause him to move to the large chamber where Seath the Scaleless was first encountered and become hostile.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b651f000-9e27-5a69-bcf7-ed05315793d1",
+    "title": "Big Hat Logan",
+    "section": "theory",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Big Hat Logan -  Dark Souls - character - theory \n theory : Given Logan's obsession with Seath and his Archives, it's possible that he let himself be captured by the Serpent Men in order to reach The Duke's Archives easily, as the two locations we find him jailed yet not much concerned are the Archives and Sen's fortress, areas crowd by Serpent Men.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e9e1d8fe-e821-52ad-9a43-f4625d1a8968",
+    "title": "Big Hat Logan",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Big Hat Logan -  Dark Souls - character - strategy \n strategy : Big Hat Logan has a repertoire of dangerous Sorceries, including Soul Spear and Homing Soulmass. If attacked later in the game, he also possesses their augmented crystal variants. However, he is fairly fragile and can be killed before he deals too much damage.\n\nIf killed when encountered in Sen's Fortress or Firelink Shrine, he will **not** drop anything.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f5e528fc-9e3b-5da6-8773-c96e15790a52",
+    "title": "Big Hat Logan",
+    "section": "notes_2",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Big Hat Logan -  Dark Souls - character - notes_2 \n notes_2 : </references>",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "16d8d281-81a6-5deb-958d-42dbc95ea4bc",
+    "title": "Captain Drummond",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "What happened to Drummond afterwards is never stated, but his armor, sword and shield can be found in the ruins of the fort, now enveloped by the surrounding forest, around the wall where the Giant Lord was felled in the past. It is therefore likely that he perished shortly after the victory on the Giants, becoming the last of his family line. The absence of his helm is also meaningful, as he gifted it to the Bearer of the Curse in the past for helping his remaining army in their hour of need.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1b573204-18fd-5b01-bc5d-0256f233f73a",
+    "title": "Captain Drummond",
+    "section": "location",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Captain Drummond -  Dark Souls II - character - location \n location : He is encountered at the very beginning of the Memory of Vammar. He is found close to the door that leads forward, crouched next to a lantern and surrounded by the corpses of his men, and will remain here for the entire game.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1c9f46ad-cc25-5464-a982-459d246492f0",
+    "title": "Captain Drummond",
+    "section": "theories",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Captain Drummond -  Dark Souls II - character - theories \n theories : It's possible that Drummond is related to Raulmond, a knight of Drangleic who served Vendrick by guarding and defending the fort until his own death, just like Drummond's family line. The captain also claims that both his father and grandfather fought in the same war, so Raulmond could be one of these two family members who perished during the struggle. The names of the two soldiers are also remarkably similar, which would make a lot of sense if they were related in some way.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "201cf465-f44b-53aa-8fa8-712f81350900",
+    "title": "Captain Drummond",
+    "section": "plot",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Speaking with Drummond also has an unseen effect: he claims he'll order his men to stand down and allow the player to pass through, and indeed, the soldiers encountered in the memories from this point forward will not be hostile to the player and will instead assist them in fighting the Giants. However, if the player attacks a soldier, even accidentally, they will all turn hostile again and will remain hostile for the rest of the playthrough, even if the player speaks to Drummond again.\n\nAfter defeating the Giant Lord he'll gift the Drangleic Helm to the player, which also allows them to obtain the \"**Holder of the Fort**\" Achievement. Note that he doesn't need to be summoned for the boss, as he will gift his helmet regardless after the king of the invading Giants is beaten.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8e83e5c6-3d28-524e-942b-093a65a67391",
+    "title": "Captain Drummond",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Captain Drummond -  Dark Souls II - character - lead \n lead : is a character and summonable phantom in *Dark Souls II*.\n\nHe is voiced by Andy Beckwith.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a5628c78-cd60-51d1-aa27-2afadb270619",
+    "title": "Captain Drummond",
+    "section": "plot",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Captain Drummond -  Dark Souls II - character - plot \n plot : Drummond is one of the last NPCs that the player can meet on their journey, only accessible after retrieving the Ashen Mist Heart from the Dragon Shrine. With it, one can return to the Forest of Fallen Giants and interact with the Tree of Giants near where Mild-Mannered Pate was first encountered.\n\nOnce there, it takes very little for the player to see him. Talking to him provides insight on the war against the Giants, as well as mentioning their powerful leader. After exhausting his dialogue, players can learn the \"**Hurrah!**\" gesture from him, and he will also become available for summoning against the Giant Lord in the Memory of Jeigh. His summon sign is located at the side of the staircase that leads to the fog gate.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ae2174b6-48e0-5a29-91a6-d07ab294ea47",
+    "title": "Captain Drummond",
+    "section": "artifacts",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Captain Drummond -  Dark Souls II - character - artifacts \n artifacts : Drangleic Sword\nDrangleic Shield\nDrangleic Set",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "da19fdac-ae1f-5933-84d2-18a05eb42933",
+    "title": "Captain Drummond",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Captain Drummond -  Dark Souls II - character - lore \n lore : Captain Drummond descends from a family line of high-ranking army captains of Vendrick, entrusted with his seaside fort. The helm in their possession is proof of the king's great trust.\n\nHowever, a long time after the king had subdued the Giants and stolen their prized possession in his conquest, the beings would cross the sea to enact their vengance in a war that continued for generations. The fort overseen by Drummond's family was the main stage of the long-winded massacre, with his grandfather and father both having to face the threat of the Giants, until the duty would be passed down to him, as well as their equipment.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dda78684-2b88-5fc0-bd0c-5f0b79315a03",
+    "title": "Captain Drummond",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Although Drummond and his forces fought valiantly against their foes, the war of attrition had left the armies of Drangleic crippled. They were simply no match for the Giants, fueled by a singular rage against Vendrick and his sins. Despite the captain's fielty to the kingdom, he too believed the king's barbarism to have been misguided, and he saw greater intellect in the actions of his foes, despite their seemingly barbaric appearance and disposition.\n\nWhile his men were on the brink of defeat, he still wished to topple the leader of the invading Giants no matter the cost, knowing it would surely bring an end to the conflict. It is then that he met with a mysterious hero not from around those parts: the Bearer of the Curse, who had traveled back in time with the Ancient Dragon's gift. Together, they can team up against the Giant Lord and dispell the invading army for good, signaling the end of the generational war, though it came all to late and most of the kingdom was already lost.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "428b2a50-87e1-5d4d-87de-0e3222b8a0ed",
+    "title": "Chancellor Wellager",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Chancellor Wellager -  Dark Souls II - character - trivia \n trivia : Wellager claims Vendrick defeated the Old Ones to build Drangleic, but the claim is quite dubious, as they are present when the Bearer of the Curse starts their adventure. This is either an outdated line of dialogue that reflects an earlier version of the plot, or implies there were different Old Ones when Vendrick founded Drangleic.\nHis model is actually completely textured, but it never shows up like that in-game through normal means due to his ghostly filter, a trait he shares with the Wall Warrior enemy.\nAlthough he is transparent, messages can't be seen through him.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "59cd1462-798d-5c08-97c1-695633b2845d",
+    "title": "Chancellor Wellager",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Chancellor Wellager -  Dark Souls II - character - lead \n lead : is a character and merchant in *Dark Souls II*.\n\nHe is voiced by Andrew Tiernan.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6f59c540-7387-59c9-b4f8-49c404cab5e4",
+    "title": "Chancellor Wellager",
+    "section": "location",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Chancellor Wellager -  Dark Souls II - character - location \n location : He is encountered at the entrance of Drangleic Castle, standing on the stairway to the throne room. He remains here for the entire game.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7fd66f32-29b9-5b20-9dbd-7a55371ca578",
+    "title": "Chancellor Wellager",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Chancellor Wellager -  Dark Souls II - character - lore \n lore : Chancellor Wellager was one of Vendrick's most important servants, having been present for all of his greatest accomplishments; the founding of the kingdom of Drangleic, the arrival of his queen Nashandra, the construction of the castle and the invasion of the land of Giants, which resulted in the creation of the Golems. This led to a period of peace that the advisor described to be akin to the Dark, a hint to the queen's true nature.\n\nHis king had once ordered him to enlist the great blacksmith Llewellyn from the land of Mirrah with a lifetime contract, so that the kingdom of Drangleic could have access of the rare geisteel from the eastern land, which had been secret until then. Wellager would succeed in this, even being gifted the Espada Ropera by the blacksmith. His exploits would strengthen the kingdom greatly.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ac2d2728-4a58-506c-9cfa-d6c0c5dcaf75",
+    "title": "Chancellor Wellager",
+    "section": "wares",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Chancellor Wellager -  Dark Souls II - character - wares \n wares : {{WaresTab|Weapons={{Wares\n|Flamberge (Dark Souls II) Flamberge | num1= | Flamberge II.png 100px | 4,200\n|Lucerne (Dark Souls II) Lucerne | num2= | Lucerne II.png 100px | 4,800\n|Crescent Sickle Crescent Sickle | num3=1 | Crescent Sickle.png 100px | 10,000",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ae0fca80-2d5c-5475-8e4d-9520e5e42b82",
+    "title": "Chancellor Wellager",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "However, the Giants would return with a vengance, and shortly after the king would vanish too. At some point after that, the chancellor would meet his end and linger on as a ghost, seemingly stuck in time and unable to move on, completely unaware of his current predicament.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e164b60b-e38a-5e11-a3ed-18786e2a0404",
+    "title": "Chancellor Wellager",
+    "section": "plot",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "After the Looking Glass Knight is defeated, he will begin selling new weapon variants that came included with the pre-ordered Black Armor edition of the game. Once NG++ is reached, Wellager will also sell all Covenant rewards of the Blue Sentinels and Brotherhood of Blood, allowing those who do not wish to grind the PVP-oriented covenants with no offline grinding method a way to still obtain that equipment. Note that increasing the bonfire intensity with Bonfire Ascetics won't work, and a proper NG+ playthrough must be initiated.\n\nIf the Giant Lord is defeated in the Memory of Jeigh, speaking to Wellager will have him gift the player with the Royal Dirk and the Espada Ropera, as well as the full Llewellyn Set in the Scholar of the First Sin edition of the game.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e51a9985-ec19-5593-96f1-95e06e80abe6",
+    "title": "Chancellor Wellager",
+    "section": "plot",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Chancellor Wellager -  Dark Souls II - character - plot \n plot : Wellager appears as a ghostly, translucent figure, which makes him impervious to any damage, meaning he cannot be killed and his services will always be available to the player. He acts as a merchant, selling various goods, and will also offer exposition to the player, giving them a good idea of Drangleic's history. Players can also learn the \"**This one's me**\" gesture from him upon going through his introduction speech.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0070f34f-48db-5156-b0f4-82022db2d38c",
+    "title": "Cursed Bone Shield",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "shield",
+    "snippet": "Cursed Bone Shield -  Dark Souls II - shield - availability \n availability : Very rare drop from Merciless Roenna in Huntsman's Copse.\nVery rare drop from the Prowling Magus in the Shrine of Amana.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3bb919fe-96e9-5a88-865d-30ccb4e3f9d0",
+    "title": "Cursed Bone Shield",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "shield",
+    "snippet": "Cursed Bone Shield -  Dark Souls II - shield - description \n description : Small shield used by Aldian warlocks. Reinforced by a covert ritual that granted the shield the power of flame. Can deflect spells by parrying.\n\nThe peculiar figure known as Lord Aldia kept Giants in his manor, and attempted to recreate a dragon, but after some time, was not heard from again.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d473da50-2a7d-5dc5-9613-c440b2eb2c3d",
+    "title": "Cursed Bone Shield",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "shield",
+    "snippet": "Cursed Bone Shield -  Dark Souls II - shield - lead \n lead : The **Cursed Bone Shield** is a small shield in *Dark Souls II*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "102af54c-0526-5bc3-9f52-8e1d3fb3ee2d",
+    "title": "Dark Spirit Tattered Butcher",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Dark Spirit Tattered Butcher -  Dark Souls II - enemy - lead \n lead : **Dark Spirit Tattered Butcher**, is am enemy in *Dark Souls II*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e017977a-0ef7-52af-9a98-7e25074da3ba",
+    "title": "Dark Spirit Tattered Butcher",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Dark Spirit Tattered Butcher -  Dark Souls II - enemy - strategy \n strategy : Attacks with a Butcher's Knife. Can be aggroed away from the sight lines of casters in the area.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ffb17df0-31e9-5d91-ae59-b03566349563",
+    "title": "Dark Spirit Tattered Butcher",
+    "section": "location",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Dark Spirit Tattered Butcher -  Dark Souls II - enemy - location \n location : Found in Shrine of Amana at bonfire intensity 2 or greater, past the bridge that has a Dragonrider.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "00f05f16-bcf1-58dd-bf57-f7d8e30326ca",
+    "title": "Demon of Song",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Demon of Song -  Dark Souls II - boss - trivia \n trivia : After entering the fog to the boss area, the Demon can be seen imitating the singing of the Milfanito. It will stop singing after a brief moment, and the fight will begin.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0459e3e6-0975-5cd3-929e-946930f430c0",
+    "title": "Demon of Song",
+    "section": "attacks",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Demon of Song -  Dark Souls II - boss - attacks \n attacks : **Torpedo Drive: **An attack that makes the Demon charge forward in a straight line. It remains in its skin so no damage can be caused to it. Causes high damage if it connects.\n\n**Arm Slap: **The Demon's most basic attack, it opens up its skin and does an overhead attack with its left hand, followed by its right hand.\n\n**Panzer Press: **The Demon stands up on its hind legs and then falls forward. Small AoE damage when it lands.\n\n**Vertical Takeoff: **The Demon jumps up into the air and slams into the ground. This attack has good tracking.\n\n**Aquatic Artillery Salvo and Barrage: **The Demon spits out balls of water at the player. This varies based on the distance between the player and it. At close range it will just spit out one volley, while at long range it will launch a volley to the left, then the middle, and finally to the right.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "14f08bba-971f-5d6d-856b-89f7b3d0f06e",
+    "title": "Demon of Song",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Demon of Song -  Dark Souls II - boss - lead \n lead : The **Demon of Song** is a boss in *Dark Souls II*.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "74d279b4-317e-5d17-af52-4f4dbcbab241",
+    "title": "Demon of Song",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Demon of Song -  Dark Souls II - boss - notes \n notes : By using a Bonfire Ascetic on the Shrine of Amana bonfire, Rhoy's Resting Place, the Demon of Song can be respawned.\nEven if a Bonfire Ascetic is used to respawn the boss, the player will not be able to enter the boss fight from the Rise of the Dead bonfire's path.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "91c79c68-d497-5e47-be4c-bb3d06e8cf7a",
+    "title": "Demon of Song",
+    "section": "defenses",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Demon of Song -  Dark Souls II - boss - defenses \n defenses : (Stats are from Param Studio and are not estimated)\nStrike/Slash/Thrust defense are applied on top of Physical Defense.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a221dba7-c470-58c0-8ab1-383972f669bf",
+    "title": "Demon of Song",
+    "section": "attacks",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "**Amphibious Assault: **The Demon has a grab attack with a wind up similar to the Arm Slap, does very high damage and will likely kill.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a316b80b-baae-59d3-b507-084b3b2e5e20",
+    "title": "Demon of Song",
+    "section": "strategies",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "The status build-up of Poison Mist, Toxic Mist, and Dark Fog will continue to apply even when the Demon is in its frog skin. Poison and Toxic Mist can prove particularly useful as they have no stat requirements and only require a single attunement slot each. Both statuses can also be applied at the same time for massive damage over time.\n\nBecause the arena is partially flooded with water, the Demon of Song is weak to Lightning damage and resistant to Fire.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b62290f4-6529-5c00-8e69-ab1a862cc381",
+    "title": "Demon of Song",
+    "section": "strategies",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Demon of Song -  Dark Souls II - boss - strategies \n strategies : The Demon of Song is near impervious to damage and only its face and arms can be damaged. When it attacks, it emerges from the frog skin momentarily and becomes vulnerable to damage. A good strategy here is to skirt around either its left or right side and wait for it to attack, then go in and hit it as it recovers from its attacks. Simply rinse and repeat, and try to avoid its attacks as best as possible, as they are highly damaging.\n\nA ranged character will have a much easier time with this fight. The player is able to let loose three shots with a standard bow right after coming through the fog gate. Then running up to the boss and standing right in front of it will bait it to attack with its hands, allowing for further attacks.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bc2fa8ac-adbe-5554-9ffb-fa0dcd4ecaf1",
+    "title": "Demon of Song",
+    "section": "summoning",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Demon of Song -  Dark Souls II - boss - summoning \n summoning : Felicia the Brave can be summoned for the fight. However, her sign is a long distance from the fog gate; just before the third bonfire. It's a good idea to clear out the area before summoning her.\n\nIn Scholar of the First Sin, it is possible to summon Lone Hunter Schmidt as a shade to help with this boss fight, provided that the area between the boss room and his summon sign is cleared. His summon sign is in the last building in the water before the Rhoy's Resting Place bonfire.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c25a7b58-cb7e-5875-b116-c7ad269568e7",
+    "title": "Demon of Song",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Demon of Song -  Dark Souls II - boss - description \n description : A giant, grotesque frog demon with a long tail. It has a skull-like face and two arms protruding from its mouth. Upon entering the boss area the player will find the Demon of Song sitting and waiting, as if to lure prey in. The face will use its arms to pull the upper jaw of the frog body down to protect the face from harm.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "138d8db3-9289-52e5-af4d-c20bcc4e3e1a",
+    "title": "Dragonrider",
+    "section": "defenses",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Dragonrider -  Dark Souls II - boss - defenses \n defenses : (Stats are from Param Studio and are not estimated)\nStrike/Slash/Thrust defense are applied on top of Physical Defense. -20% strike means taking 120% damage.\nPhysical defense is 338 in Heide's Tower of Flame and Shrine of Amana. Physical Defense is 502 in Twin Dragonriders Boss fight. Physical Defense is 581 in Undead Crypt",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "24ecfc93-a306-529f-9d97-5d69024af216",
+    "title": "Archtree",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Despite the brutal conflict, several specimens of archtrees continue to survive and in particular in the Ash Lake, an immense underground cave, many of them are still intact, offering shelter to one of the last examples of archdragon descendants: the Stone Dragon. Additionally, following the war against the dragons, Izalith developed her civilization underground, building the city bearing her name around the framework of a surviving archtree. The demons created by Izalith's Bed of Chaos would have used the tree's stone bark to forge their great hammers. The few archtrees that survived evolved in the giant trees found in Lordran, considered their distant offspring, and their wood still inherited the magic resistant properties of their ancestors.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "28fa620a-2f6b-5eb7-8939-8b443962ca10",
+    "title": "Archtree",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "At some point the creatures that found the Lord Souls near the First Flame underground and developed their powers emerged to the surface with the intention of exterminating the Dragons and conquer the world for themselves. During the war that followed, Izalith and her daughters used sorcery and their powers to manipulate flames and weaved great firestorms that scorched the very earth, destroying the archtrees and burning the dragons while Nito unleashed a miasma of death, rotting the archtrees and infecting the dragons and Gwyn and his knights battled the dragons with their their mighty lightning bolts. After the long struggle the Lords emerged victorious, exterminating most of the archdragons and archtrees, thus conquering the surface world for themselves.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2f3bf494-9de8-576c-856d-755ee32cc482",
+    "title": "Archtree",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Archtree -  Dark Souls - storyline - lore \n lore : The Archtrees were entities that existed in the Age of Ancients, alongside the Archdragons. In this state, before the First Flame brought any form of life and diversity, the world was undistinguished and consequently everything was made of ash-colored rocks. Like dragons, archtrees were also made of stone and were half-living, half-mineral and simply existed without any changes. They covered the surface of the world, their roots kilometers deep with trunks reaching the sky. The rock wood of the archtrees was immensely capable of resisting magic.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a68e4643-f78a-5649-85d4-237ccd345fc4",
+    "title": "Archtree",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Archtree -  Dark Souls - storyline - lead \n lead : **Archtrees** are enormously tall and wide primordial trees that towers up to the skies and reach deep into the earth.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dea6d3e5-d247-57d8-a639-dfc241c3f4ce",
+    "title": "Archtree",
+    "section": "theories",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Archtree -  Dark Souls - storyline - theories \n theories : It is possible to theorize that the First Flame ignited itself within an Archtree. In fact, the Kiln of the First Flame, which in Dark Souls was covered by the layers of structures in Dark Souls III appears clearly, revealing that the First Flame was stored exactly in the center of an ancient archtree. Additionally, Izalith created her own copy of the First Flame within the archtree at the center of her city, thus in a likely attempt to replicate the original conditions in which the Flame had manifested itself for her experiment.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3c01f00e-765c-57b4-a2a3-965b82642d4a",
+    "title": "Demon of Song Soul",
+    "section": "use",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Demon of Song Soul -  Dark Souls II - item - use \n use : Consume for 12,000 souls or trade with Straid of Olaphis along with 1,500 souls to acquire the Spotted Whip.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "63960e15-e0b4-5f17-9041-fe32daf4167a",
+    "title": "Demon of Song Soul",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Demon of Song Soul -  Dark Souls II - item - lead \n lead : The ** ** is a boss soul in *Dark Souls II*.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0da8d2e3-8152-5c48-80ec-f265ab0e6dfc",
+    "title": "Milfanito",
+    "section": "dialogue",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "|-\n|*\"Do you seek comfort too? You poor thing... Take this, at the very least.\n[Gives Petrified Something × 1]*\nThis is all that we can do.\"*\n|-\n| scope=\"row\" style=\"width: 50px; background-color: #151515; border-bottom: 0; border-radius: 0 0 0 10px;\" |'*Talk after defeating the Demon of Song\n| style=\"border-bottom: 0; border-radius: 0 0 10px 0;\" |*\"You silenced that cursed singing. Please accept these as a thank-you.\"\n[Gives Divine Blessing × 1]**\n|}",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "376be4ff-13be-5bfd-9d08-2ea55e47a475",
+    "title": "Milfanito",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Milfanito -  Dark Souls II - character - lore \n lore : Milfanito, together with the Fenito, were created by Gravelord Nito to deal with the emergence of Undead connected to the fading First Flame. These women had little concept of self, referring to themselves as a single entity. Nito taught to them a special song, with which the Milfanito would comfort the Undead; they lived only to sing, and continued until they no longer could.\n\nMillennia past Nito's demise, the Milfanito and the Fenito persistently carried out the will of the \"Great Dead One\". They eventually arrived at Drangleic where they positioned themselves to manage the Undead Crypt, a place of rest for the \"living\" where those afflicted by the curse of Undeath would pray to one day gain entrance. The Milfanito sang their enchanting song to appease the spirits of the dead buried in the crypt.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "38ae5de0-a13e-5230-ab5a-1ae05cfabbf2",
+    "title": "Milfanito",
+    "section": "locations",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Milfanito -  Dark Souls II - character - locations \n locations : Drangleic Castle\n**A Milfanito is held captive inside a cage in a small room at the top of the castle, sealed by The Embedded. The Key to the Embedded is required in order to free her.\nShrine of Amana\n**One is found inside the first building on the lake after the Tower of Prayer bonfire.\n**A second one is found right before entering the Demon of Song boss room. Although the other three Milfanito have similar designs, this one looks drastically different, with long arms and a particularly weathered appearance. She will vanish when attempted to be talked to.\n**A third Milfanito can be found praying at an altar after the Rise of the Dead bonfire. The player must be hollowed in order to open the door that gives access to this area.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "42acc5b9-561c-55cd-839e-eabe7584d49a",
+    "title": "Milfanito",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "In the realm plagued by the Curse, the Milfanito and the Fenito seemingly assumed responsibility for easing the suffering of Undead. A Milfanito is found praying in the Shrine of the Living, home to an artifact capable of reversing Hollowing. Another Milfanito imprisoned in Drangleic Castle possesses a Ring of the Dead that can make its wearer appear human even while Hollow, suggesting that the Milfanito managed or developed artifacts that dealt with the condition of Hollows.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "56851683-1d2a-56c9-93ee-f4238aecf2b9",
+    "title": "Milfanito",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Milfanito -  Dark Souls II - character - notes \n notes : They never become hostile.\nThey stop singing when the player gets too close.\nWhen the Milfanito sing, the brightbugs in the area make the Lizardmen passive and also reveal their position; as such, they will not attack the player unless they get too close. When they stop singing, the brightbugs scatter, making the Lizardmen harder to locate and making their aggro range much more extensive.\nIf a Milfanito is killed by accident, the player can use a Bonfire Ascetic to revive them and atone sins with Cromwell the Pardoner, allowing them to finish the quest.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "68a9dcdb-06ed-5885-851c-fa8b1df1d8eb",
+    "title": "Milfanito",
+    "section": "dialogue",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "==Trivia==\nAs with Gravelord Nito, their implied creator, the Milfanito's name could be a play on the Italian word finito, meaning \"ended.\"\nThe Milfanito located before the Demon of Song's fog gate appears weak and will not converse with the player. This is likely related to the Demon itself, in which she may have narrowly escaped death from the creature.\nThe song the Milfanito sing is a rendition of the Nameless Song, which was the end-credits theme in the original *Dark Souls''.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7954176a-8a8c-5e60-b1e1-bd9354d07100",
+    "title": "Milfanito",
+    "section": "dialogue",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Milfanito -  Dark Souls II - character - dialogue \n dialogue : {| class=\"article-table\" border=\"0\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%; border-radius:10px; box-shadow:0 0 5px 3px black;\"\n| scope=\"row\" rowspan=\"6\" style=\"width: 50px; background-color: #151515; border-radius:10px 0 0 0;\" |**Talk — Milfanito at the lake**\n|*\"We knew you were coming... And stopped singing...\"*\n|-\n|*\"We are Milfanito. We are here to sing to those bound by death and Dark.\"*\n|-\n|*\"We will sing here, forever, as we always have, from long, long ago. We know nothing of the world outside. And why should we? For we will never leave.\"*\n|-\n|*\"Do you seek King Vendrick? But what is a king, after all? We know nothing of the world outside. For we will never leave here.\"*\n|-\n|*\"When we sing, the little ones dance. The little ones grant comfort to those who bear death and Dark. This is what we were taught.\"*\n|-\n|*\"Is there anything wrong? Perhaps this will help.\n[Gives Smooth & Silky Stone × 1]*",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "94f5c6f1-61b4-5164-9af4-ee076fca59f0",
+    "title": "Milfanito",
+    "section": "the_shrine_of_the_living",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Milfanito -  Dark Souls II - character - the_shrine_of_the_living \n the_shrine_of_the_living : The altar that the fourth Milfanito prays to can be used to reverse hollowing. The player must not have any Human Effigies in their inventory or item box for this to work. Dropped effigies on the ground will also prevent the shrine from working. Praying at the Shrine while still having an effigy will result in the message \"Alas, nothing happened\".\n\nThe altar is located near the Rise of the dead bonfire, in Shrine of Amana.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b31284b5-5357-53f3-855f-04bc3e4c504f",
+    "title": "Milfanito",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Milfanito -  Dark Souls II - character - lead \n lead : The **Milfanito** are a race in *Dark Souls II*.\n\nThere are four of them found in-game as non-playable characters, all unnamed; three are located in the Shrine of Amana, while a fourth is held captive inside a cage in Drangleic Castle; two of them vanish upon being talked to, while the others have dialogue. Each of them has a different design.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c129767d-8b19-5f6e-b5d4-096d510fb03a",
+    "title": "Milfanito",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Milfanito -  Dark Souls II - character - description \n description : These enchanting singers were given song by the Great Dead One, and have little concept of self. They live only to sing, and will continue singing until they can do so no longer.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ed53e7a9-42a2-5751-b9db-b741d875a962",
+    "title": "Milfanito",
+    "section": "plot",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "The Key to the Embedded is obtained after the player defeats the Demon of Song; this key will grant access to the Milfanito imprisoned at the top of Drangleic Castle. When freed, she will sigh and disappear, dropping the Ring of the Dead. A brief singing can be heard while on the elevator leading back to the lower floor. Talking to each of the other two Milfanito afterward will reward the player with one Divine Blessing. After defeating the Demon of Song, the Milfanito will express their gratification for silencing \"that cursed singing\" and reward the player with an item.\n\nIn , they will reward the player with a Petrified Something after killing the Demon of Song. Talking to the Milfanito before said boss, will reward the player with a Fire Seed.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b8b6323a-8e70-56fc-b918-d1163ce6b98d",
+    "title": "Cleric's Parma",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "shield",
+    "snippet": "Cleric's Parma -  Dark Souls II - shield - availability \n availability : Rare drop from the Dark Priestess located at the Dragon Shrine.\n\nRare drop from the Peculiar Kindalur, who invades the player shortly after passing the third bonfire in the Shrine of Amana.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.253457746780597
+  },
+  {
+    "document_id": "4efd7746-5224-56d9-a5b4-69077e4dd4b1",
+    "title": "Undead Parish",
+    "section": "theories",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Undead Parish -  Dark Souls - location - theories",
+    "sources": [
+      "run"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "895958e7-a3ed-5e9b-9add-60caabb6ae4a",
+    "title": "Undead Crypt",
+    "section": "adjacent_locations",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Undead Crypt -  Dark Souls II - location - adjacent_locations \n adjacent_locations : Shrine of Amana",
+    "sources": [
+      "run"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "86815c29-1cc5-558c-b270-423b6e9cbd0b",
+    "title": "Darkroot Garden",
+    "section": "adjacent_locations",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Darkroot Garden -  Dark Souls - location - adjacent_locations \n adjacent_locations : Darkroot Basin\nUndead Parish",
+    "sources": [
+      "run"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "98387cda-2603-578b-b6bf-a07c6dc6a505",
+    "title": "Undead Purgatory",
+    "section": "adjacent_locations",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Undead Purgatory -  Dark Souls II - location - adjacent_locations \n adjacent_locations : Huntsman's Copse",
+    "sources": [
+      "run"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "14865a19-3a46-554d-ac06-a688dc0114bc",
+    "title": "Undead Parish",
+    "section": "keys",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Undead Parish -  Dark Souls - location - keys \n keys : Mystery Key\nBasement Key",
+    "sources": [
+      "run"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  }
+]

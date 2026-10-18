@@ -1,0 +1,2310 @@
+[
+  {
+    "document_id": "1bf43870-82cd-577e-adc0-05d2b9464bda",
+    "title": "Attack Rating",
+    "section": "base_ar",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "is the amount of elements the weapon has post infusion\\n**Damage% is 100 if the weapon has damage for that element innately or 0 if not\\n**InfusionMult is a percentage that describes how well the infusion is taken and how blocking percentages change'}",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "67dba0bb-5821-5c52-ae4c-0cd42f85df3f",
+    "title": "Attack Rating",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Attack Rating -  Dark Souls II - mechanic - lead \n lead : Attack Rating is one of the main factors that determines how much damage weapons do throughout the Dark Souls series.\n\nAttack Rating, commonly abbreviated as AR is a number specific to each Weapon and each element that depends on the weapon, upgrade level, player stats and other equipment that can affect it. This number is used during each attack through a damage formula specific to each game to determine the damage.",
+    "sources": [
+      "template",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.00984438168371
+  },
+  {
+    "document_id": "7e6e6f5d-9ee9-5cd5-8ade-835ef20a67e9",
+    "title": "Attack Rating",
+    "section": "special_scaling",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Attack Rating -  Dark Souls II - mechanic - special_scaling \n special_scaling : {'name': 'Bewitched Alonne Sword', 'description': 'Bewitched Alonne Sword has a special Buff that multiplies scaling by 160% for a limited time.'}",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7540078082970422,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d10d99b3-2b04-5730-bba2-062972133250",
+    "title": "Attack Rating",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Attack Rating -  Dark Souls II - mechanic - dark_souls_ii \n dark_souls_ii : In Dark Souls II, Base AR and Scaling AR are calculated independently.\n\n[https://docs.google.com/spreadsheets/d/13Ba-cbzZG_EMnkuO_8MO53sidBna1hsztrCa_7LQ63E/edit?usp=sharing Here is a Sheet that allows you do calculate all the possible AR vales weapons can have at any level.]",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ddef5148-c596-5792-90a3-72e83df64341",
+    "title": "Attack Rating",
+    "section": "scaling_ar",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Attack Rating -  Dark Souls II - mechanic - scaling_ar \n scaling_ar : {'name': 'Status Scaling AR', 'description': 'Some weapons have Poison or Bleed AR, and most weapons can be infused to have these elements if they do not innately possess them.\\n\\nScaling numbers for these elements however do not directly correlate with the Status buildup they inflict. They only provoke an effect equivalent to 40% of what their scaling would imply once added to their Base AR.\\n\\n[https://docs.google.com/spreadsheets/d/13Ba-cbzZG_EMnkuO_8MO53sidBna1hsztrCa_7LQ63E/edit?usp=sharing Calculator capable of showing how much Status buildup an attack inflicts.]'}",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f6191c4b-7811-5852-bf13-4199c892e24b",
+    "title": "Attack Rating",
+    "section": "base_ar",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Attack Rating -  Dark Souls II - mechanic - base_ar",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fdd3027e-60c2-5907-9592-8945ae53fe21",
+    "title": "Attack Rating",
+    "section": "base_ar",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "base_ar : {'name': 'Base AR Formula', 'description': 'Where:\\n\\nX refers to any given element\\nDmg is the AR the element would have at +0 if innately active when uninfused\\nMxDmg is the AR the element would have when fully upgraded [...] when uninfused\\nupgdLvl is the current level of the weapon\\nMaxLevel is the highest level the weapon can be\\nBaseDmgMult is a value specific to each the infusion for each weapon\\ninfMod is a result of the inherent damage types and the ones added by infusion\\n**If the Infusion matches the element, the formula for infMod is\\n**infMod:X = Damage%:X + InfusionMult:X\\n**(elements are magic, lightning, fire, dark, bleed and poison)\\n**If the infusion is not the element, the formula for infMod is\\n**infMod:X = Damage%:X - InfusionMult:X / elementCount\\n**elementCount is the amount of elements the weapon has post infusion\\n**Damage% is 100 if the weapon has damage for that element innately or 0 if not\\n**InfusionMult is a percentage that describes how well",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "06be033a-9448-5c2c-be54-750def030c10",
+    "title": "Parameter Bonus",
+    "section": "faith_for_talismans",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "There are a few exceptions: Thorolund Talisman ignores actual Faith and uses 99 in its calculations. With a parameter bonus of 65% that leads an eternally constant MagAdjust of 165.\n\nThe Ivory Talisman and Sunlight Talisman use their own range of values for its parameter bonuses. They don't gain any increase to its magic adjust until 16 Faith, where it starts to gain small amounts of magic adjust until 20 Faith, then larger amounts until 50. Further investment into Faith results in negligible amounts of extra magic adjust all the way to 99.\n\nThe Darkmoon Talisman uses a range of values similar to Logan's Catalyst for its parameter bonuses. It doesn't gain any increase to its magic adjust until 26 Faith, where it starts to gain large amounts of magic adjust until 30 Faith, then smaller amounts until 50 Faith. Further investment into Faith results in negligible amounts of extra magic adjust all the way to 99.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "260188f1-5b19-530a-9186-e2688c3c32e2",
+    "title": "Parameter Bonus",
+    "section": "scaling_values",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus -  Dark Souls - mechanic - scaling_values \n scaling_values : Scaling values, also known as \"ParamBonus,\" are displayed as a letter ranging from \"E\" (lowest) to \"S\" (highest). Each letter represents a percentage of additional attack damage in relation to a particular stat (Strength, Dexterity, Intelligence or Faith).\n\nEach scaling value has a fairly wide percentage range, meaning two weapons with the same rating might provide different percentages of additional attack damage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "28747e6c-ebbf-5cf3-8f70-cbd717884e62",
+    "title": "Parameter Bonus",
+    "section": "stat_rating",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus -  Dark Souls - mechanic - stat_rating \n stat_rating : The stats that improve damage aren't directly used in the calculations; instead, they are first converted to a *rating,* which increases very quickly at low stat levels but slows down after reaching certain \"soft caps.\" All attributes use the same conversion table to determine the bonus they receive from scaling, and Humanity uses its own.\n\nBetween each of the data points in the conversion tables, scaling increases linearly. Standard, raw, and crystal weapons, as well as weapons upgraded with twinkling titanite, demon titanite, or dragon scales, use the first table for determining the bonus damage from attributes. Weapons ascended down the Magic, Enchanted, Divine, and Occult paths use the second table for determining bonus damage from attributes.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7586008508534885,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5478853c-86d7-5a91-a8d7-95f4db167dc5",
+    "title": "Parameter Bonus",
+    "section": "examples",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus -  Dark Souls - mechanic - examples \n examples : +15 Club, 24 Strength, 2 hands.\nBasePhysical: 182\nStrengthScaling: 132% (A)\nStrengthRating: 76% (effectively 36 Strength because two-handing)\nBonusStrength* = *BasePhysical* × *StrengthScaling* × *StrengthRating*\nBonusStrength* = 182 × 132% × 76% ≈ 182\nPhysicalRating* = *BasePhysical* + *BonusStrength* + *BonusDexterity* + *BonusChaosPhysical*\nPhysicalRating* = 182 + 182 + 0 + 0 = **364**\nTotalAttackRating* = *PhysicalRating* + *MagicRating* + *FireRating* + *LightningRating*\nTotalAttackRating* = 364 + 0 + 0 + 0 = **364**",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "58af6f21-0e9b-5248-b0dc-74fc94003c6e",
+    "title": "Parameter Bonus",
+    "section": "scaling_for_catalysts",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "There are a few exceptions: Oolacile Ivory Catalyst and Oolacile Catalyst ignore actual Intelligence and use 99 in their calculations. With a parameter bonus of 80%, that leads a MagAdjust of 180.\n\nLogan's Catalyst uses a different range of values for its parameter bonuses. It doesn't gain any increase to its magic adjust until 26 Intelligence, where it starts to gain large amounts of magic adjust until 30 Intelligence. Its softcap is reached slightly earlier than other catalysts, occurring at 45 Intelligence. Further investment into Intelligence results in negligible amounts of extra magic adjust all the way to 99.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "595f69cf-68f7-5076-942e-78cb5d875eec",
+    "title": "Parameter Bonus",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus -  Dark Souls - mechanic - lead \n lead : The **Parameter Bonus** rating, also known as **Scaling**, is a gameplay mechanic in *Dark Souls*. It indicates the level of bonus damage one can do with a weapon, based on the associated stats. This rating can be S, A, B, C, D or E (in order from most to least bonus for the associated skill).\n\nStrength and Dexterity will increase the physical damage while Intelligence and Faith will increase the Magic, Fire, and Lightning damage.\n\nChaos weapons will scale with Humanity. This will increase all types damage.",
+    "sources": [
+      "template",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.229567746585154
+  },
+  {
+    "document_id": "6cc8a1b5-b717-5c5a-89b3-7bf358a80e6e",
+    "title": "Parameter Bonus",
+    "section": "humanity_scaling",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus -  Dark Souls - mechanic - humanity_scaling \n humanity_scaling : Humanity scaling is a unique bonus attributed Chaos weapons, Chaos Blade, Quelaag's Furysword, and Abyss Greatsword. It affects both all forms of attack of chaos weapons by providing an additional 21% attack power to each stat (equivalent to ParamBonus \"E\"). At 5 Humanity, a Chaos +5 weapon starts to overtake its Fire +10 counterpart (Chaos has higher Fire damage while Fire has higher physical damage) At 10 Humanity, a Chaos +5 weapon effectively has the same physical damage and about 16% more Fire damage than its Fire +10 counterpart\n\nHumanity scaling is a hidden stat, meaning it is not actually displayed in-game. Normally, chaos weapons will not have any magic or lightning attack power, but magic attack can be obtained on a bow ascended down the chaos path by firing Moonlight Arrows.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "854684ef-b6bd-5673-8691-264bba784c5b",
+    "title": "Parameter Bonus",
+    "section": "faith_for_talismans",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus -  Dark Souls - mechanic - faith_for_talismans \n faith_for_talismans : Like catalysts, talismans have a base MagAdjust of 100. The scaling growth for calculating a talisman Magic Adjust is different from the regular scaling. It spikes massively in the levels 15–20, then slowly grows to level 50, after which it all but stops (it takes 49 levels to get the final 10% increase). Velka's Talisman works in the same way, but using Intelligence instead of Faith.\n\nThere are a few exceptions: Thorolund Talisman ignores actual Faith and uses 99 in its calculations. With a parameter bonus of 65% that leads an eternally constant MagAdjust of 165.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8f7e0d50-bb4b-52e8-ad9a-ee8dfc85c5a1",
+    "title": "Parameter Bonus",
+    "section": "scaling_for_catalysts",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus -  Dark Souls - mechanic - scaling_for_catalysts \n scaling_for_catalysts : All catalysts have a base MagAdjust of 100, and the final value is calculated by using the same stat bonus formula (but the base value / bonus split is not shown in game as it is for ATK values). The scaling growth for calculating a catalyst's MagAdjust is different from the regular scaling. It spikes massively in the levels 15–30, then slowly grows to level 50, after which it all but stops (it takes 49 levels to get the final 10% increase). The Tin Darkmoon Catalyst functions in the same way, but scales with Faith instead of Intelligence.\n\nThere are a few exceptions: Oolacile Ivory Catalyst and Oolacile Catalyst ignore actual Intelligence and use 99 in their calculations. With a parameter bonus of 80%, that leads a MagAdjust of 180.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cedaa694-8249-5870-9780-d467709cd1b2",
+    "title": "Parameter Bonus",
+    "section": "overview",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus -  Dark Souls - mechanic - overview \n overview : Each weapon has:\nFour base attack values: physical, magic, lightning, and fire. These are the numbers shown as the weapon's stats.\nFor bow, crossbows, and greatbows, the attack power granted by the ammunition used is added to the weapon's base attack power (show as a +X value in the equipment screen next to the base damage) and is further affected by scaling.\nFive scaling values: Strength, Dexterity, Intelligence, Faith, and Humanity.\n**The only weapons with Humanity scaling are Chaos weapons, and their scaling is always 0.21.\nEach character has:\nFive ratings: Strength, Dexterity, Intelligence, Faith, and Humanity. These are not equal to the stats in question, but are derived from them (see below).\nWith these all in mind, the formulae are laid out below.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "eca30c31-2f98-5020-9c3c-ca476313ffb1",
+    "title": "Parameter Bonus",
+    "section": "examples",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "+10 Divine Dagger, 20 Strength, 40 Dexterity, 50 Faith, 1 hand.\nBasePhysical: 95\nBaseMagic: 115\nStrengthScaling: 6% (E)\nDexterityScaling: 39% (D)\nFaithScaling: 84% (B)\nStrengthRating: 27.5%\nDexterityRating: 65%\nFaithRating: 80%\nBonusStrength* = *BasePhysical* × *StrengthScaling* × *StrengthRating*\nBonusStrength* = 95 × 6% × 27.5% ≈ **1.5**\nBonusDexterity* = *BasePhysical* × *DexterityScaling* × *DexterityRating*\nBonusDexterity* = 95 × 39% × 65% ≈ **24**\nPhysicalRating* = *BasePhysical* + *BonusStrength* + *BonusDexterity* + *BonusChaosPhysical*\nPhysicalRating* = 95 + 1.5 + 24 + 0 = **120**\nBonusFaith* = *BaseMagic* × *FaithScaling* × *FaithRating*\nBonusFaith* = 115 × 84% × 80% ≈ **78**\nMagicRating* = *BaseMagic* + *BonusIntelligence* + *BonusFaith*\nMagicRating* = 115 + 0 + 78 = **193**\nTotalAttackRating* = *PhysicalRating* + *MagicRating* + *FireRating* + *LightningRating*\nTotalAttackRating* = 120 + 193 + 0 + 0 = **313**",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ecfdc508-3cf8-53f6-8b49-9e7e06c4764b",
+    "title": "Parameter Bonus",
+    "section": "formulae",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus -  Dark Souls - mechanic - formulae \n formulae : TotalAttackRating* = *PhysicalRating* + *MagicRating* + *FireRating* + *LightningRating*\n:*PhysicalRating* = *BasePhysical* + *BonusStrength* + *BonusDexterity* + *BonusChaosPhysical*\n::*BonusStrength* = *BasePhysical* × *StrengthScaling* × *StrengthRating*\n::*BonusDexterity* = *BasePhysical* × *DexterityScaling* × *DexterityRating*\n::*BonusChaosPhysical* = (*BasePhysical* + *BonusStrength* + *BonusDexterity*) × *HumanityScaling* × *HumanityRatingPhysical*\n:*MagicRating* = *BaseMagic* + *BonusIntelligence* + *BonusFaith*\n::*BonusIntelligence* = *BaseMagic* × *IntelligenceScaling* × *IntelligenceRating*\n::*BonusFaith* = *BaseMagic* × *FaithScaling* × *FaithRating*\n:*FireRating* = *BaseFire* + *BonusChaosFire*\n::*BonusChaosFire* = *BaseFire* × *HumanityScaling* × *HumanityRatingFire*\n:*LightningRating* = *BaseLightning*",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "efb61002-855f-5f3a-8d14-1874af425f3d",
+    "title": "Parameter Bonus",
+    "section": "stat_rating",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Unique to Strength is that, when using a weapon with two hands, your Strength is considered 50% greater (rounded down). For example, two-handing a standard weapon at 21 Strength (42.25%) increases your effective Strength to 31 (64.75%). As a result, if you are dedicated to two-handing weapons, your effective \"soft cap\" is not 40, but 27, because two-handing increases 27 to 40. At 40 Strength (85%), two-handing uses 60 Strength (90%), a weak improvement.\n\nHumanity scaling is nearly identical for the physical and fire portions of Chaos weapons (only varying by 2% at 7, 8, and 9 Humanity). The growth is not linear, and not strictly equivalent for the physical and fire damage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "63e48a7e-e238-5adf-a21c-2ed98e1c46e8",
+    "title": "Parameter Bonus (Dark Souls II)",
+    "section": "strength_vs_dexterity",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus (Dark Souls II) -  Dark Souls II - mechanic - strength_vs_dexterity \n strength_vs_dexterity : It has been observed that at equal rating, Strength scaling will give about twice as much benefit as Dexterity scaling; or, to see it another way, dexterity scaling is equivalent to a \"2-tier\" lower Strength scaling. For example, D scaling with 40 Strength will give as much benefit as a B scaling with 40 Dexterity.\n\nBecause of this, \"quality\" C/C weapons will gain more benefit from \"40 STR / 20 DEX\" than \"20 STR / 40 DEX\".",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7444519647371718,
+    "bm25_score": null
+  },
+  {
+    "document_id": "64c0a9b2-e2fa-585c-9ae3-d505e95cc511",
+    "title": "Parameter Bonus (Dark Souls II)",
+    "section": "soft_caps",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus (Dark Souls II) -  Dark Souls II - mechanic - soft_caps \n soft_caps : In terms of \"return on investment\" (for strength and scaling), unlike in *Dark Souls*, players get the \"best\" return on investment in the 30~40 range. The gains go something like this:\n0~30 : 100%\n30~40 : 150%\n40~50 : 50%\n50~60 : 25%\nWhere \"100%\" represents an arbitrary scale of what the player would get per point for a given rating.\n\nIn terms of scaling, it means the best gains are for \"putting all your eggs in the same basket\", with either \"40/20\" for Strength/quality or \"20/40\" for Dexterity, but never \"30/30\".",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6d9c9487-af8a-55da-a09f-29beaf7938ef",
+    "title": "Parameter Bonus (Dark Souls II)",
+    "section": "base_damage",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus (Dark Souls II) -  Dark Souls II - mechanic - base_damage \n base_damage : Unlike in *Dark Souls*, weapon scaling does not consider a weapon's base damage. The damage boost depends entirely on the stat and the parameter. This has some ramifications:\nLow damage weapons will benefit the most from scaling. In particular, weapons such as the Club will more than double its damage output. A Mundane Handmaid's Ladle can deal upward to 130 extra attack rating, when the weapon's base damage is only 10. On the other hand, weapons that deal high damage will benefit less from scaling. For example, a Giant Warrior Club will gain about +100 attack rating, when it's base attack rating is roughly 500~600.\nWeapons with low base damage but high scaling still benefit from reinforcement since scaling values also increase incrementally at each upgrade level.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7790429767565029,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c8fb3f08-9457-5c60-b86c-7a63f1b5d332",
+    "title": "Parameter Bonus (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus (Dark Souls II) -  Dark Souls II - mechanic - lead \n lead : **Parameter Bonus** (also known as **Scaling**) is a gameplay mechanic in *Dark Souls II* similar to the ones from the first game.\n\nIt is a rating ranging from \"E\" to \"S\" of how well a weapon synergizes with a specific stat. These stats include Strength, Dexterity, Magic (mainly Intelligence), Lightning (mainly Faith), Fire (mainly a combination of Intelligence and Faith) and Dark (lowest stat between Intelligence and Faith).\n\nAll the details are not completely known; in particular, how scaling works when there are multiple stats at once (such as for \"quality\" weapons).",
+    "sources": [
+      "template",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.15936982568499
+  },
+  {
+    "document_id": "43be8787-1f63-585e-b1b9-1f3e40917120",
+    "title": "Archdeacon's Great Staff",
+    "section": "upgrades",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Archdeacon's Great Staff -  Dark Souls III - weapon - upgrades \n upgrades : Reinforced with Twinkling Titanite.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "556ad214-82f1-5217-a589-fd79cd9a0066",
+    "title": "Archdeacon's Great Staff",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Archdeacon's Great Staff -  Dark Souls III - weapon - lead \n lead : The **Archdeacon's Great Staff** (大主教の大杖) is a staff in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "588c9371-c173-5198-b369-461a180b37b3",
+    "title": "Archdeacon's Great Staff",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Archdeacon's Great Staff -  Dark Souls III - weapon - description \n description : Large staff bestowed upon Archdeacons of the Cathedral of the Deep.\n\nThe Archdeacon McDonnell's trespass, the sin of channeling faith for sorcery, transformed what was once merely a symbol of ecclesiastic authority into a catalyst for sorceries.\n\nSkill: Steady Chant\nBoost the strength of sorceries for a very short period. Works while equipped in either hand.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7d2f468d-382c-5293-adaf-8b8d43417a4e",
+    "title": "Archdeacon's Great Staff",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Archdeacon's Great Staff -  Dark Souls III - weapon - availability \n availability : Obtained by reaching Rank 2 in the Aldrich Faithful covenant.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dae69064-2515-54dd-a4c4-84dc408251e0",
+    "title": "Archdeacon's Great Staff",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "It should not be confused with the Crystal Chime, which can cast Sorceries and Miracles based on leveling Intelligence and Faith equally, or the Izalith Staff, which is designed for Dark Sorceries. The Golden Ritual Spear is a hybrid weapon that can also function as a staff, and operates on the same principle as the Archdeacon's Great Staff. The Man-grub's Staff is another staff that scales off of a stat that is not Intelligence.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fd28c777-dacc-51d9-be22-58035d2ca2fb",
+    "title": "Archdeacon's Great Staff",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Archdeacon's Great Staff -  Dark Souls III - weapon - characteristics \n characteristics : Although it is a staff, the Archdeacon's Great Staff scales purely off of Faith rather than Intelligence. As such, it is designed to be used by builds with high amounts of Faith and utility amounts of Intelligence. Although this requires a high investment in levels into multiple stats, the benefit is that it allows high Faith builds to cast Sorceries with power on par with their Miracles. This allows it to be utilized on very unconventional builds, as both Lightning Stake and Great Heavy Soul Arrow can be cast on the same character to devastating effect.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "06d2b091-bb9f-52ab-ad6e-77b8d91db414",
+    "title": "Assassin (class)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Assassin Set has only moderate physical defences but has good magic and fire defences, and high overall resistances against anything that isn't Bleed.\n\nWhile the **Assassin** doesn't have any ranged attack, its Spook Sorcery is extremely useful for removing most non-fatal fall damage and for completely silencing footsteps for 20 seconds, allowing certain obstacles to be bypassed . Unfortunately, while the starting Sorcerer's Staff is a fairly good spell tool, if not exactly the best, it won't actually start to gain scaling from stats until Intelligence has reached at least 19, delaying a possible strengthening of the character's Sorceries.\n\nPicking up the Soul Arrow Sorcery from the Shrine Handmaid gives a reusable ranged attack early on, while the weapon buffing Magic Weapon Sorcery can be gained in either Undead Settlement or Road of Sacrifices to add some of a Staff's spellbuff to weapon damage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "44bf2719-6135-5d30-8047-98c3c0218242",
+    "title": "Assassin (class)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Assassin (class) -  Dark Souls III - mechanic - lead \n lead : The **Assassin** is one of the classes in *Dark Souls 3*.\n\nIt is a Dexterity-based class with decent Attunement for Weapon Arts and spells and some Intelligence for Sorceries.\n\nAn unusually long Thrusting Sword, the Estoc is also quite strong and has a rare sweeping heavy attack for hitting several or agile foes easier, at the cost of not having an increased critical modifier for Ripostes and Backstabs. Additionally, its Weapon Art, Shield Splitter, helps with its bad damage to the stamina of blocking targets by partially bypassing the defences of the block instead.\n\nIts Targeting Shield, while not very suitable for blocking, is one of the game's three parrying shields and as such its Parry starts slightly earlier yet ends as late as the regular parry.\n\nThe Assassin Set has only moderate physical defences but has good magic and fire defences, and high overall resistances against anything that isn't Bleed.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f0e3eb8b-402e-549e-abc1-e66be5b103f0",
+    "title": "Assassin (class)",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Assassin (class) -  Dark Souls III - mechanic - trivia \n trivia : This class is fairly popular amongst speedrunners thanks to Spook making it possible to easier skip foes and falls.\nWhile the Assassin doesn't have any direct equivalent class in the Dark Souls series, it does bear some resemblance to the Royalty class from FromSoftware's previous game Demon's Souls, another Dexterity/Intelligence-based class wielding a thrusting sword (in that case a Rapier) and a small shield while also providing access to a Sorcery-like spell (though in the Royalty's case it is the offensive Soul Arrow, not a self-buffing spell).",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d7c42e64-8a2f-5cab-aea6-4b27f4e07b9b",
+    "title": "Axes (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Axes (Dark Souls III) -  Dark Souls III - weapon - lead \n lead : **Axes** are a weapon type in *Dark Souls III*. Axes are known for their fairly balanced scaling in both Dexterity and Strength, although larger Axes and Greataxes have much better Strength scaling than Dexterity scaling. Their movesets primarily consist of horizontal slashes when one-handed and vertical slashes when two-handed.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0ecb0d0b-2929-5582-94ca-a81e13e4ff35",
+    "title": "Bandit (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bandit (Dark Souls II) -  Dark Souls II - mechanic - lead \n lead : The **Bandit** is one of the classes in *Dark Souls 2*.\n\nIt has high Dexterity and well above average Faith, meaning it lends itself rather well towards builds focused either on both or only the former (though it will have strong competition from the Swordsman when it comes to pure Dexterity builds). It is rather unsuitable to spells, even the Miracle ones, due to its extremely low Attunement and Intelligence.\n\nBandits are actually unable to speak to Straid of Olaphis by default, the only class that can't do that, due to its extremely low Intelligence not meeting his minimum required amount of 3.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6d305dab-09d1-587a-9f5f-12d6c40a1c3f",
+    "title": "Bandit (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "There is a curious disadvantage to its high Vitality, higher than any other starting class: when using the Third Dragon Ring, it cannot receive the full benefit of the Flynn's Ring and will get a light decrease of 4 Attack Rating compared to any other class.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7c34d451-bbc4-5251-b259-99ded4514e74",
+    "title": "Bandit (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Until an unlimited source of arrows is acquired, they are best either saved for trying to pull individual enemies from groups or ambushes, or for trying to kill one of the early Ogres (either the one outside the Firekeeper's Hut in Things Betwixt at the start of the tutorial that also holds the Stone Ring, or the Scholar of the First Sin-exclusive one on the way towards the Forest of Fallen Giants) for a large amount of extra Souls.\n\nThe class's Bandit Set is actually fairly good, as it has somewhat high physical defences and is, together with the Knight's partial Falconer Set, the only starting set with decent starting Poise.\n\nDue to its very low Adaptability and Attunement it has a substandard roll (only 7 i-frames, compared to most other classes having 8 or 9 i-frames) and needs 3 points in Adaptability or 9 points in Attunement to improve this to 8 i-frames.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "966e11a6-d84a-58be-8a47-efdf2a6c1c04",
+    "title": "Bandit (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bandits are actually unable to speak to Straid of Olaphis by default, the only class that can't do that, due to its extremely low Intelligence not meeting his minimum required amount of 3.\n\nThe starting weapons are somewhat mixed, with the Short Bow following the higher starting value in Dexterity while the Hand Axe instead focuses on Strength. The Hand Axe is most likely better replaced with an actually Dexterity-focused weapon, though those are in limited supply until Blacksmith Lenigrast's shop is opened, mostly the Dagger in Things Betwixt and the Halberd in the Forest of Fallen Giants. Beyond extra weapons such as the Spear and the Rapier, Lenigrast also holds the game's first infinite supply of ammunition (merely more Wood Arrows, but still) and another Short Bow.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e0c1eaac-f93b-5eae-90f4-2d6077f93057",
+    "title": "Bandit (Dark Souls II)",
+    "section": "starting_equipment",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bandit (Dark Souls II) -  Dark Souls II - mechanic - starting_equipment \n starting_equipment : As with all starting classes in Dark Souls 2, the Imported Set worn before the character creation can be found unequipped in the character's inventory.\nIt also starts with 10 Lifegems as an equipped consumable.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e0de46fe-5322-5155-926d-a0e8033848d8",
+    "title": "Bows (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Bows (Dark Souls III) -  Dark Souls III - weapon - lead \n lead : **Bows** are a type of weapons in *Dark Souls III*. Bows are a ranged weapon type that requires a modest investment in Strength and a moderate investment in Dexterity. Bows can be equipped in either the left or right hand weapon slots. Because the player is required to hold the bow with both hands to fire, the Strength requirement can be circumvented.\n\nAll bows have a \"zoom\" feature that allows the player to get a closer look at their aim point. It should be noted that different types of Arrows have different ranges that add to a specific bow's range. This affects the accuracy of the projectile resulting in some shots seeming inaccurate (this does not affect locked-on shots). Range can also be increased by equipping the Hawk Ring.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "99e4775d-c186-56e1-9b15-b2ed56cb8f11",
+    "title": "Carthus Milkring",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Carthus Milkring -  Dark Souls III - ring - effect \n effect : Increases Dexterity by 3 and obscures the wearer while rolling.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a1a1c3a4-15d3-504d-a6e0-1f3c2f675b38",
+    "title": "Carthus Milkring",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Carthus Milkring -  Dark Souls III - ring - lead \n lead : The **Carthus Milkring** is a ring in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b149735a-3f49-5e4a-8688-033f2b56cf09",
+    "title": "Carthus Milkring",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Carthus Milkring -  Dark Souls III - ring - availability \n availability : Found in the Catacombs of Carthus, located at the end of an alley full of ancient urns after taking the large staircase with the first Skeleton Boulder.\n\nMany of the urns surrounding the ring will release homing projectiles if broken. Additionally, a mage skeleton that throws the same type of projectiles guards the area and may break some unwanted urns with its own attacks. One of the urns is sitting on a pressure plate that will activate a trap of fire bolts if broken.\n\nTo easily claim the ring, start by disposing of the skeleton and then take a bow or any other kind of precise ranged attack. Identify the urn sitting on the pressure plate, shoot it from afar and use the nearby columns to take cover. The bolts shot by the trap will destroy most urns around the ring and all released projectiles will vanish once they hit a wall.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e6bb22af-0b75-5871-8e02-f93cbdf7431b",
+    "title": "Carthus Milkring",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Carthus Milkring -  Dark Souls III - ring - description \n description : Ring worn by warriors of the sand kingdom, Carthus.\nSlightly boosts dexterity and obscures the wearer while rolling.\n\nThe sword technique of Carthus allows for fluid movement with a curved sword. Masters of the technique are said to dazzle their opponents by moving as weightlessly as a grain of sand.\nThey live for their High Lord Wolnir, conqueror of most kingdoms known to their people.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0a68da2a-6dd5-5e21-82d8-121f62a770b2",
+    "title": "Cleric (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Cleric (Dark Souls II) -  Dark Souls II - mechanic - lead \n lead : The **Cleric** is one of the classes in *Dark Souls 2*.\n\nThe Cleric is a Faith-based starting class with decent Vigor, Attunement, and Strength, making it a good base for any Faith-focused build, such as a pure Miracles and Lightning build, or a more mixed Hexes build that wants to start with some extra healing spells. It is also a decent base for a more paladin-style build that wants to use heavy weapons but that also wants some extra healing in the beginning.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3be04fcf-04d9-5b07-a157-8c206a1df1a7",
+    "title": "Cleric (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "While this class may seem to have below average defences with only decent Poise, since all of those stats come from one piece of equipment, the Archdrake Robes, those defences can be improved greatly by adding more armor, even if that is just putting back on some pieces from the Imported Set from before the character creation. If up to buying armor pieces, the Falconer Set head, hands, and legs pieces provide a good mix of defences and Poise at a relatively low price of roughly 1,000 souls per piece. Be wary that that this will shorten the character's roll distance unless Vitality is increased, with all the extra Imported Set pieces (head, hands, and legs) increasing defence by about 45% but giving no extra poise and shortening rolls by 10%, wearing the Falconer Helm and Boots increases defence by 85% and poise by 100% at the cost of 2,100 souls and shortening rolls by 10%, and wearing the Falconer Helm, Gloves, and Boots increases defence by 110% and poise by 130% at the cost of",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5503c4f5-c89b-58cb-ae1e-0e6f0b288155",
+    "title": "Cleric (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "The Heal Miracle equipped by default is quite strong early on. While it isn't as strong as the Soul Arrow of the Sorcerer it can heavily supplement the very few starting charges of the Estus Flask, even more so if a second copy is bought of off Merchant Hag Melentia.\n\nDespite its decent Attunement and having an 8 i-frame roll, its low Adaptability means it is pretty far down in the Agility department and needs either 3 points in Adaptability or 9 points in Attunement to improve to 9 i-frames.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9bdb7ecb-c7ac-5b02-992b-dee44f33a10d",
+    "title": "Cleric (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "defence by 85% and poise by 100% at the cost of 2,100 souls and shortening rolls by 10%, and wearing the Falconer Helm, Gloves, and Boots increases defence by 110% and poise by 130% at the cost of 3,150 souls and shortening rolls by 25%.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b308e626-c1ec-51d8-9047-34d0ba483fb1",
+    "title": "Cleric (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Their Mace is actually a pretty strong weapon as its Strike damage is highly valuable and as a Hammer it has an above average Counter Strength of 120, meaning it deals extra damage on Counter Attacks. However, it does have one slight disadvantage in that it has a Strength requirement of 12 while the Cleric only starts with 11 Strength and thus needs 1 more point in the stat to deal the weapon one-handed instead of only two-handed. The Cleric's Sacred Chime is decent for the offensive, Lightning-based Miracles but is mediocre for chime-based Hexes due to its lower Dark-scaling. However, it does have good casting speed so it is a good alternative for support Miracles since it can be left unupgraded so that all the character's titanite can be used on their other equipment.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b70e2996-6923-5124-9f0b-6cc2a06f2623",
+    "title": "Cleric (Dark Souls II)",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Cleric (Dark Souls II) -  Dark Souls II - mechanic - trivia \n trivia : The class's description in combination with that of their robe would seem to indicate that a character starting with this class is from the theocracy of Lindelt.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f2238f28-efc2-527a-aec4-d39f20e94e2a",
+    "title": "Cleric (Dark Souls II)",
+    "section": "starting_equipment",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Cleric (Dark Souls II) -  Dark Souls II - mechanic - starting_equipment \n starting_equipment : As with all starting classes in Dark Souls 2, the Imported Set worn before the character creation can be found unequipped in the character's inventory.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "147a7f70-9970-55b7-a8e4-62628baa21de",
+    "title": "Cleric (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Cleric (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : The **Cleric** is one of the classes in *Dark Souls 3*.\n\nIt is a Faith-focused class, with decent Attunement, Strength, and Luck. This makes them well-suited to a Miracle-heavy build, and to using the many Lightning-attuned weapons as they are often also have good Strength-scaling.\n\nWhile it does indeed have spells, in the form of Heal (which heals) and Force (which throws enemies away from you), it does not have any that causes damage, with the earliest ones not being found until Cathedral of the Deep or Farron Keep. This means the class will have to focus primarily on weapons initially, and will do well to keep them upgraded as offensive Miracles consume a lot of Focus Points.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "212a2f74-2efb-569b-a1be-762cd56cd65d",
+    "title": "Cleric (Dark Souls III)",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Cleric (Dark Souls III) -  Dark Souls III - mechanic - trivia \n trivia : This is the only spellcasting-focused starting class in Dark Souls 3 that doesn't have a damage-boosting ring. Presumably this is because the Cleric doesn't have a damaging Miracle equipped from the start, and the Morne's Ring can instead be found in the Road of Sacrifices.\nThis class has remained remarkably similar throughout the series, always carrying a Mace and the Heal Miracle.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "33f77c45-81c2-5412-8f97-1b9578708d46",
+    "title": "Cleric (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Cleric's Sacred Chime is a fairly good casting tool and is actually the strongest casting tool for Miracles from 45 to 49 Faith. Its Spell Buff (the stat that affects how strong scaling spells are) doesn't actually increase until at least 19 Faith has been reached. Its Weapon Art is Gentle Prayer, a regenerative effect that always restores 360 hp over the course of a minute as long as the Chime is held in an active hand (so replacing it with another item stops it, as does two-handing the item in the other hand). This effect will actually outheal the Heal Miracle by up to 20% until the Chime's Spell Buff reaches 120, and even afterwards it is a strong if slow alternative due to only having about a third the cost in Focus Points.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4728a634-36cd-5056-bd02-a9c1c32bdaec",
+    "title": "Cleric (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Cleric Set is a light, caster-type armor set and as such has low physical defences and high elemental defences, while also having high Poison and Curse resistances.\n\nThe first trainer for more Miracles is found in the Undead Settlement for further development.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ed331070-d8b1-5344-8ffa-f79bdca21a97",
+    "title": "Cleric (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Mace is an unexpectedly strong weapon for what may at first seem like a spellcasting class, but in reality it is often a **Cleric's** main armament. This is because Strike damage is often the strongest physical damage type as armored and skeletal enemies are weak to it (most other physical damage types have fewer enemies weak to them), strong Strength-scaling for easy damage increases, a fairly good moveset, and has a good Weapon Art for trading hits with opponents. How the Weapon Art works is that Perseverance adds a flat 45% extra absorption and causes the attacks of light weapons to bounce off the user, while also granting great Hyper Armor to prevent being staggered.\n\nThe Blue Wooden Shield is not very good, having only decent physical and magic defence with serviceable Stability. While it does have Parry (albeit the inferior Medium Shield version), a strong Weapon Skill shield like the early Silver Eagle Kite Shield would probably serve as a better replacement.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d466392b-a341-5b7b-9b9d-713a46f6ba9a",
+    "title": "Crossbows (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Crossbows (Dark Souls III) -  Dark Souls III - weapon - lead \n lead : **Crossbows** are a type of weapon in *Dark Souls III*.\n\nCrossbows are a ranged weapon that have rather low Strength and Dexterity requirements and offer no scaling, making them ideal for builds that do not invest heavily into physical stats. Unlike bows and greatbows, crossbows can be held and fired in one hand, but require the player to reload between shots as indicated by an arrow head in the top portion of the weapon icon. This makes them ideal ranged weapons for engaging foes within lock-on range.",
+    "sources": [
+      "template",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.843050703202934
+  },
+  {
+    "document_id": "e6d23482-491e-5c41-b454-6f9a45ec53e2",
+    "title": "Crossbows (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Crossbows can be equipped in either the main hand or off hand. When two-handed, all crossbows have a \"zoom\" feature, activated by pressing the off-hand weak attack button (or block), that allows the player to manually aim their shots from a first-person point of view. It should be noted that different types of Bolts have varying ranges that add to a specific crossbow's range. This affects the accuracy of the projectile resulting in some shots seeming inaccurate (this does not affect locked-on shots). Range can also be increased by equipping the Hawk Ring.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6eb8139a-5613-526b-86c0-08a9f9764ee8",
+    "title": "Deprived (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Deprived (Dark Souls II) -  Dark Souls II - mechanic - lead \n lead : The **Deprived** is one of the classes in *Dark Souls 2*.\n\nUnlike the other classes, it doesn't start with any weapons or Lifegems and only has the unequipped Imported Set as armor. Make sure to retrieve the Dagger found in the first side path of Things Betwixt as an initial weapon, while the Morning Star in Majula can be wielded two-handed with 2 more Strength and 1 more Dexterity. A Cleric's Sacred Chime can be found near the Morning Star if wanting to use Miracles, a Shield can be gained by either buying one of Maughlin the Armorer in Majula or be found on the path to Heide's Tower of Flame, and a Sorcerer's Staff can be found behind a hidden wall in the Forest of Fallen Giants.\n\nThe low level means leveling up is slightly cheaper than for any other class, and the all-6 statline serves as a decent base for a build focused on the Mundane infusion since that scales of the lowest stat.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a6c9a462-79ca-5a81-9dba-a7b03c5dd033",
+    "title": "Deprived (Dark Souls II)",
+    "section": "starting_equipment",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Deprived (Dark Souls II) -  Dark Souls II - mechanic - starting_equipment \n starting_equipment : The Deprived does not have anything equipped upon creation, not even Lifegems. However, as with all starting classes in Dark Souls 2, the Imported Set worn before the character creation can be found unequipped in the character's inventory.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "af7a9b15-38bb-5423-a3f2-ee20f157cc16",
+    "title": "Deprived (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Its average Adaptability and Attunment means it actually starts with a decent, 8 i-frame roll.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "02a331ef-667d-533b-8f94-bf9f87a60ae3",
+    "title": "Deprived (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Deprived (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : The **Deprived** is one of the classes in *Dark Souls 3*.\n\nIt has a complete lack of focus in its stats, with all of them being 10 at the start. In combination with its low level of 1 this makes it a flexible, if non-optimal base for any build or respec the player wishes to do.\n\nThe Club is a simple yet strong weapon thanks to its quick attack speed and good strike damage. Its Weapon Art, Warcry, further increases damage by 10% for 30 seconds, and replaces the jump of its heavy attack with a flurry of blows, turning it into a stronger yet similarly niche attack. Its main disadvantage is its heavy focus on Strength-scaling as that might limit build potential a bit.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b3ccf8ca-7b5f-584e-8317-5c79fe0c003a",
+    "title": "Deprived (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Plank Shield however is pretty much useless for blocking and should be replaced as soon was possible, most likely by either the Large Leather Shield or by the Silver Eagle Kite Shield (though the latter requires an additional point in Strength to wield).\n\nIts lonely Loincloth is rather insufficient as armor, serving only to gain the flat armor bonus for having something equipped in an armor slot, and to gain a small amount of elemental defence and Poison resistance. To fill the remaining slots and gain more of an armor bonus, the Sword Master outside Firelink Shrine drops the Master's Attire and the Master's Gloves, or the Chain Set can be bought from the Shrine Handmaid for 2,300 souls total. Pieces of the Deserter Set can also be gained in High Wall of Lothric by killing Hollow Soldiers.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "02a35ece-4660-5dda-923a-1866b26e8180",
+    "title": "Dexterity (Dark Souls II)",
+    "section": "stat_development",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "|-\n| style=\"text-align:center;\" |50\n| style=\"text-align:center;\" |155\n| style=\"text-align:center;\" |15\n|-\n| style=\"text-align:center;\" |60\n| style=\"text-align:center;\" |162\n| style=\"text-align:center;\" |7\n|-\n| style=\"text-align:center;\" |70\n| style=\"text-align:center;\" |170\n| style=\"text-align:center;\" |8\n|-\n| style=\"text-align:center;\" |80\n| style=\"text-align:center;\" |185\n| style=\"text-align:center;\" |15\n|-\n| style=\"text-align:center;\" |90\n| style=\"text-align:center;\" |192\n| style=\"text-align:center;\" |7\n|-\n| style=\"border-bottom:0px; text-align:center;\" |99\n| style=\"border-bottom:0px; text-align:center;\" |200\n| style=\"border-bottom:0px; text-align:center;\" |8",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "06d353be-9091-5687-beb4-3dfa8987cc7a",
+    "title": "Dexterity (Dark Souls II)",
+    "section": "stat_development",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dexterity (Dark Souls II) -  Dark Souls II - mechanic - stat_development \n stat_development : {|class=\"article-table rounded\"\n! style=\"text-align:center;\" |Dexterity Level\n! style=\"text-align:center;\" |Total Dexterity Attack Bonus\n! style=\"text-align:center;\" |Dexterity Attack Bonus Gain\n|-\n| style=\"text-align:center;\" |1\n| style=\"text-align:center;\" |50\n| style=\"text-align:center;\" |0\n|-\n| style=\"text-align:center;\" |10\n| style=\"text-align:center;\" |57\n| style=\"text-align:center;\" |7\n|-\n| style=\"text-align:center;\" |20\n| style=\"text-align:center;\" |80\n| style=\"text-align:center;\" |23\n|-\n| style=\"text-align:center;\" |30\n| style=\"text-align:center;\" |102\n| style=\"text-align:center;\" |22\n|-\n| style=\"text-align:center;\" |40\n| style=\"text-align:center;\" |140\n| style=\"text-align:center;\" |38\n|-\n| style=\"text-align:center;\" |50\n| style=\"text-align:center;\" |155\n| style=\"text-align:center;\" |15\n|-\n| style=\"text-align:center;\" |60\n| style=\"text-align:center;\" |162",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4ab18db7-d3b6-5ea2-95cf-0e814f21904a",
+    "title": "Dexterity (Dark Souls II)",
+    "section": "general_information",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dexterity (Dark Souls II) -  Dark Souls II - mechanic - general_information \n general_information : Raising one's Dexterity value primarily increases their Dexterity Attack Bonus, the value of which is multiplied by a hidden modifier of a weapon when attacking. Raising Dexterity also boosts the player's HP and Physical Defense stat, as well as one's Poison and Bleed Bonuses slightly.\n\nFor the few weapons that do scale, the softcaps for Dexterity are **20/40/50** for the purposes of increasing physical attack. Since a majority of weapons do not scale well, it is not worth it to get to the physical damage scaling softcaps or go beyond the minimum stats to wield in these cases.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9910de4a-3333-517d-868e-faf7ee247d56",
+    "title": "Dexterity (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dexterity (Dark Souls II) -  Dark Souls II - mechanic - lead \n lead : **Dexterity** is a stat in *Dark Souls II*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "49d19716-bfa1-5d5e-bd68-9db075f5baa9",
+    "title": "Dexterity (Dark Souls III)",
+    "section": "soft_caps",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Dexterity (Dark Souls III) -  Dark Souls III - mechanic - soft_caps \n soft_caps : As of the 1.32 Regulations patch, Dexterity has two soft caps: 40 and 80.\n\nFor most normal builds, the damage return for weapon attack rating stops at 40 Dexterity. This applies to both quality builds and Dexterity-focused builds.\n\nWhen utilizing the Sharp infusion, scaling on weapons changes at high levels. Attack rating returns between 40 and 60 Dexterity are relatively poor, with most weapons only seeing an increase in 1 point of damage per level of investment. But past 60 Dexterity, scaling increases again, seeing gains of 3 to 5 damage per level up until roughly 80 Dexterity, where it will gradually fall off.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "815eab87-1b5c-58fe-85e3-107bf299776e",
+    "title": "Dexterity (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Dexterity (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : **Dexterity** is a stat in *Dark Souls III* that increases attack damage with Dexterity-based weapons.\n\nDexterity increases damage done by weapons with a scaling mechanic. A letter denoting a weapon's specific scaling properties is noted beneath the weapon's required Dexterity stat. The letters range in order of effectiveness from **E**, **D**, **C**, **B**, **A**, and **S**.\n\nWeapons with an **E** rating for scaling will receive a poor benefit from investment in Dexterity while weapons with an **S** rating receive the greatest benefit.\n\nAs is with every other stat in the game, it also has indirect bonuses such as increasing the player character's flat damage absorption. Notable among these indirect bonuses is a reduction to fall-damage with every level invested into Dexterity.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "035d4fac-e4be-5d60-b8f3-4b33de03b8e1",
+    "title": "Dexterity (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Dexterity (Dark Souls) -  Dark Souls - mechanic - lead \n lead : **Dexterity** is a stat in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "03f7b3bb-4088-5e8c-9a0e-15c1b948da19",
+    "title": "Dexterity (Dark Souls)",
+    "section": "s",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Dexterity (Dark Souls) -  Dark Souls - mechanic - s \n s : Black Bow of Pharis\nDark Silver Tracer",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "363aba6d-4a52-5016-9482-46f29907139d",
+    "title": "Dexterity (Dark Souls)",
+    "section": "d",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Dexterity (Dark Souls) -  Dark Souls - mechanic - d \n d : Barbed Straight Sword\nBattle Axe\nBroken Straight Sword\nCrescent Axe\nDarkmoon Bow\nGargoyle's Halberd\nGiant's Halberd\nGreat Lord Greatsword\nGreatsword\nHalberd\nHand Axe\nLucerne\nTitanite Catch Pole\nWarpick\nWashing Pole\nZweihander",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4647a30f-b263-56fd-8bbc-640584e280f2",
+    "title": "Dexterity (Dark Souls)",
+    "section": "weapon_scaling",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Dexterity (Dark Souls) -  Dark Souls - mechanic - weapon_scaling \n weapon_scaling : The following are weapons that scale with dexterity, and their level of scaling, when not upgraded. Weapon scaling may change when upgraded.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7361023728000193,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a9a8d89a-310a-57aa-bc3c-4bb2bbc6f9e4",
+    "title": "Dexterity (Dark Souls)",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Dexterity (Dark Souls) -  Dark Souls - mechanic - notes \n notes : Unlike Strength there is no boost to Dexterity when two handing, though players will still gain increased damage in practice when two handing due to the Motion Value modifier.\nThe highest Dexterity scaling melee weapons in the game is Painting Guardian Sword when on the Standard and Crystal upgrade paths at 109% Dexterity scaling and Dark Silver Tracer with 145% Dexterity scaling. Though don't be fooled by scaling, as Painting Guardian Sword has the better damage potential.\nThe highest Dexterity scaling weapon overall is Black Bow of Pharis on the Standard and Crystal upgrade paths with 165% Dexterity scaling.",
+    "sources": [
+      "template",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.023866209910032
+  },
+  {
+    "document_id": "cd569052-aed5-576c-bfff-39c93af0cda7",
+    "title": "Dexterity (Dark Souls)",
+    "section": "c",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Dexterity (Dark Souls) -  Dark Souls - mechanic - c \n c : Astora's Straight Sword\nBastard Sword\nCaestus\nChanneler's Trident\nClaymore\nComposite Bow\nCrystal Greatsword\nCrystal Straight Sword\nDarksword\nDemon's Spear\nDragonslayer Greatbow\nEstoc\nFlamberge\nGargoyle Tail Axe\nGreatsword of Artorias\nGreatsword of Artorias (Cursed)\nLongsword\nMail Breaker\nPartizan\nPike\nRapier\nScythe\nServer\nShortsword\nShotel\nSilver Knight Spear\nSilver Knight Straight Sword\nSpear\nStone Greatsword\nSunlight Straight Sword\nVelka's Rapier\nWinged Spear",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ce5e4c6a-2904-5615-9f64-d6f019794f7e",
+    "title": "Dexterity (Dark Souls)",
+    "section": "a",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Dexterity (Dark Souls) -  Dark Souls - mechanic - a \n a : Longbow\nPainting Guardian Sword\nPriscilla's Dagger\nShort Bow\nGold Tracer",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e1fd2edc-6e9f-5fa2-83d2-f47f3f304553",
+    "title": "Dexterity (Dark Souls)",
+    "section": "e",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Dexterity (Dark Souls) -  Dark Souls - mechanic - e \n e : Black Knight Greataxe\nBlack Knight Greatsword\nBlack Knight Halberd\nBlack Knight Sword\nGolem Axe\nGravelord Sword\nGreataxe\nStraight Sword Hilt",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fb0fa91c-ceb5-5aa7-b7b1-5dbc0833d538",
+    "title": "Dexterity (Dark Souls)",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Dexterity (Dark Souls) -  Dark Souls - mechanic - general_information \n general_information : Dexterity is used to meet requirements and increase damage to weapons that scale well with Dexterity. Dexterity softcaps at **20/40/45**. You will want to stop at 20 and 40 overall for physical attack and 45 for the spell cast speed of some spells. This spell cast speed increase is generally unimportant for a PvE caster build, but worth noting if you happen to get into PvP.\n\nUnlike Strength there is no boost to Dexterity when two handing, though players will still gain increased damage in practice when two handing due to the Motion Value modifier.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fdd77dc8-7fb4-51eb-b900-d793bce998b1",
+    "title": "Dexterity (Dark Souls)",
+    "section": "b",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Dexterity (Dark Souls) -  Dark Souls - mechanic - b \n b : Balder Side Sword\nBandit's Knife\nChaos Blade\nClaw\nDagger\nDragonslayer Spear\nFalchion\nGreat Scythe\nIaito\nLifehunt Scythe\nMurakumo\nNotched Whip\nParrying Dagger\nQuelaag's Furysword\nRicard's Rapier\nScimitar\nUchigatana\nWhip",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4937d786-ccb7-5e66-92cf-2974ceeb697e",
+    "title": "Dexterity Ring",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Dexterity Ring -  Dark Souls II - ring - effect \n effect : Increases Dexterity by 5 points.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d3b00ef4-2779-5358-9d36-635b4e992b94",
+    "title": "Strength (Dark Souls)",
+    "section": "weapon_scaling",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Strength (Dark Souls) -  Dark Souls - mechanic - weapon_scaling \n weapon_scaling : The following are weapons that scale with strength, and their level of scaling, when not upgraded. Weapon scaling may change when upgraded. Diminishing returns for Strength scaling begin at 40 effective Strength.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.782369232983372,
+    "bm25_score": null
+  },
+  {
+    "document_id": "42733b78-46fe-56cb-bd49-9af680041e95",
+    "title": "Shortsword",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Shortsword -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7371929131646452,
+    "bm25_score": null
+  },
+  {
+    "document_id": "65ef4dc1-dfe8-569e-9b27-10824a874472",
+    "title": "Longsword",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Longsword -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7320505734122993,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b0f64213-951e-5f8c-a6f0-574a23c2206d",
+    "title": "Dagger",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Dagger -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7288322399472962,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cd83f08d-0491-553e-8b63-712be0d5851e",
+    "title": "Greatsword",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Greatsword -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7284954537869972,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5059cec0-9a17-50ee-951b-26c54d1325b3",
+    "title": "Grant",
+    "section": "scaling_percentages",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Grant -  Dark Souls - weapon - scaling_percentages \n scaling_percentages : ***Strength - 84%**\n***Dexterity - 0%**\n***Intelligence - 0%**\n***Faith - 116%**",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7280539241779146,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3ed82cfe-4b12-5b6e-8676-27b9df438ce6",
+    "title": "Rapier",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Rapier -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.727833318833124,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8681adb6-a8f7-5f37-8e22-5cc20a29bdc0",
+    "title": "Club",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Club -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7278049885871728,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f324cb66-d6b3-5aa0-9824-01d18fb269c5",
+    "title": "Short Bow",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Short Bow -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7273138467702244,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5c56314f-0ace-5074-acf4-eeab2a544e48",
+    "title": "Icons",
+    "section": "attack_values",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Icons -  Dark Souls - mechanic - attack_values \n attack_values : Attack values determine how much base damage a weapon causes. The actual damage inflicted can be influenced by Parameter Bonuses.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7267725470143855,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fee11e44-75ae-5f1a-92f2-4c473958442c",
+    "title": "Falchion (Dark Souls)",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Falchion (Dark Souls) -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7265890664801966,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b17c14f2-4385-563a-9fa9-7a8bccbbdc7c",
+    "title": "Zweihander",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Zweihander -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7262235457103098,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9430236d-1b61-5f8b-b24f-45f73c271708",
+    "title": "Mace",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Mace -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7261723466229724,
+    "bm25_score": null
+  },
+  {
+    "document_id": "260b32c6-1df4-505f-a08d-6a88dbf81b70",
+    "title": "Spear",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Spear -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7259611814000463,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7831e495-332c-53c3-9b23-75d9989952b7",
+    "title": "Shotel",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Shotel -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7259216661580874,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e578e212-87d3-52ef-8540-c7e087d6b51b",
+    "title": "Longbow",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Longbow -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7256528738603564,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a74a2704-b218-53a7-9301-77d2597926fa",
+    "title": "Parrying Dagger",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Parrying Dagger -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7240826473119937,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5eae8051-0f1f-5d7b-9a1d-d354d5a8052f",
+    "title": "Battle Axe",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Battle Axe -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7236178488274946,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3ad5a843-9bfc-5e36-b9b7-8ac58890d9f9",
+    "title": "Barbed Straight Sword",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Barbed Straight Sword -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7236096039966151,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f69303cf-c6a9-5b14-89fe-d8a89b8a1486",
+    "title": "Parameter Bonus (Dark Souls III)",
+    "section": "scaling_values",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus (Dark Souls III) -  Dark Souls III - mechanic - scaling_values \n scaling_values : Parameter bonuses are displayed as letters ranging from E (lowest) to S (highest). Each letter represents an approximation of how well the weapon scales with a specific stat. For example, two weapons can both have equal base damage and a C scaling in Dexterity, but deal different amounts of damage because one weapon has a \"low\" C while the other has a \"high\" C. Similarly, the same scenario but with one weapon having a B scaling, the damage difference could be negligible because the C is \"high\" and the B is \"low\", as the letters are affected by breakpoints in the exact scaling value.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7230043921352514,
+    "bm25_score": 29.81890212622132
+  },
+  {
+    "document_id": "77058745-51a6-59ce-ad0c-c29d849502d2",
+    "title": "Large Club",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Large Club -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.722872499476155,
+    "bm25_score": null
+  },
+  {
+    "document_id": "805e730b-2ae9-5336-a6c3-c8ff7b768ff5",
+    "title": "Murakumo",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Murakumo -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.7228017164021263,
+    "bm25_score": null
+  },
+  {
+    "document_id": "487f0b44-65c0-5dd7-8678-27e6725ea2c8",
+    "title": "Hand Axe",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Hand Axe -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.722665029177216,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1506080f-cd19-5db1-b13b-abd1071d809e",
+    "title": "Server",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Server -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.7223718604618382,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5cdccb29-a322-505f-8b42-cdc443055ed5",
+    "title": "Flamberge",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Flamberge -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.722055108219789,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ed00fb7d-202a-5ca7-bec2-0c9989ab1521",
+    "title": "Pickaxe",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Pickaxe -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.7209459136736149,
+    "bm25_score": null
+  },
+  {
+    "document_id": "87745f43-d867-514d-a333-580030232a6b",
+    "title": "Demon Great Machete",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Demon Great Machete -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.7204664035829534,
+    "bm25_score": null
+  },
+  {
+    "document_id": "64160057-7a2e-5fc0-96d4-1cd5cd405aad",
+    "title": "Great Club",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Great Club -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.7203604792586108,
+    "bm25_score": null
+  },
+  {
+    "document_id": "30ae5115-81b6-52aa-9037-78b036181a9d",
+    "title": "Uchigatana",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Uchigatana -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.7201657488882232,
+    "bm25_score": null
+  },
+  {
+    "document_id": "29b2609a-db28-5226-9279-219998594796",
+    "title": "Iaito",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Iaito -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.7201344579623463,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6fbc6458-1d26-5fec-87dd-7a290f5a1d49",
+    "title": "Bastard Sword",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Bastard Sword -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.7192718696106416,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2bca07b6-e2ce-53d9-9bf5-19f56df853ff",
+    "title": "Reinforced Club",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Reinforced Club -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.718985186130066,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f0f22778-d941-5390-a79a-491bd3ad1d53",
+    "title": "Darkmoon Bow",
+    "section": "scaling_percentages",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Darkmoon Bow -  Dark Souls - weapon - scaling_percentages \n scaling_percentages : ***Strength - 18%**\n***Dexterity - 32%**\n* **Intelligence - 0%**\n* **Faith - 50%**",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.7187222246474072,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bf5564d3-17da-595b-9cfb-8013f1d0b7bf",
+    "title": "Man-serpent Greatsword",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Man-serpent Greatsword -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.7180915672938306,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cf7c5ad2-4029-5bec-bcb8-b45a140ce206",
+    "title": "Lucerne",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Lucerne -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.7176342876876082,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6151446d-948a-58c6-86b6-426ecb2cfc5c",
+    "title": "Broadsword",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Broadsword -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.7175206751710016,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bedb2897-ec9d-5ca6-b8cc-de173369af2a",
+    "title": "Bandit's Knife",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Bandit's Knife -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.7174148394786812,
+    "bm25_score": null
+  },
+  {
+    "document_id": "529c4f07-732f-549d-8ba6-f0fc245c5717",
+    "title": "Blacksmith Hammer",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Blacksmith Hammer -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.717094318256739,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4327fb8d-1f12-51bb-9854-ec1551800490",
+    "title": "Sunlight Straight Sword",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Sunlight Straight Sword -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.7166434018825975,
+    "bm25_score": null
+  },
+  {
+    "document_id": "73bde362-2a28-57cf-bfe4-9dfab93a6c41",
+    "title": "Halberd",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Halberd -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.7165324831404721,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7f539c8f-8e90-553e-98de-77ddb7787612",
+    "title": "Winged Spear",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Winged Spear -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.716526755929451,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0943ece5-c43b-51c2-8a39-185ec3c2f1ae",
+    "title": "Darksword",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Darksword -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.7161518904883287,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ae25693a-052c-5e96-89f5-97fc4e473143",
+    "title": "Whip",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Whip -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.7158204161586917,
+    "bm25_score": null
+  },
+  {
+    "document_id": "86b9ff1c-6807-5efe-ab51-ea3a71bf66c0",
+    "title": "Straight Sword Hilt",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Straight Sword Hilt -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.7157203132764955,
+    "bm25_score": null
+  },
+  {
+    "document_id": "68832b6b-1c5c-5f52-a7e3-70e3c52d2a30",
+    "title": "Ricard's Rapier",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Ricard's Rapier -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.7157195838310935,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e1406448-1eab-5f39-95f3-31ec48a8b94c",
+    "title": "Faith (Dark Souls)",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Faith (Dark Souls) -  Dark Souls - mechanic - description \n description : Faith is an attribute used to meet requirements for melee weapons, Talismans, and spells; Faith softcaps are **30/50**. Similar to Intelligence, the amount of damage you deal and the amount of HP you heal from healing based Miracles will correlate with the Talisman you are using rather than your overall point investment into Faith. Faith is also a weapon modifier, increasing magical damage for unique weapons (see Weapon Scaling) any weapon upgraded down the Divine or Occult paths. Faith also serves to boost your magic defense. You will want to meet but not exceed the requirements to use spells, weapons, and Talismans.\n\nFaith also increases the lightning damage of the Dragonslayer Spear and the physical damage of the (cursed) Greatsword of Artorias.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.427314919995027
+  },
+  {
+    "document_id": "a660030b-763c-506c-9320-da1a18ca48c6",
+    "title": "Moonlight Greatsword (Dark Souls III)",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Moonlight Greatsword (Dark Souls III) -  Dark Souls III - weapon - characteristics \n characteristics : A time-honored classic returning from the previous *Souls* games, the Moonlight Greatsword is a strong weapon in the hands of a dedicated Sorcery caster.\n\nUnlike its previous iterations, *Dark Souls III*'s Moonlight Greatsword inflicts both physical and Magic damage, as well as being given scaling in Strength, albeit poorly. However, this does not change the fact that the physical scaling should be ignored, outside of meeting the minimum wielding requirements, in favor of leveling Intelligence, as the Moonlight Greatsword has been traditionally built (though as is the case with most melee weapons, it only scales effectively up to 40 in the offensive stats). The physical damage component is useful when performing criticals, as both damage types are magnified during the attack, allowing it to more easily punch through foes' flat Defenses.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.083847889321056
+  },
+  {
+    "document_id": "19342b40-2e46-59f1-8f97-6c2202b5b631",
+    "title": "Shortsword (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Shortsword (Dark Souls III) -  Dark Souls III - weapon - description \n description : Small straight sword excelling in thrusting attacks.\n\nThe shortsword is a light and easily wielded straight sword, due to its minimal attribute requirements.\n\nSkill: Stance\nWhile in stance, use normal attack to break a foe's guard from below, and strong attack to slash upwards with a forward lunge.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.86493185248747
+  },
+  {
+    "document_id": "61521ae8-bdcd-598c-bdb2-113e78c96f01",
+    "title": "Giant Warrior Club",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Giant Warrior Club -  Dark Souls II - weapon - characteristics \n characteristics : Fully upgraded, the Giant Warrior Club ties with the Malformed Skull for the weapon with the highest physical attack rating in *Dark Souls II*, reaching a maximum of 520 damage. Ultimately, the Warrior Club hits harder than the Malformed Skull, as the former has an A scaling in Strength, whereas the latter has no attribute scaling bonuses. The base damage of the Giant Warrior Club can be further increased through a Raw infusion, to reach a maximum of 598 damage, but severely lowering the Strength scaling bonus to D.\n\nThe weapon also has the highest Strength requirement in the base game to wield one-handed, at 60 Strength. However, the Smelter Hammer from the DLC is higher, at 70 Strength. It is also the second heaviest weapon by a margin of 5 units, being outweighed by the Smelter Hammer.\n\nThe Giant Warrior Club uses regular Titanite to upgrade.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.428133097686214
+  },
+  {
+    "document_id": "85100aa9-5f1c-5020-a4de-37b6a37c3a7b",
+    "title": "Strength (Dark Souls)",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Strength (Dark Souls) -  Dark Souls - mechanic - notes \n notes : Bows do not benefit from two-handing for the purposes of requirements or scaling.\nApart from extra damage due to bonus strength scaling, two-handing a weapon also changes its moveset to use two-handed moves, which tend to have higher damage modifiers at the cost of increased stamina cost and lowered attack speed, although some large weapons actually benefit from increased attack speed. This damage modifier is called Motion Value and increases damage for two handed attacks on all weapons regardless of scaling. Only Strength scaling weapons gaining increased damage via the boost to scaling and Motion Value simultaneously.\nThe weapon with the highest strength requirement, Smough's Hammer, requires 58 strength to be wielded in one hand.\nThe highest Strength scaling weapon in the game is Demon's Greataxe when on the Standard path and Crystal infused at 125% Strength scaling.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.354203515083928
+  },
+  {
+    "document_id": "6251eb7c-810a-5661-a4c1-b8bcd37a68db",
+    "title": "Smelter Hammer",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Smelter Hammer -  Dark Souls II - weapon - characteristics \n characteristics : The Smelter Hammer is the heaviest weapon available in *Dark Souls II*, outweighing the Giant Warrior Club by 5.0 units. It also has the highest Strength requirement out of all weapons in *Dark Souls II*, requiring 70 Strength to wield in one-hand; however, it can be used in a Power Stance at 99 Strength.\n\nHowever, despite its high requirements, the Smelter Hammer is capable of massive damage, due to both its high base damage and decent Strength scaling.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.325798160905116
+  },
+  {
+    "document_id": "90b5002d-7eb6-5877-b252-84291b89f628",
+    "title": "Parameter Bonus (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : The **Parameter Bonus**, also known as **Scaling**, is a mechanic in *Dark Souls III*. It indicates the level of bonus damage one can do with a weapon, based on the associated stats. In order of most to least effective, this rating can be S, A, B, C, D or E.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.13460536551502
+  },
+  {
+    "document_id": "719970bd-2136-53ba-8bb4-a10b11cb8d51",
+    "title": "Infusion",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Infusion -  Dark Souls II - mechanic - lead \n lead : For the similar mechanic in Dark Souls, see Weapon Modification. For the same mechanic in Dark Souls III, see Infusion (Dark Souls III). For the action of the player actively buffing a weapon, see Weapon Buff (Dark Souls II).*\n\n**Infusion** is a game mechanic in *Dark Souls II* that allows the player to modify damage types, scaling, and damage reduction for weapons, shields, staves, and sacred chimes.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.9941871878114
+  },
+  {
+    "document_id": "3c7c1cec-783a-517a-afd9-8019b596038d",
+    "title": "Stats (Dark Souls II)",
+    "section": "weapon_shield",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "; Weight\nWeight of the item.*\nMovement becomes sluggish if your load is too heavy.*\n\n; Required attribute: Strength\nStrength required to equip this item.*\n\n; Required attribute: Dexterity\nDexterity required to equip this item.*\n\n; Required attribute: Intelligence\nIntelligence required to equip this item.*\n\n; Required attribute: Faith\nFaith required to equip this item.*\n\n; Attribute bonus: Strength\nInfluence of strength on physical ATK.*\n\n; Attribute bonus: Dexterity\nInfluence of dexterity on physical ATK.*\n\n; Attribute bonus: Magic\nInfluence of intelligence on magic ATK.*\n\n; Attribute bonus: Fire\nInfluence of faith and intelligence on fire ATK.*\n\n; Attribute bonus: Lightning\nInfluence of faith on lightning ATK.*\n\n; Attribute bonus: Dark\nInfluence of faith and intelligence on dark ATK.*\nIt scales with the lower of these two attributes.*",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.750478783049875
+  },
+  {
+    "document_id": "1093d476-cc3c-5d06-9e5d-752fbf6f3df8",
+    "title": "Great Club (Dark Souls II)",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Great Club (Dark Souls II) -  Dark Souls II - weapon - notes \n notes : Upgrades with Titanite.\nGreat Club+10 has 420 base damage and \"A\" in Strength scaling, which makes it a very reliable weapon for Strength-oriented builds.\nThe Great Club is one of the best poise-consuming weapons in the game, especially in association with the Stone Ring. The three only weapons leading to higher poise damage are the Giant Warrior Club, the Gyrm Great Hammer and the Smelter Hammer, which Weight and Strength requirements are significantly higher.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.642819168228908
+  },
+  {
+    "document_id": "209bd3a8-8376-5a14-85da-1c44c6ba63d1",
+    "title": "Demon's Catalyst",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Demon's Catalyst -  Dark Souls - weapon - characteristics \n characteristics : The Demon's Catalyst is the second-heaviest catalyst in the game to the Manus Catalyst, which weighs one unit more. It has one of the lowest potential magic adjusts of any catalyst, being the lowest until 41 Intelligence where it surpasses the Oolacile Ivory Catalyst and Oolacile Catalyst. It trades these things for being a powerful melee weapon, dealing Fire and Thrust damage with its strong attack. The high strength and dexterity scaling will have a powerful effect on dark sorceries, as the physical damage dealt by those sorceries are boosted by those stats. Overall the Demon's Catalyst should be considered as a weapon that is effective with dark sorceries, but is not as effective with regular sorceries.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.61104962748074
+  },
+  {
+    "document_id": "97e3163d-3766-5941-b106-61e32c91a82d",
+    "title": "Claymore (Dark Souls II)",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Claymore (Dark Souls II) -  Dark Souls II - weapon - characteristics \n characteristics : The Claymore is a utilitarian greatsword with a versatile moveset, good reach, fast swing-speed, and solid damage per hit. It has relatively low strength and dexterity requirements, making it a viable option for infusions, while the C/C scaling makes it a powerful weapon for dedicated quality builds. These traits lets it fill a similar role to the Bastard Sword which performs similarly, but sacrifices the thrusting attack and some damage for lower weight and slightly lower requirements.\n\nThe main drawback of the Claymore is that many greatswords found later in the game outclass it in terms of damage. With that said, the Claymore remains a dependable weapon throughout the game, and its relatively low requirements makes it an attractive choice if one does not want to invest stats into using the more powerful elemental greatswords.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.150622405284345
+  },
+  {
+    "document_id": "4103bbea-459d-55ac-bd3f-bce82c8e7e20",
+    "title": "Great Scythe",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Great Scythe -  Dark Souls - weapon - characteristics \n characteristics : The Great Scythe deals decent damage, and its low requirements and weight make it easily accessible to most players, primarily scaling off Dexterity unlike the usual \"Quality Scaling\" of most weapons in the Halberd class. The fast and wide running attack and strong attacks make the Great Scythe a great weapon for \"dead-angling\", though this unintended mechanic has been removed in the Remastered version of the game.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.93515081328747
+  },
+  {
+    "document_id": "71d315a4-cfe8-5033-a439-cda900aa9013",
+    "title": "Weapon Types (Dark Souls II)",
+    "section": "ranged",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Weapon Types (Dark Souls II) -  Dark Souls II - weapon - ranged \n ranged : ;Bows\nBows must be held two-handed to attack, and in this stance the Block button allows manual aiming.\n\n;Greatbows\nGreatbows do far greater damage than normal bows, however they are heavier and have a slower draw speed.\n\n;Crossbows\nCrossbows do better damage than bows for a character with low strength and dexterity, but they have no strength/dexterity scaling. Unlike bows, crossbows do not need to be held in two hands; doing so merely lowers the strength requirement.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.677646889436858
+  },
+  {
+    "document_id": "945e2223-27c3-5f5e-aa42-3ac2db7640ce",
+    "title": "Weapon Types (Dark Souls III)",
+    "section": "ranged",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Weapon Types (Dark Souls III) -  Dark Souls III - weapon - ranged \n ranged : ;Bows\n\nBows must be held two-handed to attack, and in this stance the Block button allows manual aiming.\n\n;Greatbows\n\nGreatbows do far greater damage than normal bows, however they are heavier and have a slower draw speed.\n\n;Crossbows\n\nCrossbows do better damage than bows for a character with low strength and dexterity, but they have no strength/dexterity scaling. Unlike bows, crossbows do not need to be held in two hands; doing so merely lowers the strength requirement.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.677646889436858
+  },
+  {
+    "document_id": "14648da2-0663-5f3a-8ee5-06ad8573908e",
+    "title": "Scholar's Candlestick",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Scholar's Candlestick -  Dark Souls III - weapon - characteristics \n characteristics : This weapon offers unimpressive physical damage and has a high Faith requirement to wield despite not scaling with that stat; as such, it is generally considered a very poor weapon regardless of circumstances.\n\nHowever, its main characteristic is that while wielded it increases the damage dealt by any offensive Sorceries by 10%, regardless of whether they deal Magic or Dark damage, and regardless of whether or not the player meets the wielding requirements. As it stacks with other spell-boosting equipment such as Bellowing Dragoncrest Ring and Crown of Dusk, it is considered a staple off-hand tool for any dedicated Sorcerer build.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.6012036780738
+  },
+  {
+    "document_id": "97f03113-50bf-538f-aebf-56b19731e459",
+    "title": "Chaos Blade (Dark Souls III)",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Chaos Blade (Dark Souls III) -  Dark Souls III - weapon - characteristics \n characteristics : The Chaos Blade provides excellent base damage, Dexterity scaling and reach, emphasizing the natural strengths of the katana class. It provides this with modest stat requirements and a standard katana moveset. At high levels of dexterity its physical damage is only outperformed by the Frayed Blade and the buffed Bloodlust.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.59355825653907
+  },
+  {
+    "document_id": "b8d5f771-8179-52f8-9c9d-c088259a7037",
+    "title": "Infusion (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Infusion (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : **Infusion** is a gameplay mechanic in *Dark Souls III*. It is a form of weapon reinforcement. Infusing a weapon can be performed by talking with Blacksmith Andre and change the attributes of a weapon. For example, infusing a Scimitar with the Blessed infusion increases the scaling on that weapon for Faith, while reducing scaling for every other parameter.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.51336456174796
+  },
+  {
+    "document_id": "d2eeb2a5-796b-5a56-84de-c8b55f920f94",
+    "title": "Dark Pyromancy Flame",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Dark Pyromancy Flame -  Dark Souls II - weapon - characteristics \n characteristics : The Dark Pyromancy Flame possesses several attributes which the normal flame does not: it has superior scaling, durability and deals greater base Fire damage.\n\nHowever, the most interesting aspect of this flame is the fact that it scales with the level of hollowing the player has. When used in human form, the Dark Pyromancy Flame receives a damage penalty which almost nullifies its attack rating, and through this, the damage dealt by pyromancies. Inversely, dying multiple times will result in a far stronger flame, significantly boosting damage output.\n\nHollowing directly affects the standard scaling this weapon possesses, it losing 10% for each hollowing level under the standard max of 10 despite the menu implying differently.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.46831221807222
+  },
+  {
+    "document_id": "f2c5fa25-ae18-57fc-b761-4acdc2b3a3f0",
+    "title": "Ring of the Embedded",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Ring of the Embedded -  Dark Souls II - ring - effect \n effect : Increases Vigor, Endurance and Vitality by an amount that is inversely proportional to how high each attribute currently is. This means that this ring gives a smaller bonus the more points you have invested in those attributes.\nIncreases damage taken by 8.5%",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.27480221417334
+  },
+  {
+    "document_id": "b44ee007-2b55-5838-92dc-f1553cf79985",
+    "title": "Man-serpent Greatsword",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Man-serpent Greatsword -  Dark Souls - weapon - trivia \n trivia : The sword is a near-duplicate of the Meat Cleaver from *Demon's Souls,* and has similar stat requirements, though it swings far faster, and its magic damage and Dex and Faith scaling were removed.\nIn the German version, this sword is just called \"Schlangenschwert\", which literally translates to \"Snakesword.\"",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.260033155351145
+  },
+  {
+    "document_id": "75fb4508-589b-52cf-a263-fd6270a9ad16",
+    "title": "Possessed Armor Greatbow",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Possessed Armor Greatbow -  Dark Souls II - weapon - characteristics \n characteristics : The Possessed Armor Greatbow has innate Dark damage and scaling, and is the only greatbow in the game that has split-damage types; the other greatbows will require an infusion for this effect.\n\nDespite not using a stabilizing anchor, this greatbow has a similar rate of fire to that of the Dragonslayer Greatbow, although the drawing animation is similar to the Alonne Greatbow's. Essentially, this greatbow is the dexterity-oriented variant of the Dragonslayer Greatbow, as both have the same weight, durability, and maximum shot range; the only differences are the scaling and stat requirements.\n\nWhile dark greatarrows do not exist in the game, the dark damage inflicted by this greatbow carries onto other greatarrows, allowing even the Iron and Destructive Greatarrows to damage an enemy attempting to block the shot, though the damage inflicted will be low.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.088554070632405
+  },
+  {
+    "document_id": "f8e9f87f-74a5-58ef-ab64-18260fd8b36c",
+    "title": "Drakeblood Greatsword",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Drakeblood Greatsword -  Dark Souls II - weapon - trivia \n trivia : The Drakeblood Greatsword can deal every damage type, except status effects, at once by infusing it with either Fire or Dark and using a weapon buff to apply the last element. However, the damage dealt will be minimal, which means it isn't viable for any actual use.\nDespite dealing both Magic and Lightning damage, the Drakeblood Greatsword does not have an Intelligence or Faith requirement, nor does it have any scaling in said stats.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.003862189989366
+  },
+  {
+    "document_id": "66ae6080-6aa5-55c4-bbfe-26627a7ac5eb",
+    "title": "Onyx Blade",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Onyx Blade -  Dark Souls III - weapon - characteristics \n characteristics : A weapon tailor-fit for Pyromancy builds, the Onyx Blade specializes in dealing strong elemental damage.\n\nWith stat requirements that diverge greatly from those of other greatswords, this weapon can only be properly wielded by builds with high investment in Intelligence and Faith, both of which fuel its Dark damage output. As its scaling in Strength and Dexterity is rather poor, those stats are best left as low as possible, as they do not benefit the weapon.\n\nBorrowing its moveset from the Claymore, the Onyx Blade grants its wielder strong area coverage with its swings as well as thrusting attacks to give it formidable reach. In terms of length, it is the longest greatsword in the game, tied with the Wolf Knight's Greatsword. This gives it a tremendous advantage in that it can dictate the terms of a battle by preventing foes from easily approaching to attack.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.93041077339733
+  },
+  {
+    "document_id": "cda57867-8d68-565a-b12c-6a426eec1f1a",
+    "title": "Great Machete",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Great Machete -  Dark Souls II - weapon - description \n description : The Great Machete is a Reaper-type weapon. Due to the fact that its Strength scaling is superior to its Dexterity scaling, it is one of the better Reapers for Strength builds, and has lower requirements than the Bone Scythe.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.8595763574118
+  },
+  {
+    "document_id": "1f9d5284-52ff-579f-a83d-21a6d0bec6f7",
+    "title": "Karmic Justice",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Karmic Justice -  Dark Souls - spell - general_information \n general_information : Karmic Justice acts as a sort of auto-defense miracle; it unleashes a powerful shockwave in all directions once it is triggered, dealing damage and knockback to hostiles. The damage dealt by the miracle is dependent on the magic adjust of the weapon in the player's right hand, as well as if they are wearing items like the Crown of Dusk and Red Tearstone Ring. The explosion has a base magic attack power of 300, and is affected by the intelligence and faith scaling of the weapon equipped in your right hand when the explosion occurs.\n\nAll weapons have a MagAdjust stat, but it is only visible on weapons that can cast spells. Any weapon that does not have any Intelligence or Faith scaling will have a MagAdjust of 100. Weapons that have Intelligence and/or Faith scaling, such as any Divine weapon, will affect the damage of Karmic Justice.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.766332068734425
+  },
+  {
+    "document_id": "a10fc7cd-cb21-5e60-bf04-0efb1dcd6224",
+    "title": "Dark (Dark Souls II)",
+    "section": "infusion",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls II) -  Dark Souls II - mechanic - infusion \n infusion : Steady Hand McDuff can infuse most weapons with Dark through the use of a Darknight Stone. Once a weapon is infused, the Dark icon () will be displayed next to its image in the HUD.\n\nUninfused weapons imbued with Dark gain a fixed Dark Damage value (which scales with the Dark Attack Bonus), but the base physical damage is lowered by 30%, as is the base scaling. For example, if a regular weapon that deals 100 physical damage is infused with Dark, its stats switch over to 70 physical damage and 70 Dark Damage.\nWeapons with innate Dark Damage gain an additional Dark scaling and a 44% damage increase to Dark, but the base physical damage is lowered by 5%, as is the current scaling.\nArmor or shields gain additional Dark resistance while lowering other resistances.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.723901737781166
+  },
+  {
+    "document_id": "aa38aff8-234c-5a4c-bfa7-2fb53c2aff7b",
+    "title": "Longsword",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Longsword -  Dark Souls - weapon - characteristics \n characteristics : As the archetypical straight sword, the Longsword features slightly lower base damage, the same \"Quality\" scaling values as most other Straight Swords, a versatile moveset, and low stat requirements. Although it will perform admirably in any situation, its jack-of-all-trades nature means it will likely be outperformed by other Straight Swords that have higher base damage.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.664159940889288
+  },
+  {
+    "document_id": "3207a680-0994-59c1-a969-3119c18f0eb5",
+    "title": "Dark (Dark Souls III)",
+    "section": "infusion",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls III) -  Dark Souls III - mechanic - infusion \n infusion : Infusing a weapon with a Deep Gem will imbue it with Dark damage, at the expense of all stat scaling effects.\nWeapons infused with a Dark Gem inflict Dark damage while scaling with the player's Faith and Intelligence.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.637166201600955
+  },
+  {
+    "document_id": "6f1fc4eb-86b0-5168-baa9-cadff9720fdb",
+    "title": "Butcher's Knife",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Butcher's Knife -  Dark Souls II - weapon - notes \n notes : Restores 8% of damage dealt with each attack.\nUpgrades with Petrified Dragon Bone.\n+5 Butcher's Knife has 280 base damage and A Strength scaling.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.62650563915928
+  },
+  {
+    "document_id": "c906cfb5-9e3a-584e-a5ca-28595e814a8e",
+    "title": "Ivory Straight Sword",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "If the requirements of this weapon are not met, then the Ivory Straight Sword will behave differently, in that its white beam will not be manifested when swung, and the weapon itself will deal about 10~15 points of damage. In essence, if the players do not have the necessary requirements, then the Ivory Straight Sword becomes \"worse\", than the previously mentioned Handmaid's Ladle, which is already by itself considered a \"joke weapon\".",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.530207530152964
+  },
+  {
+    "document_id": "64c67ad5-ccc0-5541-9c9c-423680aaeca3",
+    "title": "Ledo's Great Hammer",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "However, when players do not activate the smash attack, the weapon will remain buffed by the stone that wraps it, giving it significantly more damage for some time before disappearing. The player can break the stones around the weapon and deal the area-of-effect blast anytime within the duration by performing a charged strong attack, making it a very versatile skill that can be used strategically.\n\nThe weapon gains a superb A scaling in Strength with enough upgrades and has no other stat requirements, making it most effective on pure strength builds.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.5199276826024
+  },
+  {
+    "document_id": "43387f10-6d7d-5933-9197-68d1d5e7b665",
+    "title": "Straight Swords (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Straight Swords (Dark Souls III) -  Dark Souls III - weapon - lead \n lead : **Straight Swords** are a type of weapon in *Dark Souls III*. They boast a variety of attacks from lunging slashes to thrusts, combined with fast attack speed, strong damage output and long reach, making them one of the strongest weapon classes in the game. Straight swords tend to have low Stat requirements, making them an excellent weapon of choice for generally any build when combined with the right infusion.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.47307698403465
+  },
+  {
+    "document_id": "81b54b79-8e08-585d-8c85-087a3a6fa787",
+    "title": "Stats (Dark Souls)",
+    "section": "performance",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Stats (Dark Souls) -  Dark Souls - mechanic - performance \n performance : ;Damage Type\nDetermines which of the enemy's physical defenses is applied, e.g. blunt defense, slash defense...\n\n; Physical Damage\nAmount of raw Physical Damage dealt. How this is decreased by an enemy's equipment depends on a weapon's damage type, which can be determined by looking at its Attack Type or observing its moveset.\nMost of the early game items deal purely physical damage.\n\n; Magic Damage\nAmount of Magic Damage dealt. Decreased by enemy's magic defense.\n\n; Fire Damage\nAmount of Fire Damage dealt.\n\n; Lightning Damage\nAmount of Lightning Damage dealt.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.44664781802128
+  },
+  {
+    "document_id": "45b553c2-2895-5aa4-94a9-1214d5e085e8",
+    "title": "Painting Guardian Sword",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Painting Guardian Sword -  Dark Souls - weapon - characteristics \n characteristics : The high DPS and swing speed of this sword is slightly offset by its short reach though it is only a tiny bit shorter than Falchion. The Painting Guardian Sword inflicts Bleed. It has the second highest Dexterity scaling of any melee weapon in the game behind Dark Silver Tracer, though PGS has superior damage potential. The Painting Guardian Sword is one of the fastest attacking weapon in the game, and is one of the best weapons for buffing with Spell Buffs or Resins.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.329315674268305
+  },
+  {
+    "document_id": "e547aced-12c3-5ed5-97e1-700d54e9afeb",
+    "title": "Parameter Bonus (Dark Souls III)",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus (Dark Souls III) -  Dark Souls III - mechanic - notes \n notes : Weapons with non-scaling elemental damage will interact with both weapon buffs and infusions.\n**For example, one can infuse a Drakeblood Greatsword with Chaos or Dark to add scaling to the pre-existing magic and lightning damage, as well as the added fire or dark damage.\n**Similarly, one can cast Blessed Weapon on a Lothric Knight Greatsword to add Faith scaling to both the physical and lightning damage of the weapon.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.309773049552476
+  },
+  {
+    "document_id": "e00874dc-1745-5789-9ea7-2130973bba7c",
+    "title": "Great Magic Weapon (Dark Souls II)",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "spell",
+    "snippet": "Great Magic Weapon (Dark Souls II) -  Dark Souls II - spell - effect \n effect : Applies a Magic buff to the weapon in the hand opposite the staff used to cast the spell. This is the intermediate sorcery weapon buff, between the Magic and Crystal variants, and as such has a moderate amount of casts, medium duration, and decent requirements. This places it in a somewhat awkward spot between the ease of acquisition and use of Magic Weapon and the power of Crystal Magic Weapon that makes it more suitable for a character with middling amounts of Intelligence, such as a character adding some decently powerful spells to their weapon usage.\n\nThe total bonus is difficult to calculate, but is roughly 20% of the sum (30 + weapon's Magic scaling * character's Magic bonus + weapon's Base damage), with a small additional damage bonus on Magic infused weapons.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.29542100212357
+  },
+  {
+    "document_id": "1254cc37-fb3d-5e05-95b2-0b1429b3ef86",
+    "title": "Strength (Dark Souls)",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Strength (Dark Souls) -  Dark Souls - mechanic - description \n description : Strength is an attribute used to meet requirements and increase damage to weapons that scale with Strength. Major softcaps are **27** when two-handing, and **40** overall. Some weapons like Great Club and Murakumo would benefit from having 28 strength instead of 27 since that is their one handed requirement.\n\nYour Strength level is given a 1.5x multiplier when two-handing your right hand weapon for the purposes of weapon scaling and requirements. Anything higher than 27 is usually unnecessary outside of reaching the requirement to one hand your weapon. This is because at 27 strength, two handing will reach the optimal scaling soft cap of 40 (27 * 1.5 = 40.5, rounded down to 40). This is why 40/40 quality builds are generally not attainable or advisable in the first NG cycle, as the 13 points invested into strength is wasteful when you can just two hand.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.260813838126904
+  },
+  {
+    "document_id": "5a548995-e3b8-5aa2-84a2-ad3fa24380f9",
+    "title": "Bandit's Knife",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Bandit's Knife -  Dark Souls - weapon - characteristics \n characteristics : The Bandit's Knife deals low damage, but makes up for it in terms of critical rate. In terms of its Critical Modifier on backstab/riposte, the Bandit's Knife is second only to the Dark Silver Tracer. Do not mistake a high Critical Modifier for dealing the most damage on crits, as weapons with high base damage and scaling will perform better. The Bandit's Knife deals Bleed at a rate of 30 per strike, and can also be Enchanted with weapon buffs.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.228671091013975
+  },
+  {
+    "document_id": "94e0e183-4b4f-53d8-b75f-cd35f29ea98b",
+    "title": "Shortsword (Dark Souls III)",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Shortsword (Dark Souls III) -  Dark Souls III - weapon - characteristics \n characteristics : The Shortsword is the second-lightest straight sword in the game, tied with the Cleric's Candlestick and beaten only by the Broken Straight Sword. Additionally, it ties with several other straight swords for having the lowest Strength wielding requirement. In exchange, it has rather short attack range and its damage output is mediocre for a weapon of its class. These combined characteristics make the Shortsword ideal for players who do not prioritize melee combat or have low investment in Vitality, but still want a reliable combat option in a pinch.\n\nThe Shortsword shares the same moveset as the Lothric Knight Sword, in particular its thrusting strong attacks. This makes the Leo Ring a handy complement.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.103173717526925
+  },
+  {
+    "document_id": "880f21b6-29a6-54ba-938f-a2721e205ed3",
+    "title": "Flamberge (Dark Souls III)",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Flamberge (Dark Souls III) -  Dark Souls III - weapon - characteristics \n characteristics : Despite having an average moveset, the Flamberge excels in its raw damage, while also being the only greatsword to inflict bleed and dealing purely Slash damage (with exception of the Stance strong attack, which deals Thrust damage).\n\nThis raw damage does have the penalty of a very poor scaling, but it is still very good, and its minimal requirements to wield it properly might make it an attractive choice for any player.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.052191459104364
+  },
+  {
+    "document_id": "624bfd87-ab22-513c-9ed5-5967779da437",
+    "title": "Light Crossbow (Dark Souls III)",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Light Crossbow (Dark Souls III) -  Dark Souls III - weapon - characteristics \n characteristics : The smallest crossbow available, the Light Crossbow is noteworthy in its ubiquity and ease of availability.\n\nWith its extremely low stat requirements and very light weight, every class in the game is capable of wielding this weapon at base Strength and Dexterity, with the majority of them being able to wield it in only one hand at those same stats. Because crossbows have no scaling, this makes the Light Crossbow useful in that it provides a form of ranged physical damage that does not require investment in physical damage stats. In particular, this is useful on builds that do not level Strength or Dexterity past nominal amounts, such as casters.\n\nWhile it is not the most fearsome weapon, the Light Crossbow's ease of use makes it a worthy tool to consider carrying for whenever situations requiring the use of ranged attacks present themselves.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.944152539828455
+  },
+  {
+    "document_id": "6d19ffb9-8791-52b9-a59b-deb440d28d1c",
+    "title": "Ivory Straight Sword",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Ivory Straight Sword -  Dark Souls II - weapon - characteristics \n characteristics : The Ivory Straight Sword is a very unusual weapon, as it is the only straight sword to deal Strike damage, and each attack consumes ten durability without the use of a Bracing Knuckle Ring. It also has the lowest stability of any weapon in the game, making it inefficient for blocking, and it is considered the second lightest weapon in the game, just behind the Handmaid's Ladle.\n\nOne of the other major drawbacks of the Ivory Straight Sword is without a doubt its requirements, as it is necessary to possess points in Dexterity, and the weapon possesses no scaling and cannot be buffed or infused, thus severely limiting its potential in combat. It can, however, be used in conjunction with Flynn's Ring and Ring of Blades, with their full effect, thus augmenting its damage a by a maximum of 100 damage.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.892734144808372
+  },
+  {
+    "document_id": "c6f57eb2-41d9-5437-a9f4-4d1dd3e2a24f",
+    "title": "Simple Gem",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Simple Gem -  Dark Souls III - item - usage \n usage : Infuses weapons with Magic damage, granting Intelligence scaling but reducing Strength and Dexterity scaling, as well as reducing base damage. Compared to the Crystal infusion, the scaling is higher in all areas, but the base damage of the weapon is lower, meaning that the weapon will do less damage overall.\n\nThe benefit of the Simple infusion is that when wielded, the weapon slowly regenerates FP at a rate of about 1 FP per 5 seconds, or 0.2 FP per second. Reinforcing it will reduce the tick interval by roughly 0.217 seconds per upgrade level. At +10 reinforcement, a Simple weapon will replenish 1 FP per 2.85 seconds, or roughly 0.35 FP per second.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.872767087764892
+  }
+]

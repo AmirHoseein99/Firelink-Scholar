@@ -1,0 +1,2150 @@
+[
+  {
+    "document_id": "03a5142d-88b8-58b9-bdb4-8745d928cd68",
+    "title": "Ashen One",
+    "section": "irithyll_and_anor_londo_dark_souls_iii_anor_londo",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - irithyll_and_anor_londo_dark_souls_iii_anor_londo \n irithyll_and_anor_londo_dark_souls_iii_anor_londo : On the surface, the Ashen One fights their way to the grand church in Irithyll where they find Pontiff Sulyvahn. Killing Sulyvahn opens the way to Anor Londo, fabled city of the gods, where Aldrich awaits. Aldrich, having lost interest in the flame and having instead turned towards the Dark, sought out Anor Londo to devour the gods themselves. He found and devoured Dark Sun Gwyndolin in Anor Londo, who had been \"stricken by illness\" and had retreated to the Anor Londo Cathedral, only to be imprisoned by the Pontiff to be fed to Aldrich. Fighting their way past the archers protecting the city, the Ashen One finds Aldrich using Gwyndolin as a puppet of sorts, and kills him, acquiring his ashes to be delivered to his throne.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5907819106340226,
+    "bm25_score": 16.863045901432436
+  },
+  {
+    "document_id": "0734792e-aff7-599c-934b-82a6257b5995",
+    "title": "Ending (Dark Souls III)",
+    "section": "availability_4",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "** If the player finds but does not kill Horace, then proceeds to tell Anri where he is, Anri will seek him out but be killed by the hollowed Horace, prematurely and voiding this ending.\nAt this point, it is best to ensure that the player has talked to Yuria of Londor at least once and exhausted her dialogue, where she will inform the player of an upcoming wedding ceremony between the Ashen One and Anri.\nTalk to Anri in the Church of Yorshka bonfire in Irithyll of the Boreal Valley. Be sure to exhaust their dialogue, receiving the \"Quiet resolve\" gesture.\n** the Old Woman of Londor, disguised as a statue in a corner of the room. It is better to avoid interacting with her entirely.\nDefeat Pontiff Sulyvahn and return to Firelink Shrine. Exhaust Yuria's dialogue to confirm that Anri awaits the player within Darkmoon Tomb.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5741440333361305,
+    "bm25_score": null
+  },
+  {
+    "document_id": "08e17fa1-32ef-518c-b32e-701d5bc0d7b0",
+    "title": "Gods",
+    "section": "old_gods_of_anor_londo",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Gods -  Dark Souls III - character - old_gods_of_anor_londo \n old_gods_of_anor_londo : Powerful beings who lived in Anor Londo and were worshipped by Humans in the time before the events of *Dark Souls*. Outside of those explicitly stated as related to Gwyn, their connections to him in blood or species are otherwise unclear.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 15.124313036053756
+  },
+  {
+    "document_id": "0ada3045-6c6d-5ba7-9c84-0df3145e1e4d",
+    "title": "Anor Londo",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - plot \n plot : Anor Londo is accessible from a yellow Resonance Ring that appears in the arena of the Iron Golem after it has been defeated. It plays an important role in gameplay, as the Lordvessel is obtained here after defeating Dragon Slayer Ornstein and Executioner Smough and reaching Gwynevere, Princess of Sunlight. Two covenants can be joined in Anor Londo.\n\nIf the player wishes to return to Sen's Fortress, they may speak to the Batwing Demon that appears where the player is placed after activating the Resonance Ring.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6543752774724415,
+    "bm25_score": 16.590577241690013
+  },
+  {
+    "document_id": "0e61cbbb-d126-5aaa-8909-a3104e41d209",
+    "title": "Royal Sorcerer Navlaan",
+    "section": "releasing_navlaan",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Royal Sorcerer Navlaan -  Dark Souls II - character - releasing_navlaan \n releasing_navlaan : {'name': 'Invasions', 'description': \"If Navlaan is released, he will invade the player in the following locations:\\nForest of Fallen Giants: At the Place Unbeknownst bonfire, after the player has defeated the Giant Lord.\\nBrightstone Cove Tseldora: At the entrance of Duke Tseldora's manor (on the bridge over the crystals).\\nThe Gutter: In the platform near to the room where the Havel's Set is found.\\nDrangleic Castle: At Nashandra's throne room.\\nAldia's Keep: In the corridor where an ogre breaks a wall for the second time, right before the Guardian Dragon's arena.\\nDragon Aerie: In the hanging bridge located between the nest of the third Guardian Dragon and the entrance to the Dragon Shrine.\"}",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5767039701344163,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0e73a97d-1ce7-5639-b30d-48ce4e61bf9a",
+    "title": "Firelink Shrine",
+    "section": "characters",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Knight Lautrec of Carim: Arrives after escaping from the church in Undead Parish. Found near the Fire Keeper's cage, he will disappear after Anastacia's death.\nGriggs of Vinheim: Teacher of sorceries who will be located near the stairs to Undead Burg after his rescue from there.\nLaurentius of the Great Swamp: Teacher of pyromancies who arrives at Firelink after being rescued in the Depths. Located between the bonfire and Kingseeker Frampt's area, he will give the player the Pyromancy Flame.\nBig Hat Logan: A teacher of advanced sorceries who arrives at Firelink after being rescued in Sen's Fortress. He can be found near Griggs.\nKingseeker Frampt: Primordial Serpent who arrives at Firelink after both Bells of Awakening have been rung. He will appear in the pool that was previously filled with water.\nDomhnall of Zena: Merchant who arrives at Firelink after both Bells of Awakening are rung, he will be found under the aqueduct leading to Undead Burg.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.723343023072015
+  },
+  {
+    "document_id": "0fa1b233-83fa-5091-aa3e-dee48defd204",
+    "title": "Anor Londo",
+    "section": "bosses",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - bosses \n bosses : Dark Sun Gwyndolin\nDragon Slayer Ornstein and Executioner Smough",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6048997333665161,
+    "bm25_score": null
+  },
+  {
+    "document_id": "137c09fa-85e6-59e4-a67e-bd2b448b2655",
+    "title": "Londor",
+    "section": "roots",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Londor -  Dark Souls III - location - roots",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.635467438470019,
+    "bm25_score": null
+  },
+  {
+    "document_id": "143332cc-5c32-57d0-8eb8-de5350d282b0",
+    "title": "New Londo Ruins",
+    "section": "characters_2",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - characters_2 \n characters_2 : Crestfallen Warrior",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6326436393197568,
+    "bm25_score": null
+  },
+  {
+    "document_id": "180da0ac-14ee-5621-bd2c-2366889d83f8",
+    "title": "Soul of a Deserted Corpse",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Soul of a Deserted Corpse -  Dark Souls III - item - lead \n lead : The **Soul of a Deserted Corpse** is a consumable soul item in *Dark Souls III*.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.874600142124677
+  },
+  {
+    "document_id": "189c7a4e-1ae2-5376-887d-bbbe18c302a6",
+    "title": "Darkmoon Blade Covenant Ring",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Darkmoon Blade Covenant Ring -  Dark Souls - ring - general_information \n general_information : The Darkmoon Blade Covenant summons the player to invade the world of a player who has killed Gwynevere, Princess of Sunlight. It works similarly to the Cat Covenant Ring, except that it teleports the player to Dark Anor Londo instead of Darkroot Garden.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.427610447471128
+  },
+  {
+    "document_id": "1aeebcf7-29cc-58cd-ae36-fa44d507c7ba",
+    "title": "Anor Londo",
+    "section": "non_respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - non_respawning \n non_respawning : Bell Gargoyles\nMimic\nTitanite Demon",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6938415628057188,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1c66686e-5b58-59c3-bc65-9c00547bd567",
+    "title": "Anor Londo (Dark Souls III)",
+    "section": "boss",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Anor Londo (Dark Souls III) -  Dark Souls III - location - boss \n boss : Aldrich, Devourer of Gods",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6516916484873911,
+    "bm25_score": null
+  },
+  {
+    "document_id": "252b014d-915f-56b6-982a-e4dd871c11d4",
+    "title": "New Londo Ruins",
+    "section": "embers",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - embers \n embers : Very Large Ember",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6052891336723183,
+    "bm25_score": null
+  },
+  {
+    "document_id": "265d6544-86c3-582f-940e-86665ba2a5b7",
+    "title": "Anor Londo",
+    "section": "keys",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - keys \n keys : Lordvessel",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7340104740404587,
+    "bm25_score": null
+  },
+  {
+    "document_id": "291f714f-5c9f-5dd5-8d2e-3f31cdff76ed",
+    "title": "Darkmoon Knightess",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Darkmoon Knightess -  Dark Souls - character - plot \n plot : The Darkmoon Knightess is one of Dark Sun Gwyndolin's loyal followers and the fire keeper of the first bonfire in Anor Londo. As with the other fire keepers, the Darkmoon Knightess can upgrade Estus Flasks using Fire Keeper Souls. Like all other fire keepers, killing the Darkmoon Knightess will cause the fire she watches over to be extinguished, although players can still warp to it after obtaining the Lordvessel.\n\nShould the player kill Gwynevere, the Darkmoon Knightess will appear directly in front of the elevator of Anor Londo to offer punishment for the deed. Should the player attack Dark Sun Gwyndolin, the Darkmoon Knightess will also become hostile and reside in her usual location, the first Anor Londo bonfire. Her armor, the Brass Set can be found in the room with the sunlight blade miracle after defeating Dark Sun Gwyndolin.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.774826935469287
+  },
+  {
+    "document_id": "2a665837-49e3-5d85-8283-2fa9b98203d9",
+    "title": "Gwynevere, Princess of Sunlight",
+    "section": "plot",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Gwynevere, Princess of Sunlight -  Dark Souls III - character - plot \n plot : Upon meeting with Gwynevere for the first time, she grants the player the Lordvessel, which enables the ability to warp between most bonfires. Gwynevere can also initiate players into the Princess's Guard covenant.\n\nKilling Gwynevere, which requires a single hit with any attack, will reveal that she is an illusion created by Gwyndolin. Gwyndolin then removes the rest of his enchantment, causing the sun to permanently set in Anor Londo. In addition, any player that darkens Anor Londo will become more susceptible to Blade of the Darkmoon invasions when human. All deaths within Anor Londo will return the player to the first Bonfire in Anor Londo by the Darkmoon Knightess, regardless of the last bonfire used. In addition, all regular enemies will vanish, except Painting Guardians, a few Silver Knights and two new hostile characters.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.52261033905336
+  },
+  {
+    "document_id": "2a9c54b0-8ba3-5fe5-a8b5-c4795ba346cf",
+    "title": "Anor Londo",
+    "section": "sorcery",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - sorcery \n sorcery : Great Magic Weapon",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6978443614025851,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2ee0d9f9-ec4c-5f60-b4ff-05d4c35569fa",
+    "title": "Anor Londo (Dark Souls III)",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Anor Londo (Dark Souls III) -  Dark Souls III - location - lore \n lore : In the Age of Fire, Anor Londo was the \"City of Gods\" where Gwyn, Lord of Sunlight once ruled. Gwynevere and Gwyndolin, the children of Gwyn, also lived here.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6147027460069376,
+    "bm25_score": 15.188292300377476
+  },
+  {
+    "document_id": "31af5d09-8011-5169-a7fd-68d7d197550a",
+    "title": "Painted World of Ariamis",
+    "section": "non_respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariamis -  Dark Souls - location - non_respawning \n non_respawning : Undead Dragon",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.579444525840427,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3287e08c-0b44-5ba4-80d4-834d38f9d79f",
+    "title": "Gods",
+    "section": "relations_of_the_gods_of_anor_londo",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Gods -  Dark Souls III - character - relations_of_the_gods_of_anor_londo \n relations_of_the_gods_of_anor_londo : These beings were part of the faith, closely related to the Old Gods of Anor Londo, or later came to become important figures in Anor Londo.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.70463784878175
+  },
+  {
+    "document_id": "33fada79-d66e-5214-98df-e1f65355a9d6",
+    "title": "Halberd",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Halberd -  Dark Souls - weapon - notes \n notes : The Crystal Halberd found in Anor Londo can be quite a boon for the area and its boss, as it starts out stronger than the Halberd +10, even without any upgrades, and will only get stronger when upgraded with Titanite Chunks. It is best used at the time that it is found, when it will be the most powerful (unless the player has obtained the Very Large Ember early).",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.821658939047289
+  },
+  {
+    "document_id": "35860123-d65c-5c5f-a568-022656d5e559",
+    "title": "Anor Londo",
+    "section": "adjacent_locations",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - adjacent_locations \n adjacent_locations : The Duke's Archives\nPainted World of Ariamis\nSen's Fortress",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6608962193894404,
+    "bm25_score": null
+  },
+  {
+    "document_id": "35b78b42-7ae0-51af-8458-30373062397c",
+    "title": "Emit Force",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Emit Force -  Dark Souls - spell - availability \n availability : Siegmeyer of Catarina gifts the player this miracle in Firelink Shrine after helping him out in Anor Londo. The player must answer \"yes\" to his question.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 15.284186887467794
+  },
+  {
+    "document_id": "35f3a1d8-867a-598f-819d-d180de47ae2b",
+    "title": "Tiny Being's Ring",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Tiny Being's Ring -  Dark Souls - ring - availability \n availability : Starting gift. Also gift from Siegmeyer of Catarina if the player defeats the Silver Knights in Anor Londo for him.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 15.229682365146706
+  },
+  {
+    "document_id": "3c0476a2-3ede-5fc1-8de6-bae19bb89d24",
+    "title": "No-man's Wharf",
+    "section": "non_respawning",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "No-man's Wharf -  Dark Souls II - location - non_respawning \n non_respawning : {'name': 'Boss', 'description': 'Flexile Sentry'}",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.593478172907506,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3c22e4ad-59f6-5f00-be64-cf3defc80f0a",
+    "title": "Small Lothric Banner",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Small Lothric Banner -  Dark Souls III - item - trivia \n trivia : The fact that the banner of Lothric's messengers summons the Batwing Demons who once served Anor Londo implies that political relations between Irithyll, the city that arose from the ashes of Anor Londo, and Lothric are very strong.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 15.08538289831334
+  },
+  {
+    "document_id": "3ddb6281-37d6-59a7-a8f7-b4b7e310cae0",
+    "title": "New Londo Ruins",
+    "section": "non_respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - non_respawning \n non_respawning : Mass of Souls\nWisp",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6261417928347013,
+    "bm25_score": null
+  },
+  {
+    "document_id": "462b786a-c588-5372-a9f3-addec643eb85",
+    "title": "Sword of Avowal",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Sword of Avowal -  Dark Souls III - item - availability \n availability : Given to the player by a Londor pilgrim outside of the Darkmoon Tomb in Irithyll of the Boreal Valley, just before reaching Anor Londo.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.98113436153942
+  },
+  {
+    "document_id": "4725fe46-f28b-50d9-a4e2-f3d767cd1ddf",
+    "title": "Anor Londo (Dark Souls III)",
+    "section": "bonfires",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Anor Londo (Dark Souls III) -  Dark Souls III - location - bonfires \n bonfires : Anor Londo is a subsection of Irithyll of the Boreal Valley and comprises the following bonfires:",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6099036429418746,
+    "bm25_score": 16.126593964325906
+  },
+  {
+    "document_id": "49861386-5ad2-5953-9441-20f78c466d4d",
+    "title": "Chameleon (Dark Souls III)",
+    "section": "anor_londo_dark_souls_iii_anor_londo",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Chameleon (Dark Souls III) -  Dark Souls III - spell - anor_londo_dark_souls_iii_anor_londo \n anor_londo_dark_souls_iii_anor_londo : Sword-holding Silver Knight statue",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5816499043045096,
+    "bm25_score": 14.781844941278411
+  },
+  {
+    "document_id": "49aa56e0-f13b-55b7-bb6c-9e7c07c73a33",
+    "title": "Timeline",
+    "section": "the_fire_fades",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "----\n\nOver the centuries, unwanted and despised creatures are eventually drawn into the Painted World of Ariamis, where they find refuge from the outside world and legends are born about this place\nPriscilla comes to consider the painting as a peaceful place and its inhabitants as kind, pledging to defend them and becoming their mistress\nThe order of the Painting Guardians continues to watch over Anor Londo's paintings for centuries and generations but ends up forgetting the reason for why they do it",
+    "sources": [
+      "human"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4a349b40-f67b-5bf0-8f77-b6c61be507a5",
+    "title": "Anor Londo",
+    "section": "miracles",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - miracles \n miracles : Darkmoon Blade\nSunlight Blade",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6623776856023593,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4ee05bd6-51ae-5537-bb25-f73b45fb78a7",
+    "title": "Anri of Astora",
+    "section": "questline",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "#Should the player leave Horace alive and then inform Anri of his location, Anri will make their way down to the lake and then die by Horace's hand, ending the questline.\n#Should the player defeat Horace and then inform Anri of his location (or inform Anri of his location and then immediately go to defeat Horace), the player will receive the Ring of the Evil Eye as a reward and Anri will move on to the next part of the questline.\n#Should the player not encounter Horace, or defeat Horace and then withhold information when talking to Anri, they will leave the Catacombs and move on to the next part of the questline once High Lord Wolnir has been defeated.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.588675694243323,
+    "bm25_score": null
+  },
+  {
+    "document_id": "53d7007e-1cbd-55c2-a293-93b6ab99bb9d",
+    "title": "Chosen Undead",
+    "section": "the_lordvessel",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Once in Anor Londo, the player makes their way into the Anor Londo cathedral, where they face Dragonslayer Ornstein, of the Four Knights of Gwyn, and Executioner Smough. The Chosen Undead triumphs over them and gains access into the chamber of Gwynevere, where they are greeted by the Princess and awarded the Lordvessel. When Frampt sees that the player had completed their quest, he declares the prophecy set in motion and that the character is indeed the incarnation of the Chosen Undead.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6121411670668307,
+    "bm25_score": 17.55596085116405
+  },
+  {
+    "document_id": "57623a1c-f0d7-5b35-9114-2f7317bf92cd",
+    "title": "New Londo Ruins",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - dark_souls \n dark_souls : {'name': 'Theories', 'description': 'The numerous female statues accompanying a child present in New Londo may represent the advent of the Dark Lord awaited by humanity, as opposed to the statues present at the Undead Burg, Undead Parish and Firelink Shrine which awaited a Chosen Undead who would have brought him back to the splendor of the Age of Fire. Unlike the statues outside the city, those in New Londo represent the child standing on their legs instead of being held in the lap of the female figure, who only accompanies them.\\nAdditionally the female figure may represent Velka, Goddess of Sin as New Londo was a city of humans whose sins and salvation were her responsibility to administer, and the same statue can be found in the Painted World of Ariamis, where multiple artifacts affiliated with Velka or considered heretical, like the potential message about the coming of the Dark Lord, can be found'}",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6501859608943834,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5940673e-c1df-5297-8c08-6c8688bfcea0",
+    "title": "Silver Knight Gauntlets",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Silver Knight Gauntlets -  Dark Souls - armor - description \n description : Gauntlets of the Silver Knights who protect Anor Londo.\n\nWhen Lord Gwyn departed to link the Fire, his knights split into two groups. The Silver Knights remained in the forsaken capital in the service of their goddess.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.467247587266574
+  },
+  {
+    "document_id": "5a526819-251f-523d-981c-d73d4113e08f",
+    "title": "New Londo Ruins",
+    "section": "keys",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - keys \n keys : Key to the Seal",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.637633229679768,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5d8fed58-7762-5358-9e90-d997f77bf6af",
+    "title": "Painted World of Ariamis",
+    "section": "entering",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariamis -  Dark Souls - location - entering \n entering : In order to access this world, the player must first pick up the Peculiar Doll located in the Northern Undead Asylum, upon the return visit later in the game. When examining the large guarded painting in Anor Londo, the player will be mysteriously pulled into the cloistered area.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 16.23507305949196
+  },
+  {
+    "document_id": "5da932e5-3124-5d3a-b15c-0257f8c7f171",
+    "title": "Berenike Knight",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "As the First Flame began to fade, countless among the ranks of the Berenike Knights became Undead and ventured to Lordran. Here they tried to make their way toward Anor Londo through the only possible access: Sen's Fortress. The knights of Berenike and Tarkus thus entered the dangerous proving ground; after decades of struggling to advance, much of the Knights ended up as Hollows, becoming a threat to the other Undead in the location. Tarkus, probably accompanied by some fellow knights, eventually reached the peak of Sen's Fortress and challenged the last trial in the form of the Iron Golem. The mighty knight in black iron armor managed to defeat the guardian of Anor Londo, gaining access to the city of the gods. However, after reaching Anor Londo, Tarkus perished at the hands of the Painting Guardians before he could reach Gwynevere and obtain the Lordvessel. The few Berenike Knights that followed him to Anor Londo ended up inside the Painted World of Ariamis.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.573851938167279,
+    "bm25_score": null
+  },
+  {
+    "document_id": "65d001a3-b02d-53ef-b52e-bd16b1a73ff2",
+    "title": "Anor Londo",
+    "section": "dark_anor_londo",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "of the Darkmoon), regardless of whether the player had killed Gwyndolin or not. Another thing to note about Dark Anor Londo is that within its bounds, the range in which a player may lock-on is decreased.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5880510664436542,
+    "bm25_score": 15.360365209819651
+  },
+  {
+    "document_id": "68eabc8d-cec5-54a2-8263-4e1b06fc969b",
+    "title": "Londor",
+    "section": "close_of_an_age_of_fire",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Londor -  Dark Souls III - location - close_of_an_age_of_fire",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6341102783846586,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6b7d74cc-e9ec-5f4d-8a98-7e683a3310fb",
+    "title": "Silver Knight Shield",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "shield",
+    "snippet": "Silver Knight Shield -  Dark Souls - shield - description \n description : Shield of the Silver Knights of Anor Londo. A flowing canal is carved deep into its face.\n\nThe Silver Knights stayed behind in Anor Londo to defend the illusory goddess, and their shields are blessed with her divine protection.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.678029030556901
+  },
+  {
+    "document_id": "6c14929b-4e9a-5cc3-a8bb-954d9c261f65",
+    "title": "Large Soul of a Deserted Corpse",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Large Soul of a Deserted Corpse -  Dark Souls III - item - lead \n lead : The **Large Soul of a Deserted Corpse** is a consumable soul item in *Dark Souls III*.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.656003325303393
+  },
+  {
+    "document_id": "6cbc9d89-f1b5-5079-8370-122861b6c88b",
+    "title": "Anor Londo",
+    "section": "dark_anor_londo",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "If the player is killed whilst in darkened Anor Londo, they are returned to the first bonfire regardless of whether they have rested there or not. Whether it is a glitch or an intended function by the developers is unconfirmed.\n\nIf the player desires to fight Dark Sun Gwyndolin via an easy return to the boss area, it is preferable to either:\nLeave Gwynevere alive so as to not make Anor Londo dark, and then fight Gwyndolin. This allows the player to respawn at the Darkmoon Tomb bonfire.\nAfter killing Gwynevere, ignore the Darkmoon Knightess (so as not to kill her in combat) to keep the first Bonfire lit so that the player may warp to the Darkmoon Tomb after death.\n\nIf the player has already darkened Anor Londo and killed the Darkmoon Knightess, the fastest method will be to run to the entrance way of The Duke's Archives (only accessible after placing the Lordvessel) and using the bonfire by the elevator to warp.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.601615060997214,
+    "bm25_score": 15.249138430151593
+  },
+  {
+    "document_id": "6ed0220d-f725-559f-9fee-4b2889f54059",
+    "title": "Ringfinger Leonhard",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ringfinger Leonhard -  Dark Souls III - character - notes \n notes : Leonhard will only wield the Crescent Moon Sword in Anor Londo, anywhere else he wields a standard Shotel.\nWhen fought at Anor Londo, Leonhard's Homing Soulmass has five orbs. Prior to Anor Londo, he will only conjure four orbs.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.18279983833914
+  },
+  {
+    "document_id": "716ed101-8b13-515e-a64f-2e02ed4f04f2",
+    "title": "Dragonslayer Arrow",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Dragonslayer Arrow -  Dark Souls - item - availability \n availability : Dropped in small quantities (1-3) by bow-wielding Silver Knights in Anor Londo.\nSold by the Giant Blacksmith for 500 souls each.\nFound along with the Dragonslayer Greatbow in Anor Londo.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.827110129568625
+  },
+  {
+    "document_id": "71b064a2-381f-56a6-96a7-732394c64b7e",
+    "title": "New Londo Ruins",
+    "section": "bosses",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - bosses \n bosses : Four Kings",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5862653751440988,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7907cf12-6669-5a10-8b97-8a4f6d06d4e4",
+    "title": "Silver Knight Armor",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Silver Knight Armor -  Dark Souls - armor - description \n description : Armor of the Silver Knights who protect Anor Londo.\n\nWhen Lord Gwyn departed to link the Fire, his knights split into two groups. The Silver Knights remained in the forsaken capital in the service of their goddess.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.467247587266574
+  },
+  {
+    "document_id": "7b2f91f8-9eb5-529c-810f-dffb2557d3f2",
+    "title": "Bell Gargoyles",
+    "section": "anor_londo_mini_bosses",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Bell Gargoyles -  Dark Souls - boss - anor_londo_mini_bosses \n anor_londo_mini_bosses : The two Gargoyles fought in Anor Londo breathe lightning rather than fire, so a lightning-resistant shield will prove beneficial. A strategy for the second gargoyle is for the player to run to the bottom of the rotating staircase before activating the lever, where the gargoyle (on a ledge above) will be unable to reach them. However, this means it must then be defeated with ranged attacks.",
+    "sources": [
+      "human",
+      "template",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 16.593263371659454
+  },
+  {
+    "document_id": "82fc02a2-bba8-5a34-aa6a-c42b5bff3760",
+    "title": "Crescent Moon Sword",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Crescent Moon Sword -  Dark Souls III - weapon - availability \n availability : Dropped by Ringfinger Leonhard, when defeated through using the Black Eye Orb in Gwynevere's chamber in Anor Londo.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.974789116297542
+  },
+  {
+    "document_id": "8bfebd66-d8b4-5b2c-b414-8aa0ce3e4623",
+    "title": "Silver Knight",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Silver Knight -  Dark Souls - enemy - general_information \n general_information : Silver Knights are a primary enemy in Anor Londo. They have high lightning resistance and their armor offers a small Curse resistance.\n\nThey wear the Silver Knight Set, use a Silver Knight Shield and wield either a Silver Knight Straight Sword, Silver Knight Spear, or Dragonslayer Greatbow. When faced at short range, the Dragonslayer Greatbowmen can switch to a sword and shield.\n\nSilver Knights are able to backstab the player.\n\nSilver Knights will still appear even if Anor Londo goes Dark, they are one of the respawnable enemies as well as the Painting Guardians.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.57958545121489
+  },
+  {
+    "document_id": "926fbeef-783e-5dc2-8683-a6f7f6e37f2a",
+    "title": "Northern Undead Asylum",
+    "section": "enemies",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Northern Undead Asylum -  Dark Souls - location - enemies \n enemies : {'name': 'Boss', 'description': 'Asylum Demon'}",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5732260011759185,
+    "bm25_score": null
+  },
+  {
+    "document_id": "948fc524-0073-52dd-b8f0-0ec0c99260ed",
+    "title": "New Londo Ruins",
+    "section": "upgrade_materials",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - upgrade_materials \n upgrade_materials : Green Titanite Shard\nTitanite Chunk ×2",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6064967890910677,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9f8ca346-e99f-50d7-90f0-832600ed4c28",
+    "title": "Anor Londo",
+    "section": "covenants",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - covenants \n covenants : Blade of the Darkmoon\nPrincess's Guard",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.591180422405776,
+    "bm25_score": 14.276257898924708
+  },
+  {
+    "document_id": "a3c372c2-334f-5b3a-b830-2c64b92103d4",
+    "title": "Batwing Demon",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Batwing Demon -  Dark Souls - enemy - notes \n notes : Batwing Demons are the means of transportation, similar to the Giant Crow, between the end of Sen's Fortress and the beginning of Anor Londo. From Sen's Fortress, after defeating the Iron Golem, interaction with the gold resonance ring that appears will prompt several demons to carry the player by the arms to the outer wall of Anor Londo. To return to Sen's Fortress from Anor Londo, one must \"talk\" to a lone demon perched on a merlon.",
+    "sources": [
+      "human",
+      "template",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 16.490759002193457
+  },
+  {
+    "document_id": "a5f79d0d-c8bd-5234-b981-2417f217eed2",
+    "title": "Deep Accursed",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "The Deep Accursed in Anor Londo is visible on the ceiling in the grand hall and will drop down when the player tries to reach the switch to open the main doors. The pillars can be used as cover. However, a safer strategy is to retreat up one of the staircases and slay it from a distance. Whilst the beast cannot reach the player, it will frequently jump into the air to reposition itself, and can cause damage if the player is too close. If the player remains out of its sight long enough, the monster may calm down again, allowing them to resume the fight with a plunging attack.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6410721434956081,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a63f4dc5-814d-5182-a6a8-7d3468e4c734",
+    "title": "New Londo Ruins",
+    "section": "souls",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "New Londo Ruins -  Dark Souls - location - souls \n souls : Fire Keeper Soul",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.598831405456208,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a963729a-313c-5ea6-94d9-c7b7f9df0849",
+    "title": "Anor Londo (Dark Souls III)",
+    "section": "adjacent_locations",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Anor Londo (Dark Souls III) -  Dark Souls III - location - adjacent_locations \n adjacent_locations : Irithyll of the Boreal Valley",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6981245565619274,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a996b44c-38dc-52ea-b4a9-dc9658adf7be",
+    "title": "Soul of Gwyndolin",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Soul of Gwyndolin -  Dark Souls - item - description \n description : Soul of Darkmoon Gwyndolin, god of the Dark Sun and guardian of deserted Anor Londo.\n\nSpecial beings have special souls.\n\nUse the soul of Gwyn's lastborn to acquire a huge amount of souls, or to create a unique weapon.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.590939280709176
+  },
+  {
+    "document_id": "b073d983-3de3-5f28-9a61-97b4e7ae64e9",
+    "title": "Anor Londo",
+    "section": "respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - respawning \n respawning : Batwing Demon\nPainting Guardian\nRoyal Sentinel\nSentinel\nSilver Knight",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6153994449640672,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b837c3fc-8f86-5f98-94f9-c34760febb5a",
+    "title": "Painted World of Ariandel",
+    "section": "non_respawning",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Painted World of Ariandel -  Dark Souls III - location - non_respawning \n non_respawning : Sir Vilhelm",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6169712426292266,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bc37b9fa-de3b-5101-a6a1-a752d965dc4f",
+    "title": "Dragon Slayer Ornstein",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "At some point after Gwyn linked the First Flame and Gwyn's firstborn son was dethroned and exiled, nearly all of the deities abandoned Anor Londo and moved to an unknown location. Ornstein seemingly remained in the forsaken city alongside Executioner Smough to guard the cathedral where Gwynevere, the Princess of Sunlight resided.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5895641147339984,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bca7de2c-5ae8-5e06-84ce-13474c318060",
+    "title": "Illusory Wall",
+    "section": "anor_londo",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Illusory Wall -  Dark Souls - mechanic - anor_londo \n anor_londo : Across the bridge on the lowest floor of the rotating staircase by the Darkmoon Tomb bonfire is a statue of Gwyn that only disperses if the player wears the Darkmoon Seance Ring or if the illusion of Gwynevere was dissolved.\nOn the same floor as the bonfire in the castle, the wall is located at the back of an unused fireplace in a room full of chests and tables.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 15.34568166699118
+  },
+  {
+    "document_id": "bd3a56a0-dd55-5d1e-ab0b-fb0785ceab33",
+    "title": "Pierce Shield",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "shield",
+    "snippet": "Pierce Shield -  Dark Souls - shield - availability \n availability : The Pierce Shield is obtained by giving Siegmeyer of Catarina three Purple Moss Clumps, when he is encountered in Blighttown. Siegmeyer will spawn in Blighttown after the player helps him in Anor Londo.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 16.244963811954175
+  },
+  {
+    "document_id": "c1f3b546-6e33-568c-8de7-8bd16a03bee9",
+    "title": "Anor Londo",
+    "section": "upgrade_materials",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - upgrade_materials \n upgrade_materials : Demon Titanite x4\nTitanite Chunk\nTwinkling Titanite",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6586495958961891,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cad61ad4-c6ff-5e43-8790-dbd47161b809",
+    "title": "Anri of Astora",
+    "section": "questline",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "After defeating the Abyss Watchers and gaining access to the Catacombs of Carthus, the player can find Anri within the area, alone and distraught from being separated from Horace. The player can help them reunite by locating Horace, and Anri will lay Prism Stones to guide Horace to their reunion. However, unbeknownst to both Anri and the Ashen One, Horace has hollowed within the Smouldering Lake and the quest can either end or continue in one of three ways, once the player has encountered Horace at Smouldering Lake and then found Anri near the rope bridge in Carthus:",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.574704924731048,
+    "bm25_score": null
+  },
+  {
+    "document_id": "caee9e5b-6ef4-55c5-9f74-ec1468e724ca",
+    "title": "Anor Londo",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - trivia \n trivia : Statues of Dragonslayer Ornstein and Executioner Smough can be seen in the early parts of the map.\nThe various paintings located in the rooms of Anor Londo are, in fact, concept arts of some enemies and NPCs of the game.\nWhen in Dark Anor Londo, the cinematics where the player is carried by the Batwing Demons are modified to show Dark Anor Londo instead of the original Anor Londo.\nDuring the cinematic where the player is transported by the Batwing Demons, a clip of the area's boss music, Dragonslayer Ornstein and Executioner Smough, is heard when the aerial view of Anor Londo is shown.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5874663062879735,
+    "bm25_score": 21.428626455039264
+  },
+  {
+    "document_id": "cba99469-60d2-5c5f-b30b-f481a0183385",
+    "title": "Key to New Londo Ruins",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Key to New Londo Ruins -  Dark Souls - item - general_information \n general_information : Opens the gate between New Londo Ruins and the Valley of Drakes. This gate can also be opened with the Master Key.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6301013099249402,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ce671786-cdf4-5832-95cd-082e17a218c4",
+    "title": "Royal Wood",
+    "section": "non_respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Royal Wood -  Dark Souls - location - non_respawning \n non_respawning : Crystal Lizard x3",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.574958557574752,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cfb9381e-ccb0-5b20-9e73-42814365bace",
+    "title": "Anor Londo",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - lead \n lead : **Anor Londo** is a location in *Dark Souls*.",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.699132997112657,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cff7990a-6391-5a23-8158-e39434dc1cf6",
+    "title": "Anor Londo (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Anor Londo (Dark Souls III) -  Dark Souls III - location - lead \n lead : **Anor Londo** is a location in *Dark Souls III*. It is a subsection of Irithyll of the Boreal Valley.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6900288008461899,
+    "bm25_score": 14.987999075281298
+  },
+  {
+    "document_id": "de3af530-c53d-5f63-8fb0-45fcc1e94b9f",
+    "title": "Anor Londo",
+    "section": "miscellaneous",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - miscellaneous \n miscellaneous : Blue Eye Orb\nGold Coin\nSilver Coin x5\nSouvenir of Reprisal\nSunlight Medal x3",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5814486561394248,
+    "bm25_score": null
+  },
+  {
+    "document_id": "de95f865-607a-5d44-89f6-b624a732038e",
+    "title": "Anor Londo (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "Anor Londo (Dark Souls III) -  Dark Souls III - location - description \n description : Unlike its Dark Souls counterpart, Anor Londo's illusionary shining sun is gone and has been replaced with the cold blue rays of the moon. The city has noticeably frozen over, as well as being severely reduced in size, with the only remaining parts of the old city being the cathedral, the rotating staircase, and the honorary tomb of Gwyn. An additional tower now stands where the entrance of the building housing the Painted World of Ariamis once stood, with an invisible walkway leading to the top. Additionally, only three of the Silver Knights remain and all Batwing Demons are gone. The cathedral has been overrun by Deacons of the Cathedral of the Deep and Writhing Rotten Flesh. The inside of the cathedral has been covered in corpses and maggots. The eastern section of the cathedral has been blocked off by debris, but the western section is still accessible and contains the body of an old blacksmith.",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6313543633733676,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e5c641ce-b299-5026-8e9d-3619007042a1",
+    "title": "Player versus Player (Dark Souls II)",
+    "section": "invasions",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Player versus Player (Dark Souls II) -  Dark Souls II - mechanic - invasions \n invasions : {'name': \"Bell Keeper's Seal\", 'description': \"Wearing the Bell Keeper's Seal will cause the player to invade as a Grey Spirit when a match is found in either Belfry Sol or Belfry Luna.\\nThe Bell Keeper Player does not have to remain in the Belfries in their own world and passively search for a match.\\nBell Keepers will gain sin if the host is killed.\\nOnce the Host or Bell Keeper wins, they will as be rewarded with 1 of the following: Titanite Chunk, Titanite Slab, Twinkling Titanite, or Petrified Dragon Bone; most commonly Titanite Chunks and also souls relative to the other player's Soul Level.\\nThis method gives the invader a timer of 10m.\"}",
+    "sources": [
+      "human",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5735958969443747,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e968f9a4-758a-5519-8eba-47aa0346a599",
+    "title": "Darkmoon Soldier (Greatsword)",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Darkmoon Soldier (Greatsword) -  Dark Souls - enemy - plot \n plot : Darkmoon Soldier Juu guards the darkened Anor Londo. He either attacks or aids the player depending on if they're in the Darkmoon Covenant, if the player is summoned to the darkened Anor Londo, he and his companion Kei will fight alongside the player. If the player has killed Gwynevere however, they will be hostile.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.51460110287435
+  },
+  {
+    "document_id": "ec7891a5-51e3-547f-89d0-7e0a6afe0138",
+    "title": "Firelink Shrine",
+    "section": "characters",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Domhnall of Zena: Merchant who arrives at Firelink after both Bells of Awakening are rung, he will be found under the aqueduct leading to Undead Burg.\nIngward: One of the three Sealers of New Londo, who arrives at Firelink once the player speaks to him following the defeat of the Four Kings.\nPatches: A former thief who renounces his life of crime and becomes a merchant when he arrives at Firelink after Gravelord Nito is defeated. He will be found in an alcove by Kingseeker Frampt.\nSiegmeyer of Catarina: Knight of Catarina who arrives at Firelink after being saved in Anor Londo.\nSieglinde of Catarina: Siegmeyer's daughter who arrives at Firelink after being rescued from the Golden Crystal Golem in The Duke's Archives.\nGiant Crow: A constant presence that acts as a means of transport between Firelink Shrine and the Undead Asylum.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.01144073332428
+  },
+  {
+    "document_id": "ec952ae9-46ca-54d7-9bf8-755c96c05f95",
+    "title": "Anor Londo",
+    "section": "dark_anor_londo",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - dark_anor_londo",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7326525652746169,
+    "bm25_score": 14.314354958869059
+  },
+  {
+    "document_id": "f6d410c4-531f-54dd-8187-9b17c425ae02",
+    "title": "Anor Londo",
+    "section": "dark_anor_londo",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "dark_anor_londo : If the player decides to attack Gwynevere, she disappears in a dying animation. If the player has not defeated Gwyndolin beforehand, he reprimands the player; Anor Londo darkens, and all Sentinels, Batwing Demons and Gargoyles (if not already defeated) disappear. The Royal Sentinels and the Silver Knight greatbowman in the main hall also disappear and are replaced by two non-respawning, hostile Darkmoon Soldiers: one with a sword and another with a greatsword. The Darkmoon Knightess awaits the player near the rotating platform. Killing her results in the first bonfire being unusable, but as with any extinguished bonfire, one may still warp to it. One important thing about Dark Anor Londo is, in human form, the player is susceptible to invasions (particularly from Blades of the Darkmoon), regardless of whether the player had killed Gwyndolin or not. Another thing to note about Dark Anor Londo is that within its bounds, the range in which a player may lock-on is",
+    "sources": [
+      "human",
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6580442688004023,
+    "bm25_score": 16.69935283635995
+  },
+  {
+    "document_id": "f88c48f1-1f28-559e-bd28-cdecfc3c8515",
+    "title": "Lord Gwyn's Firstborn",
+    "section": "identity",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Given how the firstborn only had respect for arms, it's possible that he chose to ally with the dragons, hence why the Gods would expunge him from history. It is known that the firstborn left the Sunlight Blade Miracle on Gwyn's honorary tomb in Anor Londo as a final farewell, which could only mean that Gwyn had already departed for the Kiln of the First Flame.",
+    "sources": [
+      "human",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 16.393563047732748
+  },
+  {
+    "document_id": "296ae77b-7f1a-5ff9-b018-1a121fb7d6be",
+    "title": "Anor Londo",
+    "section": "souls",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - souls \n souls : Fire Keeper Soul\nSoul of a Hero\nSoul of Gwyndolin\nSoul of Ornstein\nSoul of Smough",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3d113350-2ab5-5964-8d63-c40cb3ee2427",
+    "title": "Anor Londo",
+    "section": "bonfires",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - bonfires \n bonfires : Anor Londo - In the room with the Darkmoon Knightess Fire Keeper.\nDarkmoon Tomb - At the bottom of the spiral stairs mechanism, in front an illusory statue of Lord Gwyn, which acts as the entrance to the Blade of the Darkmoon Covenant.\nBeyond the Dragonslayer Greatbow-wielding Silver Knights, enter the Cathedral from a balcony, it will be in the room on the left and contains Solaire.\nChamber of the Princess - After the fight with Dragonslayer Ornstein and Executioner Smough.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "475fd071-5877-5ca1-85b2-f879073b1525",
+    "title": "Anor Londo",
+    "section": "weapons",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - weapons \n weapons : Black Iron Greatshield\nCrystal Halberd\nDarkmoon Talisman\nDragon Tooth\nDragonslayer Greatbow & Dragonslayer Arrow x1\nGreatsword\nHavel's Greatshield\nOccult Club",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "703c1058-1041-5cf9-9228-3e66aabc11d1",
+    "title": "Anor Londo",
+    "section": "giant_blacksmith",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - giant_blacksmith \n giant_blacksmith : The Giant Blacksmith is the only blacksmith that is able to create unique weapons from the Boss Souls gathered up to this point. To forge a unique weapon the player also needs to have the corresponding weapon upgraded to +10. The option will then be presented to use the Boss Soul to modify it into a new and far more powerful weapon.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "72f8b330-7602-5416-9c0b-7bdbf43bf682",
+    "title": "Anor Londo",
+    "section": "characters_2",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - characters_2 \n characters_2 : Darkmoon Knightess (Dark Anor Londo or if Gwyndolin was challenged)\nDarkmoon Soldier (Greatsword)\nDarkmoon Soldier (Sword)\nKnight Lautrec of Carim\nLautrec's Comrade, Sorcerer\nLautrec's Comrade, Warrior",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8b5c0a9e-6bcb-571d-a0ed-ef3ee951881f",
+    "title": "Anor Londo",
+    "section": "rings",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - rings \n rings : Darkmoon Blade Covenant Ring\nHawk Ring\nLeo Ring\nRing of Favor and Protection\nRing of the Sun's Firstborn\nRing of the Sun Princess\nTiny Being's Ring",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9a498c4b-70bd-564d-a143-8dd1197f75f4",
+    "title": "Anor Londo",
+    "section": "armor",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - armor \n armor : Black Iron Set\nBrass Set\nHavel's Set\nSet of Favor\nSilver Knight Set",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e33b38fa-d5dd-5c24-af88-8e7f676231b3",
+    "title": "Anor Londo",
+    "section": "firekeeper_s_vengeance",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - firekeeper_s_vengeance \n firekeeper_s_vengeance : If the player frees Lautrec of Carim, and allows him to live after reaching Blighttown, they will find that Anastacia of Astora, keeper of the Firelink Shrine bonfire, had been murdered. Examining her remains will grant the dingy clothing set (notable for its curse and poison resistance) and a Black Eye Orb to the player's inventory.\n\nIf the player arrives on the platform between the stairs opposite where the Silver Knight is located, the Orb will begin to resonate. It can then be used as an item to transport the player as a Spirit of Vengeance to Lautrec's realm. He will be accompanied by a mage and a pikeman. Lautrec's bodyguards only stand in the way, as he is main target, and is the only one who possesses items. Once killed, he will drop a single Humanity, a Souvenir of Reprisal, the Soul of Anastacia of Astora, and a Ring of Favor and Protection.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f03fe5ad-c3b8-518f-89a6-0a813d6266a4",
+    "title": "Anor Londo",
+    "section": "characters",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - characters \n characters : Dark Sun Gwyndolin - Can initiate players into the Blade of the Darkmoon covenant and can also be fought as an optional boss.\nDarkmoon Knightess - Fire Keeper to the first bonfire.\nGiant Blacksmith\nGwynevere, Princess of Sunlight - Can initiate players into the Princess's Guard covenant.\nSolaire of Astora - His summon sign can be found within the main cathedral; it is in the large chamber before the encounter with Ornstein and Smough.\nSiegmeyer of Catarina - Grants players the Tiny Being's Ring after helping him.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1732f7dd-d4ac-5749-81d7-d940a16e72f6",
+    "title": "Batwing Demon",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Batwing Demon -  Dark Souls - enemy - trivia \n trivia : The Batwing Demon seen at the very beginning of Anor Londo can actually be attacked. Upon attacking, it will flee much like the giant crow in Firelink Shrine. Unlike the crow however, if dealt enough damage the Batwing Demon will indeed die, though it will simply respawn upon resting at a bonfire. Additionally, the \"Talk\" option used to travel back to Sen's Fortress is still available even if the Batwing Demon has been killed.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7b4491cc-c428-5b60-9beb-e5163fd34ae3",
+    "title": "Batwing Demon",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Batwing Demon -  Dark Souls - enemy - location \n location : They are seen for the first time in Sen's Fortress but are encountered as enemies throughout Anor Londo.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "babc7a02-98e8-57ff-b8c2-4c27f77440af",
+    "title": "Batwing Demon",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Batwing Demon -  Dark Souls - enemy - description \n description : Batwing Demons are winged, imp-like creatures with tall hind legs and long arms. They wield the Demon's Spear, a Lightning based weapon, and have long tails that appear to have no use aside from balancing their body during flight.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f95f35eb-0932-59d6-a4ad-95925e322bc2",
+    "title": "Batwing Demon",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Batwing Demon -  Dark Souls - enemy - lead \n lead : **Batwing Demons** are enemies in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0fbbe65a-0fe2-5267-965c-268ab27bcac3",
+    "title": "Bell Gargoyles",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Bell Gargoyles -  Dark Souls - boss - trivia \n trivia : The Bell Gargoyles boss fight is based on the Maneaters boss fight from *Demon's Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2b81a142-baf0-5a00-a9ec-dd9a084c383f",
+    "title": "Bell Gargoyles",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Bell Gargoyles -  Dark Souls - boss - lore \n lore : Gargoyles are stone creatures created by the Gods through magic to help patrol Anor Londo or sites deemed important. In addition to their tough and hard skin, they are able to breathe fire or lightning and are armed with a bronze shield and a bronze helmet for purely decorative purposes while they use a bronze halberd as a weapon.\n\nAfter Lord Gwyn sacrificed himself to link the First Flame and prolong the Age of Fire, several Gargoyles were placed to guard the Bell of Awakening placed on the Undead Church of the Undead Burg and act as ritual challenge. The Undead who wished to follow in Gwyn's footsteps to sacrifice themselves to the Flame would have to be tested before obtaining the Lordvessel and seeking powerful souls. Ringing the Bells of Awakening represents only the first of these challenges, and success means gaining access to Sen's Fortress to be tested further.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "67ef2cdd-f426-5497-bb24-04a820e21307",
+    "title": "Bell Gargoyles",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Bell Gargoyles -  Dark Souls - boss - attacks \n attacks : {'name': 'Aerial Flame', 'description': 'Only used after the appearance of the second gargoyle, but can only be performed by the original gargoyle.'}",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7d69373a-5382-5c25-a434-79a9339398de",
+    "title": "Bell Gargoyles",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Bell Gargoyles -  Dark Souls - boss - lead \n lead : The **Bell Gargoyles** (鐘のガーゴイル) are dual bosses in *Dark Souls*.\n\nThere are four Gargoyles in the game: the first two are part of the same boss battle atop the Undead Parish, with the second only joining halfway through, while the last two are mini-bosses found in Anor Londo. None of them respawn.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8a55ea26-30c6-5377-b098-2bc47c85e7f6",
+    "title": "Bell Gargoyles",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Bell Gargoyles -  Dark Souls - boss - description \n description : They appear to be armored gargoyles wielding axes and shields with fire or lightning attacks. They have axes on their tails which they use to swing at you.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a208a7bd-2c8e-57f0-8a22-c0aaf9c3de80",
+    "title": "Bell Gargoyles",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Bell Gargoyles -  Dark Souls - boss - strategy \n strategy : In human form, it is possible to have Solaire of Astora and/or Knight Lautrec of Carim assist during this battle, although Lautrec must be freed and spoken to in Firelink Shrine first. Their summon signs are found just before the white light leading to the Gargoyles. Summoning both knights and simply mobbing each Gargoyle can lead to a quick and relatively painless victory.\n\nThe fight is beset by the constant danger of falling off (target-locking, coupled with the camera angle and narrow field of view, can make it hard to track the player character's footing) and facing off against a single gargoyle on top of the church roof. Trying to circle the gargoyle while holding up a shield is a good way to avoid its long-reaching frontal attacks. If the gargoyle takes off, move away or get ready to dodge its plunging attack.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b90e3d46-1191-5fe8-9dc9-f2a7fbe12763",
+    "title": "Bell Gargoyles",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Bell Gargoyles -  Dark Souls - boss - location \n location : On top of the church in the Undead Parish, reached by passing through the room full of hollows and a Channeler, before climbing two ladders and finally entering the fog gate. They are also found in Anor Londo as mini-bosses: Exit the first bonfire, go straight on and down the lift, and a gargoyle will be straight ahead. The second is beyond the rotating staircase-bridge.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e066ae52-b9e4-5c38-862f-d88ba0e22b1d",
+    "title": "Bell Gargoyles",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Once the first gargoyle is cut down to half its health, the second gargoyle will join the fight. Fortunately, this gargoyle is already severely injured (it arrives at half-health). It has the same attacks as the first gargoyle minus those that involve flying or using the tail.\n\nPlayers having difficulty managing their positioning against the two gargoyles should save any consumables (ex., Fire Bombs) until the first gargoyle's health is approaching 50%, and then use them to finish it off as quickly as possible. For as long as both gargoyles are alive, players should keep them both on the screen; if not feasible, one can try following audio cues to perceive an oncoming attack. The use of Gold Pine Resin and other weapon enhancements can greatly help in finishing off the first gargoyle, and make the overall fight significantly easier.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f794d941-8570-5abf-8982-49e5be7308d6",
+    "title": "Bell Gargoyles",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Both Gargoyles wield halberds and can breathe fire, although the first gargoyle usually will only breathe fire after the second one jumps down. A fire-resistant shield such as the Black Knight Shield (and, optionally, fire-resistant armor) can be very useful, as the fire breath covers a wide area. While breathing fire, the gargoyles won't move, making it the perfect opportunity to run over and hit them from behind (this makes avoiding or blocking the fire twice as important, as its stagger effect will consume precious seconds, limiting the time available to attack the gargoyles).\n\nThe first gargoyle's tail can be severed to gain a weapon (Gargoyle Tail Axe).",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "166a9d4c-1aaa-5b36-af33-bae7e64a0f7e",
+    "title": "Bells of Awakening",
+    "section": "quelaag_s_domain_bell",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Bells of Awakening -  Dark Souls - mechanic - quelaag_s_domain_bell \n quelaag_s_domain_bell : The other Bell is significantly harder to reach. The Chosen Undead must first head downward and find their way into Blighttown, a multileveled and dangerous labyrinth. At the very bottom of Blighttown, the player will traverse a poison swamp leading to a half-demon's lair known as Quelaag's Domain. It is here that the player must defeat Chaos Witch Quelaag in order to progress to the Bell of Awakening.\n\nUpon ringing the second Bell, a short cutscene plays showing the gatekeeper Giant hearing the call and pulling the chains to lift up the portcullis, bearing passage to Sen's Fortress. It is at this point that Kingseeker Frampt appears in Firelink Shrine, and instructs the player that his new task is to secure the Lordvessel, proving that the player is in fact, the Chosen Undead.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2bd8c443-de71-5933-87e5-899dc0b8e45f",
+    "title": "Bells of Awakening",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Bells of Awakening -  Dark Souls - mechanic - lead \n lead : The **Bells of Awakening** are a storyline concept, as well as two locations, in *Dark Souls*.\n\nThey are the first destinations hinted at for the Chosen Undead after they have escaped the Undead Asylum into Lordran. The two Bells are part of a prophecy devised by the Gods of Anor Londo to help bring about an Undead to link the First Flame. The two Bells are respectively located past the Bell Gargoyles atop the Undead Parish, and past Queelag past the swamp at the bottom of Blighttown. Both Bells must be rung by activating levers near them to progress, opening the way to Sen's Fortress.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "355e0a5e-d85a-5679-90a2-043d7eb80471",
+    "title": "Bells of Awakening",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Bells of Awakening -  Dark Souls - mechanic - plot \n plot : The Bells of Awakening are hinted at being the first destination of the Chosen Undead and, when rung, the fate of the undead shall be known. Upon arriving in Firelink Shrine, the Crestfallen Warrior informs the player that there are, in fact, two Bells of Awakening. One up above and one far below. This is essentially all the instruction and plot that is revealed upon arrival in Lordran.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bdfec07a-f6af-50cc-bbf4-e1291d6bad5d",
+    "title": "Bells of Awakening",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Ringing the bell in Quelaag's Domain first will have no different effect than if the player rang the [https://darksouls.fandom.com/wiki/File:Parish_bell.jpg Undead Parish Bell] first. Although this will cause Lautrec's questline to progress, leading to the death of Anastacia.\nThe Bells of Awakening were used to awaken Kingseeker Frampt and open the way to Sen's Fortress.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e4b6163d-2cc2-5ee1-a373-ed3c15e06733",
+    "title": "Bells of Awakening",
+    "section": "undead_church_bell",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Bells of Awakening -  Dark Souls - mechanic - undead_church_bell \n undead_church_bell : One of the Bells is located in the Undead Parish, up above from Firelink Shrine. After dispatching the Bell Gargoyles, the Chosen Undead is able to climb to the top of the Church Belltower and ring the Bell of Awakening.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ee995096-d504-5bc8-9046-f8a1d10912a6",
+    "title": "Bells of Awakening",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Bells of Awakening -  Dark Souls - mechanic - notes \n notes : In the Prepare to Die Edition, online players in the vicinity of the [https://darksouls.fandom.com/wiki/File:Parish_bell.jpg Undead Parish Bell] were able to hear the bell being rung from other player worlds. This wasn’t the case for the [https://darksouls.fandom.com/wiki/File:Quelaag_bell.jpg Bell in Quelaag’s Domain].\nIn the remastered version of the game, online players are now able to hear either the [https://darksouls.fandom.com/wiki/File:Parish_bell.jpg Undead Parish Bell] or the [https://darksouls.fandom.com/wiki/File:Quelaag_bell.jpg Quelaag’s domain Bell] being rung from other player worlds while exploring one area or the other . (as the [https://darksouls.fandom.com/wiki/File:Quelaag_bell.jpg Quelaag’s Bell] toll was specifically added in the remaster)",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "02b41f3a-8d61-5e4a-b9b8-8223da7bde24",
+    "title": "Black Eye Orb",
+    "section": "removed_content",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Black Eye Orb -  Dark Souls - item - removed_content \n removed_content : A Black Eye Orb was also designated for Shiva of the East originally, but was removed before the final game was released.\n\nThe cut Black Eye Orb is displayed as Black Eye Orb (Shiva) in the ingame inventory. This orb is only obtainable by modding or save editing and if used in the courtyard area of Painted World of Ariamis, you can invade Shiva as originally intended. Shiva will be accompanied by his bodyguard during the invasion event.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "340587c9-9ec5-57c0-80af-0614a4f691aa",
+    "title": "Black Eye Orb",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Black Eye Orb -  Dark Souls - item - general_information \n general_information : When in the main chamber before the fight with Dragon Slayer Ornstein and Executioner Smough, the player will receive a notification telling them that the Black Eye Orb is quivering. At this point, the player may invade Lautrec's world to combat him and his two companions, a sorcerer and warrior. If the player successfully kills Lautrec, they are awarded Anastacia's Fire Keeper Soul. Restoring it to Anastacia's cage revives her and re-ignites the Firelink Shrine bonfire. Alternately, it can be consumed for five humanity or used to upgrade Estus Flasks, just like any other Fire Keeper Soul.\n\nSimilar to the Blue Eye Orbs, the Black Eye Orb can be used if the player is in Hollow form.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "68b6049f-6a5a-5720-a489-ada74b8e4e67",
+    "title": "Black Eye Orb",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Black Eye Orb -  Dark Souls - item - lead \n lead : The **Black Eye Orb **is a summon item in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "68d3e63b-a791-5e0d-a5cf-a8b9a0aedc36",
+    "title": "Black Eye Orb",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Black Eye Orb -  Dark Souls - item - availability \n availability : Found outside Anastacia of Astora's cage in Firelink Shrine after Lautrec murders her, which triggers when either the Blighttown Fire Keeper Soul is collected by the player, or after both Bells of Awakening are rung.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6dbf4d12-180a-5b93-9d19-4ded5b1a37eb",
+    "title": "Black Eye Orb",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Black Eye Orb -  Dark Souls - item - description \n description : Mystical orb found on a Keeper's corpse. Invade the world of the murderer of a Fire Keeper, to defeat the perpetrator and reclaim the soul of the Fire Keeper.\n\nThe Black Eye keeps constant watch on the city of the Gods, Anor Londo.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c15f906f-69a6-53ae-92b1-b1aa6bb6072c",
+    "title": "Black Iron Greatshield",
+    "section": "resistance_defense",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Black Iron Greatshield -  Dark Souls - weapon - resistance_defense \n resistance_defense : Along with Physical and Elemental damage reduction, weapons also have hidden stats that reduce the amount of status build-up while blocking.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cda767d8-6fe5-59d1-b216-9b84f9c46de2",
+    "title": "Black Iron Greatshield",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Black Iron Greatshield -  Dark Souls - weapon - trivia \n trivia : The Black Iron Greatshield is the winner of the greatshield category of the EU *Dark Souls* Shield Design Contest, submitted under the name \"**Blood and Souls Shield**\". It was designed by [https://www.mobygames.com/person/494904/adam-ledzion/ Adam Ledzion], who appears in the game's credits.\n** Its insignia is the symbol of the [https://gestiguiste.net/faqs/ Gestiguiste]. They are an Aratari unit of [https://en.wikipedia.org/wiki/Dagorhir Dagorhir], a medieval/fantasy combat wargame. This could mean that its designer was part of that group.\nIts weapon type is that of a medium shield rather than a greatshield. This is most likely an error by the programmers, as the name and description imply that it's a greatshield.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cf4b6b61-0ecc-551a-bf30-d3b866580ad4",
+    "title": "Black Iron Greatshield",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Black Iron Greatshield -  Dark Souls - weapon - availability \n availability : The Black Iron Greatshield can be found on a corpse, in Anor Londo, on the bottom floor near the painting in the cathedral, guarded by a Painting Guardian (along with the Black Iron Set and Greatsword).",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "de349d8e-cb3b-52e4-baf3-aa0800308255",
+    "title": "Black Iron Greatshield",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Black Iron Greatshield -  Dark Souls - weapon - description \n description : Greatshield of the mighty knight Tarkus.\n\nBuilt of special black iron and even heavier than Knight Berenike's tower shield. Especially resistant to fire attacks and effective for shield bashing.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f2f57981-4a58-5f03-808a-ef22690a38b5",
+    "title": "Black Iron Greatshield",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Black Iron Greatshield -  Dark Souls - weapon - lead \n lead : The **Black Iron Greatshield** is a greatshield in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f9f521cc-6433-5a9e-9353-7c1529e0390c",
+    "title": "Black Iron Greatshield",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Black Iron Greatshield -  Dark Souls - weapon - characteristics \n characteristics : The Black Iron Greatshield is essentially a heavier, slightly less stable version of the Tower Shield but with the best fire defense of all the Greatshields. This shield has a heavy deflection and a standard bash attack. The crystal durability is 23.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0ecd320f-feb9-5205-a610-045c7470c230",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Gwyndolin thus continued to remain hidden in his father's empty mausoleum, administering Anor Londo from the shadows and continuing to carry out his father's will to uphold the Age of Fire, punishing sinners and leading the Undead without revealing himself. At some point, he was visited by an Undead woman. The woman entered his service as a Blade of the Darkmoon and became the sole Fire Keeper in Anor Londo, although whether she was already a Keeper or became one upon entering his service is unclear. He gifted this \"Darkmoon Knightess\" with a golden armor set to hide her own \"hideous form\", as well as his Darkmoon special talisman and Darkmoon Blade miracle. The Knightess assisted in Gwyndolin's attempt of fulfilling his father's prophecy, offering Undead who reached Anor Londo her kindled bonfire, and some guidance, first towards the illusion of Gwynevere, or, if they have already obtained the Lordvessel from the illusion, with information on Seath the Scaleless, the nearest of the",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0fc95633-af96-5b7b-93ab-b789688f10e4",
+    "title": "Dark Sun Gwyndolin",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Dark Sun Gwyndolin -  Dark Souls III - boss - notes \n notes : Gwyndolin's corridor is not infinite and has a certain length. If he is forced to the end of the corridor, he won't be able to teleport anymore and will be at the player's mercy. He will attack relentlessly, trying to defend himself, but as his attacks are mostly designed for long range battle, just circling him will make most of them miss.\nDefeating Gwyndolin grants Domhnall the ability to sell the Moonlight Set; most notably his helmet, which increases the power of all magic.\nThe Darkmoon Knightess will become hostile if Gwyndolin has been challenged, regardless of whether he was defeated or not.\n**Likewise, if Gwynevere was slain, the Darkmoon Knightess will become hostile as well, as such an act will be considered an offense against Gwyndolin.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1507f04c-d1ca-5210-ac7e-b2900eae5688",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "dark_souls_iii : {'name': \"Sulyvahn's Coup and the Downfall\", 'description': 'One day Sulyvahn, a young sorcerer, arrived in Irithyll from the Painted World and was welcomed among the inhabitants despite not being a descendant of the gods, earning Gwyndolin\\'s favor thanks to a crude replica of his magical catalyst presented to his Darkmoon Knights, demonstrating the young man\\'s talent. Eventually Sulyvahn discovered the Profaned Capital deep within the region and the Profaned Flame contained therein, an unfading flame that became the fuel and instrument of his ambitions. Armed with this new power, the young sorcerer thus climbed the ranks of Irithyll\\'s clergy, corrupting the city\\'s holy knights with the everlasting flame and transforming their soldiers into his spies and assassins, effectively enforcing his way through their highest ranks.\\n\\nAt some point Gwyndolin was \"stricken by illness\" and forced to retreat to the old cathedral of Anor Londo, entrusting his sister Yorshka",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "256aa991-b3d1-5acf-a244-b69a618cd0ba",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Dark Sun Gwyndolin -  Dark Souls III - boss - dark_souls \n dark_souls : Gwyndolin is the lastborn child of Gwyn, Lord of Sunlight and one of the deities who resided in Anor Londo during the Age of Fire, although his legitimacy as such only came from being a child of his father. He was worshipped as the \"God of the Darkmoon\" and held the title of \"God of the Dark Sun\".\n\nDespite being the son of Gwyn, Gwyndolin was born with a strong moon power, and \"weak and repulsive\" in appearance, particularly due to the snakes coiled around his lower half. Because of his darkmoon powers and his strong affinity for moon magic, as well as his lineage, Gwyndolin was raised as a female. While still young, Gwyn made him wear women's clothing and gave him a magic ring which would allow Gwyndolin to move and act in a feminine way, leading him to behave \"like a dark and fleeting goddess\".",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2657a0e7-b72a-56cb-a105-361cdc09060b",
+    "title": "Dark Sun Gwyndolin",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Cut content from *Dark Souls III* reveals that it was possible to obtain a consumed finger of Gwyndolin, presumably after defeating Aldrich, and give it to Yorshka for her to keep as a memento.\nIn *Dark Souls*, 末子 is translated to lastborn, but in *Dark Souls 3* it is instead translated to its more accurate meaning of youngest son in the Darkmoon Ring description. This can call the canonicity of lastborn into question, as the difference doesn't exist in the original JP.\nGwyndolin is a derivative of the Welsh name \"Gwendolyn\" meaning \"white ring\"\n**Among her namesakes, the legendary Queen of Britain Gwendolyn is particularly well-known, as depicted in \"*Historia Regum Britanniae*\" by Geoffrey of Monmouth, one of the oldest historiographers and authors of Arthurian Legend. Gwendolyn was renowned for her wisdom and grace in these tales.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "292f408d-f981-57c8-bc04-51d77cfd098f",
+    "title": "Dark Sun Gwyndolin",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Dark Sun Gwyndolin -  Dark Souls III - boss - location \n location : Dark Sun Gwyndolin guards the honorary tomb of Gwyn, Lord of Sunlight in Anor Londo. The tomb can be found by using the spiraling staircase on the rotating bridge while the bridge is in its lowest position and descending to the second accessible bonfire. If the player wears the Darkmoon Seance Ring in this location, Gwyn's statue will vanish and Gwyndolin's fog door will be revealed. The player can then either pledge allegiance to him and his Blades of the Darkmoon or dare to trespass the fog door behind which he dwells, thus commencing the boss battle.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3129aae1-8ca7-575c-bc2a-fd3bb92e0805",
+    "title": "Dark Sun Gwyndolin",
+    "section": "plot",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Dark Sun Gwyndolin -  Dark Souls III - boss - plot \n plot : Gwyndolin initiates players into the Blade of the Darkmoon covenant. He accepts Souvenirs of Reprisal in exchange for increasing the player's rank in the covenant.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "31a49529-e9e3-5c42-810d-d2d2edeb907a",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "deity were erected throughout the city. He was depicted with his moonlight robes and the catalyst of the country, implying that he had studied Oolacile sorcery and learned to use their catalysts. At some point, an immense arena was erected in Oolacile in which a ritual combat called the \"Battle of Stoicism\" took place. The victorious warriors were welcomed to Anor Londo. Curiously, the structure where the fighting took place was covered in those same Gwyndolin statues.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3707a6db-d595-52b0-ac82-d3be206e8654",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "her from the world and holding her hostage, unable to hear any news of her brother. Afterwards Sulyvahn took Gwyndolin himself hostage, locking him up in the old cathedral, cementing his position as Pontiff, the \"voice of god\", to reign through his figure, while also preventing unwanted foreign interventions.\\n\\nAs the First Flame began to fade Prince Lothric, who had been raised from birth to become a Lord of Cinder, refused to do so, leading the kingdom of Lothric to resurrect four dead Lords of Cinder from their graves to once again be used as fuel. Among them was Aldrich, once a cleric of Irithyll turned cannibal and saint of his own faith, who had transformed into an abysmal monstrosity due to his immeasurable hunger for humans that had made him \"worthy\" of linking the Flame. Like most of the resurrected Lords of Cinder, Aldrich had no intention of sacrificing himself anew, as he had come to believe that an \"Age of the Deep\" should come and replace the Age of Fire, motivating him",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "44f3b398-2eac-5ad7-8c6f-19218761277b",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Meanwhile Gwyndolin did not remain passive and founded the Blade of the Darkmoon covenant, welcoming into his service those knights who shouldered the duty of hunting down and punishing those who sinned against the gods, forming a corps that instilled respect for as well as fear of gods among humans. For their mission these knights were granted the Blue Eye Orbs which enabled them to invade the time and place of the sinner and mete out the vengeance of the gods. For this eternal mandate, Gwyndolin collaborated with Velka, Goddess of Sin, who determined the sin and marked the sinners on her Book of the Guilty so that one day they would face the wrath of the Blades of the Darkmoon. Gwyndolin's followers would cut off an ear from the corpse of the sinners they vanquished, bringing them to their god as proof of their task accomplished, receiving Gwyndolin's ring and talisman in return, and even learning of his miracle, creating a sword with the rays of the Darkmoon to manifest the",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4bcd898c-7ba6-594a-8304-94f2dab06de9",
+    "title": "Dark Sun Gwyndolin",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Dark Sun Gwyndolin -  Dark Souls III - boss - lead \n lead : is a character and optional boss in *Dark Souls*.\n\nFound in Anor Londo behind a statue that reveals a hidden path if the Chosen Undead is wearing the Darkmoon Seance Ring, he can be talked to, unseen, through a fog wall, acting as leader of the Blades of the Darkmoon covenant. Passing through the fog wall will turn him hostile and trigger his boss battle.\n\nVoiced by Harry Lister Smith, who also voiced Prince Lothric in *Dark Souls III*, Gwyndolin also appears as a special character *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "56a7a829-3086-527c-bd0b-a642cd0ea7af",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "After his father Gwyn linked the First Flame, his throne passed to his firstborn son who, treacherously, chose to \"ally\" with the ancient dragons, the ancient enemies of the gods, and was therefore dethroned, exiled and his name eradicated from history. Following these events, his sister Gwynevere, Princess of Sunlight abandoned Anor Londo together with nearly all of the other deities, leaving Gwyndolin as the last remaining deity in the city. Despite being the last son of the royal family of the gods, Gwyndolin was psychologically unfit to become the next ruler, still playing the feminine role imposed on him by his father Gwyn, leaving Lloyd to take advantage of the situation who proclaimed himself king of the gods, justified by his being Gwyn's uncle, and become the chief deity of the Way of White.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5894d63b-34d3-5a83-ac68-e316f7219111",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "However, the Blue Sentinels continued to exist past the falls of both Heide and Drangleic, with the dutiful Targray still standing watch at the Cathedral of Blue, and providing those worthy with Cracked Blue Eye Orbs and a lightning miracle similar to those of the Gods of Anor Londo, while in the town of Majula, which acts as an entry point and home base to new Undead in Drangleic, a crestfallen warrior, Saulden, introduced newcomers to the Way of Blue, ensuring that they received the Sentinels' assistance should they wish for it. Fittingly, Targray was guarded by an old Dragonslayer acting as a trial to would-be Sentinels as Dragon Slayer Ornstein once acted as trial for Undead in Anor Londo; this Dragonslayer donned a black version of Ornstein's armor, as well as an identical spear and ring.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "59775e86-502c-5bbd-bd9f-06bc8debc404",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "the Pontiff to reluctantly clear the way for the ruined cathedral of Anor Londo. Having finally reached his prey, Aldrich began to slowly devour Gwyndolin, who was most likely powerless to fight back, and consumed his soul, gaining access to his memories of Priscilla through his dreams.\\n\\nAn Unkindled, in their quest to bring another Lord of Cinder to their throne, found Aldrich within the now-decrepit Anor Londo Cathedral, still consuming the deity. The body of the dying god was puppeteered by Aldrich into using Gwyndolin\\'s powerful sorceries in a final battle. Once the Unkindled finally slew Aldrich, Dark Sun Gwyndolin was released from his gruesome fate, ending his torment and allowing him to pass in some semblance of peace.'}",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5fbd39e7-6872-564e-969e-c8527ac6534e",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "of the resurrected Lords of Cinder, Aldrich had no intention of sacrificing himself anew, as he had come to believe that an \"Age of the Deep\" should come and replace the Age of Fire, motivating him to try to devour the gods themselves to erode their hold on the Flame and accelerate the coming of his vision. Gathering an army of deacons from the Cathedral of the Deep, Aldrich, still hungry for flesh and now eager to devour Gods, marched on Irithyll with his followers so that he could devour Gwyndolin, the king of the Gods. He found his way blocked by Sulyvahn and his knights, as the Pontiff had no intention of relinquishing the source of his control over the city and the Way of White without a fight. Aldrich emerged victorious from the ensuing battle, slaughtering Sulyvahn\\'s troops and forcing the Pontiff to reluctantly clear the way for the ruined cathedral of Anor Londo. Having finally reached his prey, Aldrich began to slowly devour Gwyndolin, who was most likely powerless to fight",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "62a1c57b-66d1-5abd-bfe1-2d21de2e77ad",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "to their god as proof of their task accomplished, receiving Gwyndolin's ring and talisman in return, and even learning of his miracle, creating a sword with the rays of the Darkmoon to manifest the vengeance of their god.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6dcffe33-b3e6-5c55-aebd-c6fa9d169df3",
+    "title": "Dark Sun Gwyndolin",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "If the player does not yet have the Darkmoon Seance Ring, they can kill Gwynevere instead, which at that moment will be revealed to be just an illusion set up by Gwyndolin himself. The entrance to Gwyndolin's boss room will be accessible at the same aforementioned location. Be advised that killing Gwynevere will cause players to respawn at the first Bonfire in Anor Londo if dying or using Homeward/Dark Sign in Anor Londo regardless of the last Bonfire rested at. This will last until Gwyndolin is dead.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "71172181-430e-553b-bcb8-86e35512dd1f",
+    "title": "Dark Sun Gwyndolin",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "**Gwyndolin's final thoughts of a \"white girl\", as he was devoured by Aldrich, allow the creation of a miracle that replicates the Lifehunt Scythe of Priscilla, and, as miracles are tales of the gods, it would mean that Gwyndolin had a special relationship with Priscilla and remembered her before his death\n***Alternatively, Gwyndolin's final thoughts could be directed to Yorshka, another \"pale girl\", hidden by Sulyvahn. If Yorshka inherited her mother's power, she could have possessed the Lifehunt Scythe miracle as well.\n**Gwyndolin being Priscilla's son, as she was hated and feared by the gods, would explain why Gwyn would dress, educate and raise him to be a female, as the king of the gods would never have wanted him to be able to ascend the throne with his dangerous lineage.\n**Gwyndolin's legitimacy as a deity came only from the fact that he was the son of King Gwyn, implying that his matrilineage alone would not have made him part of the deities, as she was not one.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "71d2d2cd-1a7c-5d28-9968-c8471b21cb62",
+    "title": "Dark Sun Gwyndolin",
+    "section": "strategies",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Dark Sun Gwyndolin -  Dark Souls III - boss - strategies \n strategies : Gwyndolin's boss battle takes place in a seemingly never-ending corridor.\n\nHe is not a very difficult boss if the player has decent dodging skills. Of his three attacks, two can be avoided by hiding behind pillars, while the last one is more powerful and fast (he will tend to use the Sphere Shot after Orb Spread if the player is hiding behind pillars). The main issue in this fight is reaching him, as he will teleport away when the player approaches (equipping the Ring of Fog may increase the time available to attack before he teleports), meaning that the best time to run up to him is when he is just finishing off his Arrow Spread, as he takes a few moments to recover. Gwyndolin can still be damaged while he is in his teleporting animation and for a split second after actually moving, so it is possible to deal considerable damage at that moment.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "745ebeb7-1014-505f-b87c-dd2b6ff940c4",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "bonfire, and some guidance, first towards the illusion of Gwynevere, or, if they have already obtained the Lordvessel from the illusion, with information on Seath the Scaleless, the nearest of the powerful beings the prophecy would have the Undead slay to feed the Lordvessel. The Knightess helped maintain the facade of Gwynevere, talking about the illusion as if it was the real Goddess even as she knew it was not real. Should an Undead prove a threat to the Gods by attacking the illusion or Gwyndolin, or passing through the later's Fog Door and witness his true form, the Knightess would attempt to slay the heretic Undead.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "860c454d-c71e-54ad-948d-0d825df31cf9",
+    "title": "Dark Sun Gwyndolin",
+    "section": "artifacts",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Dark Sun Gwyndolin -  Dark Souls III - boss - artifacts \n artifacts : Soul of Gwyndolin\nReversal Ring\nMoonlight Set\nCrown of the Dark Sun\nTin Darkmoon Catalyst\nDarkmoon Bow\nDarkmoon Longbow\nMoonlight Arrow\nDarkmoon Seance Ring\nDarkmoon Blade Covenant Ring\nDarkmoon Talisman\nSunless Talisman\nDarkmoon Blade\nDarkmoon Blade (Dark Souls III)\nLifehunt Scythe (Dark Souls III)",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "89e326f8-4723-5227-8d7e-75c39de8eb89",
+    "title": "Dark Sun Gwyndolin",
+    "section": "strategies",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Alternatively, once Gwyndolin teleports the first time upon entering the tomb, it is possible to move closer to him to a point just outside his aggro range; then, by equipping the Hawk Ring and using the Dragonslayer Greatbow, the player can easily defeat him from range without him retaliating.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5637ea9a-2635-531d-a103-a84c7af04649",
+    "title": "Sentinel",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Sentinel -  Dark Souls - enemy - description \n description : Giant guardians of Anor Londo. Sentinels wear the Giant Set and wield the Giant's Halberd and Giant Shield. They are highly susceptible to Poison; three Poison Arrows is sufficient to kill them, enabling the player to hit them at a safe distance and simply wait for them to die. The six Sentinels encountered near the first bonfire in Anor Londo can be farmed easily and safely at a distance, using Poison Arrows.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.600791099438704
+  },
+  {
+    "document_id": "8408ed75-9d4a-56a5-99c1-a96bfbe69ef1",
+    "title": "Executioner Smough",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Executioner Smough -  Dark Souls III - character - dark_souls_iii \n dark_souls_iii : After centuries of waiting for the Chosen Undead without success, Ornstein grew tired of his duty and left the cathedral in search of the Nameless King. Consequently, the last remaining guard was Smough, who continued to hold his post and protect \"Gwynevere\". As a reward for his loyalty, Gwyndolin finally granted him the title of \"knight,\" even if he was the last one left in Anor Londo after all others had abandoned it. As the cathedral's sole guardian, Smough met his end when a worthy Undead reached Anor Londo and defeated him, gaining an audience with \"Gwynevere\" and the Lordvessel with which to begin their search for powerful souls.\n\nSmough's ritual hammer was preserved as a relic by Gwyndolin and protected in his manor when Irithyll of the Boreal Valley rose from the ruins of Anor Londo.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.494519724102163
+  },
+  {
+    "document_id": "44eb6998-a75e-57a6-91f3-3088a3d99c36",
+    "title": "Giant's Coal",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Giant's Coal -  Dark Souls III - item - availability \n availability : Found in Anor Londo, on the remains of the Giant Blacksmith in the west wing of the cathedral.\n\nFrom the Anor Londo bonfire, head up the large staircase; once at the top, head left through a metal door archway and then enter a doorway on the right to find the giant's body holding the coal.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.476558765827308
+  },
+  {
+    "document_id": "c4687161-e0f2-5015-b862-605a75a967cd",
+    "title": "Silver Knight Helm",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Silver Knight Helm -  Dark Souls - armor - description \n description : Helm of the Silver Knights who protect Anor Londo.\n\nWhen Lord Gwyn departed to link the Fire, his knights split into two groups. The Silver Knights remained in the forsaken capital in the service of their goddess.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.467247587266574
+  },
+  {
+    "document_id": "6b6e2448-3e0e-5f53-a144-fda281549a75",
+    "title": "Silver Knight Leggings",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Silver Knight Leggings -  Dark Souls - armor - description \n description : Leggings of the Silver Knights who protect Anor Londo.\n\nWhen Lord Gwyn departed to link the Fire, his knights split into two groups. The Silver Knights remained in the forsaken capital in the service of their goddess.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.467247587266574
+  },
+  {
+    "document_id": "aa21e074-fc24-5d99-afba-bd5d755fc9df",
+    "title": "Ornstein's Gauntlets",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Ornstein's Gauntlets -  Dark Souls - armor - availability \n availability : Purchased from Domhnall of Zena for 6,000 souls, if the player defeated Dragonslayer Ornstein second during the Dragonslayer Ornstein and Executioner Smough boss fight in Anor Londo.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.294453015531293
+  },
+  {
+    "document_id": "e4f8bae1-dde3-526f-83f6-603ca9a453fd",
+    "title": "Ornstein's Helm",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Ornstein's Helm -  Dark Souls - armor - availability \n availability : Purchased from Domhnall of Zena for 7,000 souls, if the player defeated Dragonslayer Ornstein second during the Dragonslayer Ornstein and Executioner Smough boss fight in Anor Londo.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.294453015531293
+  },
+  {
+    "document_id": "530c9713-96af-506e-979a-7147996113a1",
+    "title": "Ornstein's Leggings",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Ornstein's Leggings -  Dark Souls - armor - availability \n availability : Purchased from Domhnall of Zena for 6,000 souls, if the player defeated Dragonslayer Ornstein second during the Dragonslayer Ornstein and Executioner Smough boss fight in Anor Londo.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 14.294453015531293
+  }
+]

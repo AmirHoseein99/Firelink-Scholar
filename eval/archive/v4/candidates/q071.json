@@ -1,0 +1,2200 @@
+[
+  {
+    "document_id": "07ad01cd-e70d-58bd-a2c5-fda75a0cd72c",
+    "title": "Bleed (Dark Souls II)",
+    "section": "bleed_attack_bonus",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - bleed_attack_bonus \n bleed_attack_bonus : The Bleed Attack Bonus (abbreviated as Bleed BNS in-game) increases the amount of Bleed buildup inflicted per hit. It does not affect the total amount of damage the Bleed effect will do. Unlike weapons that have a magical scaling stat, Bleed has no equivalent scaling.\n\nThe Bleed BNS value is determined by the Dexterity and Faith stats. In order to continually increase innate Bleed BNS, both Dexterity and Faith need to be leveled up, with Dexterity giving a larger bonus.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0feb975b-677d-5391-b8a1-802863c88dad",
+    "title": "Bleed (Dark Souls II)",
+    "section": "infusion",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - infusion \n infusion : Steady Hand McDuff can infuse most weapons with Bleed through the use of a Bleed Stone. Once a weapon is infused, the Bleed icon () will be displayed next to its image in the HUD.\n\nUninfused weapons imbued with Bleed gain a fixed Bleed buildup value (which does **not** scale with the Bleed Attack Bonus), but the base physical damage is lowered by 30%. For example, if a regular weapon that deals 100 physical damage is infused with Bleed, its stats switch over to 70 physical damage and 112 Bleed buildup.\nWeapons with innate Bleed buildup gain an additional increase to Bleed buildup, but the base physical damage is lowered by 5%, as is the current scaling. For example, the Bandit's Knife goes from 65 physical damage + 67 Bleed buildup to 62 physical damage + 96 Bleed buildup when infused.\nShields gain additional Bleed resistance while lowering other resistances.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6955853165916597,
+    "bm25_score": null
+  },
+  {
+    "document_id": "29862699-bc3f-55f8-bb80-0f52426dff4d",
+    "title": "Bleed (Dark Souls II)",
+    "section": "bleed_resist_cap",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - bleed_resist_cap \n bleed_resist_cap : Bleed Resist is capped at 890 points. Combined with a hidden stat of 100 points, Bleed Resist can reach a maximum of 990 points. Since 1000 points of any magical or elemental defense equals immunity, Bleed buildup cannot be completely nulified, with the exception of blocking with a shield.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2c44a28d-afa8-53eb-98df-2525996c73a2",
+    "title": "Bleed (Dark Souls II)",
+    "section": "calculator",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - calculator \n calculator : Datasheet that can calculate bleed buildup on each attack https://docs.google.com/spreadsheets/d/13Ba-cbzZG_EMnkuO_8MO53sidBna1hsztrCa_7LQ63E/edit?usp=sharing",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2f1385fe-3925-5d95-a70a-ce0b5e2ca34f",
+    "title": "Bleed (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - lead \n lead : **Bleed** is a negative status effect, damage type and auxiliary effect in . It can be inflicted by the environment, various weapons or items. It can also be used as an infusion for weapons. Bleed can affect both the player and most enemies.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "39dca90b-d72d-5c7e-82ee-eb3a9070767a",
+    "title": "Bleed (Dark Souls II)",
+    "section": "bleed_weapons",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - bleed_weapons \n bleed_weapons : The following is a list of weapons and shields that bear an innate Bleed buildup effect. For information as to how these weapons are effected by Bleed infusions, see this section.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4b81b2bf-8eb4-57b4-b52c-ec4ef1b7c780",
+    "title": "Bleed (Dark Souls II)",
+    "section": "bleed_resist",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - bleed_resist \n bleed_resist : Bleed Resist governs how robust the player is against Bleed buildup.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "573f948e-6d61-54f9-85e9-f8b667666e97",
+    "title": "Bleed (Dark Souls II)",
+    "section": "bleed_attack",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - bleed_attack \n bleed_attack : The Bleed Attack (abbreviated as Bleed ATK in-game) governs the rate at which the player's Bleed attacks buildup upon a target.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5bc52d4b-e42d-5c14-ad90-00e7d65a4197",
+    "title": "Bleed (Dark Souls II)",
+    "section": "inflicting_bleed_buildup",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - inflicting_bleed_buildup \n inflicting_bleed_buildup : Most weapons can be given the ability to deal Bleed buildup temporarily through the use of Bleeding Serum. This buff does scales accordingly to the Weapon Buff formula. If the weapon has an innate Bleed effect, the buildup is stacked and thus more powerful. Applying this buffs result in the weapon taking on a red glow.\n\nUnlike weapon buffs, the Bleed buildup of Lacerating Knives does not scale based on the Bleed BNS value, instead dealing a flat 40% before resistances. They can be purchased from Laddersmith Gilligan for 350 souls each. Lacerating Arrows deal a flat Bleed buildup value of 54% before resistances. They cannot be purchased from anyone, making them very rare.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5c818b17-65e8-5116-951f-417e519db161",
+    "title": "Bleed (Dark Souls II)",
+    "section": "innate_resist",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - innate_resist \n innate_resist : Innate Bleed Resist describes the value of the player's Bleed resistance when not influenced by any outside factors, such as armor, spells or consumables. Bleed Resist can be increased incremetally through leveling both Faith and Adaptability. Bleed Resist will increase steadily until a soft cap of 140 Bleed resistance is reached, after which any further increases will be much slower. Innate Bleed Resist caps at 200 points, when both stats are at 99.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6b79033f-0395-5301-95a6-337e8b57e55d",
+    "title": "Bleed (Dark Souls II)",
+    "section": "enemies",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - enemies \n enemies : The following is a breakdown of enemy and boss information relating to Bleed buildup and immunity:",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "736c988c-c4b0-530a-baa2-d5b9d23fb4be",
+    "title": "Bleed (Dark Souls II)",
+    "section": "rings",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - rings \n rings : Only two rings provide Bleed Resist. Both can be worn together, granting a maximum of 320 Bleed Resist, at the highest item level. Like all other rings, duplicate rings cannot be worn simultaneously.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "81d02a81-10e8-59ed-933d-5e0a5184739e",
+    "title": "Bleed (Dark Souls II)",
+    "section": "spells_and_items",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - spells_and_items \n spells_and_items : Certain defensive spells can temporarily increase Bleed Resist, but they cannot be stacked with each other. Only one will be active at a time. Red Leech Troches is a consumable item that can be purchased from Rat King for 1600 souls each. They cannot be stacked with any of the defensive spells either. Consuming a Red Leech Troche will remove the Bleed Resist provided by the spell, and apply the Red Leech Troche resist value.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a377edfe-745e-59e7-9521-2ef870856270",
+    "title": "Bleed (Dark Souls II)",
+    "section": "application_of_bleed_ar",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - application_of_bleed_ar \n application_of_bleed_ar : Bleed applies once the status bar fills up to 100%. Each hit of a weapon applies the same amount of buildup per hit, meaning that multihit attacks are very effective at building status.\n\nThe AR you gain for Scaling is applied as 40% as the number in the menu.\n\nThe handedness preference of a weapon applies to bleed, typically reducing the amount by 10% in the left hand vs the right.\n\nThe amount of status built up is equal to [(Base AR + (Scaling *0.4))/5]% and then reduced by (Bleed Defense/10)%. Players have 100 additional invisible defenses on all non physical types.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d4aafa28-a02a-5e69-8a09-3cbcab710750",
+    "title": "Bleed (Dark Souls II)",
+    "section": "bleed_buildup",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - bleed_buildup \n bleed_buildup : When attacked with weapons that inflict Bleed, the target's Bleed meter gradually fills. The rate at which this fills is dependent on the Bleed buildup value of the attacker's weapon or item; and the target's Bleed Resist stat. The Bleed meter will gradually reset back to zero naturally, provided additional Bleed attacks are not endured.\n\nOnce the meter is full, the target's Health will damaged by 200 points. It will also reduce the maximum stamina of the target to 75% for 5 to 10 seconds. Also any movements that are not a run, dash or roll are reduced to a walk.\n\nIts not possible to increase the total amount of damage Bleed inflicts - only the rate at which Bleed builds up can be increased. Depending on the source, the Bleed buildup value can vary greatly.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e90be32c-056c-54d4-9e89-bf857eff3129",
+    "title": "Bleed (Dark Souls II)",
+    "section": "preventing_bleed",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - preventing_bleed \n preventing_bleed : If the Bleed meter is filled, Health will damaged by 200 points and the maximum stamina of the target is reduced to 75% for a few seconds. To prevent the Bleed status effect from triggering, the Bleed meter can be set back to zero. Unlike Poison, which has several methods of resetting the Poison meter, the Bleed meter can only be reset by consuming a Divine Blessing. This can be useful in \"life-or-death\" situations, when the onset of the Bleed status is imminent.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ec13027a-5425-506e-afce-4b0a6fbe0e4e",
+    "title": "Bleed (Dark Souls II)",
+    "section": "boosting_bleed_buildup",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - boosting_bleed_buildup \n boosting_bleed_buildup : There are two pieces of equipment that can grant a flat bonus to the Bleed buildup stat on Bleed weapons when worn. The bonus granted from these items can vary depending on what type of Bleed weapon is equipped, be it innate Bleed, infused Bleed or both. Both of these items can be worn together, which would provide double the bonus.\n\nThe following numbers are the menu numbers but they are applied as a fifth of that on hit. Additionally, Shadow Gauntlets have an invisible unique effect that enables bleed scaling on all equipped weapons by a custom amount, making it the only way to increase bleed on lacerating arrows and making it the best status increasing item.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ef520723-5f83-50e8-aef0-493a4100858b",
+    "title": "Bleed (Dark Souls II)",
+    "section": "other",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - other \n other : Yorgh's Spear is unique in that it provides an additional 70 points of resistance to Bleed buildup when wielded. One can be wielded in each hand to provided twice the resistance.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f44efc63-20a8-5e37-a639-f7ab3a5502b9",
+    "title": "Bleed (Dark Souls II)",
+    "section": "armor_and_shields",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - armor_and_shields \n armor_and_shields : Various armor pieces grant varying levels of Bleed Resist. The following armor table shows the armor pieces which grant the highest possible Bleed Resist, for each body part. Curiously, Yorgh's Spear is unique in that it provides an additional 70 points of resistance to Bleed when wielded. One can be wielded in each hand to provided twice the resistance.\n\nShields will only block Bleed attacks if the player is actively blocking. Merely equipping the shield does not count towards defense. The Bleed Resist value on shields is expressed as a percentage in-game, as opposed to points on armor. Any shield had the ability to block 100% of Bleed temporarily via the Strong Magic Shield sorcery.\n\nThe following shields table shows all shields that grant at least 70% reduction:",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "02a6c1c6-2a46-59d9-a194-cd0de4ce8a20",
+    "title": "Corvian Knight",
+    "section": "locations",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian Knight -  Dark Souls III - enemy - locations \n locations : Found throughout the Corvian Settlement in the Painted World of Ariandel.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1ca8f453-95ee-539b-ba7b-deab8239629c",
+    "title": "Corvian Knight",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian Knight -  Dark Souls III - enemy - lead \n lead : **Corvian Knights** are enemies in *Dark Souls III: Ashes of Ariandel*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "240bb40d-3971-5bef-aca1-0426f8d646b5",
+    "title": "Corvian Knight",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian Knight -  Dark Souls III - enemy - notes \n notes : Affected by Alluring Skulls (only if they have been alerted first).\nAffected by Rapport.\nCan be parried, riposted and backstabbed.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6aa1bf3a-1695-535c-94d0-6b707fd37606",
+    "title": "Corvian Knight",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian Knight -  Dark Souls III - enemy - description \n description : Corvian Knights are tall avian warriors that tower over their lesser brethren and are considerably more intelligent and fearsome. They exist in two variations, one that wears a hooded robe and wields the Crow Quills, and a naked variant that wields the Crow Talons.\n\nThey can be encountered throughout the Corvian Settlement exterminating other Forlorn Corvians, although they will quickly turn their attention to the player.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9dcb63dd-b4a8-51f3-a120-75e13f81db62",
+    "title": "Corvian Knight",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian Knight -  Dark Souls III - enemy - lore \n lore : Corvian Knights presumably protected the Corvian Settlement and its inhabitants within the Painted World of Ariandel. Whenever a Painting begins to rot, those who settled within it resolve to burn it away in order to give way for the creation of a new one. When the Corvians were faced with this event, they were prepared to burn it. However, after Sister Friede arrived in the Painting, the Corvian Knights became infatuated with her, choosing to loyally serve her and assist in her mission to let the world rot instead. To that end, the Corvian Knights betrayed their brethren, and their loyalty to Friede was so devout that they willingly slaughtered their own kin if they were perceived to be a threat.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b6787223-5c39-5df0-a5b6-afbcf4a9d947",
+    "title": "Corvian Knight",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian Knight -  Dark Souls III - enemy - trivia \n trivia : Crow Talons-wielding Corvian Knights can perform an attack similar to that of Crow Demons, where they jump onto the back of the player and start pecking at their faces.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dc2cd034-4fe8-5623-94b6-e4ee850f3b5b",
+    "title": "Corvian Knight",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Corvian Knight -  Dark Souls III - enemy - strategy \n strategy : Corvian Knights are incredibly agile opponents and will regularly backflip away or leap over the player to disorient them, often following up with a lunging stab. This can be punished by dodging and backstabbing. Their flurry of blade attacks can rapidly inflict bleed, even when guarding through a shield, so it's not recommended to attempt to block their strikes. From a distance, they will throw several knives and will often perform this attack if the player attempts to heal or use an item.\n\nThe robed Corvian Knights will pursue and eliminate the lesser Corvians around the settlement, although they will focus on the player if alerted. The variant wielding talons is often encountered hiding upside down under bridges and ceilings, so it is advisable for the player to be mindful of their surroundings.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "09c43d33-8c24-5564-b59f-11a5088bdcac",
+    "title": "Dark (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls II) -  Dark Souls II - mechanic - lead \n lead : **Dark** is a type of elemental damage in . It is found either innately enchanted to various weapons, used as an infusion for weapons or used offensively in Hexes.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0d9b7b12-9906-59b4-89e9-b6e3cc76e686",
+    "title": "Dark (Dark Souls II)",
+    "section": "boosting_dark_damage",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls II) -  Dark Souls II - mechanic - boosting_dark_damage \n boosting_dark_damage : There are two rings and a spell that can grant a bonus to Dark Attack when worn.\n\nThe bonus granted from the Dark Clutch Ring can boost the Dark Attack value for both Hexes (via the casting tool) and Dark weapons, but reduced physical defenses. The Dark bonus amount can vary depending on what type of casting tool or Dark weapon or is equipped, be it innate Dark, infused Dark or both. The Abyss Seal grants a flat 7% boost to Hexes only, but at the cost of draining HP every time a Hex is cast. Both of these items can be worn together, which stacks the bonus.\n\nUnleash Magic is a unique sorcery that temporarily increases the Dark Attack of all Hexes by 20%, but at a cost of reducing Heath by 30%. Dark Attack on weapons is not affected.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "15728690-5418-5bb7-8f79-061d6b4a3511",
+    "title": "Dark (Dark Souls II)",
+    "section": "dark_defense_cap",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls II) -  Dark Souls II - mechanic - dark_defense_cap \n dark_defense_cap : Total Dark Defense is capped at 890 points. Combined with the hidden stat of 100 points, Dark Defense can reach a maximum of 990 points. Since 1000 points of any magical or elemental defense equals immunity, Dark Damage cannot be completely nullified, with the exception of blocking with a shield. For information on how to achieve this cap, see this section.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2fc1a26e-a0cc-5cd6-8705-0cb0ca78a3cb",
+    "title": "Dark (Dark Souls II)",
+    "section": "dark_attack",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls II) -  Dark Souls II - mechanic - dark_attack \n dark_attack : The Dark Attack (abbreviated as Dark ATK in-game) describes the base level of Dark damage that is inflicted on a target with either a Dark weapon, casting tool, or Hex.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3b37fc64-a4d6-578a-9a6c-6b7d0c2689f7",
+    "title": "Dark (Dark Souls II)",
+    "section": "enemies",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls II) -  Dark Souls II - mechanic - enemies \n enemies : The following is a breakdown of enemies and bosses information relating to Dark damage and resistance.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4104f21f-68b0-566b-855c-8371f41af5a3",
+    "title": "Dark (Dark Souls II)",
+    "section": "dark_attack_bonus",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls II) -  Dark Souls II - mechanic - dark_attack_bonus \n dark_attack_bonus : The Dark Attack Bonus (abbreviated as Dark BNS in-game) determines the extra damage gained with Dark scaling weapons, casting tools and Hexes. For weapons, this bonus value is expressed as blue text alongside the base attack value on the Equipment Status screen in-game.\n\nThe Dark Attack Bonus value is determined by the lowest stat of either Intelligence or Faith. This value is then multiplied by the dark scaling weapon or casting tool's dark scaling stat, then added to the attack rating along with any other scaling. In order to continually increase innate Dark Attack Bonus, both Intelligence and Faith need to be leveled up side-by-side. For example, if both skills are at 50, Dark Defense will be set to 177 points. Dark Attack Bonus caps at 200 points, when both stats are at 99.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "64c8d7d4-0ebb-5041-b053-d4cfb2dce5ba",
+    "title": "Dark (Dark Souls II)",
+    "section": "enemies_who_deal_dark_damage",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls II) -  Dark Souls II - mechanic - enemies_who_deal_dark_damage \n enemies_who_deal_dark_damage : __FORCETOC__",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9ef34f50-bf32-559c-b0de-e70a249ef938",
+    "title": "Dark (Dark Souls II)",
+    "section": "items_and_spells",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls II) -  Dark Souls II - mechanic - items_and_spells \n items_and_spells : Certain defensive spells can increase Dark Defense, with varying results, but they cannot be stacked with each other. Only one spell can be active at a time. Dark Troches are consumable items that can be purchased from Cromwell the Pardoner for 1200 souls each. Dark Troches cannot be stacked with any of the defensive spells either. Consuming a Dark Troche will remove the Dark Defense provided by the spell, and apply the Dark Troche defense value.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a10fc7cd-cb21-5e60-bf04-0efb1dcd6224",
+    "title": "Dark (Dark Souls II)",
+    "section": "infusion",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls II) -  Dark Souls II - mechanic - infusion \n infusion : Steady Hand McDuff can infuse most weapons with Dark through the use of a Darknight Stone. Once a weapon is infused, the Dark icon () will be displayed next to its image in the HUD.\n\nUninfused weapons imbued with Dark gain a fixed Dark Damage value (which scales with the Dark Attack Bonus), but the base physical damage is lowered by 30%, as is the base scaling. For example, if a regular weapon that deals 100 physical damage is infused with Dark, its stats switch over to 70 physical damage and 70 Dark Damage.\nWeapons with innate Dark Damage gain an additional Dark scaling and a 44% damage increase to Dark, but the base physical damage is lowered by 5%, as is the current scaling.\nArmor or shields gain additional Dark resistance while lowering other resistances.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7542884242356496,
+    "bm25_score": 25.932491141822002
+  },
+  {
+    "document_id": "a271d43b-8db5-5f76-9e6b-6ecebbb64d89",
+    "title": "Dark (Dark Souls II)",
+    "section": "rings",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls II) -  Dark Souls II - mechanic - rings \n rings : Only two rings provide Dark Defense. Both can be worn together, granting a maximum of 270 Dark Defense, at the highest item level. Like all other rings, duplicate rings cannot be worn simultaneously.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b1e3d3fa-c145-5af4-bfa3-305ab4d7a0f5",
+    "title": "Dark (Dark Souls II)",
+    "section": "innate_defense",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls II) -  Dark Souls II - mechanic - innate_defense \n innate_defense : Innate Dark Defense describes the value of the players Dark Defense when not influenced by any outside factors, such as armor, spells or consumables. A hidden Dark Defense stat of 100 points is always granted, regardless of character class. Dark Defense can be increased incrementally through leveling both Intelligence and Faith. The Dark Defense value is determined by lower of the two stats. This means in order to continually increase innate Dark Defense, both Intelligence and Faith need to be leveled up side-by-side. For example, if both skills are at 50, Dark Defense will be set to 170 points. Innate Dark Defense caps at 200 points, when both stats are at 99.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b94bc1ca-cd90-5388-807d-d0aa2eec51c1",
+    "title": "Dark (Dark Souls II)",
+    "section": "armor_and_shields",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls II) -  Dark Souls II - mechanic - armor_and_shields \n armor_and_shields : Various armor pieces grant varying levels of Dark Defense. The following armor table shows the armor pieces which grant the highest possible Dark Defense, for each body part.\n\nShields will only block Dark attacks if the player is actively blocking. Merely equipping the shield does not count towards defense. The Dark defense value on shields is expressed as a percentage in-game, as opposed to points on armor. The following shields table shows all shields that grant at least 75% reduction.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cd04ba2f-2f37-524a-8012-3db908664a49",
+    "title": "Dark (Dark Souls II)",
+    "section": "defense",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls II) -  Dark Souls II - mechanic - defense \n defense : Dark Defense (abbreviated as Dark DEF in-game) governs how robust the player is against Dark based attacks.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "df40b7d4-57f3-5678-97bf-6d80cba03954",
+    "title": "Dark (Dark Souls II)",
+    "section": "dark_weapons",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls II) -  Dark Souls II - mechanic - dark_weapons \n dark_weapons : The following is a list of weapons and shields that bear an innate Dark Damage effect. For information as to how these weapons are affected by Dark infusions, see this section.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7048673948097725,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e6fcc513-fa61-53dc-ac5c-bcbc6ddcf6c0",
+    "title": "Dark (Dark Souls II)",
+    "section": "lowering_defense",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls II) -  Dark Souls II - mechanic - lowering_defense \n lowering_defense : An overall Dark Defense penalty can be incurred by equipping certain weapons:",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ee7b3239-b5be-54fa-9a31-19f5344fe82d",
+    "title": "Dark (Dark Souls II)",
+    "section": "achieving_the_cap",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls II) -  Dark Souls II - mechanic - achieving_the_cap \n achieving_the_cap : In practice, raising Dark Defense to ~990 (or 99%) is achievable by combining several pieces of gear - albeit temporarily as a spell is required. This can be useful in situations when facing enemies who deal very high levels of Dark Damage, such as Darklurker.\n\nThis table illustrates how the cap can be reached using a combination of gear with high resistance, however other methods using a combination different armor, spells or items is certainly possible.\n\nSince the Warlock Mask is a rare drop, it can be substituted with a Executioner Helm or Velstadt's Helm, both of which offer moderate defense. Similarly, since the Black Witch Robe can be easily missed, it can be substituted with Agdayne's Black Robe.\n\nNote that the table does not take into account the player's displayed innate Dark DEF, which is a variable (between 0 - 200) based on the Intelligence and Faith stat.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fc1204d5-6dc5-55fc-ab39-b2c821311890",
+    "title": "Dark (Dark Souls II)",
+    "section": "dark_augmentation_and_consumables",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls II) -  Dark Souls II - mechanic - dark_augmentation_and_consumables \n dark_augmentation_and_consumables : Most weapons can be given the ability to deal Dark Damage temporarily through the use of Hexes or Dark Pine Resin.\n\nThe damage of these buffs does not scale with the Dark Attack Bonus, rather applies a flat bonus based on the weapon's original Dark Damage (WoDD), if any. If the weapon bears an innate Dark effect, the Dark damage value is boosted. Applying Dark buffs result in the weapon taking on a purple glow.\n\nUnlike weapon buffs, the damage Hexing Urns deal scale based on the Dark Attack Bonus value. They can be purchased from Titchy Gren for 350 souls each. Arrows and Bolts laced with Dark deals a flat Dark Damage value, plus their physical damage. They can be purchased from Grave Warden Agdayne.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6eb8139a-5613-526b-86c0-08a9f9764ee8",
+    "title": "Deprived (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Deprived (Dark Souls II) -  Dark Souls II - mechanic - lead \n lead : The **Deprived** is one of the classes in *Dark Souls 2*.\n\nUnlike the other classes, it doesn't start with any weapons or Lifegems and only has the unequipped Imported Set as armor. Make sure to retrieve the Dagger found in the first side path of Things Betwixt as an initial weapon, while the Morning Star in Majula can be wielded two-handed with 2 more Strength and 1 more Dexterity. A Cleric's Sacred Chime can be found near the Morning Star if wanting to use Miracles, a Shield can be gained by either buying one of Maughlin the Armorer in Majula or be found on the path to Heide's Tower of Flame, and a Sorcerer's Staff can be found behind a hidden wall in the Forest of Fallen Giants.\n\nThe low level means leveling up is slightly cheaper than for any other class, and the all-6 statline serves as a decent base for a build focused on the Mundane infusion since that scales of the lowest stat.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a6c9a462-79ca-5a81-9dba-a7b03c5dd033",
+    "title": "Deprived (Dark Souls II)",
+    "section": "starting_equipment",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Deprived (Dark Souls II) -  Dark Souls II - mechanic - starting_equipment \n starting_equipment : The Deprived does not have anything equipped upon creation, not even Lifegems. However, as with all starting classes in Dark Souls 2, the Imported Set worn before the character creation can be found unequipped in the character's inventory.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "af7a9b15-38bb-5423-a3f2-ee20f157cc16",
+    "title": "Deprived (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Its average Adaptability and Attunment means it actually starts with a decent, 8 i-frame roll.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "04059081-8318-5223-ac04-655642f05be6",
+    "title": "Elder Ghru",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Elder Ghru -  Dark Souls III - enemy - description \n description : Giant beasts that tower over the player, Elder Ghrus are possibly evolved versions of the creatures inhabiting the swamp. They wield an uprooted tree as a melee weapon and can use it to release dark energy blasts and a homing magic attack.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "35556e57-ff00-57da-9d52-7a222729f496",
+    "title": "Elder Ghru",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Elder Ghru -  Dark Souls III - enemy - lead \n lead : **Elder Ghrus** are enemies in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7eedffb0-67dd-5617-ae1f-3ee7014f9015",
+    "title": "Elder Ghru",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Elder Ghru -  Dark Souls III - enemy - location \n location : Found sporadically throughout the farther reaches of the poison swamp in the Farron Keep, near the Keep Ruins bonfire, culminating with a small congregation of three of them guarding a Poison Gem.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8bf1c60b-98e5-5f89-9ca2-7ae063c8c9f1",
+    "title": "Elder Ghru",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Elder Ghru -  Dark Souls III - enemy - strategy \n strategy : Due to the hindered movement in deep water, it is strongly advised to fight these enemies on dry land, as the reduced mobility makes evading their attacks much tougher. One should try and lure it onto one of the \"islands\" that have fires burning on them.\n\nWhilst the dark projectiles cause little damage individually, they can be potentially fatal if the player has been injured by a melee attack, and also cause a brief stun effect.\n\nSurprisingly fast despite their size, Elder Ghrus do have difficulty turning, so if the player stands behind them, they can avoid most of their attacks, although the projectiles are still a threat.\n\nRanged weapons can be used to lure Elder Ghrus away from other enemies, and this is strongly advised if the player wishes to obtain the Pharis's Hat and Black Bow, as they must defeat three of these beasts to receive the items.\n\nDespite their massive size, they do have a fairly low amount of HP.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9b3fe934-f9b1-5f93-8107-62710745981a",
+    "title": "Elder Ghru",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Elder Ghru -  Dark Souls III - enemy - notes \n notes : If the player manages to drop from a floor above and land on the Elder Ghru's head (not necessarily requiring to perform a plunging attack), it will stagger and become open for a critical attack.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bca03c50-bd3d-55ba-9e6b-36f0bad7d2c6",
+    "title": "Elder Ghru",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Elder Ghru -  Dark Souls III - enemy - trivia \n trivia : Concept art for this monster refers to it as \"Dirty Beast\".",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "040a32a9-fb1d-51da-9ed2-6c94ceceb723",
+    "title": "Farron Coal",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Farron Coal -  Dark Souls III - item - lead \n lead : The **Farron Coal** is a key item in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0522c301-bb63-51de-9312-d03efe10270b",
+    "title": "Farron Coal",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Farron Coal -  Dark Souls III - item - availability \n availability : Found in the Road of Sacrifices on what once was the eastern access to the keep. The area can be reached by following the eastern shore of the marsh, fighting a couple of Lycanthropes along the way. The coal can be found at the end of a blocked passageway, guarded by a Black Knight.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b90cc1dc-92a1-5da8-9fe3-0a203606c1fb",
+    "title": "Farron Coal",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Farron Coal -  Dark Souls III - item - description \n description : Coal used for weapon infusion.\n\nLong ago, used to forge the greatswords of the Undead Legion of Farron.\n\nGive to the blacksmith in the shrine to allow the use of gems for heavy, sharp and poison infusion.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b9e7d606-17ee-5e9e-9769-a9acd300ca54",
+    "title": "Farron Coal",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Farron Coal -  Dark Souls III - item - usage \n usage : The coal can be given to Blacksmith Andre in Firelink Shrine to allow usage of the following gems for infusions:\nHeavy Gem: Allows to infuse weapons with the Heavy attribute.\nSharp Gem: Allows to infuse weapons with the Sharp attribute.\nPoison Gem: Allows to infuse weapons with Poison.",
+    "sources": [
+      "template",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 35.680113251582085
+  },
+  {
+    "document_id": "088829a3-6b2e-55a1-ba85-2c79efd9fd0f",
+    "title": "Fire (Dark Souls II)",
+    "section": "infusion",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Fire (Dark Souls II) -  Dark Souls II - mechanic - infusion \n infusion : Steady Hand McDuff can infuse most weapons with Fire through the use of a Firedrake Stone. Once a weapon is infused, the Fire icon () will be displayed next to its image in the HUD.\n\nUninfused weapons imbued with Fire gain a fixed Fire Damage value (which scales with the Fire Attack Bonus), but the base physical damage is lowered by 30%, as is the base scaling. For example, if a regular weapon that deals 100 physical damage is infused with Fire, its stats switch over to 70 physical damage and 70 Fire Damage.\nWeapons with innate Fire Damage gain an additional Fire scaling and a 44% damage increase to Fire, but the base physical damage is lowered by 5%, as is the current scaling.\nShields gain additional Fire resistance while lowering other resistances.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7083085278112726,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0d299c9c-17c5-5789-ab38-9fae45ce19a8",
+    "title": "Fire (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Fire (Dark Souls II) -  Dark Souls II - mechanic - lead \n lead : **Fire** is a type of elemental damage in . It is found either innately enchanted to various weapons, used as an infusion for weapons or used offensively in Pyromancy.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "13ce13c4-4a14-5b3b-9978-04e1257ac91f",
+    "title": "Fire (Dark Souls II)",
+    "section": "water",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Fire (Dark Souls II) -  Dark Souls II - mechanic - water \n water : Fire Defense can be increased by 300 points if the player is soaked wet or standing in water. Being wet is a status effect that lasts for a few moments, depending on how much water the player is covered in. It can occur by simply stepping in water, rolling through pots with water, or by wearing the Pharros Mask, which has a special effect that constantly soaks the player.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1465a3fb-22d9-5d99-9d2d-30b2cd4184c9",
+    "title": "Fire (Dark Souls II)",
+    "section": "fire_weapons",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Fire (Dark Souls II) -  Dark Souls II - mechanic - fire_weapons \n fire_weapons : The following is a list of weapons and shields that bear an innate Fire Damage effect. For information as to how these weapons are effected by Fire infusions, see this section.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "15fb10ce-862f-519d-a759-3b90a1f1bfbf",
+    "title": "Fire (Dark Souls II)",
+    "section": "fire_augmentation_and_consumables",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Arrows and bolts laced with Fire deals a flat Fire Damage value, plus their physical damage. Arrows and bolts can be purchased from Weaponsmith Ornifex, while Great Arrows can be purchased Royal Sorcerer Navlaan.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2261e03d-1bec-5e16-94a8-f88ad3cb0948",
+    "title": "Fire (Dark Souls II)",
+    "section": "items_and_spells",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Fire (Dark Souls II) -  Dark Souls II - mechanic - items_and_spells \n items_and_spells : Certain defensive spells can increase Fire Defense, with varying results, but they cannot be stacked with each other. Only one spell can be active at a time. Small Orange Burrs are consumable items that can be purchased from Rosabeth of Melfia for 1200 souls each. Small Orange Burrs cannot be stacked with any of the defensive spells either. Consuming a Small Orange Burr will remove the Fire Defense provided by the spell, and apply the Small Orange Burr defense value.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3858a533-3714-542c-a91c-8d559d2f383d",
+    "title": "Fire (Dark Souls II)",
+    "section": "rings",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Fire (Dark Souls II) -  Dark Souls II - mechanic - rings \n rings : Only two rings provide Fire Defense. Both can be worn together, granting a maximum of 270 Fire Defense, at the highest item level. Like all other rings, duplicate rings cannot be worn simultaneously.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "39a829af-a2fa-5330-ba0c-ecf40216aa96",
+    "title": "Fire (Dark Souls II)",
+    "section": "enemies",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Fire (Dark Souls II) -  Dark Souls II - mechanic - enemies \n enemies : The following is a breakdown of enemies and boss information relating to Fire damage and resistance. While the Fire resistances stated for enemies are the default values, they may appear higher in-game if the enemy comes into contact with water or rain.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "40d692f3-89f8-5e12-a1c0-62a633ec2e89",
+    "title": "Fire (Dark Souls II)",
+    "section": "lowering_defense",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Fire (Dark Souls II) -  Dark Souls II - mechanic - lowering_defense \n lowering_defense : An overall Fire Defense penalty can be incurred by equipping certain weapons:",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4438e776-7b15-5b73-859f-f0b3d4d2978c",
+    "title": "Fire (Dark Souls II)",
+    "section": "fire_attack_bonus",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Fire (Dark Souls II) -  Dark Souls II - mechanic - fire_attack_bonus \n fire_attack_bonus : The Fire Attack Bonus (abbreviated as Fire BNS in-game) determines the extra damage gained with Fire scaling weapons, Pyromancy Flames and Pyromancies. For weapons, this bonus value is expressed as blue text alongside the base attack value on the Equipment Status screen in-game.\n\nThe Fire Attack Bonus value is determined by adding the Intelligence and Faith stats together. This value is then multiplied by the Fire-scaling weapon, then added to the attack rating along with any other scaling. In order to continually increase innate Fire Attack Bonus, either Intelligence, Faith, or both need to be leveled up.\n\nThe cap for Fire Bonus is affected by the total number of points in Intelligence and Faith. This means that a player with 50 Intelligence and 10 Faith will have the same Fire Bonus as one with 10 Intelligence and 50 Faith or one with 30 in both, as they all have 60 total points.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "45dc205b-c054-5325-b3ee-b34b8f83738b",
+    "title": "Fire (Dark Souls II)",
+    "section": "other",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Fire (Dark Souls II) -  Dark Souls II - mechanic - other \n other : Dragon Tooth is unique in that it provides an additional 50 points of resistance to Fire when wielded. One can be wielded in each hand to provided twice the resistance.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5dd57b84-28f9-5b4d-9fd3-302e8e58aac0",
+    "title": "Fire (Dark Souls II)",
+    "section": "innate_defense",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Fire (Dark Souls II) -  Dark Souls II - mechanic - innate_defense \n innate_defense : Innate Fire Defense describes the value of the players Fire Defense when not influenced by any outside factors, such as armor, spells, or consumables. A hidden Fire Defense stat of 100 points is always granted, regardless of character class. Fire Defense can be increased incrementally through leveling either Intelligence or Faith. The Fire Defense value is determined by a total of the two stats. For example, if both skills total up to 50, Fire Defense will be set to 145 points. Innate Fire Defense caps at 200 points, when both stats are at 99.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7ccb4a08-c421-5da9-b2e3-4d1ae260e5bc",
+    "title": "Fire (Dark Souls II)",
+    "section": "fire_defense_cap",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Fire (Dark Souls II) -  Dark Souls II - mechanic - fire_defense_cap \n fire_defense_cap : Total Fire Defense is capped at 890 points. Combined with the hidden stat of 100 points, Fire Defense can reach a maximum of 990 points. Since 1000 points of any magical or elemental defense equals immunity, Fire Damage cannot be completely nullified, with the exception of blocking with a shield. For information on how to achieve this cap, see this section.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9c59187c-abad-54e5-ad5a-b7d2dc923780",
+    "title": "Fire (Dark Souls II)",
+    "section": "achieving_the_cap",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Fire (Dark Souls II) -  Dark Souls II - mechanic - achieving_the_cap \n achieving_the_cap : In practice, raising Fire Defense to ~990 (or 99%) is achievable by combining several pieces of gear - albeit temporarily as a spell is required. This can be useful in situations when facing enemies who deal very high levels of Fire Damage, such as the Ancient Dragon. It is also useful for safely traversing across the lava covered rocks in Iron Keep.\n\nThe table illustrates how the cap can be reached using a combination of gear with high resistance, however other methods using a combination different armor, spells, or items is certainly possible.\n\nNote that the table does not take into account the player's displayed innate Fire DEF, which is a variable (between 0 - 200) based on the Intelligence and Faith stats.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bd44ed10-c717-5fe6-bb23-d722d956ac80",
+    "title": "Fire (Dark Souls II)",
+    "section": "boosting_fire_damage",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Fire (Dark Souls II) -  Dark Souls II - mechanic - boosting_fire_damage \n boosting_fire_damage : The Fire Clutch Ring can grant a bonus to Fire Attack when worn. The bonus granted from the ring can boost the Fire Attack value for both Pyromancies (via the Pyromancy Flame) and Fire weapons, but reduced physical defenses. The Fire bonus amount can vary depending on the Fire weapon is equipped, be it innate Fire, infused Fire or both.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c2428e15-01a3-5072-99d3-43e115a0cdae",
+    "title": "Fire (Dark Souls II)",
+    "section": "fire_augmentation_and_consumables",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Fire (Dark Souls II) -  Dark Souls II - mechanic - fire_augmentation_and_consumables \n fire_augmentation_and_consumables : Most weapons can be given the ability to deal Fire Damage temporarily through the use of the Flame Weapon pyromancy or Charcoal Pine Resin.\n\nThe damage of both of these buffs does not scale with the Fire Attack Bonus, rather applies a flat bonus based on the weapon's original Fire Damage (WoFD), if any. If the weapon bears an innate Fire effect, the Fire damage value is boosted. The duration of both buffs is 90 seconds, and not dependent on any stat. Applying Fire buffs result in the weapon taking on an orange glow.\n\nUnlike weapon buffs, the damage Firebombs and Black Firebombs deal scale based on the Fire Attack Bonus value. They can be purchased from Merchant Hag Melentia and Magerold of Lanafir respectively, for 200 or 300 souls each.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dcaac065-28e4-56b3-9141-72b378c80a40",
+    "title": "Fire (Dark Souls II)",
+    "section": "fire_attack",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Fire (Dark Souls II) -  Dark Souls II - mechanic - fire_attack \n fire_attack : The Fire Attack (abbreviated as Fire ATK in-game) describes the base level of Fire damage that is inflicted on a target with either a Fire weapon, Pyromancy Flame or Pyromancy.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e5d07fff-ad08-5fc0-9b8b-9f27c3bc0267",
+    "title": "Fire (Dark Souls II)",
+    "section": "fire_defense",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Fire (Dark Souls II) -  Dark Souls II - mechanic - fire_defense \n fire_defense : Fire Defense (abbreviated as Fire DEF in-game) governs how robust the player is against Fire-based attacks.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "eff71e45-df54-5a7d-b378-b10f7e9cb137",
+    "title": "Fire (Dark Souls II)",
+    "section": "armor_and_shields",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Fire (Dark Souls II) -  Dark Souls II - mechanic - armor_and_shields \n armor_and_shields : Various armor pieces grant varying levels of Fire Defense. The following armor table shows the armor pieces which grant the highest possible Fire Defense, for each body part. Curiously, Dragon Tooth is unique in that it provides an additional 50 points of resistance to Fire when wielded. One can be wielded in each hand to provided twice the resistance.\n\nShields will only block Fire attacks if the player is actively blocking. Merely equipping the shield does not count towards defense. The Fire defense value on shields is expressed as a percentage in-game, as opposed to points on armor. The following shields table shows all shields that grant at least 75% reduction.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2657ce40-80f1-55b9-ab1b-6875c3b8c191",
+    "title": "Hawkwood the Deserter",
+    "section": "summons",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Hawkwood the Deserter -  Dark Souls III - character - summons \n summons : Consumed King's Garden\nHawkwood can be summoned for the Oceiros, the Consumed King boss fight. His sign can be found on the rectangular platform beyond the toxic swamp and will only appear after he has departed from Firelink for good.\nArchdragon Peak\nHawkwood can be summoned in Archdragon Peak. His sign can be found near the stairs that lead to the Great Belfry bonfire. He doesn't actually fight the boss, instead he will run in the opposite direction towards the altar atop the mountain.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "37b32ab3-d411-550f-aed8-7e4e42de06ab",
+    "title": "Hawkwood the Deserter",
+    "section": "locations",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Hawkwood the Deserter -  Dark Souls III - character - locations \n locations : Firelink Shrine\nFirst met sitting on the staircase in front of the shrine's bonfire. If he is not encountered there in subsequent visits, he usually can be found praying at a gravestone located outside, to the right of the shrine and where a Starved Hound attacks.\nFarron Keep\nIf the player has collected all three dragon stones (Dragon Torso Stone, Dragon Head Stone and Twinkling Dragon Torso Stone) and has received Hawkwood's Swordgrass from Andre, Hawkwood will appear near the Abyss Watchers bonfire and challenge the player to a duel to the death for the stones.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "48004de2-8824-59c0-899e-6faa007acd80",
+    "title": "Hawkwood the Deserter",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Hawkwood the Deserter -  Dark Souls III - character - notes \n notes : Teaches the \"Collapse\" gesture the first time the player talks to him.\nGives the player a Heavy Gem if talked to after lighting the Halfway Fortress bonfire in the Road of Sacrifices.\nGives the player the Farron Ring if talked to after defeating the Abyss Watchers.\nOnce Hawkwood leaves Firelink Shrine for good, his shield can be found at the same gravestone he used to pray at, outside and to the right of the shrine, where a Starved Hound attacks.\nHawkwood can heal up via Estus Flask up to six times when fought at the Abyss Watchers mausoleum.\nHawkwood uses a Bastard Sword at Firelink Shrine and when summoned as a white phantom, but uses a Farron Greatsword when fought at the mausoleum at Farron Keep.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "68b98f63-93db-5e18-8215-213ca53e03cf",
+    "title": "Hawkwood the Deserter",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Hawkwood the Deserter -  Dark Souls III - character - description \n description : Hawkwood wears the Undead Legion Set with the Chain Helm and wields a Bastard Sword along with his shield. When encountered in Farron Keep, he will be using the Farron Greatsword, having forsaken his sword and shield.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6bf693ff-080b-5fd9-89f1-cfc30ea1b0b4",
+    "title": "Hawkwood the Deserter",
+    "section": "plot",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Hawkwood the Deserter -  Dark Souls III - character - plot \n plot : Hawkwood is a deserter from Farron's Undead Legion. He decides that he is not fit to fulfill his duty of searching for the Lords of Cinder, so instead takes up residence in Firelink Shrine. Once the player defeats the Abyss Watchers, he will disappear from the shrine.\n\nIf speaking with Andre or visiting a grave beside the shrine, the player will come in possession of Hawkwood's Shield, which he left behind for the Ashen One.\n\nOnce the player has acquired the Twinkling Dragon Torso Stone, Andre will give the player Hawkwood's Swordgrass, which contains a message challenging the player to a duel at the mausoleum in Farron Keep, where the Abyss Watchers bonfire is located. If the player defeats Hawkwood, they will acquire the Twinkling Dragon Head Stone. If Hawkwood kills the player, he will take the Twinkling Dragon Torso Stone. The player can reacquire it by killing him.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3207a680-0994-59c1-a969-3119c18f0eb5",
+    "title": "Dark (Dark Souls III)",
+    "section": "infusion",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls III) -  Dark Souls III - mechanic - infusion \n infusion : Infusing a weapon with a Deep Gem will imbue it with Dark damage, at the expense of all stat scaling effects.\nWeapons infused with a Dark Gem inflict Dark damage while scaling with the player's Faith and Intelligence.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.8078228297662655,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b8d5f771-8179-52f8-9c9d-c088259a7037",
+    "title": "Infusion (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Infusion (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : **Infusion** is a gameplay mechanic in *Dark Souls III*. It is a form of weapon reinforcement. Infusing a weapon can be performed by talking with Blacksmith Andre and change the attributes of a weapon. For example, infusing a Scimitar with the Blessed infusion increases the scaling on that weapon for Faith, while reducing scaling for every other parameter.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7914519155805462,
+    "bm25_score": 26.492355945757378
+  },
+  {
+    "document_id": "e547aced-12c3-5ed5-97e1-700d54e9afeb",
+    "title": "Parameter Bonus (Dark Souls III)",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus (Dark Souls III) -  Dark Souls III - mechanic - notes \n notes : Weapons with non-scaling elemental damage will interact with both weapon buffs and infusions.\n**For example, one can infuse a Drakeblood Greatsword with Chaos or Dark to add scaling to the pre-existing magic and lightning damage, as well as the added fire or dark damage.\n**Similarly, one can cast Blessed Weapon on a Lothric Knight Greatsword to add Faith scaling to both the physical and lightning damage of the weapon.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7776243704370502,
+    "bm25_score": 28.198220257804703
+  },
+  {
+    "document_id": "dd8950fc-aa01-5c99-b268-ce1c1119442c",
+    "title": "Heavy Gem",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Heavy Gem -  Dark Souls III - item - usage \n usage : Infusing a weapon with the Heavy property will significantly improve the Strength scaling on that weapon, but compromises the Dexterity scaling by completely removing it, putting emphasis on only Strength after the infusion is done.\n\nLike most other infusions, it will also lower the weapon's base damage slightly. Heavy infusions should only be used if there is a large gap between one's Strength and Dexterity, as if both are nearly equal to one another, the weapon's overall damage after the infusion may be lower than it was prior to.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.77511138014721,
+    "bm25_score": 32.24598541585801
+  },
+  {
+    "document_id": "719970bd-2136-53ba-8bb4-a10b11cb8d51",
+    "title": "Infusion",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Infusion -  Dark Souls II - mechanic - lead \n lead : For the similar mechanic in Dark Souls, see Weapon Modification. For the same mechanic in Dark Souls III, see Infusion (Dark Souls III). For the action of the player actively buffing a weapon, see Weapon Buff (Dark Souls II).*\n\n**Infusion** is a game mechanic in *Dark Souls II* that allows the player to modify damage types, scaling, and damage reduction for weapons, shields, staves, and sacred chimes.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7573018483512786,
+    "bm25_score": 25.510448673398635
+  },
+  {
+    "document_id": "539311b1-b5a9-50d4-b5e1-f83bbb25ba9b",
+    "title": "Raw Gem",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Raw Gem -  Dark Souls III - item - usage \n usage : When infusing a weapon with Raw, the weapon gains greatly increased base damage, but loses any and all scaling with Strength and Dexterity.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7438241342182912,
+    "bm25_score": 35.72912635657629
+  },
+  {
+    "document_id": "05491a02-bce3-579d-a6d4-3e72df191def",
+    "title": "Club (Dark Souls III)",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Club (Dark Souls III) -  Dark Souls III - weapon - notes \n notes : Although Raw infusions are optimal at low Strength, it is always worth infusing the Club with a Heavy Gem over leaving it uninfused, even at the base requirement of 10 Strength.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7404014901907044,
+    "bm25_score": 33.48203710834305
+  },
+  {
+    "document_id": "c6f57eb2-41d9-5437-a9f4-4d1dd3e2a24f",
+    "title": "Simple Gem",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Simple Gem -  Dark Souls III - item - usage \n usage : Infuses weapons with Magic damage, granting Intelligence scaling but reducing Strength and Dexterity scaling, as well as reducing base damage. Compared to the Crystal infusion, the scaling is higher in all areas, but the base damage of the weapon is lower, meaning that the weapon will do less damage overall.\n\nThe benefit of the Simple infusion is that when wielded, the weapon slowly regenerates FP at a rate of about 1 FP per 5 seconds, or 0.2 FP per second. Reinforcing it will reduce the tick interval by roughly 0.217 seconds per upgrade level. At +10 reinforcement, a Simple weapon will replenish 1 FP per 2.85 seconds, or roughly 0.35 FP per second.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7370411174708622,
+    "bm25_score": 26.370289982282785
+  },
+  {
+    "document_id": "0e0e117b-7755-531a-a1fc-a9647083f09f",
+    "title": "Dark Gem",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Dark Gem -  Dark Souls III - item - usage \n usage : Infuses weapons with Dark damage, adding Intelligence and Faith scaling but reducing Strength and Dexterity scaling, as well as reducing base damage. Intelligence and Faith scaling will also be increased for any pre-existing Magic, Fire and Lightning damage.\n\nFor the Dark damage, scaling soft caps at 30 Intelligence and 30 Faith.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7293907229377833,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9534c5ef-1902-5883-8b61-745dcd189419",
+    "title": "Sharp Gem",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Sharp Gem -  Dark Souls III - item - usage \n usage : Infusing a weapon with the Sharp property will increase the Dexterity scaling on that weapon, and as such, is an excellent choice for players who invested heavily into dexterity. As a result of the infusion, however, the Strength scaling will be lowered, or entirely removed on some weapons, and the weapon's base damage will be slightly reduced.\n\nWeapons that scale well with dexterity from their base level will benefit greatly from sharp infusions.\n\nAs of the 1.32 Regulations patch, Sharp-infused weapons will gain increased scaling at very high levels of Dexterity. Between 40 and 60 Dexterity, scaling is poor, however beyond 60 Dexterity it will greatly increase until it gradually begins to fall off at roughly 80 Dexterity.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7286642566658377,
+    "bm25_score": 31.039064724138708
+  },
+  {
+    "document_id": "9122e475-0af8-55af-9295-2c677835e0a7",
+    "title": "Dark (Dark Souls III)",
+    "section": "items_2",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls III) -  Dark Souls III - mechanic - items_2 \n items_2 : Weapons that are not elementally infused can deal Dark damage with the augmentation of a Human Pine Resin or with the miracle Dark Blade.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.725335169884949,
+    "bm25_score": null
+  },
+  {
+    "document_id": "915be3aa-6097-543a-909f-2f5288ceb2e4",
+    "title": "Crypt Blacksword",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Crypt Blacksword -  Dark Souls II - weapon - notes \n notes : When infused with the Dark, the A scaling in Dark turns to S scaling.\nMay seem inferior to a greataxe when Dark infused, but two factors set it aside: 130 counter damage and even when dark infused, it receives 40 extra Physical damage from the Ring of Blades or Flynn's Ring, not 25 like most infused basic weapons.\nExtremely effective when one is grinding souls using Bonfire Ascetics for the Giant Lord boss fight, even more so when Powerstanced.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7237337524638164,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5c018d12-e024-5603-b4d1-d94ded81f247",
+    "title": "Bluemoon Greatsword",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Since the weapon has no forms of scaling, it is an excellent candidate for a Raw infusion, allowing the weapon's maximum damage potential to be drawn out. Enchanted or Mundane infusions will be worse in almost any situation, and are not recommended.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7223802244551447,
+    "bm25_score": 28.065721156319416
+  },
+  {
+    "document_id": "c0cdc4c5-b5e1-5685-8042-45d85b4531cd",
+    "title": "Infusion",
+    "section": "mechanics",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Infusion -  Dark Souls II - mechanic - mechanics \n mechanics : An infusion can be performed by talking to Steady Hand McDuff and selecting the option \"Infuse weapon\" from the dialogue menu. Each infusion costs 2,000 souls and requires a stone corresponding to the infusion type, such as a Firedrake Stone for a fire infusion. It is also possible to remove an infusion from a weapon at the cost of 1,000 souls and a Palestone.\n\nApplying an infusion to a weapon, or removing one from a weapon, does not change the weapon's upgrade level. For example, applying a fire infusion to a Longsword +3 makes it a Fire Longsword +3. This is different from *Dark Souls'* weapon ascension mechanic, which required upgrading weapons along certain paths to change the scaling or gain elemental damage.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7187586688667791,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f2505cec-5947-5a16-a1f0-e80723db4153",
+    "title": "Infusion",
+    "section": "innate_elements",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Infusion -  Dark Souls II - mechanic - innate_elements \n innate_elements : Certain weapons bear innate elements. The following table is a breakdown:",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7183269944693963,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d013622c-c7d1-5ee2-814e-d57bb7fb76e4",
+    "title": "Club (Dark Souls III)",
+    "section": "upgrades",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Club (Dark Souls III) -  Dark Souls III - weapon - upgrades \n upgrades : Reinforced with standard Titanite.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.709335935327834,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2dce5a84-f43f-5c42-9095-0bdc988e7c5b",
+    "title": "Weapon Augmentation",
+    "section": "weapons",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Weapon Augmentation -  Dark Souls - mechanic - weapons \n weapons : All Standard, Crystal, and Raw upgrade path can be buffed, with the exception of Bows and Crossbows.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7022442545919878,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ee932962-0889-570b-a78c-95fa02772bfe",
+    "title": "Poison (Dark Souls II)",
+    "section": "infusion",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Poison (Dark Souls II) -  Dark Souls II - mechanic - infusion \n infusion : Steady Hand McDuff can infuse most weapons with Poison through the use of a Poison Stone. Once a weapon is infused, the Poison icon () will be displayed next to its image in the HUD.\n\nUninfused weapons imbued with Poison gain a fixed Poison buildup value (which does **not** scale with the Poison Attack Bonus), but the base physical damage is lowered.\nWeapons with innate Poison buildup gain an additional increase to Poison buildup, but the base physical damage is lowered.\nShields gain additional Poison resistance while lowering other resistances.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7001674793598065,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9d06f327-e2d7-52c9-bf8a-9d3ccca3571d",
+    "title": "Upgrade Materials",
+    "section": "uses_3",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Upgrade Materials -  Dark Souls - item - uses_3 \n uses_3 : Reinforces Standard weapons to +14\nReinforces Crystal & Lightning weapons to +4\nReinforces standard armor to +9",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6994575904776994,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c89fb305-1194-5db6-8195-1ccf9a24f8ba",
+    "title": "Magic (Dark Souls II)",
+    "section": "infusion",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Magic (Dark Souls II) -  Dark Souls II - mechanic - infusion \n infusion : Steady Hand McDuff can infuse most weapons with Magic through the use of a Faintstone. Once a weapon is infused, the Magic icon () will be displayed next to its image in the HUD.\n\nUninfused weapons imbued with Magic gain a fixed Magic Damage value (which scales with the Magic Attack Bonus), but the base physical damage is lowered by 30%, as is the base scaling. For example, if a regular weapon that deals 100 physical damage is infused with Magic, its stats switch over to 70 physical damage and 70 Magic Damage.\nWeapons with innate Magic Damage gain an additional Magic scaling and a 44% damage increase to Magic, but the base physical damage is lowered by 5%, as is the current scaling.\nShields gain additional Magic resistance while lowering other resistances.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6977560177396336,
+    "bm25_score": null
+  },
+  {
+    "document_id": "996431ef-3bbc-54df-91b4-863c85bcf8c9",
+    "title": "Splitleaf Greatsword",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Splitleaf Greatsword -  Dark Souls III - weapon - notes \n notes : This weapon gains S Strength scaling upon max reinforcement and Heavy infusion.\nAmnesiac Lapp wields this weapon.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6964403217119649,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e3909a80-dca9-5fb2-9aa1-229328f375da",
+    "title": "Shortsword (Dark Souls III)",
+    "section": "upgrades",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Shortsword (Dark Souls III) -  Dark Souls III - weapon - upgrades \n upgrades : Reinforced with Titanite.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6955103442370688,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ac73719b-4b71-5eb7-855c-0041deca0071",
+    "title": "Weapon Modification",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Weapon Modification -  Dark Souls - mechanic - lead \n lead : For the equivalent mechanic in Dark Souls II, see Infusion. For the equivalent mechanic in Dark Souls III, see Infusion (Dark Souls III). For the action of the player actively buffing a weapon, see Weapon Augmentation.\n\n**Weapon modification** is a gameplay mechanic of *Dark Souls''.\n\nWeapon modification allows weapons (including shields) to be reinforced in power and/or endowed with special elemental damage, improving their performance against tougher enemies.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6944257997510741,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6562a14f-307c-5b35-a4cd-d9f84940e13c",
+    "title": "Infusion",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Infusion -  Dark Souls II - mechanic - notes \n notes : Infused weapons have a small icon in the corner of the weapon portrait which tells its element.\nBleed, Bolt, Darknight, Faint, Firedrake, and Poison stones can be used to tailor resistances of shields.\nStaves can only be infused with Faintstones and Darknight Stones.\nChimes can only be infused with Boltstones and Darknight Stones.\nOld Mundane Stone works best if the player character's stats are relatively even across the board (e.g. all stats 30).\nDaggers have nerfed Mundane Scaling values.\nCurrent patch weapons usually lose damage on Mundane and Enchanted, with few exceptions.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6921238631126976,
+    "bm25_score": null
+  },
+  {
+    "document_id": "86171a16-02da-5864-ac7b-31e486d8d48e",
+    "title": "Lightning (Dark Souls II)",
+    "section": "infusion",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Lightning (Dark Souls II) -  Dark Souls II - mechanic - infusion \n infusion : Steady Hand McDuff can infuse most weapons with Lightning through the use of a Boltstone. Once a weapon is infused, the Lightning icon () will be displayed next to its image in the HUD.\n\nUninfused weapons imbued with Lightning gain a fixed Lightning Damage value (which scales with the Lightning Attack Bonus), but the base physical damage is lowered by 30%, as is the base scaling. For example, if a regular weapon that deals 100 physical damage is infused with Lightning, its stats switch over to 70 physical damage and 70 Lightning Damage.\nWeapons with innate Lightning Damage gain an additional Lightning scaling and a 44% damage increase to Lightning, but the base physical damage is lowered by 5%, as is the current scaling.\nShields gain additional Lightning resistance while lowering other resistances.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6919539262959093,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0c463834-b2c5-549f-bace-73acb2d7f373",
+    "title": "Refined Gem",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Refined Gem -  Dark Souls III - item - usage \n usage : Can be used to create Refined weapons through Blacksmith Andre in Firelink Shrine.\n\nInfusing a weapon with a Refined Gem will increase the scaling bonuses from both Strength and Dexterity, without compromising one or the other, while also equalizing their scaling. While it does also lower the weapon's base damage slightly, the improved scaling bonuses, in most cases, will result in an overall damage increase.\n\nRefined infusions are a solid choice if a player is utilizing a quality build, where Strength and Dexterity are leveled equally. Furthermore, Refined weapons are still able to be fully buffed by resins, bundles, or spells.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6916404903507642,
+    "bm25_score": 39.36017875130853
+  },
+  {
+    "document_id": "72ea37d8-14c5-52b1-a842-9b9a41ffecaf",
+    "title": "Black Blade",
+    "section": "upgrades",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Black Blade -  Dark Souls III - weapon - upgrades \n upgrades : Reinforced with Titanite.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.69029805208889,
+    "bm25_score": null
+  },
+  {
+    "document_id": "87b1b374-30ad-5b7a-9f38-c986a9e4874f",
+    "title": "Duel Charm",
+    "section": "examples_of_special_area_effects",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Duel Charm -  Dark Souls III - item - examples_of_special_area_effects \n examples_of_special_area_effects : Various weapon skills.\nWeapon augmentations:\n**Crystal Magic Weapon\n**Darkmoon Blade\n**Lightning Blade\nOffensive spells:\n**Dark Edge\n**Great Chaos Fire Orb\n**Great Lightning Spear\n**Soul Spear\nSelf-augmentations:\n**Great Magic Barrier\n**Iron Flesh\n**Power Within\n**Sacred Oath",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6891099072868316,
+    "bm25_score": null
+  },
+  {
+    "document_id": "95461485-9882-597d-a68a-40dcc53579ec",
+    "title": "Upgrade Materials",
+    "section": "uses_4",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Upgrade Materials -  Dark Souls - item - uses_4 \n uses_4 : Reinforces Standard weapons to +15\nReinforces Crystal & Lightning weapons to +5\nReinforces standard armor to +10",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6881869934586375,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dd277e58-d021-5d4e-9874-c03f3ea32991",
+    "title": "Magic (Dark Souls III)",
+    "section": "ammunition",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Magic (Dark Souls III) -  Dark Souls III - mechanic - ammunition \n ammunition : Moonlight Arrows",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6880994220863695,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d4c4f62e-790d-542c-a7f0-970b169c5f7a",
+    "title": "Upgrade Materials",
+    "section": "uses_2",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Upgrade Materials -  Dark Souls - item - uses_2 \n uses_2 : Reinforces Standard weapons to +10\nReinforces standard armor to +6\nReinforces Raw weapons to +5",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6878233958024486,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6d9c9487-af8a-55da-a09f-29beaf7938ef",
+    "title": "Parameter Bonus (Dark Souls II)",
+    "section": "base_damage",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus (Dark Souls II) -  Dark Souls II - mechanic - base_damage \n base_damage : Unlike in *Dark Souls*, weapon scaling does not consider a weapon's base damage. The damage boost depends entirely on the stat and the parameter. This has some ramifications:\nLow damage weapons will benefit the most from scaling. In particular, weapons such as the Club will more than double its damage output. A Mundane Handmaid's Ladle can deal upward to 130 extra attack rating, when the weapon's base damage is only 10. On the other hand, weapons that deal high damage will benefit less from scaling. For example, a Giant Warrior Club will gain about +100 attack rating, when it's base attack rating is roughly 500~600.\nWeapons with low base damage but high scaling still benefit from reinforcement since scaling values also increase incrementally at each upgrade level.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.687599401038326,
+    "bm25_score": 28.336490471598317
+  },
+  {
+    "document_id": "90480d0a-c4d7-59d6-a161-c27b1478e59a",
+    "title": "Dark (Dark Souls III)",
+    "section": "ammunition",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls III) -  Dark Souls III - mechanic - ammunition \n ammunition : Dark Arrows",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6871573172209157,
+    "bm25_score": null
+  },
+  {
+    "document_id": "875c697d-8e94-5ecf-9c2e-7f39829c67d8",
+    "title": "Flamberge (Dark Souls III)",
+    "section": "upgrades",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Flamberge (Dark Souls III) -  Dark Souls III - weapon - upgrades \n upgrades : Reinforced with standard Titanite.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6857906949242525,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6c037008-44ab-57ef-b160-c9d9856378ab",
+    "title": "Dark Sword",
+    "section": "upgrades",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Dark Sword -  Dark Souls III - weapon - upgrades \n upgrades : Reinforced with standard Titanite.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6855151347940656,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8c0d2b2b-511d-539e-a75a-248cda25f851",
+    "title": "Large Club (Dark Souls III)",
+    "section": "upgrades",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Large Club (Dark Souls III) -  Dark Souls III - weapon - upgrades \n upgrades : Reinforced with Titanite.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6846449228915157,
+    "bm25_score": null
+  },
+  {
+    "document_id": "053cf8b1-7fd2-5f92-813d-6e0e8bfaee61",
+    "title": "Weapon Buff",
+    "section": "resources",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Weapon Buff -  Dark Souls II - mechanic - resources \n resources : [https://docs.google.com/spreadsheets/d/13jo9pauD_Ja_QQQxTXReFAFqHECn_h3RhscUY6KEo8E/edit?usp=sharing Datasheet] that can calculate AR added by weapon buffs to any weapon at any stat spread\n[https://docs.google.com/document/d/1jJHWCdGKc2UgtSYcDrlQZE2E3V2ZxtFD/edit?usp=sharing&ouid=117515301437183844612&rtpof=true&sd=true Damage Formula Doc] made by Lord Radai, see section two for buff information with links to params",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6843806987082101,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f69303cf-c6a9-5b14-89fe-d8a89b8a1486",
+    "title": "Parameter Bonus (Dark Souls III)",
+    "section": "scaling_values",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus (Dark Souls III) -  Dark Souls III - mechanic - scaling_values \n scaling_values : Parameter bonuses are displayed as letters ranging from E (lowest) to S (highest). Each letter represents an approximation of how well the weapon scales with a specific stat. For example, two weapons can both have equal base damage and a C scaling in Dexterity, but deal different amounts of damage because one weapon has a \"low\" C while the other has a \"high\" C. Similarly, the same scenario but with one weapon having a B scaling, the damage difference could be negligible because the C is \"high\" and the B is \"low\", as the letters are affected by breakpoints in the exact scaling value.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6832271450954635,
+    "bm25_score": 27.210388506469414
+  },
+  {
+    "document_id": "e4de76ee-2ef5-5fc4-8cd6-4441231f238c",
+    "title": "Parameter Bonus (Dark Souls III)",
+    "section": "elemental_damage",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus (Dark Souls III) -  Dark Souls III - mechanic - elemental_damage \n elemental_damage : Elemental damage scales off of one's Intelligence and Faith. The type of element will also affect which of the two stats is relevant, unless both are applied.\n\nElemental damage scales as follows:\nMagic is usually affected by Intelligence, but can also on some occasions be affected by Faith. However, they're rarely mixed.\nFire is generally boosted by a combination of Intelligence and Faith, scaling equally well with both stats.\nLightning is always affected by Faith.\nDark is, much like fire, affected by both Intelligence and Faith, and scales equally well with both.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6793232548099537,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e48ba554-42d1-5340-889a-ecfb959dddd2",
+    "title": "Upgrade Materials",
+    "section": "uses_7",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Upgrade Materials -  Dark Souls - item - uses_7 \n uses_7 : Reinforces Fire weapons to +10\nReinforces Chaos weapons to +5",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6790950384985666,
+    "bm25_score": null
+  },
+  {
+    "document_id": "297e239e-2483-5efa-b7e4-373fdeb30048",
+    "title": "Upgrade Materials",
+    "section": "uses_6",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Upgrade Materials -  Dark Souls - item - uses_6 \n uses_6 : Reinforces Fire weapons to +9\nReinforces Chaos weapons to +4",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.678721088760783,
+    "bm25_score": null
+  },
+  {
+    "document_id": "aa43242e-bf58-53e5-a1aa-b9c0e842c256",
+    "title": "Estoc (Dark Souls III)",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Estoc (Dark Souls III) -  Dark Souls III - weapon - notes \n notes : Accepts all infusions.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.678076878766825,
+    "bm25_score": null
+  },
+  {
+    "document_id": "89eefea6-c5b6-522a-b861-93b88ec3f497",
+    "title": "Reinforced Club (Dark Souls III)",
+    "section": "upgrades",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Reinforced Club (Dark Souls III) -  Dark Souls III - weapon - upgrades \n upgrades : Reinforced with Titanite.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6779678372013305,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fd63c180-1fcb-58db-ac1f-fd1f9d89cbee",
+    "title": "Magic (Dark Souls III)",
+    "section": "weapons",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Magic (Dark Souls III) -  Dark Souls III - mechanic - weapons \n weapons : Weapons with the Simple or Crystal infusions\nAquamarine Dagger (*The Ringed City*)\nCleric's Candlestick\nDrakeblood Greatsword\nGreatsword of Judgment\nMoonlight Greatsword\nCrescent Moon Sword\nDancer's Enchanted Swords\nCrystal Sage's Rapier\nHeysel Pick\nGolden Ritual Spear\nFriede's Great Scythe (*Ashes of Ariandel*)\nDarkmoon Longbow",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6779482832269346,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4440ddfc-b7d7-54fb-a772-2fe2f40e2708",
+    "title": "Old Mundane Stone",
+    "section": "general_information",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Old Mundane Stone -  Dark Souls II - item - general_information \n general_information : Used at Steady Hand McDuff. Reduces current damage stats of weapons to half and adds high scaling based on lowest player stat. It will add +6 points per stat level until 20. It then improves by three until the lowest stat is at 30, where it will then increase by ~1 point per level. If two or more stats are tied for lowest stat, only one of those stats will contribute to the scaling.\n\nIn short, if a player has very good and balanced levels across all skills, then it is preferable to use this infusion over Raw, as Raw simply increases the base stat by a small amount, while Mundane may increase the values of a weapon exponentially. Still, if a player is yet to have extremely good and balanced stats, then Raw is better.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6779098202753184,
+    "bm25_score": 24.460830288377146
+  },
+  {
+    "document_id": "28747e6c-ebbf-5cf3-8f70-cbd717884e62",
+    "title": "Parameter Bonus",
+    "section": "stat_rating",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus -  Dark Souls - mechanic - stat_rating \n stat_rating : The stats that improve damage aren't directly used in the calculations; instead, they are first converted to a *rating,* which increases very quickly at low stat levels but slows down after reaching certain \"soft caps.\" All attributes use the same conversion table to determine the bonus they receive from scaling, and Humanity uses its own.\n\nBetween each of the data points in the conversion tables, scaling increases linearly. Standard, raw, and crystal weapons, as well as weapons upgraded with twinkling titanite, demon titanite, or dragon scales, use the first table for determining the bonus damage from attributes. Weapons ascended down the Magic, Enchanted, Divine, and Occult paths use the second table for determining bonus damage from attributes.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.677860342186743,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dccc989b-46a0-5643-940c-03004644abba",
+    "title": "Weapon Modification",
+    "section": "ascension",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Weapon Modification -  Dark Souls - mechanic - ascension \n ascension : At certain reinforcement levels, specific blacksmiths can ascend a weapon. There are numerous ascension paths to choose from. They can change the stat scaling of the weapon, altering its base statistics dramatically, and sometimes add an elemental damage type and/or an auxiliary effect.\n\nThe weapon must be at the required level in order to be upgraded down a specific path and some require specific embers that can be found throughout the world.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.10162992485522
+  },
+  {
+    "document_id": "be01c2d7-a4d6-5cb2-bbcc-82bd854ea536",
+    "title": "Shields (Dark Souls II)",
+    "section": "reduction_scaling",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Shields (Dark Souls II) -  Dark Souls II - item - reduction_scaling \n reduction_scaling : Shields have 3 components to damage reduction, which do not apply to other weapon types:\n\n* *Base Block,* which equals block at +0.\n* *Upgrade Block*, which is what it gains per upgrade and equal to (without compensating for +5 weapon paths vs the +10 weapon path i.e. a +5 at 5 benefits as much as a +10 at 5).\n* *Scaling Block*, which is equal to , using every letter the shield says it scales with.And, for infusions,\n\n* *Base Block* is redefined for each infusion.\nInfusions decrease elements that are not selected by the same amount, 1/8th of how much the respective element's reduction increases.\n* *Upgrade Block* is applied while using the new *Base Block*.\n* *Scaling Block* is applied while using the new *Base Block* and, the multiplier for the *Scaling Letter*s determined post infusion.\n\nAt 99 of a stat, a +0 shield would gain these reductions on all elements:",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.678918850384065
+  },
+  {
+    "document_id": "6d6e7e2c-c4d6-5094-a0eb-bd564d2a8909",
+    "title": "Greatsword of the Forlorn",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Its moveset is similar to that of the Charred Loyce Greatsword; however, two-handed light attacks are standard greatsword swings.\n\nThe Greatsword also has a very interesting interaction with some infusions. Infusing the weapon with poison will give the weapon poison damage without reducing any base damage stats. However, physical scaling is still reduced, although the Dark scaling will be boosted to a B. Infusing the weapon with bleed will actually give a small *increase* to all base damage, with the Bleed damage receiving a much larger boost. The scaling will take a similar effect to poison infusions, however. Infusing the weapon with dark will only grant a C scaling, but due to matching the innate Dark damage, the player will get considerably more scaling out of this C than the B scaling the status infusions provide.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.281581824275587
+  },
+  {
+    "document_id": "bbf8ac4c-9e39-5d77-88bc-025f2476b11c",
+    "title": "Dragonslayer Greatbow (Dark Souls III)",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Dragonslayer Greatbow (Dark Souls III) -  Dark Souls III - weapon - characteristics \n characteristics : One of two greatbows available to the player in the base game, the Dragonslayer Greatbow is a powerful quality-scaling weapon that can devastate distant targets when used properly.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.202506706336376
+  },
+  {
+    "document_id": "61521ae8-bdcd-598c-bdb2-113e78c96f01",
+    "title": "Giant Warrior Club",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Giant Warrior Club -  Dark Souls II - weapon - characteristics \n characteristics : Fully upgraded, the Giant Warrior Club ties with the Malformed Skull for the weapon with the highest physical attack rating in *Dark Souls II*, reaching a maximum of 520 damage. Ultimately, the Warrior Club hits harder than the Malformed Skull, as the former has an A scaling in Strength, whereas the latter has no attribute scaling bonuses. The base damage of the Giant Warrior Club can be further increased through a Raw infusion, to reach a maximum of 598 damage, but severely lowering the Strength scaling bonus to D.\n\nThe weapon also has the highest Strength requirement in the base game to wield one-handed, at 60 Strength. However, the Smelter Hammer from the DLC is higher, at 70 Strength. It is also the second heaviest weapon by a margin of 5 units, being outweighed by the Smelter Hammer.\n\nThe Giant Warrior Club uses regular Titanite to upgrade.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.109948881996505
+  },
+  {
+    "document_id": "02a331ef-667d-533b-8f94-bf9f87a60ae3",
+    "title": "Deprived (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Deprived (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : The **Deprived** is one of the classes in *Dark Souls 3*.\n\nIt has a complete lack of focus in its stats, with all of them being 10 at the start. In combination with its low level of 1 this makes it a flexible, if non-optimal base for any build or respec the player wishes to do.\n\nThe Club is a simple yet strong weapon thanks to its quick attack speed and good strike damage. Its Weapon Art, Warcry, further increases damage by 10% for 30 seconds, and replaces the jump of its heavy attack with a flurry of blows, turning it into a stronger yet similarly niche attack. Its main disadvantage is its heavy focus on Strength-scaling as that might limit build potential a bit.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.09531449687355
+  },
+  {
+    "document_id": "53a9d944-48db-54af-a393-e5b790161779",
+    "title": "Astora Straight Sword",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Astora Straight Sword -  Dark Souls III - weapon - characteristics \n characteristics : Although it has a minimum requirement in Faith in order to be used effectively, the Astora Straight Sword does not scale with Faith (unless it is infused down the Blessed/Lightning path), nor is it innately-blessed (unlike Anri's Straight Sword).\n\nWhile it does have higher base damage than the Long Sword, it should be noted that it scales worse in Dexterity, and continues to scale unremarkably with both Strength and Dexterity, even at maximum reinforcement, and when it is made into a refined weapon.\n\nUnlike its *Dark Souls* variant, it does not have magic damage or blessed damage.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.00713364028056
+  },
+  {
+    "document_id": "4647a30f-b263-56fd-8bbc-640584e280f2",
+    "title": "Dexterity (Dark Souls)",
+    "section": "weapon_scaling",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Dexterity (Dark Souls) -  Dark Souls - mechanic - weapon_scaling \n weapon_scaling : The following are weapons that scale with dexterity, and their level of scaling, when not upgraded. Weapon scaling may change when upgraded.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.66500759122664
+  },
+  {
+    "document_id": "6bebc808-c136-5cc4-8836-223782aa9dfc",
+    "title": "Greatsword (Dark Souls III)",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Greatsword (Dark Souls III) -  Dark Souls III - weapon - characteristics \n characteristics : The Greatsword is an extreme ultra greatsword, giving up versatility and efficiency for sheer size and raw power. Its overhead swings reach high above the wielder, and its horizontal attacks cover a large area in front of the wielder. The Greatsword also features a low Dexterity requirement of 10 and the highest potential attack rating of all Heavy-infused ultra greatswords, lending itself well to strength builds looking to overpower their enemies. Its high base damage also lends itself well to the non-scaling Deep and Fire infusions, although Raw is always outperformed by Heavy.\n\nHowever, it is the third heaviest ultra greatsword in the game at 20 weight units, and its two-handed attacks can be difficult to use against nimble opponents, as the vertical nature of the light attacks make them relatively easy to avoid.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.575343616977833
+  },
+  {
+    "document_id": "fc8ed8b1-5e64-52d4-a88f-4c86e3daabe3",
+    "title": "Thief (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Thief (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : The **Thief** is one of the classes in *Dark Souls 3*.\n\nIt is a class focused on Dexterity and Luck, making it good for a build focused on light or status inflicting weapons, such as the Scimitar or the Uchigatana, or weapons with the Sharp, Blood, or Hollow Infusions. It also has just enough Attunement and Intelligence to immediately use supportive Sorceries such as Spook for increased stealth or Magic Weapon for extra damage without additional investment in those stats.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.553040305034234
+  },
+  {
+    "document_id": "695efcc6-cca2-52bc-b337-f1af303895a4",
+    "title": "Lothric War Banner",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Lothric War Banner -  Dark Souls III - weapon - characteristics \n characteristics : As a pike, the Lothric War Banner does not have any major defining characteristics with regards to its moveset aside from having a spear's running attack instead of the normal charge of the pikes.\n\nStatistically, it is quite strong for melee-focused builds, as it can reach A scaling in either Strength or Dexterity through Heavy or Sharp infusion respectively, or have B scaling in both through Refined infusion.\n\nIt is shorter than other pikes by a very small amount, still having very good reach. In exchange for this near-nonexistent drawback, it is much lighter than other weapons in its category, with the rest being at least 50% heavier.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.328230987737335
+  },
+  {
+    "document_id": "5ab57a27-cc93-5155-bb70-17122dab8f65",
+    "title": "Raw Stone",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Raw Stone -  Dark Souls II - item - description \n description : The Raw Stone can be used to infuse weapons. It increases the base damage of the weapon but severely lowers its current scaling and cannot be used on shields.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.281501636730248
+  },
+  {
+    "document_id": "6149549d-0ce0-5f33-8287-3ab4fbb3e41e",
+    "title": "Parameter Bonus (Dark Souls III)",
+    "section": "overview",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus (Dark Souls III) -  Dark Souls III - mechanic - overview \n overview : As a rule of thumb, a weapon's physical damage is affected by the wielder's Strength and Dexterity, while elemental damage is affected by Intelligence and/or Faith. Some weapons, such as Anri's Straight Sword and Hollow weapons, also scale with Luck.\n\nHowever, there are also some exceptions, such as the Saint Bident and Blessed weapons, which scale their physical damage with Faith, as well as Strength and Dexterity.\n\nHow effectively a weapon scales is not only affected by the weapon's parameter bonus, but also its base damage. As such, weapons with high scaling but low base damage are likely to get less bonus damage than a weapon with more base damage and similar scaling. It is even possible that a weapon with a considerably worse parameter bonus gets more scaling due to having much higher base damage.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.120339808590842
+  },
+  {
+    "document_id": "28915fa2-6055-55ac-b286-718cb01e7360",
+    "title": "Palestone",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Palestone -  Dark Souls II - item - description \n description : This upgrade material will remove an infusion from any weapon. To use it, the player must first give McDuff the Dull Ember and select the \"Infuse weapon\" option when speaking to him. A Palestone does not need to be used in order to change infusions.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.102419250467605
+  },
+  {
+    "document_id": "8f9dec0a-0ea4-5680-b030-d00406c66d4c",
+    "title": "Broadsword (Dark Souls III)",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Broadsword (Dark Souls III) -  Dark Souls III - weapon - characteristics \n characteristics : The Broadsword is a short sword with a wide blade that emphasizes slashing, and thus, offers no thrust attacks. In turn, the Broadsword features high base damage and good strength scaling, allowing the sword to deal formidable damage at any point in the game. Additionally, the broad slash attacks allow the sword to dispatch groups of enemies with ease. However, care should be taken when in tight corridors or near walls, as the sword is likely to bounce off of solid objects, rendering the wielder vulnerable for a brief moment.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.6360855656962
+  },
+  {
+    "document_id": "90b5002d-7eb6-5877-b252-84291b89f628",
+    "title": "Parameter Bonus (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : The **Parameter Bonus**, also known as **Scaling**, is a mechanic in *Dark Souls III*. It indicates the level of bonus damage one can do with a weapon, based on the associated stats. In order of most to least effective, this rating can be S, A, B, C, D or E.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.509839790689195
+  },
+  {
+    "document_id": "1c84b22a-feab-5a46-ad09-9f638fa158e6",
+    "title": "Winged Knight Halberd",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Winged Knight Halberd -  Dark Souls III - weapon - characteristics \n characteristics : The Winged Knight Halberd is a Strength-oriented halberd whose moveset is composed entirely of wide swinging attacks. It requires copious amounts of Strength in order to wield effectively, and scales primarily with that stat. Its high base damage makes it particularly strong with non-scaling infusions, but it works best when infused with a Heavy Gem.\n\nLike all other halberds, it deals the most damage when it hits enemies with the blade rather than the shaft. However, it also lacks the thrust attacks that the standard Halberd possesses, limiting its effectiveness against enemies weak to Thrust damage and in combat in narrow corridors.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.455054588796582
+  },
+  {
+    "document_id": "2d2e44f7-157d-59bc-9f8e-533cf0f36168",
+    "title": "Raw (upgrade path)",
+    "section": "overview",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Raw (upgrade path) -  Dark Souls - mechanic - overview \n overview : Raw increases the base damage of a weapon, while reducing its stat scaling from Strength and Dexterity. As its name suggests, it gives the weapon jagged edges, making it more dangerous but also more unwieldy.\n\nIt is a unique upgrade path in that it does not allow a second tier of ascension. It essentially functions as a way for players to maximize their attack power early on in the game, with Raw +5 weapons generally more powerful than Normal +10 weapons. However, Normal +15 weapons are always stronger than their Raw +5 counterparts.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.406246316399976
+  },
+  {
+    "document_id": "d3b00ef4-2779-5358-9d36-635b4e992b94",
+    "title": "Strength (Dark Souls)",
+    "section": "weapon_scaling",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Strength (Dark Souls) -  Dark Souls - mechanic - weapon_scaling \n weapon_scaling : The following are weapons that scale with strength, and their level of scaling, when not upgraded. Weapon scaling may change when upgraded. Diminishing returns for Strength scaling begin at 40 effective Strength.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.310006857913102
+  },
+  {
+    "document_id": "93bd857c-f6ba-5e22-a73d-845132adea2f",
+    "title": "Faith (Dark Souls)",
+    "section": "weapon_scaling",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Faith (Dark Souls) -  Dark Souls - mechanic - weapon_scaling \n weapon_scaling : The following are weapons that scale with faith, and their level of scaling, when not upgraded. Weapon scaling may change when upgraded.\nAstora's Straight Sword (C)\nCrescent Axe (B)\nDarkmoon Bow (D)\nDragonslayer Spear (B)\nGrant (A)\nGreatsword of Artorias (B)\nGreatsword of Artorias (Cursed) (C)",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.040592087025914
+  },
+  {
+    "document_id": "18ed0131-871a-55ab-849a-a6b18d365572",
+    "title": "Intelligence (Dark Souls)",
+    "section": "weapon_scaling",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Intelligence (Dark Souls) -  Dark Souls - mechanic - weapon_scaling \n weapon_scaling : The following are weapons that scale with Intelligence, and their level of scaling, when not upgraded. Weapon scaling may change when upgraded.\nChanneler's Trident (B)\nGreatsword of Artorias (B)\nMoonlight Butterfly Horn (B)\nMoonlight Greatsword (A)\nStone Greatsword (E)\nTitanite Catch Pole (D)\nVelka's Rapier (B)",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.040592087025914
+  },
+  {
+    "document_id": "880f21b6-29a6-54ba-938f-a2721e205ed3",
+    "title": "Flamberge (Dark Souls III)",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Flamberge (Dark Souls III) -  Dark Souls III - weapon - characteristics \n characteristics : Despite having an average moveset, the Flamberge excels in its raw damage, while also being the only greatsword to inflict bleed and dealing purely Slash damage (with exception of the Stance strong attack, which deals Thrust damage).\n\nThis raw damage does have the penalty of a very poor scaling, but it is still very good, and its minimal requirements to wield it properly might make it an attractive choice for any player.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.902867071194805
+  },
+  {
+    "document_id": "a660030b-763c-506c-9320-da1a18ca48c6",
+    "title": "Moonlight Greatsword (Dark Souls III)",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Moonlight Greatsword (Dark Souls III) -  Dark Souls III - weapon - characteristics \n characteristics : A time-honored classic returning from the previous *Souls* games, the Moonlight Greatsword is a strong weapon in the hands of a dedicated Sorcery caster.\n\nUnlike its previous iterations, *Dark Souls III*'s Moonlight Greatsword inflicts both physical and Magic damage, as well as being given scaling in Strength, albeit poorly. However, this does not change the fact that the physical scaling should be ignored, outside of meeting the minimum wielding requirements, in favor of leveling Intelligence, as the Moonlight Greatsword has been traditionally built (though as is the case with most melee weapons, it only scales effectively up to 40 in the offensive stats). The physical damage component is useful when performing criticals, as both damage types are magnified during the attack, allowing it to more easily punch through foes' flat Defenses.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.88631134870252
+  },
+  {
+    "document_id": "bec70080-2e02-5468-b7a4-4ed0aa35b38f",
+    "title": "Club (Dark Souls III)",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Club (Dark Souls III) -  Dark Souls III - weapon - characteristics \n characteristics : The Club is a fast and hard-hitting weapon. This, combined with its relatively low weight and requirements, makes it a formidable weapon that is easily overlooked.\n\nThe main weakness of the Club is its heavy attacks, which are slow and heavily telegraphed, especially in comparison to the light attacks. However, these attacks will also hit much harder than the average heavy attack.\n\nThe Warcry skill will further increase the Club's damage output, as well as change the normal heavy attack to a four-hit combo. This attack is harder to hit and is far more punishing, should it miss, but it also deals exceptional damage should all four hits connect.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.82275528221564
+  },
+  {
+    "document_id": "1bf3d467-4d27-5fc6-80c5-e282d8a6067b",
+    "title": "Painting Guardian's Curved Sword",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Painting Guardian's Curved Sword -  Dark Souls III - weapon - trivia \n trivia : When infused, the \"Curved\" part of the sword's name will be replaced with whatever infusion is applied. For example, a raw infusion will rename it to \"Painting Guardian's Raw Sword.\"\n**Additionally, some infusions, such as lightning, will exclude the \"Sword\", instead showing up as \"Painting Guardian's Lightning\", from the name when viewing a reinforced variant through Andre's reinforcement or infusion menu.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.663729036282593
+  },
+  {
+    "document_id": "add814d3-b394-5bb2-8c7d-93a0d91c6028",
+    "title": "Follower Javelin",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Follower Javelin -  Dark Souls III - weapon - characteristics \n characteristics : The Follower Javelin is almost identical to the Spear in most regards, but it is notably different in its weapon art. The Javelin's weapon art has the player throw an illusory spear that will deal the same amount of damage as the light attack would. This has a surprisingly large range which can be incredibly useful for players that want to have a ranged form of attack but do not want to switch to a bow or crossbow in the middle of combat, or do not want to use spells.\n\nIt also has good scaling with Strength (having A scaling when fully upgraded and infused with Heavy) and has very low weight.\n\nIts main drawback is that it is the second shortest spear in the game, only beating the Golden Ritual Spear.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.377557840008077
+  },
+  {
+    "document_id": "839cd62d-dabb-563b-bad1-bcae4535a330",
+    "title": "Great Scythe (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Great Scythe (Dark Souls III) -  Dark Souls III - weapon - description \n description : Attacks with this large scythe, normally used for crop harvesting, are effective at breaking past shields.\n\nThe magnificent sharp curved blade instils fear in opponents. Perhaps it is their survival instinct at work.\n\nSkill: Neck Swipe\nThis attack aims for the scruff of a foe's neck, and when successful, functions as a head shot, inflicting heavy damage.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.130590515562684
+  },
+  {
+    "document_id": "35ad9f48-9c10-5fc5-880b-323bfd369698",
+    "title": "Deep Gem",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Deep Gem -  Dark Souls III - item - usage \n usage : In order to unlock the Deep infusion for use, the player must first give the Sage's Coal to Blacksmith Andre.\n\nUsing a Deep Gem will infuse the target weapon with a deepened form of Dark, and in turn, will make a weapon deal both physical damage and dark damage, at an equal-split margin with one another.\n\nDeep infusions also remove *all* scaling effects present on the weapon after infusion, much like a Fire Gem does, which means in order to achieve maximum damage on deep weapons, the player will have to fully-reinforce one.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.08959256299071
+  },
+  {
+    "document_id": "7d6dfb84-b7a8-5700-ab27-9a94a6ca476f",
+    "title": "Raw Gem",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Raw Gem -  Dark Souls III - item - description \n description : A gem of infused titanite.\nForged the weapons of Lothric foot soldiers.\n\nUsed in infusion to create raw weapons.\n\nRaw weapons are easily wielded and have higher attack, but lose scaling effects.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.965769752287954
+  },
+  {
+    "document_id": "0b13145b-781b-5a6c-9c94-cd1f29d2f4ab",
+    "title": "Long Bow",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Long Bow -  Dark Souls II - weapon - notes \n notes : Upgrades with Titanite.\n+10 Long Bow has 150 base damage and a D/A scaling.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.750278909574575
+  },
+  {
+    "document_id": "c5592c1d-6aed-54ae-8b21-2fc2715d7739",
+    "title": "Medium Armor Sets (Dark Souls II)",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Medium Armor Sets (Dark Souls II) -  Dark Souls II - armor - characteristics \n characteristics : In comparison to Light Armor, the Medium Armor sets are heavier (and therefore slower), but much lighter than the Heavy Armor sets (therefore faster during combat), and this will play a large role in how you play the game, ranging from PvE and PvP.\n\nIt is recommended that new players start out with mostly Medium Armor Sets, and they can make a decision for themselves. If they find they are taking too much damage, then they can make the choice to switch to a Heavy Armor Set, and if they feel like they are too slow, or they take too little damage for the defensive properties to be worth the weight, they may choose to choose a Light Armor Set.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.70605755921199
+  },
+  {
+    "document_id": "c8fff9af-d92e-5e17-83c6-3a9065bebe79",
+    "title": "Lightning Gem",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Lightning Gem -  Dark Souls III - item - usage \n usage : Infuses a weapon with Lightning damage as well as granting Faith scaling, but reducing Strength and Dexterity scaling, as well as reducing base damage. Scaling soft caps at 40 Faith.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.6954378070212
+  },
+  {
+    "document_id": "e5db9cdd-fb16-55d9-a30d-d8f399e448b6",
+    "title": "Mail Breaker (Dark Souls II)",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Mail Breaker (Dark Souls II) -  Dark Souls II - weapon - characteristics \n characteristics : Strong attacks with this weapon completely bypass shield defenses.\n\nDue to its low base damage and mediocre scaling, it is wise to infuse with either bleed, poison, or mundane.\n\nThis is a niche weapon, as it works great against tanks and greatshield users, especially when infused with bleed or poison.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.555171375362388
+  },
+  {
+    "document_id": "cdb8d59d-6175-55c3-92d6-e5ca22b9ff0b",
+    "title": "Standard (Dark Souls II upgrade path)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Standard (Dark Souls II upgrade path) -  Dark Souls II - mechanic - lead \n lead : **Standard** Reinforcement is a basic form of improving weapons and armor in *Dark Souls II*, that also appeared in *Dark Souls* beforehand. It is independent of the other infusions unlike in *Dark Souls*; you can reinforce an infused weapon, and a reinforced base weapon will not lose its levels from infusion. Also, in contrast to *Dark Souls*, common equipment can be reinforced only up to +10, not +15.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.497962460876412
+  }
+]

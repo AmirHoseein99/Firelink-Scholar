@@ -1,0 +1,2200 @@
+[
+  {
+    "document_id": "147a7f70-9970-55b7-a8e4-62628baa21de",
+    "title": "Cleric (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Cleric (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : The **Cleric** is one of the classes in *Dark Souls 3*.\n\nIt is a Faith-focused class, with decent Attunement, Strength, and Luck. This makes them well-suited to a Miracle-heavy build, and to using the many Lightning-attuned weapons as they are often also have good Strength-scaling.\n\nWhile it does indeed have spells, in the form of Heal (which heals) and Force (which throws enemies away from you), it does not have any that causes damage, with the earliest ones not being found until Cathedral of the Deep or Farron Keep. This means the class will have to focus primarily on weapons initially, and will do well to keep them upgraded as offensive Miracles consume a lot of Focus Points.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "212a2f74-2efb-569b-a1be-762cd56cd65d",
+    "title": "Cleric (Dark Souls III)",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Cleric (Dark Souls III) -  Dark Souls III - mechanic - trivia \n trivia : This is the only spellcasting-focused starting class in Dark Souls 3 that doesn't have a damage-boosting ring. Presumably this is because the Cleric doesn't have a damaging Miracle equipped from the start, and the Morne's Ring can instead be found in the Road of Sacrifices.\nThis class has remained remarkably similar throughout the series, always carrying a Mace and the Heal Miracle.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "33f77c45-81c2-5412-8f97-1b9578708d46",
+    "title": "Cleric (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Cleric's Sacred Chime is a fairly good casting tool and is actually the strongest casting tool for Miracles from 45 to 49 Faith. Its Spell Buff (the stat that affects how strong scaling spells are) doesn't actually increase until at least 19 Faith has been reached. Its Weapon Art is Gentle Prayer, a regenerative effect that always restores 360 hp over the course of a minute as long as the Chime is held in an active hand (so replacing it with another item stops it, as does two-handing the item in the other hand). This effect will actually outheal the Heal Miracle by up to 20% until the Chime's Spell Buff reaches 120, and even afterwards it is a strong if slow alternative due to only having about a third the cost in Focus Points.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4728a634-36cd-5056-bd02-a9c1c32bdaec",
+    "title": "Cleric (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Cleric Set is a light, caster-type armor set and as such has low physical defences and high elemental defences, while also having high Poison and Curse resistances.\n\nThe first trainer for more Miracles is found in the Undead Settlement for further development.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ed331070-d8b1-5344-8ffa-f79bdca21a97",
+    "title": "Cleric (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Mace is an unexpectedly strong weapon for what may at first seem like a spellcasting class, but in reality it is often a **Cleric's** main armament. This is because Strike damage is often the strongest physical damage type as armored and skeletal enemies are weak to it (most other physical damage types have fewer enemies weak to them), strong Strength-scaling for easy damage increases, a fairly good moveset, and has a good Weapon Art for trading hits with opponents. How the Weapon Art works is that Perseverance adds a flat 45% extra absorption and causes the attacks of light weapons to bounce off the user, while also granting great Hyper Armor to prevent being staggered.\n\nThe Blue Wooden Shield is not very good, having only decent physical and magic defence with serviceable Stability. While it does have Parry (albeit the inferior Medium Shield version), a strong Weapon Skill shield like the early Silver Eagle Kite Shield would probably serve as a better replacement.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c2b6bdf6-b7f4-5a74-bf42-27c7ce112a6c",
+    "title": "Curved Greatswords (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Curved Greatswords (Dark Souls III) -  Dark Souls III - weapon - lead \n lead : **Curved Greatswords** are a type of weapon in *Dark Souls III*.\n\nServing as the intermediate between greatswords and ultra greatswords, curved greatswords are powerful Hyper Armor weapons that boast impressive damage output, with higher Poise health than a greatsword but the same Poise damage as an ultra greatsword. Curved greatswords are renowned for their strong running attacks, though their Slash damage type is more easily resisted by heavy plate armor. Their versatility and attack power make them popular weapons in PvP, though their comparatively slow swing speed can make them difficult to use.",
+    "sources": [
+      "template",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.72692052524655
+  },
+  {
+    "document_id": "6542a9fd-d197-5206-a123-9482dc0222e2",
+    "title": "Great Hammers (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "However, they are extremely slow to bring to bear, meaning that they must be used with care due to how vulnerable the wielder becomes between attacks. Their extreme weight and immense stamina consumption also means that heavy Endurance and Vitality investment is mandatory, and like other ultra weapons they scale primarily with Strength.\n\nWithin the great hammers weapon class, there also exists a sub-class of three **Ultra Great Hammers**, which possess increased Poise health, making them extremely difficult to interrupt once they are in motion. These weapons, Smough's Great Hammer, Morne's Great Hammer and Ledo's Great Hammer, are immensely heavy and require copious amounts of Strength to wield, but when used properly can dominate an area around them, becoming monsters on the battlefield.\n\nLike their smaller cousins, the primary skill used by great hammers is Perseverance, providing instant Hyper Armor to give the wielder increased survivability.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8cb2939f-788e-5a06-b977-531878739049",
+    "title": "Great Hammers (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Great Hammers (Dark Souls III) -  Dark Souls III - weapon - lead \n lead : **Great Hammers** are a type of weapon in *Dark Souls III*.\n\nThe largest and most powerful class of ultra weapon, great hammers possess the heftiest Poise health and inflict the most Poise damage of all ultra weapons, making them the strongest Hyper Armor weapons in the game. With the exception of the Pickaxe, all great hammers inflict Strike damage, which is the least-resisted physical damage type on the vast majority of all armor, allowing these weapons to inflict much more damage than their peers. Like greataxes, great hammers possess very powerful vertical swings that can stagger foes in an area around the impact point, which can interrupt enemies attempting to outspace the wielder's swings even if they take no damage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7144dfc9-61be-5b0c-8e89-9b31b8123da6",
+    "title": "Greataxes (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Greataxes (Dark Souls III) -  Dark Souls III - weapon - lead \n lead : **Greataxes** are a type of weapon in *Dark Souls III*.\n\nOne of the three classes of ultra weapons, greataxes are characterized by their heavy weight, hefty stamina cost and slow swing speed, in exchange for providing strong Hyper Armor and high damage output. Like other ultra weapons, they benefit greatly from investing heavily in Endurance, Vitality and Strength.\n\nAmong all ultra weapons, greataxes have a mundane moveset and the least range, but make up for this by inflicting the most damage. As well, like great hammers their vertical swings can inflict stagger on foes in an area around the impact point, making this weapon difficult to space against even by skilled opponents. As the big brother to the axe weapon class, several greataxes also possess the Warcry skill, allowing them to amplify their already high damage output to extreme levels.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9e7650cf-dada-5484-9108-202805f087cf",
+    "title": "Halberds (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Halberd movesets are divided into two general categories, those with sweeping weak attacks and those with thrusting weak attacks. However, in practice, only two halberds possess the thrusting moveset, the Halberd and the Red Hilted Halberd. These thrusting halberds have the advantage of attacks that inflict Thrust damage and thus benefit from Counter Attacks, however this is offset by their inability to utilize Hyper Armor with these thrusting attacks.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cfbe3fe3-da04-51f7-b23b-6186654920f9",
+    "title": "Halberds (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Halberds (Dark Souls III) -  Dark Souls III - weapon - lead \n lead : **Halberds** are a type of weapon in *Dark Souls III*.\n\nA special type of polearm, halberds possess sweeping attacks combined with long range to give their attacks strong coverage and reach. With the exception of attacks that perform thrusting attacks, they can also take advantage of Hyper Armor, meaning that Poise will allow them to engage foes inside of the arc of their blades. However, like other polearms, halberds will deal reduced damage to targets that are not hit by the head of the weapon itself.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1f1a50b6-7d9f-53c8-baa8-c27ce9ad0fe0",
+    "title": "Hammers (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Hammers (Dark Souls III) -  Dark Souls III - weapon - lead \n lead : **Hammers** are a weapon type in *Dark Souls III*.\n\nHammers are generally blunt weapons which inflict strike and/or thrust damage, depending on the specific weapon. They are the smallest-sized weapons which have Hyper Armor frames, allowing them to take advantage of Poise, though they are generally only effective at trading against similarly sized weapons. Offensively, they have moderate swing speed and crushing overhead strikes which are powerful for dealing with single targets, and they can deal Poise damage rivaling that of Greatswords. Most Hammers, with the exception of the Drang Hammers, have relatively low Dexterity requirements, making them ideal for Strength builds.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2bf79ffe-2e17-57ff-9549-dd089bf7486b",
+    "title": "Hyper Armor",
+    "section": "overview",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Hyper Armor is also activated by some Skills (Stomp being an example), granting more efficiency during the effect. However, opponents may easily avoid the next attack, potentially making the skill useless (especially in PvP).",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c1cf88b2-053e-5c39-a272-cd2170caa348",
+    "title": "Hyper Armor",
+    "section": "premise",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Hyper Armor -  Dark Souls III - mechanic - premise \n premise : The inclusion of the Hyper Armor gameplay mechanic has generated some misunderstandings among the gaming community. Most players expected *Dark Souls III* to feature a standard Poise stat, such as that seen in *Dark Souls* and * Dark Souls II*, but Hyper Armor works in a slightly different manner, which lead the community to think that Poise was not even working.\n\nEven if the game creator, Hidetaka Miyazaki, during an interview confirmed that Poise was \"working as intended\", players who were wearing Heavy Armor sets (such as Havel's Set) noticed they were getting staggered by any kind of attacks, even those from the simplest enemies.\n\nThat was until the release of Patch 1.08, which fixed Poise and Hyper Armor functionality.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7304743817478502,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c4b82e6d-bda3-5ff4-b59a-75db699a1dbb",
+    "title": "Hyper Armor",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Hyper Armor -  Dark Souls III - mechanic - lead \n lead : **Hyper Armor** is a gameplay mechanic in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e2975024-4391-5d21-8c85-4032ed047b24",
+    "title": "Hyper Armor",
+    "section": "overview",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Hyper Armor -  Dark Souls III - mechanic - overview \n overview : Hyper Armor is a new gameplay mechanic introduced in *Dark Souls III* that applies to the effects of Poise. It activates during the attack animations of the player, allowing them to avoid getting staggered if receiving a hit during this time.\n\nThe Hyper Armor's activation depends on three factors:\n#The type of weapon wielded by the player.\n#The type of weapon wielded by the opponent (either in PvE or PvP).\n#The Poise numeric parameter.\nThis means that \"passive poise\", as seen in previous installments, does not apply anymore. The player must actually attack or they will get staggered nonetheless. There's an important thing to remember, though: small weapons (such as Daggers, Straight Swords, etc.) don't feature Hyper Armor at all.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7518425191997415,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0021b068-8008-592b-9578-96a72a0a3858",
+    "title": "Knight (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Knight Shield is, along with the Herald's Kite Shield, one of only two starting shields with 100% physical blocking, giving the Knight considerable extra survivability early on. However, its elemental defences are bad and it has somewhat mediocre Stability, making it easier to break that block. It has the Parry, allowing for critical hits if the user knows how to time it properly against enemies.\n\nThe Knight Set it is carrying is the strongest starting armor set, with quite good physical defenses and respectable elemental defences, and has a good amount of Poise for if using a weapon or attack capable of activating Hyper Armor. It does however have mediocre status resistances and is fairly heavy, and the Knight largely lacks the ability to exploit its Poise unless a larger weapon is acquired.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2dd1c00d-d162-54c8-a433-4782e161053f",
+    "title": "Knight (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The adequate mental stats mean that just one point in either Intelligence or Faith could let it pick up some helpful spells, Soul Arrow, Spook, and Magic Weapon with the Sorcerer's Staff for the former and Heal Aid with the Talisman for the latter.\n\nIts extremely low Luck of 7, shared with the Pyromancer class, means it is often optimal for a large amount of non-pyromancer, non-luck based builds, due to not wasting any of its starting point in that often sub-optimal stat, though it does lack other classes' starting equipment which might help make them initially more optimal/have earlier access to items for that role.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "75a40ff7-6d08-51ba-ab4f-f7fe0a8a07c9",
+    "title": "Knight (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Knight (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : The **Knight** is one of the classes in *Dark Souls 3*.\n\nIt is the most newcomer friendly-class in Dark Souls 3, thanks to its strong and versatile weapon, its 100%-physical block shield, its strong armor, and its well-rounded stats. It is also suitable to a wide variety of builds thanks to its good Strength and Dexterity, and decent Intelligence and Faith. It also has good Vitality, letting it carry heavier equipment easier.\n\nThe Long Sword is a strong and versatile weapon, with fast swings on its light attacks and a strong thrusting attack as its one-handed heavy attack, capable of dealing heavy damage if a Counter Attack is landed. Its Weapon Art, Stance, is similarly versatile, as following as using a light attack while holding the stance leads to a block-breaking uppercut while the heavy attack version is a lunging thrust to catch enemies off guard.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "225a1de0-b22c-56eb-ba5b-f2c48317ed12",
+    "title": "Mercenary",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The starting weapon, the Sellsword Twinblades, is one of the strongest weapons in the game and is capable of inflicting extreme damage when two-handed since it is a Paired Weapon and therefore will attack with both weapons when the block button is pressed. Its Weapon Art, Spin Slash, isn't strong in and of itself but has two strong advantages in that it is unparriable and that a light attack or a block/dual attack combos directly into the Spin Slash and its heavy attack follow up, allowing a devastating combo against lightly armored foes. The Wooden Shield, however, has fallen quite far since its glory days in the previous games due to its poor physical blocking and is mostly only useful for parrying.\n\nThe Sellsword Set it wears is decent, having good defences for its weight and being fairly light but has mediocre Poise, though since the class is unlikely to be used for a build using a Hyper Armor-supported weapon (except for maybe the Astora Greatsword) this might not be relevant.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "62d38437-d34b-518e-ab2e-cef2a3e843a1",
+    "title": "Mercenary",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Mercenary -  Dark Souls III - mechanic - lead \n lead : The **Mercenary** is one of the classes in *Dark Souls 3*.\n\nIt is a Dexterity-based class, with just enough Intelligence to cast several basic Sorceries such as Soul Arrow, Spook, and Magic Weapon, provided a Sorcerer's Staff is bought from the Shrine Handmaid.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cf403528-53d0-5c67-b6d8-adce9e2afe3d",
+    "title": "Mercenary",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Uchigatana is another strong weapon suitable for this class, and is obtainable early on if a slower Dexterity-based weapon is desired.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "20f8000b-7888-5ec9-aa92-2eca495b6691",
+    "title": "Plunging attack",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Plunging attack -  Dark Souls III - mechanic - dark_souls_iii \n dark_souls_iii : Plunging attacks have been greatly improved in this game, basically only requiring the player to lock-on to an enemy below, drop down, and press the attack button at any time during the fall, no longer requiring to press it with precision as one gets close to the target. The lock-on system will ensure the player is correctly aligned and positioned toward the enemy while in midair, and the attack will perform as soon as they come in contact with it.\n\nThere are plenty of opportunities for using plunging attacks throughout the course of the game, especially if there are large enemies around, like Elder Ghrus or Giant Man Serpents. In these cases, there will usually be structures nearby where the player may lure and perform a plunging attack on them. Message signs can often be found in these areas, where the developers hint the player on performing one of these attacks.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2a6f96a9-365b-5ac9-847f-64c901fd8892",
+    "title": "Plunging attack",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Plunging attack -  Dark Souls III - mechanic - description \n description : In all three games, the mechanic is basically the same:\n#Find a higher spot from where the target is.\n#Align the player-character toward the enemy and drop down, making sure to land right next to it.\n#Press the attack button ( / ) just as one is about to land.\n\nIf the hit is successful, the player will land on the enemy and deal a devastating blow that, in most cases, will kill it, or at least inflict a high amount of damage to bulkier foes.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2dcc6507-ce95-5a88-bda4-b7955ddc0bc5",
+    "title": "Plunging attack",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Plunging attack -  Dark Souls III - mechanic - lead \n lead : **Plunging attacks** are a form of critical attack and a gameplay mechanic in *Dark Souls*, *Dark Souls II* and *Dark Souls III*. It consists in the player's ability to inflict heavy damage on an enemy by dropping from a higher level and landing on them whilst hitting them with their weapon.",
+    "sources": [
+      "template",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.125814171436737
+  },
+  {
+    "document_id": "36999758-8d69-50bb-b726-9bab49886e73",
+    "title": "Plunging attack",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "One of the game's bosses, the Ancient Wyvern, is intended to be defeated precisely by these means, where the player is expected to run through a long gauntlet of enemies and perform a plunging attack at the end to defeat the boss in a single hit.\n\nIn addition, some larger enemies, like Great Crabs, Elder Ghrus, and Sulyvahn's Beasts, can be disabled momentarily if the player manages to land on their heads without attacking. If successful, the enemy will get staggered and automatically become open for a riposte.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3d14981d-1cd6-5523-b798-7846a12fa7fd",
+    "title": "Plunging attack",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Plunging attack -  Dark Souls III - mechanic - dark_souls_ii \n dark_souls_ii : Plunging attacks in *Dark Souls II* require a certain level of precision. The player is required to aim their character correctly toward the enemy and make sure they land right next to it, pressing the attack button as they come close to their target on the way down.\n\nIn this game, there are not many instances where plunging attacks can be performed, and due to the level of precision they take, only skilled players are advised to use them in the heat of battle. Certain duel arenas, however, provide structures where this type of attacks can be used against human-controlled opponents in online matches.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "80495bd9-7d91-5a88-9af1-e81a7bb5bb30",
+    "title": "Plunging attack",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "A known—and intended—strategy for dealing with the Taurus Demon in the Undead Burg consists in defeating it via plunging attacks. This is evident by the ladder conveniently put there, which gives access to the top of the tower from where the player just came out. Once at the top, they should not dwindle for too long or the creature will eventually jump up there too. If the player was lucky enough to obtain the Black Knight Sword and invested their souls to properly wield it, the demon will die in a single plunging attack.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ca4f5f7c-2485-5449-9e63-f6d1bb9a3142",
+    "title": "Plunging attack",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Plunging attack -  Dark Souls III - mechanic - dark_souls \n dark_souls : Most likely, the first opportunity the player will have to have a taste of the plunging attack's power is when fighting the Asylum Demon near the beginning of the game. The player enters the boss arena from a high spot and is expected to initiate the battle with a plunging attack while the demon awaits below. If successful, the boss will sustain a considerable amount of damage and the odds will be balanced a little on the player's favor. Hesitating in starting the battle this way for too long will have the demon making the first move by jumping and bringing the player down to ground level and depriving them the opportunity of gaining the upper hand.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c8b094c7-e4ec-5b90-99f8-aadc91d9c101",
+    "title": "Reapers (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Reapers (Dark Souls III) -  Dark Souls III - weapon - lead \n lead : **Reapers** are a type of weapon in *Dark Souls III*.\n\nLike halberds, reapers combine the sweeping coverage of a blade weapon with the long reach of a spear, and as such are also subject to the \"sweet spot\" mechanic that causes attacks that do not connect with the head of the weapon to inflict reduced damage. All reapers deal slash damage, and with the exception of Friede's Great Scythe will inflict Bleed build-up with each attack. Compared to halberds, reapers are characterized by the ability of their attacks to inflict damage through the side of a raised shield.\n\nHowever, the drawback is that their attacks have no Hyper Armor frames short of their skills. This means that the wielder becomes significantly more vulnerable inside of the arc of the weapon due to lack of Poise, and as such should take care to avoid letting foes get too close.",
+    "sources": [
+      "template",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.83435468233204
+  },
+  {
+    "document_id": "e2236879-e50d-505f-9536-1130c2c0f899",
+    "title": "Talismans (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Talismans (Dark Souls III) -  Dark Souls III - weapon - lead \n lead : **Talismans** are catalysts used to cast Miracles. They are primarily differentiated from the other Miracle catalyst, the Sacred Chime, by the skill Unfaltering Prayer, which grants Hyper Armor frames while casting.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "53db3963-5e6a-5b37-b592-9c6a96f7bbcc",
+    "title": "Ultra Greatswords (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Ultra Greatswords (Dark Souls II) -  Dark Souls II - weapon - lead \n lead : **Ultra Greatswords** are a type of weapon in Dark Souls II.\n\nBeing among the largest weapons available, this weapon class is sluggish but capable of dishing out copious amounts of damage with each swing. Due to their immense size and weight, it is one of the few classes that can take advantage of hyper armor, meaning that Poise can become a must for these weapons. They also deal very high poise damage, allowing for each hit to stagger almost any enemy. That same weight and bulk is also puts this weapon class at a disadvantage as it means large amounts of stat investment are a must, namely Endurance and Vitality. And its slow swings can, more often than not, leave the wielder vulnerable to counterattacks.\n\nWhen wielded with two hands, unlike its predecessor, it cannot be parried, with exception of its running and rolling attacks.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fc4889f1-25ce-5fea-8f83-2179afb68a48",
+    "title": "Ultra Greatswords (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Ultra Greatswords (Dark Souls III) -  Dark Souls III - weapon - lead \n lead : **Ultra Greatswords** are a weapon type in *Dark Souls III*.\n\nAmong the largest weapons available, ultra greatswords are very slow but inflict tremendous damage with each swing, and their great length allows them to strike targets from farther away. Their immense weight and bulk allow them to take advantage of Hyper Armor, meaning that Poise becomes a strong advantage when wielding one of these weapons. However, their cumbersome weight and voracious stamina consumption means that heavy investments in Endurance and Vitality are mandatory, and their slow swing speed and long recovery leave the wielder vulnerable in situations where faster weapons would not.\n\nWhen wielded in both hands, attacks from ultra greatswords cannot be parried, with the exception of running and rolling attacks.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "59017915-8f59-5199-b41a-267c072f2cea",
+    "title": "Abyss Attack Dog",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Abyss Attack Dog -  Dark Souls - enemy - lead \n lead : **Abyss Attack Dogs** are enemies in *Dark Souls*. They can only be found in the Artorias of the Abyss DLC.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ad71548b-e936-500e-8970-c76142083baf",
+    "title": "Abyss Attack Dog",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Abyss Attack Dog -  Dark Souls - enemy - location \n location : They are encountered in an isolated area of the Royal Wood within Oolacile, along the river leading to Black Dragon Kalameet.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cfaf4b87-7c3c-5427-bf80-adb6fb449f1e",
+    "title": "Abyss Attack Dog",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Abyss Attack Dog -  Dark Souls - enemy - description \n description : Abyss Attack Dogs are similar in appearance and behavior to Attack Dogs.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "141552e5-ba93-5b53-9afd-91cfef36c768",
+    "title": "Abyss Greatsword",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Unusual for a weapon, the Abyss Greatsword has fairly good magic resistance, although most shields are still preferable.\n\nLike Chaos weapons, the Abyss Greatsword scales with Humanity (up to 10). When fully upgraded, with 10 Humanity, and 40/40 in Strength and Dexterity, the Abyss Greatsword deals the most raw physical damage among all of the Greatsword class weapons, beaten only by ultra greatswords and Great Hammers/Axes in this regard. This damage difference is not significant and when factoring in that Abyss Greatsword cannot be buffed, other weapons are capable of vastly out performing this sword without putting points into two different casting stats.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2f8fff4d-7e70-5bcb-af09-e434475ce469",
+    "title": "Abyss Greatsword",
+    "section": "scaling_percentages",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Abyss Greatsword -  Dark Souls - weapon - scaling_percentages \n scaling_percentages : ***Strength - 55%**\n***Dexterity - 55%**\n***Intelligence - 0%**\n* **Faith - 0%**",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4f7faab6-151c-5b65-8d6f-c260770d9708",
+    "title": "Abyss Greatsword",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "If one does not meet the Intelligence and Faith requirements but still meet the required Strength and Dexterity, they will still be able to do full damage with the sword, but, will get a stagger animation that makes them immune to backstabs. This occurs because since the Intelligence and Faith requirements don't actually affect the damage output, but rather the Strength and Dexterity, they can completely disregard investing to get the Intelligence and Faith stats to 18. However, the drawback to this is that it will not allow one to do any follow ups, as once this sword makes contact, it will bounce off, stopping the user from doing anything for a few seconds.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9260cee5-8e3a-5aac-b78d-5b14f18fcebc",
+    "title": "Abyss Greatsword",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Abyss Greatsword -  Dark Souls - weapon - characteristics \n characteristics : Compared to its Greatsword of Artorias' true version, the Abyss Greatsword has a distinct moveset, lower stat requirements, weighs one unit less, has a heavily deteriorated appearance, and deals purely physical damage. The strong attacks are reminiscent of those performed by Artorias himself. Despite requiring 18 Faith and Intelligence, the Abyss Greatsword does not scale off of these parameters. This should discourage most builds from utilizing this weapon.\n\nUnusual for a weapon, the Abyss Greatsword has fairly good magic resistance, although most shields are still preferable.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a3c3640d-2a14-5b06-890f-1286f72d24b7",
+    "title": "Abyss Greatsword",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Abyss Greatsword -  Dark Souls - weapon - description \n description : This greatsword belonged to Lord Gwyn's Knight Artorias, who fell to the abyss.\n\nSwallowed by the Dark with its master, this sword is tainted by the abyss, and now its strength reflects its wielder's humanity.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ac6500df-62c4-5b6d-badd-b53d9a0ed902",
+    "title": "Abyss Greatsword",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Abyss Greatsword -  Dark Souls - weapon - availability \n availability : The Abyss Greatsword is created by ascending any Standard +10 greatsword, ultra greatsword, straight sword (other than the Broken Straight Sword or Straight Sword Hilt) or dagger at the Giant Blacksmith in Anor Londo with the Soul of Artorias and 5,000 souls.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cbf8ccb7-9941-5424-a039-d12fcb6d7318",
+    "title": "Abyss Greatsword",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Abyss Greatsword -  Dark Souls - weapon - lead \n lead : The **Abyss Greatsword** is a boss soul weapon and greatsword in *Dark Souls*. It was introduced in the *Artorias of the Abyss* DLC.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "547ae2e5-de0c-5090-9eaa-cb4abef1ff5c",
+    "title": "Adventurer's Set",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Adventurer's Set -  Dark Souls - armor - plot \n plot : Worn by Domhnall of Zena, highlighting his adventurous ways.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6e7a7792-a12e-5486-8424-cda93d81163b",
+    "title": "Adventurer's Set",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Adventurer's Set -  Dark Souls - armor - characteristics \n characteristics : The Adventurer's Set cannot be reinforced.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7425bfeb-8eae-51ca-9b06-e847c0312e39",
+    "title": "Adventurer's Set",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Adventurer's Set -  Dark Souls - armor - lead \n lead : The **Adventurer's Set** is a medium armor set in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "936bb9ad-2452-5d4e-88f6-7bec2ae9f78b",
+    "title": "Adventurer's Set",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Adventurer's Set -  Dark Souls - armor - availability \n availability : The Adventurer's Set is sold by Domhnall of Zena for a total of 47,000 souls.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a2e14897-7bfb-569f-9138-7a7d67973949",
+    "title": "Adventurer's Set",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Adventurer's Set -  Dark Souls - armor - trivia \n trivia : The Adventurer's Set is the only armor set in *Dark Souls* where each individual armor piece has a unique suffix.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0745517c-b881-5d60-80be-01aa273da6d3",
+    "title": "Agdayne's Set",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Agdayne's Set -  Dark Souls II - armor - availability \n availability : Given by Grave Warden Agdayne in the Undead Crypt after defeating Velstadt, the Royal Aegis and acquiring the King's Ring. Along with his armor set he will give the player Darkdrift.\nThe kilt is dropped by Agdayne upon death. The robe and cuffs will then be available for purchase from Merchant Hag Melentia.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1550f368-ea35-5e38-9e47-1a5b22d71aa6",
+    "title": "Agdayne's Set",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Agdayne's Set -  Dark Souls II - armor - description \n description : Life itself is suffering; or karma, as some have called it.\n\nThe embrace of death awaits all things, but does death mean an end to suffering?",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4761eb04-3038-5019-918c-e456c094c838",
+    "title": "Agdayne's Set",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Agdayne's Set -  Dark Souls II - armor - lead \n lead : **Agdayne's Set** is a light armor set in *Dark Souls II*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6d5fb181-b85e-5797-98ab-d4f09c75de4f",
+    "title": "Agdayne's Set",
+    "section": "videos",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Agdayne's Set -  Dark Souls II - armor - videos \n videos : [https://www.youtube.com/watch?v=tZVKxuHV2Ro How to get Agdayne Gear Set and Darkdrift]",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "80847320-20c3-5886-ad0e-96cee717532a",
+    "title": "Agdayne's Set",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Agdayne's Set -  Dark Souls II - armor - characteristics \n characteristics : Agdayne's Set offers very good poison defense compared to most other armors. This combined with its relatively high special defenses make it a good choice for fighting mages and the like.\n\nThe set requires Twinkling Titanite to upgrade.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "02272991-a5b6-5cbf-ab29-d54698d63365",
+    "title": "Alonne Captain Armor",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alonne Captain Armor -  Dark Souls II - armor - availability \n availability : Dropped by Alonne Knight Captains in Iron Keep, Drangleic Castle and Memory of the Old Iron King.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3d65d02f-88fd-58d4-b5c7-4afc1affb379",
+    "title": "Alonne Captain Armor",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alonne Captain Armor -  Dark Souls II - armor - lead \n lead : The **Alonne Captain Armor** is a chest armor piece in *Dark Souls II*. It is part of the Alonne Captain Set.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "411028fc-54f9-583a-87d2-764afca26730",
+    "title": "Alonne Captain Armor",
+    "section": "upgrades",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alonne Captain Armor -  Dark Souls II - armor - upgrades \n upgrades : Requires Titanite per upgrade.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "23771cf6-bef5-5360-bf20-bf7dbd07f19f",
+    "title": "Alonne Captain Set",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alonne Captain Set -  Dark Souls II - armor - availability \n availability : The helm and armor are dropped exclusively by Alonne Knight Captains in the Iron Keep, Drangleic Castle, and the Memory of the Old Iron King.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "416da38e-2aca-5b94-bb55-ea923a8a7720",
+    "title": "Alonne Captain Set",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alonne Captain Set -  Dark Souls II - armor - characteristics \n characteristics : Although classified as a medium armor set due to its weight, this armor set is in fact designed to be used with the gauntlets and leggings of the Alonne Knight Set, effectively creating a hybrid heavy set.\n\nCompared to the Alonne Knight Set, the supplemented Alonne Captain Set boasts only slightly better physical defenses as well as improved elemental defense, and only an additional point of Poise, at the cost of almost two additional units of weight. However, the defensive differences become much more pronounced as it is upgraded. When all pieces have been upgraded to +10, the Alonne Captain Set provides improved defense against physical and elemental damage across the board compared to the Alonne Knight Set, particularly against slashing damage, although it is still rather weak against lightning damage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "48752598-57e0-56f3-aaec-37f44f5904e4",
+    "title": "Alonne Captain Set",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alonne Captain Set -  Dark Souls II - armor - lead \n lead : The **Alonne Captain Set** is a medium armor set in *Dark Souls II*.\n\nIt is of note that the gauntlets and leggings are also part of the Alonne Knight Set.\n\n__NOTOC__",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "494e38f0-5658-5eeb-b61f-ae6733ae0e43",
+    "title": "Alonne Captain Set",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alonne Captain Set -  Dark Souls II - armor - description \n description : Armor/helmet worn by the captain of the Alonne Knights.\n\nThe accoutrements of the Alonne Knights, who served the Old Iron King, were created with an advanced casting technique. They remain solid, and handsomely crafted.\n\nThe design is styled after the armor worn by an unusual knight who trained the Iron King's men in the sword. He was said to have deserted his liege after bearing witness to his descent into depravity.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "21652bbb-6c1d-5128-aa4d-59833602b8e1",
+    "title": "Alonne Knight Armor",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alonne Knight Armor -  Dark Souls II - armor - availability \n availability : Dropped by the Alonne Knights in the Iron Keep.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "850a4871-6c69-530d-913e-1ab6544aeb02",
+    "title": "Alonne Knight Armor",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alonne Knight Armor -  Dark Souls II - armor - description \n description : Armor worn by Alonne Knights.\n\nThe bonds of the Alonne Knights who served the Old Iron King, were mightier than the land's iron, but in the end the knights were subsumed by the flames that brought the castle down.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d9413677-d104-528d-ba9f-7ee6ecdb615b",
+    "title": "Alonne Knight Armor",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alonne Knight Armor -  Dark Souls II - armor - lead \n lead : The **Alonne Knight Armor** is a chest armor piece in *Dark Souls II*. It is part of the Alonne Knight Set.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f07c74ad-df3a-5841-a3cc-f984b396f783",
+    "title": "Alonne Knight Armor",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alonne Knight Armor -  Dark Souls II - armor - characteristics \n characteristics : The Alonne Knight Armor provides decent physical defense and a notable resistance to Fire, but underwhelming elemental resistances.\n\nHowever, the armor is quite heavy, and has some glaring weaknesses, most notably its low Lightning and Poison resistance.\n\nThe Alonne Captain Armor provides a noticeable increase in defense for 1.4 units of extra weight. As such, players that can spare the weight should consider using that instead.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0147fcf0-199d-5f26-a9a6-08843e80488e",
+    "title": "Alonne Knight Set",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alonne Knight Set -  Dark Souls II - armor - description \n description : The bonds of the Alonne Knights, who served the Old Iron King, were mightier than the land's iron, but in the end the knights were subsumed by the flames that brought the castle down.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "47c4a0ab-ce74-574b-b06c-e2047f08ce43",
+    "title": "Alonne Knight Set",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alonne Knight Set -  Dark Souls II - armor - availability \n availability : Dropped by the Alonne Knights found in the Iron Keep and Memory of the Old Iron King. The gauntlets and leggings are dropped by Alonne Knight Captains as well.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "89785819-c0e0-5b67-9785-74ffe97df7fa",
+    "title": "Alonne Knight Set",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alonne Knight Set -  Dark Souls II - armor - trivia \n trivia : The Alonne Knight Set is the same as the Alonne Captain Set, except for the chest armor and helmet.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9cd834d9-cd1a-5e7b-8cda-c81bf5490f64",
+    "title": "Alonne Knight Set",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alonne Knight Set -  Dark Souls II - armor - lead \n lead : The **Alonne Knight Set** is a heavy armor set in *Dark Souls II*.\n\nIt is of note that the gauntlets and leggings are also part of the Alonne Captain Set.\n\n__NOTOC__",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1afe1be8-6f09-5757-8d5e-cef972ee749d",
+    "title": "Alonne's Armor",
+    "section": "upgrades",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alonne's Armor -  Dark Souls II - armor - upgrades \n upgrades : Requires Twinkling Titanite per upgrade.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "597ee854-21e9-5078-a7e6-638172caab09",
+    "title": "Alonne's Armor",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alonne's Armor -  Dark Souls II - armor - description \n description : Armor worn by Sir Alonne,\nwho served the Old Iron King.\n\nSir Alonne came to this land from the east,\nchose to serve a little-known and unestablished\nlord, and helped him become the Old Iron King.\n\nThen, at the very peak of his sire's rule,\nSir Alonne set out again, in search of\nlands yet unknown.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8cff602c-abbc-55df-9bff-68373253d3d6",
+    "title": "Alonne's Armor",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alonne's Armor -  Dark Souls II - armor - lead \n lead : **Alonne's Armor** is a chest armor piece in *Dark Souls II: Crown of the Old Iron King*. It is part of Alonne's Set.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "df16ff8c-2a97-57ef-aa2b-f53d8efafcfa",
+    "title": "Alonne's Armor",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alonne's Armor -  Dark Souls II - armor - availability \n availability : Sold by Magerold of Lanafir for 24,000 souls after defeating Sir Alonne.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "17b33993-14cf-5423-994d-ae71906e629c",
+    "title": "Alonne's Set",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alonne's Set -  Dark Souls II - armor - description \n description : Sir Alonne came to this land from the east, chose to serve a little-known and unestablished lord, and helped him become the Old Iron King.\n\nThen, at the very peak of his sire's rule, Sir Alonne set out again, in search of lands yet unknown.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "79d47236-fb2d-58f5-8a70-6deba125395e",
+    "title": "Alonne's Set",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alonne's Set -  Dark Souls II - armor - lead \n lead : **Alonne's Set** is a medium armor set in .",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "86ebcf4b-6f99-5448-85b4-c73d46d625df",
+    "title": "Alonne's Set",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alonne's Set -  Dark Souls II - armor - characteristics \n characteristics : The Alonne's Set is truly one of the better, if not the best medium armor set in the game. It has relatively high physical defense, as well as fairly high magic, fire, dark, poison, and bleed resistance, and is one of the lightest medium armor sets. In contrast, it has lower lightning resistance, no petrification or curse resistance, and low poise, though given the low weight, it isn't too bad, but it's difficult to obtain.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fbf25438-0039-5516-a4b6-8fc630b938c8",
+    "title": "Alonne's Set",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alonne's Set -  Dark Souls II - armor - availability \n availability : Sold by Magerold of Lanafir for a total of 74,400 souls upon the defeat of Sir Alonne. For summoned phantoms, only one piece of the set will be dropped.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "193b63ec-95c7-5ddd-88ec-05ce5d7cd5e6",
+    "title": "Alva Armor",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alva Armor -  Dark Souls II - armor - description \n description : Armor worn by Alva the Wayfarer.\nLight but offers very high defense.\n\nAlva crossed many a land in search of a cure for Saint Serreta's sickness, but failed and relinquished his knighthood.\n\nAlva was once wracked with guilt and remorse, but rediscovered his purpose in life with the aid of the witch who once plotted against him.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1d7c038b-981f-564b-8b9a-ada13834b209",
+    "title": "Alva Armor",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alva Armor -  Dark Souls II - armor - characteristics \n characteristics : This is a very light chest piece for the defenses it gives, the same being said for the entire set. It mostly blocks physical damage, though the elemental resistances are nothing to be scoffed at.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "62c8b32f-0098-5169-acae-cc5c45ac6eb8",
+    "title": "Alva Armor",
+    "section": "upgrades",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alva Armor -  Dark Souls II - armor - upgrades \n upgrades : Requires Titanite per upgrade.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6dee1035-29ac-5db2-ab2b-bcbd85877147",
+    "title": "Alva Armor",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Alva Armor -  Dark Souls II - armor - lead \n lead : The **Alva Armor** is a chest armor piece in *Dark Souls II*. It is part of the Alva Set.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6b988c60-5c9f-5fbc-8b66-b2b1d74503ab",
+    "title": "Poise (Dark Souls III)",
+    "section": "mechanics",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls III) -  Dark Souls III - mechanic - mechanics \n mechanics : Poise influences the effectiveness of **Hyper Armor**, which in turn determines whether a player who is in the middle of an attack can be interrupted, or whether the attack continues and hits its target. This is especially important when using powerful but slow weapons such as ultra greatswords. The actual Poise number is expressed as a *percentage* of **Poise Damage** that is reduced when attacked during Hyper Armor frames.\n\nWhen wielding a weapon capable of utilizing Hyper Armor frames, the player's **Poise Health** is generally determined by the class of the weapon (greatswords, hammers, etc.), though some weapons such as the Greatlance and Crucifix of the Mad King are exceptions that have increased Poise Health. Poise Health is also temporarily increased for the duration of certain weapons' skills.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.8337487402350652,
+    "bm25_score": 23.631763895916038
+  },
+  {
+    "document_id": "b70e1f8c-21e6-5bc9-b437-4f77c6fd0ec7",
+    "title": "Poise (Dark Souls III)",
+    "section": "increasing_poise",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls III) -  Dark Souls III - mechanic - increasing_poise \n increasing_poise : The player's Poise is primarily increased by wearing armor, though it can also be reinforced via the use of three unique pieces of equipment: the Lothric Knight Long Spear, Yhorm's Greatshield and Wolf Ring.\n\nIncreasing Poise is subject to diminishing returns, as each individual piece stacks multiplicatively and reduces incoming Poise damage by its listed amount as a percentage (e.g., an armor piece with a Poise value of 8.5 will block 8.5% of incoming Poise damage, causing the attack to inflict 91.5% of its Poise damage). As such, stacking Poise is based on the following formula:\n\nWhere *A* is the player's current Poise and *B* is the amount of Poise being added through equipment.\n\nThe Poise from equipping four pieces of armor, *A* through *D*, is thus determined as follows:\n\nWhich again can be further increased via equipping the associated weapons and ring.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.798327346233,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5c6d4832-ec0f-51c1-afc7-a03303aa8724",
+    "title": "Poise (Dark Souls III)",
+    "section": "poise_health_modifiers",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls III) -  Dark Souls III - mechanic - poise_health_modifiers \n poise_health_modifiers : Poise health during an attack can vary depending on the type of attack.\n\nA weapon uses its base Poise health when performing standard attacks or strong attacks, with certain smaller weapons such as greatswords and hammers being incapable of utilizing Hyper Armor unless two-handed. Performing a running or rolling attack will reduce Poise health to 50% of its base value (and in the case of ultra weapons, allows them to be parried). Performing a fully-charged strong attack, whether one-handed or two-handed, will increase Poise health by 50%.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7692130100674387,
+    "bm25_score": 25.750520408176502
+  },
+  {
+    "document_id": "ed3e6d86-cecb-530e-90dc-b861607f4ba6",
+    "title": "Poise (Dark Souls II)",
+    "section": "defense",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls II) -  Dark Souls II - mechanic - defense \n defense : The player innately has very little poise, which can be increased by leveling the Endurance and Adaptability stats. Players gain Poise via these stats according to the value of the lower one. Poise via leveling increases by 0.3 up until level 30, then by 0.2 up to level 50, then by 0.1 up to level 98, gaining 0.2 at level 99 for a total of 18.\n\nPoise is primarily added by the armor currently equipped, heavier armor typically providing more poise. Poise can also be increased further by using the Ring of Giants, granting 10/20/30 poise at +0/+1/+2.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7527126513008662,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b4216cc9-6b9e-5e41-a776-487f9ee66d47",
+    "title": "Poise (Dark Souls III)",
+    "section": "poise_damage_modifiers",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls III) -  Dark Souls III - mechanic - poise_damage_modifiers \n poise_damage_modifiers : As with Poise health, Poise damage can also be modified depending on the situation.\n\nA weapon's base Poise damage is considered when performing one-handed standard attacks. When a standard attack is performed while two-handing the weapon, Poise damage is increased by 30%; the same also applies when performing a strong attack while one-handing the weapon. When the weapon is two-handed and a strong attack is performed, Poise damage is increased by 55% of its base value.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7287351919984184,
+    "bm25_score": 24.196201789876078
+  },
+  {
+    "document_id": "d8e5f7c9-6700-51c6-9b54-77b2bd2cd457",
+    "title": "Poise (Dark Souls II)",
+    "section": "hyper_armor",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls II) -  Dark Souls II - mechanic - hyper_armor \n hyper_armor : Hyper Armor is a state a player or NPC can access, usually via specific weapon attacks, which changes how Poise Damage interacts with them.\n\nWhen Hyper Armor is active, attacks a character receives are altered in two ways:\nHyperstagger gets ignored.\nIncoming Poise Damage is reduced.\nThis way, attacks that can hyper stagger get countered by attacks from heavy weapons and characters that use them can make more use of Poise than characters with lighter weapons can.\n\nEach weapon has a specific Hyper Armor multiplier that corresponds to its weapon class. Weapon class doesn't entirely correlate with the menu 's specified class but rather with the moveset of the weapon.\n\nNot all attacks apply hyper armor, as a general rule it's limited to the slower attacks on weapons.\n\nDodge rolls have a similar mechanic where they simply ignore poise damage for a section of their animation after their iframes end.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7192285403921297,
+    "bm25_score": 26.66505058323579
+  },
+  {
+    "document_id": "735a18ab-3001-5bf9-8515-b9eaf5fcd59f",
+    "title": "Poise (Dark Souls II)",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls II) -  Dark Souls II - mechanic - description \n description : Poise is the player's resistance to being staggered. Poise works similar to stamina in that it is reduced and refills on its own. Poise is reduced each time the player takes a direct hit. Shields prevent damage to poise when used to block an attack, instead reducing the player's stamina. If poise is reduced to zero the player will become staggered, following which, poise will refill. Poise will otherwise refill at a rate of 0.56 poise per second.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.712872405022051,
+    "bm25_score": 23.303245844369105
+  },
+  {
+    "document_id": "16b7b865-3375-5114-aaf8-8f160172ff47",
+    "title": "Poise (Dark Souls)",
+    "section": "player_poise_timer",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls) -  Dark Souls - mechanic - player_poise_timer \n player_poise_timer : Each time a hit is taken, poise will reduce and remain briefly frozen at the latest value; it does not regenerate over time. A timer is triggered with each hit that is taken, and if it completes before another hit is taken, poise will instantly refill back to 100%. This means that if a player with 53 poise gets hit by an attack that drains 20 poise, the player will then have exactly 33 poise for the next few seconds. This timer is set to 5 seconds by default and for every piece of poise-granting-armor equipped, the timer's length is reduced by 10%.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7128438058196878,
+    "bm25_score": null
+  },
+  {
+    "document_id": "aa2711c9-b170-570e-9f39-c2d53e12f4ab",
+    "title": "Poise (Dark Souls)",
+    "section": "spell_poise_drain_values",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls) -  Dark Souls - mechanic - spell_poise_drain_values \n spell_poise_drain_values : Note that weapons buffed by spells do **not** gain increased Poise damage.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.701243897214788,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d16bb4d7-2896-5e30-beca-ed7769820ef3",
+    "title": "Poise (Dark Souls)",
+    "section": "pvp_poise_breakpoints",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls) -  Dark Souls - mechanic - pvp_poise_breakpoints \n pvp_poise_breakpoints : When building a character for PvP, it is a good idea to equip armor that will put you above one of the following Poise breakpoints:",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6961175396543156,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fa5680bf-8368-5015-bbb7-53edb10e91f1",
+    "title": "Poise (Dark Souls)",
+    "section": "player_poise_timer",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Since Poise instantly refills upon timer reset rather than slowly regenerating and can be stacked fairly high it is powerful in Dark Souls 1, though Poise mechanics do not translate to later titles in the franchise. If you would like to gain skills that carry over to later games it is best to not lean too heavily on Poise mechanics and learn to time rolls properly.\n\n**A few notes:**",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6960616367253941,
+    "bm25_score": null
+  },
+  {
+    "document_id": "101c2db8-0ae9-5c69-9333-a496194d84d4",
+    "title": "Poise (Dark Souls)",
+    "section": "ammunition_arrows_ammunition",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls) -  Dark Souls - mechanic - ammunition_arrows_ammunition \n ammunition_arrows_ammunition : All Bows and Crossbows deal the same amount of poise damage. The poise damage depends on the ammunition being used and also the body part being hit on human players/ NPCs.\n**A multiplier to certain body parts being hit by arrows or bolts affects the poise damage taken as well.\n**Legs and Arms of human players/ NPCs will take 10% extra poise damage (22 for regular arrows and bolts), regardless of which armor is being used.\n**Headshots with arrows or bolts are a guaranteed stagger regardless of poise.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6924444726232435,
+    "bm25_score": null
+  },
+  {
+    "document_id": "77e016ac-b797-5d9d-aebd-8eb43eb1f893",
+    "title": "Poise (Dark Souls)",
+    "section": "ultra_greatswords",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls) -  Dark Souls - mechanic - ultra_greatswords \n ultra_greatswords : The Dragon Greatsword's 2H R2 special attack drains 50 poise if only the projectile blast hits.\nAbove instances where two values are found adding to each other, poise damage has the potential to trigger twice (rapidly in succession, from a single attack). Though it may be possible for only one of those to trigger, depending on the spacing or angle of the enemy.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6917888089629722,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4c572be4-174c-51b8-8252-dbc3c2134310",
+    "title": "Poise (Dark Souls)",
+    "section": "melee_weapon_poise_drain_values",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls) -  Dark Souls - mechanic - melee_weapon_poise_drain_values \n melee_weapon_poise_drain_values : Different weapons drain varying amounts of Poise, and it is completely independent of damage. The following tables show the amount of Poise drained for each weapon and attack type.\n\nNote: When certain columns like \"Rolling\" or \"L1/L2\" are omitted below, they are identical to those weapons' R1 attacks. When \"Kick\" is omitted, it drains 0 poise from standard enemies but inflicts a guaranteed stagger on player characters.*",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6876812811122329,
+    "bm25_score": null
+  },
+  {
+    "document_id": "932260c3-57b6-5ea6-a633-f6d98ba9ba86",
+    "title": "Poise (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : **Poise** is a derived stat and gameplay mechanic in *Dark Souls III*.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6862227633109513,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e1ec8570-6076-5fb0-b075-b0d1629ff914",
+    "title": "Poise (Dark Souls)",
+    "section": "great_hammers",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls) -  Dark Souls - mechanic - great_hammers \n great_hammers : Chained Attacks: The Large Club has a chained 1H R2 attack, where the second R2 drains 75 poise.\n\nNote: The 2-handed rolling attacks actually trigger a guaranteed stun as well as draining Poise.*",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6846919058848989,
+    "bm25_score": 22.747793262372586
+  },
+  {
+    "document_id": "31a5b3d1-512c-53a2-8590-7681ef2e1fb9",
+    "title": "Poise (Dark Souls)",
+    "section": "sorcery_dark_souls_sorcery",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls) -  Dark Souls - mechanic - sorcery_dark_souls_sorcery \n sorcery_dark_souls_sorcery : The Soulmass orbs do not drain poise if they \"bump\" into an enemy instead of firing.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.673420228899797,
+    "bm25_score": null
+  },
+  {
+    "document_id": "17075b02-f279-562c-900b-15dcf8706697",
+    "title": "Poise (Dark Souls)",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls) -  Dark Souls - mechanic - general_information \n general_information : Poise is a value that determines your character's resistance to being staggered. Being hit will drain the player's poise value, and if drained to 0, the character will become staggered. Below is a chart that shows the average Poise damage values that enemies will deal to you. Based on this information we know that the poise breakpoints you will want to reach are: **46** and **61** for PvE purposes with lesser breakpoints being **21** and **31**. Players can also consider reaching 101 poise. These values are breakpoints as having one more point of poise allows you to fully poise through attacks without getting staggered.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6712140590579418,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4a487724-a88e-5691-bb1b-72a9cf69f6a3",
+    "title": "Poise (Dark Souls II)",
+    "section": "pve_poise_damage",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls II) -  Dark Souls II - mechanic - pve_poise_damage \n pve_poise_damage : Every weapon has its own value of Poise Damage specified in the menu. This is the damage a 1 handed Light Attack will inflict vs NPCs (in PvE). Every other attack multiplies this number by an amount specific to the attack.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6709820125634312,
+    "bm25_score": 23.392143571288063
+  },
+  {
+    "document_id": "03bcee3c-d76f-5747-887e-bd8f9df3c589",
+    "title": "Poison (Dark Souls III)",
+    "section": "poison_resistance_improvement",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Poison (Dark Souls III) -  Dark Souls III - mechanic - poison_resistance_improvement \n poison_resistance_improvement : Deep Protection\nFleshbite Ring\nIron Flesh\nMossfruit\nPoisonbite Ring\nProfuse Sweat\nLeveling the Vitality stat\nArmor with high Poison resist\nWolf Knight's Greatshield",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6693466531328999,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5cc7d3e2-9ff5-5482-8b83-2aff5b89ac23",
+    "title": "Hard Leather Set (Dark Souls III)",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Hard Leather Set (Dark Souls III) -  Dark Souls III - armor - trivia \n trivia : All pieces of the *Dark Souls III* variant provide Poise. This is in contrast to previous installments, which specifically noted that the helm was the only part to grant any Poise.\nThis set of armor is one of the few in the game where the female version is markedly different from the male version: the chest piece has a swath of gold-bordered red fabric on one arm, the boots are shiny with a grooved finish, and the helmet is a different shape.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6653062938861086,
+    "bm25_score": null
+  },
+  {
+    "document_id": "702124a7-dbf4-5303-8a4b-6d166768408b",
+    "title": "Poise (Dark Souls II)",
+    "section": "pvp_poise_damage",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls II) -  Dark Souls II - mechanic - pvp_poise_damage \n pvp_poise_damage : Every weapon has a second Poise Damage number that cannot be found in-game. Same as in PvE, this value helps determine the PvP poise damage numbers by being multiplied by the same numbers.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6639240901788825,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e46bb74e-255b-5e1b-8944-9c2e83554cfc",
+    "title": "Poise (Dark Souls III)",
+    "section": "mechanics",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "When the player is hit by attacks while in Hyper Armor frames, they will incur Poise Damage, depending on the type of weapon and specific attack. Whether or not they will be knocked out of the attack is determined by whether the **Stagger Point** is reached, by reducing Poise Health to 0:\n\nIf Poise Health is reduced to 0, whether from a single strong attack or multiple weak attacks, the attack will be interrupted and the player will be staggered.\n\nPoise health will be reset to full under the following conditions:\nOnce the player has been staggered\nIf the player takes no Poise damage for 30 seconds\nUsing a skill (certain skills will only restore Poise health back to a maximum of 80%)\n\nIf an attack is performed while the player has depleted but not empty Poise health (e.g., it has been reduced during a successfully completed attack), their Poise health will be set to 80% of its maximum at the start of Hyper Armor frames of the new attack.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6538836022074992,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6219cbd9-a3d8-5170-9ac1-fe4d5870d23b",
+    "title": "Stats (Dark Souls II)",
+    "section": "defense",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Stats (Dark Souls II) -  Dark Souls II - mechanic - defense \n defense : ; Physical DEF: Strike\nDefense against striking attacks.*\nTotal value for all equipped armor.*\nImproves to a small degree with endurance, vitality, strength, and dexterity.\n\n; Physical DEF: Slash\nDefense against slashing attacks.*\nTotal value for all equipped armor.*\nImproves to a small degree with endurance, vitality, strength, and dexterity.\n\n; Physical DEF: Thrust\nDefense against thrusting attacks.*\nTotal value for all equipped armor.*\nImproves to a small degree with endurance, vitality, strength, and dexterity.\n\n; Poise\nAbility to withstand the impact of attacks.*\nTotal value for all equipped armor.*",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6536240466268393,
+    "bm25_score": 26.305747213744592
+  },
+  {
+    "document_id": "340228f3-27da-5838-9b27-f80b64a75ea7",
+    "title": "Poise (Dark Souls)",
+    "section": "shields",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls) -  Dark Souls - mechanic - shields \n shields : Above instances where two values are found adding to each other, poise damage has the potential to trigger twice (rapidly in succession, from a single attack). Though it may be possible for only the first hit to trigger, depending on the spacing or angle of the enemy.\nThe Crystal Ring Shield's projectile attack drains 60 poise, plus an additional 20 if the shield impacts the enemy.\nThe Bonewheel Shield R2 attacks deal three possible hits, for a total of 60 poise damage.\nSome shields have unique animations that replace the kick attack, however these don't qualify as special kick attacks and simply behave as a standard kick.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6529901692063756,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4532d7fb-d086-56ac-a7f5-9d722249a92e",
+    "title": "Heide Knight Iron Mask",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Heide Knight Iron Mask -  Dark Souls II - armor - notes \n notes : The Poise value displays as 8, but is actually 8.5 if the character's stats are checked after equipping.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6516039435826669,
+    "bm25_score": null
+  },
+  {
+    "document_id": "033cdd65-e40e-53c9-94a8-ba9631700d2f",
+    "title": "Poison (Dark Souls)",
+    "section": "stats",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Poison (Dark Souls) -  Dark Souls - item - stats \n stats : Investing in Resistance is the only way to increase poison resistance outside of equipping items.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6514612531976464,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c9c8b3b8-20eb-5551-a02b-4a9052cdf28a",
+    "title": "Prayer Set",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Prayer Set -  Dark Souls III - armor - characteristics \n characteristics : A rather mediocre cloth armor set. It has weak physical defenses, but good elemental absorption, particularly against Magic and Dark. Weak to Bleed and Frost, but very respectable Poison and very high Curse resistance.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6487760656507414,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ace6c4d0-f1bd-541c-9950-f8bf128ec24a",
+    "title": "Poison (Dark Souls II)",
+    "section": "armor_and_shields",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Poison (Dark Souls II) -  Dark Souls II - mechanic - armor_and_shields \n armor_and_shields : Various armor pieces grant varying levels of Poison Resist. The following armor table shows the armor pieces which grant the highest possible Poison Resist, for each body part.\n\nShields will only block Poison buildup if the player is actively blocking. Merely equipping the shield does not count towards defense. The value on shields is expressed as a percentage, as opposed to points on armor.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6478354005259268,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d9ec4ac6-ed1f-5ad3-9305-05d7a235480d",
+    "title": "Stats (Dark Souls II)",
+    "section": "armor",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Stats (Dark Souls II) -  Dark Souls II - mechanic - armor \n armor : ; Physical DEF\nBase defense against physical attacks.*\n\n; Physical DEF: Strike\nDefense against physical striking attacks.*\n\n; Physical DEF: Slash\nDefense against physical slashing attacks.*\n\n; Physical DEF: Thrust\nDefense against physical thrusting attacks.*\n\n; Magic DEF\nDefense against magic attacks.*\n\n; Fire DEF\nDefense against fire attacks.*\n\n; Lightning DEF\nDefense against lightning attacks.*\n\n; Dark DEF\nDefense against dark attacks.*\n\n; Poise\nAbility to withstand the impact of attacks.*\nWeak poise makes it easier to be knocked off-balance.*\n\n; Poison resist\nAbility to withstand poison.*\nHigher value reduces chance of poisoning.*\n\n; Bleed resist\nResistance to incisive attacks which cause bleeding.*\nHigher value reduces chance of bleeding.*\n\n; Petrify resist\nResistance to petrification.*\nHigher value reduces chance of petrification.*",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6461641234312152,
+    "bm25_score": 28.083585127998965
+  },
+  {
+    "document_id": "75ce7cca-1cec-5bab-b353-298cfef893c4",
+    "title": "Poise (Dark Souls)",
+    "section": "straight_swords_dark_souls_straight_swords",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls) -  Dark Souls - mechanic - straight_swords_dark_souls_straight_swords \n straight_swords_dark_souls_straight_swords : The Drake Sword's projectile 2H R2 attack drains 30 poise by itself. The sword impacting the enemy directly drains 20 in addition.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6460420845576386,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d142005c-147c-58f6-86c9-380644793347",
+    "title": "Wolf Ring",
+    "section": "overview",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Wolf Ring -  Dark Souls - ring - overview \n overview : An additional 40 poise is very hefty considering how the average full medium set of armor has 30-50 poise. High poise is useful for fighting enemies that hit hard, but are tough to evade. In PvP, poise tends to be essential for players that do not wish to get stun-locked; the Wolf Ring may come in very handy there. Overall, the Wolf Ring best suits wearers of medium armor; the 40 poise is probably not enough to help with most lightly-armored characters, and wearers of heavy armor already do not need to worry about being staggered.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6443405358318319,
+    "bm25_score": 23.683419280282884
+  },
+  {
+    "document_id": "f9528d1e-7dea-564a-87bc-fed4179c83c0",
+    "title": "Chain Set (Dark Souls)",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Chain Set (Dark Souls) -  Dark Souls - armor - characteristics \n characteristics : This armor set gives decent Poise for a set accessed early on in the game. It is heavier than most light sets, and falls in between light armor sets and medium armor sets in terms of weight, defense, and Poise.\n\nIt has the lowest lightning defense of all light sets.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6435112165623404,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ce5cd1e6-b1a5-5c12-a78d-030eff126070",
+    "title": "Poison (Dark Souls II)",
+    "section": "poison_attack_bonus",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Poison (Dark Souls II) -  Dark Souls II - mechanic - poison_attack_bonus \n poison_attack_bonus : The Poison Attack Bonus (abbreviated as Poison BNS in-game) increases the amount of Poison buildup inflicted per hit. It does not affect the total amount of damage the poison will do. Unlike weapons that have a magical scaling stat, Poison has no equivalent scaling.\n\nThe Poison BNS value is determined by the Dexterity and Adaptability stats. In order to continually increase innate Poison BNS, both Dexterity and Adaptability need to be leveled up, with Dexterity giving a larger bonus.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.642229205594233,
+    "bm25_score": 23.587654425722928
+  },
+  {
+    "document_id": "48f56c09-faa2-51a9-a6fe-c07967889372",
+    "title": "Poise (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls) -  Dark Souls - mechanic - lead \n lead : **Poise** is a game mechanic in *Dark Souls*.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6420360052467695,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a63d1746-ae92-5f21-bd6d-821c3e7d8bee",
+    "title": "Poise (Dark Souls)",
+    "section": "boss_bosses",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls) -  Dark Souls - mechanic - boss_bosses \n boss_bosses : Various bosses do not have any poise. But rather than stagger with every hit, they are set to be completely Unstaggerable.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.63900152858626,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ba207175-abf6-51af-b3f6-e0d7cba26365",
+    "title": "Poison (Dark Souls II)",
+    "section": "poison_attack",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Poison (Dark Souls II) -  Dark Souls II - mechanic - poison_attack \n poison_attack : The Poison Attack (abbreviated as Poison ATK in-game) governs the rate at which the player's Poison attacks buildup upon a target.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.637466811912337,
+    "bm25_score": 24.059426681198396
+  },
+  {
+    "document_id": "f62482ab-c384-5654-a37c-51d4fa3ec1c0",
+    "title": "Dark (Dark Souls III)",
+    "section": "stats",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls III) -  Dark Souls III - mechanic - stats \n stats : While leveling up any stat early on will grant Dark defense to some extent, Faith will increase it most efficiently.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6370084912517174,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c2244ad2-8bfd-5ead-849d-47da6a14dca6",
+    "title": "Poise (Dark Souls III)",
+    "section": "poise_damage_modifiers",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "When a strong attack is fully charged, Poise damage inflicted will be 155% of its base value if the weapon is one-handed, and 165% if the weapon is two-handed. Running and jumping attacks will increase the Poise damage inflicted by 10%, whether one-handed or two-handed. If a weapon possesses a sweet-spot mechanic, such as a halberd or reaper, failing to hit the target at the optimal range with standard attacks (both one- and two-handed) will reduce Poise damage inflicted by 10%.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6368238740822383,
+    "bm25_score": null
+  },
+  {
+    "document_id": "12cdbf8f-9673-5ba4-b5dd-f14c75c1240f",
+    "title": "Poise (Dark Souls)",
+    "section": "pvp_poise_breakpoints",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "***32** lets you get poise through the many 30 poise two-handed R1s that dominate the PvP meta. Without this, you're giving Katanas, Spears and Curved Swords a massive advantage. Additionally it lets you walk through their running attacks.\n** **21** lets you poise through very light attacks, including one-handed ones of 30 poise Damage dealing weapons. With Wolf Ring, this can reach the much more important 61 poise breakpoint. One important tactic with this is removing the Wolf Ring at low HP, when poise doesn't help you anymore and the Dark Wood Grain Ring or Red Tearstone Ring are better choices.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6357732326841751,
+    "bm25_score": null
+  },
+  {
+    "document_id": "115139c1-c8f2-56e9-8750-45664eeead8f",
+    "title": "Poise (Dark Souls)",
+    "section": "axes",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls) -  Dark Souls - mechanic - axes \n axes : Kicks are regular kicks, on NPCs/Players they lead to a guaranteed stun, these just also deal poise damage. This can break and reset poise, no special animation is played for that however.\n\n**Chained Attacks:**\n\nThe Butcher Knife has a chained two-handed R2 attack, where the second R2 drains 70 poise instead of 52.5.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6346564268381455,
+    "bm25_score": null
+  },
+  {
+    "document_id": "111df82c-9288-5b67-ba23-68d5dea3aab0",
+    "title": "Poison (Dark Souls II)",
+    "section": "application_of_poison_attack_rating",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Poison (Dark Souls II) -  Dark Souls II - mechanic - application_of_poison_attack_rating \n application_of_poison_attack_rating : Poison and toxic apply once the status bar fills up to 100%. Each hit of a weapon applies the same amount of buildup per hit, meaning that multihit attacks are very effective at building status.\n\nThe AR you gain for Scaling/Bonus is applied as 40% as the number in the menu.\n\nThe handedness preference of a weapon applies to poison and toxic, typically reducing the amount by 10% in the left hand vs the right.\nThe amount of status built up for both Poison and Toxic is equal to [(Base AR + (Scaling *0.4))/5]% and then reduced by (Poison Defense/10)%. Players have 100 additional invisible defenses on all non physical types.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6344944505185851,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4173de3a-fb95-5a55-b809-5fd1cb801580",
+    "title": "Poise (Dark Souls)",
+    "section": "spears",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls) -  Dark Souls - mechanic - spears \n spears : The Dragonslayer Spear's 1H R2 projectile attack does not drain poise. The spear must connect to its target to drain 20 poise.\nThe Dragonslayer Spear's 2H R2 has a chained attack, where the second R2 drains 50 poise.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6344769403476522,
+    "bm25_score": 22.944416959186473
+  },
+  {
+    "document_id": "c05a425b-ae7d-5574-9029-2de5e2ad740f",
+    "title": "Heavy Armor Sets (Dark Souls III)",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Heavy Armor Sets (Dark Souls III) -  Dark Souls III - armor - characteristics \n characteristics : Heavy armor sets provide the strongest defenses and the most Poise. However, they are also extremely costly in weight, meaning that the wearer must invest heavily in Vitality if they intend to use heavy armor.\n\nBecause of the high absorption values and the great amount of Poise provided, heavy armor is ideal protection for players who intend to equip ultra weapons and perform Hyper Armor trades with opponents. Ultra weapons tend to weigh a lot and cost tremendous amounts of stamina to swing, so equipment such as Havel's Ring and Chloranthy Ring tend to go hand-in-hand with such builds.\n\nBecause virtually all heavy sets are plate metal-based, most sets in this category tend to be weak to Strike damage and Lightning attacks, though exceptions do exist. Their plate metal nature, however, also tends to make them highly resistant to Slash damage and Bleed buildup.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6342492934133197,
+    "bm25_score": null
+  },
+  {
+    "document_id": "548ceb95-98dc-5cb1-b891-3eaf8061e23d",
+    "title": "Poise (Dark Souls)",
+    "section": "pvp_poise_breakpoints",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "A popular list of important armor setups can be found ([https://steamcommunity.com/sharedfiles/filedetails/?id=797747166 here]).\n\nRunning attacks drain more poise than normal R1 attacks. For example, you need 56 poise to resist a Greatsword running attack as opposed to 53.\n\n***A phantom hit** — an attack that hits you during the invincibility frames from a roll when viewed by the player getting hit — will still damage your poise, much like poison and bleed will still build up when a phantom hit occurs. Can also be used to reset poise, just like it can be used to reset bleed.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6341413460787759,
+    "bm25_score": null
+  },
+  {
+    "document_id": "31a6b0bf-e7c4-5ee0-badb-5a4c10d9572d",
+    "title": "Poise (Dark Souls)",
+    "section": "miracle_dark_souls_miracles",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls) -  Dark Souls - mechanic - miracle_dark_souls_miracles \n miracle_dark_souls_miracles : Miracle Resonance buffs do not increase poise damage.\nThe AoE bursts trigger a guaranteed stun if unblocked by an opponent with sufficient poise, and instead trigger a knocking down animation when poise is drained.\nWhen the lightning miracles hit water, there are three different tiers of poise damage depending on how close the water effect is to the enemy:\n**Lightning Spear: 16 / 10 / 0\n** Great Lightning Spear: 25 / 15 / 5\n**Sunlight Spear: 35 / 20 / 10",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6334370374650331,
+    "bm25_score": 25.76084921016272
+  },
+  {
+    "document_id": "b4ec7966-6584-5415-864e-5fe7190cd6c1",
+    "title": "Light Armor Sets (Dark Souls III)",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Light Armor Sets (Dark Souls III) -  Dark Souls III - armor - characteristics \n characteristics : For the most part, light armor sets have generally weak physical defenses, but strong elemental resistances to compensate. Because of their cloth nature, most are also quite weak to Slash damage and do not easily tolerate Bleed or Frost buildup. However, their light weight also allows them to be worn without large investments in Vitality, or to carry multiple weapons and switch between them as the situation demands. In certain situations, they can even facilitate builds that remain under 30% equip load in order to maximize roll distance.\n\nBecause of their light weight, it is the rule rather than the exception that light armor sets will offer little to no Poise at all, making them poor protection for wielding ultra weapons.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6333018023898493,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ec9a7d5c-d731-56e0-888c-afc5c0b61b24",
+    "title": "Poison (Dark Souls II)",
+    "section": "poison_resist",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Poison (Dark Souls II) -  Dark Souls II - mechanic - poison_resist \n poison_resist : Poison Resist governs how robust the player is against Poison and Toxic buildup, though the latter is not stated in its tooltip.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6330331677362231,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4f310de3-40d3-5b44-b33e-0cd79248117d",
+    "title": "Poise (Dark Souls)",
+    "section": "offensive_item_misc_items_throwables_poise_drain_values",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls) -  Dark Souls - mechanic - offensive_item_misc_items_throwables_poise_drain_values \n offensive_item_misc_items_throwables_poise_drain_values : The Egg Head Kick drains 100 poise in addition to triggering a guaranteed stun regardless.\nKicking with the Orange Charred Ring equipped does not drain poise (or affect the kick attacks that do drain poise).\nThe Set of Thorns do not drain poise when equipped and rolling into an enemy, though having any piece equipped will stagger enemies with 0 poise.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.447684024533764
+  },
+  {
+    "document_id": "67dba0bb-5821-5c52-ae4c-0cd42f85df3f",
+    "title": "Attack Rating",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Attack Rating -  Dark Souls II - mechanic - lead \n lead : Attack Rating is one of the main factors that determines how much damage weapons do throughout the Dark Souls series.\n\nAttack Rating, commonly abbreviated as AR is a number specific to each Weapon and each element that depends on the weapon, upgrade level, player stats and other equipment that can affect it. This number is used during each attack through a damage formula specific to each game to determine the damage.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.758699498034577
+  },
+  {
+    "document_id": "19f135d9-7025-589c-82fa-fe282f8713a1",
+    "title": "Backstep",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "During the backstep, from frame 11 to 14, the player has hyperarmor, i.e. infinite poise. That means, no matter what hits the player, they will not stumble and stay on their feet. For example, the player can backstep through the boulders in Sen's Fortress without being knocked down. Keep in mind that you will still take damage, since the hyperarmor frames do not grant invincibility. The backwards ninja flip does not have hyperarmor frames.\nWhen inputing an attack directly after the backstep, the player will perform a running attack. This can be very useful in combat, by dodging an enemy's attack with the backstep, then striking back with a running attack.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.512744086974948
+  },
+  {
+    "document_id": "bc6ffd40-671e-534e-8b1d-078daf1c957e",
+    "title": "Black Leather Armor (Dark Souls III)",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Black Leather Armor (Dark Souls III) -  Dark Souls III - armor - notes \n notes : Appears differently depending on player's gender. Does not affect gameplay.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.592118193969355
+  },
+  {
+    "document_id": "0c0d0cb3-9336-52d6-8d34-227876589895",
+    "title": "Item Discovery",
+    "section": "how_drop_rates_work",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Item Discovery -  Dark Souls - item - how_drop_rates_work",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.387762913041275
+  },
+  {
+    "document_id": "d95fc02e-8d2c-5325-8090-1651b6be2f3a",
+    "title": "Pontiff Knight Great Scythe",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Pontiff Knight Great Scythe -  Dark Souls III - weapon - notes \n notes : The Faith requirement does not affect its attack rating. However, casting the weapon art without the required Faith results in failure and does not consume FP, and attacks will consume more stamina.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.25563235320378
+  },
+  {
+    "document_id": "e285caea-88c5-5a79-b45a-17a3a28c6bd2",
+    "title": "Black Leather Boots (Dark Souls III)",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Black Leather Boots (Dark Souls III) -  Dark Souls III - armor - notes \n notes : Appears differently depending on player's gender. Does not affect gameplay.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.125551777255417
+  },
+  {
+    "document_id": "9a7c3d86-b630-580e-9b11-bcb69aeb4a17",
+    "title": "Black Leather Gloves (Dark Souls III)",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Black Leather Gloves (Dark Souls III) -  Dark Souls III - armor - notes \n notes : Appears differently depending on player's gender. Does not affect gameplay.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.125551777255417
+  },
+  {
+    "document_id": "3a5b340e-8d70-5b7c-91b5-9919f31cf396",
+    "title": "Icons",
+    "section": "attack_type_defense",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Icons -  Dark Souls - mechanic - attack_type_defense \n attack_type_defense : Attacks type defense values appear on armor pieces and determine how much defense they provide to a particular type of Physical Damage Type.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.498382815171258
+  },
+  {
+    "document_id": "60930b03-4068-5536-acda-2bc4136d25c4",
+    "title": "Vitality (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Vitality (Dark Souls) -  Dark Souls - mechanic - lead \n lead : **Vitality** is one of the eight base stats in *Dark Souls* that can be increased when leveling up. Investing in vitality increases the player's maximum health points (HP).\n\nContrary to the vitality stats in *Dark Souls II* and *Dark Souls III*, vitality in *Dark Souls* does not affect the player's maximum equipment load. In *Dark Souls*, equipment load is governed by endurance.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.32886703813239
+  },
+  {
+    "document_id": "8c7e59d6-3cc9-5225-b369-fab0faf591d8",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "attacks",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - attacks \n attacks : **Fire Orbs:**\n\nAldia will fire out four orbs of dark fire, placing them above his head. After a short time, the orbs will begin homing in on his target. He can cast this multiple times in a row. **How to avoid:** block with Gyrm Greatshield or roll a few times.\n\nDark **Forbidden Sun:**\n\nAldia charges a large dark fireball above his head. While he does this the fire around him will disperses leaving him vulnerable. Attack him while he's charging. **How to avoid:** the fireball is rather easy to dodge if you roll away right before it hits.\n\n**Tree Root Dance**:",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.320688007920417
+  },
+  {
+    "document_id": "a050d201-a8ba-552a-a300-3fc92ec746d1",
+    "title": "Gauntlets",
+    "section": "overview",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Gauntlets -  Dark Souls - weapon - overview \n overview : Gauntlets have by far the shortest range of all the weapon types in *Dark Souls*, which means they require getting up close and personal with the enemy. They make up for their limited range with their speed. They can attack extremely fast, being able to create long chains of relentless attacks as long as the player's stamina holds out. Gauntlets are one of the few weapon classes that have the ability to parry when used in the left hand.\n\nWith a gauntlet weapon (including fists) equipped in the right hand, the kick animation is changed - rather than a heel kick, the character strikes with the knee. This does not seem to affect the function or range of the kick.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.138686048029705
+  },
+  {
+    "document_id": "5c56314f-0ace-5074-acf4-eeab2a544e48",
+    "title": "Icons",
+    "section": "attack_values",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Icons -  Dark Souls - mechanic - attack_values \n attack_values : Attack values determine how much base damage a weapon causes. The actual damage inflicted can be influenced by Parameter Bonuses.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.852505568806123
+  },
+  {
+    "document_id": "cd04ba2f-2f37-524a-8012-3db908664a49",
+    "title": "Dark (Dark Souls II)",
+    "section": "defense",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls II) -  Dark Souls II - mechanic - defense \n defense : Dark Defense (abbreviated as Dark DEF in-game) governs how robust the player is against Dark based attacks.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.288438567030934
+  },
+  {
+    "document_id": "8731fd47-d0f9-54f0-8f80-70efc94988de",
+    "title": "Rosaria's Fingers",
+    "section": "how_to_join",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Rosaria's Fingers -  Dark Souls III - mechanic - how_to_join \n how_to_join : Talk to Saint Rosaria in the Cathedral of the Deep.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.205209344568768
+  },
+  {
+    "document_id": "75eee310-826b-5a28-95c4-0501e4646e44",
+    "title": "Petrified Dragon Bone",
+    "section": "videos",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Petrified Dragon Bone -  Dark Souls II - item - videos \n videos : [https://www.youtube.com/watch?v=ijh9vUbptOI This video] shows how to quickly get as much Twinkling Titanite and Petrified Dragon Bone as desired. The use of Yearn facilitates the process, though the *Crown of the Sunken King* DLC needs to be installed. This method does not work in since using a Bonfire Ascetic does not reset chest loot.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.962354771881646
+  },
+  {
+    "document_id": "119240f4-7647-57b3-92c2-9ea7ed157c6b",
+    "title": "Work Hook",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Work Hook -  Dark Souls II - weapon - lead \n lead : The **Work Hook** is a claw in *Dark Souls II*.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.513513532613054
+  },
+  {
+    "document_id": "2db3f8d6-6422-5aea-a4e3-d8ac8213ed25",
+    "title": "Stamina (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Stamina (Dark Souls) -  Dark Souls - mechanic - lead \n lead : **Stamina** is a character stat in *Dark Souls* that affects how long and frequently physical actions, such as attacking, blocking, and dashing, can be performed. Stamina acts as a resource that depletes whenever the player performs an action, and recovers automatically after a brief pause. The player's stamina is displayed as a green bar below the red health bar.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.088659456555977
+  },
+  {
+    "document_id": "573f948e-6d61-54f9-85e9-f8b667666e97",
+    "title": "Bleed (Dark Souls II)",
+    "section": "bleed_attack",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - bleed_attack \n bleed_attack : The Bleed Attack (abbreviated as Bleed ATK in-game) governs the rate at which the player's Bleed attacks buildup upon a target.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.059426681198396
+  },
+  {
+    "document_id": "c621ca1a-5af6-57d7-92bf-fe6cd66b6431",
+    "title": "Lloyd's Sword Ring",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Lloyd's Sword Ring -  Dark Souls III - ring - notes \n notes : The ring's effect triggers at about 98% of the player's HP, allowing them to take a small amount of damage and still gain the attack boost.\nThe ring does not affect the damage of consumable items, such as throwing knives and firebombs",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.91576661907725
+  },
+  {
+    "document_id": "e5d07fff-ad08-5fc0-9b8b-9f27c3bc0267",
+    "title": "Fire (Dark Souls II)",
+    "section": "fire_defense",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Fire (Dark Souls II) -  Dark Souls II - mechanic - fire_defense \n fire_defense : Fire Defense (abbreviated as Fire DEF in-game) governs how robust the player is against Fire-based attacks.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.91363419758452
+  },
+  {
+    "document_id": "39912f7d-584e-5865-972b-b5491d56b0ee",
+    "title": "Lightning (Dark Souls II)",
+    "section": "lightning_defense",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Lightning (Dark Souls II) -  Dark Souls II - mechanic - lightning_defense \n lightning_defense : Lightning Defense (abbreviated as Lightning DEF in-game) governs how robust the player is against Lightning-based attacks.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.91363419758452
+  },
+  {
+    "document_id": "ecce38bb-87b0-5f71-92b7-bb1bc99a5fdf",
+    "title": "Magic (Dark Souls II)",
+    "section": "magic_defense",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Magic (Dark Souls II) -  Dark Souls II - mechanic - magic_defense \n magic_defense : Magic Defense (abbreviated as Magic DEF in-game) governs how robust the player is against Magic-based attacks.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.91363419758452
+  },
+  {
+    "document_id": "690df9cf-9dfa-5e3c-8612-1521bb5530be",
+    "title": "Poise (Dark Souls)",
+    "section": "curved_swords",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls) -  Dark Souls - mechanic - curved_swords \n curved_swords : Chained Attacks:\n\nThe Falchion and Scimitar have a chained R2 attack where the second R2 does 20 (1-handed) or 30 (2-handed) poise damage.\nThe Jagged Ghost Blade has a chained R2 attack where the second R2 drains 5 per hit (both 1-handed or 2-handed).",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.70138533525526
+  },
+  {
+    "document_id": "020ee020-5375-5005-a739-c83098db4f32",
+    "title": "Clawed Curse",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Clawed Curse -  Dark Souls III - mechanic - trivia \n trivia : Grand Archives Scholars have their own heads covered in wax to protect themselves from these specters. They tend the many vats filled with this liquid found throughout the library.\nIn the official guide, there is a description for the Scholar's Shed Skin telling how \"ivory wax\" is made to prevent your \"anchor of reason\" from being damaged by the \"foulness\" of the texts. How this works in relation to the curse effect they give is not clear, but they could represent how the mind interprets the harm they do, though how exactly this harms people is uncertain.\nThey share a resemblance with the arm that appears out of the Curse-rotted Greatwood in its second phase.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.59231681305473
+  },
+  {
+    "document_id": "07ad01cd-e70d-58bd-a2c5-fda75a0cd72c",
+    "title": "Bleed (Dark Souls II)",
+    "section": "bleed_attack_bonus",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - bleed_attack_bonus \n bleed_attack_bonus : The Bleed Attack Bonus (abbreviated as Bleed BNS in-game) increases the amount of Bleed buildup inflicted per hit. It does not affect the total amount of damage the Bleed effect will do. Unlike weapons that have a magical scaling stat, Bleed has no equivalent scaling.\n\nThe Bleed BNS value is determined by the Dexterity and Faith stats. In order to continually increase innate Bleed BNS, both Dexterity and Faith need to be leveled up, with Dexterity giving a larger bonus.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.46769976404914
+  },
+  {
+    "document_id": "c8fb3f08-9457-5c60-b86c-7a63f1b5d332",
+    "title": "Parameter Bonus (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus (Dark Souls II) -  Dark Souls II - mechanic - lead \n lead : **Parameter Bonus** (also known as **Scaling**) is a gameplay mechanic in *Dark Souls II* similar to the ones from the first game.\n\nIt is a rating ranging from \"E\" to \"S\" of how well a weapon synergizes with a specific stat. These stats include Strength, Dexterity, Magic (mainly Intelligence), Lightning (mainly Faith), Fire (mainly a combination of Intelligence and Faith) and Dark (lowest stat between Intelligence and Faith).\n\nAll the details are not completely known; in particular, how scaling works when there are multiple stats at once (such as for \"quality\" weapons).",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.3210468137606
+  },
+  {
+    "document_id": "a35f5d25-7889-5db6-a1f1-db69d7405fb4",
+    "title": "Greatsword of the Forlorn",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Greatsword of the Forlorn -  Dark Souls II - weapon - characteristics \n characteristics : The Greatsword of the Forlorn is a very potent weapon, with the ability to deal massive damage in three different ways.\n\nThe weapon deals a great deal of both physical and Dark damage, as well as a good amount of Bleed build-up. This makes the weapon useful against most foes.\n\nThe weapon's main mechanic is that it, similarly to the Dark Pyromancy Flame and the Scythe of the Forlorn, scales with how hollow the player is. In human form, it will have an extremely low attack rating, while it will have a slightly above-average damage output when fully hollowed.\n\nIts moveset is similar to that of the Charred Loyce Greatsword; however, two-handed light attacks are standard greatsword swings.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.045683422958707
+  },
+  {
+    "document_id": "7e6f4d0f-5425-5bf9-96db-a9499e3ac7c3",
+    "title": "Durability",
+    "section": "how_equipment_loses_durability",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Durability -  Dark Souls - mechanic - how_equipment_loses_durability \n how_equipment_loses_durability : Equipment can lose durability in a few ways. Armor, for example, is damaged any time you take damage. Some enemies, such as the Gaping Dragon, Chaos Eaters and Burrowing Rockworms have attacks which decrease the durability of all your equipment. There is also the spell Acid Surge which degrades equipment in the same way as the Chaos Eaters' attacks.\n\nWeapons can lose durability by hitting enemies, walls or breakable objects. Attacks that are deflected, such as when striking a wall, suffer double the durability damage.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.923237896301924
+  },
+  {
+    "document_id": "29547eee-9bff-5b6b-aa66-9eb1588e7694",
+    "title": "Warrior of Sunlight (Dark Souls III)",
+    "section": "how_to_join",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Warrior of Sunlight (Dark Souls III) -  Dark Souls III - mechanic - how_to_join \n how_to_join : The emblem to join the covenant can be found in the Undead Settlement, inside the leftmost house from the big open area with several peasants and an Evangelist praying at a burning tree.\n\nUpon entering the house, head right and drop through a hole in the floor. The hole is partially concealed by several boxes and dead Cage Spiders. The covenant item is on a table along a wall opposite a fireplace with a cauldron of Estus Soup.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.8286873798886
+  },
+  {
+    "document_id": "d1230375-2807-5b51-a6ab-15990f745901",
+    "title": "Poise (Dark Souls)",
+    "section": "thrusting_swords",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls) -  Dark Souls - mechanic - thrusting_swords \n thrusting_swords : Chained Attacks:\n\nRicard's Rapier has a chained 1H R2 attack, where the second R2 deals 4 attacks that remove 2.5, 2.5, 2.5 and 1.25 poise.\nRicard's Rapier has a chained 2H R2 attack, where the second R2 deals 4 attacks that removes 5, 5, 5 and 2.5 poise.\nVelka's Rapier has a chained 1H R2 attack, where the second R2 deals a single attack that removes 1.25 poise.\nVelka's Rapier has a chained 2H R2 attack, there the second R2 deals a single attack that removes 2.5 poise.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.723406050067155
+  },
+  {
+    "document_id": "07dc4725-d571-5395-acb0-4c23ee92f67a",
+    "title": "Stats (Dark Souls II)",
+    "section": "performance",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "; Curse resist\nResistance to the Hollowing curse.*\nHP is reduced as Hollowing increases in severity.*\nImproves with adaptability, and to a lesser degree with attunement.\n\n; Agility\nBoosts ease of evasion and other actions.*\nImproves with adaptability, and to a small degree with attunement.\n\n; Poise\nThe ability to withstand the impact of attacks.*\nImproves as both adaptability and endurance are raised at the same rate.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.72298158358203
+  }
+]

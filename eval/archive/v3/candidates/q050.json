@@ -1,0 +1,2448 @@
+[
+  {
+    "document_id": "0135a10e-692b-50ca-b42b-d64e88993fc9",
+    "title": "Ending",
+    "section": "to_link_the_fire",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Ending -  Dark Souls - mechanic - to_link_the_fire \n to_link_the_fire : This ending is obtained by lighting the bonfire that appears after defeating Gwyn, Lord of Cinder. In sacrifice, the Chosen Undead links the First Flame as Gwyn had done before him/her, thus fulfilling Kingseeker Frampt's goal of continuing the Age of Fire. The Curse of the Undead will be broken, but one day the flames will fade again, and all will play out as before.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6134623751302807,
+    "bm25_score": null
+  },
+  {
+    "document_id": "017d8296-edf6-5322-9666-a1a5c4dd20a1",
+    "title": "Darksign",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Darksign -  Dark Souls II - item - lore \n lore : Gwyn had foreseen the Age of Dark at the end of the Age of Fire and, fearing the infinite potential of the Dark Soul that the Furtive Pygmy found and the Humanity that inherited it, he forced a ring of fire around the Dark Soul to contain its powers and making every new human assume a weakened form and bear the Darksign. In addition, various groups were created to encourage worshipping Gwyn and his kin as Gods, such as the Way of White, the oldest and most powerful cultural organization centered around the veneration of the gods of Anor Londo, who spread Miracles to humans and cultivated the cult of the Age of Fire and the linking of the Flame.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.3046574182879
+  },
+  {
+    "document_id": "03d172e2-54a5-5fa3-9121-d4953e8ba541",
+    "title": "Age of Dark",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "In *Dark Souls III*, countless beings have prolonged the Age of Fire, preventing its end and holding off the coming of the Age of Dark. By the time the game begins, there are countless Lords of Cinder - those who successfully linked the First Flame before - and even more Unkindled who were unsuccessful. Eventually the one anointed to next link the Flame (and indeed, who was born for that very purpose), Prince Lothric, rejected the idea that the Age of Fire should be prolonged any further and instead desired to end what he called the \"fire-linking curse.\" A contingency plan was then activated, in which previous Lords of Cinder were resurrected in hopes that they, who had linked the First Flame before, might do so again. However, by this time, the world that had been created during the Age of Fire had become a twisted shadow of its former self. As a result of the prolonging of the current Age, the act of which seemingly constituted a rejection of the natural order, the material world",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 35.11058429534357
+  },
+  {
+    "document_id": "0789ca52-e88e-5e78-862c-6d8b376435d5",
+    "title": "Pyromancy Flame (Dark Souls III)",
+    "section": "upgrades",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Pyromancy Flame (Dark Souls III) -  Dark Souls III - weapon - upgrades \n upgrades : Reinforced through Cornyx of the Great Swamp.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.59748943674322,
+    "bm25_score": null
+  },
+  {
+    "document_id": "08d50a00-3fd9-5054-b56e-9a70b11454c7",
+    "title": "Witch of Izalith",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Witch of Izalith -  Dark Souls - character - trivia \n trivia : The name of the Witch is literally **Izalith**, as stated by Quelana in the Japanese version, where she calls the Witch \"my mother Izalith\".\nDuring her dialogue, Quelana mentions that most humans are unable to perceive her, and implies that they absolutely cannot, so long as she actively does not want them to.\nDespite herself being consumed by the Chaos Flame, Izalith was partially successful in replicating the First Flame. Not only does Chaos generate life, it also has its own fire-linking quality, wherein a demon Champion is destined to rekindle it, becoming the Demon Prince. This system parallels the prophecy of the Chosen Undead and their becoming a Lord of Cinder.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.557566610270047
+  },
+  {
+    "document_id": "08d5250e-8b5e-5bd8-a7f5-5861da8802ae",
+    "title": "Gwyn, Lord of Cinder",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Gwyn's act of linking the First Flame came to be a point of controversy for several figures; namely Kaathe and Aldia would regard Gwyn's sacrifice as having \"unnaturally\" extended an Age of Fire that was never meant to last, inhibiting the potential of humans in the process. As of the time of the Chosen Undead, one consequence of Kaathe's actions lies beneath Firelink Shrine: the ruins of New Londo, which was captured by the Darkstalker and had to be flooded before the Abyss within could spread to the surface world.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6071445219310219,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0ac2f58c-cc3e-5fca-8f23-da831ce4d61d",
+    "title": "Crown of the Great Lord",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Crown of the Great Lord -  Dark Souls - armor - description \n description : Crown of Gwyn, Lord of Cinder, who linked the First Flame.\n\nLord Gwyn, bearer of the ultimate soul, divided that power among his great clan before linking the flame. But he did keep his crown, perhaps to preserve a symbol of the monarch, for its actual power had fully subsided.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.456622497352484
+  },
+  {
+    "document_id": "119ac195-88df-59f5-9040-5664976e85d6",
+    "title": "Courland",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "At a certain point the First Flame began to fade again and the first Fire Keeper of Lothric had a vision of the end of the Age of Fire and the beginning of an Age of Dark, a \"barren plane of endless darkness\". For this reason, Ludleth, a student of the art of transposition, was called to become a Lord of Cinder, to link the First Flame again and repel the dark vision of the Fire Keeper. Defying his frail appearance, Ludleth managed to muster the strength necessary to become a Champion, something for which he himself expresses remorse and asks to be forgiven. Despite his role, Ludleth was then exiled from his country and collaborated with Lothric, ensuring that the first Fire Keeper was deprived of her eyes and that all future maidens like her were deprived of their sight, to prevent them from observing the future without the light of the First Flame. The original eyes were hidden in a version of the Firelink Shrine on the verge of sinking into darkness and where the First Flame was an",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5962974697015865,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1408288f-aa16-5b8b-89d0-91c2733e9d8c",
+    "title": "Fire Clutch Ring",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Fire Clutch Ring -  Dark Souls II - ring - effect \n effect : Increases the Fire AR stat and decreases the player's defense stats for Strike, Thrust, and Slash by 80 points each. The weapon must have a Fire attack stat for the effect to take place. The ring also increases the damage of Pyromancies, which deal Fire damage.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5870769369576616,
+    "bm25_score": null
+  },
+  {
+    "document_id": "15a9c618-7b45-5eac-9903-aa9ff86b291e",
+    "title": "Farron Follower",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "As the First Flame continued to fade and Prince Lothric refused to link it, the Lords of Cinder of the past were exhumed from their graves to once again be used as fuel. Among them the Abyss Watchers too rose from their graves, but refused to sacrifice themselves again to link the Fire, choosing to return to their Keep in Farron. However, the Followers were no longer present to cull the warriors that would become corrupted by the Abyss, consequently forcing the Watchers to do so themselves, wasting their strength to kill each other to contain the spreading corruption.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6446706853711717,
+    "bm25_score": null
+  },
+  {
+    "document_id": "179707ee-9138-5f4d-8d83-4ad6c4f87fa7",
+    "title": "Ending (Dark Souls III)",
+    "section": "availability_2",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ending (Dark Souls III) -  Dark Souls III - mechanic - availability_2 \n availability_2 : {'name': 'Ending', 'description': 'Having witnessed visions of a world without the First Flame, the summoned Fire Keeper takes the First Flame into her hands, where she lets it wither and die out entirely. The light in the sky quickly fades together with the Flame and soon as the world descends into complete darkness, ending the Age of Fire.\\n\\nAlthough the world has now entered the long-postponed Age of Dark which would have naturally succeeded Fire had Lord Gwyn not started the tradition of linking the First Flame prior to the original *Dark Souls*. The shape that this new Age of Dark will take, and the part that the Unkindled One will play within it, are left unclear.'}",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6639612241734838,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1a687600-6490-5aed-b05f-bcabb9c0173e",
+    "title": "Timeline",
+    "section": "dark_soul_the_second_linking_of_the_flame",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Timeline -  Dark Souls III - storyline - dark_soul_the_second_linking_of_the_flame \n dark_soul_the_second_linking_of_the_flame : (The events before Dark Souls I)\n(**INCOMPLETE**)",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 34.37388032345672
+  },
+  {
+    "document_id": "1c757ca7-013a-5a43-9795-a69b7a72a88b",
+    "title": "Bonfire Ascetic",
+    "section": "general_information",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Bonfire Ascetic -  Dark Souls II - item - general_information \n general_information : When burned, a Bonfire Ascetic will change the entire bonfire area to the next playthrough level. For example, if used during the first playthrough, it will bump the difficulty to New Game+, and if used at New Game++, it will bump the difficulty to New Game+++. This process is irreversible and persists on following playthroughs. For example, if an area was increased to New Game+ on one's first playthrough, it will be at New Game++ difficulty on the next playthrough.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5962291468783869,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1f5b002f-b022-5141-af27-5ac5acaa808d",
+    "title": "Age of Dark",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "The idea that the linking of the First Flame was unnatural and that it ran contrary to the order of the world is an important concept in the *Dark Souls* series, especially as the Age of Fire is prolonged perpetually by innumerable successive individuals seeking to prevent the coming of the Age of Dark.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.7342896823221692,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2293644a-9497-5e89-9f8e-164f65924a7d",
+    "title": "Firelink Leggings",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Firelink Leggings -  Dark Souls III - armor - description \n description : Leggings of the Soul of Cinder, a deific manifestation of the Lords of Cinder, who linked the First Flame.\n\nThey resemble a knight's leggings, but bears hideous burns and contortions.\nThey exists as a symbol of the great Lords and the noble act of linking the fire, though they are no more than empty husks.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.958286636788515
+  },
+  {
+    "document_id": "246c3649-068b-5bd4-a716-1a2760f39780",
+    "title": "Timeline",
+    "section": "profaned_capital_the_capital_of_sin",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "A \"priest\" experiments on the women of his family, causing their Humanity to go out of control and transforming them into monstrosities\nDespite this he continues to live without any care and the other court sorcerers continue to experiment on the Dark Sign and Humanity\nThe court sorcerers manage to create a flame that originates from the Dark Soul: the Profaned Flame\nThe Profaned Flame can burn without fuel and forever, but produces no heat\nThe Profaned Flame becomes too powerful and puts the city at risk\nYhorm decides to become a Lord of Cinder to quell the Profaned Flame, believing that by restoring the First Flame's power the dark flame of the Profaned Capital would lose power\nYhorm links the First Flame and is buried with a fragment of it still in his body, becoming a Lord of Cinder\nAfter Yhorm links the First Flame, the court sorcerers continue to experiment with the Profaned Flame\nThe court sorcerers create gargoyles as guardians and soldiers",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6108609524403629,
+    "bm25_score": null
+  },
+  {
+    "document_id": "296b4ca6-a12e-5131-a6e3-fda0e4204a14",
+    "title": "Ending (Dark Souls III)",
+    "section": "availability_4",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Talk with Yuria at Firelink Shrine and exhaust her dialogue.\nThe questline is now complete: After defeating the Soul of Cinder, simply interact with the First Flame to trigger this ending.\n** The infobox will say \"Link the First Flame\" even after the questline is completed; this is expected. If the player wishes to ensure that the Usurpation ending will be triggered, they may return to Firelink Shrine at any time and talk to Yuria. Unless she voices her displeasure with the Ashen One, this will confirm that The Usurpation of Fire ending will take place upon interacing with the First Flame instead of the To Link the First Flame ending.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.7391528478823037,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2c46afc8-9410-5ca9-8823-a78ba25dffcb",
+    "title": "Lothric",
+    "section": "royal_madness",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "When the royal family realized that Lothric would not improve from his condition, they resorted to repulsive acts in an attempt to obtain a worthy Champion for the linking: the rulers bound the souls of the two princes together with a curse. Although the exact motive behind this act is unknown, it is likely that the rulers intended for Prince Lothric to draw out some of the strength of his elder brother's soul, which could have allowed him to qualify as worthy Ash for the First Flame. It was even said that Lorian willingly submitted to the curse, even as it crippled him. The resulting Soul of the Twin Princes was one worthy of providing kindling for the First Flame, even as the princes were physically incapable of overcoming the obstacles involved in linking the Flame. Unable and unwilling to fulfill their destiny, the princes retreated to their chamber to await the end of the world.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.539054955490975
+  },
+  {
+    "document_id": "333c0dbd-43d3-5d81-85a2-c1f904b7c0aa",
+    "title": "Age of Dark",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "In Ending 2: \"The End of Fire\", the First Flame is snuffed out, albeit with the Fire Keeper revealing that one day \"tiny flames will dance across the darkness\", which suggests that the First Flame partially perseveres in the form of embers within the Lords of Cinder of the past. As these Lords will use these embers of the First Flame to exert influence the world, this Age of Dark does not spell finality for the Flame. Alternatively, the player can choose to intervene as the Fire Keeper is about to extinguish the First Flame, by killing her before the cinematic ends. In this ending, the Ashen One instead takes the First Flame for themselves while the final segment of the opening narration is heard: *\"Nameless, accursed Undead, unfit even to be cinder...And so it is...that Ash seeketh embers.\"*",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6763091903598513,
+    "bm25_score": null
+  },
+  {
+    "document_id": "38044ee0-d2aa-578d-ab67-ceea2c59f1d1",
+    "title": "Chosen Undead",
+    "section": "epilogue",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Chosen Undead -  Dark Souls - character - epilogue \n epilogue : After offering the necessary Lord Souls, the doors to the Kiln of the First Flame are opened to the Chosen Undead. Gwyn, now reduced to a Lord of Cinder, breathes his last breath in the final confrontation with the Chosen Undead. It is here that the Chosen Undead may make their decision of either linking the flame or walking away from it. Depending on which course of action is taken, one of the two possible endings will be unlocked. Whether the player has aligned themselves with Kaathe or Frampt will not affect the ending of the game.\n\n***Link the Fire:** This ending is unlocked if the player rekindles the First Flame. The Chosen Undead offers themselves as kindling to the fire. Sacrificing all of their souls, the Chosen Undead is consumed by the flames and the Age of Fire is extended, as life is breathed into the First Flame once more.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 33.24250598863918
+  },
+  {
+    "document_id": "383375a1-8b22-5f56-9342-6a4e64b3692a",
+    "title": "First Flame",
+    "section": "age_of_fire",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Aware that time was quickly running out for his kingdom, Gwyn and a detachment of his knights entered the Kiln of the First Flame. The knights stood guard as Gwyn sacrificed himself to the waning Flame at the Kiln's centre. This immediately reinvigorated the First Flame, creating a firestorm that turned the Kiln to ash, and incinerated all of Gwyn's knights, creating the Black Knights and dooming them to wander the lands as disembodied spirits forever after.\n\nGwyn's sacrifice succeeded in perpetuating the Age of Fire for a time, but *Dark Souls* takes place at least 1000 years later, and the Flame is quickly fading once again. Soon, only Dark will remain.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6217603013639752,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4196ac76-aec0-53d6-90af-1b32c9bf24ef",
+    "title": "Lords of Cinder",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Lothric, Younger Prince: A prince brought into the world by the royal family of Lothric for the sole purpose of linking the Flame; however, his frailty, curse and suffering led him to reject his destiny.\nAshen One: An Unkindled who was resurrected in Lothric with the duty of linking of the First Flame, overcame multiple challenges and gathered the cinders of Lords of the past before gaining access to the Kiln of the First Flame.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 35.94062340021258
+  },
+  {
+    "document_id": "45e985b2-5a23-573c-9026-79120c73e59d",
+    "title": "Drangleic",
+    "section": "drangleic_s_curses",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Studying and experimenting on the inhuman creatures and their souls, and via studies on artifacts from older kingdoms, Vendrick and Aldia pioneered the creation of Golems, very similar in appearance to the captured giants. Vendrick made Nashandra his queen, and had the golems build his Royal Castle, as proof of his gratitude and affection to her. Beneath the royal castle was the ancient Throne of Want, an artifact capable of connecting to the First Flame, the source of souls and beginning of all that the king was seeking. Studying the First Flame and the mysteries of the soul with his brother Aldia, the king acquired a profound understanding of the history of the world and the rules of reality, how the Flame brought Disparity and everything from it, propagating souls in the world every time someone linked it, giving it new strength. He also understood how the Dark was kept under control as long as the fire flourished, and that once the fire naturally weakened the curse would strike",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.137101337885156
+  },
+  {
+    "document_id": "4676aff5-e564-5610-ac43-0b3560a5645f",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "dialogue",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "The deformed Aldia is encountered several times by the Bearer of the Curse, to whom he imparts his extensive knowledge on the nature of life. He expresses outrage over the actions of the Lord of Light, who cursed humans into mortality and introduced the cycle of light and dark by linking the First Flame. Aldia's bleak worldview considers mankind as \"props on the stage of life\", persevering merely through obsession. While acknowledging the merits of the Age of Fire, he labels the roots of this \"warm, resplendent\" world as a lie, with the linking of the Fire as its original sin. Nevertheless, Aldia realizes that one could wish to inherit this order, even if built on a \"tender, exquisite\" lie. Instead of submission to the peace provided by the status quo, he offers a third \"path\"; obscure and unpaved, yet could perhaps ascend the scope of Light and Dark.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 35.06295224423804
+  },
+  {
+    "document_id": "475a6edc-de31-5162-912a-16a8542c7f5f",
+    "title": "Fire Clutch Ring (Dark Souls III)",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Fire Clutch Ring (Dark Souls III) -  Dark Souls III - ring - effect \n effect : Increases damage dealt by Fire sources, including weapons, by 15% while reducing physical damage absorption by 10%. In PvP, Fire attack is increased by 8% and physical absorption is reduced by 15%.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.591396356953894,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4d321cfb-2e35-5085-9d13-a857ed1476ed",
+    "title": "Timeline",
+    "section": "profaned_capital_the_capital_of_sin",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "After Yhorm links the First Flame, the court sorcerers continue to experiment with the Profaned Flame\nThe court sorcerers create gargoyles as guardians and soldiers\nThe court sorcerers equip the gargoyles with staffs capable of using the Profaned Flame as a weapon\nIn a ritual, the Profaned Flame goes out of control and devours the city, but only burns the people\nOnly a family of sorcerers and their handmaidens survive\nThe Profaned Flame is however stored in the skulls of its victims and used by the survivors\nDue to the **Stagnation**, the ruins of the Profaned Capital are submerged underground, drifting all the way beneath the city of Irithyll\nThe First Flame starts to fade again but Prince Lothric, the designated Lord of Cinder, refuses to link the Flame\nYhorm, as one of the previous Lords of Cinder, is exhumed from his graves to use the embers of the Flame still within him as fuel for it",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6397113897937872,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4da0f6f9-a105-5b27-88c1-460b77bf397c",
+    "title": "First Flame",
+    "section": "age_of_ancients",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "But then, somewhere in the hollows deep underground, a great and primordial fire that would come to be known as the First Flame burst into being. In doing so, it brought disparities into the world for the first time, such as heat and cold, life and death, and light and dark. Soon, humanoid creatures emerged from the darkness surrounding the First Flame, attracted by the fire. These creatures found sources of power called souls near the Flame, and took on the diverse powers the souls gave them. With the strength of four particularly powerful souls, four figures were born: Gravelord Nito, the Witch of Izalith, Gwyn, the Lord of Sunlight, and the Furtive Pygmy. Using their newfound power, these Lords and their forces overthrew the ancient dragons, ushering in the Age of Fire.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.604109474155893,
+    "bm25_score": null
+  },
+  {
+    "document_id": "512014c0-5cf8-54b6-b729-5c2729129028",
+    "title": "Eyes of a Fire Keeper",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Eyes of a Fire Keeper -  Dark Souls III - item - usage \n usage : Given to the Fire Keeper adds an option to her services to unlock the End of Fire ending.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5899415174002246,
+    "bm25_score": null
+  },
+  {
+    "document_id": "52dd5787-5e82-536d-bf38-49b92d4bb167",
+    "title": "Humans",
+    "section": "age_of_gods",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Over time, others would repeat Gwyn's sacrifice—either for their own reasons or to follow in his footsteps—to rekindle the First Flame. As the First Flame was not intended to burn as long as it had, the fabric of reality began to suffer.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6511246677705818,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5a481ce9-dc5d-56da-9b1a-114779ace6f2",
+    "title": "Timeline",
+    "section": "dark_souls_iii_the_last_days_of_the_fire",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Timeline -  Dark Souls III - storyline - dark_souls_iii_the_last_days_of_the_fire \n dark_souls_iii_the_last_days_of_the_fire : (The events before Dark Souls III)\n\nOver the centuries, dozens of people link themselves to the First Flame, becoming Lords of Cinder\nThe souls of all those who have linked the First Flame manifest in the form of the Soul of Cinder, an entity possessing all the abilities of the previous Lords of Cinder even if it's just an empty husk.\nThis manifestation of the previous Lords of Cinder exists as the First Flame's last defense from future linkers\nThe future Lords of Cinder face the Soul of Cinder at the Kiln of the First Flame before they can link the First Flame\n\nDue to the First Flame naturally dying out, time and space slowly converge towards it, bringing the various regions of the world towards the Kiln of the First Flame",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 33.21401949977841
+  },
+  {
+    "document_id": "5bde3986-871c-5e1b-9760-649c8565ed8d",
+    "title": "Primordial Serpents",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Even after possibly hundreds of thousands years after the first linking of the Flame, Frampt (or other serpents affiliated with his ideology) continued to propagate the cult of the linking of the Flame; influencing kingdoms, rulers and simple Undead to continue the tradition started by Gwyn. When the First Flame drifted up to position itself on the nascent kingdom of Lothric, Frampt or other serpents affiliated with his ideology reached the city too. Over time the serpents passed on the culture of linking the Flame to the royal family of Lothric, pushing them to preserve the tradition and actively produce heirs capable of becoming Lords of Cinder. Frampt or his kin were represented in numerous statues, on par with the Three Pillars of Lothric, with elegant clothes and angel wings, showing their central role within the kingdom, considered \"divine messengers\". Following Prince Lothric's refusal to link the Flame and the disappearance of King Oceiros, the fate of the primordial serpents",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 33.80226531413595
+  },
+  {
+    "document_id": "5c12d4a3-fbf2-554c-8aa3-9181c78208bb",
+    "title": "Knight Artorias",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "At the close of a period in the Age of Fire, The Abyss Watchers linked the First Flame, becoming Lords of Cinder. An indefinite amount of time later, the destined Lord of Cinder Prince Lothric refused to link the First Flame, which led to Lords of Cinder from the past being exhumed from their graves, to once again serve as kindling for the Flame. The Abyss Watchers refused to once again sacrifice themselves to the Flame, instead returning to Farron Keep, leaving their throne at Firelink Shrine empty.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6097966299801929,
+    "bm25_score": null
+  },
+  {
+    "document_id": "63994ee2-f837-5c38-b557-fb7acfeebeb5",
+    "title": "Anklet of the Great Lord",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Anklet of the Great Lord -  Dark Souls - armor - description \n description : Anklet of Gwyn, Lord of Cinder, who linked the First Flame.\n\nLord Gwyn, bearer of the ultimate soul, divided that power among his clan before linking the flame. When he departed, he left only with his greatsword, his garb, and the crown, now bereft of power.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.02951779520069
+  },
+  {
+    "document_id": "63d9e366-6c15-5f76-a5b5-7238429b9974",
+    "title": "Gwyn, Lord of Cinder",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin at some point learned of Gwyn's existence and his story but not his name, referring to him merely as the \"Lord of Light\". He understood how Gwyn altered the natural order and began linking the Flame, which extended the Age of Fire against the course of nature, and he expresses his outrage at Gwyn for making men lesser than their original form as the \"Lord of Light\" banished Dark and all that stemmed from Humanity with the Darksign, defining it as the \"First Sin\" committed against humans and their nature.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 34.303433813345116
+  },
+  {
+    "document_id": "67b77ccf-4c4a-5767-831d-2c67ee82451e",
+    "title": "Age of Dark",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Following the failure of this first contingency plan, a second plan is activated: Unkindled, those who had previously tried to link the First Flame but who had failed to do so, are resurrected from their graves in the Cemetery of Ash, and tasked with placing the rebellious Lords of Cinder upon their thrones so that the First Flame might be linked once more. The Ashen One, protagonist of *Dark Souls III*, is one of these Unkindled. After the Ashen One defeats each of the Lords of Cinder and places their remains upon their respective thrones in the Firelink Shrine, the Fire Keeper removes the embers of the Lords and bestows them upon the Ashen One, making them a \"true lord, fit to link the fire,\" and imbuing them with the power to proceed to the Kiln of the First Flame.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.627942442348787,
+    "bm25_score": null
+  },
+  {
+    "document_id": "68c4a86a-08dc-5eaf-8962-aaef13f2ddb4",
+    "title": "First Flame",
+    "section": "age_of_fire",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "By the time of *Dark Souls III*, many other such sacrifices, who have become posthumously known as Lords of Cinder, have given themselves to the First Flame, and the Age of Fire has persevered for many generations as a result. However, when the latest individual chosen for the honour, Prince Lothric, abandons his duty by refusing to link the fire, a desperate attempt to save the fading Flame begins. Four previous Lords of Cinder are resurrected to link the fire once more, however - aside from Ludleth of Courland - they too choose to flee their duties, forcing the Ashen One to drag them back.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6225338636983946,
+    "bm25_score": null
+  },
+  {
+    "document_id": "69fdc547-e7a6-5985-9bdc-84bc0acf4181",
+    "title": "Firelink Helm",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Firelink Helm -  Dark Souls III - armor - description \n description : Helm of the Soul of Cinder, a deific manifestation of the Lords of Cinder, who linked the First Flame.\n\nIt resembles a knight's helm, but bears hideous burns and contortions. A misshapen crown can be seen upon its rear.\n\nIt exists as a symbol of the great Lords and the noble act of linking the fire, though it is no more than an empty husk.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.572728597818074
+  },
+  {
+    "document_id": "6bfd9170-8103-570c-bf2d-958f80132783",
+    "title": "Timeline",
+    "section": "lothric_the_kingdom_of_lothric",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "--- Let's fix this ---\nFrampt reaches Lothric and transmits the culture and knows them related to the First Flame\nThe Lothric civilization takes up the culture of firelinking ritual due to the fact that they now possess the First Flame\nThe Lothric civilization builds its first Firelink Shrine within the Royal Garden\nThe First Fire Keeper has visions of a world without fire and betrays her purpose. The Flame risks the complete fading and the king decides to link the Flame himself. Although, Ludleth manages to link the Fire first just in time to save the Age of Fire. Gundyr comes too late to the Shrine, as the Link has already occurred: there he faces the Ashen One and gets defeated, his body chained and forced to serve as an everlasting trial for all those who seek to link the Fire\nThis event leads to the creation of Gundyr's ballad, staining the reputation of the Royal Family for all years to come",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6032184139033829,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6c6971d9-de3a-5434-bb06-53c9c00f7784",
+    "title": "Age of Dark",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Through another questline, the player can cooperate with Yuria, a leader of the Sable Church of Londor, who urges the Ashen One to take the Flame for themselves, to usher in an Age of Dark; for the Sisters of the Sable Church were under the guidance of Kaathe. This is Ending 4: \"The Usurpation of Fire\", where the Flame is wrested by the Ashen One, who is to lead the Age of Man as the Lord of Hollows. By the time of *Dark Souls III*, the undead curse has been accepted by the people of Londor, who have come to view it as a blessing, and their Hollow form as the \"true face of man\".",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.401993769291785
+  },
+  {
+    "document_id": "6e0abba7-5943-55c8-938b-3f5413a60db2",
+    "title": "Timeline",
+    "section": "the_rise_of_the_dark_lord",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "The Ashen One defeats the Soul of Cinder and gains access to the First Flame\nThe Ashen One understands that linking the Fire again won't save the world this time but also that letting it die out in the current state of the world and humans would only lead to the Age of the Deep, in which humanity and the Dark Soul would be putrid and stagnated\nThe Ashen One usurps the First Flame, ripping it from its kiln and absorbing it into their Dark Sigil, ascending to Dark Lord\nThe Dark Lord, in control of the First Flame, is able to manipulate space and time and can start the true Age of Humanity, becoming its deity and guide with the Sable Church and Londor as their servants and followers.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.466574564510182
+  },
+  {
+    "document_id": "6eb02921-c353-542f-9b2f-b7730071d6dd",
+    "title": "Firelink Set",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Firelink Set -  Dark Souls III - armor - description \n description : Armor of the Soul of Cinder, a deific manifestation of the Lords of Cinder, who linked the First Flame.\n\nIt resembles a knight's armor, but bears hideous burns and contortions.\n\nIt exists as a symbol of the great Lords and the noble act of linking the fire, though it is no more than an empty husk.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.81272217900395
+  },
+  {
+    "document_id": "710aaee6-ed70-5531-b178-9071c24dd307",
+    "title": "Lords of Cinder",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Lords of Cinder -  Dark Souls III - character - lead \n lead : The are characters who have linked the First Flame throughout the history of the *Dark Souls* universe.\n\nTo \"link the First Flame\" is to reach it, be powerful enough to withstand its power, and rekindle the flame anew; it is done in order to stop the First Flame from withering out and dying, a process that occurs naturally over time and would mean both the end of the Age of Fire and the coming of an Age of Dark. To attempt to link the flame, one must typically reach the kiln built around the First Flame and defeat the empty husk of the previous Lords of Cinders guarding it against those not worthy of its power.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6304714632638931,
+    "bm25_score": null
+  },
+  {
+    "document_id": "79e35663-be0a-54b3-9215-59058ef55f69",
+    "title": "Ashen One",
+    "section": "epilogue",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "***Ash Seeketh Embers**: If the Ashen One gave the Eyes of a Fire Keeper to the Fire Keeper, they may summon her upon defeating the Soul of Cinder. The Fire Keeper will take the First Flame into her hands. Before the flames fade, the Ashen One may strike her down. The Ashen One steps over the limp body of the Fire Keeper and takes the First Flame into their own hands. Kneeling, the Ashen One raises the flame, offering it to the Darksign Sun.\n***The Usurpation of Fire**: If the Ashen One allowed Yoel to draw out their true strength a sufficient amount of times through the Dark Sigil, followed Yuria's instructions and \"married\" Anri, the Ashen One may, instead of linking the fire, absorb it into themselves. The Ashen One collapses from the strain and awakens before a Darksign Sun turned white, and also finds Yuria, Anri, and an army of hollows greeting them as their Lord and praying for the Ashen One to make Londor whole.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6280429241635224,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8632d382-4dfa-5464-b814-6a98dd7b56c2",
+    "title": "Fire Keeper (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "If given the eyes of the first Fire Keeper, she sees a world without fire, and is frightened by the mere thought of it. Even so, she is willing to end the cycle permanently if the Ashen One requests it. If the Ashen One chooses to realize her dream, she will be summoned to the Kiln of the First Flame. At that time, she will hold the First Flame in her hands and let it die out, thus unlocking the End of Fire ending. If the Ashen One chooses to succumb to their desire, and kill her during the ritual; the power of the First Flame would fall to their hands.\n\nThe Fire Keeper can also be talked to, and her dialogue changes throughout the course of the game.\n\nShe will psychically respond to most gestures performed by the player.\n\nIf killed, she will always respawn at Firelink Shrine, stating that as a Fire Keeper, she cannot die.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6197166211156949,
+    "bm25_score": null
+  },
+  {
+    "document_id": "885d99b1-07c9-5c79-bad9-fc1548c5e853",
+    "title": "Old Woman of Londor",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Old Woman of Londor -  Dark Souls III - character - notes \n notes : If the player kills the Old Woman in the Church of Yorshka, Anri's questline will continue but Yuria's questline will end, making the Usurpation of Fire ending unachievable. Leaving her alone causes Anri to be assassinated, ending Anri's questline, but continuing Yuria's.\nIf the player attacks the Old Woman while she is disguised, but does not kill her, she offers additional dialogue (shown below).",
+    "sources": [
+      "human",
+      "gold",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.372574750037316
+  },
+  {
+    "document_id": "8b3f04b5-1c35-533e-832c-5ba688839a93",
+    "title": "Gwyn, Lord of Cinder",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Now bereft of most of his Lord Soul's power and with only the power of his soul, Gwyn left for the Kiln of the First Flame, the structure built to house and protect it, with only his robes, his mighty greatsword and his powerless crown, accompanied only by a guard of Black Knights. Eventually Gwyn linked the First Flame, prolonging its life but himself being consumed by it, reduced to the empty husk of cinders guarding the core of the Kiln. The inferno of the newly kindled fire melted the surroundings and burned his knights to ashes, leaving them to wander the world as disembodied spirits.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5853499570431681,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8c3a55a8-2e40-50d8-9b84-3d6eeb58e1fc",
+    "title": "Lords of Cinder",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The original Lord of Cinder was Gwyn, although more would link the flame and extend the Age of Fire in subsequent eras. Becoming a Lord of Cinder entails a sacrifice, as the Lord is consumed by the First Flame in the process. After Gwyn linked the flame, only his mere husk defended it; with each subsequent linking of the Flame, remnants of each new Lord of Cinder would merge with the previous ones' and strengthen the First Flame's guardian, eventually taking the form of the Soul of Cinder.\n\nThroughout history, countless aspiring Lords were lost attempting to reach the Flame; among those who succeeded, some ultimately lacked the strength to withstand its power, and were burned to ash by the Flame instead of linking it. These individuals came to be known as Unkindled: ill-fated champions who were buried in the Cemetery of Ash, a graveyard which scarcely saw any visitors.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5889719134014176,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8d8ab5b9-8b9a-56f4-a74f-2375f359ce9e",
+    "title": "Dark Lord",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Dark Lord -  Dark Souls III - character - lore \n lore : **This section of the lore lacks sources and is in need of further expansions and explanations**\n\nThe Dark Lords are beings who were meant to become Lords of Cinder, but refused to link the First Flame and extend the Age of Fire, with the specific intent of bringing forth the Age of Dark (also referred to as an \"Age of Man\"). Dark Lords, while powerful enough to overcome the trials involved in linking the Flame, apparently don't have to inherit a primordial force (such as the First Flame) in order to be deemed worthy of their title. For instance, if the Chosen Undead chooses to become a Dark Lord, abandoning the power of the First Flame, several primordial serpents will nevertheless bow before their new Lord (including both Kaathe and Frampt), even as the Chosen Undead lacks the extraordinary power granted by the Flame.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.86476606412988
+  },
+  {
+    "document_id": "932ce061-946a-543b-8438-c68b6ea12fc3",
+    "title": "Age of Fire",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "As the games progresses, the sun itself starts to change, until it eerily resembles the Darksign itself.\n\nAt the end of the game, after defeating the Soul of Cinder, the Ashen One, in case they chose to link the First Flame, is covered from head to toe in a soft-looking fire, unlike the flaming inferno of the first game. The implications are clear: The First Flame itself now is so weak that it cannot be kindled anymore.\n\nThe First Flame, as the Age of Fire, is beyond saving.\n\nIn *The Ringed City*, it is implied that the unnatural prolonging of the Age of Fire has caused irrepairable damage to the world, as is shown after Filianore's awakening: the fertile lands seen when the Ashen One arrived in the city are replaced by a seemingly unending, as-far-the-eye-can-see's barren wasteland of unknown nature.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6460633309391014,
+    "bm25_score": null
+  },
+  {
+    "document_id": "977c65ab-f4e6-52a9-a076-2f838ba89683",
+    "title": "Lords of Cinder",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "By the events of *Dark Souls III*, the First Flame is so weakened that Lords of Cinder past are resurrected so that the embers of the First Flame inside them serve as fuel for new Linkings. Prince Lothric, who was raised to become the next Lord of Cinder, refused to Link the First Flame, while three of the resurrected Lords of Cinder refused to be used as fuel, leading to resurrection of several Unkindled in the hopes that one of them might slay the fleeting Lords of Cinder and Lothric, and Link the First Flame.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6569838529220622,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9b5f1b92-d681-5997-ac4d-8fbd810bde98",
+    "title": "Courland",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "observing the future without the light of the First Flame. The original eyes were hidden in a version of the Firelink Shrine on the verge of sinking into darkness and where the First Flame was an instant away from being extinguished.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6193852149413768,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a6267571-623e-5bac-b9e7-ff0d7495679e",
+    "title": "Timeline",
+    "section": "the_rise_of_the_dark_lord",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "The First Flame starts to fade again\nPrince Lothric, the designated Lord of Cinder, refuses to link the Flame\nDue to the fading of the Flame, time and space begin to stagnate, causing geological disasters and leading the various regions of the world to converge towards Lothric\nThe previous Lords of Cinder are exhumed from their graves to use the embers of the Flame still within them as fuel for it\nMost of the previous Lords of Cinder refuse to contribute to the linking of the Flame and instead prefer to return to their ancient homes\nThe Unkindled, beings who failed to link the Flame and were reduced to ash without heat, are exhumed from their graves\nThe Ashen One, one of the many Unkindled, awakens in the Cemetery of Ash, where his peers were buried\nThe Ashen One, fights their way through the cemetery but finds their way blocked by Iudex Gundyr, an ancient golem tasked with judging the pretender Lords of Cinder",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.596535144197347,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a76013bb-56c9-58ce-a688-add52f929fb8",
+    "title": "Yuria of Londor",
+    "section": "base_game",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Conversely, if the player has not turned Yuria hostile, the Londor Pale Shade will become available for summoning in the aforementioned areas.\n\nYuria will disappear if Anri dies at any point before Pontiff Sulyvahn.\n\nCompleting Yuria's questline by Linking the First Flame while possessing 8 Dark Sigils unlocks the Usurpation of Fire ending.",
+    "sources": [
+      "human",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6311018706768269,
+    "bm25_score": null
+  },
+  {
+    "document_id": "abd923b7-b8fb-50ff-9925-6fb393db04de",
+    "title": "Primordial Serpents",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "During the events of *Dark Souls III*, when the First Flame was almost fading out, their fate or the number of their survivors is unknown.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5952759384902967,
+    "bm25_score": null
+  },
+  {
+    "document_id": "adec5aa3-bd18-54d5-9025-7ba6cb89a47e",
+    "title": "Oceiros, the Consumed King",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "When the royal family realized that Lothric would not improve from his condition, they resorted to repulsive acts in an attempt to obtain a worthy Champion for the linking, even if it meant to create something inhuman: the rulers bound the souls of the two princes together with a curse. Although the exact motive behind this act is unknown, it is likely that the rulers intended for Prince Lothric to draw out some of the strength of his elder brother's soul, potentially making them worthy Champions for the First Flame together. The resulting Soul of the Twin Princes was suitable kindling for the First Flame, even as the princes were physically incapable of overcoming the obstacles involved in linking the Flame. Unable and unwilling to fulfill their destiny, the princes retreated to their chamber to await the end of the world.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 33.175744345894365
+  },
+  {
+    "document_id": "ae1cb7e6-c719-58bd-9e48-ec7eda72221b",
+    "title": "Bracelet of the Great Lord",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Bracelet of the Great Lord -  Dark Souls - armor - description \n description : Bracelet of Gwyn, Lord of Cinder, who linked the First Flame.\n\nLord Gwyn, bearer of the ultimate soul, divided that power among his clan before linking the flame. When he departed, he left only with his greatsword, his garb, and the crown, now bereft of power.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.02951779520069
+  },
+  {
+    "document_id": "b0d77c69-35e4-5260-b996-037e91472026",
+    "title": "Sister Friede",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "** The weapon skill of the Onyx Blade, \"Elfriede's Blackflame\", states that the blackflame was \"born of the similarly-hued flame that smolders within her\". Following from the speculation that Unkindled Ones lack the original Flame, this similarly-hued flame possibly hails from a different source, possibly the First Flame itself within the Kiln, the very fire which ended up burning Elfriede.\n** Given the Sable Church's affinity with dark miracles, it seems likely that the First Flame would attempt to manifest within its would-be usurper as a derivation from these arts that are powered by the Darkness of humanity.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5953957635712921,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b53137d8-19ab-5676-bbe2-7c27314e17e6",
+    "title": "Timeline",
+    "section": "londor_the_realm_of_londor",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "Timeline -  Dark Souls III - storyline - londor_the_realm_of_londor \n londor_the_realm_of_londor : Even though Darkstalker Kaathe failed to prevent the linking of the fire and bring about the Dark Age the first time, he continues to try\nKaathe welcomes three skilled sisters into his service and they become his maidens: Elfriede, Yuria and Liliane\nTheir goal becomes to bring to an end the Age of Fire founded by the gods to finally bring about the advent of the Dark Age and reveal the true nature of Humanity\nTo this end they need to find and empower a Dark Lord who can usurp the First Flame for themselves and use it to shape the new age of man\nKaathe teaches the three sisters the art of the Dark Hand, capable of absorbing the souls of their opponents\nThe three sisters found the Sable Church with just their skills\nElfriede, as the eldest sister, becomes the leader of the Sable Church\nThe Sable Church aims to offer salvation to the Hollows",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.803152931763506
+  },
+  {
+    "document_id": "b6bacd96-96e9-53fa-8b0c-ac9a5aa7ff10",
+    "title": "Ending (Dark Souls III)",
+    "section": "ending",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ending (Dark Souls III) -  Dark Souls III - mechanic - ending \n ending : Fulfilling the purpose for which they were brought back to life, the Ashen One links the First Flame and becomes a Lord of Cinder. The Flame connects with their body, slowly setting them ablaze as they sit beside the bonfire.\n\nAlthough in theory, this leads to a continuation of the once-glorious Age of Fire, this linking of the Flame is but a shadow of the linking as can be performed by the Chosen Undead in *Dark Souls*, echoing the significant weakening of the First Flame, which instead of engulfing the Kiln into an explosive blaze of fire remains weak, barely kindled anew. The world remains dim and covered in ash, with the sun still obscured by a fire-dripping eclipse that resembles the Darksign, further exemplifying that this prolonged Age of Fire will pale when compared to days of old.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6022207354865206,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ba4b3711-e623-5c67-82f3-b3f6145e5556",
+    "title": "Lothric",
+    "section": "firelinking_duty",
+    "game": "Dark Souls III",
+    "entity_type": "location",
+    "snippet": "In the beginning, the first Fire Keeper had a vision of the end of the Age of Fire and the beginning of an Age of Dark, a barren plane of endless darkness. Acting to ward off an Age of Dark, Ludleth, a student of the art of transposition of Courland, rose to the challenge of becoming a Lord of Cinder, to link the First Flame again and repel the dark vision of the Fire Keeper. Despite his feeble appearance, Ludleth managed to muster the strength necessary to become a Lord, something for which he himself expresses remorse, asking to be forgiven. Ludleth was exiled from his country and collaborated with Lothric to ensure that the Fire Keeper was deprived of her eyes, as well as all future maidens, to prevent them from observing a future without the Flame. The original eyes were sealed away in an enigmatic instance of Firelink Shrine, where the First Flame had all but gone out.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5911469803482992,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bc2cf7b5-4c1d-513b-8bcf-c22d6653c80a",
+    "title": "Pyromancy Flame",
+    "section": "ascended_pyromancy_flame",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Pyromancy Flame -  Dark Souls - spell - ascended_pyromancy_flame \n ascended_pyromancy_flame : Once the Pyromancy Flame is +15, players can ascend and upgrade it further with Quelana of Izalith.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6218561763679797,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c3e4f83a-5fb3-564b-8e4e-c6f91cbb9224",
+    "title": "First Flame",
+    "section": "age_of_fire",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "First Flame -  Dark Souls - storyline - age_of_fire \n age_of_fire : With the dragons defeated, the Lords took over the world, ruling as Gods from their seat of power in the land of Lordran. It was a prosperous era, and many nations were born. In time, however, the First Flame began to fade, and with it the power of the Gods, leading to an era of decay and the emergence of the Undead Curse. If the Flame were to gutter out completely, it would end the Age of Fire and bring about the Age of Dark.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6165838156690677,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c4123c3b-18b0-5c4c-95e8-4bd039fc0dbd",
+    "title": "Gwynevere, Princess of Sunlight",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "She eventually became wife to King Oceiros, the last monarch of Lothric, and supported the kingdom's desire to produce an heir worthy of linking the First Flame, giving birth first to Elder Prince Lorian, raised to become a knight, and Younger Prince Lothric, expected to become a \"champion\" and sacrifice himself to the Flame. However, when Prince Lothric and his brother refused to link the fading Flame and they chose to wait out the end of the Age of Fire, King Oceiros went mad in his attempt to produce an heir worthy of their sacrificial destiny. The king discovered the heretical faith of the paledrake Seath among the scholars of the Grand Archives and became convinced that a crossbreed heir would have the strength to link the Flame. Oceiros eventually became a deformed humanoid dragon and with him the queen had her youngest child, Ocelotte. After producing the potential champion, Gwynevere quietly disappeared from the kingdom of Lothric. Realizing that the Flame would soon go out",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.44447069948323
+  },
+  {
+    "document_id": "c9229a1f-3e83-5766-abea-9d7c8aded7bd",
+    "title": "Lords of Cinder",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Although the system that managed the linking of the First Flame had rung the bells to resurrect the past Lords of Cinder when needed, not all of them have awakened from their resting places. Consequently, once the Flame eventually goes out, at some point these Lords of Cinder from the past will rise again and wander the lands like tiny flames. These beings will possess fragments of the First Flame stored within their bodies in the form of cinders, giving them the powers of the Flame in a world that will be enveloped in Darkness.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6031218498542935,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cbad2912-330a-5872-a290-0d3c9928d08f",
+    "title": "Age of Dark",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "However, it becomes apparent that at this stage in the Age of Fire, which has been unnaturally prolonged far beyond its intended length, there is little that can be done to keep the First Flame lit. Even if the Ashen One chooses to link the Flame, the fire that results from this rebirth is small and feeble in comparison to the raging inferno that resulted from the Chosen Undead linking the Flame in *Dark Souls*.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.7015893771143862,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ce8b32be-5c5b-50c6-9362-a117742b2b85",
+    "title": "Ashen One",
+    "section": "epilogue",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "***The End of Fire**: If the Ashen One gave the Eyes of a Fire Keeper to the Fire Keeper, they may summon her upon defeating the Soul of Cinder. The Fire Keeper will take the First Flame into her hands. She states that the fire quickly fades and that dark will soon settle, but predicts that one day, tiny flames will dance across the darkness, like embers linked by lords past, suggesting that the other Lords of Cinder of the past will one day rise and wander through the darkness with their own fragments of the First Flame. As the absolute darkness settles upon the world, the Fire Keeper asks if the Ashen One can still hear her.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.5925669989177844,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cecc1b09-6a41-5078-b8e9-1ba13fcd24d7",
+    "title": "Robe of the Great Lord",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Robe of the Great Lord -  Dark Souls - armor - description \n description : Robe of Gwyn, Lord of Cinder, who linked the First Flame.\n\nLord Gwyn, bearer of the ultimate soul, divided that power among his clan before linking the flame. When he departed, he left only with his greatsword, his garb, and the crown, now bereft of power.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.02951779520069
+  },
+  {
+    "document_id": "cf8291c1-f750-5350-ae83-0be13e013c62",
+    "title": "Ludleth of Courland",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "When the link of fire was threatened, the Lords of Cinder would be exhumed from their graves to once again serve as kindling for the First Flame. Ludleth was among those resurrected; though unlike the other three Lords, he accepted the call, and took up his throne at Firelink Shrine to await his fate.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.621449504552709,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d186ca9c-1a6a-5f55-972e-b8593e7c795f",
+    "title": "The Nameless King",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "After his father Gwyn left to link the First Flame, the throne of Anor Londo would pass to the eldest son of the King; and so the Nameless King inherited the Sunlight of his father. He would thus wear the golden crown, and succeed his father's titles of \"king of the gods\" and \"god of the sun\". The Nameless King was said to be inferior to none in terms of military strength. Gwyn's firstborn preserved his father's design and instructions, shepherding humans on the path to the Linking of the First Flame to continue the Age of Fire. In fact, underneath Anor Londo, a city was built exclusively for the undead, with an altar inside for the firstborn of Gwyn, and the aim of guiding a chosen undead who would one day sacrifice themselves to the Flame. Inside the city was the Undead Parish, a church at the center of the cult of the burg and connected to the first test to start on the path of Firelinking and ring the first Bell of Awakening. Furthermore, the town was connected to the Firelink",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.704129204412823
+  },
+  {
+    "document_id": "dabc89f5-0d1e-58b9-ae25-7dc775111d45",
+    "title": "Soul Stream",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Soul Stream -  Dark Souls III - spell - description \n description : Sorcery imparted by the first of the Scholars, when Lothric and the Grand Archives were but young.\n\nFires a torrential volley of souls.\n\nThe first of the Scholars doubted the linking of the fire, and was alleged to be a private mentor to the Royal Prince.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.457877425652896
+  },
+  {
+    "document_id": "dd0981a9-895b-5720-867f-c978516a9834",
+    "title": "First Flame",
+    "section": "age_of_fire",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Desperate to ensure that their Age of Fire continued, and afraid of the coming Dark, the Lords did everything they could to keep the First Flame lit. Gwyn's clan linked the sacred bonfires that were tied to the Flame to humanity, and shepherded the humans who worshipped them to kindle the flames. The Witch of Izalith attempted to use her own powerful soul to create a new First Flame, but this attempt failed, instead creating the perverse Flame of Chaos and transforming the Witch into the Bed of Chaos, which would go on to birth the race of Demons.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6382432742837384,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e5a9750e-7b81-5d3c-86cd-b902b247536e",
+    "title": "Age of Fire",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "storyline",
+    "snippet": "Such a routine of kindling the First Flame repeats itself for generations to come, until the time of Prince Lothric, when the prolonging of the fire proves futile.\n\nCalling it \"futile\" is a euphemism: the unnatural prolonging of the First Flame's lifespan came with disastrous, if not, downright catastrophical proportions: when the Lords of Cinder started to resurrect, somehow, portions of their countries and homelands were, literally, \"teleported\" to Lothric, changing the landscape in unpredictable ways.\n\nBy the time *Dark Souls 3* takes place, the damage caused to the world by the unnatural prolonging of the Age of Fire seems to be irreversible.\n\nAs the games progresses, the sun itself starts to change, until it eerily resembles the Darksign itself.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6392319446753906,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e6389350-4215-5c3c-b7a2-06671b999789",
+    "title": "Firelink Armor",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Firelink Armor -  Dark Souls III - armor - description \n description : Armor of the Soul of Cinder, a deific manifestation of the Lords of Cinder, who linked the First Flame.\n\nIt resembles a knight's armor, but bears hideous burns and contortions, taking the shape of a deathly ribcage.\n\nIt exists as a symbol of the great Lords and the noble act of linking the fire, though it is no more than an empty husk.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.499124927213856
+  },
+  {
+    "document_id": "e7ee451c-f3b3-51c5-9449-355396ef817d",
+    "title": "Gwyn, Lord of Cinder",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Although the Age of Fire and the rule of the gods lasted for centuries, at some point the First Flame began to fade. Gwyn understood that if the Flame went out, the Age of Fire would be succeeded by an Age of Dark, a new order of humans led by a Dark Lord. Fearful of this outcome, the god made a drastic decision: In order to maintain the order of Gods, he would sacrifice himself to link the dying Flame and prolong its life. He trusted none but himself to carry out the sacrifice involved; he thus divided the power of his Lord Soul among the members of his clan and handed down the power of the sun to his children, leaving his firstborn son to inherit his titles. Gwyn also tasked his sons and Frampt with shepherding the humans into following his example, linking the Flame generation after generation, to uphold his Age of Fire, each of them becoming Lords through the process.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6471170826698027,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e821c0e8-f090-500f-aec3-350d6da16e3e",
+    "title": "Ending (Dark Souls III)",
+    "section": "ending_2",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ending (Dark Souls III) -  Dark Souls III - mechanic - ending_2 \n ending_2 : The Ashen One strikes the Fire Keeper down before the First Flame is completely extinguished, then tramples her limp body and takes the First Flame from her hands. Kneeling, the Ashen One raises the Flame towards the sun obscured by a fire-dripping eclipse that resembles the Darksign.\n\nAlthough the meaning of this ending is ambiguous, it likely symbolizes that the Ashen One acquires the power of the First Flame's power for themselves rather than in accordance with any of the great powers at play. The Usurpation of Fire ending also sees the Ashen One acquiring the First Flame rather than link it or let it die, although the absence of the followers of Londor in this ending hints that the Ashen One's plans are their own.",
+    "sources": [
+      "human",
+      "template",
+      "gold",
+      "dense"
+    ],
+    "dense_score": 0.6372602943225433,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e97ce293-d614-5ef9-8ec3-70430fd578a3",
+    "title": "Timeline",
+    "section": "the_age_of_disparity",
+    "game": "Dark Souls III",
+    "entity_type": "storyline",
+    "snippet": "The First Flame appears and with it 'Disparity', creating light and darkness, life and death, heat and cold, and souls.\nDue to the appearance of the Flame time starts flowing.\nDue to the appearance of souls, life begins to spread and evolve.\nDue to the appearance of souls, some dragons are born imperfect becoming the Primordial Serpents.\nA race of quadrupedal beasts with tails appears underground.\nA race of giant humanoids with small tails appears underground\nA race of giant humanoids without tails appears underground and begins to multiply and evolve into different clans and forms.\nSome of these beings discover the Flame and Lord Souls therein.\nNito, the first being to die, takes a Lord Soul and masters deadly toxins.\nIzalith takes a Lord Soul and masters fire sorcery.\nGwyn takes the more powerful Lord Soul and becomes the Lord of Sunlight.\nThanks to the power of their immense souls, the Lords expand their power and develops their civilizations underground.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5891288085296127,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f25db069-9580-52cd-8ac8-bba625e60d58",
+    "title": "Bonfire (Dark Souls III)",
+    "section": "kiln_of_the_first_flame_dark_souls_iii_kiln_of_the_first_flame",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Bonfire (Dark Souls III) -  Dark Souls III - mechanic - kiln_of_the_first_flame_dark_souls_iii_kiln_of_the_first_flame \n kiln_of_the_first_flame_dark_souls_iii_kiln_of_the_first_flame : ***Flameless Shrine**\n:Once the player places all four Cinders of a Lord on their respective owners' thrones in the Firelink Shrine and the Fire Keeper performs the ritual, they will be automatically transported to a desolated version of the shrine known as the \"Flameless Shrine\", where the bonfire is found.\n\n***Kiln of the First Flame**\n:The player is automatically transported to this bonfire once they interact with yet another bonfire found outside the desolated shrine mentioned above. It leads directly to the final battle against the Soul of Cinder.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5981188733432665,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fa4bc56c-e0e5-56cb-b635-05dbfd4ae5ad",
+    "title": "Lords of Cinder",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "By the events of *Dark Souls III*, Prince Lothric, who was raised to become a Lord of Cinder, refused to link the First Flame. This led to Lords of Cinder from the past being exhumed from their graves: these Lords were meant to sacrifice themselves to the Flame once again, using what little embers remained within themselves as kindling. However, most of these Lords refused the call, and instead settled back into their domains. To prevent the First Flame from dying out, the Unkindled would then be resurrected as a last resort; these Champions were bound to seek the absconded Lords of Cinder, and forcefully bring them back—in the form of their cinders—to their empty thrones at Firelink Shrine. Once all five Lords \"sat\" their thrones, an Unkindled Champion would be bestowed the embers of these Lords, and sent to the Kiln of the First Flame to overcome the final challenge and link the Flame.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.6155757353445332,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fccd0d7b-8c36-5795-8465-3dcb4f3d1413",
+    "title": "Firelink Gauntlets",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Firelink Gauntlets -  Dark Souls III - armor - description \n description : Gauntlets of the Soul of Cinder, a deific manifestation of the Lords of Cinder, who linked the First Flame.\n\nThey resemble a knight's gauntlets, but bear hideous burns and contortions.\n\nThey exist as a symbol of the great Lords and the noble act of linking the fire, though they are no more than empty husks.",
+    "sources": [
+      "human",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.958286636788515
+  },
+  {
+    "document_id": "feafcf56-7a9a-5bab-9280-8dc3245f887e",
+    "title": "Flame Stoneplate Ring",
+    "section": "effect",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Flame Stoneplate Ring -  Dark Souls - ring - effect \n effect : Increases Fire defense by 50.",
+    "sources": [
+      "human",
+      "dense"
+    ],
+    "dense_score": 0.5868479169515298,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0126da40-493b-5451-9c84-21280603a225",
+    "title": "Ashen One",
+    "section": "undead_settlement",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The Ashen One may also rescue Cornyx of the Great Swamp, a master of pyromancy who will offer his teachings to the Ashen One. Upon finding the church in the center of the settlement, the Ashen One encounters Eygon of Carim, a disdainful knight of Carim. If the Ashen One purchases a key from the handmaiden, they may free Eygon's ward, a blind nun by the name of Irina, who will offer to tell the Ashen One stories of miracles. After freeing her, Eygon will offer an alliance to the Ashen One, for as long as Irina's safety is guaranteed.\n\nInside the church, the Ashen One encounters Siegward of Catarina, a Catarina knight who is perplexed by a lift that will only take him down, rather than up where he wishes to speak to the Giant. If the Ashen One solves the riddle of the lift, they may make peace with the Giant, who will offer his help.\n\nOnce through the settlement, the Ashen One makes it to the Road of Sacrifices, where offerings were once transported to Aldrich, Saint of the Deep.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "032d08da-7e92-57e4-9ec6-0870c4ad6926",
+    "title": "Ashen One",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - lead \n lead : The **Ashen One,** also referred to as the **Champion of Ash** or **the Unkindled One,** is the playable character and the protagonist of *Dark Souls III*.\n\nThe title of Ashen One is given to the player by the Fire Keeper of Firelink Shrine. The Ashen One is an Unkindled, an Undead who failed to link the First Flame and became ash, who has been raised from their grave, and is tasked with a journey to defeat four Lords of Cinder and return them to their thrones, since the link of the Flame is threatened and the Lords refuse to serve as its fuel once again.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "03a5142d-88b8-58b9-bdb4-8745d928cd68",
+    "title": "Ashen One",
+    "section": "irithyll_and_anor_londo_dark_souls_iii_anor_londo",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - irithyll_and_anor_londo_dark_souls_iii_anor_londo \n irithyll_and_anor_londo_dark_souls_iii_anor_londo : On the surface, the Ashen One fights their way to the grand church in Irithyll where they find Pontiff Sulyvahn. Killing Sulyvahn opens the way to Anor Londo, fabled city of the gods, where Aldrich awaits. Aldrich, having lost interest in the flame and having instead turned towards the Dark, sought out Anor Londo to devour the gods themselves. He found and devoured Dark Sun Gwyndolin in Anor Londo, who had been \"stricken by illness\" and had retreated to the Anor Londo Cathedral, only to be imprisoned by the Pontiff to be fed to Aldrich. Fighting their way past the archers protecting the city, the Ashen One finds Aldrich using Gwyndolin as a puppet of sorts, and kills him, acquiring his ashes to be delivered to his throne.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "03bef784-bfda-5690-8f5f-170905ad4f7a",
+    "title": "Ashen One",
+    "section": "farron_keep",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - farron_keep \n farron_keep : Returning to the Crucifixion Woods and progressing towards Farron Keep, the Ashen One finds a massive swamp, the corrupted remnants of the once-vibrant Royal Wood. In order to make their way to the Abyss Watchers, the Ashen One must extinguish three flames, per the ceremony of admission into the Undead Legion. After doing so, the path to the Keep opens, allowing the Ashen One to face the Abyss Watchers.\n\nThe Abyss Watchers, reduced to fighting amongst themselves, are defeated by the Ashen One, who claims their ashes in order to restore them to their throne in Firelink Shrine. Killing the Watchers opens the way to the Catacombs of Carthus, an underground tomb filled with skeletal warriors.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "07625880-3446-5bb1-8183-abc2e9337d12",
+    "title": "Ashen One",
+    "section": "the_ringed_city",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Within the city, the Ashen One may encounter Shira, Knight of Filianore, who asks the Ashen One to put down Midir, a mighty dragon who once served the Gods, but who has now been consumed by the Dark. Fighting their way through the city, the Ashen One finds Midir and sends him hurtling down a chasm. Chasing Midir to his lair, the Ashen One may fulfill Shira's request and fight him to the death. In the Church of Filianore, the Ashen One finds Judicator Argo who bars the way to Filianore. He will summon Halflight, Spear of the Church to fight the Ashen One.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "08f39ba6-37fc-594b-a1ea-4e40c6cd2cf4",
+    "title": "Ashen One",
+    "section": "firelink_shrine_dark_souls_iii_firelink_shrine",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "firelink_shrine_dark_souls_iii_firelink_shrine : Inside the shrine, they encounter the Fire Keeper, who tells the Ashen One that the Lords of Cinder—Aldrich, Devourer of Gods, Yhorm the Giant, the Abyss Watchers, and Lothric, Younger Prince—have abandoned their thrones, and charges them with bringing the lords back. The Fire Keeper offers to channel souls in order to increase the Ashen One's strength. Also in the shrine are Blacksmith Andre, a smith from the Age of Gods; the Shrine Handmaid, who offers an expanding store of goods in exchange for souls; Hawkwood the Deserter, a crestfallen warrior; Ludleth of Courland, the last remaining Lord of Cinder who offers the Ashen One advice and the art of soul transposition (provided the Ashen One can provide him with a Transposing Kiln); and Nestling, a bird who offers to trade items. The shrine is populated by more character as the game progresses: Ringfinger Leonhard, a servant of the goddess Rosaria, who urges the Ashen One to invade the",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "11b0dd48-4b91-513e-8bef-060890173ea4",
+    "title": "Ashen One",
+    "section": "epilogue",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - epilogue \n epilogue : ***Link the Fire**: In this ending, the Ashen One attempts to do as all the other lords had done before them and link the fire. The Ashen One stretches out a hand and begins to burn, but unlike in the past, the fire is not rekindled. Instead, the Ashen One merely sits beside the flame, unable to prolong its life, as the sun remains a Darksign.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "12f1e645-2e19-5a80-8fee-bfb189b4de4f",
+    "title": "Ashen One",
+    "section": "origin",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - origin \n origin : The background of the Ashen One can be selected, depending of which \"Face Preset\" they choose:",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1d6fa9ce-78cb-51e9-b8a5-9c28436e2f3e",
+    "title": "Ashen One",
+    "section": "the_painted_world_of_ariandel",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "If the Ashen One chooses to ignore Friede and explores the Painted World, they may fight the Champion's Gravetender and Gravetender Greatwolf, which allows the Ashen One to participate in the Undead Match. Deeper inside the painting, the Ashen One finds the Painter, Slave Knight Gael's aforementioned Lady, who has been imprisoned by Friede and Vilhelm in order to prevent her from painting the next world. If the Ashen One opens the way to the inner sanctum hiding Father Ariandel, Friede will confront them and fight to preserve the painting. After a long battle, the Ashen One defeats Friede and Ariandel, prompting the Painted World to begin burning and dooming it to destruction.\n\nThe Painter informs the Ashen One that she has sent Gael to find the Dark Soul, which she will use for her next painting.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3041f86f-f6a6-5b25-b9f6-f5704d6081e9",
+    "title": "Ashen One",
+    "section": "lothric_castle_and_the_consumed_king_s_garden",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "After killing Oceiros, the Ashen One acquires the means to access two more optional areas. One is a gesture that will allow passage to Archdragon Peak, and the other is a secret path to the Untended Graves, a dark version of Firelink Shrine. Here the Ashen One finds Champion Gundyr, and behind him an abandoned Firelink Shrine home only to a Shrine Handmaiden. Here the Ashen One can find the Eyes of a Fire Keeper which if presented to the Firekeeper will allow her to see a dark vision of the future that the Ashen One may choose to fulfill.\n\nIn Archdragon Peak, the Ashen One can face the Ancient Wyvern and The Nameless King, once known as Lord Gwyn's Firstborn, the old God of War who aligned himself with the Ancient Dragons.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "31c77ae1-9a4b-5711-a7fa-84ddee11fada",
+    "title": "Ashen One",
+    "section": "the_ringed_city",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "After defeating Halflight, the path to Filianore is open. Filianore lies sleeping while clutching a broken egg-like object. If the Ashen One touches the object, it will shatter into pieces and Filianore will wake, upon which a blinding light emanates from the shards of the object and envelopes the chamber. The Ashen One opens their eyes to find that the Ringed City is now a lifeless desert, and Filianore an emaciated corpse. Leaving her room, the Ashen One comes upon a fleeing Pygmy. Investigating the scene closer, they find Gael consuming the remains of a Pygmy Lord in order to gain their Dark Soul. He proceeds to attack the Ashen One in order to gain their piece of the Dark Soul.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "461018f1-47d2-560e-afe8-37357a8ba2a6",
+    "title": "Ashen One",
+    "section": "cemetery_of_ash",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - cemetery_of_ash \n cemetery_of_ash : At some point in time, the Ashen One attempted to link the fire. They were not powerful enough and were instead burnt to ash by the flames. Some time later, the Ashen One was awakened by the toll of the bells in the Cemetery of Ash, signifying that the link of fire was threatened. The Ashen One emerges from their grave and sets out to leave their tomb. Finding the Coiled Sword lodged inside Iudex Gundyr, the Ashen One pulls it out, awakening Gundyr and beginning a fight. Halfway through, Gundyr is seemingly consumed by the Pus of Man, but the Ashen One defeats him and finds Firelink Shrine.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4b29c405-417c-53c3-ac7f-8fca889453b9",
+    "title": "Ashen One",
+    "section": "firelink_shrine_dark_souls_iii_firelink_shrine",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The Ashen One places the Coiled Sword in the center of the shrine, creating a bonfire, and proceeds to travel to the High Wall of Lothric.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "549eb374-0336-53f0-adac-df181eceb74f",
+    "title": "Ashen One",
+    "section": "catacombs_of_carthus",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - catacombs_of_carthus \n catacombs_of_carthus : Progressing through the trap-ridden Catacombs, the Ashen One eventually finds a rickety drawbridge that will lead them to Irithyll of the Boreal Valley. Should the Ashen One choose to descend the fallen drawbridge, they may find the Smouldering Lake, ruled by the Old Demon King and home to various demons and a great slithering worm.\n\nAcross the bridge, the Ashen One finds a strange goblet that pulls them into the Abyss. Here they encounter High Lord Wolnir, who attacks the Ashen One. By destroying his enchanted bracelets, Wolnir loses his grip and falls into the Abyss, allowing the Ashen One to return to the regular world, where the path to Irithyll, a frozen city guarded by an impenetrable barrier and ruled by Pontiff Sulyvahn in the name of Aldrich, is now open.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "57cff77e-fe48-5c99-a51b-895f373fa0ab",
+    "title": "Ashen One",
+    "section": "cathedral_of_the_deep",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Deep within the Cathedral, the Ashen One encounters the Deacons of the Deep guarding Aldrich's tomb. After defeating them, the Ashen One finds that Aldrich has left the cathedral, finding instead a doll that will allow the Ashen One to enter Irithyll of the Boreal Valley.\n\nAfter returning to Firelink Shrine, the Ashen One again encounters Anri and Horace, who tell the Ashen One that Aldrich supposedly hails from Irithyll and that he may have returned home. They will also find Sirris of the Sunless Realms, who shows little interest in the Ashen One, unless they provide the Handmaiden with a certain ash, prompting Sirris to offer the Ashen One her sign.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5b9dea47-7668-5e2e-9b33-c818ef91f166",
+    "title": "Ashen One",
+    "section": "origin",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Commoner: The oh-so plain face of a commoner. Everyone has imperfections, but a commoner without flaws is a rare creature indeed.\nNorthern Warrior: The face of a warrior, as if hewn from rock. It's been long whispered in jest northerners are born weathered and old.\nAstora Noble: The features of a true blue blood. Blue of eye and fair of hair, a little reminder of Astora's former glory.\nDragon Academy Student: Intelligent face with fine lines, often ribbed for looking like a prentice.\nCarim Novice: The face of a cheerless cleric of Carim. \"Novice\" is used as something of a derogatory term for men of the cloth.\nCatarina Merrymaker: The large eyes and mouth give this face a look of jubilation. From Catarina, known for its zest for life and love of drink.\nSerpentine Traveler: An uncommon face defined by its narrow eyes and thin lips. Some praise it as the visage of a true dragon.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6119fd9b-ca8b-5432-a04e-aaa6c81389bb",
+    "title": "Ashen One",
+    "section": "the_ringed_city",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The Ashen One defeats Gael, and gains the Blood of the Dark Soul. They may then return this to the Painter, who states that she will use the Blood of the Dark Soul to paint a new Painted World. She offers to name it after the Ashen One, and if the Ashen One gives no name, she states that she will name it the Painted World of Ash.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "69657be0-b4f7-5c6e-8cf9-dccd99758653",
+    "title": "Ashen One",
+    "section": "farron_keep",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "At this point in the game, Yoel of Londor will die. If the Ashen One has allowed him to draw out their true strength a sufficient number of times, Yoel will be replaced by Yuria of Londor, who attempts to sway the Ashen One into usurping the First Flame and becoming the Lord of Hollows.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6cee28ea-0ae3-5a7f-b0e2-8c9b44130705",
+    "title": "Ashen One",
+    "section": "soul_of_cinder",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - soul_of_cinder \n soul_of_cinder : After returning to the shrine, the Ashen One places the ashes of the Lords on their thrones, and the Firekeeper channels their strength to the Ashen One. The Firekeeper bids the Ashen One travel to the First Flame. Accepting the strength of the Lords, the Ashen One is transported to a copy of the Firelink shrine, standing amid the wreckage of kingdoms. From there, the Ashen One proceeds to the Kiln of the First Flame.\n\nThere they encounter the Soul of Cinder, a manifestation of the Lords that had previously linked the flame. The Soul of Cinder takes on many forms and fighting styles, mimicking those who had linked the flame. Once the Ashen One weakens it, the Soul of Cinder assumes the style of Gwyn, Lord of Cinder, first one to link the flame. After defeating the Soul of Cinder, the Ashen One is presented with four options depending on the choices they made.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "79eedab3-81cf-5881-b92a-553d8a71b731",
+    "title": "Ashen One",
+    "section": "road_of_sacrifices_and_crucifixion_woods",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - road_of_sacrifices_and_crucifixion_woods \n road_of_sacrifices_and_crucifixion_woods : Following the road leads the Ashen One to the Crucifixion Woods, where they encounter Anri of Astora and their companion Horace the Hushed. Anri seeks Aldrich, and thinks to find him in the Cathedral of the Deep. They offer their help to the Ashen One, should the Ashen One need it. Here the Ashen One may also find Orbeck of Vinheim, a sorcerer who will offer to share his knowledge if the Ashen One brings him magic scrolls.\n\nMaking their way through the Crucifixion Woods leads the Ashen One to a crossroads. One path leads to Farron Keep, home of the Abyss Watchers, whereas the other one, guarded by one of the Crystal Sages, leads to the Cathedral of the Deep, home of Aldrich.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "98824d1e-5832-5197-b07a-1c20bbe80bcb",
+    "title": "Ashen One",
+    "section": "the_painted_world_of_ariandel",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - the_painted_world_of_ariandel \n the_painted_world_of_ariandel : Within the Cathedral of the Deep the Ashen One can encounter Slave Knight Gael, a Slave Knight who seeks unkindled ash to aid his Lady. Gael presents the Ashen One with a fragment of the Painted World of Ariandel, which sucks the Ashen One in. Within the painting, the Ashen One encounters Sister Friede and her loyal knight Sir Vilhelm. Friede is an advisor to Ariandel, the painting's creator, and convinced him to allow the painting to rot rather than allow it to be destroyed and replaced by a new one, despite the wishes of many of the painting's denizens. Friede bids the Ashen One to leave, telling them that they do not belong in the Painted World.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9af63879-18f9-53a5-9312-02889d55a16e",
+    "title": "Ashen One",
+    "section": "undead_settlement",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - undead_settlement \n undead_settlement : Arriving in the Undead Settlement, the Ashen One finds Yoel of Londor praying for death at a ledge. Upon encountering the Ashen One, Yoel offers his services, providing rudimentary sorceries and offering to draw out the Ashen One's \"true strength\", not telling them that doing so will burden the Ashen One with the Dark Sigil which will make them hollow upon death.\n\nInside the Settlement, the Ashen One is accosted by the inhabitants of the town and pelted with massive arrows by a Giant atop a tower. After fighting and killing the Curse-rotted Greatwood, the Ashen One will find a Transposing Kiln that will allow Ludleth to provide great spells and weapons from the souls of powerful creatures.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a200d7d9-037e-5c8f-8021-100e799a73dc",
+    "title": "Ashen One",
+    "section": "grand_archives_and_prince_lothric",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - grand_archives_and_prince_lothric \n grand_archives_and_prince_lothric : Progressing through Lothric Castle will bring the Ashen One face to face with a Dragonslayer Armour controlled by a Pilgrim Butterfly. Defeating the armour opens the way to the Grand Archives, home to ancient knowledge.\n\nThe Ashen One fights their way through the Archives, and find themselves close to the location of Prince Lothric, who hides at the very top of the castle. Lothric has no intention of returning as a Lord of Cinder however, preferring to watch the world end from afar with his brother Lorian. The brothers attack the Ashen One, who slays them both, and claims Lothric's ashes.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a99661d4-58cb-5f36-bc0c-f06d5f3687cc",
+    "title": "Ashen One",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - trivia \n trivia : The Ashen One, as depicted in promotional material, is a Knight.\nThe Ashen One is often referred to as the 'Champion of Ash' or the 'Unkindled One' by other characters.\nA knight in the cover is named as 'Red Knight' in the Funko Pop! line.\n**There’s a misconception about the Soul of Cinder armor and the Red Knight armor: They are essentially the same Firelink set, the only difference being that the Red Knight (Ashen One) version has a tabard, while the Soul of Cinder version does not.\n**The Red Knight armor is a variant of the Firelink set, distinguished by its tabard bearing a coat of arms reminiscent of the Lothric Knights.\nIn the Pre-Alpha *Dark Souls III*, the Ashen One is shown to use a cut-content weapon called the Legion Scimitars. Its dual combat art Spin Slash was ultimately given to the Sellsword Twinblades, while its design was relegated to a curved sword named Scimitar.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "aad5173a-06a3-576e-be8d-0409e26ba04e",
+    "title": "Ashen One",
+    "section": "origin",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Serpentine Traveler: An uncommon face defined by its narrow eyes and thin lips. Some praise it as the visage of a true dragon.\nGreat Swamp Outcast: A uniquely deformed face. Or perhaps merely ugly. Prejudice births malcontents, and malcontents swarm to the Great Swamp.\nLondor Shadow of Death: A lifeless face, almost that of a hollow. Londor is a realm of those hollow and old.\nIrithyllian: The features of the old gods, as if from legend. They say children born like this are fated to be taken to the Boreal Valley.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b391da62-d59b-59b8-83bd-1896cf34370c",
+    "title": "Ashen One",
+    "section": "profaned_capital",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - profaned_capital \n profaned_capital : Descending through the dungeon of Irithyll brings the Ashen One to the Profaned Capital, home of the reclusive Yhorm the Giant, one of the missing lords. Fighting their way past the gargoyles and priestesses that guard the way to the giant, the Ashen One finds him atop his throne. The enormously strong and durable Yhorm initially seems insurmountable, but the Ashen One finds the magic blade Storm Ruler, a sword with the ability to fell giants, beside his throne. Using the power of the blade, the Ashen One is able to bring Yhorm to his knees and kill him, collecting his ashes.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bc71f628-0c2e-5ab8-99a0-78ad5942f996",
+    "title": "Ashen One",
+    "section": "firelink_shrine_dark_souls_iii_firelink_shrine",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "a bird who offers to trade items. The shrine is populated by more character as the game progresses: Ringfinger Leonhard, a servant of the goddess Rosaria, who urges the Ashen One to invade the worlds of others to take their embers; Sirris of the Sunless Realms, on a quest to hunt down members of Rosaria's Fingers; and Yuria of Londor, a founder of the Sable Church, who urges the Ashen One to usurp the first flame.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bdd4b552-749b-5ea2-b69f-1acb338842d1",
+    "title": "Ashen One",
+    "section": "the_ringed_city",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - the_ringed_city \n the_ringed_city : If the Ashen One follows Gael, they will find themselves in the Dreg Heap, an amalgamation of collapsed kingdoms and civilizations at the end of time. Within the Dreg Heap they may encounter Lapp, a hollow who seeks the Purging Monument in order to remember his past life. Fighting their way past the Dreg Heap they find two demons, the Demon in Pain & the Demon Below. Following the fall of the last of the two, its corpse is enkindled by the Chaos Flame and reawakened as the Demon Prince. Defeating the Demon Prince allows the Ashen One to travel to the Ringed City, the first city of Man, inhabited by the Pygmies. Gwyn, the first Lord of Cinder, had gifted the city to humanity after the end of the Age of Ancients, along with his daughter Filianore.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c8c3fdc7-89b5-5434-bc17-56911ed193a8",
+    "title": "Ashen One",
+    "section": "irithyll_of_the_boreal_valley",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - irithyll_of_the_boreal_valley \n irithyll_of_the_boreal_valley : The Ashen One is able to penetrate the barrier to Irithyll with the magic doll they found in the Cathedral of the Deep. Progressing through the frozen city, the Ashen One will again come to a crossroads. They may either descend through the dungeons of Irithyll to find the Profaned Capital, or progress further into the city, finding the ancient city of the gods, Anor Londo.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c9dd78a4-14ad-5029-bdc8-7af4f9e05e4a",
+    "title": "Ashen One",
+    "section": "cathedral_of_the_deep",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - cathedral_of_the_deep \n cathedral_of_the_deep : After defeating the Crystal Sage, the Ashen One follows the road to the Cathedral of the Deep. Once there, the Ashen One may encounter a \"knight of Catarina\" who will attempt to lure them onto a narrow path with the promises of treasure. Should the Ashen One fail to see through his ruse, the \"knight\" will lower them below where a giant awaits before revealing himself to be Unbreakable Patches, a thief and con-artist. If confronted later, Patches will attempt to feign innocence, but if the Ashen One presses him on the matter, he will admit his wrongdoings and offer a gift in recompense, as well as selling the Ashen One his goods.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ced26daf-fda3-533f-b858-fb22241ea7ff",
+    "title": "Ashen One",
+    "section": "returning_to_the_high_wall",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - returning_to_the_high_wall \n returning_to_the_high_wall : After slaying the penultimate Lord of Cinder, the Ashen One is transported back to Emma, High Priestess of Lothric Castle in the High Wall of Lothric. A dying Emma begs the Ashen One to find Prince Lothric and tell him that he must be a Lord of Cinder, giving the Ashen One the Basin of Vows that will allow them access into Lothric Castle.\n\nBefore the Ashen One can place the basin, they are ambushed by the Dancer of the Boreal Valley, who attacks them. After killing the Dancer, the Ashen One can place the basin and gain access to the castle.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dccbd8c2-c77e-58ef-a84e-bc4a98181992",
+    "title": "Ashen One",
+    "section": "lothric_castle_and_the_consumed_king_s_garden",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - lothric_castle_and_the_consumed_king_s_garden \n lothric_castle_and_the_consumed_king_s_garden : The Castle, home to various knights and soldiers of Lothric along with fire-breathing wyverns, holds the final Lord of Cinder. By now, the very sun itself resembles a Darksign, and Pilgrim Butterflies are seen flying towards the castle. Fighting their way through the castle, the Ashen One may choose to make a detour to the Consumed King's Garden, home to the king of Lothric, Oceiros. The king, having gone mad long ago and deformed himself into a dragon-like being, ferociously attacks the Ashen One.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e4a56903-fd7c-5044-ba18-a888efe96ce5",
+    "title": "Ashen One",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "**Legion Scimitars / dual curved sword Scimitar had appeared as part of the Red Knight Statue Collectors Edition.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e980d415-f46c-5993-90b8-860cdb81fb93",
+    "title": "Ashen One",
+    "section": "firelink_shrine_dark_souls_iii_firelink_shrine",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - firelink_shrine_dark_souls_iii_firelink_shrine",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f50fe936-9256-54dd-bc78-85fbda9160e2",
+    "title": "Ashen One",
+    "section": "high_wall_of_lothric",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Ashen One -  Dark Souls III - character - high_wall_of_lothric \n high_wall_of_lothric : The Ashen One then progresses through the High Wall of Lothric, now home to mindless hollow soldiers, knights, and a fire-breathing wyvern. Fighting their way to a church, they encounter Emma, the high priestess of Lothric Castle. Emma provides them with a banner that will allow them safe passage to the Undead Settlement, but warns them that their path is guarded by Vordt of the Boreal Valley. Emma also gives the opportunity to join the Way of Blue covenant. Also in the High Wall is Greirat of the Undead Settlement, a thief that will swear himself to the Ashen One if they rescue him from his cell and promises to look for a woman named Loretta in the Undead Settlement.\n\nAfter finding and defeating Vordt, the Ashen One raises the banner on a ledge, and is transported by Batwing Demons to the Undead Settlement, a dilapidated town inhabited by hollows.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "166a9d4c-1aaa-5b36-af33-bae7e64a0f7e",
+    "title": "Bells of Awakening",
+    "section": "quelaag_s_domain_bell",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Bells of Awakening -  Dark Souls - mechanic - quelaag_s_domain_bell \n quelaag_s_domain_bell : The other Bell is significantly harder to reach. The Chosen Undead must first head downward and find their way into Blighttown, a multileveled and dangerous labyrinth. At the very bottom of Blighttown, the player will traverse a poison swamp leading to a half-demon's lair known as Quelaag's Domain. It is here that the player must defeat Chaos Witch Quelaag in order to progress to the Bell of Awakening.\n\nUpon ringing the second Bell, a short cutscene plays showing the gatekeeper Giant hearing the call and pulling the chains to lift up the portcullis, bearing passage to Sen's Fortress. It is at this point that Kingseeker Frampt appears in Firelink Shrine, and instructs the player that his new task is to secure the Lordvessel, proving that the player is in fact, the Chosen Undead.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2bd8c443-de71-5933-87e5-899dc0b8e45f",
+    "title": "Bells of Awakening",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Bells of Awakening -  Dark Souls - mechanic - lead \n lead : The **Bells of Awakening** are a storyline concept, as well as two locations, in *Dark Souls*.\n\nThey are the first destinations hinted at for the Chosen Undead after they have escaped the Undead Asylum into Lordran. The two Bells are part of a prophecy devised by the Gods of Anor Londo to help bring about an Undead to link the First Flame. The two Bells are respectively located past the Bell Gargoyles atop the Undead Parish, and past Queelag past the swamp at the bottom of Blighttown. Both Bells must be rung by activating levers near them to progress, opening the way to Sen's Fortress.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "355e0a5e-d85a-5679-90a2-043d7eb80471",
+    "title": "Bells of Awakening",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Bells of Awakening -  Dark Souls - mechanic - plot \n plot : The Bells of Awakening are hinted at being the first destination of the Chosen Undead and, when rung, the fate of the undead shall be known. Upon arriving in Firelink Shrine, the Crestfallen Warrior informs the player that there are, in fact, two Bells of Awakening. One up above and one far below. This is essentially all the instruction and plot that is revealed upon arrival in Lordran.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bdfec07a-f6af-50cc-bbf4-e1291d6bad5d",
+    "title": "Bells of Awakening",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Ringing the bell in Quelaag's Domain first will have no different effect than if the player rang the [https://darksouls.fandom.com/wiki/File:Parish_bell.jpg Undead Parish Bell] first. Although this will cause Lautrec's questline to progress, leading to the death of Anastacia.\nThe Bells of Awakening were used to awaken Kingseeker Frampt and open the way to Sen's Fortress.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e4b6163d-2cc2-5ee1-a373-ed3c15e06733",
+    "title": "Bells of Awakening",
+    "section": "undead_church_bell",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Bells of Awakening -  Dark Souls - mechanic - undead_church_bell \n undead_church_bell : One of the Bells is located in the Undead Parish, up above from Firelink Shrine. After dispatching the Bell Gargoyles, the Chosen Undead is able to climb to the top of the Church Belltower and ring the Bell of Awakening.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ee995096-d504-5bc8-9046-f8a1d10912a6",
+    "title": "Bells of Awakening",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Bells of Awakening -  Dark Souls - mechanic - notes \n notes : In the Prepare to Die Edition, online players in the vicinity of the [https://darksouls.fandom.com/wiki/File:Parish_bell.jpg Undead Parish Bell] were able to hear the bell being rung from other player worlds. This wasn’t the case for the [https://darksouls.fandom.com/wiki/File:Quelaag_bell.jpg Bell in Quelaag’s Domain].\nIn the remastered version of the game, online players are now able to hear either the [https://darksouls.fandom.com/wiki/File:Parish_bell.jpg Undead Parish Bell] or the [https://darksouls.fandom.com/wiki/File:Quelaag_bell.jpg Quelaag’s domain Bell] being rung from other player worlds while exploring one area or the other . (as the [https://darksouls.fandom.com/wiki/File:Quelaag_bell.jpg Quelaag’s Bell] toll was specifically added in the remaster)",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "23e7bdde-68f0-51db-a4fb-9c0895108e81",
+    "title": "Dark Sigil",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Dark Sigil -  Dark Souls III - item - usage \n usage : Increases the player's Hollowing level by the number of accumulated Sigils upon death.\nGrants bonus Luck when wielding Hollow-infused weapons if Hollowing is 15 or greater, based on the upgrade level of the weapon.\nOnce eight Dark Sigils are acquired, the Lord of Hollows ending may be unlocked.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "43d73ce2-1808-5779-9595-9ff77bfdf02c",
+    "title": "Dark Sigil",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Dark Sigil -  Dark Souls III - item - lead \n lead : The **Dark Sigil** (暗い穴, lit. Dark Hole) is an item in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7e2d9bdd-0258-532f-900c-1056d168597a",
+    "title": "Dark Sigil",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Dark Sigil -  Dark Souls III - item - description \n description : A black, gaping hole in the flesh that resembles the brand of an Undead.\n\nThe darkness of humanity seeps from this bottomless pitch-black hole, the gap filled by the accumulation of the curse.\n\nThis Dark Sigil will never heal, but there is a tale told of a Fire Keeper who returned from the Abyss, and brought great comfort to a bearer of the curse.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7f84b9fb-d338-5a88-9927-79f7dfb99c70",
+    "title": "Dark Sigil",
+    "section": "removal",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Dark Sigil -  Dark Souls III - item - removal \n removal : The Dark Sigil can only be healed by giving a Fire Keeper Soul to the Fire Keeper. The cost of healing is equal to the cost of leveling up a number of times equal to however many Dark Sigils have been accumulated. Once healed, all Sigils will be removed from the player's inventory and Hollowing will be reversed.\n\nYoel of Londor will no longer speak to the player if healed prior to his death. Should they be healed after, Yuria will leave Firelink Shrine upon being spoken to.\n\nAs the Dark Sigil is a key item, proceeding to the next New Game cycle will remove them from the player's inventory, but Hollowing will remain unaffected.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "92dd2fa6-ffaf-5dd3-b0d3-021d9de145dd",
+    "title": "Dark Sigil",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Dark Sigil -  Dark Souls III - item - availability \n availability : Five are given to the player after letting Yoel of Londor draw out their true strength, granting a free level each time. Yoel grants a session at 0, 2, 6, 12 and 15 Hollowing.\nThree are granted during Yuria of Londor's questline, once the player completes the Rite of Avowal with Anri of Astora at Anor Londo.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0734792e-aff7-599c-934b-82a6257b5995",
+    "title": "Ending (Dark Souls III)",
+    "section": "availability_4",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "** If the player finds but does not kill Horace, then proceeds to tell Anri where he is, Anri will seek him out but be killed by the hollowed Horace, prematurely and voiding this ending.\nAt this point, it is best to ensure that the player has talked to Yuria of Londor at least once and exhausted her dialogue, where she will inform the player of an upcoming wedding ceremony between the Ashen One and Anri.\nTalk to Anri in the Church of Yorshka bonfire in Irithyll of the Boreal Valley. Be sure to exhaust their dialogue, receiving the \"Quiet resolve\" gesture.\n** the Old Woman of Londor, disguised as a statue in a corner of the room. It is better to avoid interacting with her entirely.\nDefeat Pontiff Sulyvahn and return to Firelink Shrine. Exhaust Yuria's dialogue to confirm that Anri awaits the player within Darkmoon Tomb.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2b7bec85-651d-53a4-b2e7-51a44bf9273a",
+    "title": "Ending (Dark Souls III)",
+    "section": "ending_3",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Greeting their new Lord are Yuria and her sister Liliane of the Sable Church of Londor, who kneel in veneration. Behind them are dozens of Hollows are prostrated in prayer, adoring their long-awaited Lord of Hollows. The Lord then sets out into the world, with the powers of both Fire and Dark under their control; although both were previously shown to have died, the Ashen One's spouse Anri is present, and the Old Woman of Londor's voice can be heard, inviting the Ashen One to \"Make Londor whole\".",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "413a123c-5f56-5586-a854-ab343a7b6243",
+    "title": "Ending (Dark Souls III)",
+    "section": "availability_4",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "To satisfy all conditions, the player:",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "431ea630-c1f4-57b5-8a79-c11154e875c3",
+    "title": "Ending (Dark Souls III)",
+    "section": "availability_4",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The following steps are required:\nMeet and recruit Yoel of Londor at the Undead Settlement; after he relocates to Firelink Shrine, allow him to \"Draw out True Strength\" five times to receive one Dark Sigil every time. This must only be done before the player enters the Catacombs of Carthus after defeating the Abyss Watchers.\n** Every time the player dies, hollowing points equal to the amount of sigils gained are accrued.\n** One sigil is available the moment Yoel arrives at the Shrine. The remaining 4 sigils are given at or above 2, 6, 12, and 18 hollowing respectively. Dying twice after each sigil gained will accrue enough hollowing to gain the next. As long as the player does not enter the Catacombs, there are no time constraints regarding when to recruit Yoel or acquire the Sigils.\nMeet Anri and Horace at the Road of Sacrifices and exhaust dialogue between both characters.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "59f431a7-8f36-516e-a64b-398963598ed4",
+    "title": "Ending (Dark Souls III)",
+    "section": "availability_4",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Also of note regarding this questline:\n** Giving the Eyes of a Fire Keeper to the Fire Keeper does not void the questline; if they did so, the player must however avoid summoning her using the sign next to the First Flame bonfire, as doing so will lead to another ending.\n** Although it is not recommended as there are no benefits, it is actually fine to kill Yoel after obtaining five Sigils from him; he welcomes this death, and Yuria's dialogue is unaffected.\n** Although Yuria requests of the Ashen One to kill Orbeck of Vinheim if he has arrived in the Shrine, this is unrelated to the questline and not necessary to this ending.\n** Unlike the other two Pilgrims, the Stone-humped Hag atop The Dreg Heap is unrelated to the questline and can be killed freely without consequences.\n** If the questline is being followed, the Londor Pale Shades will be available as summonable phantoms throughout the game; if the quest has been voided, they will invade as Dark Spirits instead.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5a3ee34a-4246-55c6-bd7a-ffe5b8295051",
+    "title": "Ending (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ending (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : __NOTOC__\n\nThere are four **endings to *Dark Souls III***.\n\nAll four endings require the Ashen One to first gather the cinders of four great lords to reach the Kiln of the First Flame, where they must defeat the Soul of Cinder. Only the first ending does not require actions beyond strictly the main questline, although it is possible for up to three to be available simultaneously at the Kiln. All endings revolve around the First Flame, symbolized by a special bonfire that can be interacted with upon slaying the Soul of Cinder.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5f78a51a-ebe1-5747-b42f-4c0ca6c4ccc2",
+    "title": "Ending (Dark Souls III)",
+    "section": "availability_4",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Must their Dark Sigils with the Fire Keeper after she receives the Fire Keeper Soul (the player Purging Stones or \"Request Dissolution\" at either the Shrine of Velka in the Undead Settlement or the Purging Monument in The Ringed City); doing so will be perceived as a betrayal by Yuria, leading her to either never appear or rebuke the Ashen One upon their next interaction.\nMust not proceed into the Catacombs of Carthus before acquiring 5 Dark Sigils (defeating the Abyss Watchers or interacting with the bonfire which spawns upon their defeat before acquiring the Sigils does not void the questline, but is not recommended in order to avoid accidents).\n** Entering the Catacombs will cause Yoel to die, and whether Yuria arrives in Firelink Shrine or not will indicate if the steps were successfully taken. if Yuria does not spawn upon his death, it means that the questline has failed.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5fe9f141-c432-5802-9ba3-d32b94198c08",
+    "title": "Ending (Dark Souls III)",
+    "section": "availability_4",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Defeat Pontiff Sulyvahn and return to Firelink Shrine. Exhaust Yuria's dialogue to confirm that Anri awaits the player within Darkmoon Tomb.\nHead to the Darkmoon Tomb, located right before the elevator leading to Anor Londo. There, a pilgrim of Londor will give the Sword of Avowal. Continue down the hall to find Anri on a sacrificial mat. Use the action button to activate a cutscene (the pilgrim outside the room will be dead afterwards; this is normal).\nTalk with Yuria at Firelink Shrine and exhaust her dialogue.\nThe questline is now complete: After defeating the Soul of Cinder, simply interact with the First Flame to trigger this ending.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9d82626f-71f2-532e-ab91-611f5cbb1404",
+    "title": "Ending (Dark Souls III)",
+    "section": "availability_4",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ending (Dark Souls III) -  Dark Souls III - mechanic - availability_4 \n availability_4 : To unlock this ending, the player must . The Londor questline is a strict, complex questline revolving mainly around the characters of Yoel of Londor, Yuria of Londor, and Anri of Astora.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9da3b6a6-861d-5917-af85-5a834410b206",
+    "title": "Ending (Dark Souls III)",
+    "section": "availability_4",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Meet Anri and Horace at the Road of Sacrifices and exhaust dialogue between both characters.\nDefeat the Deacons of the Deep in the Cathedral of the Deep and then exhaust Anri's dialogue in Firelink Shrine to learn they will be heading to Irithyll of the Boreal Valley.\nHaving obtained 5 Dark Sigils, enter the Catacombs of Carthus and find Anri looking for the missing Horace near the upper levels of the Boulder O' Bones (the giant ball rolling up and down the stairs). Answer \"No\" to their question on Horace.\n** Yoel is now dead, and Yuria of Londor will have moved into Firelink Shrine next to his body, informing the player that Anri is being guided by one of her fellows.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9ebdcbc7-37e9-5b45-8b6d-35727a9b4079",
+    "title": "Ending (Dark Souls III)",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ending (Dark Souls III) -  Dark Souls III - mechanic - availability \n availability : This \"default\" ending takes place if the Ashen One ; if said questline has been completed, the player can still void it (see the The Usurpation of Fire section) to make this default ending available once more.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ad794f94-6966-5bfb-9e03-1bacf2309f6e",
+    "title": "Ending (Dark Souls III)",
+    "section": "availability_4",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "** If the questline is being followed, the Londor Pale Shades will be available as summonable phantoms throughout the game; if the quest has been voided, they will invade as Dark Spirits instead.\n** If all conditions for The Usurpation of Fire endings have been fulfilled, Yuria will be a summonable phantom for the Soul of Cinder boss fight, as will a Londor Pale Shade.\n** Anri has in fact two mutually exclusive questlines; should the player not aim to complete the Londor questline, they can kill the Old Woman of Londor disguised as a statue in the Church of Yorshka to allow for Anri's other questline instead.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c5537928-a6c5-5ca7-ab59-6636fd27e675",
+    "title": "Ending (Dark Souls III)",
+    "section": "availability_4",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Must not, in the Catacombs, tell Anri of Horace's location : doing so will result in Anri being killed by the hollowed Horace.\nMust not kill the Old Woman of Londor at the Church of Yorshka, where, if the questline is being followed, she is disguised as a statue in a corner where several real statues are situated (attacking without killing her will not fail the questline).",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c7e98486-0842-5591-8a61-e5e424df0dfa",
+    "title": "Ending (Dark Souls III)",
+    "section": "availability_4",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "** Yoel is now dead, and Yuria of Londor will have moved into Firelink Shrine next to his body, informing the player that Anri is being guided by one of her fellows.\nFurther into the Catacombs, speak with Anri on a spot to the side of the bridge leading to High Lord Wolnir. If talked to a second time, they will ask if the player knows where Horace is; Horace is located down a tunnel in Smouldering Lake, although the questline does not require the player to ever encounter the now-hollowed Horace.\n** If the player says they have not seen Horace (which remains an option even if they have), Anri will not find him and depart the Catacombs, continuing the questline.\n** If the player kills the hollowed Horace and then tells Anri where he is (or goes to kill Horace right after giving Anri his location, without reloading any area), Anri will find Horace's body, build a grave in his memory and depart the Catacombs, continuing the questline.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e46f2804-1d64-5633-b344-7a7c9e70e9f4",
+    "title": "Ending (Dark Souls III)",
+    "section": "availability_3",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ending (Dark Souls III) -  Dark Souls III - mechanic - availability_3 \n availability_3 : This secret ending (which has no official name) is unlocked by , in the very last moment the player is actionable while the Fire Keeper has the First Flame in her hands,\n\nThis ending, despite being considered an alternative The End of Fire ending, does not unlock the latter's achievement, nor any other.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e6c82475-8994-5073-b8f6-7706b1c3ddd9",
+    "title": "Ending (Dark Souls III)",
+    "section": "ending_3",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Ending (Dark Souls III) -  Dark Souls III - mechanic - ending_3 \n ending_3 : The Ashen One stretches out their hand, and the First Flame slowly sets their body ablaze from within. The strain from assimilating the Flame makes them collapse on the ground. An indefinite amount of time later, the Ashen One rises again, having successfully controlled the power of the Flame within themselves. The sun, obscured by a light-dripping eclipse that resembles the Dark Sigil, follows the movements of the Ashen One, indicating that the Flame lives within them, while the world is shrouded in a patina of darkness and time stands still.",
+    "sources": [
+      "template",
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2b844ff0-8061-5906-8fc7-06364d3fc11c",
+    "title": "Fire Keeper",
+    "section": "others",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Herald was rumored a Fire Keeper and that Yoel is male, this marks him as the only character very likely not to be a Fire Keeper yet still able to draw out the strength of an Undead. He claims to be able to do so because \"We pilgrims of Londor are keenly aware. That those branded by the Darksign possess something quite special\", indicating that perhaps others in Londor have the same ability.'}",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2c1007f7-7513-5ffa-83d4-bcdbdc29ac95",
+    "title": "Fire Keeper",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Fire Keeper -  Dark Souls III - character - lead \n lead : **Fire Keepers** are a storyline concept and group of characters in the *Dark Souls* series.\n\nThey are female characters who watch over bonfires and provide assistance to the Undead and Unkindled in their quests.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4399b59f-0580-52b2-9979-c5d89bf5072f",
+    "title": "Fire Keeper",
+    "section": "general_information",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Fire Keeper -  Dark Souls III - character - general_information \n general_information : In *Dark Souls*, bonfires watched over by Fire Keepers are automatically kindled to provide ten Estus Flask charges each. Still they may be upgraded through the Rite of Kindling, just like other bonfires. All Fire Keepers have special souls and drop a Fire Keeper Soul upon death. Fire Keepers universally share the ability to upgrade Estus Flasks using the souls of their fellow Fire Keepers. The death or departure of a Fire Keeper will lead to the bonfire they attended to be extinguished, and it can no longer be used to rest, level up or teleport from using the Lordvessel. The description of the regular Fire Keeper Soul states that \"Each Fire Keeper is a corporeal manifestation of her bonfire, and a draw for the humanity which is offered to her.\"",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7271c96e-7dcd-5789-a6a6-064b0635c4dd",
+    "title": "Fire Keeper",
+    "section": "others",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Fire Keeper -  Dark Souls III - character - others",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a1b9da6b-a704-5fc7-95f8-0a923b1eb9b2",
+    "title": "Fire Keeper",
+    "section": "others",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "reaching Lothric, and can be found still alive among the dead bodies of other pilgrims in the Undead Settlement by the Ashen One. Little is known about Yoel besides the fact that he is a pilgrim and was once a sorcerer. However, he also has a rare talent, one that in theory is exclusive to Fire Keeper: the ability to \"Draw Out True Strength\", which is to say he can make the Ashen One stronger. Furthermore, unlike the Fire Keeper or the Emerald Herald, he does not require a cost in souls to do so, and instead brands the Ashen One, the service of whom he can enter, with a Dark Sigil such as the one wore by the Fire Keeper who had entered the Abyss every time, as a way to help prepare the Ashen One\\'s ascension as the \"Lord of Hollows\" to bring about the Age of Dark. Given that the Emerald Herald was rumored a Fire Keeper and that Yoel is male, this marks him as the only character very likely not to be a Fire Keeper yet still able to draw out the strength of an Undead. He claims to be",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "af6604c2-90b9-54e2-8d2b-74063efaed16",
+    "title": "Fire Keeper",
+    "section": "others",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "others : {'name': 'In Londor', 'description': 'Londor was the \"Land of Hollows\", where Undead humans had accepted and embraced Hollowing. Renouncing the First Flame and following the wishes of the primordial serpent Darkstalker Kaathe, the Sable Church of Londor, led by sisters Yuria and Liliane (as well as at originally a third sister, Elfriede), aimed to bring about the long-delayed Age of Dark, making them drastically opposed to the goals of Fire Keeper throughout the ages, whose purposes were to help fight hollowing and support the Age of Fire.\\n\\nThe \"pilgrims of Londor\" are exiles sent specifically to Lothric so that they would \"die\", although their nature and purpose of both the pilgrims and the deaths they seek is unclear. Among them was Yoel of Londor, who \"failed\" to die upon reaching Lothric, and can be found still alive among the dead bodies of other pilgrims in the Undead Settlement by the Ashen One. Little is known about Yoel besides the fact that he is a pilgrim and",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "daefa1b5-56a3-54c2-bb40-cb478e35202b",
+    "title": "Fire Keeper",
+    "section": "list_of_fire_keepers",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Fire Keeper -  Dark Souls III - character - list_of_fire_keepers \n list_of_fire_keepers : ;*Dark Souls*\nAnastacia of Astora in Firelink Shrine\nQueelag's Sister / the \"Fair Lady\" in Quelaag's Domain\nThe Darkmoon Knightess in Anor Londo\n;*Dark Souls II*\nThe three old ladies, Strowen, Morrel, and Griant, in Things Betwixt\n;*Dark Souls III*\nThe unnamed Fire Keeper in Firelink Shrine",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "df46b459-1509-5577-8ba9-1d5a1e01bb0d",
+    "title": "Fire Keeper",
+    "section": "general_information",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "In *Dark Souls II*, the three Fire Keepers in Things Betwixt and the Emerald Herald, believed by some to be Fire Keeper, can be killed without the nearby bonfire being affected. The way the Herald can level up the Bearer of the Curse is reminescent of how the Fire Keepers in *Dark Souls III* can the Ashen One. One of the Keepers, Strowen, offers the player to re-allocate their attributes in exchange for a Soul Vessel.\n\nIn *Dark Souls III*, the unnamed Fire Keeper can level up the Ashen One like the Hemerald did in the previous game. She is also immortal; killing her, in addition to not causing the Shrine bonfire to be affected, will only cause her to respawn upon reloading the area, claiming that she cannot die. Instead of a Keeper, it is Rosaria, Mother of Rebirth, the leader of the Rosaria's Fingers covenant, who allows the player to re-allocate their attributes.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e7e2c436-2125-5d43-99e4-f84fbaacfa6b",
+    "title": "Fire Keeper",
+    "section": "general_information",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "All Fire Keepers in the series suffer substantial ailments: Anastacia has neither tongue nor feet, Quelaag's Sister is gravely ill in addition to being twisted by the Flame of Chaos, and the Darkmoon Knightess has a \"ghastly form\" and \"hideous swarms of humanity\" hidden under her armor, while the unnamed *Dark Souls III* Fire Keeper, seemingly all of her Lothric predecessors, the Old Ladies, and Irina are all blind. The Emerald Herald, who might be a Keeper, has no visible affliction, although she claims that she \"did not come out as intended\".",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ec5f610d-6565-5869-8020-c919da1d3b6f",
+    "title": "Fire Keeper",
+    "section": "general_information",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "All confirmed Fire Keepers in the series, as well as prospective Fire Keeper Irina of Carim and the possible Fire Keepers that are the Emerald Herald and mentionned fourth sister in *Dark Souls II*, are female, as are seemingly all of the dead Fire Keepers whose bodies can be found in the Firelink Shrine of *Dark Souls III*. The description of the generic Fire Keeper Soul in *Dark Souls* similarly refers to \"Each Fire Keeper\" using female pronouns. Whether the reason is cultural or biological is unclear.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "11fd8ced-a052-5959-bd72-12075b14e169",
+    "title": "Fire Keeper Soul (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Fire Keeper Soul (Dark Souls III) -  Dark Souls III - item - lead \n lead : The **Fire Keeper Soul** is a key item in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "352631e8-a76e-54ad-8950-157ae97af5dc",
+    "title": "Fire Keeper Soul (Dark Souls III)",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Fire Keeper Soul (Dark Souls III) -  Dark Souls III - item - availability \n availability : Found on the corpse of a fire keeper at the top of the bell tower in Firelink Shrine. The entrance to this tower can only be unlocked by using the Tower Key, sold by the Shrine Handmaid.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4af923d6-c1bf-5c3d-9fb6-0b56141e5b76",
+    "title": "Old Woman of Londor",
+    "section": "questline",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Old Woman of Londor -  Dark Souls III - character - questline \n questline : If the player is following either Anri or Yuria's questline, the Old Woman will first appear in the Church of Yorshka in Irithyll of the Boreal Valley. There, she will be disguised as a statue via use of the Chameleon spell, where she can be interacted with, ignored, or killed. Killing her or leaving her alive each yield their own consequences.\nShould the player leave the Old Woman alive, Anri's questline will end and the Old Woman will next appear outside the Darkmoon Tomb, under Anor Londo. She will present the player with the Sword of Avowal and urge them inside the tomb. Upon using the sword and exiting the tomb, her corpse will lay where she stood, and on it will be the Chameleon sorcery.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4d23af49-f56c-58ef-8b0a-04e5a5bbb8a5",
+    "title": "Old Woman of Londor",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Old Woman of Londor -  Dark Souls III - character - location \n location : Irithyll of the Boreal Valley\nFound concealed as a statue in one of the corners of the Church of Yorshka, only if the player is following Anri's/Yuria's questline.\nAwaits at the entrance of the Darkmoon Tomb if following Anri's/Yuria's questline and yields the player the Sword of Avowal to consummate the ritual. She is found dead on the way back, holding the Chameleon sorcery.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "70e41999-9fea-5fd9-9173-c3b00c55d6cb",
+    "title": "Old Woman of Londor",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Old Woman of Londor -  Dark Souls III - character - lead \n lead : The **Old Woman of Londor** is a character in *Dark Souls III*.\n\nShe is voiced by Jenny Funnel, who also voiced the Karla in the same game, Yuria and Selen Vinland in *Demon's Souls*, the Darkmoon Knightess and Quelana in *Dark Souls*, and Annalise and Iosefa in *Bloodborne*.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b93a42ba-e155-5320-b63a-35f48820dd9c",
+    "title": "Old Woman of Londor",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Old Woman of Londor -  Dark Souls III - character - trivia \n trivia : Her model is identical to that of Yoel of Londor.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "19dd60dd-4b53-52e0-b9d6-2389aa4c50ab",
+    "title": "Yuria of Londor",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Yuria of Londor -  Dark Souls III - character - description \n description : Having three founders of the Black Church ensured Yuria's legacy would survive. Her two sisters could carry the torch, making certain their lord claims the flame, for the sake of all Hollows.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "77305a1a-36aa-5cde-a7f9-63b6c79b60a7",
+    "title": "Yuria of Londor",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Yuria of Londor -  Dark Souls III - character - notes \n notes : Yuria will leave Firelink Shrine if the player talks to her after healing their accumulated Dark Sigil. If the player does not engage in dialogue with her after healing their Dark Sigils, Yuria will remain in Firelink Shrine indefinitely, though this serves no practical purpose.\nYuria only drops her ashes if the player kills her. As such, defeating the Soul of Cinder will mean that her wares are no longer available, unless she is killed before she has a chance to leave.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "78ee60bf-9590-5e0c-b3b3-70a5254e0881",
+    "title": "Yuria of Londor",
+    "section": "ashes_of_ariandel",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Yuria of Londor -  Dark Souls III - character - ashes_of_ariandel \n ashes_of_ariandel : Yuria possesses additional dialogue should the player progress through the Painted World of Ariandel. After talking to Sister Friede and returning to Firelink Shrine, Yuria will recognize the scent of her sister, and warn the Ashen One of heeding their kindness over their principles.\n\nOnce Sister Friede has been defeated and the player is in possession of her soul, Yuria will remark on Elfriede's history with Londor, and request that the Ashen One usurp the First Flame in her memory.\n\nShould the player have not yet acquired 8 Dark Sigils in either case, the dialogue will vary slightly.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "96217181-b7c3-51d7-926c-15cb2763067f",
+    "title": "Yuria of Londor",
+    "section": "base_game",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Yuria of Londor -  Dark Souls III - character - base_game \n base_game : Upon introducing herself, Yuria reveals that Yoel was a close friend to her and thanks the Champion of Ash for allowing him to be redeemed through his actions while at their service. She then does the same, pledging allegiance to the player and accepting them as her Lord and of all the hollows in Londor, in the hope that one day the Ashen One brings back its glory to the world.\n\nUpon talking to her, the player will learn the \"Dignified Bow\" gesture.\n\nOnce Orbeck of Vinheim has moved to Firelink Shrine, Yuria will alert the player that he has proclaimed himself to be \"Lord of Hollows,\" asking the player to settle the matter lest he imperil the player's rule. If the player brings Orbeck's Ashes to Yuria, she will reward them with the Morion Blade.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9a9f0077-38d4-5978-8916-3c2df7eacf92",
+    "title": "Yuria of Londor",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Yuria of Londor -  Dark Souls III - character - location \n location : Found in Firelink Shrine, at the end of the corridor on the west wing of the basement, in the same area where Yoel of Londor is found.\n\nIn order for Yuria to appear, the player must draw out their true strength (level up) with Yoel and acquire all five Dark Sigils before reaching the Catacombs of Carthus. The next time the player visits Yoel's usual place in Firelink Shrine, they will find him already dead with Yuria standing close by.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a481975e-c2e3-5dff-acea-3c3d61f665e9",
+    "title": "Yuria of Londor",
+    "section": "base_game",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Once the player reaches the Catacombs of Carthus, Yuria reveals that she is also guiding Anri of Astora along the path to Irithyll of the Boreal Valley, and plans to engage him/her (gender is always the opposite of the player's) in matrimony. To this end, the player must aid Anri and keep him/her alive up until Pontiff Sulyvahn has been defeated (care must be taken not to kill the Londor Pilgrim within the Church of Yorshka). If successful, Anri may be found in the old Darkmoon tomb, Dark Sun Gwyndolin's boss arena in *Dark Souls*, and can be \"married\" here, gaining 3 more Dark Sigils for a total of 8.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a8f8f9a4-0451-523e-b937-26a21c899eb0",
+    "title": "Yuria of Londor",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Yuria of Londor -  Dark Souls III - character - lead \n lead : **Yuria of Londor** is a character and merchant in *Dark Souls III*. She is a mentor of the Sable Church and accomplished swordswoman, said to have claimed a hundred lives with her sword, the Darkdrift.\n\nShe is voiced by Pooky Quesnel, who also voiced Arianna in *Bloodborne*.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d690f912-27ad-54e0-84a8-2ed76b9df278",
+    "title": "Yuria of Londor",
+    "section": "base_game",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Once the player completes their wedding vows, Yuria will swear her fealty to the true Lord of Hollows. She will no longer become aggressive if attacked by the player, short of the Dark Sigils being healed by the Fire Keeper. She will also make herself available to be summoned for the Soul of Cinder fight. Should she be summoned and survive this fight, her set and weapon can be found at her usual spot at Firelink Shrine.\n\nIf Yoel dies before the player can attain all five Dark Sigils, Yuria will not appear and the Londor Pale Shade will invade in the Farron Keep and Irithyll of the Boreal Valley; the Pale Shade will also invade the player at these locations should Yuria be killed or angered. Defeating the Pale Shade once will reward the Manikin Claws, while defeating them at both locations will cause the Pale Shade Set to appear at Firelink Shrine in the same area where Yuria and Yoel used to reside.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f1b32e10-0bf3-5633-9f69-caa6ea0295ce",
+    "title": "Yuria of Londor",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Yuria of Londor -  Dark Souls III - character - trivia \n trivia : Yuria's line upon death: \"Kaathe... I have failed thee\" can be better translated as \"Kaathe... Your dying wish was unfulfilled\", implying that the Primordial Serpent died of unknown causes before the events of *Dark Souls III*.\nYuria's armor set, in particular the helmet, is based on the Cainhurst Set from *Bloodborne*. Additionally, the Cainhurst Vilebloods also used katanas.\nYuria shares her name with Yuria the Witch, a character from *Demon's Souls*.\n**Yuria and Yuliya are names commonly used in Miyazaki directed games, minus Sekiro.\nYuria wields Darkdrift, a katana originally from *Dark Souls II*. It too belonged to an NPC that delved in the shadows and spoke for Hollows.\nLike Oswald of Carim from *Dark Souls*, she wears an armor set called the \"Black Set\" and she sells Velka Miracles in the Londor Braille Divine Tome, Purging Stones, and Rings of Sacrifice.",
+    "sources": [
+      "gold"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f1e9adbb-e2de-5256-8887-29adc9d02346",
+    "title": "Yhorm the Giant",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "It is possible to theorize that Yhorm refused to serve as fuel for the First Flame a second time due to the fact that, once awakened from his grave, he realized that his sacrifice had been futile. The sorcerers of the Profaned Capital had continued to experiment on the Profaned Flame he had tried to quell with his sacrifice and as a result the entire city was destroyed, making his life of service meaningless even after the end. The moment he rises from the grave, he can be seen already howling in despair. In addition, he may also have simply understood the state of the world, now corrupted beyond any possibility of traditional salvation through the linking of the Fire, and simply decided to await death in the ruins of his city.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.364336026899267
+  },
+  {
+    "document_id": "ad95b70d-6375-5a53-9ed8-a81889427bc8",
+    "title": "Throne of Want",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Throne of Want -  Dark Souls II - location - lore \n lore : The Throne of Want serves as a means to link the First Flame, in a way similar to the thrones of Lothrics’s Firelink Shrine, as it is built inside a kiln and the ashes that cover it seems to indicate the remains of previous Lords of Cinder.\n\nWhile it’s exact origins are unknown, the structure and ashes surrounding the Throne imply that it is much more ancient than the Kingdom of Drangleic.\n\nAccording to Vendrick and Nashandra, once Vendrick sougth the fire, for he believed that by linking it he could end the Undead Curse. But he would later discover that this was a lie, since the flame would fade again and the curse return every time, he then refused to sit on the Throne and decided to search for a permanent way to end the curse.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.34830277728982
+  },
+  {
+    "document_id": "2020cffe-fc75-5efd-a48e-3ead162812f9",
+    "title": "Great Combustion (Dark Souls III)",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Great Combustion (Dark Souls III) -  Dark Souls III - spell - see_also \n see_also : Combustion",
+    "sources": [
+      "run"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "afb43a51-f483-5a8d-8128-3ad4a398338e",
+    "title": "Exploding Bolt",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Exploding Bolt -  Dark Souls III - item - effect \n effect : Deals Fire damage in small surrounding area on impact.",
+    "sources": [
+      "run"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b7c5435c-3b88-5d2c-9cc7-94bec9ac6b07",
+    "title": "Fire (Dark Souls III)",
+    "section": "items_2",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Fire (Dark Souls III) -  Dark Souls III - mechanic - items_2 \n items_2 : Charcoal Pine Resin or Charcoal Pine Bundle gives additional fire damage, when applied.",
+    "sources": [
+      "run"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a22e4f3c-698e-57b2-adfb-e9032ab72d71",
+    "title": "Black Serpent",
+    "section": "single_player",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "Black Serpent -  Dark Souls III - spell - single_player \n single_player : This pyromancy will only follow an opponent if it has been locked-on before casting the spell. Otherwise, the black flame will move in a random direction. This pyromancy can be useful, even if the target is not locked on, since the random movement of the flame makes the enemy break their attack while trying to avoid the spell.\n\nEnemies that use shields, such as Cathedral Knights, have their blocks broken from this attack. This can be used to almost always perform critical attacks on them, if the shield is hit as they block, making it easier to combat defense-based enemies.",
+    "sources": [
+      "run"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e3c412f9-c6a0-599e-bd9c-b0805fc5db6a",
+    "title": "Flame Quartz Ring",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Flame Quartz Ring -  Dark Souls II - ring - effect \n effect : Grants a varying amount of defense against Fire attacks, depending on the level of the ring.",
+    "sources": [
+      "run"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1501b2cf-7160-5bb6-ac00-5ab93b1fb673",
+    "title": "Great Swamp Pyromancy Tome",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Great Swamp Pyromancy Tome -  Dark Souls III - item - usage \n usage : After providing the tome to Cornyx of the Great Swamp, the following pyromancies will be available to the player:",
+    "sources": [
+      "run"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3c5614ed-8448-54cc-b8d6-d853d98e48f5",
+    "title": "Charcoal Pine Bundle",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Charcoal Pine Bundle -  Dark Souls III - item - description \n description : Quickly applies 110 Fire damage to right-hand weapon. Buff lasts for 11 seconds.",
+    "sources": [
+      "run"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d5d827e1-6a7d-5a54-a46e-5ccc3527e7b1",
+    "title": "Starting Gifts (Dark Souls II)",
+    "section": "homeward_bone_dark_souls_ii_homeward_bone",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Starting Gifts (Dark Souls II) -  Dark Souls II - item - homeward_bone_dark_souls_ii_homeward_bone \n homeward_bone_dark_souls_ii_homeward_bone : Returns you to the bonfire last rested at. Having one may ease your mind, but there are no easy journeys.*\n\nReturns the player to the last bonfire rested at. The bone is destroyed upon use.",
+    "sources": [
+      "run"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  }
+]

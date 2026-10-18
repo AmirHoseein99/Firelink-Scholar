@@ -1,0 +1,2092 @@
+[
+  {
+    "document_id": "19f135d9-7025-589c-82fa-fe282f8713a1",
+    "title": "Backstep",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "During the backstep, from frame 11 to 14, the player has hyperarmor, i.e. infinite poise. That means, no matter what hits the player, they will not stumble and stay on their feet. For example, the player can backstep through the boulders in Sen's Fortress without being knocked down. Keep in mind that you will still take damage, since the hyperarmor frames do not grant invincibility. The backwards ninja flip does not have hyperarmor frames.\nWhen inputing an attack directly after the backstep, the player will perform a running attack. This can be very useful in combat, by dodging an enemy's attack with the backstep, then striking back with a running attack.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9d7d2871-7b81-5172-acf0-f9242044a083",
+    "title": "Backstep",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Backstep -  Dark Souls - mechanic - lead \n lead : Backstepping is a gameplay mechanic in Dark Souls.\n\nA backstep is performed by pressing the roll key without pressing in any direction. The player will then take a leap backwards instead of rolling.\n\nBackstepping also grants invincibility frames, but fewer than rolling. While rolling gives 11 i-frames, backsteps only give 4. Equipping the Dark Wood Grain Ring replaces the backstep with a backwards ninja flip with 8 i-frames. This may now seem like backstepping is generally worse that rolling. However, backstepping has two situational advantages over rolling.",
+    "sources": [
+      "template",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.293359059312397
+  },
+  {
+    "document_id": "10b51b29-0d27-568f-81dc-3963abf06973",
+    "title": "Dragonslayer Spear",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Dragonslayer Spear -  Dark Souls - weapon - characteristics \n characteristics : Unlike other weapons that scale with Faith, the Dragonslayer Spear gains Lightning damage, not Magic damage, from the Faith stat. It's also the only weapon in the game with scaling Lightning damage.\n\nThe special lightning bolt projectile is calculated like any attack using the weapon's Physical and Lightning AR and the attack specific Motion Values (100 Physical, 110 Lightning). It has a range of approximately 28 in-game units, suffers from damage drop off at long ranges and does not benefit from the Hawk Ring. This special attack degrades 20 Durability.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1bc4393c-70fd-5612-833b-65e7845a90c3",
+    "title": "Dragonslayer Spear",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Dragonslayer Spear -  Dark Souls - weapon - availability \n availability : The Dragonslayer Spear is obtained by ascending any Standard +10 spear or thrusting sword at the Giant Blacksmith in Anor Londo with the Soul of Ornstein and 5,000 souls.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1e801ab2-1ee0-5208-9157-7561567db9b5",
+    "title": "Dragonslayer Spear",
+    "section": "scaling_percentages",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Dragonslayer Spear -  Dark Souls - weapon - scaling_percentages \n scaling_percentages : * **Strength - 60%**\n***Dexterity - 100%**\n***Intelligence - 0%**\n***Faith - 100%**",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "271eb86c-d543-5885-8649-db4bd5735737",
+    "title": "Dragonslayer Spear",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Dragonslayer Spear -  Dark Souls - weapon - description \n description : Cross spear born from the soul of Ornstein, a Dragonslayer guarding Anor Londo cathedral. Inflicts lightning damage; effective against dragons. Two-handed thrust relies on cross and buries spear deep within a dragon's hide, and sends human foes flying.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2f001675-be77-54cc-9142-2101d68080e5",
+    "title": "Dragonslayer Spear",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "An easy way to obtain the Dragonslayer Spear is to downgrade the Lightning Spear dropped by the Mimic in Sen's Fortress to a +10 Spear, and then upgrading it to the Dragonslayer Spear. However, a +5 Dragonslayer Spear will not significantly outperform a +5 Lightning Spear at lower Faith levels (~16 or below) until the user well exceeds the required levels in Strength or Dexterity. A fully-upgraded Demon's Spear also has a higher overall damage rating at low Faith levels, and deals more Lightning damage at Faith levels of 42 and below. This weapon cannot be Enchanted and almost any buffable weapon of any class will out-perform this Spear in terms of damage potential.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dfdbb257-f593-591e-a6d6-93c5aedf2710",
+    "title": "Dragonslayer Spear",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Dragonslayer Spear -  Dark Souls - weapon - lead \n lead : The **Dragonslayer Spear** is a spear in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "239207d4-c94b-55e7-a238-c13a504cac80",
+    "title": "Falchion (Dark Souls)",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Falchion (Dark Souls) -  Dark Souls - weapon - description \n description : Small curved sword. Each hit inflicts little damage, but fluid chain attacks are deadly.\n\nThe falchion's sharp slashing attacks are effective against cloth and flesh, but not against metal armor or tough scales.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "26bbeac9-a276-5c84-bcf2-ecf07afec809",
+    "title": "Falchion (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Falchion (Dark Souls) -  Dark Souls - weapon - lead \n lead : The **Falchion** is a curved sword in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "47105293-4c4b-5cff-8794-71ba37891517",
+    "title": "Falchion (Dark Souls)",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Falchion (Dark Souls) -  Dark Souls - weapon - characteristics \n characteristics : The Falchion has the same scaling, moveset, attack speed, and stamina consumption as the Scimitar, but has higher base damage. The Falchion has a higher Strength requirement than the Scimitar (although all starting classes have enough Strength for it). The only weakness it has compared to the Scimitar is its heavier weight. In terms of damage output, the Falchion loses to the Painting Guardian Sword at higher levels; however, it possesses a slightly longer reach.\n\nThe Falchion is one of lowest stamina-consuming weapons in the game, meaning that in conjunction with its fast attacks, the Falchion is capable of quickly dispatching enemies.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9bc0630d-4162-592d-8750-eefdb4a4b36f",
+    "title": "Falchion (Dark Souls)",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Falchion (Dark Souls) -  Dark Souls - weapon - availability \n availability : Found on a corpse in Blighttown with the Wanderer set, near the end of the scaffolding area leading from the Depths.\nSemi-uncommon drop from Falchion wielding Skeletons.\nAn Enchanted Falchion is dropped by a Mimic in The Duke's Archives, near where Logan sets up shop.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bdddc5ad-54cf-53d6-a90f-b0d17087f979",
+    "title": "Falchion (Dark Souls)",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Falchion (Dark Souls) -  Dark Souls - weapon - notes \n notes : The Falchion has bleed effect when handled by the Falchion-wielding Skeletons.\n\nThe Falchion has slightly longer range than the Scimitar.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fee11e44-75ae-5f1a-92f2-4c473958442c",
+    "title": "Falchion (Dark Souls)",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Falchion (Dark Souls) -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "04edaef5-71d3-5877-80d7-a308c8369ba9",
+    "title": "Havel's Ring",
+    "section": "effects",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Havel's Ring -  Dark Souls - ring - effects \n effects : Raises the player's maximum equipment burden by 50%.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "412ed1f9-6579-5c46-855f-e4b7d26189be",
+    "title": "Havel's Ring",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Havel's Ring -  Dark Souls - ring - availability \n availability : Havel the Rock drops this ring when killed. He can either be accessed through a door in the latter half of the Undead Burg through use of the Master Key, or accessed through a door just prior to the Hydra in the Darkroot Basin.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6b2cf1eb-638f-5def-913b-37ea8ba477a3",
+    "title": "Havel's Ring",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Havel's Ring -  Dark Souls - ring - description \n description : This ring was named after Havel the Rock, Lord Gwyn's old battlefield compatriot.\n\nHavel's men wore the ring to express faith in their leader and to carry a heavier load.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "90a123fc-0591-58fa-879b-e195a8d1bcf8",
+    "title": "Havel's Ring",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Havel's Ring -  Dark Souls - ring - lead \n lead : **Havel's Ring** is a ring in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ea795c99-6a97-5e93-9584-64e3f0111c30",
+    "title": "Havel's Ring",
+    "section": "overview",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Havel's Ring -  Dark Souls - ring - overview \n overview : Havel's Ring is one of the first rings accessible to the player assuming the Master Key was chosen as the starting gift. It is a useful ring, allowing many classes to upgrade from slow roll to mid roll or better and giving players a wider range of equipment options without sacrificing mobility. Later, the player may want to invest in Endurance to free up their ring slot, although certain players may require both the ring and high endurance if they seek out the heavier weapons and armor. Prior to patch 1.06 Havel's ring was inferior in many ways to the Dark Wood Grain Ring, but the two rings can be combined to use most of the game's equipment with ease.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f1ecb3f1-3cd5-5ce8-b4f9-bdc5d57b0c05",
+    "title": "Heavy Armor Sets (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Heavy Armor Sets (Dark Souls II) -  Dark Souls II - armor - lead \n lead : For categorization purposes on this wiki, Heavy Armor Sets are armor sets in *Dark Souls II* that have a total weight of 30 or more.\n\nHeavy armor sets, such as Havel's Set, are good for tanking because of their high defense and poise. They allow for moderate to high damage to be taken without killing the player, however no armor set can make the player invincible, so caution is still your best defense.\n\nHeavy sets, while they provide high defense also make moving and rolling much harder. The Royal Soldier's Ring, the First, Second and Third Dragon Ring all increase Maximum Equip Load, thus possibly allowing for faster rolling.\n\nAgain, strong armor does not make a player invincible. So focus and concentration can still trump having heavy armor.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f7be487c-51c2-559d-8509-98f820ffc335",
+    "title": "Heavy Armor Sets (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Heavy Armor Sets (Dark Souls) -  Dark Souls - mechanic - lead \n lead : For categorization purposes on this wiki, **heavy armor sets** are armor sets in *Dark Souls* that have a total weight of 40 or more.\n\nWearing heavy armor will slightly reduce the player's stamina regeneration, along with certain pieces of other armor sets. Each piece of heavy armor will reduce the stamina regeneration rate by 2 per second for all body armor pieces, and 1 per second for all other pieces. Furthermore, if the player has an equipment load that is higher than 50%, they will suffer a further 20% stamina regeneration penalty. Using Havel's Ring allows one to increase their equipment load, allowing them to wear Heavy Armor more easily.",
+    "sources": [
+      "template",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.818704898701284
+  },
+  {
+    "document_id": "0c5ebbc8-efb0-591e-9dcd-3f54701c6efe",
+    "title": "Kingseeker Frampt",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "If players have given Kaathe the Lordvessel already, then it is possible to prevent Frampt from leaving by rushing around and away from him. As long as he doesn't finish his dialogue, he won't disappear. Players can also prevent him finishing his dialogue by attacking him.\nIt's actually possible to kill Kingseeker Frampt, but only through the use of third party programs. Frampt has 11,120 HP and drops 5,000 souls after being killed.\nFrampt will randomly be found sleeping deeply (usually after resting at a bonfire) even if he was spoken to only moments ago. He can be awoken by attacking him (kicking and punching are sufficient).",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "271de031-aa05-57c4-9a15-7232337e70d8",
+    "title": "Kingseeker Frampt",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - location \n location : Firelink Shrine, where the pool in front of the decrepit statue used to be. Kingseeker Frampt only appears after the Bells of Awakening have been rung.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6e44b2f2-5a5a-5f9e-b6cc-2a763157617d",
+    "title": "Kingseeker Frampt",
+    "section": "services",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - services \n services : Kingseeker Frampt has the ability to consume items and break titanite into smaller pieces.\nGreen Titanite Shard breaks to: Titanite Shard ×5\nLarge Titanite Shard breaks to: Titanite Shard ×5\nTitanite Chunk breaks to: Large Titanite Shard ×3\nBlue Titanite Chunk breaks to: Green Titanite Shard ×3\nWhite Titanite Chunk breaks to: Green Titanite Shard ×3\nRed Titanite Chunk breaks to: Green Titanite Shard ×3\nTitanite Slab breaks to: Titanite Chunk ×2\nBlue Titanite Slab breaks to: Blue Titanite Chunk ×2\nWhite Titanite Slab breaks to: White Titanite Chunk ×2\nRed Titanite Slab breaks to: Red Titanite Chunk ×2",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7b82f581-96f0-5602-aabd-9f8f98dbda53",
+    "title": "Kingseeker Frampt",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - plot \n plot : Kingseeker Frampt appears in Firelink Shrine after the player rings both Bells of Awakening. He instructs the player to go to Anor Londo and obtain the Lordvessel. After the player obtains the Lordvessel, Frampt transports them to the entrance of the Kiln of the First Flame, and instructs the player to place the Lordvessel to gain access to the Kiln, and to ultimately kill Gwyn and prolong the Age of Fire.\n\nShould the player give the Lordvessel to Kaathe instead, Frampt will become irate and leave the player for the rest of the playthrough.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "805ffddc-3070-5807-9c6e-616d69ad8ee7",
+    "title": "Kingseeker Frampt",
+    "section": "feed",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - feed \n feed : Feeding weapons and armor to him is not very profitable; most weapons only produce 50 souls while most armor produces 100. Special weapons can produce much more, such as the Drake Sword, which results in 5,000.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "865ab23e-7ecc-55f5-b351-ce60a8141c73",
+    "title": "Kingseeker Frampt",
+    "section": "removed_content",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - removed_content \n removed_content : The following is content that is present within the code of *Dark Souls*, but not actually implemented in the game. Text was found from a text dump which can be found at: http://pastebin.com/hA42TwK8.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8972d104-39ff-52dd-9cb0-45a2b2656eb6",
+    "title": "Kingseeker Frampt",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "After ringing the first of the Bells of Awakening, Frampt can be heard snoring when passing through the flooded area of Firelink Shrine of which he will eventually emerge. Strangely, this makes a collectible, invisible \"humanity sprite\" (one that increases your character's liquid humanity by 1 point) spawn nearby. It is possible to collect this sprite by falling from the nest above or one of the ledges above, but the fall may kill the character in the process (forcing the player to run back to his bloodstain from the last bonfire they rested at). It is also possible to collect this sprite by \"passing through\" Frampt's room. It seems to often be near the fallen pillar that lays diagonally on the ground (one end of the pillar pointing to the starting Lordran Bonfire of Firelink Shrine, and the other end of the pillar pointing to the graveyard leading to the Catacombs).\nFrampt is one of the few characters whose mouth moves when talking.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "94dc8054-24eb-5b83-9f01-2e2e1b63c11b",
+    "title": "Kingseeker Frampt",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - trivia \n trivia : Shortly after Frampt's arrival, the Crestfallen Warrior (who sits fairly close to Frampt) complains about a horrible smell. This is likely referring to Frampt. The Crestfallen Warrior will leave after being spoken to when Frampt is around, so keep that in mind before ringing the second bell of awakening. The Crestfallen Warrior can later be found as a hostile Hollow at the New Londo Ruins.\nIn previous versions of the game there was a glitch where if a player jumped down the hole Frampt sticks his head out of, but quit and loaded before reaching the bottom, they would reach the Kiln of the First Flame. In doing so players could skip gathering the Lord Souls and go straight to the fight against Gwyn. This technique has been used for speedruns of the game.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a5920d6b-a687-50d1-8380-b184fca27d9e",
+    "title": "Kingseeker Frampt",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - lead \n lead : is a character in *Dark Souls*. He is a primordial serpent who seeks a human successor to Gwyn, Lord of Cinder. He is voiced by Peter Marinker, who also voiced Darkstalker Kaathe and Eingyi.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b691576e-c1e7-533e-bc12-9e88378ae829",
+    "title": "Kingseeker Frampt",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Frampt is one of the few characters whose mouth moves when talking.\nOn the breastplate of Lord Gwyn's Robes, there are patterns and indents that resemble Frampt's head. Possibly as an indicator of their friendship, as mentioned by Kaathe.\nIt would seem Frampt has a great dislike of Executioner Smough, Seath the Scaleless and his followers. If fed any of their items, he will only give a single soul in exchange.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cc83dad2-dfca-55ca-ab0c-f7f3fdaabe5f",
+    "title": "Kingseeker Frampt",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - notes \n notes : When Frampt transports the player to the Firelink Altar after retrieving the Lordvessel, it is not necessary to place it. By using a Homeward Bone or the Homeward miracle, it is possible to exit and continue using Frampt's feeding service and at the same time interact with Kaathe and join the Darkwraiths. As long as the player does not place the Lordvessel, neither serpent will depart.\nThe player should avoid attacking Frampt (unless he is asleep) as it may result in him leaving for the rest of the playthrough. If this happens, the player loses access to his feeding service and must either place the Lordvessel with Kaathe or do it alone by dropping down the hole Frampt was in.\nDropping down to the Firelink Altar after acquiring the Lordvessel without his help will make Frampt leave, whether the player placed it or not.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1fc0166f-40d4-5055-956b-968b7ac82e1d",
+    "title": "Quelaag's Furysword",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Quelaag's Furysword -  Dark Souls - weapon - description \n description : A curved sword born from the soul of Quelaag, daughter of the Witch of Izalith, who was transformed into a chaos demon. Like Quelaag's body, the sword features shells, spikes, and a coating of chaos fire. Power affected by wielder's humanity.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5ab4bb81-7a42-549e-9bdc-f21e5bd658ad",
+    "title": "Quelaag's Furysword",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Quelaag's Furysword -  Dark Souls - weapon - characteristics \n characteristics : Quelaag's Furysword is a fast, light weapon, capable of quickly racking up damage in exchange for low staggering power. Quelaag's Furysword deals mostly fire damage, but still deals physical damage. It is the longest curved sword by a wide margin, but is thwarted by enemies or other players with high fire defense, whether innately or from buffs.\n\nQuelaag's Furysword's damage output scales with Humanity, with the scaling increasing up to 10 held humanity. This is a hard requirement for a lot of players to meet outside of PvP, making the weapon more powerful in the hands of veteran players.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "be5f8d04-964c-5b40-8e6b-81e75ec9ec1b",
+    "title": "Quelaag's Furysword",
+    "section": "scaling_percentages",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Quelaag's Furysword -  Dark Souls - weapon - scaling_percentages \n scaling_percentages : ***Strength - 8%**\n***Dexterity - 94%**\n* **Intelligence - 0%**\n***Faith - 0%**",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cd1908f1-7460-540d-a728-d2d4a7506bad",
+    "title": "Quelaag's Furysword",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Quelaag's Furysword -  Dark Souls - weapon - lead \n lead : **Quelaag's Furysword** is a curved sword in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f46fc88a-709b-52db-a2b4-6361f98095cc",
+    "title": "Quelaag's Furysword",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Quelaag's Furysword -  Dark Souls - weapon - availability \n availability : Quelaag's Furysword is created by modifying any Standard +10 curved sword or curved greatsword with the Soul of Quelaag. This can only be achieved at the Giant Blacksmith in Anor Londo.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "136d5cd8-5062-5af9-80a3-89d5778af042",
+    "title": "Ring of Favor",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Ring of Favor -  Dark Souls III - ring - trivia \n trivia : Unlike the Ring of Favor and Protection from *Dark Souls*, which would break if removed, there is no penalty when removing the ring this time.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "164e80da-32ad-5f24-9027-e41fc18b8e40",
+    "title": "Ring of Favor",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Ring of Favor -  Dark Souls III - ring - effect \n effect : ***Ring of Favor**: Increases maximum HP by 3%, Stamina by 9%, and maximum equip load by 5%.\n***Ring of Favor+1:** Increases maximum HP by 4.5%, Stamina by 10%, and maximum equip load by 6%.\n***Ring of Favor+2:** Increases maximum HP by 5%, Stamina by 11%, and maximum equip load by 7%.\n***Ring of Favor+3: **Increases maximum HP by 6%, Stamina by 12%, and maximum equip load by 8%.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5825822962364524,
+    "bm25_score": null
+  },
+  {
+    "document_id": "61f68e13-355f-5759-838a-02191f86d9c1",
+    "title": "Ring of Favor",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Ring of Favor -  Dark Souls III - ring - lead \n lead : The **Ring of Favor** is a ring in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "72d5f7bf-2833-5acc-8b21-437d3012386d",
+    "title": "Ring of Favor",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Ring of Favor -  Dark Souls III - ring - availability \n availability : ***Ring of Favor**\n**Found in Irithyll of the Boreal Valley. Dropped by one of the two Sulyvahn's Beasts lurking in the Water Reserve.\n***Ring of Favor+1** (NG+)\n**Found in Irithyll of the Boreal Valley, along the rafters above Pontiff Sulyvahn's boss room.\n***Ring of Favor+2** (NG++)\n**Found in the Cathedral of the Deep. On the rooftops leading to the rafters, the ring can be found in an alcove to the left, guarded by a Large Devout of the Deep.\n***Ring of Favor+3**\n**Found in The Dreg Heap. In the swamp past the Earthen Peak Ruins bonfire. Located up a large root straight ahead from where you enter the swamp.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fb18f06e-91e2-5ebe-b047-e99f6ace9cf7",
+    "title": "Ring of Favor",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Ring of Favor -  Dark Souls III - ring - description \n description : A ring symbolizing the favor of the Goddess Fina, whose \"fateful beauty\" is mentioned in legend.\n\nTrue to the fickle nature of Fina's favor, her ring increases max HP, stamina, and maximum equip load.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0529d9fe-9555-5db9-8679-e6e20552a683",
+    "title": "Rolling",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Rolling -  Dark Souls - mechanic - lead \n lead : **Rolling** is a gameplay element in *Dark Souls*.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6771800912746462,
+    "bm25_score": null
+  },
+  {
+    "document_id": "762b8f10-853e-5d9d-8bde-719cb40725a3",
+    "title": "Rolling",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Rolling -  Dark Souls - mechanic - general_information \n general_information : Contrary to popular belief, all roll types have 11 iframes except for the roll type associated with Dark Wood Grain Ring (also called Ninja Flip) which has 13 iframes. The main differences between roll types is the overall length of the animation coupled with Recovery Frames and Instability Frames. Instability Frames are the most critical aspect of rolling, as these are points in the animation where the player character will take 1.4x additional damage when hit. Dark Wood Grain Ring roll type is the only roll with no Instability Frames.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "83341188-030d-56cd-8713-0be060e892b5",
+    "title": "Rolling",
+    "section": "fast_roll_light_roll",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Rolling -  Dark Souls - mechanic - fast_roll_light_roll \n fast_roll_light_roll : Players have a Fast Roll if their equipment weight is 25% or less of their maximum equipment load. Within the fast rolling category, there are four categories: Fast rolls have far fewer instability frames than Mid and Fat rolls. Fast Roll is one of the most ideal types of roll if the player is opting to roll, second only to Ninja Flip. While at Fast Roll weight, player movement speed will be at its fastest possible while sprinting and walking.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7096753012339403,
+    "bm25_score": 42.59488608648449
+  },
+  {
+    "document_id": "8e1e5ad5-54a7-59c3-9035-b710c75548aa",
+    "title": "Rolling",
+    "section": "medium_roll_mid_roll",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Rolling -  Dark Souls - mechanic - medium_roll_mid_roll \n medium_roll_mid_roll : Players have Mid Roll if their equipment weight is 26% to 50% of their maximum equipment load. Just like the fast roll, there are several different categories that affect speed of recovery after the roll: Medium rolls have 14 instability frames in their animation meaning there are more frames where the player takes 1.4x additional damage than they have iframes. This means that if the player is at Mid Roll weight, they should lean into Poise and Defense mechanics rather than rolling. The 1.4x additional damage taken during Instability Frames is enough to partially or fully negate the defenses that player armor provides. While at Mid Roll weight player speed during actions like sprinting and walking will be reduced slightly.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7354744475211386,
+    "bm25_score": 40.339978391624555
+  },
+  {
+    "document_id": "98a8c88f-672f-518e-a9e2-9322f9e8193d",
+    "title": "Rolling",
+    "section": "dark_wood_grain_ring_roll_ninja_flip",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Rolling -  Dark Souls - mechanic - dark_wood_grain_ring_roll_ninja_flip \n dark_wood_grain_ring_roll_ninja_flip : To utilize the effect of Dark Wood Grain Ring the player character must be at or less than 25% of their current equipment load. This roll type removes all Instability Frames in the animation and grants 2 additional iFrames to this roll type making the total iFrames 13. This is the most ideal roll type if the player is choosing to roll.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6373801086599388,
+    "bm25_score": 31.594621277957433
+  },
+  {
+    "document_id": "a49dcce1-77c0-5952-8ee8-16c011de3f19",
+    "title": "Rolling",
+    "section": "slow_roll_fat_roll",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Rolling -  Dark Souls - mechanic - slow_roll_fat_roll \n slow_roll_fat_roll : Players have a Fat Roll if their equipment weight is 51% to 100% of their equipment load. Fat rolls have vastly more instability frames in their animation than iframes. This means that if the player is at Fat Roll weight, they should lean into Poise and Defense mechanics rather than rolling. The 1.4x additional damage taken during Instability Frames is enough to partially or fully negate the defenses that player armor provides. While at Fat Roll weight, player movement speed will be greatly reduced while sprinting and walking. **It is best to never be within Fat Roll weight range.**\n\nShould 100% equipment load be exceeded, the player cannot roll and staggers if attempting to do so. Over encumbered players will not be able to sprint, they can only walk in a style that as been affectionally dubbed as \"poop walking\" by the community.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7735944705548394,
+    "bm25_score": 37.705600029541
+  },
+  {
+    "document_id": "e3d5a800-5216-528d-a3e3-96ac2a32864d",
+    "title": "Rolling",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Rolling -  Dark Souls - mechanic - trivia \n trivia : While special attacks, such as running and jumping attacks, deal increased damage, unique attacks initiated from a roll can deal *less* damage than the standard weak attack, but with many weapons such as straight swords, the attack will be unleashed incredibly fast.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6122626676028099,
+    "bm25_score": null
+  },
+  {
+    "document_id": "78132a48-46b9-5282-8e2a-82b59813463b",
+    "title": "Scythe of Want",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Scythe of Want -  Dark Souls II - weapon - characteristics \n characteristics : The Scythe of Want is an interesting weapon, boasting a unique moveset, impressive attribute scaling and high base damage, but yet it can not be augmented or enchanted in any way possible and is quite hefty in size and weight.\n\nDue to this, the Scythe of Nahr Alma can actually outperform this weapon significantly, not only by being able to be enchanted, but also by having virtually half the weight of this scythe.\n\nHowever, the Scythe of Want has an unusually-high critical modifier, making it a formidable threat when used for backstabs, guard break/ripostes or parry/ripostes.\n\nIt should also be noted that its two-handed strong attack is a viciously quick and powerful attack, especially because it deals its most damage to players who get close to its wielders, which in essence turn this into the most versatile weapon within the Reaper class.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "90b0046a-01af-5e11-bec9-c60d28aab393",
+    "title": "Scythe of Want",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Scythe of Want -  Dark Souls II - weapon - notes \n notes : The Scythe of Want cannot be infused or buffed with either Resins or spells.\nThe two-handed strong attack ( / ) consumes a considerable amount of stamina; as such, it should be used sparingly.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9e0e09b7-6345-55d7-b1f2-f839f8303f82",
+    "title": "Scythe of Want",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Scythe of Want -  Dark Souls II - weapon - availability \n availability : Obtained by trading the Soul of Nashandra and 10,000 souls with Weaponsmith Ornifex.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a12ef5de-d0e0-5105-8b91-3fca17f40612",
+    "title": "Scythe of Want",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Scythe of Want -  Dark Souls II - weapon - lead \n lead : The **Scythe of Want** is a reaper in *Dark Souls II*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c841b91b-5298-5a90-9816-d1861feb7db0",
+    "title": "Scythe of Want",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Scythe of Want -  Dark Souls II - weapon - description \n description : A scythe born from the soul of Nashandra.\n\nThe old one of the Abyss was reborn in death, split into miniscule fragments, and spread across the land. The pieces began to coalesce once again, becoming human in shape.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0eec4585-fcbb-54ce-b53e-2d41417e0cce",
+    "title": "Sulyvahn's Beast",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Sulyvahn's Beast -  Dark Souls III - enemy - trivia \n trivia : These beasts bear close resemblance to the Beast of Darkness from the *Berserk* franchise, having distorted eyes, the same shaped mouth, and almost identical body structures.\nThey are also similar to the Hounds of Tindalos, Lovecraftian beasts featured in [https://lovecraft.fandom.com/wiki/The_Hounds_of_Tindalos a short story] by Frank Belknap Long. These Hounds are said to hunt down ambitious time-travellers, and materialize out of mist, similar to Sulyvahn's Beasts as well as Vordt and the Dancer of the Boreal Valley. In addition, the Hounds of Tindalos are associated with a blue, ichorous substance; a visually comparable dark-blue \"pus\" also drips onto the floor as the Dancer is summoned into her arena.\nIn the *Dark Souls: The Willow King* comic, the Mastroth Demon bears a very strong resemblance to Sulyvahn's Beasts.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1522e5ec-6b51-575a-9ce1-6f2677b19f3e",
+    "title": "Sulyvahn's Beast",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Sulyvahn's Beasts are highly susceptible to Bleed, and as such, using a Carthus Rouge and/or weapons such as the Uchigatana or Carthus Curved Sword are recommended.\n\nIf one has the Slumbering Dragoncrest Ring and/or the Spook spell, plus the Hidden Body sorcery, the two Sulyvahn's Beasts in the Water Reserve can be dealt with by using the Poison Spores skill from the Storyteller's Staff from an applicable distance to slowly whittle their health down, one by one. Simply approach one while under the effects of Hidden Body and the ring/the Spook spell, and use the skill, then back away to the far wall before the spell(s) wear off.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3807650d-8e74-5970-8766-ad0e988ed980",
+    "title": "Sulyvahn's Beast",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Sulyvahn's Beast -  Dark Souls III - enemy - description \n description : Sulyvahn's Beasts are large, ferocious monsters that guard key areas around the city of Irithyll. One of them ambushes the player on the bridge leading into the city, whilst two more guard the Aldrich Faithful covenant. Their abdomen appears to be ripped open, exposing their ribcage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4fd3ea82-ff92-5336-b38d-44de2fef3499",
+    "title": "Sulyvahn's Beast",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Sulyvahn's Beast -  Dark Souls III - enemy - lore \n lore : These beings represent the final results of the Left Eye Ring and the Right Eye Ring enchanted by Pontiff Sulyvahn, having fully transformed the Outrider Knights that protect Irithyll into almost completely mindless, guardian beasts.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5f1e3129-e81c-5318-82ac-0e5c59779650",
+    "title": "Sulyvahn's Beast",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Sulyvahn's Beasts can be staggered. If their head is struck with enough damage, it will cause them to rear back and expose their chest for a critical attack. If this attack fails to kill them, it will knock them down onto their back, causing them to flail about for a period of time before being rendered helpless to be finished off. However, if a single attack does not kill them while they are in this state, they will get back up and resume the fight, though they can still be killed before their recovery animation completes.\n\nDuring its lightning attack, it is advised to hug their chest or their sides. The attack is telegraphed and is rather easy to avoid as it affects a limited area and does not track the target, giving the player time to heal or attack without retaliation.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6aefd887-d488-5d4f-9b4f-7f31d4c84b10",
+    "title": "Sulyvahn's Beast",
+    "section": "locations",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Sulyvahn's Beast -  Dark Souls III - enemy - locations \n locations : Encountered only in Irithyll of the Boreal Valley.\nOne will spawn behind the player as they cross the bridge that leads to Central Irithyll.\nTwo can be found in the area beyond an illusory wall which leads to the Aldrich Faithful covenant. Defeating them gives access to the Water Reserve bonfire.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "78696726-7321-59a5-83d3-261ac86e7b0f",
+    "title": "Sulyvahn's Beast",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "In the *Dark Souls: The Willow King* comic, the Mastroth Demon bears a very strong resemblance to Sulyvahn's Beasts.\nIf the player manages to stagger them, and riposte without killing them, they will rear back onto the ground and flail their arms and legs recklessly for a moment, then fold their hands as if in prayer.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7b669dcb-1820-57ba-bba6-60c2453fe66f",
+    "title": "Sulyvahn's Beast",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Sulyvahn's Beast -  Dark Souls III - enemy - notes \n notes : They appear to still be conscious to some human degree, as they fold their hands in prayer if left unharmed on their backs during a riposte. In this state, if not provoked, they will not engage player.\nIf the player manages to drop from a level above and land on the Sulyvahn's Beast's head (not necessarily performing a plunging attack), it will stagger and become open for a critical attack.\nIf the player follows Sirris’ questline and defeats Creighton the Wanderer on the bridge, if unkilled, the beast will only spawn below the bridge and will never spawn on top until the next playthrough.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a8533c44-1e67-56d3-bee1-32125d0aff2f",
+    "title": "Sulyvahn's Beast",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Sulyvahn's Beast -  Dark Souls III - enemy - lead \n lead : **Sulyvahn's Beasts** are Mini-Bosses in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ab5a0abd-0a4f-543a-a48d-59b2e63512ea",
+    "title": "Sulyvahn's Beast",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Sulyvahn's Beast -  Dark Souls III - enemy - strategy \n strategy : These beasts are very aggressive opponents and can easily kill the player if they are unable to escape their vicious assault. It is recommended to evade their attacks rather than block them, as they can deplete stamina very quickly and will often interrupt attempts to heal. Attacking them from the sides can prove effective as long as the player keeps away from their heads, as their bite has a long reach.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e5d93abf-e9cf-5dea-836c-c64880d9b531",
+    "title": "Sulyvahn's Beast",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "The first beast will suddenly appear behind the player when they start crossing the bridge and will vanish if they retreat under the arch; however, it will not regain any health and it is possible to kill it from a distance with ranged weapons. It is possible that the beast on the bridge, if not slain, will fall down to the swamp area below and attack the player when they go through it.\n\nThe two in the Water Reserve should be lured away from each other, as fighting both at once is very risky. It is advisable to try and lure the one in the far right corner first as luring the one to the left may cause both to attack. As an invader, the player could try to lure unsuspecting hosts to this area in hopes they get attacked by them.\n\nSulyvahn's Beasts are highly susceptible to Bleed, and as such, using a Carthus Rouge and/or weapons such as the Uchigatana or Carthus Curved Sword are recommended.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fc4889f1-25ce-5fea-8f83-2179afb68a48",
+    "title": "Ultra Greatswords (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Ultra Greatswords (Dark Souls III) -  Dark Souls III - weapon - lead \n lead : **Ultra Greatswords** are a weapon type in *Dark Souls III*.\n\nAmong the largest weapons available, ultra greatswords are very slow but inflict tremendous damage with each swing, and their great length allows them to strike targets from farther away. Their immense weight and bulk allow them to take advantage of Hyper Armor, meaning that Poise becomes a strong advantage when wielding one of these weapons. However, their cumbersome weight and voracious stamina consumption means that heavy investments in Endurance and Vitality are mandatory, and their slow swing speed and long recovery leave the wielder vulnerable in situations where faster weapons would not.\n\nWhen wielded in both hands, attacks from ultra greatswords cannot be parried, with the exception of running and rolling attacks.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0c5922e6-9839-50ad-b426-1e7b05fd2770",
+    "title": "Armor (Dark Souls)",
+    "section": "upgrading",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Armor (Dark Souls) -  Dark Souls - armor - upgrading \n upgrading : Like weapons, most but not all armor pieces can be upgraded. Armor can be upgraded to +10 or to +5 for those that require Twinkling Titanite. Armor cannot be upgraded down other upgrade paths. Upgraded armor yields higher defensive values and elemental resistance, but never alters Poise.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0fab4a48-3b45-505e-a669-658e9ef575b2",
+    "title": "Armor (Dark Souls)",
+    "section": "armor",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Helm of the Wise\nBalder Helm\nBlack Knight Helm\nBrass Helm\nCatarina Helm\nSix-Eyed Helm\nCleric Helm\nCrystalline Helm\nDark Mask\nEastern Helm\nElite Knight Helm\nHelm of Favor\nGough's Helm\nIron Helm\nOrnstein's Helm\nPaladin Helm\nHelm of Artorias\nSilver Knight Helm\nSteel Helm\nHelm of Thorns\n valign=\"top\" style=\"width: 25%;\"\n\nArmor of the Glorious\nBalder Armor\nBlack Knight Armor\nBrass Armor\nCatarina Armor\nRobe of the Channelers\nCleric Armor\nCrystalline Armor\nDark Armor\nEastern Armor\nElite Knight Armor\nEmbraced Armor of Favor\nGough's Armor\nArmor of the Sun\nOrnstein's Armor\nPaladin Armor\nArmor of Artorias\nSilver Knight Armor\nSteel Armor\nArmor of Thorns\n valign=\"top\" style=\"width: 26%;\"",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "120b1e2f-7468-5bed-a493-22ff04b52dcb",
+    "title": "Armor (Dark Souls)",
+    "section": "armor_categories",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Armor (Dark Souls) -  Dark Souls - armor - armor_categories \n armor_categories : Armor sets are divided into three categories based on their total weight:\nLight Armor Sets (0 - 19.9)\nMedium Armor Sets (20 - 39.9)\nHeavy Armor Sets (40+)\n\nEach armor set is divided into four pieces based on the body part protected:\nHead Armor\nChest Armor\nHands Armor\nLegs Armor\nMost armor sets are complete, but there are some unique pieces of armor that are not part of a set, and other sets that do not have all four pieces.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1bb2f0ad-b901-53a2-83aa-01617e2d1563",
+    "title": "Armor (Dark Souls)",
+    "section": "armor",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Gauntlets of the Vanquisher\nBalder Gauntlets\nBlack Knight Gauntlets\nBrass Gauntlets\nCatarina Gauntlets\nGauntlets of the Channelers\nCleric Gauntlets\nCrystalline Gauntlets\nDark Gauntlets\nEastern Gauntlets\nElite Knight Gauntlets\nGauntlets of Favor\nGough's Gauntlets\nIron Bracelet\nOrnstein's Gauntlets\nPaladin Gauntlets\nGauntlets of Artorias\nSilver Knight Gauntlets\nSteel Gauntlets\nGauntlets of Thorns\n valign=\"top\" style=\"width: 26%;\"\n\nBoots of the Explorer\nBalder Leggings\nBlack Knight Leggings\nBrass Leggings\nCatarina Leggings\nWaistcloth of the Channelers\nCleric Leggings\nCrystalline Leggings\nDark Leggings\nEastern Leggings\nElite Knight Leggings\nLeggings of Favor\nGough's Leggings\nIron Leggings\nOrnstein's Leggings\nPaladin Leggings\nLeggings of Artorias\nSilver Knight Leggings\nSteel Leggings\nLeggings of Thorns\n }\n style=\"width:100%; font-size: 88%;\"\n valign=\"top\" style=\"width: 25%;\"",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "286f3fe7-30a1-5796-9ef7-162082d2915f",
+    "title": "Armor (Dark Souls)",
+    "section": "armor",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Armor (Dark Souls) -  Dark Souls - armor - armor \n armor : Brigand Set\nHoly Set\nLeather Set\nKnight Set\nTattered Cloth Set\nSorcerer Set\nBlack Leather Set\nWanderer Set\nHard Leather Set\n valign=\"top\"\n\nAntiquated Set\nBig Hat's Set\nBlack Set\nBlack Sorcerer Set\nChain Set\nChester's Set\nCrimson Set\nDingy Set\nGold-Hemmed Black Set\nGreat Lord Set\nHollow Soldier Set\nHollow Thief's Set\nHollow Warrior Set\nLord's Blade Ciaran's Set\nMaiden Set\nMoonlight Set\nPainting Guardian Set\nShadow Set\nWitch Set\nXanthous Set\n valign=\"top\"\n\nAdventurer's Set\nArtorias Set\nBalder Set\nBlack Knight Set\nBrass Set\nCatarina Set\nChanneler's Set\nCleric Set\nCrystalline Set\nDark Set\nEastern Set\nElite Knight Set\nFavor Set\nGough's Set\nIron Set\nOrnstein's Set\nPaladin Set\nSilver Knight Set\nSteel Set\nSet of Thorns\n valign=\"top\"\n\nBlack Iron Set\nGiant Set\nGolem Set\nGuardian Set\nHavel's Set\nSmough's Set\nStone Set\n\nElite Cleric Set\nMage Smith Set\n }\n -\nPieces=\n style=\"width:100%;\"\n valign=\"top\" style=\"width: 25%;\"",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2cf0115d-a032-5113-b795-2917dc4b7ece",
+    "title": "Armor (Dark Souls)",
+    "section": "armor",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Antiquated Gloves\nTraveling Gloves\nBlack Manchette\nBlack Sorcerer Gauntlets\nLeather Gauntlets\nChester's Gloves\nCrimson Gloves\nDingy Gloves\nGold-Hemmed Black Gloves\nBracelet of the Great Lord\nLord's Blade Gloves\nMaiden Gloves\nMoonlight Gloves\nPainting Guardian Gloves\nShadow Gauntlets\nWitch Gloves\nXanthous Gloves\n valign=\"top\" style=\"width: 25%;\"\n\nAntiquated Skirt\nTraveling Boots\nBlack Tights\nBlack Sorcerer Boots\nChain Leggings\nChester's Trousers\nCrimson Waistcloth\nBlood-Stained Skirt\nGold-Hemmed Black Skirt\nAnklet of the Great Lord\nHollow Soldier Waistcloth\nHollow Thief's Tights\nHollow Warrior Waistcloth\nLord's Blade Waistcloth\nMaiden Skirt\nMoonlight Waistcloth\nPainting Guard Waistcloth\nShadow Leggings\nWitch Skirt\nXanthous Waistcloth\n }\n style=\"width:100%; font-size: 88%;\"\n valign=\"top\" style=\"width: 23%;\"",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4b1c6531-2d7e-5b06-9567-b3a521356581",
+    "title": "Armor (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Armor (Dark Souls) -  Dark Souls - armor - lead \n lead : **Armor** is a type of equipment in *Dark Souls* that provides protection against both physical (regular, strike, slash, thrust) and elemental (magic, fire, lightning) damage. Armor also increases resistance against negative status effects and it can increase the player's poise (stagger resistance).\n\nEvery armor item has a weight. While equipped, the item's weight is added to the player's effective equipment load, which can slow the player's movement speed and stamina recovery.",
+    "sources": [
+      "template",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 37.589611560320165
+  },
+  {
+    "document_id": "969403a6-2d0d-583c-b281-c45734cd3d0f",
+    "title": "Armor (Dark Souls)",
+    "section": "armor",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Black Iron Set\nGiant Set\nGolem Set\nGuardian Set\nHavel's Set\nSmough's Set\nStone Set\n\nElite Cleric Set\nMage Smith Set\n }\n -\nPieces=\n style=\"width:100%;\"\n valign=\"top\" style=\"width: 25%;\"\n\n valign=\"top\" style=\"width: 25%;\"\n\n valign=\"top\" style=\"width: 25%;\"\n\n valign=\"top\" style=\"width: 25%;\"\n\n }\n style=\"width:100%; font-size: 88%;\"\n valign=\"top\" style=\"width: 25%;\"\n\nBrigand Hood\nPriest's Hat\nPharis's Hat\nKnight Helm\nTattered Cloth Hood\nSorcerer Hat\nThief Mask\nWanderer Hood\nStandard Helm\n valign=\"top\" style=\"width: 25%;\"\n\nBrigand Armor\nHoly Robe\nLeather Armor\nKnight Armor\nTattered Cloth Robe\nSorcerer Cloak\nBlack Leather Armor\nWanderer Coat\nHard Leather Armor\n valign=\"top\" style=\"width: 25%;\"\n\nBrigand Gauntlets\nTraveling Gloves\nLeather Gloves\nKnight Gauntlets\nTattered Cloth Manchette\nSorcerer Gauntlets\nBlack Leather Gloves\nWanderer Manchette\nHard Leather Gauntlets\n valign=\"top\" style=\"width: 25%;\"",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b0248689-f89b-5678-b175-85a3048ed14a",
+    "title": "Armor (Dark Souls)",
+    "section": "armor",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Brigand Trousers\nHoly Trousers\nLeather Boots\nKnight Leggings\nHeavy Boots\nSorcerer Boots\nBlack Leather Boots\nWanderer Boots\nHard Leather Boots\n }\n style=\"width:100%; font-size: 88%;\"\n valign=\"top\" style=\"width: 25%;\"\n\nCrown of Dusk\nBig Hat\nMask of Velka\nBlack Sorcerer Hat\nChain Helm\nSnickering Top Hat\nMask of the Sealer\nDingy Hood\nGold-Hemmed Black Hood\nCrown of the Great Lord\nHollow Soldier Helm\nHollow Thief's Hood\nHollow Warrior Helm\nPorcelain Mask\nMaiden Hood\nCrown of the Dark Sun\nPainting Guardian Hood\nShadow Mask\nWitch Hat\nXanthous Crown\n valign=\"top\" style=\"width: 25%;\"\n\nAntiquated Dress\nSage Robe\nBlack Cleric Robe\nBlack Sorcerer Cloak\nChain Armor\nChester's Long Coat\nCrimson Robe\nDingy Robe\nGold-Hemmed Black Cloak\nRobe of the Great Lord\nHollow Soldier Armor\nHollow Thief's Armor\nHollow Warrior Armor\nLord's Blade Robe\nMaiden Robe\nMoonlight Robe\nPainting Guardian Robe\nShadow Garb\nWitch Cloak\nXanthous Overcoat\n valign=\"top\" style=\"width: 25%;\"",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cea77d5d-c99f-51ab-80f4-c6227a4045a8",
+    "title": "Armor (Dark Souls)",
+    "section": "armor",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Black Iron Helm\nGiant Helm\nGolem Helm\nGuardian Helm\nHavel's Helm\nSmough's Helm\nStone Helm\n valign=\"top\" style=\"width: 25%;\"\n\nBlack Iron Armor\nGiant Armor\nGolem Armor\nGuardian Armor\nHavel's Armor\nSmough's Armor\nStone Armor\n valign=\"top\" style=\"width: 25%;\"\n\nBlack Iron Gauntlets\nGiant Gauntlets\nGolem Gauntlets\nGuardian Gauntlets\nHavel's Gauntlets\nSmough's Gauntlets\nStone Gauntlets\n valign=\"top\" style=\"width: 25%;\"\n\nBlack Iron Leggings\nGiant Leggings\nGolem Leggings\nGuardian Leggings\nHavel's Leggings\nSmough's Leggings\nStone Leggings\n }\n style=\"width:100%; font-size: 88%;\"\n valign=\"top\"\n\nBloated Head\nBloated Sorcerer Head\nFang Boar Helm\nGargoyle Helm\nMask of the Child\nMask of the Father\nMask of the Mother\nRoyal Helm\nSack\nSunlight Maggot\nSymbol of Avarice\n }\n}}\n|-|\nComparisons=",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0ecb0d0b-2929-5582-94ca-a81e13e4ff35",
+    "title": "Bandit (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bandit (Dark Souls II) -  Dark Souls II - mechanic - lead \n lead : The **Bandit** is one of the classes in *Dark Souls 2*.\n\nIt has high Dexterity and well above average Faith, meaning it lends itself rather well towards builds focused either on both or only the former (though it will have strong competition from the Swordsman when it comes to pure Dexterity builds). It is rather unsuitable to spells, even the Miracle ones, due to its extremely low Attunement and Intelligence.\n\nBandits are actually unable to speak to Straid of Olaphis by default, the only class that can't do that, due to its extremely low Intelligence not meeting his minimum required amount of 3.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6d305dab-09d1-587a-9f5f-12d6c40a1c3f",
+    "title": "Bandit (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "There is a curious disadvantage to its high Vitality, higher than any other starting class: when using the Third Dragon Ring, it cannot receive the full benefit of the Flynn's Ring and will get a light decrease of 4 Attack Rating compared to any other class.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7c34d451-bbc4-5251-b259-99ded4514e74",
+    "title": "Bandit (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Until an unlimited source of arrows is acquired, they are best either saved for trying to pull individual enemies from groups or ambushes, or for trying to kill one of the early Ogres (either the one outside the Firekeeper's Hut in Things Betwixt at the start of the tutorial that also holds the Stone Ring, or the Scholar of the First Sin-exclusive one on the way towards the Forest of Fallen Giants) for a large amount of extra Souls.\n\nThe class's Bandit Set is actually fairly good, as it has somewhat high physical defences and is, together with the Knight's partial Falconer Set, the only starting set with decent starting Poise.\n\nDue to its very low Adaptability and Attunement it has a substandard roll (only 7 i-frames, compared to most other classes having 8 or 9 i-frames) and needs 3 points in Adaptability or 9 points in Attunement to improve this to 8 i-frames.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "966e11a6-d84a-58be-8a47-efdf2a6c1c04",
+    "title": "Bandit (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bandits are actually unable to speak to Straid of Olaphis by default, the only class that can't do that, due to its extremely low Intelligence not meeting his minimum required amount of 3.\n\nThe starting weapons are somewhat mixed, with the Short Bow following the higher starting value in Dexterity while the Hand Axe instead focuses on Strength. The Hand Axe is most likely better replaced with an actually Dexterity-focused weapon, though those are in limited supply until Blacksmith Lenigrast's shop is opened, mostly the Dagger in Things Betwixt and the Halberd in the Forest of Fallen Giants. Beyond extra weapons such as the Spear and the Rapier, Lenigrast also holds the game's first infinite supply of ammunition (merely more Wood Arrows, but still) and another Short Bow.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8dc27d22-9c69-5e26-b793-c1e5f549a791",
+    "title": "Equipment Load (Dark Souls)",
+    "section": "effect",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Equipment Load (Dark Souls) -  Dark Souls - mechanic - effect \n effect : The player character's equipment load ratio affects most types of movement, including walking, running, sprinting, rolling, and backstepping. The movement animation speed will be slowed when exceeding equipment load ratio breakpoints at 25%, 50%, and 100%. Additionally, the game applies a stamina recovery penalty when exceeding the 50% and 100% breakpoints.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7430055718323026,
+    "bm25_score": 48.5758783774205
+  },
+  {
+    "document_id": "98b5f4cb-cbec-55eb-91ab-df25efbe3c71",
+    "title": "Endurance (Dark Souls)",
+    "section": "equipment_load",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "When at 25% of equip load or below the player sprint and walk speed will be fast, rolls will be categorized as Fast Rolls.\nWhen at 26% - 50% of equip load player Sprint and walk speed will be reduced to medium, rolls will be categorized as Medium Rolls.\nWhen at 51% - 100% of equip load player sprint and walk speed will be reduced to slow, rolls will be categorized as Slow or Fat Rolls. Stamina regen will be reduced by 20%\nWhen above 100% of equip load player will become unable to sprint and will instead \"poop walk\", player will be unable to roll. Stamina regeneration will be reduced by 30%\n\nIt is generally advised to keep equipment load at or below 25% in order to stay nimble. For more information roll types visit the Rolling page.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7007548746892858,
+    "bm25_score": 32.97309132359281
+  },
+  {
+    "document_id": "1d7ce9f4-cf7a-5f8d-bdea-95946ca6bc93",
+    "title": "Moveset (Dark Souls III)",
+    "section": "overview_and_nomenclature",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Moveset (Dark Souls III) -  Dark Souls III - mechanic - overview_and_nomenclature \n overview_and_nomenclature : Movesets in *Dark Souls III* are slightly different than those of previous games, but follow the same principles of context-sensitive light and heavy attacks.\n\n**Standing**\n\nMeans in a neutral stance or a state of walking or jogging; essentially, any motion that does not utilize the / button. This stance is implied when one does not specify context.\n\n**Rolling**\n\nImplies that the move is executed directly after performing a dodge roll, executed by pressing / while moving the left stick significantly.\n\n**Backstepping**\n\nRefers to the state of recovery shortly after performing a backstep, executed by pressing / while neutral on the left stick.\n\n**Running**\n\nA state of dashing or sprinting, done by holding / while moving the left stick significantly.\n\n**Thrusting**",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6740065955331062,
+    "bm25_score": 32.45136558650409
+  },
+  {
+    "document_id": "edb6a778-cb07-5100-8a65-81d2adcbfc9c",
+    "title": "Equipment Load (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Equipment Load (Dark Souls) -  Dark Souls - mechanic - lead \n lead : **Equipment load**, commonly abbreviated as **equip load**, is a character stat in *Dark Souls*. The player character has a maximum equipment load and an effective equipment load. The maximum can be increased while leveling up by raising the endurance stat. The effective equipment load equals the total weight of all equipped weapons (including shields, catalysts, and talismans) and armor. While the ratio of effective equipment load to maximum equipment load exceeds certain breakpoints, the game applies penalties to the character's movement speed and stamina recovery.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6735921316144557,
+    "bm25_score": 44.592997631736765
+  },
+  {
+    "document_id": "68df6d9b-ccf3-5044-a665-8f043e5e7fed",
+    "title": "Vitality (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Vitality (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : **Vitality** is a stat in *Dark Souls III* that governs the player character's equip load.\n\nThere are four weight class break-points for equip load. **Under 30%**, **30% to 70%**, **70% to 100%**, and **Over 100%**.\n\n**Under 30%** Allows the player character to fast roll a slightly longer distance than the below categories, but possesses no Poise health to prevent staggering if caught during recovery. Regular movement speed is slightly increased, though this does not affect sprinting speed.\n\n**30% to 70%** Allows the player to fast roll but slightly less distance than **Under 30%**, but makes up for this by granting the player 15 Poise health so that they have a chance to continue their roll if hit by small weapons during recovery. Normal movement speed is not affected in this category.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.662973979481366,
+    "bm25_score": 42.62497381227942
+  },
+  {
+    "document_id": "54955960-a017-54a7-bbfd-96fbc8b5a180",
+    "title": "Endurance (Dark Souls)",
+    "section": "equipment_load",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Endurance (Dark Souls) -  Dark Souls - mechanic - equipment_load \n equipment_load : Equipment load determines how much equipment the player can equip before being affected by movement penalties. The softcap for endurance is 40 in terms of carry weight. The Mask of the Father, Havel's Ring, and Ring of Favor and Protection also improve equipment load. Though Mask of the Father is so heavy it usually cancels out its own effect.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.641371468433241,
+    "bm25_score": 40.03783960115225
+  },
+  {
+    "document_id": "55bcf0b6-9b96-5bfb-90c8-3d17de79586e",
+    "title": "Stats (Dark Souls III)",
+    "section": "file_dark_souls_iii_vitality_icon_png_vitality_dark_souls_iii_vitality",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Stats (Dark Souls III) -  Dark Souls III - mechanic - file_dark_souls_iii_vitality_icon_png_vitality_dark_souls_iii_vitality \n file_dark_souls_iii_vitality_icon_png_vitality_dark_souls_iii_vitality : Determines equipment load, allowing players to employ heavier gear without suffering potential mobility and stamina recovery penalties",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.622271116865116,
+    "bm25_score": 30.319283163925945
+  },
+  {
+    "document_id": "956e2532-d342-5d67-a805-1d2a30f0cdcd",
+    "title": "Stats (Dark Souls III)",
+    "section": "file_dark_souls_iii_dexterity_icon_png_dexterity_dark_souls_iii_dexterity",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Stats (Dark Souls III) -  Dark Souls III - mechanic - file_dark_souls_iii_dexterity_icon_png_dexterity_dark_souls_iii_dexterity \n file_dark_souls_iii_dexterity_icon_png_dexterity_dark_souls_iii_dexterity : Required to wield some weapons, boosts spellcasting speed, and improves weapon damage, particularly for fast, finesse-based weapons",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6221018604657705,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f62482ab-c384-5654-a37c-51d4fa3ec1c0",
+    "title": "Dark (Dark Souls III)",
+    "section": "stats",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls III) -  Dark Souls III - mechanic - stats \n stats : While leveling up any stat early on will grant Dark defense to some extent, Faith will increase it most efficiently.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6202818903940397,
+    "bm25_score": null
+  },
+  {
+    "document_id": "70c68487-6248-5311-8da9-113cd38a60f8",
+    "title": "Stats (Dark Souls III)",
+    "section": "file_dark_souls_iii_endurance_icon_png_endurance_dark_souls_iii_endurance",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Stats (Dark Souls III) -  Dark Souls III - mechanic - file_dark_souls_iii_endurance_icon_png_endurance_dark_souls_iii_endurance \n file_dark_souls_iii_endurance_icon_png_endurance_dark_souls_iii_endurance : Deternines player maximum stamina",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6181250267091344,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d65b802c-3470-5b2b-becc-b3ddd055db67",
+    "title": "Stats (Dark Souls II)",
+    "section": "performance",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Stats (Dark Souls II) -  Dark Souls II - mechanic - performance \n performance : ; HP\nYou die if this reaches zero.*\nImproves with vigor, and with the other attributes to a small degree.\n\n; Stamina\nRequired to carry out actions.*\nActions deplete stamina, which automatically recovers.*\nImproves with endurance.\n\n; Equipment load\nMaximum weight that can be equipped.*\nMovement slows as your equipped load approaches maximum.*\nImproves with vitality.\n\n; Spell attunement slots\nEach slot allows the attunement of one spell.*\nCan be increased by raising attunement.*\n\n; Spellcasting speed\nSpeed at which spells can be cast.*\nCan be shortened by raising attunement.*\n\n; Physical ATK: Strength\nThe power to inflict damage with physical attacks.*\nImproves with strength.*\n\n; Physical ATK: Dexterity\nThe power to inflict damage with physical attacks.*\nImproves with dexterity.*\n\n; Magic ATK bonus\nBoosts the power of magic attacks.*\nImproves with intelligence.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6168144553102747,
+    "bm25_score": null
+  },
+  {
+    "document_id": "034a3ca6-4e1e-57a0-b2f5-eda9ca59663d",
+    "title": "Equip Load",
+    "section": "maximum_equip_load_and_equip_load_tiers",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Equip Load -  Dark Souls II - mechanic - maximum_equip_load_and_equip_load_tiers \n maximum_equip_load_and_equip_load_tiers : Maximum Equip Load is determined by the Vitality stat and determines how greatly the weight of the currently equipped weapon and armor affect movement and roll speed. It determines the distance Rolls and Backsteps the player does will travel as well as their stamina regeneration and fall damage.\n\nWhen the player's total Equip Load reaches 70%, the player's roll will become shorter, slower, and with higher ending lag.\n\nAt 100% Equip Load, the player may no longer roll, run or backstep.\n\nWhen 120% is reached, the player may only walk very slowly, as running is now impossible, and back-stepping or roll attempts will result in short stagger.\n\nAt 0%, the players regenerate 51.9 Stamina per second. Stamina Regeneration Chart:\n\nRoll and backstep distances are decreased in a linear fashion.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6165828731212382,
+    "bm25_score": 45.969440759116566
+  },
+  {
+    "document_id": "0c0b3c7d-072e-5a7b-822f-06b1323e59f3",
+    "title": "Equip Load",
+    "section": "overview",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Equip Load -  Dark Souls II - mechanic - overview \n overview : Equip load is the maximum weight that can be equipped. Roll and Backstep distance is reduced as the Equip Load percentage is increased.\n\nEquip Load applies to all types of worn items, such as weapons, armor and shields. The heavier an item is, the more it encumbers the player. Weapons with a higher weight value tend to have more base damage, and heavier armor pieces tend to have more physical defense and Poise.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6151888669784447,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2db3f8d6-6422-5aea-a4e3-d8ac8213ed25",
+    "title": "Stamina (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Stamina (Dark Souls) -  Dark Souls - mechanic - lead \n lead : **Stamina** is a character stat in *Dark Souls* that affects how long and frequently physical actions, such as attacking, blocking, and dashing, can be performed. Stamina acts as a resource that depletes whenever the player performs an action, and recovers automatically after a brief pause. The player's stamina is displayed as a green bar below the red health bar.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6089389561776641,
+    "bm25_score": 34.307824016164815
+  },
+  {
+    "document_id": "b80893f1-95a7-5810-866b-c355f37f42a0",
+    "title": "Fire (Dark Souls III)",
+    "section": "spells",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Fire (Dark Souls III) -  Dark Souls III - mechanic - spells \n spells : Flash Sweat",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6049083260456833,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bd4b0a5d-3086-5dc3-801a-270df627b2b9",
+    "title": "Stats (Dark Souls)",
+    "section": "derived_stats",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Stats (Dark Souls) -  Dark Souls - mechanic - derived_stats \n derived_stats : ; HP\nHit Points. Character dies when this reaches zero.*\nUpon death, the character loses all souls and Humanity, as well as reverting to a Hollow state.\n\n; Stamina\nRequired for various actions. Depleted by various actions, but self-regenerates.*\nDecreases when performing actions such as attacking, parrying, dodging, etc.\nRegenerates quickly with shield down, and slowly with shield held up.\nDecreases when running.\nWhen blocking an attack while low on stamina, the character's guard will be broken and may take some damage in addition to being stunned for a time. If guard is broken by a heavy attack, a critical hit will occur accompanied by heavy damage. If all stamina is used up, it will take a slightly longer period of time for it to begin recharging. A shields stability determines how long one can block continually while receiving blows.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6029905063573633,
+    "bm25_score": null
+  },
+  {
+    "document_id": "749a46a1-eced-5557-9081-4ee0e4ea47ee",
+    "title": "Stats (Dark Souls III)",
+    "section": "file_dark_souls_iii_strength_icon_png_strength_dark_souls_iii_strength",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Stats (Dark Souls III) -  Dark Souls III - mechanic - file_dark_souls_iii_strength_icon_png_strength_dark_souls_iii_strength \n file_dark_souls_iii_strength_icon_png_strength_dark_souls_iii_strength : Required to wield shields and weapons and improves weapon damage, particularly for heavy, powerful weapons",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6010447582509026,
+    "bm25_score": null
+  },
+  {
+    "document_id": "557817f6-1a14-51fc-a5ee-f3b81bf48665",
+    "title": "Adaptability",
+    "section": "invincibility_frames_iframes",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Compared to Dark Souls, 96 Agility will give you 11 i-frames which is the same as all roll types except for Dark Wood Gain Ring roll type which is 13 iframes.\n\nRolling with insufficient stamina will cause iFrames to be reduced on those rolls.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6010024809575052,
+    "bm25_score": null
+  },
+  {
+    "document_id": "188d7a9f-151d-50db-b815-05a398d126fd",
+    "title": "Magic (Dark Souls III)",
+    "section": "stats",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Magic (Dark Souls III) -  Dark Souls III - mechanic - stats \n stats : Leveling up will increase magic defense, with Intelligence increasing it the most.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6006984094735704,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d2925a26-23f8-537c-b14e-13678159e0e1",
+    "title": "Equipment Load (Dark Souls)",
+    "section": "modifiers",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Equipment Load (Dark Souls) -  Dark Souls - mechanic - modifiers \n modifiers : The primary modifier for the maximum equipment load is the stat endurance. The player character's maximum equip load equals 40 plus their endurance.\n\nThe following items can be used to further increase maximum equipment load:\n\nThe Mask of the Father increases the maximum equipment load by 5%.\nThe Ring of Favor and Protection increases the maximum equipment load by 20%.\nHavel's Ring increases the maximum equipment load by 50%.\n\nThe effects of the items stack multiplicatively. Equipping all three items raises the maximum equipment load by a total of 89%.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5985932311262653,
+    "bm25_score": 27.998619862996065
+  },
+  {
+    "document_id": "dd277e58-d021-5d4e-9874-c03f3ea32991",
+    "title": "Magic (Dark Souls III)",
+    "section": "ammunition",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Magic (Dark Souls III) -  Dark Souls III - mechanic - ammunition \n ammunition : Moonlight Arrows",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5982521222232859,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cae758af-be51-58a7-93a0-c477c6edaa17",
+    "title": "Thrust (Dark Souls III)",
+    "section": "increase_resistance",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Thrust (Dark Souls III) -  Dark Souls III - mechanic - increase_resistance \n increase_resistance : Equipment with resistance to Thrust\nSacred Oath\nBlue Tearstone Ring (when health below 20%)\nLloyd's Shield Ring (when full health)\nRing of Steel Protection\nDeep Protection",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5976674398816444,
+    "bm25_score": null
+  },
+  {
+    "document_id": "15459e63-7403-5f03-9b4e-b6239a01d0cc",
+    "title": "Dark Souls III",
+    "section": "gameplay",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Dark Souls III -  Dark Souls III - mechanic - gameplay \n gameplay : Similar to *Dark Souls II*, fast travel is available from the beginning of the game provided the player character places the Coiled Sword at Firelink Shrine.\n\nPlayers are able to reallocate stat points as well as reconfigure character creation at the Rosaria's Bed Chamber bonfire in the Cathedral of the Deep up to five times per playthrough.\n\nNew Game Plus makes a return. After the player has finished the game, they have a choice to begin a new game immediately or at a later time via the bonfire in Firelink Shrine. New Game Plus is optional. Players will retain all equipment, upgraded character attributes, and consumables with the exception of keys. The game's difficulty is increased each subsequent playthrough up to NG+7.\n\n**Weapon Degradation** is almost non-existent.\n\nThe **Summoning and Cooperative Play** system from the first two games remains for the third installment.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5954558808604047,
+    "bm25_score": null
+  },
+  {
+    "document_id": "624d5864-3e51-5435-aea7-99ab542bb964",
+    "title": "Stats (Dark Souls III)",
+    "section": "file_dark_souls_iii_luck_icon_png_luck",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Stats (Dark Souls III) -  Dark Souls III - mechanic - file_dark_souls_iii_luck_icon_png_luck \n file_dark_souls_iii_luck_icon_png_luck : Improves item discovery, bleed and poison output, and the damage of few weapons.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5951587037474628,
+    "bm25_score": null
+  },
+  {
+    "document_id": "46b63c25-3827-5ff6-8a78-c00f05039b6d",
+    "title": "Stats (Dark Souls III)",
+    "section": "file_dark_souls_iii_faith_icon_png_faith_dark_souls_iii_faith",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Stats (Dark Souls III) -  Dark Souls III - mechanic - file_dark_souls_iii_faith_icon_png_faith_dark_souls_iii_faith \n file_dark_souls_iii_faith_icon_png_faith_dark_souls_iii_faith : Boosts and is required for miracles, pyromancies, and few weapons",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5949675914278805,
+    "bm25_score": null
+  },
+  {
+    "document_id": "90480d0a-c4d7-59d6-a161-c27b1478e59a",
+    "title": "Dark (Dark Souls III)",
+    "section": "ammunition",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls III) -  Dark Souls III - mechanic - ammunition \n ammunition : Dark Arrows",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5942493822184138,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9e1fa0dd-3aa4-5fcf-9c99-2761f7285f19",
+    "title": "Soul (Dark Souls III)",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Soul (Dark Souls III) -  Dark Souls III - mechanic - notes \n notes : Can be used on ladders.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.592639767565562,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e4de76ee-2ef5-5fc4-8cd6-4441231f238c",
+    "title": "Parameter Bonus (Dark Souls III)",
+    "section": "elemental_damage",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus (Dark Souls III) -  Dark Souls III - mechanic - elemental_damage \n elemental_damage : Elemental damage scales off of one's Intelligence and Faith. The type of element will also affect which of the two stats is relevant, unless both are applied.\n\nElemental damage scales as follows:\nMagic is usually affected by Intelligence, but can also on some occasions be affected by Faith. However, they're rarely mixed.\nFire is generally boosted by a combination of Intelligence and Faith, scaling equally well with both stats.\nLightning is always affected by Faith.\nDark is, much like fire, affected by both Intelligence and Faith, and scales equally well with both.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5901456742174152,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3c06dfc3-453a-552c-b738-706b9d9c15dd",
+    "title": "Frost",
+    "section": "frostbite_buildup_removal",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Frost -  Dark Souls III - mechanic - frostbite_buildup_removal \n frostbite_buildup_removal : Caressing Tears\nDivine Blessing\nRime-blue Moss Clump",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5898174379647054,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9f6aae49-8345-5c9c-9db0-9a20e704afe2",
+    "title": "Strength (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Strength (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : **Strength** is a stat in *Dark Souls III* that increases the player's attack power with strength-based weapons.\n\nStrength increases damage done by weapons with a scaling mechanic. A letter denoting a weapons specific scaling properties is noted beneath the weapon's required strength stat. The letters range in order of effectiveness from **E**, **D**, **C**, **B**, **A**, and **S**.\n\nWeapons with an **E** rating for scaling will receive a poor benefit from investment in strength while weapons with an **S** rating receive the greatest benefit.\n\nAs is with every other stat in the game, it also has indirect bonuses such as increasing the player characters flat damage absorption.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5888489205795295,
+    "bm25_score": null
+  },
+  {
+    "document_id": "66edb55c-fbb0-597f-aa3f-888e77be7e0a",
+    "title": "Endurance (Dark Souls III)",
+    "section": "overview",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Endurance (Dark Souls III) -  Dark Souls III - mechanic - overview \n overview : Endurance governs the player's overall stamina, flat defense against lightning damage and resistance to bleed build-up. Leveling up Endurance will raise the player's stamina by 1 - 3 points up until 40, which is the softcap. At 40 points or greater, 5 or more levels will have to be invested into the stat to receive additional points in stamina.\n\nStamina is needed to perform various actions in the game, such as guarding, attacking, casting various spells, running, jumping, and dodging, to name a few. Once a player's stamina is exhausted, they will be unable to perform actions until it regenerates. Attempting to perform any actions after stamina is depleted will delay the rate at which it begins to regenerate.\n\nPlayers that guard against attacks will eventually have their guard broken once their stamina is depleted, resulting in them staggering back and being prone to a critical attack.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5856665748497802,
+    "bm25_score": null
+  },
+  {
+    "document_id": "60930b03-4068-5536-acda-2bc4136d25c4",
+    "title": "Vitality (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Vitality (Dark Souls) -  Dark Souls - mechanic - lead \n lead : **Vitality** is one of the eight base stats in *Dark Souls* that can be increased when leveling up. Investing in vitality increases the player's maximum health points (HP).\n\nContrary to the vitality stats in *Dark Souls II* and *Dark Souls III*, vitality in *Dark Souls* does not affect the player's maximum equipment load. In *Dark Souls*, equipment load is governed by endurance.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5822935911476386,
+    "bm25_score": 34.81356781399376
+  },
+  {
+    "document_id": "25d1a544-786f-5476-9d54-b4909d5a4265",
+    "title": "Moveset (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Moveset (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : **Movesets** are a weapon-based mechanic of *Dark Souls III*.\n\n__TOC__",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5816091954123165,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cacf6784-9946-5dd6-9597-483c1156d9a3",
+    "title": "Stats (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Stats (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : **Stats** (**statistics**) are a gameplay mechanic in *Dark Souls III*. They are numerical values that determine the physical and mental characteristics of each character.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5815935990411123,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a53b9002-8df6-549c-ab59-8a3e0c68d1af",
+    "title": "Lightning (Dark Souls III)",
+    "section": "equipment",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Lightning (Dark Souls III) -  Dark Souls III - mechanic - equipment \n equipment : {'name': 'Armor', 'description': '(to be completed)'}",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5804968389312767,
+    "bm25_score": null
+  },
+  {
+    "document_id": "01e8e92f-9aac-5284-a6e2-1d1a4552d2b6",
+    "title": "Classes (Dark Souls III)",
+    "section": "closed_network_test",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Classes (Dark Souls III) -  Dark Souls III - mechanic - closed_network_test \n closed_network_test : The below classes and starting equipment are from the Closed Network Test version of the game only.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.579390278310442,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a073466b-5142-5fab-8eb7-eaac569d6507",
+    "title": "Flynn's Ring (Dark Souls III)",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Flynn's Ring (Dark Souls III) -  Dark Souls III - ring - effect \n effect : Lowering the player's Equip Load increases attack power.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5781233398693215,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cbe12e53-2bb5-5e89-8dbf-7cc7fe3d9823",
+    "title": "Stats (Dark Souls III)",
+    "section": "file_dark_souls_iii_intelligence_icon_png_intelligence_dark_souls_iii_intelligence",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Stats (Dark Souls III) -  Dark Souls III - mechanic - file_dark_souls_iii_intelligence_icon_png_intelligence_dark_souls_iii_intelligence \n file_dark_souls_iii_intelligence_icon_png_intelligence_dark_souls_iii_intelligence : Boosts and is required for sorceries, pyromancies, and few weapons",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5774273600395148,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d5e7a5fb-4cc8-5de0-af62-e2c0d888bb84",
+    "title": "Dark (Dark Souls III)",
+    "section": "equipment",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Dark (Dark Souls III) -  Dark Souls III - mechanic - equipment \n equipment : {'name': 'Armor', 'description': \"Armor sets with reasonably high Dark absorption are usually the light armor sets, such as the Cleric, Sorcerer Set, and the Pyromancer Set, which offers the highest of the starting sets. Others such as the Archdeacon Set and Court Sorcerer Set are good choices as well.\\nWhile medium sets are generally not as efficient at defending against Dark damage, the Black Set and the Sunless Set are quite adequate choices.\\nLorian's Set, Smough's Set, the Catarina Set, and the Winged Knight Set are fine choices among the heavy armor sets, with the Winged Knight Set offering 31.284 Dark absorption, the highest of any full set.\"}",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.577116414295745,
+    "bm25_score": null
+  },
+  {
+    "document_id": "62731ddc-d875-5103-b324-ac92a98bc83a",
+    "title": "Endurance (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Endurance (Dark Souls) -  Dark Souls - mechanic - lead \n lead : **Endurance** is one of the eight base stats in *Dark Souls* that can be increased when leveling up. Investing in endurance increases the player's maximum stamina, equipment load, and bleed resistance.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5756360576940969,
+    "bm25_score": 28.128280000589783
+  },
+  {
+    "document_id": "4458dc94-2b3c-5a9a-ab79-e8c4ecfbf909",
+    "title": "Endurance (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Endurance (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : **Endurance** is a stat in *Dark Souls III.*",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5755511749073383,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3bf1114a-5c69-5184-af7c-07e74a939196",
+    "title": "Fire (Dark Souls III)",
+    "section": "equipment",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Fire (Dark Souls III) -  Dark Souls III - mechanic - equipment \n equipment : {'name': 'Armor', 'description': '(to be completed)'}",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5754701240679008,
+    "bm25_score": null
+  },
+  {
+    "document_id": "78275257-0bda-53db-b18b-c84c6c8a800d",
+    "title": "Stats (Dark Souls)",
+    "section": "derived_stats",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "; Equipment load\nTotal weight of equipped items. Higher number slows movement. Exceeding max causes sluggishness.*\nDetermines movement and rolling speed when equipped with specific items, including the weapon/shield that are in the off hand.\nCurrent weight level has no effect on weapon swing speed or shield use.\nThe player may equip anything they like, even if it goes over their weight limit, but mobility will suffer the higher one is burdened:\n:00-24%: Full speed, excellent maneuverability\n:25-49%: Slightly slower, can still roll fairly quickly\n:50-99%: Much slower, roll is a \"flop\" and dodging is hindered\n:100%+: Can only walk very slowly. Rolls and back-steps become awkward wiggles and stumbles.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5739825870120706,
+    "bm25_score": 29.27230296769558
+  },
+  {
+    "document_id": "5473e788-a94b-560c-aab3-0e875dff9fd9",
+    "title": "Weight (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Weight (Dark Souls) -  Dark Souls - mechanic - lead \n lead : **Weight** is an item stat in *Dark Souls* specific to weapons, armor and shields. The weight of each equipped item counts towards the player's equipment load, which affects movement speed an stamina recovery.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 37.69459999263679
+  },
+  {
+    "document_id": "17aa3350-9cd8-561f-a14e-ceae036291b4",
+    "title": "Stamina (Dark Souls)",
+    "section": "recovery",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Green Blossoms and Power Within do not stack, but all other effects will stack with each other.\n\nThe following actions and effects negatively affect the player's stamina recovery:\n\nBlocking reduces the stamina recovery rate by 80%.\nClimbing a ladder reduces the stamina recovery rate by 80%.\nExceeding 50% equipment load reduces the stamina recovery rate by 20%.\nExceeding 100% equipment load reduces the stamina recovery rate by 30%.\nUsing the Dragon Head Stone's breath attack reduces the stamina recovery rate by 50 points per second.\nBeing affected by any form of the toxic effect reduces the stamina recovery rate by 15 points per second.\nEquipping certain pieces of heavy armor reduces the stamina recovery rate by 1 or 2 points per second.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 35.23151466344226
+  },
+  {
+    "document_id": "d5ad3ac7-0721-5c40-a34b-8c3882b68245",
+    "title": "Negative Status Effects (Dark Souls II)",
+    "section": "bleed_dark_souls_ii_bleed",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Negative Status Effects (Dark Souls II) -  Dark Souls II - mechanic - bleed_dark_souls_ii_bleed \n bleed_dark_souls_ii_bleed : If the bleed meter fills completely the target takes 200 damage and has their maximum stamina and stamina recovery drastically reduced for a short period of time. It also slows roll recovery, lowers agility, and movement speed.\n\nCharacters that have been bled will produce a heartbeat sound and a faint red visual effect until the effect wears off.\n\nBleed Resistance reduces buildup by 1% for every 10 points.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.97297110790827
+  },
+  {
+    "document_id": "13ce13c4-4a14-5b3b-9978-04e1257ac91f",
+    "title": "Fire (Dark Souls II)",
+    "section": "water",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Fire (Dark Souls II) -  Dark Souls II - mechanic - water \n water : Fire Defense can be increased by 300 points if the player is soaked wet or standing in water. Being wet is a status effect that lasts for a few moments, depending on how much water the player is covered in. It can occur by simply stepping in water, rolling through pots with water, or by wearing the Pharros Mask, which has a special effect that constantly soaks the player.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.76904044190919
+  },
+  {
+    "document_id": "8c7e59d6-3cc9-5225-b369-fab0faf591d8",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "attacks",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - attacks \n attacks : **Fire Orbs:**\n\nAldia will fire out four orbs of dark fire, placing them above his head. After a short time, the orbs will begin homing in on his target. He can cast this multiple times in a row. **How to avoid:** block with Gyrm Greatshield or roll a few times.\n\nDark **Forbidden Sun:**\n\nAldia charges a large dark fireball above his head. While he does this the fire around him will disperses leaving him vulnerable. Attack him while he's charging. **How to avoid:** the fireball is rather easy to dodge if you roll away right before it hits.\n\n**Tree Root Dance**:",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.18657441233649
+  },
+  {
+    "document_id": "85b803f1-51c9-54cc-868c-67101d2cae4e",
+    "title": "Equipment (Dark Souls II)",
+    "section": "shields",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Equipment (Dark Souls II) -  Dark Souls II - mechanic - shields \n shields : Shields are technically weapon items, but more similar to armor, in that they protect the player from damage. They are able to block a certain percentage of damage. All shields possess a certain amount of stability, which determines how much stamina is lost when a source of damage comes into contact with the shield.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.624977260733413
+  },
+  {
+    "document_id": "5224e79f-39f6-5714-98dd-615068e21c38",
+    "title": "Vitality (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "**70% to 100%** Forces the player to slow or \"fat\" roll with less invincibility frames and a shorter roll distance than the previous two weight classes, as well as significantly more recovery frames. Under these conditions, the player is granted 30 Poise health which further improves the odds of completing the roll. Normal movement speed is not affected in this category. The player also incurs a -9 penalty to stamina regeneration.\n\n**Over 100%** Does not allow the player to roll at all, and forces the player to \"slow walk\" (they are unable to run or sprint). An additional -5 penalty to stamina regeneration is incurred, resulting in a total penalty of -14 points/sec.\n\nAs is with every other stat in the game, it also has indirect bonuses such as increasing the player character's flat damage absorption. In particular, Vitality increases the player's flat defenses in the physical categories, making them more resistant against weapon damage.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.724760542352136
+  },
+  {
+    "document_id": "0340d62e-885c-5c67-bd35-e04292d91a07",
+    "title": "Stamina (Dark Souls)",
+    "section": "recovery",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Stamina (Dark Souls) -  Dark Souls - mechanic - recovery \n recovery : Stamina has a base recovery rate of 45 points per second. The recovery rate can be increased via the following items:\n\nEquipping the Mask of the Child increases the stamina recovery rate by 10 points per second.\nEquipping the Grass Crest Shield increases the stamina recovery rate by 10 points per second.\nEquipping the Cloranthy Ring increases the stamina recovery rate by 20 points per second.\nCasting Power Within increases the stamina recovery rate by 30 points per second, for 100 seconds.\nConsuming a Green Blossom increases the stamina recovery rate by 40 points per second, for 60 seconds.\n\nGreen Blossoms and Power Within do not stack, but all other effects will stack with each other.\n\nThe following actions and effects negatively affect the player's stamina recovery:",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.553069695113678
+  },
+  {
+    "document_id": "f7def65f-9338-56c4-927a-6fa3e1635702",
+    "title": "Lightning (Dark Souls II)",
+    "section": "lowering_defense",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Lightning (Dark Souls II) -  Dark Souls II - mechanic - lowering_defense \n lowering_defense : Overall Lightning Defense can be reduced on the player or enemies if they are soaked wet or standing in water. Being wet is a status effect that lasts for a few moments, depending on how much water the player is covered in. It can occur by simply stepping in water, rolling through pots of water pots or by wearing the Pharros Mask. Other methods of reducing defense include equipping certain weapons that have this negative effect.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.305759225533922
+  },
+  {
+    "document_id": "7e6f4d0f-5425-5bf9-96db-a9499e3ac7c3",
+    "title": "Durability",
+    "section": "how_equipment_loses_durability",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Durability -  Dark Souls - mechanic - how_equipment_loses_durability \n how_equipment_loses_durability : Equipment can lose durability in a few ways. Armor, for example, is damaged any time you take damage. Some enemies, such as the Gaping Dragon, Chaos Eaters and Burrowing Rockworms have attacks which decrease the durability of all your equipment. There is also the spell Acid Surge which degrades equipment in the same way as the Chaos Eaters' attacks.\n\nWeapons can lose durability by hitting enemies, walls or breakable objects. Attacks that are deflected, such as when striking a wall, suffer double the durability damage.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.136690857085863
+  },
+  {
+    "document_id": "c352b71d-c14c-58b3-8f48-27ae699418f2",
+    "title": "Stats (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Stats (Dark Souls) -  Dark Souls - mechanic - lead \n lead : **Stats** are a gameplay mechanic in *Dark Souls*. They affect a multitude of things, from damage dealt and incurred, to health and stamina.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.11061276593575
+  },
+  {
+    "document_id": "5b0c932e-1451-598e-8b71-97acd34aeb24",
+    "title": "Fall damage",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Carrying a heavier load does not affect the survivability of falls if the player's health is full. The maximum survivable fall will result in 70% HP lost for a character with 0 equip load, and ~99.9% HP lost (rounding to 1 HP) for a character with 89.7 or more units of equip load.\n\n**",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.696820366141147
+  },
+  {
+    "document_id": "21bdd5c9-0d31-5005-8220-724ef64fb32f",
+    "title": "Light Armor Sets (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Light Armor Sets (Dark Souls) -  Dark Souls - mechanic - lead \n lead : For categorization purposes on this wiki, **light armor sets** are armor sets in *Dark Souls* that have a total weight between 0 and 20. They usually have the lowest defense of all the armor sets and provide little to no poise. They allow for fast movement and roll speed, without the need for high endurance or equip load-boosting equipment.\n\nLight armor sets that require standard titanite for upgrade require less resources to upgrade: they only require 4 of each titanite type per 3 level ups (&times;1, &times;1, &times;2), which is less than the 6 required for medium sets (&times;1, &times;2, &times;3). The Chain Set, Hollow Soldier Set, and the Hollow Warrior Set are an exception to this rule.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.48040306239402
+  },
+  {
+    "document_id": "c5592c1d-6aed-54ae-8b21-2fc2715d7739",
+    "title": "Medium Armor Sets (Dark Souls II)",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Medium Armor Sets (Dark Souls II) -  Dark Souls II - armor - characteristics \n characteristics : In comparison to Light Armor, the Medium Armor sets are heavier (and therefore slower), but much lighter than the Heavy Armor sets (therefore faster during combat), and this will play a large role in how you play the game, ranging from PvE and PvP.\n\nIt is recommended that new players start out with mostly Medium Armor Sets, and they can make a decision for themselves. If they find they are taking too much damage, then they can make the choice to switch to a Heavy Armor Set, and if they feel like they are too slow, or they take too little damage for the defensive properties to be worth the weight, they may choose to choose a Light Armor Set.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.230918478408547
+  },
+  {
+    "document_id": "98ff858c-1291-5d55-8b47-35cd3b739e57",
+    "title": "Durability",
+    "section": "repairing_equipment",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Durability -  Dark Souls - mechanic - repairing_equipment \n repairing_equipment : Repairing is the process of paying souls to restore durability to a piece of equipment. The cost of repair is dependent on how much durability the piece of equipment has lost. Repairing can either be done through the use of a blacksmith, from a Repairbox, through the use of Repair Powder, or the casting of the sorcery Repair.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.06203996875703
+  },
+  {
+    "document_id": "67dba0bb-5821-5c52-ae4c-0cd42f85df3f",
+    "title": "Attack Rating",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Attack Rating -  Dark Souls II - mechanic - lead \n lead : Attack Rating is one of the main factors that determines how much damage weapons do throughout the Dark Souls series.\n\nAttack Rating, commonly abbreviated as AR is a number specific to each Weapon and each element that depends on the weapon, upgrade level, player stats and other equipment that can affect it. This number is used during each attack through a damage formula specific to each game to determine the damage.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.04268132046471
+  },
+  {
+    "document_id": "bedec317-797a-5509-8135-14a20441f53a",
+    "title": "Medium Armor Sets (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Medium Armor Sets (Dark Souls III) -  Dark Souls III - armor - lead \n lead : **Armor** is a type of equipment in *Dark Souls III*.\n\nFor categorization purposes on this wiki, **medium armor sets** are armor sets in *Dark Souls III* that have a total weight between 18 and 28.9.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.027741042866797
+  },
+  {
+    "document_id": "0b9d9bf8-426f-5e00-96b6-37a6b98ea2e5",
+    "title": "Iron Flesh (Dark Souls II)",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "spell",
+    "snippet": "Iron Flesh (Dark Souls II) -  Dark Souls II - spell - notes \n notes : Since this spell gives a flat addition to weight, unlike the other games where it forces a Heavy Load status on the player, it is possible to cast it and still be able to move and roll normally with significant investment in Vitality and equipment load boosters such as the Third Dragon Ring and Royal Soldier's Ring.\n\nIf using this spell in this way, equipment that increases the length of spell effects such as the Northwarder Set and the Lingering Dragoncrest Ring are strong additions.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.343053959978615
+  },
+  {
+    "document_id": "dc5e4e93-b858-51c1-b930-dd823facbf5b",
+    "title": "Light Armor Sets (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Light Armor Sets (Dark Souls III) -  Dark Souls III - armor - lead \n lead : **Armor** is a type of equipment in *Dark Souls III*.\n\nFor categorization purposes on this wiki, **light armor sets** are armor sets in *Dark Souls III* that have a total weight between 0 and 17.9.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.229280766124443
+  },
+  {
+    "document_id": "99f2f7c5-b1c1-5f30-8dbb-7f687534879b",
+    "title": "Velstadt's Helm",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Velstadt's Helm -  Dark Souls II - armor - characteristics \n characteristics : Boosts the player's Endurance and Vitality by one point, thus providing a boost to the player's total health, stamina and equipment load.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.85402385261337
+  },
+  {
+    "document_id": "29547eee-9bff-5b6b-aa66-9eb1588e7694",
+    "title": "Warrior of Sunlight (Dark Souls III)",
+    "section": "how_to_join",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Warrior of Sunlight (Dark Souls III) -  Dark Souls III - mechanic - how_to_join \n how_to_join : The emblem to join the covenant can be found in the Undead Settlement, inside the leftmost house from the big open area with several peasants and an Evangelist praying at a burning tree.\n\nUpon entering the house, head right and drop through a hole in the floor. The hole is partially concealed by several boxes and dead Cage Spiders. The covenant item is on a table along a wall opposite a fireplace with a cauldron of Estus Soup.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.551093983251327
+  },
+  {
+    "document_id": "55890c33-df63-5f0e-9a7d-b597a98018f5",
+    "title": "Grass Crest Shield (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Grass Crest Shield (Dark Souls III) -  Dark Souls III - weapon - description \n description : Old medium metal shield of unknown origin.\n\nThe grass crest is lightly imbued with magic, which slightly speeds stamina recovery.\n\nSkill: Parry\nRepel an attack at the right time to follow up with a critical hit. Works while equipped in either hand.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.360103731851765
+  },
+  {
+    "document_id": "cc27a429-7361-5db8-ba1a-15d5c62667f9",
+    "title": "Equipment (Dark Souls II)",
+    "section": "torch",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Equipment (Dark Souls II) -  Dark Souls II - mechanic - torch \n torch : A Torch is not an item found in the player's inventory. Instead, when each Torch is picked up, five minutes are added to a timer visible in the character equipment screen. While lit, it can be used as a light source, in the offhand slot, to light sconces and increase lock-on distance.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.337983305251573
+  },
+  {
+    "document_id": "24dd0c0d-3aea-5b36-bbdb-4d85f00737ef",
+    "title": "Equipment",
+    "section": "rings_dark_souls_rings",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Equipment -  Dark Souls - item - rings_dark_souls_rings \n rings_dark_souls_rings : Rings are ornamental jewelry that are worn on fingers. They generally grant players a passive bonus, usually relating to damage reduction/amplification or movement. A maximum of two can be equipped at any time.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.135735594732168
+  },
+  {
+    "document_id": "1d839f30-f49b-5286-8e18-17be169c84f8",
+    "title": "Fire Snake",
+    "section": "general_information",
+    "game": "Dark Souls II",
+    "entity_type": "spell",
+    "snippet": "Fire Snake -  Dark Souls II - spell - general_information \n general_information : Creates several pillars of flame in front of the caster. Like the name suggests, the pillars swerve the way a snake would slither, making it somewhat unpredictable the further it gets from the caster. However, when locked on a target it will home in quite aggressively and can perform large turns in order to reach the target.\n\nIn PvP this can be a highly useful spell as some players tend to have some trouble rolling through it or otherwise it forces the player to roll wasting stamina or manipulating where they go.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.133968467854327
+  },
+  {
+    "document_id": "0c0772e0-4e98-5445-a483-534043b1cc20",
+    "title": "Stamina (Dark Souls)",
+    "section": "armor_effect_on_stamina_recovery",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Stamina (Dark Souls) -  Dark Souls - mechanic - armor_effect_on_stamina_recovery \n armor_effect_on_stamina_recovery : All armor items that reduce the stamina recovery rate will reduce it by 1 point per second, with the exception of a few heavier chest pieces that reduce it by 2 points per second. Armor upgrade level has no impact on stamina hindrance. The following table lists all armor pieces with a negative effect.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.967679251674454
+  },
+  {
+    "document_id": "4a1739cf-dff9-5ec5-8992-ff48b81e8fd7",
+    "title": "Ring of Favor and Protection",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Ring of Favor and Protection -  Dark Souls - ring - description \n description : A ring symbolizing the favor and protection of the goddess Fina, known in legend to possess \"fateful beauty\".\n\nThis ring boosts its wearer's HP, stamina, and max equipment load, but breaks if ever removed.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.83094143455729
+  },
+  {
+    "document_id": "ca1116a1-836b-55c9-8141-944478ad4f27",
+    "title": "Messages",
+    "section": "rating",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Messages -  Dark Souls - mechanic - rating \n rating : Along with the text contents of the message, messages have a rating. Messages can be rated using either the Orange Guidance Soapstone or the gesture button. A positive (+) or negative (-) rating can be given based on if the player found the message helpful or not. The rating shows how many times this message has been rated, but not how many of these rating were positive or negative. The player can only see the composition of ratings while using Seek Guidance. Developer messages can not be rated.\n\nRatings also determine the image that accompanies it. How many ratings a message has received will change the icon it uses.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.827185872015555
+  }
+]

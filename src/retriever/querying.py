@@ -57,6 +57,16 @@ def contextfromvectors_enhanced(query: str, k: int = 5):
 
     return contextfromvectors(enhance_query(query), k=k)
 
+def contextfromvectors_bm25(query: str, k: int = 5):
+    """BM25-only retrieval (sparse baseline).
+
+    Same contract as contextfromvectors: ranked [(Document, score), ...]
+    with Document.metadata["document_id"] carrying the chunk UUID.
+    """
+
+    return bm25_retrieval(query=query, k=k)
+
+
 def contextfromvectors_hybrid(query: str, k: int = 5):
     """
     Hybrid retrieval: combine sparse and dense retrieval results.

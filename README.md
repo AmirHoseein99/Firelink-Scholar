@@ -40,12 +40,23 @@ python -m src.retriever.generation
 
 ## Evaluation
 
-The retriever is measured against a **v3 test collection**: human-anchored
-LLM judging with iterative pooling, so the judgment set grows to cover
-whatever the system actually retrieves instead of punishing novelty. See
-[eval/README.md](eval/README.md) for the full methodology and commands.
+The retriever is measured with a **run-driven answer-key benchmark**: answer
+keys are frozen claims with verbatim quotes, and the LLM judge grades only
+chunk ids that evaluation runs actually retrieve. Grading is append-only and
+union-based; after each pass every saved run is re-scored against the same
+qrels snapshot. The active benchmark replaces the retired v1–v4 pooled
+harnesses, which are archived under `eval/archive/`.
 
 ```bash
-python -m eval.score run --fn contextfromvectors --k 10   # score + unjudged tripwire
-python -m eval.agreement                                  # LLM-vs-human agreement
+python -m eval status                 # questions, answers, qrels, runs
+python -m eval build-answers          # freeze answer keys (Free-LLM)
+python -m eval run --systems all --k 10
+python -m eval configure-judge --model <judge-model>   # no grading yet
+python -m eval evaluate --systems all --k 10   # grade new ids + re-score all
+python -m eval score --strict         # fail if any retrieved id is ungraded
 ```
+
+See [eval/README.md](eval/README.md) for the rubric, metrics, judge pinning,
+chunk-identity lock, and the limitation that recall is relative to the
+accumulated retrieved-and-judged set (`claim_coverage@k` is the stable
+absolute metric).

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-10-18T09:30:16Z",
+  "questions": "eval/questions.json",
+  "questions_sha256": "abebbcee036428319d22dd08929e4be9f51f51099749a679ebbc7b15cf70b97b",
+  "claims": {
+    "max_single_game": 8,
+    "max_synthesis": 12
+  },
+  "answer_builder": {
+    "backend": "freellm",
+    "base_url": "http://localhost:3001/v1",
+    "model": "@cf/qwen/qwen3.8-27b",
+    "prompt_sha256": "d674d33792990b3eaefe97b4b22f9106c9197b3a0a8c5a43e170431a0a0133ea"
+  },
+  "judge": {
+    "configured": false,
+    "backend": "",
+    "base_url": "",
+    "model": "",
+    "temperature": 0,
+    "prompt_sha256": "981de4ab6cc88aea4025983fe9befc7741581015e29daf4f9314175201a7a022"
+  },
+  "retrieval": {
+    "systems": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "k": 10
+  },
+  "metrics": {
+    "ks": [
+      5,
+      10,
+      20
+    ],
+    "min_grade": 2
+  },
+  "qrels": {
+    "path": "eval/qrels.json",
+    "sha256": "",
+    "n_questions": 0,
+    "n_graded": 0
+  },
+  "chunking": {
+    "chunk_size": 1000,
+    "chunk_overlap": 200
+  }
+}

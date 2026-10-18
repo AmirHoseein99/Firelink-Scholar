@@ -1,0 +1,1940 @@
+[
+  {
+    "document_id": "1ea74887-2cef-5f8c-ac66-7eb1089e5399",
+    "title": "Banshee",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Banshee -  Dark Souls - enemy - attacks \n attacks : Damage is per hit, in a 5 hit combo.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "245fbd0d-bb5a-5c80-b023-1d758bc79008",
+    "title": "Banshee",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Banshee -  Dark Souls - enemy - lead \n lead : **Banshee** is a type of enemy in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4739608d-ed23-5ddf-b040-ea2c69d2ab42",
+    "title": "Banshee",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Banshee -  Dark Souls - enemy - location \n location : There are only two that can be found in New Londo Ruins.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b00df5d4-9086-5bc1-99dc-d684b6e4d4e3",
+    "title": "Banshee",
+    "section": "curse",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "If possible, the most complete strategy is to use a Transient Curse, but still wield a cursed weapon. This makes it so that the player is not left completely defenseless should the Transient Curse end at a bad time, or without the player noticing.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6211005225429158,
+    "bm25_score": 33.55556623528009
+  },
+  {
+    "document_id": "d4ea9c61-00b9-5b1a-9fa3-8a81332d0ca8",
+    "title": "Banshee",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Banshee -  Dark Souls - enemy - description \n description : They scream when the player gets too close, and is said to attract other ghosts. The main differences between Banshees and Ghosts are their red, glowing eyes, the Ghost Blade half-held in one hand, and the baby they carry.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "df5d096d-cce3-5577-b64e-ca113bb3f835",
+    "title": "Banshee",
+    "section": "curse",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Banshee -  Dark Souls - enemy - curse \n curse : Like the Ghost, the Banshee can only be killed if the player is Cursed, or is carrying a cursed weapon. Transient Curse allows temporary contact with a Banshee without actually being cursed. This is considered a self augmentation effect, and thus prevents the use of other self augmentations.\n\nIf the player is not cursed, they will not be able to interact with the Banshee in any way. This includes damaging it, of course, but also blocking it, or just reducing the damage taken with armor. Furthermore, the Banshee's attacks will always stagger the player when not cursed, as it bypasses armor, leaving the player poiseless.\n\nPlayers can also use cursed weapons (such as the Jagged Ghost Blade or the Cursed Greatsword of Artorias). While this allows striking the Banshee, it will still leave the player unable to block with a shield, or reduce damage taken with armor. Cursed weapons can also be held with two hands to block.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5785913518560766,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2d71d06f-6a50-5e25-a8c1-a2613d04ac7d",
+    "title": "Bequeathed Lord Soul Shard",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Bequeathed Lord Soul Shard -  Dark Souls - item - lead \n lead : A **Bequeathed Lord Soul Shard** are two unique Soul items in *Dark Souls*. They are used by the Chosen Undead to partially satiate the Lordvessel together with two full Lord Souls, and gain access to the Kiln of the First Flame.\n\nThe Four Kings and Seath the Scaleless each own a Bequeathed Shard, which differ in lore from Lord Souls as they are only fragments of Gwyn's own Lord Soul, although even these fragments remain immensely powerful.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3b6d4d99-02de-5d7c-b2df-2879c99215e3",
+    "title": "Bequeathed Lord Soul Shard",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Bequeathed Lord Soul Shard -  Dark Souls - item - availability \n availability : Both the Four Kings and Seath the Scaleless drop a Bequeathed Lord Soul Shard upon their defeat.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "665bf8cf-ef2f-5b10-aafa-f363f089bf2c",
+    "title": "Bequeathed Lord Soul Shard",
+    "section": "backstory",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Bequeathed Lord Soul Shard -  Dark Souls - item - backstory \n backstory : Bequeathed Lord Soul Shards differ from Lord Souls in that they are shards of the Lord Soul of Gwyn. The owners of these shards were awarded them because Gwyn recognized the talent of the Four Kings of New Londo as leaders, and because Seath aided the Lords in the war of the Dragons.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8670638a-6b25-51ec-a364-89dfa0212e7b",
+    "title": "Bequeathed Lord Soul Shard",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Bequeathed Lord Soul Shard -  Dark Souls - item - trivia \n trivia : The Japanese description of Seath's Bequeathed Lord Soul Shard uses the term (Hepburn: *gaiseki*) 'consort kin', which is used to define a person related by marriage to the maternal clan or wife's clan of the monarch, thus stating how Seath had become part of Gwyn's family through marriage with one of the daughters of his mother. However, if interpreted differently by reading the individual kanji separately like 外 (Gai) and 戚 (Seki), it would be translated as \"external relative\", implying that Seath would have married any woman from Gwyn's family.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e2caa664-f349-5457-aa7b-edcf2b4a40cd",
+    "title": "Bequeathed Lord Soul Shard",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "**While the term has a historical and cultural meaning too complex to properly convey in the context of the game's lore and the fact that one could become a \"Gaiseki\" even marrying a sibling or cousin of the monarch's mother or even by having the monarch marry one's daughter, it is more likely that Gwyn gave Seath one of his daughters as a gift thus allowing the dragon a more close connection to the family of the monarch.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1c4e1f51-0cbf-5d53-ab93-27d2fbd815c8",
+    "title": "Cursebite Ring",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Cursebite Ring -  Dark Souls - ring - description \n description : One of the infamous bite rings commissioned by Sir Arstor of Carim.\n\nDespite the dreadful rumors surrounding its creation, this ring is an unmistakable asset, in its ability to help prevent curses.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4999a1c9-feaf-5df9-a979-f89f1ff19439",
+    "title": "Cursebite Ring",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Cursebite Ring -  Dark Souls - ring - lead \n lead : The **Cursebite Ring** is a ring in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cbbf9caa-c832-5877-b9e7-e101967a7637",
+    "title": "Cursebite Ring",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Cursebite Ring -  Dark Souls - ring - general_information \n general_information : Multiplies base Curse resistance (gained via liquid humanity) by 4. The Cursebite Ring does not affect and is not affected by resistance granted by armor, but does stack with the Bloodshield.\n\nAs with Gargoyle weapons or Blood/Poisonbite rings, when equipped, it looks like it creates a small build-up of Curse, but this is not the case (see Buildup for an explanation of this effect).",
+    "sources": [
+      "template",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.486812831816675
+  },
+  {
+    "document_id": "f0912f3b-3ecc-5f05-a14b-86b9377c9e98",
+    "title": "Cursebite Ring",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Cursebite Ring -  Dark Souls - ring - availability \n availability : Pillaged off a corpse in the New Londo Ruins close to Ingward's location. When you set foot inside the building he's standing on its roof, turn left and descend the stairs to the lower level, it is at the end of the long circuitous hallway, guarded by a Ghost waiting in ambush from below (mind the horde of Ghosts ambushing you along the way).",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "35b5df3c-146d-519a-a009-5f3e17f2ed58",
+    "title": "Ghost",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Ghost -  Dark Souls - enemy - lead \n lead : For the similar enemy with red hues, see Banshee. For the ghosts in Dark Souls II, see Chancellor Wellager and Wall Warrior.*\n\n**Ghosts** are special enemies in *Dark Souls*. They are invulnerable to a player who is not Cursed.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "48db2874-3ba5-5622-95e8-4c6f60a10a36",
+    "title": "Ghost",
+    "section": "curse",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Players can also use cursed weapons (such as the Jagged Ghost Blade or the Cursed Greatsword of Artorias). While this allows contact with the Ghost, it will still leave the player unable to block with a shield or reduce damage taken with armor. Cursed weapons can also be used to block.\n\nIf possible, the most complete strategy is to use a Transient Curse but still use a cursed weapon. This makes it so that the player is not left completely defenseless, should the Transient Curse lose its effect at a bad time, or without the player noticing.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5731931735587574,
+    "bm25_score": 30.75537447868036
+  },
+  {
+    "document_id": "5764c691-67ae-55b5-922e-26f7191cf7b6",
+    "title": "Ghost",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Ghost -  Dark Souls - enemy - location \n location : Ghosts can be found in New Londo Ruins.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6a46ff2b-b808-5754-a421-446da9d69aca",
+    "title": "Ghost",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Ghost -  Dark Souls - enemy - lore \n lore : They are the ghosts of the people who once inhabited New Londo, but were sacrificed when New Londo was flooded to contain the Darkwraiths. Their physical remains can be found at the big gate entrance leading to the Valley of Drakes.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "97883445-1352-584d-b85c-6dda59c343ff",
+    "title": "Ghost",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Ghost -  Dark Souls - enemy - attacks \n attacks : 4 hit combo.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9c26f48f-5aab-56bf-a1e9-a03473ccb7b3",
+    "title": "Ghost",
+    "section": "curse",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Ghost -  Dark Souls - enemy - curse \n curse : Like the Banshee, Ghosts can only be killed if the player is Cursed or if they're carrying a cursed weapon. Transient Curse allows temporary contact with Ghosts and Banshees without actually being cursed. It acts as a self augmentation effect and will prevent the use of other self augmentations, such as regeneration effects for health and stamina.\n\nIf the player is not cursed, they will not be able to interact with the Ghost in any way. This includes damaging it, of course, but also blocking it or just reducing the damage taken with armor. Furthermore, the Ghost's attacks will always stagger the player when not cursed, as they'll bypass armor, leaving the player poiseless.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5796561539251323,
+    "bm25_score": 30.567965146847094
+  },
+  {
+    "document_id": "b832ee5b-da93-5441-9c9e-6e9cda1a796f",
+    "title": "Ghost",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Ghost -  Dark Souls - enemy - strategy \n strategy : Stay on the move and evade, as the Ghost's attacks are difficult to block. In particular, they may stretch their arms out and attack from behind. The player must stay alert as they explore the ruins, as ghosts can pass through any solid object, enabling them to attack through the floors, walls and even the ceilings. It is even possible for them to go through the fogwall leading to the boss in the area, so it is advised to either deal with them or dropping into the Abyss as quickly as possible as they will not follow the player there.\n\nGhosts stagger easily. Using a high-powered weapon can prove effective.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0c5ebbc8-efb0-591e-9dcd-3f54701c6efe",
+    "title": "Kingseeker Frampt",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "If players have given Kaathe the Lordvessel already, then it is possible to prevent Frampt from leaving by rushing around and away from him. As long as he doesn't finish his dialogue, he won't disappear. Players can also prevent him finishing his dialogue by attacking him.\nIt's actually possible to kill Kingseeker Frampt, but only through the use of third party programs. Frampt has 11,120 HP and drops 5,000 souls after being killed.\nFrampt will randomly be found sleeping deeply (usually after resting at a bonfire) even if he was spoken to only moments ago. He can be awoken by attacking him (kicking and punching are sufficient).",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "271de031-aa05-57c4-9a15-7232337e70d8",
+    "title": "Kingseeker Frampt",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - location \n location : Firelink Shrine, where the pool in front of the decrepit statue used to be. Kingseeker Frampt only appears after the Bells of Awakening have been rung.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6e44b2f2-5a5a-5f9e-b6cc-2a763157617d",
+    "title": "Kingseeker Frampt",
+    "section": "services",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - services \n services : Kingseeker Frampt has the ability to consume items and break titanite into smaller pieces.\nGreen Titanite Shard breaks to: Titanite Shard ×5\nLarge Titanite Shard breaks to: Titanite Shard ×5\nTitanite Chunk breaks to: Large Titanite Shard ×3\nBlue Titanite Chunk breaks to: Green Titanite Shard ×3\nWhite Titanite Chunk breaks to: Green Titanite Shard ×3\nRed Titanite Chunk breaks to: Green Titanite Shard ×3\nTitanite Slab breaks to: Titanite Chunk ×2\nBlue Titanite Slab breaks to: Blue Titanite Chunk ×2\nWhite Titanite Slab breaks to: White Titanite Chunk ×2\nRed Titanite Slab breaks to: Red Titanite Chunk ×2",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7b82f581-96f0-5602-aabd-9f8f98dbda53",
+    "title": "Kingseeker Frampt",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - plot \n plot : Kingseeker Frampt appears in Firelink Shrine after the player rings both Bells of Awakening. He instructs the player to go to Anor Londo and obtain the Lordvessel. After the player obtains the Lordvessel, Frampt transports them to the entrance of the Kiln of the First Flame, and instructs the player to place the Lordvessel to gain access to the Kiln, and to ultimately kill Gwyn and prolong the Age of Fire.\n\nShould the player give the Lordvessel to Kaathe instead, Frampt will become irate and leave the player for the rest of the playthrough.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "805ffddc-3070-5807-9c6e-616d69ad8ee7",
+    "title": "Kingseeker Frampt",
+    "section": "feed",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - feed \n feed : Feeding weapons and armor to him is not very profitable; most weapons only produce 50 souls while most armor produces 100. Special weapons can produce much more, such as the Drake Sword, which results in 5,000.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "865ab23e-7ecc-55f5-b351-ce60a8141c73",
+    "title": "Kingseeker Frampt",
+    "section": "removed_content",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - removed_content \n removed_content : The following is content that is present within the code of *Dark Souls*, but not actually implemented in the game. Text was found from a text dump which can be found at: http://pastebin.com/hA42TwK8.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8972d104-39ff-52dd-9cb0-45a2b2656eb6",
+    "title": "Kingseeker Frampt",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "After ringing the first of the Bells of Awakening, Frampt can be heard snoring when passing through the flooded area of Firelink Shrine of which he will eventually emerge. Strangely, this makes a collectible, invisible \"humanity sprite\" (one that increases your character's liquid humanity by 1 point) spawn nearby. It is possible to collect this sprite by falling from the nest above or one of the ledges above, but the fall may kill the character in the process (forcing the player to run back to his bloodstain from the last bonfire they rested at). It is also possible to collect this sprite by \"passing through\" Frampt's room. It seems to often be near the fallen pillar that lays diagonally on the ground (one end of the pillar pointing to the starting Lordran Bonfire of Firelink Shrine, and the other end of the pillar pointing to the graveyard leading to the Catacombs).\nFrampt is one of the few characters whose mouth moves when talking.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "94dc8054-24eb-5b83-9f01-2e2e1b63c11b",
+    "title": "Kingseeker Frampt",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - trivia \n trivia : Shortly after Frampt's arrival, the Crestfallen Warrior (who sits fairly close to Frampt) complains about a horrible smell. This is likely referring to Frampt. The Crestfallen Warrior will leave after being spoken to when Frampt is around, so keep that in mind before ringing the second bell of awakening. The Crestfallen Warrior can later be found as a hostile Hollow at the New Londo Ruins.\nIn previous versions of the game there was a glitch where if a player jumped down the hole Frampt sticks his head out of, but quit and loaded before reaching the bottom, they would reach the Kiln of the First Flame. In doing so players could skip gathering the Lord Souls and go straight to the fight against Gwyn. This technique has been used for speedruns of the game.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a5920d6b-a687-50d1-8380-b184fca27d9e",
+    "title": "Kingseeker Frampt",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - lead \n lead : is a character in *Dark Souls*. He is a primordial serpent who seeks a human successor to Gwyn, Lord of Cinder. He is voiced by Peter Marinker, who also voiced Darkstalker Kaathe and Eingyi.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b691576e-c1e7-533e-bc12-9e88378ae829",
+    "title": "Kingseeker Frampt",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Frampt is one of the few characters whose mouth moves when talking.\nOn the breastplate of Lord Gwyn's Robes, there are patterns and indents that resemble Frampt's head. Possibly as an indicator of their friendship, as mentioned by Kaathe.\nIt would seem Frampt has a great dislike of Executioner Smough, Seath the Scaleless and his followers. If fed any of their items, he will only give a single soul in exchange.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cc83dad2-dfca-55ca-ab0c-f7f3fdaabe5f",
+    "title": "Kingseeker Frampt",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - notes \n notes : When Frampt transports the player to the Firelink Altar after retrieving the Lordvessel, it is not necessary to place it. By using a Homeward Bone or the Homeward miracle, it is possible to exit and continue using Frampt's feeding service and at the same time interact with Kaathe and join the Darkwraiths. As long as the player does not place the Lordvessel, neither serpent will depart.\nThe player should avoid attacking Frampt (unless he is asleep) as it may result in him leaving for the rest of the playthrough. If this happens, the player loses access to his feeding service and must either place the Lordvessel with Kaathe or do it alone by dropping down the hole Frampt was in.\nDropping down to the Firelink Altar after acquiring the Lordvessel without his help will make Frampt leave, whether the player placed it or not.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4aa20f14-18db-5ae3-b1c7-231541d6e89f",
+    "title": "Mimic",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Mimic -  Dark Souls - enemy - notes \n notes : Transitioning from its disguised to active state will take some time and is a perfect opportunity to finish it off if the player is capable of dealing enough damage.\nIf one is patient enough, it is possible to observe a Mimic breathing and moving slightly as their idle animation. They'll even stretch their arms and legs out in rare occurrences.\nThrowing a Lloyd's Talisman at a Mimic will cause it to open its mouth, allowing players to safely retrieve items from it without having to fight it. This can be done even if the mimic is hostile, in which case it'll sit back down.\nIt used to be possible to kill every Mimic in the game and not get the Symbol of Avarice. However, Patch 1.05 made the final Mimic in The Duke's Archives (the one in front of the exit to the grove of Crystal Golems) a guaranteed source for a Symbol of Avarice upon killing it.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7bf0dd4d-12d2-527e-ab89-9b7036ffc7df",
+    "title": "Mimic",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Mimic -  Dark Souls - enemy - description \n description : Mimics disguise themselves as chests, waiting for victims to try to open them. When a player attempts to do so, Mimics will proceed to chomp on them in a special grab move, causing heavy damage.\n\nIf Mimics are hurt before they can grab a player, they reveal a large, lolling tongue and lines of finger-bone teeth, followed by the arms and legs. Once upright they will begin to aggressively pursue their prey. Mimics are fast, tough, and deal high damage; they can easily kill the unprepared.\n\nIn order to determine the difference between a Mimic and Chest, the most direct visual cue one can get is by looking at the chain connected to the right side of the chest. If the chain is wrapped in a circle then the chest is safe, if the chain is straightened out then it's a Mimic. The mimic chest will also do a long, slow breath with its lid slightly rising up and down once every 17 seconds.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "82da81c0-192e-5047-8a83-efe3b9b58e48",
+    "title": "Mimic",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "In Co-op it is actually possible to save another player from a mimic. When the other player opens the mimic, if one acts quickly and attacks the mimic while it is still opening, it will instead stand up and initiate normal combat.\nMimics can't climb ladders.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "83a51bb8-c722-544c-8be9-4daadc13678d",
+    "title": "Mimic",
+    "section": "locations",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Mimic -  Dark Souls - enemy - locations \n locations : A total of nine Mimics can be encountered in the game:\n\nSen's Fortress\nIn a chamber that contains an elevator going up to the control room.\nAnor Londo ×4\nGuarded by two Sentinels in the room left of the first bonfire.\nIn a dark room behind an illusory wall near the third bonfire. The room where Havel's Set is found.\nTwo on the upper floor area near the spiral staircase.\nThe Duke's Archives ×2\nOn an upper balcony area, guarded by two Undead Crystal Soldiers just before encountering Seath the Scaleless for the first time.\nIn a small library, near the exit leading to the garden area of the archives.\nOolacile Township ×2\nOn the roof of a circular tower, in plain sight\nInside a stone building past the circular tower. Second floor. Rolling is needed to reach it.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a9651630-2f0d-5e07-83ab-04dda015bb52",
+    "title": "Mimic",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Mimic -  Dark Souls - enemy - trivia \n trivia : The mimic originates in the original *Advanced Dungeons & Dragons* *Monster Manual* (1977). In that sourcebook, they are carnivorous shapechangers able to take the form of any solid stone or wooden object, though they are most commonly depicted as treasure chests. Mimics have since appeared in numerous video game RPGs.\n**According to *Dungeons & Dragons* editor Tim Kask, Gary Gygax created the mimic to foil players who checked for traps before opening treasure chests. The result, just as in Dark Souls, was to instill a sense of paranoia among players opening chests.\nA Mimic's teeth are actually finger bones.\nMimics have a unique death animation if they die before being awakened.\nIf the player watches closely, a Mimic lying in wait will slowly open its lid, and then slowly close it.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b1146260-40c5-59b3-af00-3bb93151a8de",
+    "title": "Mimic",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Mimic -  Dark Souls - enemy - attacks \n attacks : Damage listed is per chew.\n† Only applies when opening a Mimic.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c376733f-d76c-5cf9-8499-01d273e87d28",
+    "title": "Mimic",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Mimic -  Dark Souls - enemy - lore \n lore : These creatures were once part of the great clan of the Gods but at one point they committed the sin of \"greed\". For this they were banished and cursed, resulting into their heads transforming into an imitation of treasure chests. They would became known as Mimics and spread across the world, simulating chests to trick and devour adventurers or becoming deadly defense mechanisms to protect peculiar artifacts.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cb5dd8c9-5b9e-5fa3-9d32-2948a1771688",
+    "title": "Mimic",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Mimic -  Dark Souls - enemy - lead \n lead : **Mimics** are special enemies encountered in *Dark Souls*. They will initially remain on the same spot, non-hostile and disguised as item chests until the player either opens them, which triggers a strong special grab, or hits them, which turns them hostile. There is a fixed number of nine Mimics found throughout the game, always in the same spots.\n\nThe usually-valuable treasure they contain can be obtained by either opening them safely using a Lloyd's Talisman or killing them. They do not respawn when killed, and in all versions of the game post Patch 1.05, the Mimic located in the Duke's Archives always drops the previously-rare Symbol of Avarice headware upon death.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ced4bb50-4a5f-57b7-8a24-f96ba0fe9688",
+    "title": "Mimic",
+    "section": "theory",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Mimic -  Dark Souls - enemy - theory \n theory : It's possible that the curse \"imposed\" to them is actually a mutation caused by their greed\n\nThe Gaping Dragon, the Crow Demons, the Covetous Demon, and many other beings attest that strong emotions can warp one's body. It's therefore plausible that the Mimic were molded by greed, and that their mutation had been attributed to divine punishment due to a mistaken interpretation.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e647b330-7c41-5724-bb6c-56d1a4e32925",
+    "title": "Mimic",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Mimic -  Dark Souls - enemy - strategies \n strategies : A good way to quickly dispatch a Mimic is to land as much damage before it is fully upright. Using attacks such as the two handed leaping attack or a powerful spell is the best way to weaken it as much as possible due to the long transformation.\nWhen the mimic is active, it will move quickly and deal high damage if it hits. In particular, its spinning kick deals high knockback and damage.\nIf a Mimic is able to start chewing on the player, the player is most assuredly going to die. However, rapidly pressing the weak attack buttons will allow the player to escape.\nAll of the Mimic's attacks except for the standing kick, which must either be blocked or dodged, will miss if the player positions him/herself close against the Mimic.\nOnce a Mimic is awake, Lloyd's Talismans can still lull them, allowing the player to heal themselves or finish it off.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6ff52798-1854-5d31-bd0c-f16199e93ffe",
+    "title": "Moonlight Greatsword (Dark Souls)",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Moonlight Greatsword (Dark Souls) -  Dark Souls - weapon - characteristics \n characteristics : Although the Moonlight Greatsword's attack type suggests the weapon deals Regular damage, this likely only refers to its moveset pattern, as the sword deals pure Magic damage, meaning it does not suffer from split AR but will do less damage against Magic resistant enemies and bosses. Moonlight Greastsword raises magic defense by 40 points and cannot be Enchanted.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "705af1f4-ca20-5348-9a91-52c7db2c56f8",
+    "title": "Moonlight Greatsword (Dark Souls)",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Moonlight Greatsword (Dark Souls) -  Dark Souls - weapon - availability \n availability : The Moonlight Greatsword can be obtained from Seath the Scaleless by cutting off his tail. Players will need to deal 825 damage to a spot a bit above the tip of his tail.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8035ab3a-938b-597a-9cda-bb1dac13faaa",
+    "title": "Moonlight Greatsword (Dark Souls)",
+    "section": "scaling_percentages",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Moonlight Greatsword (Dark Souls) -  Dark Souls - weapon - scaling_percentages \n scaling_percentages : ***Strength - 0%**\n***Dexterity - 0%**\n***Intelligence - 136%**\n***Faith - 0%**",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9143fb6e-8821-58de-97fe-e111f791658b",
+    "title": "Moonlight Greatsword (Dark Souls)",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Moonlight Greatsword (Dark Souls) -  Dark Souls - weapon - trivia \n trivia : The Moonlight Greatsword is the *Dark Souls* interpretation of the Moonlight Sword, which has appeared in every From Software game since *King's Field*.\nThe Moonlight Greatsword is one of the four Dragon weapons that has a parameter bonus (the others being Priscilla's Dagger, Dragon Bone Fist and the Dragon Tooth).",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9f5baaa0-38b2-50da-96c9-8a956bec1ab9",
+    "title": "Moonlight Greatsword (Dark Souls)",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Moonlight Greatsword (Dark Souls) -  Dark Souls - weapon - description \n description : This sword, one of the rare dragon weapons, came from the tail of Seath the Scaleless, the pale white dragon who betrayed his own.\n\nSeath is the grandfather of sorcery, and this sword is imbued with his magic, which shall be unleashed as a wave of moonlight.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "acbab28f-e773-5b7a-be42-b9adb127188d",
+    "title": "Moonlight Greatsword (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Moonlight Greatsword (Dark Souls) -  Dark Souls - weapon - lead \n lead : The **Moonlight Greatsword** is a greatsword in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d4066c5c-eb6e-5120-8eff-8a1eb2598ea1",
+    "title": "Moonlight Greatsword (Dark Souls)",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "A very popular weapon for intensive Intelligence builds due to its high scaling. Its strong attack (be it one-handed or two-handed) releases a magic-based projectile that deals damage based on the Intelligence of the player, though it depletes some of its durability (20 per use one-handed, 40 per use two-handed), it's a very powerful attack with the right investment into Intelligence. The Moonlight Greatsword's projectile will go through enemies that block it, potentially hitting a wall and exploding, hitting through the block and dealing full damage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "eb247574-7555-56ba-9b26-8ecb09d9e1ef",
+    "title": "Moonlight Greatsword (Dark Souls)",
+    "section": "upgrades",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Moonlight Greatsword (Dark Souls) -  Dark Souls - weapon - upgrades \n upgrades : Interestingly, the Moonlight Greatsword +5 swings slightly faster than the Standard Moonlight Greatsword.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0f42203e-22e9-51cc-9bd7-7c7ac0ff7618",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Eons past his demise, the soul of the Paledrake remanifested in Drangleic, albeit in a lessened form, and possessed a mere spider. Its shape and condition notwithstanding, the obsession within \"the Writhing Ruin\", as it came to be known, led the spider to doggedly seek out its desires. Namely, it sought its \"home\" deep inside the mines of Tseldora, the old crystal cave of Seath, and where the petrified corpse of an ancient archdragon was found, and made it into its lair.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "24b85f9b-900c-56d5-af9d-e3acc28dd710",
+    "title": "Seath the Scaleless",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "The ghostly hands that emerge from the tomes in the Grand Archives in *Dark Souls III* closely resemble those of Seath; not only visually, but also functionally, as they cause curse build-up in those who come too close, similar to Seath's Curse Beam attacks.\nSeath's character is an homage to the dragon god of the same name in FromSoftware's King's Field series for the original Playstation. The Souls series is often referred to as the spiritual successor to King's Field.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5895234863424541,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2e5d4529-5015-59f6-aac6-1eaf469fce6f",
+    "title": "Seath the Scaleless",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Seath the Scaleless -  Dark Souls - boss - strategies \n strategies : When first encountered in The Duke's Archives, he regenerates health extremely quickly due to the power of Primordial Crystal, effectively making him invincible.. He inevitably kills the player. Loss of souls and humanity can be avoided by wearing a Ring of Sacrifice, but if he kills the player through Curse, then a Rare Ring of Sacrifice is needed to avoid penalties. In addition, it is possible to travel back through the fog door to avoid being killed by Seath, however can still go through the fog wall after exiting. Regardless, the player must be killed by Seath in order to progress.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6616663012555981,
+    "bm25_score": 37.98185643379969
+  },
+  {
+    "document_id": "2f9c2ac6-8f4c-5fa3-a111-d719a6ed81f9",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Seath eventually sired a humanoid hybrid daughter, Shira. Although the mother is never stated explicitly, Shira is both \"one whose veins coarse with royal blood\", and a \"descendant of Gods\", making her likely mother Seath's spouse who was a relative of Gwyn.\n Shira became the sworn knight and personal handmaiden to Princess Filianore, Gwyn's last daughter, and the two, together with the dragon Darkeater Midir, would be forever sent away to the Ringed City, the hidden city Gwyn gifted to the humans who helped him end the Age of Ancients, so that the three would keep the Dark within at bay. Shira would remain in the Ringed City for the rest of her life, dutifully guarding Filianore over countless ages, although she would always take pride in being Seath's daughter.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3178199e-9947-5bbb-8d86-54f5ae0f95ba",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Another possible daughter of Seath was Crossbreed Priscilla, a half-dragon hybrid whose dragon attributes are reminiscent of him; as she is outright described as a bastard, she would have been conceived out of wedlock. Priscilla was feared by the other gods and treated as an abomination due to her Lifehunt powers and unnatural origin. Eventually she was drawn away into the cold and lonely Painted World of Ariamis, trapped within a great canvas.\n\nSeath seemingly had little interest in politics or pleasure, choosing to immerse himself in research of the scales of immortality that the ancient dragons possessed but he lacked. His Archives became a magnificent pool of tomes and knowledge, the fruits of Seath's superior wisdom and unsound fixation over achieving the immortality that was denied to him at birth.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "35795752-f63d-51b1-b835-d9bea200e969",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "At some point, the Four Lords who had found immense Lord Souls and built their civilizations underground emerged to the surface with the intention of waging war against the Dragons and conquering the world for themselves. Seath decided to betray his race to ally with Gwyn, Lord of Sunlight, and help the Lords in the war. He was instrumental in the gods' eventual victory, and the triumphant Lords would exterminate much of the Ancient Dragons, cementing their rule. Seath would also pillage the Ancient Dragons' sacred treasure, the Primordial Crystal, the centerpiece of his efforts to achieve immortality.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "39074c44-e69d-5bbb-b2fc-2bf6c6bbbf7f",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "maidens of Gwynevere, before Seath's experiments transformed them. Although Gwyndolin, as the last remaining deity in Anor Londo, did not punish him for this heinous act, Seath was confined to his Archives, declared a forbidden area and demarcated by a divine magical barrier, so that no one could approach the Archives. Meanwhile his Channelers, steadfast in their service of the Duke, continued their travels, kidnapping subjects for his experiments.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3f17b1be-a307-5fa8-a998-9f7e96b58f43",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "infestation with satisfaction. The spider haunted by Seath thus returned to the depths of the mines next to the petrified body of the ancient dragon and began to accumulate the souls gathered in the lands of Tseldora, absorbing them from people until they grew immensely. Though Freja was ultimately slain, Tark was doubtful it would be the end of Seath.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "424715dd-839a-5af7-8a2e-ea1bdc7f960e",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Following the death of their creator, multiple moon butterflies survived over the centuries, migrating to Drangleic and mutating into lesser Great Moths and developing poisoning abilities. They remained rare and mysterious creatures that appeared only on full-moon nights in winter, and whose larvae were never once spotted. Other creations of Seath that reached Drangleic included Manscorpion Tark and Scorpioness Najka: Two of Seath's many experiments on humans, the pale dragon's crossbreeding experiments had seemingly cursed their souls into being together. The two were well aware of being the product of Seath's madness and his obsessive attempt to achieve immortality.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4a066c7d-7705-5783-abc8-7a68a52b44f7",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Studying the sorceries and knowledge brought to the Archives by the Crystal Sages, Oceiros would find himself walking the same path as Big Hat Logan, one that led to enlightenment only to be followed by madness. The king, in his deep delusions, believed he had to become a dragon himself in order to produce an heir strong enough to link the Flame. His mad plans would find support from Pontiff Sulyvahn, who began experimenting with transforming humans into pale dragons. Despite the large number of failures and abominations that presented only a faded fragment of the dragons' strength, the experiments were eventually successful and Oceiros managed to transform himself into a scaleless dragon resembling Seath, albeit an imperfect and distorted one, even obtaining the sorcery of Seath's crystal breath.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4b85a25a-517e-5aa3-b6ed-a0c4ab28d11f",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "At some point after Gwyn linked the First Flame and Gwyn's firstborn son was dethroned and exiled, nearly all of the other deities abandoned Anor Londo and moved to an unknown location. Seath remained in his Archives, now completely estranged from the world and obsessed with his research.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5a47a587-e9b4-5ec4-85fa-5fe5f38feb6a",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Seath's research focused on souls, seeking ways to manipulate them and draw out the power within, mainly through sorcery. Seath, in possession of the Primordial Crystal, noticed the peculiar connection between crystals and souls, and the way in which this element could be used to best catalyze their power, as crystals represented an ideal medium to create a bond between souls and objects. Seath would thus pioneer the Crystal Sorceries, a powerful branch of sorcery. The revelation was the beginning of Seath's obsession with crystals, which became the focus of much of his experiments. He managed to create a Crystal Ember capable of infusing weapons with the power of the crystals and passed this knowledge on to the Giant Blacksmith of the gods.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5f0e5ce8-7134-5e2e-93c1-8b12305efef1",
+    "title": "Seath the Scaleless",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "His only long range specific attack is the far curse beam. That means if players stay at a distance, one can lure him to fire the beam and charge his defenseless body.\n\nCrystal curse explosion triggers when the player cannot be reached by any of Seath's other attacks; usually when situated behind Seath with the tails just out of reach. One strategy is to begin sprinting a good distance away from him once he arches forward to charge a ball of magic. A second approach would be to develop a high enough curse resistance and block some of the erupting crystals. Immediately heal the damage received before he executes his tail swipes/slams.\n\nBeing the grandfather of Sorcery, Seath is extremely resistant to Magic damage, so it would be wise to try to use a different element when combating him.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7059510464213503,
+    "bm25_score": 29.484243513512887
+  },
+  {
+    "document_id": "5fc0e07d-b6a2-506c-8194-117220068601",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "However, the knowledge within the tomes, said to \"[all too easily] wash away its inquirers' anchors of reason\", posed a threat to the sanity of the scholars. The profound research into the nature of the soul that once drove Logan into madness was likely contained within the Archives. The \"foulness\" that permeated the books manifested physically as well, in the form of ghostly and pale limbs that attacked and cursed those who came too close.\n\nIn the final years of Lothric's kingdom, King Oceiros, frustrated by continuous failures to find a worthy Champion, turned to the cursed knowledge of the Grand Archives. Here he found the twisted worship of Seath, developing a fascination for the Pale Dragon and the secrets of his moonlight. His newfound devotion was testified by his dragonscale ring, which he claimed protected him from his enemies, and his army's usage of shields decorated with a white dragon.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6058a25d-f918-5ef3-849f-b79cdaa7d006",
+    "title": "Seath the Scaleless",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Seath the Scaleless -  Dark Souls - boss - trivia \n trivia : Respawning at the prison bonfire is tied to the room and not dying to Seath. This means being killed by Seath while outside the room will not move the player to the prison.\n**Similarly, if Big Hat Logan kills the player in this area they will be moved to the prison.\nIf the player cuts off Seath's tail it may not disappear and will persist after Seath has been killed.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5730594514510358,
+    "bm25_score": 31.13077252858784
+  },
+  {
+    "document_id": "61d3a085-3bbd-5a65-90f1-395e87c1e9a6",
+    "title": "Seath the Scaleless",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "It should be noted that Seath takes extra damage if hit in his belly. As an example, when hit with standard 1H fast attack Man-serpent Greatsword +15 in of his tentacles at STR 40, Seath takes 226 damage. And if hit in his belly by the same attack, he will take about 450 damage. If the character is tanky enough and has enough Curse resistance, he can stay right at Seath's belly and hit him without pausing until Seath dies, using his Estus Flask only one or two times.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6426384374134589,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7797e619-4cf9-5bbe-b888-4baed141f7d9",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "At some point the Crystal Sages reached Lothric and became the spiritual guides of the scholars of the Grand Archives. The Crystal Sages introduced to Lothric not only crystal gems but also the heretical belief in the pale dragon Seath and his mad knowledge. The sages would thus continue to work on their research within the Grand Archives, even taking Daughter of Crystal Kriemhild as their pupil, and crafting weapons and casting tools that used the power of crystals to enhance their magical power, representing how the fruits of the lifetime of research had advanced to an impressive level and still followed the works of the pale dragon. The Grand Archives would grow into an enormous structure housing volumes of research on Seath's crystal sorceries.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7a5f88e6-d4ba-5f85-9fd3-67e06de9978e",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Through their successful alliance against the Everlasting Dragons, Seath became a close friend to the Lord of Sunlight and was amply rewarded for his indispensable contributions to the war. He was wed into Gwyn's family as his son-in-law, inducting him into the nobility of the Gods, and was bestowed the honorific of \"Duke\". Gwyn further gifted Seath a fragment of his powerful Lord Soul and the Royal Archives, an enormous library towering above Anor Londo, which contained all the knowledge available to the city of the gods, leaving the dragon the freedom to do his own research; in time, the archives became so synonymous with Seath that they became known as \"The Duke's Archives\" instead.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "888f3cd2-6eff-5186-a53b-42d230a14836",
+    "title": "Seath the Scaleless",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Seath the Scaleless -  Dark Souls - boss - lead \n lead : , also known as **Duke Seath**, is a boss in *Dark Souls*. He is also a mentioned character in *Dark Souls II*, albeit only as the \"**Paledrake**\", and a mentioned character in *Dark Souls III*.\n\nOne of four great beings who must be slain in *Dark Souls* so that their special souls may satiate the Lordvessel, he uniquely has two distinct boss battles, each with a different location and moveset. In another unique occurence, the first one atop The Duke's Archives must result in the player's death for the game to progress, while he can actually be defeated in his true boss battle at the end of the Crystal Cave.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5934797383705775,
+    "bm25_score": null
+  },
+  {
+    "document_id": "918e9fe1-a6d9-5845-9137-69d02b703c32",
+    "title": "Seath the Scaleless",
+    "section": "moonlight_greatsword",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "You can also use fast spells to cut his tail. Unlike using weapons, it is recommended to retreat from the boss battle (Homeward, Homeward Bone, or quit game) if you fail to cut it on the first try after breaking the crystal.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9c939fed-3fe8-5931-a02c-3474aaf5ef6b",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Seath the Scaleless -  Dark Souls - boss - dark_souls_iii \n dark_souls_iii : By the era of Lothric, Seath was still widely considered the \"pale dragon\" of legends even by the sorcerers of Vinheim, though his crystal sorceries were all but consigned to legend.\n\nThere were some who still upheld Seath's legacy: The Crystal Sages, twin scholars who considered themselves the spiritual successors of the legendary grand sage Logan, came to possess the Crystal Scroll containing the sorceries and research of the pale dragon, which lead to Logan's records of Crystal Sorcery. The two sages were thus able to carry on this branch of sorcery, allowing them to replicate Logan's discoveries that utilize the power of crystals to their fullest as a medium for souls thanks to his \"enlightenment\" in the Regal Archives of Seath.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9fd54928-3724-550a-9bd4-82d5b70b3f56",
+    "title": "Seath the Scaleless",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Upon encountering him again within the Crystal Cave, he will be fought within an arena that contains the Primordial Crystal. In order to defeat Seath, it is necessary to destroy the Primordial Crystal so that any damage dealt to him is not immediately healed. The crystal will respawn if the player dies or leaves the fight, making it necessary to destroy it in each attempt to defeat Seath.\n\nStaying at his side makes it easier to stay out of the area-of-effect of his breath attacks, and he won't be able to hit with his claws or tail as easily. [https://www.youtube.com/watch?v=DI022PgUq38%7CVideo Video]\n\nIt is also possible to use only a bow against Seath with great success. Get a good distance away from him and it is possible to get 4-5 shots in before he gets too close. The only real danger in this strategy is when running past Seath to gain some distance.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a2729ca4-0b13-57b6-8544-e948bbb151d0",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "At the culmination of his quest, Seath was able to achieve what he had always sought: immortality through the Primordial Crystal. By connecting his body and soul to the powerful crystal, the pale dragon gained insulation from death, so that no mortal blow could affect him and his wounds would close promptly, as long as the crystal was intact. His very breath became a powerful crystal breath that emitted a lethal curse.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a65eba0e-76f3-511c-b575-2502c97bdd0b",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Seath the Scaleless -  Dark Souls - boss - dark_souls \n dark_souls : Seath is one of the primordial archdragons who inhabited the world when, before the appearance of the First Flame, the world was composed only of grey rocks.\n\nSeath was born with unique characteristics compared to the other archdragons, lacking the rock scales that made his brethren immortal. In addition, Seath's pale and deformed body was infused with the magical power of moonlight, through the study of which he created weapons that catalyzed it.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5800297917574089,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a6fd3a6d-490a-5a11-9c13-855b39d63de7",
+    "title": "Seath the Scaleless",
+    "section": "moonlight_greatsword",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Seath the Scaleless -  Dark Souls - boss - moonlight_greatsword \n moonlight_greatsword : To cut off a tail it's necessary to deal a certain amount of damage against it. The HP of the tail increases with higher NG cycles and is based on the HP of the respective enemy. Seath's tail has 825 health on Ng and 1,295 on NG+.\nEquipment load under 25% is highly recommended to cut his tail.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6307352480543525,
+    "bm25_score": null
+  },
+  {
+    "document_id": "aa6e6909-7acc-53d3-a6fb-4a1620a15e3c",
+    "title": "Seath the Scaleless",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Being the grandfather of Sorcery, Seath is extremely resistant to Magic damage, so it would be wise to try to use a different element when combating him.\n\nWhen trying to obtain the Moonlight Greatsword it is best to attack the tip of the tail, as the area around midway through the tail is considered his body. Thus dealing damage to this area will not help in acquiring the Moonlight Greatsword.\n\nA good strategy for acquiring it is when Seath himself breaks the Primordial Crystal. Wait behind the crystal until Seath starts to rear up his head for any of the Curse Beam attacks. Just before he fires it, start sprinting left or right around the sides and towards his tail. Seath will break the crystal and stun himself, giving the player ample opportunity to attack his tail three to four times. Make sure Seath's tail isn't clipping in the wall before trying.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5668707629538874,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b1296deb-8a22-540f-bc9a-77ce1ae305fb",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "The pale dragon's experiments were successful in animating Crystal Golems with souls and infusing Undead Soldiers with crystals. To adequately supply his research, the cave that housed his Primordial Crystal was gradually crowded with crystals, nearly overtaking the Archive's inner gardens. Seath also created the soul of the Moonlight Butterflies, mystical creatures that emitted crystallic power and Seath's moonlight as sorceries. Seath also managed to crystallize his own magical power of moonlight, creating a Greatsword that catalyzed it.\n\nAs a nobleman on par with the gods, Seath also had personal servants. His Channelers, trained sorcerers that became his eyes, hands, and feet, would reach and see what the dragon could not, and helped him in his research. The Channelers wore outfits representing Seath, with the six eyes on their helms meant to \"compensate for Seath's lack of sight\"; the nature of his lack of sight, and when he became impaired, are unknown.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bd0f64f5-ee89-5689-be26-ef4c173137a3",
+    "title": "Seath the Scaleless",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "The structures of Seath's Crystal Cave endured and \"drifted\" to settle underground in southern Drangleic, the power of the white dragon lingering on as radiance within the crystals. The crystals infused with the souls of Seath became known as \"Brightstones\" and the kingdom of Olaphis mined these gems, refining and polishing them to be incorporated into their staves and rings, used as amplifiers for their sorceries.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bd5d257c-ebc7-5d27-844b-477d786f1b33",
+    "title": "Seath the Scaleless",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Seath the Scaleless -  Dark Souls - boss - location \n location : Encountered at the top of The Duke's Archives, and later at the end of the Crystal Cave.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6005058620495961,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fd240ae0-607e-56ef-b0af-92c8c486085c",
+    "title": "Ring of Sacrifice",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "**Be very careful however, as Seath's crystal breath attacks can cause Curse buildup. Dying from Curse will trigger a normal death, causing you to lose your souls and/or humanities, while the ring is equipped. Best case scenario is to equip yourself with the ring and Curse-resistant armor pieces so you can still die while having the souls and humanities retained.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.726989193929868,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e4f27aa9-c202-5a1b-81a7-868ae24fdd02",
+    "title": "Curse (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Curse (Dark Souls II) -  Dark Souls II - mechanic - lead \n lead : **Curse** is a negative status effect in *Dark Souls II*. When the player is affected by a source of curse, they will slowly develop curse buildup, displayed on the screen as a filling bar. When the bar becomes completely filled, the player becomes cursed. Phantoms cannot be cursed. Curse buildup is inflicted by some enemies and hazards.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6831779338579373,
+    "bm25_score": 41.15239720294917
+  },
+  {
+    "document_id": "e197e896-5380-5ad5-8620-b2c807ddead2",
+    "title": "Curse (Dark Souls)",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Curse (Dark Souls) -  Dark Souls - mechanic - general_information \n general_information : When assaulted by those who cause Curse buildup, the Curse meter gradually fills in a similar manner to that of Poison. Once filled, instant death occurs, leaving behind a statue, and the player returns to the last bonfire rested at.\n\nThe player character may become cursed during their death animation if they die of a different cause just before the Curse buildup meter fills. This is most likely to happen while fighting Seath the Scaleless, but the timing required is very specific. Wearing a regular Ring of Sacrifice in this situation has absolutely no effect as the death is retroactively considered to be death by Curse by the game.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6801325311070137,
+    "bm25_score": 40.72108529585392
+  },
+  {
+    "document_id": "1d201d93-6a11-5ba6-a108-e39ca952ba49",
+    "title": "Negative Status Effects (Dark Souls III)",
+    "section": "curse_dark_souls_iii_curse",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Negative Status Effects (Dark Souls III) -  Dark Souls III - mechanic - curse_dark_souls_iii_curse \n curse_dark_souls_iii_curse : The most dangerous status effect in the game, **Curse** will cause instant and immediate Death if the status effect bar completely fills up. The only way to prevent this is by letting the status effect dissipate over time, or by consuming a Divine Blessing.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6743185235882136,
+    "bm25_score": 47.02582629746348
+  },
+  {
+    "document_id": "2b2a5225-e62d-5a4e-b888-0e57da6964a3",
+    "title": "Curse (Dark Souls III)",
+    "section": "overview",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Curse (Dark Souls III) -  Dark Souls III - mechanic - overview \n overview : Usually found in the form of a cloud of mist, Curse will slowly build-up in a player. As Curse is inflicted repeatedly, the status bar will continue to increase until it fills up, at which point immediate death occurs. This is the only instance where the Ring of Sacrifice cannot prevent the loss of souls upon death.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6630793028915647,
+    "bm25_score": 32.154873992379535
+  },
+  {
+    "document_id": "9b9ef8e9-52df-5973-809f-8ddbfca26344",
+    "title": "Negative Status Effects (Dark Souls II)",
+    "section": "curse_dark_souls_ii_curse",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Negative Status Effects (Dark Souls II) -  Dark Souls II - mechanic - curse_dark_souls_ii_curse \n curse_dark_souls_ii_curse : Curse immediately reduces HP equal to one level of hollowing when it takes effect. If a player is cursed while human, they will now be unable to summon other players. Curse will also apply the visual changes of hollowing, such as loss of hair and bodily decay. Upon reaching full hollowing, curse will no longer affect players until they become human again. Curse also has no effect on phantoms, whether they are friendly or hostile to the host.\n\nCurse Resistance reduces buildup by 1% for every 10 points. The Hollow Skin makes the player completely immune to the Curse status effect. In *Scholar of the First Sin*, the Black Witch Veil also grants complete curse immunity.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6537763534728357,
+    "bm25_score": 40.544054882554924
+  },
+  {
+    "document_id": "e107f281-4c5d-5700-91bf-c0ffd79c3a6b",
+    "title": "Seath the Scaleless",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Seath the Scaleless -  Dark Souls - boss - attacks \n attacks : {'name': 'Left or Right Hand Swipe', 'description': 'Seath will swipe his left or right hand at the player. This is incredibly damaging and can only be blocked by high stability shields, but fairly easy to dodge since his hand hitbox is small.'}",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6530393433654447,
+    "bm25_score": null
+  },
+  {
+    "document_id": "17872471-aaa1-5cc1-b132-ccbb24a8b691",
+    "title": "Negative Status Effects",
+    "section": "curse_dark_souls_curse",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Negative Status Effects -  Dark Souls - mechanic - curse_dark_souls_curse \n curse_dark_souls_curse : Once inflicted, Curse immediately kills the player character and adds a Curse stack to their next life, halving their maximum HP until removed. Curse build-up can be removed by using a Purging Stone, Divine Blessing, or the Resist Curse sorcery. Curse can be removed with Purging Stones or by talking to Ingward (New Londo Ruins, or Firelink Shrine after talking to him when the Four Kings are defeated).\n\nCommon sources of Curse include Basilisks and Seath's breath.\n\nCursed player characters can damage the Ghosts and Banshees in New Londo Ruins without using Transient Curses.\n\nCharacters who die to Curse will spawn statues in other players' worlds as a warning.\n\nPreviously, Curse could stack. This would continuously halve a character's maximum HP with each successive Curse, with two stacks reducing it to 1/4, three to 1/8, etc. This has since been patched.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6427835482571582,
+    "bm25_score": 29.511865524516786
+  },
+  {
+    "document_id": "d1e29a9e-4469-5a64-9a1c-997d9e76fbf6",
+    "title": "Resist Curse",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Resist Curse -  Dark Souls - spell - general_information \n general_information : Resist Curse does not cure the effects of Curse, but only eliminates its buildup to prevent death. Despite the description, casting it does not reduce liquid Humanity.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6373293027146989,
+    "bm25_score": 29.006447263973143
+  },
+  {
+    "document_id": "deaa3e18-869a-5f09-beb0-8c9005d62309",
+    "title": "Seath the Scaleless",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Seath the Scaleless -  Dark Souls - boss - description \n description : Seath is a large white dragon that lacks scales and has his lower body covered in crystals. He has a smooth torso that is quite humanoid and in place of legs he has several tentacle-like tendrils. He has six blue-violet wings and has long appendices extending from his head.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6360382217351837,
+    "bm25_score": null
+  },
+  {
+    "document_id": "20244b74-750b-579e-881b-1e60cd309bd8",
+    "title": "Curse (Dark Souls)",
+    "section": "effect",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Curse (Dark Souls) -  Dark Souls - mechanic - effect \n effect : The player's health will be reduced to half of its maximum capacity (before bonuses such as from the Ring of Favor and Protection are figured in) and it becomes impossible to kindle Bonfires or to use humanity for reverse hollowing. However, cursed players may attack the Ghosts and Banshees in the New Londo Ruins without having to use a Transient Curse.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6338128739467175,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6f24f41a-487c-5274-bd95-17e329a63f95",
+    "title": "Curse (Dark Souls III)",
+    "section": "curse_prevention",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Curse (Dark Souls III) -  Dark Souls III - mechanic - curse_prevention \n curse_prevention : The following methods can increase resistance to Curse:\nCursebite Ring\nDeep Protection\nFleshbite Ring\nIron Flesh\nMossfruit\nProfuse Sweat\nLeveling the Luck stat\nArmor with high Curse resistance\nWolf Knight's Greatshield\n\nThere is no way to clear Curse buildup, outside of avoiding accumulating more and waiting for the status bar to gradually diminish.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6337205109871847,
+    "bm25_score": null
+  },
+  {
+    "document_id": "626e76e1-7ac8-5c65-b0e3-8e229604116a",
+    "title": "Curse (Dark Souls)",
+    "section": "equipment",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Curse (Dark Souls) -  Dark Souls - mechanic - equipment \n equipment : {'name': 'Shields', 'description': 'The Bloodshield is the only shield that offers resistances to negative status effects, and is a good choice when facing enemies that inflict Curse.'}",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6296171128417185,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4263596c-c7ab-50db-8082-4a0c936cd113",
+    "title": "Curse (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Curse (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : **Curse** is a negative status effect caused by spells or attacks from certain enemies within the game, most notably the mist from Basilisks.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6265611550540843,
+    "bm25_score": 31.3571513011318
+  },
+  {
+    "document_id": "a689e21e-5317-58e2-b1a3-8ff39c61a68c",
+    "title": "Curse (Dark Souls III)",
+    "section": "sources",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Curse (Dark Souls III) -  Dark Souls III - mechanic - sources \n sources : The most well known source of this status effect is the Basilisk's cloud breath attack. Additionally, the two Deep Accursed found in the Cathedral of the Deep and Anor Londo inflict Curse buildup with every attack. The stationary Pus of Man that inhabit the Wyverns in Lothric Castle can expel Curse-inflicting projectiles from their mouths.\n\nDuring the battle with the Deacons of the Deep, one of the attacks in the second phase consists of the deacons conjuring an orb of Deep energy above Archdeacon Royce's staff, which travels through obstacles and inflicts Curse buildup as well as dealing damage. They can also channel a room-filling fog that gradually builds Curse, which can be interrupted by killing the four deacons that are performing the ritual.\n\nSome of the books in the Grand Archives contain Clawed Curses that inflict damage and Curse. By dipping one's head in wax, the player can negate both effects.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.625657336407413,
+    "bm25_score": 32.034967851565675
+  },
+  {
+    "document_id": "f27138b3-cfbf-5f42-94e7-d34108c44821",
+    "title": "Curse (Dark Souls)",
+    "section": "curing",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Curse (Dark Souls) -  Dark Souls - mechanic - curing \n curing : Unlike curing most other negative status effects, Divine Blessing does not cure Curse or its buildup. Equipping a Rare Ring of Sacrifice while already cursed, then dying will not cure the cursed status either. Using a Purging Stone both cures Curse and reduces its buildup to zero. It is also possible to seek out Ingward, in the New Londo Ruins, who is able to cure Curse for the cost of one liquid humanity. Ingward will travel to Firelink Shrine after speaking to him when the Four Kings are defeated, making the curing of Curse that much easier. It is also possible to purchase the Resist Curse sorcery from Ingward. This only cures buildup, however. One can additionally raise one's humanity counter, as this moderately increases curse resistance.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.624764784941992,
+    "bm25_score": 30.73534508368088
+  },
+  {
+    "document_id": "8462211c-47c6-5b86-8b02-7a9f7f279364",
+    "title": "Curse (Dark Souls II)",
+    "section": "curse_resist_and_immunity",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Curse (Dark Souls II) -  Dark Souls II - mechanic - curse_resist_and_immunity \n curse_resist_and_immunity : A player's innate Curse Resistance is boosted by leveling up both the Attunement and Adaptability stats, and by certain armors and rings should the player equip them. The Perseverance miracle also gives a temporary boost to Curse resistance. Players always have 100 more curse resistance than what the menu says.\n\nCurse resistance reduces buildup by 1% per every 10 points.\n\nWhen a player reaches 900 Curse Resistance (menu value), they become completely immune to Curse.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6221963794782398,
+    "bm25_score": 38.00684533963588
+  },
+  {
+    "document_id": "9d8f9636-a595-537b-b9fe-39b85b59eff7",
+    "title": "Curse (Dark Souls)",
+    "section": "see_also",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Curse (Dark Souls) -  Dark Souls - mechanic - see_also \n see_also : Negative Status Effects",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.617183840472406,
+    "bm25_score": null
+  },
+  {
+    "document_id": "40e7147f-349b-5d9d-ba93-01c41c8421f3",
+    "title": "Curse (Dark Souls II)",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Curse (Dark Souls II) -  Dark Souls II - mechanic - effect \n effect : Once the player has been cursed, they will become further hollowed by one level, reducing their maximum health similar to if they had died. It is possible to be cursed multiple times, making it a priority to remove or escape the source of curse before it can cause the player to become completely hollowed. After being cursed 10 times, health will be reduced to a maximum of 50%. A curse buildup and cooldown will continue to occur if the player is still exposed to a curse source after being cursed 10 times, but no further penalties will be incurred. The exception to this is if the player has Sinned to the point of becoming a Wretch, in which case they may lose up to 95% of their max health.\n\nHollowed players may still be Invaded and may still participate in Co-op as a summon. Summoning or invading will be disabled until the player restores their humanity.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6139212419599585,
+    "bm25_score": 32.004239866733556
+  },
+  {
+    "document_id": "00e0c721-0e21-59e0-87c8-d00c8c4155de",
+    "title": "Curse (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Curse (Dark Souls) -  Dark Souls - mechanic - lead \n lead : **Curse** is a negative status effect in *Dark Souls*.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6121099685686766,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8e99705e-b6d8-5362-a282-049f14fc014c",
+    "title": "Curse (Dark Souls II)",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Curse (Dark Souls II) -  Dark Souls II - mechanic - notes \n notes : During the fight with Nashandra, she will cast four dark orbs that surround her and curse the player, while also draining their health; achieving curse immunity will not negate the health drain.\nIf the player gathers all three crowns from *The Lost Crowns* DLCs as well as the King's Crown, and returns to the Undead Crypt and uses the Ashen Mist Heart to speak to Vendrick, they are awarded Vendrick's Blessing, granting immunity to Curse, and won't hollow upon death as long as they are wearing the King's Crown, Crown of the Sunken King, Crown of the Old Iron King, or Crown of the Ivory King.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6043325715631216,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cdf69c5a-3c7c-5e8f-8864-c5d736d6795f",
+    "title": "Seath the Scaleless",
+    "section": "moonlight_greatsword",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Equipment load under 25% is highly recommended to cut his tail.\nLure Seath as close as possible to the crystal. It is ideal to kite Seath close to one of the walls, so that when he attacks with his breath, you have plenty of room to move around his other side. Once Seath is close enough to you he will pause and begin his breath attack; immediately run behind Seath. Run to his left side (your right), as he breathes his crystal breath from his right to his left. Seath will destroy the crystal with his own breath attack and be stunned temporarily. Without locking on to him, target the tip of his back (middle) tail and attack it while two-handing your highest damage weapon or using fast strong spells.\nUse weapons that have vertical slash when two-handed: katanas, straightswords, greatswords, ultra greatswords, etc. Slash the tip once or twice, then run away. Provoke him to attack with his crystal breath, run to his tail, slash once or twice again, then repeat.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.598577516852827,
+    "bm25_score": null
+  },
+  {
+    "document_id": "28fb3df6-8e67-55c1-9bb7-ee78594f2952",
+    "title": "Dragon",
+    "section": "age_of_ancients",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "The tide was turned when Seath the Scaleless betrayed his own kind, and sided with the Lords. For this he was awarded Dukedom, embraced by the royalty, and given a fragment of a great soul. Seath had been born deformed, and lacked the stone scales that gave his brethren their immortality. He is also is considered the grandfather of sorcery.\n\nThe Lords were successful, and claimed dominion of the world.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5968962794864805,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b582e7c1-6565-5225-b742-6448cd21461d",
+    "title": "Nashandra",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "All of her attacks inflict Curse Build-up.\n\nFor melee characters it is also possible to equip light armor and dodge her attacks, ignoring the Curse buildup and only healing when your health starts draining. Also a good method for melee users is to wait at a distance for her to come towards the player, baiting her away from the four curse fountains. The curse fountains can be broken, stopping the curse buildup and health drain.\n\nSummoning help will make the fight easier, even if it's only the two characters Vengarl of Forossa and Benhart of Jugo, as they will draw attention, leaving you with a good amount of room to deal damage and heal as needed.\n\nAn effective strategy if one has pyromancies is to stay far away until she fires her vertical \"laser\", then simply lobbing flame attacks at her.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5966981533094154,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ad7666b3-f8af-5ca2-8b9c-ed313f5b01ef",
+    "title": "Cursebite Ring (Dark Souls II)",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Cursebite Ring (Dark Souls II) -  Dark Souls II - ring - effect \n effect : Increases Curse resistance by 400 (40%).",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5964393587376577,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d5b1cc9d-39cf-5dbf-8417-dd9cfe9f8ecf",
+    "title": "Curse (Dark Souls)",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Curse (Dark Souls) -  Dark Souls - mechanic - trivia \n trivia : When a player becomes cursed in online play, their statue is left behind and it may appear in another player's world. This can serve as a warning to other players that a source of curse is found nearby. These statues can block a player's way, but can be destroyed with weapons or by rolling into it.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5960681392684993,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e33159ca-4b91-5c0f-8ab1-9548776bb0e2",
+    "title": "Curse (Dark Souls)",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Curse (Dark Souls) -  Dark Souls - mechanic - notes \n notes : Curse can be prevented by exiting the game immediately after being cursed. This ignores both the HP reduction and death caused by the curse.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5943076537554051,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a8945490-dd4e-5ca6-beae-9891c00d537b",
+    "title": "Curse (auxiliary effect)",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Curse (auxiliary effect) -  Dark Souls - item - general_information \n general_information : Curse is a hidden effect that is innately imbued on a very small number of weapons.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5916428827469115,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ecf64b47-f745-5231-87c8-bd68f8d4be46",
+    "title": "Negative Status Effects (Dark Souls III)",
+    "section": "preventing_and_curing_status_effects",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Negative Status Effects (Dark Souls III) -  Dark Souls III - mechanic - preventing_and_curing_status_effects \n preventing_and_curing_status_effects : Status effect defense can be inherently increased by leveling certain stats:",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5899622839505937,
+    "bm25_score": null
+  },
+  {
+    "document_id": "04f4a8b9-efc1-5344-ab3a-557b9be218d3",
+    "title": "Curse (auxiliary effect)",
+    "section": "effect",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Curse (auxiliary effect) -  Dark Souls - item - effect \n effect : The Curse Auxiliary Effect allows the player to damage the Ghosts of New Londo without needing to consume a Transient Curse or be inflicted with Curse. If using a cursed weapon two-handed or in the left hand, it can also be used to block the attacks from ghosts.\n\nDespite not actually using the weapon, kicking while using a cursed weapon in the right hand will still affect ghosts.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.578499402594748,
+    "bm25_score": 33.32357974162031
+  },
+  {
+    "document_id": "80202321-7395-50b4-b80f-b302fd654f3e",
+    "title": "Resist Curse",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Resist Curse -  Dark Souls - spell - availability \n availability : Sold by Ingward for 5,000 souls.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5761417671989608,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b50528ea-034c-5727-9aea-6c51b60840c6",
+    "title": "Transient Curse",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Transient Curse -  Dark Souls - item - description \n description : Limb of the victim of a curse. Temporary curse allows engagement with ghosts.\n\nThe only way to fight back against ghosts, who are cursed beings, is to become cursed oneself. The safest method, however dreadful, is to cut off an arm of the dead.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5752355164565185,
+    "bm25_score": null
+  },
+  {
+    "document_id": "64bb5692-0643-566b-8645-7e709f3aafb1",
+    "title": "Cursebite Ring (Dark Souls III)",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Cursebite Ring (Dark Souls III) -  Dark Souls III - ring - effect \n effect : Increases Curse resistance by 90.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5742574376272608,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c60c7e81-4da3-53fd-9089-a6b05dba1321",
+    "title": "The Pursuer",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "He is vulnerable to lightning damage and somewhat vulnerable to magic.\n\nHe is also capable of inflicting Curse on the player. This attack is telegraphed by the Pursuer extending its arms and hovering slowly toward the player, the sword will glow blue and the Pursuer will lunge forward, impaling the player, then lift them into and release a Curse-inducing cloud. It is possible to avoid getting cursed if the player is killed by the initial lunge. If the player is successfully Cursed by this move, the Pursuer will get a power boost, evidenced by its glowing, red eyes and a black mist surrounding it. This allows the Pursuer to release Dark orbs that homes in on the player. If any of the orbs connect with the player, they will deal massive damage and cause Curse build-up.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5734798721136775,
+    "bm25_score": 32.035359339429235
+  },
+  {
+    "document_id": "a4c46ec0-4db6-5d93-94aa-21b3680ec28c",
+    "title": "Curse (Dark Souls III)",
+    "section": "sources",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Some of the books in the Grand Archives contain Clawed Curses that inflict damage and Curse. By dipping one's head in wax, the player can negate both effects.\n\nThe third Angel of The Dreg Heap in will cast a beam of light at the player's location if they leave its line of sight while being attacked. The light will rapidly build up Curse but does not track the player after the initial cast, and leaves the Angel motionless for several seconds.\n\nSeveral petrified Undead Clerics within the Ringed City emit an aura which slowly builds up the player's Curse meter if they remain within its vicinity.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5734742195150743,
+    "bm25_score": 36.197491001652295
+  },
+  {
+    "document_id": "fa6fec6a-ad0b-5966-87c4-42a8127d5591",
+    "title": "Soul of a Great Hero",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Soul of a Great Hero -  Dark Souls - item - availability \n availability : One can be found where the player initially encounters Seath the Scaleless, on a platform above the grotto where Seath used to be.\nOne can be found in Lost Izalith, in the lava area.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5664034863227659,
+    "bm25_score": null
+  },
+  {
+    "document_id": "43467891-acb3-5939-8983-e83b7979b9a0",
+    "title": "Curse Jar",
+    "section": "effects",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Curse Jar -  Dark Souls II - mechanic - effects \n effects : The Curse Jar releases a dark smoke that quickly inflicts curse status when the player stands near (this only affects the host of the world). These jars have a large spherical area of effect, allowing them to curse a player even if they are standing either on a floor above or below, coinciding with the respective location of the jar. If the curse meter suddenly starts building up and laughter can be heard, the player should quickly move away from that spot and scout the surroundings to determine the location of the jar.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 39.17653456500466
+  },
+  {
+    "document_id": "9899ed06-b0f0-558b-a901-38dbe61a52e4",
+    "title": "Hollow Skin",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Hollow Skin -  Dark Souls II - armor - notes \n notes : The Hollow Skin grants a permanent effect identical to Guidance when worn.\nThe Hollow Skin grants complete immunity to Curse (1,000 Curse Resistance), although the player will still lose health slowly when fighting Nashandra.\nWhen worn, the player will be able to see diverse messages left by the programmers throughout the game, which usually hint of secret areas nearby.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 34.768134047461444
+  },
+  {
+    "document_id": "25380414-bbfd-5583-8210-eb76d0b16a14",
+    "title": "Bearer of the Curse",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Bearer of the Curse -  Dark Souls II - character - lead \n lead : The **Bearer of the Curse** is the player character and the protagonist of *Dark Souls II* and its expansions, *The Lost Crowns*.\n\nThe Bearer of the Curse travels to Drangleic by a compulsion to find a way to break the curse of the undead and avoid Hollowing at any cost.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 33.089591990835906
+  },
+  {
+    "document_id": "4ef05f78-f45f-5ff7-ba61-23c2510925ba",
+    "title": "Purging Stone",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Purging Stone -  Dark Souls - item - general_information \n general_information : A Purging Stone reduces Curse buildup and cures the Curse status effect.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.1933170611154
+  },
+  {
+    "document_id": "f87cc7e5-bd71-5edb-ae99-e5fece2ad4b4",
+    "title": "Buildup",
+    "section": "mechanics",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "When equipping weapons or armor that increase resistances, the player's resistance bar will not instantaneously re-fill. This is most notable when equipping Gargoyle weapons and/or Blood/Curse/Poisonbite rings. Equipping these items will cause the resistance bar to appear because its max length has increased, and it can regenerate more. It does **not** actually inflict buildup: Repeatedly equipping/unequipping the item *cannot* cause the effect to trigger. This is a mechanic to prevent the player from equipping resistance items right before the effect triggers.\n\nThis also happens with armor, but it is more difficult to observe: As the player is in a menu, the player doesn't notice the bar appearing for a short period of time.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.512203311368612
+  },
+  {
+    "document_id": "690156dc-5e87-5619-b0b3-1d7dfa764742",
+    "title": "Transient Curse",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Transient Curse -  Dark Souls - item - notes \n notes : Players may instantly lose the effect of the Transient Curse if they return to the main menu and reload their save.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.372617479640486
+  },
+  {
+    "document_id": "8f8dac18-7fa4-5dc0-9a13-8ecd89a5041f",
+    "title": "Fog Door",
+    "section": "lordran_fog_doors",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "The Duke's Archives\n**Before the first encounter with Seath the Scaleless.\n**Before entering the Duke's Garden area, after pulling the lever to lower the stairs.\nCrystal Cave\n**Before the encounter with Seath the Scaleless but only after initiating the fight and if re-entering the arena before Seath is defeated.\nKiln of the First Flame\n**Before the encounter with Gwyn, Lord of Cinder.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.09208013519295
+  },
+  {
+    "document_id": "bc6aea0f-5e8a-53f5-97e9-e70f5b19989b",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "plot",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - plot \n plot : Aldia serves as a lore-centric character, alluding to a great deal of things in relation to the lore of *Dark Souls II*.\n\nWhen the Bearer of the Curse has defeated the Four Great Ones and lit the Primal Bonfires he will emerge and guide the Bearer of the Curse towards his brother Vendrick, now a mindless hollow. He continues to appear to the Bearer of the Curse, seeking to learn their intentions and telling them of the nature of the curse and the fabric of their world.\n\nHe will finally attack the Bearer of the Curse before they can take the Throne of Want, seeking to test them. When Aldia is defeated, he will ask what the Bearer of the Curse wants: light, dark or something else entirely. If the Bearer of the Curse chooses to reject the throne and leave, Aldia will narrate the Bearer of the Curse's departure from the throne.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.993911832959363
+  },
+  {
+    "document_id": "bfc99bdc-75ba-5759-8227-8e8c92d8460c",
+    "title": "Equipment (Dark Souls II)",
+    "section": "belt_slot_items",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Equipment (Dark Souls II) -  Dark Souls II - mechanic - belt_slot_items \n belt_slot_items : Items can be placed in up to ten (10) belt slots. They are consumed, in order to restore stats or to counteract negative status effect. They can heal the player, cure curse, allow the player to gain souls, and more. They can also be covenant items, which will allow the player to rank up in different covenants when offered to the leader or shrine.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.96865773628558
+  },
+  {
+    "document_id": "fb2e0a23-47f2-5255-a9fb-43168be12fed",
+    "title": "White Dragon Breath",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "White Dragon Breath -  Dark Souls - spell - description \n description : Sorcery developed by Logan during his infatuation with Seath the Scaleless. Emit crystal breath of Seath the Scaleless.\n\nAlthough it no longer causes curses, what madness caused old Big Hat to appropriate this frightful power of the ancient dragons?",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.795626067462933
+  },
+  {
+    "document_id": "976d1a65-b20e-5bb0-bb36-ee2868699f00",
+    "title": "Negative Status Effects (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Negative Status Effects (Dark Souls II) -  Dark Souls II - mechanic - lead \n lead : **Negative Status Effects** in *Dark Souls II* are effects on characters' and enemies' performance, and are largely, if not wholly, detrimental in nature.\n\nNegative status effects are usually \"built up\" by attacks that inflict that effect, with a bar appearing when the player is receiving buildup of the effect. When the bar fills, the effect triggers, and the bar empties at a rate dependent on the individual effect, usually ignoring any further buildup until it has emptied. Resistances to status effects generally work by lengthening the bar, thus requiring more buildup to trigger the effect.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.561952403491546
+  },
+  {
+    "document_id": "020ee020-5375-5005-a739-c83098db4f32",
+    "title": "Clawed Curse",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Clawed Curse -  Dark Souls III - mechanic - trivia \n trivia : Grand Archives Scholars have their own heads covered in wax to protect themselves from these specters. They tend the many vats filled with this liquid found throughout the library.\nIn the official guide, there is a description for the Scholar's Shed Skin telling how \"ivory wax\" is made to prevent your \"anchor of reason\" from being damaged by the \"foulness\" of the texts. How this works in relation to the curse effect they give is not clear, but they could represent how the mind interprets the harm they do, though how exactly this harms people is uncertain.\nThey share a resemblance with the arm that appears out of the Curse-rotted Greatwood in its second phase.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.22704607630727
+  },
+  {
+    "document_id": "44a50b08-9636-57c1-b93b-6354ada768c8",
+    "title": "Water (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Water (Dark Souls II) -  Dark Souls II - mechanic - lead \n lead : **Water** is a substance that produces a status effect in *Dark Souls II*.\n\nIf the player becomes wet, their appearance takes on a darker shade and they will leave footprints of water. Becoming wet also modifies the player's resistance to Lightning and Fire simultaneously. This status effect lasts for a few moments, depending on how much water the player is covered in. For example, standing knee deep in water will cause the effect to wear off quicker, as opposed to being completely covered in water.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.13560636255673
+  },
+  {
+    "document_id": "521d65eb-78bf-57ea-b80a-02a2df8b3fa4",
+    "title": "Petrification",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Petrification -  Dark Souls II - mechanic - effect \n effect : When the petrification meter is filled, the player will be turned to stone and instantly die. It is essentially the same as Curse in *Dark Souls*, as well as the variant in *Dark Souls III*. Petrification works differently than other status effects as it does not damage a player's health directly.\n\nHowever, unlike a normal death, Petrification will reduce the player's health bar by three times the amount upon reviving at the previous bonfire, making it significantly more of a hindrance than standard death as it will almost virtually require the player to consume a Human Effigy or equip the Ring of Binding.\n\nMuch like Curse, there is no way for players to deal Petrification as a status effect to enemies or other players, just like it is impossible to infuse a shield or weapon to increase its Petrification effect.\n\nPlayers turned to stone can be seen in stone form, much like bloodstains, in other players' worlds.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.059447543462557
+  },
+  {
+    "document_id": "13677c85-fd07-570a-a1b3-e64d0ac148c9",
+    "title": "Curse (auxiliary effect)",
+    "section": "weapons",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Curse (auxiliary effect) -  Dark Souls - item - weapons \n weapons : The following is the list of weapons that possess the Curse Auxiliary Effect:\nJagged Ghost Blade\nGhost Blade\nGreatsword of Artorias (Cursed)",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.36161856806946
+  },
+  {
+    "document_id": "210c6177-2284-50c7-aad5-67ce30646064",
+    "title": "Spear of the Church",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Spear of the Church -  Dark Souls III - boss - strategy \n strategy : Judicator Argo has a similar moveset to regular Judicator Giants, although he does not summon orange pact-bound spirits like them, and will only attack the player if they get close. Killing Argo has no benefits, as he drops nothing, only attacks the player if he gets close, and will perish on his own after some time. No matter what happens to him at the start of the battle, he will always reappear when the player is killed and retrys the fight, summoning the same three enemies again.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.254957923402063
+  },
+  {
+    "document_id": "eafc9809-b392-5b05-bc27-d67d80ed544f",
+    "title": "Engraved Gauntlets",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Engraved Gauntlets -  Dark Souls II - armor - characteristics \n characteristics : At first glance, the Engraved Gauntlets seem to be very poor stat-wise, as they offer little physical and elemental resistances; however, they makes up for it by having the highest Curse and Petrification resistances in the game for hand armor, and by having a unique effect of a 5% chance for normal hits to deal damage equal to a critical attack. When this effect is triggered, the gauntlets cause an explosion, releasing what seems to be ash around the player.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.2267338319415
+  },
+  {
+    "document_id": "51342f7b-f9e7-5981-9233-c3ccc0db97be",
+    "title": "Large Magic Ember",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Large Magic Ember -  Dark Souls - item - availability \n availability : Found in The Duke's Archives, after encountering Seath the Scaleless in the Crystal Cave. Found in the center of the room where the player first encounters Seath, in a chest.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.17038953992036
+  },
+  {
+    "document_id": "e9f97be5-1c4c-5805-99ab-1a5c95b60d4c",
+    "title": "Negative Status Effects",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Negative Status Effects -  Dark Souls - mechanic - lead \n lead : ** ** in *Dark Souls* are effects on characters' and enemies' performance, largely but not solely detrimental in nature.\n\nNegative status effects are usually \"built up\" by attacks that inflict that effect, with a bar appearing when the player is receiving buildup of the effect. When the bar fills, the effect triggers, and the bar empties at a rate dependent on the individual effect, usually ignoring any further buildup until it has emptied.\n\nResistances to status effects generally work by lengthening the bar, thus requiring more buildup to trigger the effect.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.16074120148826
+  },
+  {
+    "document_id": "a86300f7-cf28-5613-beb2-4211829d8141",
+    "title": "The Nameless King",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "inside the walls of Anor Londo. Furthermore, in the city of the gods Seath the Scaleless had now completely lost his mind, transforming his Archives into a prison and going so far as to kidnap the maidens of Gwynevere to carry out experiments on them.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.09456410777611
+  },
+  {
+    "document_id": "e8bee822-d75c-59ee-94d6-0c7590f28b8e",
+    "title": "Buildup",
+    "section": "mechanics",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "This also happens with armor, but it is more difficult to observe: As the player is in a menu, the player doesn't notice the bar appearing for a short period of time.\n\nFor example: A player has 100 base curse resistance and no other items equipped. Equipping the Cursebite Ring will bump their maximum resistance to 400. However, their resistance bar still only has 100 points. This will make it *look* like the player has taken 300 Curse damage. The bar will disappear once the resistance has regenerated to 400.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.776427231868745
+  },
+  {
+    "document_id": "e3e15bf6-4a76-5e47-a21d-4542dc1895dc",
+    "title": "Deacons of the Deep",
+    "section": "attacks",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Deacons of the Deep -  Dark Souls III - boss - attacks \n attacks : ***Fireball** - When at range, Deacons will often raise their candlesticks and launch a straight-flying fireball at the player. These attacks deal relatively little damage, but their danger lies in the large number of Deacons who may simultaneously cast it, as well as its stagger, which can potentially combo the player along with other Deacons' melee attacks.\n***Force** - The fat Deacons, as well as the blue-robed ones that flank Royce, will occasionally cast Force if the player is nearby, in an attempt to stagger them. This attack deals no damage, but can knock the player down and prevent them from approaching the red-glowing Deacon or Royce.\n***Curse Fog** - A number of Deacons will begin channeling dark energy, and the entire arena will begin to darken, slowly building up the player's Curse resistance bar. Killing or staggering one of the channelers will break the effect, allowing the player's Curse meter to reduce.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.627079596029166
+  },
+  {
+    "document_id": "ced96398-044d-54a2-ac2d-735ac93b5987",
+    "title": "White Dragon Breath",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "White Dragon Breath -  Dark Souls - spell - availability \n availability : Dropped by Big Hat Logan in The Duke's Archives, where the player first encountered Seath.\n\nIt is required that the player has first freed Logan from his cell and defeated Seath the Scaleless in the Crystal Cave.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.57890404493991
+  }
+]

@@ -1,0 +1,2093 @@
+[
+  {
+    "document_id": "0ada3045-6c6d-5ba7-9c84-0df3145e1e4d",
+    "title": "Anor Londo",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - plot \n plot : Anor Londo is accessible from a yellow Resonance Ring that appears in the arena of the Iron Golem after it has been defeated. It plays an important role in gameplay, as the Lordvessel is obtained here after defeating Dragon Slayer Ornstein and Executioner Smough and reaching Gwynevere, Princess of Sunlight. Two covenants can be joined in Anor Londo.\n\nIf the player wishes to return to Sen's Fortress, they may speak to the Batwing Demon that appears where the player is placed after activating the Resonance Ring.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0fa1b233-83fa-5091-aa3e-dee48defd204",
+    "title": "Anor Londo",
+    "section": "bosses",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - bosses \n bosses : Dark Sun Gwyndolin\nDragon Slayer Ornstein and Executioner Smough",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5039018483847744,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1aeebcf7-29cc-58cd-ae36-fa44d507c7ba",
+    "title": "Anor Londo",
+    "section": "non_respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - non_respawning \n non_respawning : Bell Gargoyles\nMimic\nTitanite Demon",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "265d6544-86c3-582f-940e-86665ba2a5b7",
+    "title": "Anor Londo",
+    "section": "keys",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - keys \n keys : Lordvessel",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "296ae77b-7f1a-5ff9-b018-1a121fb7d6be",
+    "title": "Anor Londo",
+    "section": "souls",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - souls \n souls : Fire Keeper Soul\nSoul of a Hero\nSoul of Gwyndolin\nSoul of Ornstein\nSoul of Smough",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2a9c54b0-8ba3-5fe5-a8b5-c4795ba346cf",
+    "title": "Anor Londo",
+    "section": "sorcery",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - sorcery \n sorcery : Great Magic Weapon",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "35860123-d65c-5c5f-a568-022656d5e559",
+    "title": "Anor Londo",
+    "section": "adjacent_locations",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - adjacent_locations \n adjacent_locations : The Duke's Archives\nPainted World of Ariamis\nSen's Fortress",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3d113350-2ab5-5964-8d63-c40cb3ee2427",
+    "title": "Anor Londo",
+    "section": "bonfires",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - bonfires \n bonfires : Anor Londo - In the room with the Darkmoon Knightess Fire Keeper.\nDarkmoon Tomb - At the bottom of the spiral stairs mechanism, in front an illusory statue of Lord Gwyn, which acts as the entrance to the Blade of the Darkmoon Covenant.\nBeyond the Dragonslayer Greatbow-wielding Silver Knights, enter the Cathedral from a balcony, it will be in the room on the left and contains Solaire.\nChamber of the Princess - After the fight with Dragonslayer Ornstein and Executioner Smough.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "475fd071-5877-5ca1-85b2-f879073b1525",
+    "title": "Anor Londo",
+    "section": "weapons",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - weapons \n weapons : Black Iron Greatshield\nCrystal Halberd\nDarkmoon Talisman\nDragon Tooth\nDragonslayer Greatbow & Dragonslayer Arrow x1\nGreatsword\nHavel's Greatshield\nOccult Club",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4a349b40-f67b-5bf0-8f77-b6c61be507a5",
+    "title": "Anor Londo",
+    "section": "miracles",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - miracles \n miracles : Darkmoon Blade\nSunlight Blade",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "65d001a3-b02d-53ef-b52e-bd16b1a73ff2",
+    "title": "Anor Londo",
+    "section": "dark_anor_londo",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "of the Darkmoon), regardless of whether the player had killed Gwyndolin or not. Another thing to note about Dark Anor Londo is that within its bounds, the range in which a player may lock-on is decreased.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6cbc9d89-f1b5-5079-8370-122861b6c88b",
+    "title": "Anor Londo",
+    "section": "dark_anor_londo",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "If the player is killed whilst in darkened Anor Londo, they are returned to the first bonfire regardless of whether they have rested there or not. Whether it is a glitch or an intended function by the developers is unconfirmed.\n\nIf the player desires to fight Dark Sun Gwyndolin via an easy return to the boss area, it is preferable to either:\nLeave Gwynevere alive so as to not make Anor Londo dark, and then fight Gwyndolin. This allows the player to respawn at the Darkmoon Tomb bonfire.\nAfter killing Gwynevere, ignore the Darkmoon Knightess (so as not to kill her in combat) to keep the first Bonfire lit so that the player may warp to the Darkmoon Tomb after death.\n\nIf the player has already darkened Anor Londo and killed the Darkmoon Knightess, the fastest method will be to run to the entrance way of The Duke's Archives (only accessible after placing the Lordvessel) and using the bonfire by the elevator to warp.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "703c1058-1041-5cf9-9228-3e66aabc11d1",
+    "title": "Anor Londo",
+    "section": "giant_blacksmith",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - giant_blacksmith \n giant_blacksmith : The Giant Blacksmith is the only blacksmith that is able to create unique weapons from the Boss Souls gathered up to this point. To forge a unique weapon the player also needs to have the corresponding weapon upgraded to +10. The option will then be presented to use the Boss Soul to modify it into a new and far more powerful weapon.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "72f8b330-7602-5416-9c0b-7bdbf43bf682",
+    "title": "Anor Londo",
+    "section": "characters_2",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - characters_2 \n characters_2 : Darkmoon Knightess (Dark Anor Londo or if Gwyndolin was challenged)\nDarkmoon Soldier (Greatsword)\nDarkmoon Soldier (Sword)\nKnight Lautrec of Carim\nLautrec's Comrade, Sorcerer\nLautrec's Comrade, Warrior",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8b5c0a9e-6bcb-571d-a0ed-ef3ee951881f",
+    "title": "Anor Londo",
+    "section": "rings",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - rings \n rings : Darkmoon Blade Covenant Ring\nHawk Ring\nLeo Ring\nRing of Favor and Protection\nRing of the Sun's Firstborn\nRing of the Sun Princess\nTiny Being's Ring",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9a498c4b-70bd-564d-a143-8dd1197f75f4",
+    "title": "Anor Londo",
+    "section": "armor",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - armor \n armor : Black Iron Set\nBrass Set\nHavel's Set\nSet of Favor\nSilver Knight Set",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9f8ca346-e99f-50d7-90f0-832600ed4c28",
+    "title": "Anor Londo",
+    "section": "covenants",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - covenants \n covenants : Blade of the Darkmoon\nPrincess's Guard",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b073d983-3de3-5f28-9a61-97b4e7ae64e9",
+    "title": "Anor Londo",
+    "section": "respawning",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - respawning \n respawning : Batwing Demon\nPainting Guardian\nRoyal Sentinel\nSentinel\nSilver Knight",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c1f3b546-6e33-568c-8de7-8bd16a03bee9",
+    "title": "Anor Londo",
+    "section": "upgrade_materials",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - upgrade_materials \n upgrade_materials : Demon Titanite x4\nTitanite Chunk\nTwinkling Titanite",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "caee9e5b-6ef4-55c5-9f74-ec1468e724ca",
+    "title": "Anor Londo",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - trivia \n trivia : Statues of Dragonslayer Ornstein and Executioner Smough can be seen in the early parts of the map.\nThe various paintings located in the rooms of Anor Londo are, in fact, concept arts of some enemies and NPCs of the game.\nWhen in Dark Anor Londo, the cinematics where the player is carried by the Batwing Demons are modified to show Dark Anor Londo instead of the original Anor Londo.\nDuring the cinematic where the player is transported by the Batwing Demons, a clip of the area's boss music, Dragonslayer Ornstein and Executioner Smough, is heard when the aerial view of Anor Londo is shown.",
+    "sources": [
+      "template",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.24055758322596
+  },
+  {
+    "document_id": "cfb9381e-ccb0-5b20-9e73-42814365bace",
+    "title": "Anor Londo",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - lead \n lead : **Anor Londo** is a location in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "de3af530-c53d-5f63-8fb0-45fcc1e94b9f",
+    "title": "Anor Londo",
+    "section": "miscellaneous",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - miscellaneous \n miscellaneous : Blue Eye Orb\nGold Coin\nSilver Coin x5\nSouvenir of Reprisal\nSunlight Medal x3",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e33b38fa-d5dd-5c24-af88-8e7f676231b3",
+    "title": "Anor Londo",
+    "section": "firekeeper_s_vengeance",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - firekeeper_s_vengeance \n firekeeper_s_vengeance : If the player frees Lautrec of Carim, and allows him to live after reaching Blighttown, they will find that Anastacia of Astora, keeper of the Firelink Shrine bonfire, had been murdered. Examining her remains will grant the dingy clothing set (notable for its curse and poison resistance) and a Black Eye Orb to the player's inventory.\n\nIf the player arrives on the platform between the stairs opposite where the Silver Knight is located, the Orb will begin to resonate. It can then be used as an item to transport the player as a Spirit of Vengeance to Lautrec's realm. He will be accompanied by a mage and a pikeman. Lautrec's bodyguards only stand in the way, as he is main target, and is the only one who possesses items. Once killed, he will drop a single Humanity, a Souvenir of Reprisal, the Soul of Anastacia of Astora, and a Ring of Favor and Protection.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ec952ae9-46ca-54d7-9bf8-755c96c05f95",
+    "title": "Anor Londo",
+    "section": "dark_anor_londo",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - dark_anor_londo",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f03fe5ad-c3b8-518f-89a6-0a813d6266a4",
+    "title": "Anor Londo",
+    "section": "characters",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - characters \n characters : Dark Sun Gwyndolin - Can initiate players into the Blade of the Darkmoon covenant and can also be fought as an optional boss.\nDarkmoon Knightess - Fire Keeper to the first bonfire.\nGiant Blacksmith\nGwynevere, Princess of Sunlight - Can initiate players into the Princess's Guard covenant.\nSolaire of Astora - His summon sign can be found within the main cathedral; it is in the large chamber before the encounter with Ornstein and Smough.\nSiegmeyer of Catarina - Grants players the Tiny Being's Ring after helping him.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f6d410c4-531f-54dd-8187-9b17c425ae02",
+    "title": "Anor Londo",
+    "section": "dark_anor_londo",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "dark_anor_londo : If the player decides to attack Gwynevere, she disappears in a dying animation. If the player has not defeated Gwyndolin beforehand, he reprimands the player; Anor Londo darkens, and all Sentinels, Batwing Demons and Gargoyles (if not already defeated) disappear. The Royal Sentinels and the Silver Knight greatbowman in the main hall also disappear and are replaced by two non-respawning, hostile Darkmoon Soldiers: one with a sword and another with a greatsword. The Darkmoon Knightess awaits the player near the rotating platform. Killing her results in the first bonfire being unusable, but as with any extinguished bonfire, one may still warp to it. One important thing about Dark Anor Londo is, in human form, the player is susceptible to invasions (particularly from Blades of the Darkmoon), regardless of whether the player had killed Gwyndolin or not. Another thing to note about Dark Anor Londo is that within its bounds, the range in which a player may lock-on is",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1732f7dd-d4ac-5749-81d7-d940a16e72f6",
+    "title": "Batwing Demon",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Batwing Demon -  Dark Souls - enemy - trivia \n trivia : The Batwing Demon seen at the very beginning of Anor Londo can actually be attacked. Upon attacking, it will flee much like the giant crow in Firelink Shrine. Unlike the crow however, if dealt enough damage the Batwing Demon will indeed die, though it will simply respawn upon resting at a bonfire. Additionally, the \"Talk\" option used to travel back to Sen's Fortress is still available even if the Batwing Demon has been killed.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7b4491cc-c428-5b60-9beb-e5163fd34ae3",
+    "title": "Batwing Demon",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Batwing Demon -  Dark Souls - enemy - location \n location : They are seen for the first time in Sen's Fortress but are encountered as enemies throughout Anor Londo.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a3c372c2-334f-5b3a-b830-2c64b92103d4",
+    "title": "Batwing Demon",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Batwing Demon -  Dark Souls - enemy - notes \n notes : Batwing Demons are the means of transportation, similar to the Giant Crow, between the end of Sen's Fortress and the beginning of Anor Londo. From Sen's Fortress, after defeating the Iron Golem, interaction with the gold resonance ring that appears will prompt several demons to carry the player by the arms to the outer wall of Anor Londo. To return to Sen's Fortress from Anor Londo, one must \"talk\" to a lone demon perched on a merlon.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "babc7a02-98e8-57ff-b8c2-4c27f77440af",
+    "title": "Batwing Demon",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Batwing Demon -  Dark Souls - enemy - description \n description : Batwing Demons are winged, imp-like creatures with tall hind legs and long arms. They wield the Demon's Spear, a Lightning based weapon, and have long tails that appear to have no use aside from balancing their body during flight.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f95f35eb-0932-59d6-a4ad-95925e322bc2",
+    "title": "Batwing Demon",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Batwing Demon -  Dark Souls - enemy - lead \n lead : **Batwing Demons** are enemies in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0fbbe65a-0fe2-5267-965c-268ab27bcac3",
+    "title": "Bell Gargoyles",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Bell Gargoyles -  Dark Souls - boss - trivia \n trivia : The Bell Gargoyles boss fight is based on the Maneaters boss fight from *Demon's Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2b81a142-baf0-5a00-a9ec-dd9a084c383f",
+    "title": "Bell Gargoyles",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Bell Gargoyles -  Dark Souls - boss - lore \n lore : Gargoyles are stone creatures created by the Gods through magic to help patrol Anor Londo or sites deemed important. In addition to their tough and hard skin, they are able to breathe fire or lightning and are armed with a bronze shield and a bronze helmet for purely decorative purposes while they use a bronze halberd as a weapon.\n\nAfter Lord Gwyn sacrificed himself to link the First Flame and prolong the Age of Fire, several Gargoyles were placed to guard the Bell of Awakening placed on the Undead Church of the Undead Burg and act as ritual challenge. The Undead who wished to follow in Gwyn's footsteps to sacrifice themselves to the Flame would have to be tested before obtaining the Lordvessel and seeking powerful souls. Ringing the Bells of Awakening represents only the first of these challenges, and success means gaining access to Sen's Fortress to be tested further.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "67ef2cdd-f426-5497-bb24-04a820e21307",
+    "title": "Bell Gargoyles",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Bell Gargoyles -  Dark Souls - boss - attacks \n attacks : {'name': 'Aerial Flame', 'description': 'Only used after the appearance of the second gargoyle, but can only be performed by the original gargoyle.'}",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7b2f91f8-9eb5-529c-810f-dffb2557d3f2",
+    "title": "Bell Gargoyles",
+    "section": "anor_londo_mini_bosses",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Bell Gargoyles -  Dark Souls - boss - anor_londo_mini_bosses \n anor_londo_mini_bosses : The two Gargoyles fought in Anor Londo breathe lightning rather than fire, so a lightning-resistant shield will prove beneficial. A strategy for the second gargoyle is for the player to run to the bottom of the rotating staircase before activating the lever, where the gargoyle (on a ledge above) will be unable to reach them. However, this means it must then be defeated with ranged attacks.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7d69373a-5382-5c25-a434-79a9339398de",
+    "title": "Bell Gargoyles",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Bell Gargoyles -  Dark Souls - boss - lead \n lead : The **Bell Gargoyles** (鐘のガーゴイル) are dual bosses in *Dark Souls*.\n\nThere are four Gargoyles in the game: the first two are part of the same boss battle atop the Undead Parish, with the second only joining halfway through, while the last two are mini-bosses found in Anor Londo. None of them respawn.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8a55ea26-30c6-5377-b098-2bc47c85e7f6",
+    "title": "Bell Gargoyles",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Bell Gargoyles -  Dark Souls - boss - description \n description : They appear to be armored gargoyles wielding axes and shields with fire or lightning attacks. They have axes on their tails which they use to swing at you.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a208a7bd-2c8e-57f0-8a22-c0aaf9c3de80",
+    "title": "Bell Gargoyles",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Bell Gargoyles -  Dark Souls - boss - strategy \n strategy : In human form, it is possible to have Solaire of Astora and/or Knight Lautrec of Carim assist during this battle, although Lautrec must be freed and spoken to in Firelink Shrine first. Their summon signs are found just before the white light leading to the Gargoyles. Summoning both knights and simply mobbing each Gargoyle can lead to a quick and relatively painless victory.\n\nThe fight is beset by the constant danger of falling off (target-locking, coupled with the camera angle and narrow field of view, can make it hard to track the player character's footing) and facing off against a single gargoyle on top of the church roof. Trying to circle the gargoyle while holding up a shield is a good way to avoid its long-reaching frontal attacks. If the gargoyle takes off, move away or get ready to dodge its plunging attack.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b90e3d46-1191-5fe8-9dc9-f2a7fbe12763",
+    "title": "Bell Gargoyles",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Bell Gargoyles -  Dark Souls - boss - location \n location : On top of the church in the Undead Parish, reached by passing through the room full of hollows and a Channeler, before climbing two ladders and finally entering the fog gate. They are also found in Anor Londo as mini-bosses: Exit the first bonfire, go straight on and down the lift, and a gargoyle will be straight ahead. The second is beyond the rotating staircase-bridge.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e066ae52-b9e4-5c38-862f-d88ba0e22b1d",
+    "title": "Bell Gargoyles",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Once the first gargoyle is cut down to half its health, the second gargoyle will join the fight. Fortunately, this gargoyle is already severely injured (it arrives at half-health). It has the same attacks as the first gargoyle minus those that involve flying or using the tail.\n\nPlayers having difficulty managing their positioning against the two gargoyles should save any consumables (ex., Fire Bombs) until the first gargoyle's health is approaching 50%, and then use them to finish it off as quickly as possible. For as long as both gargoyles are alive, players should keep them both on the screen; if not feasible, one can try following audio cues to perceive an oncoming attack. The use of Gold Pine Resin and other weapon enhancements can greatly help in finishing off the first gargoyle, and make the overall fight significantly easier.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f794d941-8570-5abf-8982-49e5be7308d6",
+    "title": "Bell Gargoyles",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Both Gargoyles wield halberds and can breathe fire, although the first gargoyle usually will only breathe fire after the second one jumps down. A fire-resistant shield such as the Black Knight Shield (and, optionally, fire-resistant armor) can be very useful, as the fire breath covers a wide area. While breathing fire, the gargoyles won't move, making it the perfect opportunity to run over and hit them from behind (this makes avoiding or blocking the fire twice as important, as its stagger effect will consume precious seconds, limiting the time available to attack the gargoyles).\n\nThe first gargoyle's tail can be severed to gain a weapon (Gargoyle Tail Axe).",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "166a9d4c-1aaa-5b36-af33-bae7e64a0f7e",
+    "title": "Bells of Awakening",
+    "section": "quelaag_s_domain_bell",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Bells of Awakening -  Dark Souls - mechanic - quelaag_s_domain_bell \n quelaag_s_domain_bell : The other Bell is significantly harder to reach. The Chosen Undead must first head downward and find their way into Blighttown, a multileveled and dangerous labyrinth. At the very bottom of Blighttown, the player will traverse a poison swamp leading to a half-demon's lair known as Quelaag's Domain. It is here that the player must defeat Chaos Witch Quelaag in order to progress to the Bell of Awakening.\n\nUpon ringing the second Bell, a short cutscene plays showing the gatekeeper Giant hearing the call and pulling the chains to lift up the portcullis, bearing passage to Sen's Fortress. It is at this point that Kingseeker Frampt appears in Firelink Shrine, and instructs the player that his new task is to secure the Lordvessel, proving that the player is in fact, the Chosen Undead.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2bd8c443-de71-5933-87e5-899dc0b8e45f",
+    "title": "Bells of Awakening",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Bells of Awakening -  Dark Souls - mechanic - lead \n lead : The **Bells of Awakening** are a storyline concept, as well as two locations, in *Dark Souls*.\n\nThey are the first destinations hinted at for the Chosen Undead after they have escaped the Undead Asylum into Lordran. The two Bells are part of a prophecy devised by the Gods of Anor Londo to help bring about an Undead to link the First Flame. The two Bells are respectively located past the Bell Gargoyles atop the Undead Parish, and past Queelag past the swamp at the bottom of Blighttown. Both Bells must be rung by activating levers near them to progress, opening the way to Sen's Fortress.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "355e0a5e-d85a-5679-90a2-043d7eb80471",
+    "title": "Bells of Awakening",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Bells of Awakening -  Dark Souls - mechanic - plot \n plot : The Bells of Awakening are hinted at being the first destination of the Chosen Undead and, when rung, the fate of the undead shall be known. Upon arriving in Firelink Shrine, the Crestfallen Warrior informs the player that there are, in fact, two Bells of Awakening. One up above and one far below. This is essentially all the instruction and plot that is revealed upon arrival in Lordran.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bdfec07a-f6af-50cc-bbf4-e1291d6bad5d",
+    "title": "Bells of Awakening",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Ringing the bell in Quelaag's Domain first will have no different effect than if the player rang the [https://darksouls.fandom.com/wiki/File:Parish_bell.jpg Undead Parish Bell] first. Although this will cause Lautrec's questline to progress, leading to the death of Anastacia.\nThe Bells of Awakening were used to awaken Kingseeker Frampt and open the way to Sen's Fortress.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e4b6163d-2cc2-5ee1-a373-ed3c15e06733",
+    "title": "Bells of Awakening",
+    "section": "undead_church_bell",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Bells of Awakening -  Dark Souls - mechanic - undead_church_bell \n undead_church_bell : One of the Bells is located in the Undead Parish, up above from Firelink Shrine. After dispatching the Bell Gargoyles, the Chosen Undead is able to climb to the top of the Church Belltower and ring the Bell of Awakening.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ee995096-d504-5bc8-9046-f8a1d10912a6",
+    "title": "Bells of Awakening",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Bells of Awakening -  Dark Souls - mechanic - notes \n notes : In the Prepare to Die Edition, online players in the vicinity of the [https://darksouls.fandom.com/wiki/File:Parish_bell.jpg Undead Parish Bell] were able to hear the bell being rung from other player worlds. This wasn’t the case for the [https://darksouls.fandom.com/wiki/File:Quelaag_bell.jpg Bell in Quelaag’s Domain].\nIn the remastered version of the game, online players are now able to hear either the [https://darksouls.fandom.com/wiki/File:Parish_bell.jpg Undead Parish Bell] or the [https://darksouls.fandom.com/wiki/File:Quelaag_bell.jpg Quelaag’s domain Bell] being rung from other player worlds while exploring one area or the other . (as the [https://darksouls.fandom.com/wiki/File:Quelaag_bell.jpg Quelaag’s Bell] toll was specifically added in the remaster)",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "02b41f3a-8d61-5e4a-b9b8-8223da7bde24",
+    "title": "Black Eye Orb",
+    "section": "removed_content",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Black Eye Orb -  Dark Souls - item - removed_content \n removed_content : A Black Eye Orb was also designated for Shiva of the East originally, but was removed before the final game was released.\n\nThe cut Black Eye Orb is displayed as Black Eye Orb (Shiva) in the ingame inventory. This orb is only obtainable by modding or save editing and if used in the courtyard area of Painted World of Ariamis, you can invade Shiva as originally intended. Shiva will be accompanied by his bodyguard during the invasion event.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "340587c9-9ec5-57c0-80af-0614a4f691aa",
+    "title": "Black Eye Orb",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Black Eye Orb -  Dark Souls - item - general_information \n general_information : When in the main chamber before the fight with Dragon Slayer Ornstein and Executioner Smough, the player will receive a notification telling them that the Black Eye Orb is quivering. At this point, the player may invade Lautrec's world to combat him and his two companions, a sorcerer and warrior. If the player successfully kills Lautrec, they are awarded Anastacia's Fire Keeper Soul. Restoring it to Anastacia's cage revives her and re-ignites the Firelink Shrine bonfire. Alternately, it can be consumed for five humanity or used to upgrade Estus Flasks, just like any other Fire Keeper Soul.\n\nSimilar to the Blue Eye Orbs, the Black Eye Orb can be used if the player is in Hollow form.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "68b6049f-6a5a-5720-a489-ada74b8e4e67",
+    "title": "Black Eye Orb",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Black Eye Orb -  Dark Souls - item - lead \n lead : The **Black Eye Orb **is a summon item in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "68d3e63b-a791-5e0d-a5cf-a8b9a0aedc36",
+    "title": "Black Eye Orb",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Black Eye Orb -  Dark Souls - item - availability \n availability : Found outside Anastacia of Astora's cage in Firelink Shrine after Lautrec murders her, which triggers when either the Blighttown Fire Keeper Soul is collected by the player, or after both Bells of Awakening are rung.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6dbf4d12-180a-5b93-9d19-4ded5b1a37eb",
+    "title": "Black Eye Orb",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Black Eye Orb -  Dark Souls - item - description \n description : Mystical orb found on a Keeper's corpse. Invade the world of the murderer of a Fire Keeper, to defeat the perpetrator and reclaim the soul of the Fire Keeper.\n\nThe Black Eye keeps constant watch on the city of the Gods, Anor Londo.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c15f906f-69a6-53ae-92b1-b1aa6bb6072c",
+    "title": "Black Iron Greatshield",
+    "section": "resistance_defense",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Black Iron Greatshield -  Dark Souls - weapon - resistance_defense \n resistance_defense : Along with Physical and Elemental damage reduction, weapons also have hidden stats that reduce the amount of status build-up while blocking.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cda767d8-6fe5-59d1-b216-9b84f9c46de2",
+    "title": "Black Iron Greatshield",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Black Iron Greatshield -  Dark Souls - weapon - trivia \n trivia : The Black Iron Greatshield is the winner of the greatshield category of the EU *Dark Souls* Shield Design Contest, submitted under the name \"**Blood and Souls Shield**\". It was designed by [https://www.mobygames.com/person/494904/adam-ledzion/ Adam Ledzion], who appears in the game's credits.\n** Its insignia is the symbol of the [https://gestiguiste.net/faqs/ Gestiguiste]. They are an Aratari unit of [https://en.wikipedia.org/wiki/Dagorhir Dagorhir], a medieval/fantasy combat wargame. This could mean that its designer was part of that group.\nIts weapon type is that of a medium shield rather than a greatshield. This is most likely an error by the programmers, as the name and description imply that it's a greatshield.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cf4b6b61-0ecc-551a-bf30-d3b866580ad4",
+    "title": "Black Iron Greatshield",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Black Iron Greatshield -  Dark Souls - weapon - availability \n availability : The Black Iron Greatshield can be found on a corpse, in Anor Londo, on the bottom floor near the painting in the cathedral, guarded by a Painting Guardian (along with the Black Iron Set and Greatsword).",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "de349d8e-cb3b-52e4-baf3-aa0800308255",
+    "title": "Black Iron Greatshield",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Black Iron Greatshield -  Dark Souls - weapon - description \n description : Greatshield of the mighty knight Tarkus.\n\nBuilt of special black iron and even heavier than Knight Berenike's tower shield. Especially resistant to fire attacks and effective for shield bashing.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f2f57981-4a58-5f03-808a-ef22690a38b5",
+    "title": "Black Iron Greatshield",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Black Iron Greatshield -  Dark Souls - weapon - lead \n lead : The **Black Iron Greatshield** is a greatshield in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f9f521cc-6433-5a9e-9353-7c1529e0390c",
+    "title": "Black Iron Greatshield",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Black Iron Greatshield -  Dark Souls - weapon - characteristics \n characteristics : The Black Iron Greatshield is essentially a heavier, slightly less stable version of the Tower Shield but with the best fire defense of all the Greatshields. This shield has a heavy deflection and a standard bash attack. The crystal durability is 23.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0ecd320f-feb9-5205-a610-045c7470c230",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Gwyndolin thus continued to remain hidden in his father's empty mausoleum, administering Anor Londo from the shadows and continuing to carry out his father's will to uphold the Age of Fire, punishing sinners and leading the Undead without revealing himself. At some point, he was visited by an Undead woman. The woman entered his service as a Blade of the Darkmoon and became the sole Fire Keeper in Anor Londo, although whether she was already a Keeper or became one upon entering his service is unclear. He gifted this \"Darkmoon Knightess\" with a golden armor set to hide her own \"hideous form\", as well as his Darkmoon special talisman and Darkmoon Blade miracle. The Knightess assisted in Gwyndolin's attempt of fulfilling his father's prophecy, offering Undead who reached Anor Londo her kindled bonfire, and some guidance, first towards the illusion of Gwynevere, or, if they have already obtained the Lordvessel from the illusion, with information on Seath the Scaleless, the nearest of the",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0fc95633-af96-5b7b-93ab-b789688f10e4",
+    "title": "Dark Sun Gwyndolin",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Dark Sun Gwyndolin -  Dark Souls III - boss - notes \n notes : Gwyndolin's corridor is not infinite and has a certain length. If he is forced to the end of the corridor, he won't be able to teleport anymore and will be at the player's mercy. He will attack relentlessly, trying to defend himself, but as his attacks are mostly designed for long range battle, just circling him will make most of them miss.\nDefeating Gwyndolin grants Domhnall the ability to sell the Moonlight Set; most notably his helmet, which increases the power of all magic.\nThe Darkmoon Knightess will become hostile if Gwyndolin has been challenged, regardless of whether he was defeated or not.\n**Likewise, if Gwynevere was slain, the Darkmoon Knightess will become hostile as well, as such an act will be considered an offense against Gwyndolin.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1507f04c-d1ca-5210-ac7e-b2900eae5688",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "dark_souls_iii : {'name': \"Sulyvahn's Coup and the Downfall\", 'description': 'One day Sulyvahn, a young sorcerer, arrived in Irithyll from the Painted World and was welcomed among the inhabitants despite not being a descendant of the gods, earning Gwyndolin\\'s favor thanks to a crude replica of his magical catalyst presented to his Darkmoon Knights, demonstrating the young man\\'s talent. Eventually Sulyvahn discovered the Profaned Capital deep within the region and the Profaned Flame contained therein, an unfading flame that became the fuel and instrument of his ambitions. Armed with this new power, the young sorcerer thus climbed the ranks of Irithyll\\'s clergy, corrupting the city\\'s holy knights with the everlasting flame and transforming their soldiers into his spies and assassins, effectively enforcing his way through their highest ranks.\\n\\nAt some point Gwyndolin was \"stricken by illness\" and forced to retreat to the old cathedral of Anor Londo, entrusting his sister Yorshka",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "256aa991-b3d1-5acf-a244-b69a618cd0ba",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Dark Sun Gwyndolin -  Dark Souls III - boss - dark_souls \n dark_souls : Gwyndolin is the lastborn child of Gwyn, Lord of Sunlight and one of the deities who resided in Anor Londo during the Age of Fire, although his legitimacy as such only came from being a child of his father. He was worshipped as the \"God of the Darkmoon\" and held the title of \"God of the Dark Sun\".\n\nDespite being the son of Gwyn, Gwyndolin was born with a strong moon power, and \"weak and repulsive\" in appearance, particularly due to the snakes coiled around his lower half. Because of his darkmoon powers and his strong affinity for moon magic, as well as his lineage, Gwyndolin was raised as a female. While still young, Gwyn made him wear women's clothing and gave him a magic ring which would allow Gwyndolin to move and act in a feminine way, leading him to behave \"like a dark and fleeting goddess\".",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2657a0e7-b72a-56cb-a105-361cdc09060b",
+    "title": "Dark Sun Gwyndolin",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Cut content from *Dark Souls III* reveals that it was possible to obtain a consumed finger of Gwyndolin, presumably after defeating Aldrich, and give it to Yorshka for her to keep as a memento.\nIn *Dark Souls*, 末子 is translated to lastborn, but in *Dark Souls 3* it is instead translated to its more accurate meaning of youngest son in the Darkmoon Ring description. This can call the canonicity of lastborn into question, as the difference doesn't exist in the original JP.\nGwyndolin is a derivative of the Welsh name \"Gwendolyn\" meaning \"white ring\"\n**Among her namesakes, the legendary Queen of Britain Gwendolyn is particularly well-known, as depicted in \"*Historia Regum Britanniae*\" by Geoffrey of Monmouth, one of the oldest historiographers and authors of Arthurian Legend. Gwendolyn was renowned for her wisdom and grace in these tales.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "292f408d-f981-57c8-bc04-51d77cfd098f",
+    "title": "Dark Sun Gwyndolin",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Dark Sun Gwyndolin -  Dark Souls III - boss - location \n location : Dark Sun Gwyndolin guards the honorary tomb of Gwyn, Lord of Sunlight in Anor Londo. The tomb can be found by using the spiraling staircase on the rotating bridge while the bridge is in its lowest position and descending to the second accessible bonfire. If the player wears the Darkmoon Seance Ring in this location, Gwyn's statue will vanish and Gwyndolin's fog door will be revealed. The player can then either pledge allegiance to him and his Blades of the Darkmoon or dare to trespass the fog door behind which he dwells, thus commencing the boss battle.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3129aae1-8ca7-575c-bc2a-fd3bb92e0805",
+    "title": "Dark Sun Gwyndolin",
+    "section": "plot",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Dark Sun Gwyndolin -  Dark Souls III - boss - plot \n plot : Gwyndolin initiates players into the Blade of the Darkmoon covenant. He accepts Souvenirs of Reprisal in exchange for increasing the player's rank in the covenant.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "31a49529-e9e3-5c42-810d-d2d2edeb907a",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "deity were erected throughout the city. He was depicted with his moonlight robes and the catalyst of the country, implying that he had studied Oolacile sorcery and learned to use their catalysts. At some point, an immense arena was erected in Oolacile in which a ritual combat called the \"Battle of Stoicism\" took place. The victorious warriors were welcomed to Anor Londo. Curiously, the structure where the fighting took place was covered in those same Gwyndolin statues.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3707a6db-d595-52b0-ac82-d3be206e8654",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "her from the world and holding her hostage, unable to hear any news of her brother. Afterwards Sulyvahn took Gwyndolin himself hostage, locking him up in the old cathedral, cementing his position as Pontiff, the \"voice of god\", to reign through his figure, while also preventing unwanted foreign interventions.\\n\\nAs the First Flame began to fade Prince Lothric, who had been raised from birth to become a Lord of Cinder, refused to do so, leading the kingdom of Lothric to resurrect four dead Lords of Cinder from their graves to once again be used as fuel. Among them was Aldrich, once a cleric of Irithyll turned cannibal and saint of his own faith, who had transformed into an abysmal monstrosity due to his immeasurable hunger for humans that had made him \"worthy\" of linking the Flame. Like most of the resurrected Lords of Cinder, Aldrich had no intention of sacrificing himself anew, as he had come to believe that an \"Age of the Deep\" should come and replace the Age of Fire, motivating him",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "44f3b398-2eac-5ad7-8c6f-19218761277b",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Meanwhile Gwyndolin did not remain passive and founded the Blade of the Darkmoon covenant, welcoming into his service those knights who shouldered the duty of hunting down and punishing those who sinned against the gods, forming a corps that instilled respect for as well as fear of gods among humans. For their mission these knights were granted the Blue Eye Orbs which enabled them to invade the time and place of the sinner and mete out the vengeance of the gods. For this eternal mandate, Gwyndolin collaborated with Velka, Goddess of Sin, who determined the sin and marked the sinners on her Book of the Guilty so that one day they would face the wrath of the Blades of the Darkmoon. Gwyndolin's followers would cut off an ear from the corpse of the sinners they vanquished, bringing them to their god as proof of their task accomplished, receiving Gwyndolin's ring and talisman in return, and even learning of his miracle, creating a sword with the rays of the Darkmoon to manifest the",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4bcd898c-7ba6-594a-8304-94f2dab06de9",
+    "title": "Dark Sun Gwyndolin",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Dark Sun Gwyndolin -  Dark Souls III - boss - lead \n lead : is a character and optional boss in *Dark Souls*.\n\nFound in Anor Londo behind a statue that reveals a hidden path if the Chosen Undead is wearing the Darkmoon Seance Ring, he can be talked to, unseen, through a fog wall, acting as leader of the Blades of the Darkmoon covenant. Passing through the fog wall will turn him hostile and trigger his boss battle.\n\nVoiced by Harry Lister Smith, who also voiced Prince Lothric in *Dark Souls III*, Gwyndolin also appears as a special character *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "56a7a829-3086-527c-bd0b-a642cd0ea7af",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "After his father Gwyn linked the First Flame, his throne passed to his firstborn son who, treacherously, chose to \"ally\" with the ancient dragons, the ancient enemies of the gods, and was therefore dethroned, exiled and his name eradicated from history. Following these events, his sister Gwynevere, Princess of Sunlight abandoned Anor Londo together with nearly all of the other deities, leaving Gwyndolin as the last remaining deity in the city. Despite being the last son of the royal family of the gods, Gwyndolin was psychologically unfit to become the next ruler, still playing the feminine role imposed on him by his father Gwyn, leaving Lloyd to take advantage of the situation who proclaimed himself king of the gods, justified by his being Gwyn's uncle, and become the chief deity of the Way of White.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5894d63b-34d3-5a83-ac68-e316f7219111",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls_ii",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "However, the Blue Sentinels continued to exist past the falls of both Heide and Drangleic, with the dutiful Targray still standing watch at the Cathedral of Blue, and providing those worthy with Cracked Blue Eye Orbs and a lightning miracle similar to those of the Gods of Anor Londo, while in the town of Majula, which acts as an entry point and home base to new Undead in Drangleic, a crestfallen warrior, Saulden, introduced newcomers to the Way of Blue, ensuring that they received the Sentinels' assistance should they wish for it. Fittingly, Targray was guarded by an old Dragonslayer acting as a trial to would-be Sentinels as Dragon Slayer Ornstein once acted as trial for Undead in Anor Londo; this Dragonslayer donned a black version of Ornstein's armor, as well as an identical spear and ring.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "59775e86-502c-5bbd-bd9f-06bc8debc404",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "the Pontiff to reluctantly clear the way for the ruined cathedral of Anor Londo. Having finally reached his prey, Aldrich began to slowly devour Gwyndolin, who was most likely powerless to fight back, and consumed his soul, gaining access to his memories of Priscilla through his dreams.\\n\\nAn Unkindled, in their quest to bring another Lord of Cinder to their throne, found Aldrich within the now-decrepit Anor Londo Cathedral, still consuming the deity. The body of the dying god was puppeteered by Aldrich into using Gwyndolin\\'s powerful sorceries in a final battle. Once the Unkindled finally slew Aldrich, Dark Sun Gwyndolin was released from his gruesome fate, ending his torment and allowing him to pass in some semblance of peace.'}",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5fbd39e7-6872-564e-969e-c8527ac6534e",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "of the resurrected Lords of Cinder, Aldrich had no intention of sacrificing himself anew, as he had come to believe that an \"Age of the Deep\" should come and replace the Age of Fire, motivating him to try to devour the gods themselves to erode their hold on the Flame and accelerate the coming of his vision. Gathering an army of deacons from the Cathedral of the Deep, Aldrich, still hungry for flesh and now eager to devour Gods, marched on Irithyll with his followers so that he could devour Gwyndolin, the king of the Gods. He found his way blocked by Sulyvahn and his knights, as the Pontiff had no intention of relinquishing the source of his control over the city and the Way of White without a fight. Aldrich emerged victorious from the ensuing battle, slaughtering Sulyvahn\\'s troops and forcing the Pontiff to reluctantly clear the way for the ruined cathedral of Anor Londo. Having finally reached his prey, Aldrich began to slowly devour Gwyndolin, who was most likely powerless to fight",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "62a1c57b-66d1-5abd-bfe1-2d21de2e77ad",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "to their god as proof of their task accomplished, receiving Gwyndolin's ring and talisman in return, and even learning of his miracle, creating a sword with the rays of the Darkmoon to manifest the vengeance of their god.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6dcffe33-b3e6-5c55-aebd-c6fa9d169df3",
+    "title": "Dark Sun Gwyndolin",
+    "section": "location",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "If the player does not yet have the Darkmoon Seance Ring, they can kill Gwynevere instead, which at that moment will be revealed to be just an illusion set up by Gwyndolin himself. The entrance to Gwyndolin's boss room will be accessible at the same aforementioned location. Be advised that killing Gwynevere will cause players to respawn at the first Bonfire in Anor Londo if dying or using Homeward/Dark Sign in Anor Londo regardless of the last Bonfire rested at. This will last until Gwyndolin is dead.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "71172181-430e-553b-bcb8-86e35512dd1f",
+    "title": "Dark Sun Gwyndolin",
+    "section": "theories",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "**Gwyndolin's final thoughts of a \"white girl\", as he was devoured by Aldrich, allow the creation of a miracle that replicates the Lifehunt Scythe of Priscilla, and, as miracles are tales of the gods, it would mean that Gwyndolin had a special relationship with Priscilla and remembered her before his death\n***Alternatively, Gwyndolin's final thoughts could be directed to Yorshka, another \"pale girl\", hidden by Sulyvahn. If Yorshka inherited her mother's power, she could have possessed the Lifehunt Scythe miracle as well.\n**Gwyndolin being Priscilla's son, as she was hated and feared by the gods, would explain why Gwyn would dress, educate and raise him to be a female, as the king of the gods would never have wanted him to be able to ascend the throne with his dangerous lineage.\n**Gwyndolin's legitimacy as a deity came only from the fact that he was the son of King Gwyn, implying that his matrilineage alone would not have made him part of the deities, as she was not one.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "71d2d2cd-1a7c-5d28-9968-c8471b21cb62",
+    "title": "Dark Sun Gwyndolin",
+    "section": "strategies",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Dark Sun Gwyndolin -  Dark Souls III - boss - strategies \n strategies : Gwyndolin's boss battle takes place in a seemingly never-ending corridor.\n\nHe is not a very difficult boss if the player has decent dodging skills. Of his three attacks, two can be avoided by hiding behind pillars, while the last one is more powerful and fast (he will tend to use the Sphere Shot after Orb Spread if the player is hiding behind pillars). The main issue in this fight is reaching him, as he will teleport away when the player approaches (equipping the Ring of Fog may increase the time available to attack before he teleports), meaning that the best time to run up to him is when he is just finishing off his Arrow Spread, as he takes a few moments to recover. Gwyndolin can still be damaged while he is in his teleporting animation and for a split second after actually moving, so it is possible to deal considerable damage at that moment.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "745ebeb7-1014-505f-b87c-dd2b6ff940c4",
+    "title": "Dark Sun Gwyndolin",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "bonfire, and some guidance, first towards the illusion of Gwynevere, or, if they have already obtained the Lordvessel from the illusion, with information on Seath the Scaleless, the nearest of the powerful beings the prophecy would have the Undead slay to feed the Lordvessel. The Knightess helped maintain the facade of Gwynevere, talking about the illusion as if it was the real Goddess even as she knew it was not real. Should an Undead prove a threat to the Gods by attacking the illusion or Gwyndolin, or passing through the later's Fog Door and witness his true form, the Knightess would attempt to slay the heretic Undead.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "860c454d-c71e-54ad-948d-0d825df31cf9",
+    "title": "Dark Sun Gwyndolin",
+    "section": "artifacts",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Dark Sun Gwyndolin -  Dark Souls III - boss - artifacts \n artifacts : Soul of Gwyndolin\nReversal Ring\nMoonlight Set\nCrown of the Dark Sun\nTin Darkmoon Catalyst\nDarkmoon Bow\nDarkmoon Longbow\nMoonlight Arrow\nDarkmoon Seance Ring\nDarkmoon Blade Covenant Ring\nDarkmoon Talisman\nSunless Talisman\nDarkmoon Blade\nDarkmoon Blade (Dark Souls III)\nLifehunt Scythe (Dark Souls III)",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "89e326f8-4723-5227-8d7e-75c39de8eb89",
+    "title": "Dark Sun Gwyndolin",
+    "section": "strategies",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Alternatively, once Gwyndolin teleports the first time upon entering the tomb, it is possible to move closer to him to a point just outside his aggro range; then, by equipping the Hawk Ring and using the Dragonslayer Greatbow, the player can easily defeat him from range without him retaliating.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "29ac5ab6-0f86-59d1-bee5-3d4b1fe3008a",
+    "title": "Dragon Slayer Ornstein and Executioner Smough",
+    "section": "first_phase_ornstein_and_smough",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Dragon Slayer Ornstein and Executioner Smough -  Dark Souls - boss - first_phase_ornstein_and_smough \n first_phase_ornstein_and_smough : The player must fight both at the same time. When one is killed, the other absorbs some of his power, receiving an HP, damage, and resistance boost, and healing back to 100%. He will also take on a physical characteristic of his fallen comrade: Ornstein grows in size while Smough is imbued with lightning.\n\nHaving a summoned phantom can make the fight significantly easier, as it allows the bosses to be fought separately. Note, however, that there's no advantage in damaging both bosses during the first phase (as mentioned above, the surviving boss' HP goes back to 100% when the second phase begins). The role of the second player is simply to keep one of the bosses busy while the other is killed.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7414428019467132,
+    "bm25_score": 40.4337664432331
+  },
+  {
+    "document_id": "eaabd6f2-201d-585e-ad53-14accc3d5da7",
+    "title": "Dragon Slayer Ornstein and Executioner Smough",
+    "section": "first_phase_ornstein_and_smough",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Smough is the tougher of the two, his hammer is capable of dealing tremendous damage should it connect. Because the hitbox is centered on the head of the hammer, it is best to dodge towards or away from him, as getting within the arc of his hammer's horizontal swings can cause them to miss entirely. Beware, as he also has a dangerous charge attack that he can use if the player is not within striking distance of his hammer.\n\nKilling Ornstein first is generally regarded as making the encounter easier to win, since Smough has more weaknesses and is slower than his partner in the second phase. However, killing Smough first will yield the Leo Ring, which is a useful ring for certain builds.\n\nFor melee builds, using a weapon with good reach (such as a spear, halberd or a sword with a fast thrusting attack) will make it significantly easier to hit the bosses when they are near a pillar. Note that both bosses can hit through the pillars with some of their attacks.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7354974793764343,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ae85f422-e57c-5ce6-ad11-16e046f6ed6c",
+    "title": "Dragon Slayer Ornstein and Executioner Smough",
+    "section": "first_phase_ornstein_and_smough",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "When fighting alone, one of the safest strategies is to kite the bosses around the outside of the room, keeping both in view and using the pillars to block their charging attacks while whittling them down with hit-and-run tactics. As Ornstein is the faster of the pair, he will usually be able to catch up to the player quickly. The player can then choose to focus down Ornstein while Smough attempts to navigate around the pillars, or double back to Smough after getting Ornstein away from him and using the short window of separation to attack him before Ornstein returns.\n\nOrnstein's moveset consists largely of dashing and thrusting attacks, meaning that dodging to his sides is more effective than attempting to roll away. He is faster and more nimble though, so he can also be harder to hit. As well, he can issue Lightning blasts from his spear at range, making him a serious threat at any distance.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7062435428814644,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cc6efd17-f7d4-59b1-92e8-c3b5ad54166c",
+    "title": "Dragon Slayer Ornstein and Executioner Smough",
+    "section": "second_phase_2_super_ornstein",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Dragon Slayer Ornstein and Executioner Smough -  Dark Souls - boss - second_phase_2_super_ornstein \n second_phase_2_super_ornstein : If Smough is defeated first, Ornstein will increase greatly in size, drastically changing his moveset in the process. The key to defeating Super Ornstein is to keep in mind that while he has absorbed Smough's strengths, he has also inherited his weaknesses: Super Ornstein is much slower, and has trouble navigating around pillars. Like other large bosses, he also has trouble hitting enemies that are directly under him, though his Lightning Banzai Drop helps to counteract this. Try to stay extremely close to Super Ornstein and attack his legs, dodging out when he performs the Lightning Banzai Drop.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.705178212153214,
+    "bm25_score": 32.37759953573475
+  },
+  {
+    "document_id": "b947d5b2-8132-5a20-a5ce-cbe75679c937",
+    "title": "Dragon Slayer Ornstein and Executioner Smough",
+    "section": "second_phase_1_lightning_smough",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Dragon Slayer Ornstein and Executioner Smough -  Dark Souls - boss - second_phase_1_lightning_smough \n second_phase_1_lightning_smough : If Ornstein is defeated first, Smough will gain Lightning attacks with his hammer, though his moveset does not change appreciably. He is still quite slow and his attacks are still horizontally focused, so dodging in and out is still a sound strategy. Be wary of his Banzai Drop in this phase, as it creates a Lightning explosion upon impact, dealing damage in a large area around him.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6975468431189058,
+    "bm25_score": 28.938962253182815
+  },
+  {
+    "document_id": "88286173-414a-53ab-adda-fec59fe13b0e",
+    "title": "Dragon Slayer Ornstein and Executioner Smough",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Dragon Slayer Ornstein and Executioner Smough -  Dark Souls - boss - notes \n notes : The order in which they are killed will affect the items dropped at the end of the battle.\nDomhnall of Zena will sell either Ornstein's Set or Smough's Set depending on which one was killed last.\nOf the two, Ornstein is considered to be the most difficult due to having higher defensive attributes, being particularly strong against lightning, and being faster. However, he deals similar damage and has less HP than Smough.\nSmough is weak to lightning in his normal form, while his lightning form becomes highly resistant to lightning. His Fire and Magic resistances are fairly low in both forms. Smough is weak to bleed damage in his lightning form.\nOrnstein is virtually immune to lightning damage and has moderate fire and magic resistance in both normal and large form.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6797536459346876,
+    "bm25_score": 28.814788263229914
+  },
+  {
+    "document_id": "16795989-f803-5757-a9c2-7bfb1d91bf7a",
+    "title": "Dragon Slayer Ornstein and Executioner Smough",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Dragon Slayer Ornstein and Executioner Smough -  Dark Souls - boss - lead \n lead : **Dragon Slayer Ornstein and Executioner Smough** (竜狩りオーンスタイン / 処刑者スモウ) are dual bosses in *Dark Souls*. They are both fought at once with individual health bars; when one is slain, the other powers up and regains their health for the battle's second phase.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6646546768123854,
+    "bm25_score": 33.49001575301435
+  },
+  {
+    "document_id": "7bae3c05-ec08-5608-a8a7-02aa5e1ee7a0",
+    "title": "Dragon Slayer Ornstein and Executioner Smough",
+    "section": "ornstein",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Dragon Slayer Ornstein and Executioner Smough -  Dark Souls - boss - ornstein \n ornstein : {'name': 'Lightning Impale', 'description': \"In Ornstein's large form, he will charge his spear with lightning, and then lunge at the player in a quick stabbing motion. If this attack connects, Ornstein will raise the player and release the charged lightning, dealing huge amounts of damage.\"}",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6257976118932492,
+    "bm25_score": 30.049240860300337
+  },
+  {
+    "document_id": "0068b492-b16c-5df0-bdb8-bf03672cec77",
+    "title": "Dragon Slayer Ornstein and Executioner Smough",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Dragon Slayer Ornstein and Executioner Smough -  Dark Souls - boss - location \n location : Encountered guarding a cathedral in central Anor Londo.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6234662519299352,
+    "bm25_score": null
+  },
+  {
+    "document_id": "41f9161b-fe14-5db4-9cb8-ae5a33f690ab",
+    "title": "Dragon Slayer Ornstein and Executioner Smough",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Dragon Slayer Ornstein and Executioner Smough -  Dark Souls - boss - lore \n lore : Ornstein and Smough represent the last ritual challenge for the potential Chosen Undead. In fact, the Undead who tried to follow in Gwyn's footsteps to sacrifice themselves to the First Flame would have to be tested even before obtaining the Lordvessel and seeking powerful souls. Ringing the Bells of Awakening represents only the first of these challenges, and success means gaining access to Sen's Fortress to be tested further. The Undead who manage to overcome the tests and dangers of the fortress and defeat the Iron Golem would manage to access Anor Londo. Once they managed to enter the cathedral of the city of the gods to try to obtain the Lordvessel they would still be challenged by Ornstein and Smough guarding it, to ensure that only the strongest of the strongest Undead could have an audience with \"Gwynevere, Princess of Sunlight\".",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6164951909539484,
+    "bm25_score": 29.255232038257457
+  },
+  {
+    "document_id": "605dc6a0-4a57-5f93-ac66-56498edbace2",
+    "title": "Dragon Slayer Ornstein and Executioner Smough",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Ornstein is named after the composer and pianist Leo Ornstein. This explains the lion-themed motif of Ornstein's helmet.\nSmough's name is pronounced \"Smo\". It comes from the Japanese \"sumo\", a form of wrestling performed by fat men.\nDue to the way that the fight is coded, if both Ornstein and Smough are killed simultaneously in the first phase, the game will default to Ornstein as the survivor for the second phase.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6132946723545942,
+    "bm25_score": 31.207136229847972
+  },
+  {
+    "document_id": "8ae69310-27b0-54b7-9eb1-5cde302fed29",
+    "title": "Dragon Slayer Ornstein and Executioner Smough",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "In *Dark Souls III*, Executioner Smough is referenced as the last knight in defense of the last cathedral of Anor Londo.. This was after Ornstein abandoned his duty to search for The Nameless King, leaving Ornstein alone. This represents the main explicit retcon of the Dark Souls series as in *Dark Souls* not only the presence but also the death of Ornstein were canon, as his soul and his ring that gave him the title of knight could be obtained.\nIn co-op it is possible for multiple players to be caught by Giant Ornstein's Lightning Impale attack at the same time. However, neither player will take any damage from the attack when this happens.\nSmough can be heard laughing during the fight. His laugh is noticeably similar to the laugh of the Fat Official from *Demon's Souls*.\nOrnstein is named after the composer and pianist Leo Ornstein. This explains the lion-themed motif of Ornstein's helmet.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5947959335963994,
+    "bm25_score": null
+  },
+  {
+    "document_id": "376a38cd-9f8a-50ff-a6fb-2e361f81732e",
+    "title": "Dragon Slayer Ornstein and Executioner Smough",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Dragon Slayer Ornstein and Executioner Smough -  Dark Souls - boss - trivia \n trivia : If Ornstein is defeated first, his hand appears to move just before being hit by Smough's hammer, suggesting he was still alive and that it was Smough who gave the final blow, living up to his title as executioner. If Smough is defeated first, Ornstein respectfully places his hand over Smough's body to absorb his power.\n**The Nameless King in *Dark Souls III* likewise absorbs the King of the Storm's power when it is slain. The Storm Curved Sword description states that this was the custom of the culture of Anor Londo in the Age of Fire.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5942869523440426,
+    "bm25_score": 29.06186137877741
+  },
+  {
+    "document_id": "e6a44077-c428-55df-8632-e66be2fbccb2",
+    "title": "Dragon Slayer Ornstein and Executioner Smough",
+    "section": "smough",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Dragon Slayer Ornstein and Executioner Smough -  Dark Souls - boss - smough \n smough : {'name': 'Banzai Drop', 'description': 'Smough jumps into the air and then crashes into the ground below. Smough takes a while to recover after using this attack. When in his more powerful form, there is a lightning area of effect upon landing. The only way to fully avoid the lightning damage is to roll when Smough lands on the floor. It can also be partially blocked with a shield.'}",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5725920863798355,
+    "bm25_score": 27.425643238119893
+  },
+  {
+    "document_id": "fea87bbb-ba82-5985-a73d-09e41e0b54e8",
+    "title": "Dragon Slayer Ornstein and Executioner Smough",
+    "section": "summoning",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Dragon Slayer Ornstein and Executioner Smough -  Dark Souls - boss - summoning \n summoning : It's possible to summon Solaire of Astora to help in the fight. His summon sign can be found on top of a small platform connected to the stairs to the left, when facing the fog door (the platform below the archer knight).\n\nIf he starts the encounter at full health, Solaire can generally solo one of the bosses, as long as he's not attacked by the other (i.e., if the player keeps the other boss busy). This can make it harder to ensure a specific kill order (necessary to determine the final loot, as described below), as there is no way for the player to tell Solaire to stop attacking a specific boss.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5583175678827488,
+    "bm25_score": 29.05475443786773
+  },
+  {
+    "document_id": "b75f9dfc-cd42-52c1-beba-1b0755b05917",
+    "title": "Executioner Smough",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Executioner Smough -  Dark Souls III - character - trivia \n trivia : Concept art of Smough's armor depicts a rather muscular man wearing it. Whether this depiction is of Smough himself, or a male Chosen Undead wearing his armor, is unknown.\n**The armor is described as being able to be worn by humans, \"but not without great difficulty\". This may imply that some aspects of the armor are adapted to Smough's body.\nWhen worn by the player, the visor in Smough's helm is shown located at the neck of the helm, and a small wooden construction holds the upper part of the helm in place.\n**Whether Smough also wears the helm like this or not is unknown.\nDuring the boss fight, if the player defeats Ornstein first, Ornstein's hand moves briefly before Smough crushes him with his hammer, implying that he was still alive. Additionally, Smough can be heard laughing after crushing Ornstein.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5429492297042953,
+    "bm25_score": 29.9873192492555
+  },
+  {
+    "document_id": "48b3ef5a-d887-5ef8-8e05-e95cde4e482a",
+    "title": "Ornstein's Set",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Ornstein's Set -  Dark Souls - armor - availability \n availability : Purchased from Domhnall of Zena (for 27,000 souls), if the player defeated Dragon Slayer Ornstein second during the Dragon Slayer Ornstein and Executioner Smough boss fight in Anor Londo.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5410876020268602,
+    "bm25_score": 38.073491469533636
+  },
+  {
+    "document_id": "e790ab3a-57d4-5b24-ba7a-f5bf79a6513b",
+    "title": "Knight's Honor",
+    "section": "boss_soul_weapons",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Knight's Honor -  Dark Souls - weapon - boss_soul_weapons \n boss_soul_weapons : This list is roughly based on the order that the boss is encountered. Some important notes:\nThe base weapon must be upgraded to at least +10 before it can be ascended into a boss soul weapons.\nBoss soul weapons can only be ascended at the Giant Blacksmith in Anor Londo.\nTo gain the souls of Ornstein and Smough, they must be defeated in a different order in separate playthroughs.\nThe Soul of Sif is unique in that it is the only Boss Soul that is required to be obtained three times; one for each of the two Greatsword of Artorias variants, and one for the Greatshield of Artorias.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.534430691377901,
+    "bm25_score": 27.454045400894007
+  },
+  {
+    "document_id": "7cc08680-9b94-5db5-bb42-4fc67a3ea2d0",
+    "title": "Dragon Slayer Ornstein",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Dragon Slayer Ornstein -  Dark Souls III - character - trivia \n trivia : Ornstein seems to hold a consistent presence across all three *Dark Souls* games in some form or another:\n**He appears as a boss alongside Smough in *Dark Souls*.\n**The Old Dragonslayer is a boss in *Dark Souls II* that dons a black version of Ornstein's armor and utilizes dark magic. Whether the Dragonslayer is Ornstein himself or an impostor is unknown.\n**The Dragonslayer Armour is noticeably inspired by Ornstein; aside from visual similarities between the two (including both possessing a red plume), the Dragonslayer Armour utilizes lightning in some of its attacks. It is also revealed in the Dragonslayer Set description that Ornstein left Anor Londo in search of the Nameless King.\nOrnstein's name, alongside the Leo Ring, are homages to Russian-American composer, Leo Ornstein, an experimental composer of the early 20th century.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5340252642700829,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9f314ead-5533-5c5c-925c-87b821a6ecc7",
+    "title": "Old Dragonslayer",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Old Dragonslayer -  Dark Souls II - boss - strategy \n strategy : The fight is very similar to the Dragonslayer Ornstein and Executioner Smough battle without Smough. There are slight differences in how the Old Dragonslayer fights compared to Ornstein. An example would be that the Old Dragonslayer uses a dark magic attack, while Ornstein uses lightning. Otherwise, Old Dragonslayer has the same sort of movement and similar attack patterns as Ornstein in the original *Dark Souls* should the player slay Executioner Smough first. If one takes his time fighting him, he will shoot three dark magic orbs at the player from the tip of his spear.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5339319904135867,
+    "bm25_score": 41.94854461993883
+  },
+  {
+    "document_id": "005f6883-55d9-5264-9008-e7166bca1bd7",
+    "title": "Ornstein's Set",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Ornstein's Set -  Dark Souls - armor - trivia \n trivia : The red plume adorning Ornstein's helmet is noticeably absent from the helmet available to the player after his secondary defeat.\nThe player version of the set possesses a slightly higher resistance toward Fire than Lightning. However, Ornstein's lightning resistance is about six times higher than his fire resistance.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5268094826397248,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f8e55d0e-8fce-52c3-9995-6624ad7aee5a",
+    "title": "Ornstein's Armor",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Ornstein's Armor -  Dark Souls - armor - characteristics \n characteristics : Grants excellent Lightning resistance.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5258288855609443,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f0694e2e-6591-5c2d-b995-5ff2a5de6d0f",
+    "title": "Royal Rat Authority",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "#**Sword** - One of the easiest ways to beat the boss after the smaller ones are dealt with. Simply equip a sword such as the broadsword and a decent shield such as the Twin Dragon Greatshield, and stay under him the whole time. When he jumps out of the way, raise it back up and sprint back under him attack his legs after he attacks. If timed right, you can get 1-2 heavy hits off on him.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5219370851923619,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ee655038-3282-54d2-ba83-9551d196bad8",
+    "title": "Executioner Smough",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Together, these two powerful warriors would become the last ritual challenge before a Chosen Undead could be rewarded with the Lordvessel. Only after a lethal and lengthy trial, which involved ringing the Bells of Awakening and surviving Sen's Fortress, could the Chosen Undead be granted entry into the city of the gods. Here, guarding the chambers of Gwynevere, Ornstein waited alongside Smough, and oversaw those seeking an audience with the Princess of Sunlight.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5218927829312356,
+    "bm25_score": null
+  },
+  {
+    "document_id": "226567d1-ce01-507d-9c3e-229a9b6e50ad",
+    "title": "Lost Sinner",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "If The Lost Sinner is defeated before the pyromancers have been dispatched, it is possible that the pyromancers will turn neutral and stop attacking the player.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5183942934356238,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e2a81a87-2e7d-5f44-87ac-8cb5682f3cef",
+    "title": "Ornstein's Set",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Ornstein's Set -  Dark Souls - armor - plot \n plot : Worn by Dragon Slayer Ornstein, presumed captain of the Four Knights of Gwyn.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5165491973311852,
+    "bm25_score": null
+  },
+  {
+    "document_id": "df4b35f5-b30a-5d2f-82cd-282a8e0b464b",
+    "title": "The Duke's Dear Freja",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "In Scholar of the First Sin, one can make this fight significantly easier by holding a torch in one of their hands. This will prevent Freja's parasite spiders from attacking them.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5158094617551519,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bda41de1-1480-5784-acab-e392431250c2",
+    "title": "Soul of Smough",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Soul of Smough -  Dark Souls - item - availability \n availability : Dropped by Executioner Smough, if he is killed after Dragonslayer Ornstein.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5151530990693427,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8fc8005a-6d1e-5c21-be52-1daacc3d6990",
+    "title": "Smough's Armor",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Smough's Armor -  Dark Souls - armor - availability \n availability : Sold by Domhnall of Zena for 7,000 souls after killing Smough second during the Dragon Slayer Ornstein and Executioner Smough boss fight.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5124432445246215,
+    "bm25_score": 36.52365996038327
+  },
+  {
+    "document_id": "f565675b-7f73-5beb-a458-9c116bb9e2f6",
+    "title": "Smough's Set",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Smough's Set -  Dark Souls - armor - plot \n plot : Worn by Smough, the cannibalistic executioner who guards the Anor Londo cathedral.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5120308366121762,
+    "bm25_score": null
+  },
+  {
+    "document_id": "918e9fe1-a6d9-5845-9137-69d02b703c32",
+    "title": "Seath the Scaleless",
+    "section": "moonlight_greatsword",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "You can also use fast spells to cut his tail. Unlike using weapons, it is recommended to retreat from the boss battle (Homeward, Homeward Bone, or quit game) if you fail to cut it on the first try after breaking the crystal.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5069754122201144,
+    "bm25_score": null
+  },
+  {
+    "document_id": "321a114e-45cf-5140-9cb2-bb3f66cd38bb",
+    "title": "Dragonslayer Armour",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "When fighting this boss, it is necessary to remember not to get greedy with attacks and to have a faster roll speed.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5066651803742376,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b19ebf7b-bf30-52ec-a517-d2991d7a373b",
+    "title": "Ornstein's Set",
+    "section": "upgrade_stats",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Ornstein's Set -  Dark Souls - armor - upgrade_stats \n upgrade_stats : Ornstein's Set cannot be upgraded.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.504927207241002,
+    "bm25_score": null
+  },
+  {
+    "document_id": "95331cd6-e6f4-56bc-a463-ce424da9881e",
+    "title": "Ornstein's Armor",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Ornstein's Armor -  Dark Souls - armor - availability \n availability : Purchased from Domhnall of Zena for 8,000 souls, if the player defeated Dragonslayer Ornstein after killing Smough during the Dragonslayer Ornstein and Executioner Smough boss fight in Anor Londo.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5047741687246653,
+    "bm25_score": 36.27249638329818
+  },
+  {
+    "document_id": "5a08c9ff-6cba-5590-98b4-b4858d487c37",
+    "title": "Gwynevere, Princess of Sunlight",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "defeated Dragon Slayer Ornstein and Executioner Smough, the cathedral guardians, proving that they were strong enough to fulfill their destiny. Gwynevere's illusion would reward them with her divine presence as well as the Lordvessel needed to reach the Kiln of the First Flame, and beseech them succeed Gwyn and link the fading Flame.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5042418782737794,
+    "bm25_score": null
+  },
+  {
+    "document_id": "74bf751a-467b-58af-9274-ef3bcb419aec",
+    "title": "Ornstein's Armor",
+    "section": "upgrades",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Ornstein's Armor -  Dark Souls - armor - upgrades \n upgrades : Cannot be reinforced.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5031556737628857,
+    "bm25_score": null
+  },
+  {
+    "document_id": "09429b55-1290-5abd-adfd-9c55e6ccad11",
+    "title": "Afflicted Graverobber, Ancient Soldier Varg, and Cerah the Old Explorer",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "None of them will slow down when in the water at the bottom of the arena, unlike the player character.\nEven at lower levels of NG+, this boss fight becomes one of the most challenging ones in the game, as the three enemies can all kill the player in only a few hits. In addition to that, the player cannot attack the same enemy for more than a few hits without them rolling away, especially when they have no means of stunlocking them or dealing consistent damage through ripostes or backstabs, making this fight incredibly tough. All of this makes summoning other players or NPC phantoms a very good idea.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5031231472704085,
+    "bm25_score": null
+  },
+  {
+    "document_id": "30914be3-1229-5114-aa4e-b1468e2f1eaf",
+    "title": "Ogre",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "An easy strategy to take an Ogre down consists into luring him to perform the attack where he falls flat on his back, then quickly run to the other side of the creature (near his feet) and wait for him to stand up. This will leave the player positioned right at his back, causing him to execute his sitting attack, which is very easy to avoid and leaves him open for a few melee attacks. When he stands up, just stand behind him again and he'll perform another sitting attack. Repeat this process until he is defeated.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5022998991551887,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1d74ee42-c101-54a7-87b6-798ae1ad8d1f",
+    "title": "Manus, Father of the Abyss",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Manus, Father of the Abyss -  Dark Souls - boss - attacks \n attacks : {'name': 'Abyss Cage', 'description': 'Dark Orbs propagate from above Manus, surrounding the entire arena before homing back in on Manus. This attack covers the entire arena, except for the area right next to Manus, like an inverted AoE. Dodge it by getting as close as possible to Manus once he starts casting. The Silver Pendant can also block this attack.'}",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5002339303178861,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e18c91cc-dad2-5311-99f3-12a344dfca85",
+    "title": "Four Knights of Gwyn",
+    "section": "dragonslayer_ornstein",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Four Knights of Gwyn -  Dark Souls - character - dragonslayer_ornstein \n dragonslayer_ornstein : Ornstein is believed to be the captain of the Four Knights. He is also the only one who must die by the player's hand in order for the story to progress. It is rumored his spear is powerful enough to cut a giant boulder in two.\n\nIt is implied that the Ornstein the Chosen Undead encounters is but a golem, and the real one left Anor Londo to search for the Nameless King. In Dark Souls 3 after encountering the Nameless King boss fight his armor can be found in the boss fight arena on Archdragon Peak implying that he did reach the Nameless King, however, it is not on a corpse, meaning he may have simply left it behind.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5002281174510006,
+    "bm25_score": null
+  },
+  {
+    "document_id": "75162034-aeba-50f2-bf2d-7836ad50e690",
+    "title": "Smough's Set",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Smough's Set -  Dark Souls - armor - availability \n availability : Smough's Set is sold by Domhnall of Zena after defeating Dragon Slayer Ornstein and Executioner Smough. Smough must be killed after Ornstein in order for Domhnall to sell this set once per playthrough.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.4990814944537208,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c15709bc-da44-5207-a857-76aba9a85734",
+    "title": "Smough's Armor",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Smough's Armor -  Dark Souls - armor - characteristics \n characteristics : Smough's Armor has the highest physical defenses of every non-upgraded armor, very high Poise, Bleed and Poison resistance, and average Curse resistance. It's good against all kinds of elemental attacks, but is particularly stronger against Fire attacks. It's also best suited against slash attacks and its weakest defense is against strike attacks. The bigger flaw of this armor, however, is that it cannot be upgraded, but its already high defenses overall makes up for it for the most part.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.49826900120885004,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2633ddd4-bc3c-5a07-a30b-dc086b674f0d",
+    "title": "Dragon Slayer Ornstein",
+    "section": "lore",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "During the war against the dragons Ornstein fought valiantly together with Gwyn's firstborn son, obtaining the title of \"Dragon Slayer Knight\" and becoming one of Gwyn's most trusted knights. Once his Lord won the war, exterminating the ancient dragons and conquering the world, Ornstein, along with Artorias, Ciaran and Gough, became part of the Four Knights of Gwyn as their captain. As a symbol of his association with the order he gained a magical ring with the lion symbol, which strengthened counter attacks with thrust weapons, making his fighting style with his cross spear more effective.\n\nOrnstein would also become the first knight of Gwyn's firstborn, having accompanied him during the war against dragons. The story of the battles of Ornstein, Gwyn's unnamed firstborn son, and the dragonslayers in their service, were manifested as miracles of war; these were taught to the Warriors of Sunlight, a group of knights that had joined in covenant with the god of war and heir of Gwyn.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.4980985578559889,
+    "bm25_score": null
+  },
+  {
+    "document_id": "36cf0959-5c44-58e4-ba50-694a630d908b",
+    "title": "Mound-makers",
+    "section": "benefits",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "In order to successfully complete an online session, the player must defeat either the Host of Embers, or a certain number of phantoms of any affiliation. Depending on the number of players already present in the host's world upon entering it, the requirement may increase to up to 3 phantoms. Therefore, unlike red invaders or blue territory defenders who must defeat the Host of Embers in order to achieve victory, a purple phantom may choose to slay phantoms allied with the host, or invaders who are attempting to defeat the host, and achieve their objective regardless. Conversely, however, the player must land the killing blow on a target to qualify, killing a target via secondary methods such as knocking them off of a cliff does not count.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.4979567082181857,
+    "bm25_score": null
+  },
+  {
+    "document_id": "73e4f342-ae1a-5794-9f3f-f2e538309c94",
+    "title": "Great Crab",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Defeating the one near the keep in the Road of Sacrifices will grant the player the Great Swamp Ring, which greatly enhances pyromancies. This may not be an easy task in the early game, though, as there will be major difference between the damage the player can output, compared to the damage they deal when they are first encountered, which usually ends up with the crab burrowing into the ground in the middle of the fight, only to appear moments later in a distant area with its health completely restored. For this reason, it's recommended to come back to fight them once the player is stronger and has procured better weaponry. Ranged-attacking characters, like sorcerers and pyromancers, may have a better chance of defeating them the first time around, as Great Crabs can usually be lured into getting stuck among the trees, where the player may attack them at will.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.4962571164555549,
+    "bm25_score": null
+  },
+  {
+    "document_id": "530c9713-96af-506e-979a-7147996113a1",
+    "title": "Ornstein's Leggings",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Ornstein's Leggings -  Dark Souls - armor - availability \n availability : Purchased from Domhnall of Zena for 6,000 souls, if the player defeated Dragonslayer Ornstein second during the Dragonslayer Ornstein and Executioner Smough boss fight in Anor Londo.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.4961142254673302,
+    "bm25_score": 38.70264124438999
+  },
+  {
+    "document_id": "38077771-bc3e-5b87-a484-0bf43cab4953",
+    "title": "Smough's Armor",
+    "section": "upgrades",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Smough's Armor -  Dark Souls - armor - upgrades \n upgrades : Cannot be reinforced.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.49577744455360595,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ee3ed55e-63cf-5941-b9d6-a3149d498e9f",
+    "title": "Soul of Ornstein",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Soul of Ornstein -  Dark Souls - item - availability \n availability : Dropped by Dragonslayer Ornstein, along with the Leo Ring, but only if he is defeated after Executioner Smough.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.49574144474100734,
+    "bm25_score": null
+  },
+  {
+    "document_id": "94a6b5e1-8869-5a94-9d33-417804885730",
+    "title": "Ogre",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Due to their large size, Ogres won't be able to fit through narrow spaces. There are a few instances in the game where this can be exploited (Things Betwixt being a prime example, where two Ogres attack at the same time). The player needs to aggro an Ogre and then run to the other side of any doorway. Then, the player needs to carefully approach the doorway, luring the Ogre(s) to attack (rolling out of the way if necessary) and attack him a few times while he recovers, repeating this process until he dies.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.4954950341005089,
+    "bm25_score": null
+  },
+  {
+    "document_id": "aa21e074-fc24-5d99-afba-bd5d755fc9df",
+    "title": "Ornstein's Gauntlets",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Ornstein's Gauntlets -  Dark Souls - armor - availability \n availability : Purchased from Domhnall of Zena for 6,000 souls, if the player defeated Dragonslayer Ornstein second during the Dragonslayer Ornstein and Executioner Smough boss fight in Anor Londo.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 38.70264124438999
+  },
+  {
+    "document_id": "e4f8bae1-dde3-526f-83f6-603ca9a453fd",
+    "title": "Ornstein's Helm",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Ornstein's Helm -  Dark Souls - armor - availability \n availability : Purchased from Domhnall of Zena for 7,000 souls, if the player defeated Dragonslayer Ornstein second during the Dragonslayer Ornstein and Executioner Smough boss fight in Anor Londo.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 38.70264124438999
+  },
+  {
+    "document_id": "7eb4b487-606a-5dc7-9359-646260542154",
+    "title": "Smough's Gauntlets",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Smough's Gauntlets -  Dark Souls - armor - availability \n availability : Sold by Domhnall of Zena for 5,000 souls after killing Smough second during the Dragonslayer Ornstein and Executioner Smough boss fight.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 36.85974611827119
+  },
+  {
+    "document_id": "25892c1b-10fb-5e4c-beb5-992eb934e484",
+    "title": "Smough's Leggings",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Smough's Leggings -  Dark Souls - armor - availability \n availability : Sold by Domhnall of Zena for 5,000 souls after killing Smough second during the Dragonslayer Ornstein and Executioner Smough boss fight.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 36.85974611827119
+  },
+  {
+    "document_id": "94596ba5-7ffa-5957-99d5-fc6a95d21cd5",
+    "title": "Leo Ring",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Leo Ring -  Dark Souls - ring - availability \n availability : It is necessary to kill Executioner Smough first, in order to obtain this ring. Once the boss fight ends, Dragonslayer Ornstein will leave the ring behind.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 33.396606706912834
+  },
+  {
+    "document_id": "b901e56a-5252-5425-b5c8-a88f1e06efdc",
+    "title": "Smough's Helm",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Smough's Helm -  Dark Souls - armor - availability \n availability : Sold by Domhnall of Zena for 6,000 souls after killing Smough last during the Dragonslayer Ornstein and Executioner Smough boss fight.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.43209568394659
+  },
+  {
+    "document_id": "6009e9f3-8868-5614-bd8f-cde2d60d86a8",
+    "title": "Royal Rat Authority",
+    "section": "fight_overview",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Royal Rat Authority -  Dark Souls II - boss - fight_overview \n fight_overview : Once you enter the fog door, the boss fight does not start immediately. This gives the player some time to devise a plan to take on the first phase. Whatever choice the player makes, it needs to be acted on quickly once the rats are aggroed because the boss will soon jump down and join the fight. The small rats can inflict large amounts of Toxic and stunlock the player, while the Rat Authority can take the player out with one attack.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 32.16105729348707
+  },
+  {
+    "document_id": "06c118d6-b708-515e-bd3c-72c113f8c94d",
+    "title": "Blue Sentinels",
+    "section": "how_to_join",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Blue Sentinels -  Dark Souls II - mechanic - how_to_join \n how_to_join : Talk to Blue Sentinel Targray, located in the Cathedral of Blue directly after the Old Dragonslayer boss fight. Reaching him before obtaining at least one Token of Fidelty will have him disregard the player, so be sure to find one if you wish to join the covenant. Upon meeting the requirements and accepting Targray's offer, players will be awarded the Guardian's Seal.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.88109411337367
+  },
+  {
+    "document_id": "96265bc8-0f54-56cb-a6fc-0713321abf50",
+    "title": "Dark Sun Gwyndolin",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Dark Sun Gwyndolin -  Dark Souls III - boss - trivia \n trivia : Gwyndolin's title uses the kanji \"陰の太陽\" that can be literally translated as \"Sun in the Dark\", \"Sun in the Shadow\" or \"Hidden Sun\".\nDark Sun Gwyndolin's boss fight has the same soundtrack as the Moonlight Butterfly.\nGwyndolin has breasts visible on his cloak, however, in Aldrich's boss fight, Gwyndolin's bare upper chest is visible, and lack breasts.\nIf Gwyndolin is fought before defeating Ornstein and Smough, Knight Solaire can be summoned from his usual spot. While he will not enter the arena to aid the player in the battle, a Sunlight Medal can be acquired at the end of the fight.\nIf the player uses the Darkmoon Seance Ring to enter Gwyndolin's chamber and kills him without destroying the illusion of Gwynevere, both Gwynevere and the illusion of sunlight in Anor Londo will persist after his death.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.69271878935515
+  },
+  {
+    "document_id": "ce479bb4-28ce-52d0-93e3-767ee57fbdb1",
+    "title": "The Nameless King",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "The Nameless King -  Dark Souls III - boss - lead \n lead : , alongside his Stormdrake known as the **King of the Storm**, is an optional boss in *Dark Souls III*. In the first phase of their fight, the player deals damage to the dragon mount, before fighting the King one-on-one in the second phase.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.21905497804179
+  },
+  {
+    "document_id": "5c9aeede-1e93-5c26-ac0e-50caaff51714",
+    "title": "Slave Knight Gael",
+    "section": "locations",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Slave Knight Gael -  Dark Souls III - character - locations \n locations : Cathedral of the Deep — He is first found praying before the statue next to the Cleansing Chapel bonfire.\nPainted World of Ariandel — He can be summoned for the second phase of the Sister Friede boss fight. His summon sign becomes unavailable after defeating the Demon Prince.\nThe Dreg Heap — He can be summoned for the Demon Prince boss fight. His summon sign is near the Within the Earthen Peak Ruins bonfire. His summon sign is still available after defeating Sister Friede.\nThe Ringed City — Found near Filianore's Rest as a boss.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.57663809769272
+  },
+  {
+    "document_id": "85f96815-9685-5762-ae09-365effdef272",
+    "title": "Stone Greatsword",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Stone Greatsword -  Dark Souls - weapon - notes \n notes : The two handed heavy attack works on the boss Dragonslayer Ornstein and Executioner Smough, yet only the visual effect is shown, they aren't slowed down by any degree. Some enemies have the same trait as that boss.\nWhen Tumblebuffing the Stone Greatsword, the two handed heavy attack will deal high amounts of damage at intervals of approximately one second to anything within the radius.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.568940475484766
+  },
+  {
+    "document_id": "77369342-0743-56f7-8389-da2a510befbc",
+    "title": "Brotherhood of Blood",
+    "section": "how_to_join",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Brotherhood of Blood -  Dark Souls II - mechanic - how_to_join \n how_to_join : Talk to Titchy Gren, located in the Undead Purgatory directly after the Executioner's Chariot boss fight. Reaching him before obtaining at least one Token of Spite will have him disregard the player, so be sure to find one if you wish to join the covenant. Upon meeting the requirements and confirming your desire of bathing in blood to Titchy Gren multiple times, players will be awarded the Crest of Blood.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.560199925847233
+  },
+  {
+    "document_id": "9e5eec37-8c85-52e9-93fc-fbb803a3816e",
+    "title": "Benhart of Jugo",
+    "section": "achievements_trophies",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Benhart of Jugo -  Dark Souls II - character - achievements_trophies \n achievements_trophies : To get this Achievement/Trophy, the player must summon Benhart and have him survive a minimum of three boss fights. He can be summoned for the following boss fights:\nProwling Magus and Congregation\nLooking Glass Knight\nGiant Lord\nThrone Watcher and Defender (this fight does not count)\nNashandra\nAldia, Scholar of the First Sin (this fight does not count)\nElana, the Squalid Queen (DLC)\n\nPlayers can also use a Bonfire Ascetic to respawn a boss and then summon Benhart again. After defeating at least three bosses alongside him, Benhart will thank the player and give them his equipment in the Memory of Orro.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.24914354006693
+  },
+  {
+    "document_id": "19c45690-aac6-5b74-9574-201d5ed7e6f5",
+    "title": "Slave Knight Gael",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Slave Knight Gael -  Dark Souls III - character - trivia \n trivia : Gael's facial data, including his beard, is unique to him and is not available as an option when creating the player's character.\nImpaling the corpse of a Pygmy lord with his sword and tossing it at the player is a reference to Knight Artorias, who performs a similar act at the start of his boss fight, and to the Penetrator before him in *Demon's Souls*.\nOut of any boss from the entire franchise, Gael has the biggest boss arena, as the Pygmy's Throne is a completely explorable desert-like zone.\nThe way Gael moves and fights on the first phase is very similar to how Guts, from the *Berserk* anime/manga, does when using the Berserker Armor. In the second phase, the Repeating Crossbow is also reminiscent of Guts' Repeater Crossbow and the way he hides and follows his attacks with a cape.\nA summon sign appears beneath Gael wherever he reappears at when he teleports during his boss fight.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.71286906782857
+  },
+  {
+    "document_id": "e3276cf6-fd63-5c8e-b4ef-98c557a9e3f9",
+    "title": "Belfry Gargoyles",
+    "section": "summons",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Belfry Gargoyles -  Dark Souls II - boss - summons \n summons : Masterless Glencour - Can be summoned for the boss fight in Belfry Luna. His summon sign is under the second staircase in the tower (only in *Scholar of the First Sin*).",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.577384444302144
+  },
+  {
+    "document_id": "e218d3a3-e2a6-5c5f-bc21-05ef56e65f36",
+    "title": "Old Demon King",
+    "section": "summons",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Old Demon King -  Dark Souls III - boss - summons \n summons : Great Swamp Cuculus: Her summon sign can be found near the staircase leading to the boss arena.\nKnight Slayer Tsorig: If the player defeated Tsorig as a Dark Spirit in the Catacombs of Carthus, he can be summoned to help with this boss fight. His summon sign can be found near the Demon Ruins Bonfire (Defeating him again in the Smouldering Lake does not negate this).",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.357387985638287
+  },
+  {
+    "document_id": "3e650eae-e941-5930-adea-ed590202b8f0",
+    "title": "Bonfire (Dark Souls III)",
+    "section": "high_wall_of_lothric",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "***Dancer of the Boreal Valley**\n:Once the player is returned to the cathedral where they first met Priestess Emma, after having defeated the first three Lords of Cinder, she will die gifting the player the Basin of Vows. When approaching the statue behind her to place the basin, the Dancer of the Boreal Valley will enter the scene and her boss fight will take place. The bonfire will appear upon her defeat.\n\n***Oceiros, the Consumed King**\n:After defeating the Dancer of the Boreal Valley and placing the Basin of Vows, the player can ascend the ladder to Lothric Castle. Heading left from here and descending a lift leads to the Consumed King's Garden. Fighting through this area ultimately leads to the boss room for Oceiros, the Consumed King; the bonfire will appear upon defeating him.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.270793004017932
+  },
+  {
+    "document_id": "47f0b698-f834-535d-bb3e-47170d94b3a7",
+    "title": "Asylum Demon",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "boss",
+    "snippet": "Asylum Demon -  Dark Souls - boss - notes \n notes : Players can escape from the Asylum Demon's fight on the first encounter, by going through the doorway on the left-hand side of the room, just as one can do so for the initial fight with Seath the Scaleless. However, on the second encounter, it is impossible to do so.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.226250941838785
+  },
+  {
+    "document_id": "bb5bfd84-2d44-55d8-ac23-d489a59ca3ea",
+    "title": "Royal Sentinel",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Royal Sentinel -  Dark Souls - enemy - location \n location : Two are encountered in the hallway before the boss room of Dragon Slayer Ornstein and Executioner Smough in Anor Londo.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.055047088282407
+  },
+  {
+    "document_id": "9c793983-b876-5da2-8ec5-3c877d3e2714",
+    "title": "Aldia, Scholar of the First Sin",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Aldia, Scholar of the First Sin -  Dark Souls II - boss - notes \n notes : Aldia during his boss fight can be in either \"flame\" mode or “burnt out\" mode.\n**In \"flame\" mode, he has very high damage reduction and creates an aura, which may seriously wound the player.\nIf the player killed Nashandra before downloading the patch, Aldia will not appear in the Throne of Want, even if he has been spoken to in all three previous locations. A Bonfire Ascetic must be burned at the King's Gate bonfire to spawn Aldia, which means the player must defeat Nashandra as well as the Throne Watcher and Defender again before being able to fight Aldia.\nDuring the fight, spears and shields with high fire resistance are recommended.\nAldia drops nothing upon defeat, not even souls. The only reward from defeating him is that the player has the option to leave the throne, giving the player an alternate ending.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.008562116283148
+  },
+  {
+    "document_id": "2af712fe-57f8-5169-ad7b-e872be0be316",
+    "title": "Curse-rotted Greatwood",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Curse-rotted Greatwood -  Dark Souls III - boss - notes \n notes : Affected by Alluring Skulls.\nThe Greatwood is an optional boss, however, defeating it rewards the player with the Transposing Kiln, which is required to forge boss soul weapons.\nIf the player wishes to join the Mound-makers covenant, then it is advised do so before defeating the boss. Hodrick, the character who inducts the player into the covenant, is located in the pit below the boss arena and will be killed when the floor collapses. His corpse is visible after the fight. It is, however, possible to join the Mound-makers covenant later in the game.\nThe arm that emerges in the second phase resembles the Clawed Curses found in the Grand Archives.\nPestilent Mist will damage the boss without destroying any egg sacs.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.637682948291413
+  },
+  {
+    "document_id": "1c4a1f2c-413c-5572-9990-f79dd1c79a49",
+    "title": "The Duke's Dear Freja",
+    "section": "summoning",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "The Duke's Dear Freja -  Dark Souls II - boss - summoning \n summoning : Ashen Knight Boyd can be summoned for this fight. His summon sign is located next to a column beneath a spider web on the opposite wall of the fog door. He makes the fight much easier, as he will easily defeat the first wave of smaller spiders and keep the boss busy for a good portion of the fight. He also has very high defense for not having a shield and will thus last a long time during the boss fight.\n\nIn *Dark Souls II: Scholar of the First Sin*, two additional summons were added:",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.48575906537171
+  }
+]

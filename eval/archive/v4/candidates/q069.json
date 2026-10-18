@@ -1,0 +1,2164 @@
+[
+  {
+    "document_id": "3bf89b28-d391-54e4-a024-80c8412ee40c",
+    "title": "Adaptability",
+    "section": "agility",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Adaptability -  Dark Souls II - mechanic - agility \n agility : Increased by both Adaptability and Attunement, where Adaptability is more beneficial. ADP levels Agility three times faster than Attunement.\nHard-capped at 120 with both Adaptability and Attunement at 99.\nImproves Estus consumption animation. The item consume speed multiplier only changes between 90 and 100 Agility. At the lowest possible Agility your Estus consume speed is 2.5 seconds, at 100 Agility it takes just over 2 second to complete the Estus consumption animation.\nImproves Weapon swap speed. This multiplier scales from 120% at minimum Agility up to 145% at maximum Agility.\nImproves speed of guard raise animation. This multiplier scales from 100% at minimum Agility up to 150% at maximum Agility.\nAdditional invincibility frames while rolling and backstepping - see charts below.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.8687811248807785,
+    "bm25_score": 44.95300626127247
+  },
+  {
+    "document_id": "557817f6-1a14-51fc-a5ee-f3b81bf48665",
+    "title": "Adaptability",
+    "section": "invincibility_frames_iframes",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Compared to Dark Souls, 96 Agility will give you 11 i-frames which is the same as all roll types except for Dark Wood Gain Ring roll type which is 13 iframes.\n\nRolling with insufficient stamina will cause iFrames to be reduced on those rolls.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7210630974664716,
+    "bm25_score": 24.669432529750978
+  },
+  {
+    "document_id": "86221f4b-88c8-58b6-8843-22af42ad5c8c",
+    "title": "Adaptability",
+    "section": "dark_souls_2_iframe_charts",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Adaptability -  Dark Souls II - mechanic - dark_souls_2_iframe_charts \n dark_souls_2_iframe_charts : \"Investment\" tiers exist to compensate for the overlapping menu display values of Agility in different tiers. For example 110 AGL is the menu display for 7 internal values, the subindexes on AGL numbers accomplish the same function (x).\n\n\"Investment\" = ADP x .75 + ATN x .25 rounded down to the nearest whole number. ADP levels Agility three times faster than Attunement does.\n\nThe Agility displayed in your player status screen might not always accurately reflect the in-game math and iFrames the player character has. As an example, when Agility is calculated to be less than 85 it will be set to a value of 85 regardless. When players start the game before picking a class and character name, they will be at soul level negative 44, but Agility will still be displayed as 85. This correlates on the chart with tier 1 investment 85(a) AGL.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7206689530827592,
+    "bm25_score": 23.461274770103838
+  },
+  {
+    "document_id": "8e0e71ca-cfc8-5614-b3bd-bda60290703f",
+    "title": "Adaptability",
+    "section": "dark_souls_2_iframe_charts",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "There are several more points where the menu display will remain at the same display value but iFrames are gained between them, such as the displayed value of 110 which can be 13 or 14 iFrames on rolls, or the display value of 112 which can be 8 or 9 iFrames on backsteps. Agility investment was made to describe these true iFrame values since they are not displayed in a meaningful way by the game. The above chart only shows points at which the player character gains iFrames, to see the raw data for all AGL investment visit [https://docs.google.com/spreadsheets/d/18JuYshFKmHm2wkyUmxnBV6B34799QdbBpuHVG6IMrHM/edit?gid=1780049913#gid=1780049913 this spreadsheet].",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a132c067-831a-567c-ac15-5e065b39c50f",
+    "title": "Adaptability",
+    "section": "dark_souls_2_iframe_charts",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bandit, Warrior and Cleric class all have 85 Agility displayed in the menu, though Bandit class has a lower amount of iFrames. Bandit class starts with 2 Attunement and 3 Adaptability which calculates to Agility investment tier 2 giving 7 iframes on rolls, this is reflected on the above chart as 85(b) Agility. Warrior and Cleric class are calculated to tier 5 investment 85(e) which is 8 iFrames on rolls, though all three classes have in menu values of 85 Agility. This means that when starting as Bandit players will need to invest more points to get to 86 agility compared with these other classes that start with higher Adaptability and Attunement. It is important to note that the crucial breakpoints of 92, 96 and 99 Agility will always accurately match with the menu display, In addition, the less important breakpoints of 88 and 105 will also match menu values when calculating your agility investment tier.",
+    "sources": [
+      "template",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.430874425605207
+  },
+  {
+    "document_id": "b1c04c76-795e-5d2c-9bd9-fb32bcb19f81",
+    "title": "Adaptability",
+    "section": "invincibility_frames_iframes",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Adaptability -  Dark Souls II - mechanic - invincibility_frames_iframes \n invincibility_frames_iframes : Invincibility frames (or i-frames) are the frames during rolls that a character are invincible to enemies' attacks, measured in 1/30ths of a second (or about 0.0333... seconds each).\n\nInvincibility frames are increased in a non-linear way, affected by Agility rather than Equip Load, with Equip Load only affecting distance when rolling.\n\nAgility has specific breakpoints in which you gain iFrames, they are the stopping points you will want to meet as you level. The only breakpoints worth caring about are **92/96/99 Agility**, these are important because you do not gain additional rolling iframes between breakpoints. This means that having 95 Agility is the same as having 92 Agility in terms of iframes.\n\nCompared to Dark Souls, 96 Agility will give you 11 i-frames which is the same as all roll types except for Dark Wood Gain Ring roll type which is 13 iframes.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7593392986178569,
+    "bm25_score": 44.70351155811746
+  },
+  {
+    "document_id": "b252b9d3-715a-5a57-9ddb-830e67401a47",
+    "title": "Adaptability",
+    "section": "general_information",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Adaptability -  Dark Souls II - mechanic - general_information \n general_information : Adaptability is the combination of Resistance and an Agility stat (from the beta tests). Raising Adaptability increases Poise and more importantly raises the substat called Agility.\n\nImproving Adaptability also raises all status defenses (i.e. Poison, Bleed, Curse and Petrify), whilst also raising the player's HP and Poison Attack Bonus slightly. Finally, Adaptability is also complementary with the Endurance stat, in that raising the two stats at the same rate will grant extra natural Poise.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.8406853767418054,
+    "bm25_score": 26.22829603505126
+  },
+  {
+    "document_id": "d3e4ca5a-931b-5566-bcd8-9c3562d85b4f",
+    "title": "Adaptability",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Adaptability -  Dark Souls II - mechanic - lead \n lead : **Adaptability** is a Stat in *Dark Souls II*.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.8017083465331754,
+    "bm25_score": 24.058136844262883
+  },
+  {
+    "document_id": "e7cb2b2c-9cf0-53aa-ab01-cdb6cfb26a68",
+    "title": "Adaptability",
+    "section": "resources",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Adaptability -  Dark Souls II - mechanic - resources \n resources : [https://docs.google.com/spreadsheets/d/1-fQ7HlO_8hE1HfhKjCeFsZKyD1oHYiGOYeq25W4HhlA/edit?gid=0#gid=0 Dark Souls 2 iFrame Visual Helper] - created by Qui, make a copy to use.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.7491831341609367,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0ecb0d0b-2929-5582-94ca-a81e13e4ff35",
+    "title": "Bandit (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bandit (Dark Souls II) -  Dark Souls II - mechanic - lead \n lead : The **Bandit** is one of the classes in *Dark Souls 2*.\n\nIt has high Dexterity and well above average Faith, meaning it lends itself rather well towards builds focused either on both or only the former (though it will have strong competition from the Swordsman when it comes to pure Dexterity builds). It is rather unsuitable to spells, even the Miracle ones, due to its extremely low Attunement and Intelligence.\n\nBandits are actually unable to speak to Straid of Olaphis by default, the only class that can't do that, due to its extremely low Intelligence not meeting his minimum required amount of 3.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6d305dab-09d1-587a-9f5f-12d6c40a1c3f",
+    "title": "Bandit (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "There is a curious disadvantage to its high Vitality, higher than any other starting class: when using the Third Dragon Ring, it cannot receive the full benefit of the Flynn's Ring and will get a light decrease of 4 Attack Rating compared to any other class.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7c34d451-bbc4-5251-b259-99ded4514e74",
+    "title": "Bandit (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Until an unlimited source of arrows is acquired, they are best either saved for trying to pull individual enemies from groups or ambushes, or for trying to kill one of the early Ogres (either the one outside the Firekeeper's Hut in Things Betwixt at the start of the tutorial that also holds the Stone Ring, or the Scholar of the First Sin-exclusive one on the way towards the Forest of Fallen Giants) for a large amount of extra Souls.\n\nThe class's Bandit Set is actually fairly good, as it has somewhat high physical defences and is, together with the Knight's partial Falconer Set, the only starting set with decent starting Poise.\n\nDue to its very low Adaptability and Attunement it has a substandard roll (only 7 i-frames, compared to most other classes having 8 or 9 i-frames) and needs 3 points in Adaptability or 9 points in Attunement to improve this to 8 i-frames.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "966e11a6-d84a-58be-8a47-efdf2a6c1c04",
+    "title": "Bandit (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bandits are actually unable to speak to Straid of Olaphis by default, the only class that can't do that, due to its extremely low Intelligence not meeting his minimum required amount of 3.\n\nThe starting weapons are somewhat mixed, with the Short Bow following the higher starting value in Dexterity while the Hand Axe instead focuses on Strength. The Hand Axe is most likely better replaced with an actually Dexterity-focused weapon, though those are in limited supply until Blacksmith Lenigrast's shop is opened, mostly the Dagger in Things Betwixt and the Halberd in the Forest of Fallen Giants. Beyond extra weapons such as the Spear and the Rapier, Lenigrast also holds the game's first infinite supply of ammunition (merely more Wood Arrows, but still) and another Short Bow.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e0c1eaac-f93b-5eae-90f4-2d6077f93057",
+    "title": "Bandit (Dark Souls II)",
+    "section": "starting_equipment",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bandit (Dark Souls II) -  Dark Souls II - mechanic - starting_equipment \n starting_equipment : As with all starting classes in Dark Souls 2, the Imported Set worn before the character creation can be found unequipped in the character's inventory.\nIt also starts with 10 Lifegems as an equipped consumable.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0a68da2a-6dd5-5e21-82d8-121f62a770b2",
+    "title": "Cleric (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Cleric (Dark Souls II) -  Dark Souls II - mechanic - lead \n lead : The **Cleric** is one of the classes in *Dark Souls 2*.\n\nThe Cleric is a Faith-based starting class with decent Vigor, Attunement, and Strength, making it a good base for any Faith-focused build, such as a pure Miracles and Lightning build, or a more mixed Hexes build that wants to start with some extra healing spells. It is also a decent base for a more paladin-style build that wants to use heavy weapons but that also wants some extra healing in the beginning.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3be04fcf-04d9-5b07-a157-8c206a1df1a7",
+    "title": "Cleric (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "While this class may seem to have below average defences with only decent Poise, since all of those stats come from one piece of equipment, the Archdrake Robes, those defences can be improved greatly by adding more armor, even if that is just putting back on some pieces from the Imported Set from before the character creation. If up to buying armor pieces, the Falconer Set head, hands, and legs pieces provide a good mix of defences and Poise at a relatively low price of roughly 1,000 souls per piece. Be wary that that this will shorten the character's roll distance unless Vitality is increased, with all the extra Imported Set pieces (head, hands, and legs) increasing defence by about 45% but giving no extra poise and shortening rolls by 10%, wearing the Falconer Helm and Boots increases defence by 85% and poise by 100% at the cost of 2,100 souls and shortening rolls by 10%, and wearing the Falconer Helm, Gloves, and Boots increases defence by 110% and poise by 130% at the cost of",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5503c4f5-c89b-58cb-ae1e-0e6f0b288155",
+    "title": "Cleric (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "The Heal Miracle equipped by default is quite strong early on. While it isn't as strong as the Soul Arrow of the Sorcerer it can heavily supplement the very few starting charges of the Estus Flask, even more so if a second copy is bought of off Merchant Hag Melentia.\n\nDespite its decent Attunement and having an 8 i-frame roll, its low Adaptability means it is pretty far down in the Agility department and needs either 3 points in Adaptability or 9 points in Attunement to improve to 9 i-frames.",
+    "sources": [
+      "template",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.91988481524505
+  },
+  {
+    "document_id": "9bdb7ecb-c7ac-5b02-992b-dee44f33a10d",
+    "title": "Cleric (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "defence by 85% and poise by 100% at the cost of 2,100 souls and shortening rolls by 10%, and wearing the Falconer Helm, Gloves, and Boots increases defence by 110% and poise by 130% at the cost of 3,150 souls and shortening rolls by 25%.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b308e626-c1ec-51d8-9047-34d0ba483fb1",
+    "title": "Cleric (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Their Mace is actually a pretty strong weapon as its Strike damage is highly valuable and as a Hammer it has an above average Counter Strength of 120, meaning it deals extra damage on Counter Attacks. However, it does have one slight disadvantage in that it has a Strength requirement of 12 while the Cleric only starts with 11 Strength and thus needs 1 more point in the stat to deal the weapon one-handed instead of only two-handed. The Cleric's Sacred Chime is decent for the offensive, Lightning-based Miracles but is mediocre for chime-based Hexes due to its lower Dark-scaling. However, it does have good casting speed so it is a good alternative for support Miracles since it can be left unupgraded so that all the character's titanite can be used on their other equipment.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b70e2996-6923-5124-9f0b-6cc2a06f2623",
+    "title": "Cleric (Dark Souls II)",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Cleric (Dark Souls II) -  Dark Souls II - mechanic - trivia \n trivia : The class's description in combination with that of their robe would seem to indicate that a character starting with this class is from the theocracy of Lindelt.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f2238f28-efc2-527a-aec4-d39f20e94e2a",
+    "title": "Cleric (Dark Souls II)",
+    "section": "starting_equipment",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Cleric (Dark Souls II) -  Dark Souls II - mechanic - starting_equipment \n starting_equipment : As with all starting classes in Dark Souls 2, the Imported Set worn before the character creation can be found unequipped in the character's inventory.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6eb8139a-5613-526b-86c0-08a9f9764ee8",
+    "title": "Deprived (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Deprived (Dark Souls II) -  Dark Souls II - mechanic - lead \n lead : The **Deprived** is one of the classes in *Dark Souls 2*.\n\nUnlike the other classes, it doesn't start with any weapons or Lifegems and only has the unequipped Imported Set as armor. Make sure to retrieve the Dagger found in the first side path of Things Betwixt as an initial weapon, while the Morning Star in Majula can be wielded two-handed with 2 more Strength and 1 more Dexterity. A Cleric's Sacred Chime can be found near the Morning Star if wanting to use Miracles, a Shield can be gained by either buying one of Maughlin the Armorer in Majula or be found on the path to Heide's Tower of Flame, and a Sorcerer's Staff can be found behind a hidden wall in the Forest of Fallen Giants.\n\nThe low level means leveling up is slightly cheaper than for any other class, and the all-6 statline serves as a decent base for a build focused on the Mundane infusion since that scales of the lowest stat.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a6c9a462-79ca-5a81-9dba-a7b03c5dd033",
+    "title": "Deprived (Dark Souls II)",
+    "section": "starting_equipment",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Deprived (Dark Souls II) -  Dark Souls II - mechanic - starting_equipment \n starting_equipment : The Deprived does not have anything equipped upon creation, not even Lifegems. However, as with all starting classes in Dark Souls 2, the Imported Set worn before the character creation can be found unequipped in the character's inventory.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "af7a9b15-38bb-5423-a3f2-ee20f157cc16",
+    "title": "Deprived (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Its average Adaptability and Attunment means it actually starts with a decent, 8 i-frame roll.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6568568716767869,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3a2f3fe0-2452-5a35-8dcf-c2aa6bb5c7e9",
+    "title": "Explorer",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "For restocking the items, Merchant Hag Melentia carries more Lifegems and Witching Urns and 1 more Pharros' Lockstone, Laddersmith Gilligan has Aromatic Oozes, Wood Bolts are sold by Blacksmith Lenigrast, Repair Powders are sold in limited quantities by Blacksmiths and infinitely by one late-game merchant, Prism Stones are sold by Sweet Shalquoir, and 5 more Rusted Coins are sold by Magerold of Lanafir.\n\nTheir high Adaptability gives them 9 i-frames when starting out, and they only need 2 more points in the stat to improve that to 10 i-frames.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4e701ac8-e9d1-585d-8053-99842a391929",
+    "title": "Explorer",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "The Traveling Merchant Set is only a bit better than the Imported Set and has no Poise but the hat increases Item Discovery slightly, which is a solid benefit early on.\n\nThe lone Pharros' Lockstone can be used to unlock 1 (and only one, since it is a consumable) Pharros' Contraption. Of the first two Contraptions to be found in the game, the first one is below a trapped room with ballistae in the Forest of Fallen Giants and used to get the Chloranthy Ring and a Titanite Slab, and the second one is found one a small platform up halfway up the first set of stairs in No-man's Wharf where it is used turn on the lights and scare away all the Dark Stalkers in the area.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5cb83caf-e019-5d61-98dd-fbabec7246dc",
+    "title": "Explorer",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Explorer -  Dark Souls II - mechanic - lead \n lead : The **Explorer** is one of the classes in *Dark Souls 2*.\n\nIt has no particular specialty, with only high Adaptability and an above average Vitality being notable. It is, essentially, a Deprived with some extra stats, some bonus items, and a Dagger.\n\nAs their Dagger is the only weapon they start out with, with not even a spell to help them, it is imperative to pick up a second Dagger in Things Betwixt on the first side path fore more Durability. Is is possible to wield the Morning Star from the cliffs in Majula two-handed with 2 more points in Strength and one more point in Dexterity, and a Light Crossbow can be found atop a wall in the Forest of Fallen Giants and only need 1 more point in Strength to wield with two hands.\n\nThe Traveling Merchant Set is only a bit better than the Imported Set and has no Poise but the hat increases Item Discovery slightly, which is a solid benefit early on.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cbbd2a35-f2e4-52dd-8b38-dbd4124cdff4",
+    "title": "Explorer",
+    "section": "starting_equipment",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Explorer -  Dark Souls II - mechanic - starting_equipment \n starting_equipment : The Explorer also starts with a variety of items: a Spell Quartz Ring, 20 Wood Bolts, 8 Witching Urns, 4 Aromatic Oozes, 5 Prism Stones, 2 Rusted Coins, 1 Repair Powder, and 1 Pharros' Lockstone.\n\nAs with all starting classes in Dark Souls 2, the Imported Set worn before the character creation can be found unequipped in the character's inventory.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "71ea10fe-80fd-56f4-a566-c7b4e3f58f4c",
+    "title": "Knight (Dark Souls II)",
+    "section": "starting_equipment",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Knight (Dark Souls II) -  Dark Souls II - mechanic - starting_equipment \n starting_equipment : As with all starting classes in Dark Souls 2, the Imported Set worn before the character creation can be found unequipped in the character's inventory.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b097d465-74d1-5be5-84c7-66ca94936055",
+    "title": "Knight (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "While its Broadsword is a good starting weapon its lack of a shield should probably be rectified quickly by buying either the Silver Eagle Kite Shield or, with some improvements to Strength, the Twin Dragon Greatshield from Maughlin so that rolling isn't the only defence.\n\nThe Knight class's high Adaptability gives it enough Agility that it only needs 1 more point in either Attunement or Adaptability to improves its roll from 8 i-frames to 9 i-frames, which is a great boon.",
+    "sources": [
+      "template",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.568329044422303
+  },
+  {
+    "document_id": "e818adf0-2c74-5847-8f20-401a2f9d6d7f",
+    "title": "Knight (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Knight (Dark Souls II) -  Dark Souls II - mechanic - lead \n lead : The **Knight** is one of the classes in *Dark Souls 2*.\n\nThis class's high starting Vigor, in combination with its decent Adaptability, makes it a good bit more sturdy than most of the other classes. On the offensive side it has a decent starting Strength and slightly above average Faith, lending it well towards Strength- or Lightning-based weapons, though any aspirations towards spells (and especially Sorceries) are somewhat hampered by its rather low Attunement and Intelligence\n\nThe Falconer Set pieces it is wearing have good physical defence and has the highest Poise of all starting set, even with it missing the helmet (which can be bought from Maughlin the Armorer in Majula), making it more resistant to being staggered than other classes at the start.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "59c8205c-fb46-5eb2-befd-324c791d03b9",
+    "title": "Sorcerer (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "The initial Soul Arrow spell is fairly strong, strong enough to be able to kill any of the first few Ogres in the game, whether that be the Stone Ring-holding one before the hut in Things Betwixt or the Scholar of the First Sin-exclusive one on the path to the Forest of Fallen Giants, giving a fair amount of early souls. Make sure to pick up a second copy from Merchant Hag Melentia to double the amount of uses.\n\nThe head and hands pieces of the Imported Set can be put on for an extra 40% defence, at the cost of shortening the distance of their rolls by about 10% unless Vitality is increased.\n\nThe combination of above average Adaptability and high Attunement gives the class one of the best starting rolls, at 9 i-frames.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bba23a1f-eb76-5aab-9fad-6bae4df995ce",
+    "title": "Sorcerer (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Sorcerer (Dark Souls II) -  Dark Souls II - mechanic - lead \n lead : The **Sorcerer** is one of the classes in *Dark Souls 2*.\n\nIt is an Intelligence-based class, serving as an excellent base for a build focused on Sorceries or Hexes, and also possibly for a build using a Magic infused weapon that wants to start with some spells. It has a decent starting Dexterity but a horrendous starting Strength, barely even enough to wield their weapon and even with effective Strength being doubled when two-handing so the vast majority of weapons can't be wielded without some investment, only some Daggers.\n\nThe starting Sorcerer's Staff is a decent, quick-casting spell tool for Sorceries that is worth upgrading, while the Dagger is a decent, if short reaching weapon whose poor Durability should be supplemented by picking up a second copy in the Things Betwixt tutorial.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c0d09850-c055-5a96-88a5-c53cc7fb47da",
+    "title": "Sorcerer (Dark Souls II)",
+    "section": "starting_equipment",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Sorcerer (Dark Souls II) -  Dark Souls II - mechanic - starting_equipment \n starting_equipment : As with all starting classes in Dark Souls 2, the Imported Set (including a second set of Imported Trousers) worn before the character creation can be found unequipped in the character's inventory.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0b2fed42-a3be-59d6-bc25-cb97fa87dd24",
+    "title": "Swordsman",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Swordsman -  Dark Souls II - mechanic - lead \n lead : The **Swordsman** is one of the classes in *Dark Souls 2*.\n\nIt has the highest Dexterity of the starting classes, making it a good base for a build focused on that stat, such as one using Curved Swords and Bows. Additionally, a decent base Attunement and Intelligence makes using support Sorceries such as Magic Weapon easier.\n\nThe starting weapons this class wields are the only ones that are upgraded (though only to +1) and are compatible with each other for the purpose of Power Stancing, though another 2 points in Strength and 8 points in Dexterity are needed for that. Instead, it may be easier to either focus on one of the weapons as the main weapon, with perhaps a shield from Maughlin the Armorer in the other hand, or to get a second Shortsword from the Forest of Fallen Giants as that only requires the 2 extra points in Strength to begin Power Stancing.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "40429eab-69ff-528a-9001-17b4c26aa786",
+    "title": "Swordsman",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "The initial armor set, the Wanderer Set, has overall decent defences and is quite light but has no poise, making it nearly useless if trying to directly exchange blows.\n\nAt 8 i-frames it has a decent starting roll, but due to having the lowest starting HP (only about 740 hp, with only the Sorcerer and Deprived having similarly low hp at about 770 each while the other classes range from 830 hp to 960 hp) because of its low Vigor, getting that stat and then Adaptability up a bit will be good for actually surviving the hits that land. Its low Vitality makes the class somewhat limited in what it can carry while still keeping a decent roll.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dee0a0d2-c9df-5409-aaec-81d8be49296c",
+    "title": "Swordsman",
+    "section": "starting_equipment",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Swordsman -  Dark Souls II - mechanic - starting_equipment \n starting_equipment : As with all starting classes in Dark Souls 2, the Imported Set worn before the character creation can be found unequipped in the character's inventory.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "09dc90ce-e4ab-588f-86cb-3f3344de7eca",
+    "title": "Warrior (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "However, their starting weapon, the Broken Straight Sword, is awful and should be replaced as quickly as possible. This can easiest be done by picking up the Morning Star found by dropping through the hole in the rocks to the left of the wooden fence seen just after exiting Things Betwixt, or by taking the dagger found inside the first sidepath fog gate of Things Betwixt.\n\nAlso, their below average Adaptability and mediocre Attunement means they just reach the breakpoint for having 8 i-frames for their rolls. This means they need 4 points into Adaptability to improve to 9 i-frames per roll, or 12 points into Attunement (2 points in Adaptability and 6 points in Attunement) if wishing to start with support spells earlier.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "718d1939-28fa-5295-b4a2-9b0219884a11",
+    "title": "Warrior (Dark Souls II)",
+    "section": "starting_equipment",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Warrior (Dark Souls II) -  Dark Souls II - mechanic - starting_equipment \n starting_equipment : As with all starting classes in Dark Souls 2, the Imported Set worn before the character creation can be found unequipped in the character's inventory.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f82391d2-7ea2-5fa6-909e-addda7e43c64",
+    "title": "Warrior (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Warrior (Dark Souls II) -  Dark Souls II - mechanic - lead \n lead : The **Warrior** is one of the classes in *Dark Souls 2*.\n\nThey have the highest starting Strength and have notably above average Dexterity, lending it well towards builds that want to either focus on Strength-based weapons with a moderate Dexterity requirement or to use weapons that scale well with both of those stats. This is also the only class in Dark Souls 2 to start out with a shield, the Iron Parma. While this shield can also be bought by other classes from Maughlin the Armorer, available from the start of the game, and is largely outclassed by the Silver Eagle Kite Shield that can also be bought from him, it's still a nice tool to have early on with its decent Physical blocking and Stability, and to save on souls early on before replacing it.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "06d2b091-bb9f-52ab-ad6e-77b8d91db414",
+    "title": "Assassin (class)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Assassin Set has only moderate physical defences but has good magic and fire defences, and high overall resistances against anything that isn't Bleed.\n\nWhile the **Assassin** doesn't have any ranged attack, its Spook Sorcery is extremely useful for removing most non-fatal fall damage and for completely silencing footsteps for 20 seconds, allowing certain obstacles to be bypassed . Unfortunately, while the starting Sorcerer's Staff is a fairly good spell tool, if not exactly the best, it won't actually start to gain scaling from stats until Intelligence has reached at least 19, delaying a possible strengthening of the character's Sorceries.\n\nPicking up the Soul Arrow Sorcery from the Shrine Handmaid gives a reusable ranged attack early on, while the weapon buffing Magic Weapon Sorcery can be gained in either Undead Settlement or Road of Sacrifices to add some of a Staff's spellbuff to weapon damage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "44bf2719-6135-5d30-8047-98c3c0218242",
+    "title": "Assassin (class)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Assassin (class) -  Dark Souls III - mechanic - lead \n lead : The **Assassin** is one of the classes in *Dark Souls 3*.\n\nIt is a Dexterity-based class with decent Attunement for Weapon Arts and spells and some Intelligence for Sorceries.\n\nAn unusually long Thrusting Sword, the Estoc is also quite strong and has a rare sweeping heavy attack for hitting several or agile foes easier, at the cost of not having an increased critical modifier for Ripostes and Backstabs. Additionally, its Weapon Art, Shield Splitter, helps with its bad damage to the stamina of blocking targets by partially bypassing the defences of the block instead.\n\nIts Targeting Shield, while not very suitable for blocking, is one of the game's three parrying shields and as such its Parry starts slightly earlier yet ends as late as the regular parry.\n\nThe Assassin Set has only moderate physical defences but has good magic and fire defences, and high overall resistances against anything that isn't Bleed.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f0e3eb8b-402e-549e-abc1-e66be5b103f0",
+    "title": "Assassin (class)",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Assassin (class) -  Dark Souls III - mechanic - trivia \n trivia : This class is fairly popular amongst speedrunners thanks to Spook making it possible to easier skip foes and falls.\nWhile the Assassin doesn't have any direct equivalent class in the Dark Souls series, it does bear some resemblance to the Royalty class from FromSoftware's previous game Demon's Souls, another Dexterity/Intelligence-based class wielding a thrusting sword (in that case a Rapier) and a small shield while also providing access to a Sorcery-like spell (though in the Royalty's case it is the offensive Soul Arrow, not a self-buffing spell).",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1d9db396-bd22-5416-b476-39f54e858ccb",
+    "title": "Attunement (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Attunement (Dark Souls II) -  Dark Souls II - mechanic - lead \n lead : **Attunement** is a stat in *Dark Souls II*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7e424cb3-f456-5fb8-a675-7bf258bee627",
+    "title": "Attunement (Dark Souls II)",
+    "section": "general_information",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Attunement (Dark Souls II) -  Dark Souls II - mechanic - general_information \n general_information : Attunement determines the number of spell slots the player has available to equip spells, and also increases the player's Cast Speed (this effect is roughly double that of leveling Intelligence or Faith). In addition to these, raising Attunement also increases the number of casts per slot a spell has; however, this varies from spell to spell. Raising Attunement also increases the player's Curse Resist and Agility slightly, and as with every other stat, HP is increased by minute amounts each time.\n\n**20/25/30** are the softcaps for attunement that you’d generally want to stop at for a caster build in terms of spell slots. The caps for attunement are **30/75** for spell slots, **94** for max number of spell casts, and around **50-55** for spell casting speed in conjunction with 50 Faith or Intelligence.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "982d1be4-0c0d-5656-88c7-57257a687cbc",
+    "title": "Attunement (Dark Souls II)",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Attunement (Dark Souls II) -  Dark Souls II - mechanic - notes \n notes : Players that want to make the most out of Attunement without investing fully in it should note that most spells that have very little uses, will be almost maxed out at 49. Most spells that have a maximum of 3 uses will be at 2, those that have a maximum of 4 will be at 3, and the same math applies to all those that have 5 and 6 maximum uses. This is important to take into consideration should players want to make Faith or Pyromancy builds, as most spells of those categories are often of very low uses.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f2081534-a329-5f70-847f-d6d61e7da012",
+    "title": "Attunement (Dark Souls II)",
+    "section": "chart_notes",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Attunement (Dark Souls II) -  Dark Souls II - mechanic - chart_notes \n chart_notes : The following notes are only accurate if Attunement is the only stat that has been raised:\n* * Increases for every two levels increased.\n# Increases for every four levels increased. During points 60-74, Curse Resist is only raised by 8 at 62 and 1 for 66, 70, and 74.\n∆ Increases for every four levels increased.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0f871cc6-4420-54f5-bb29-2ea703a7e027",
+    "title": "Attunement (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Attunement (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : **Attunement** is a stat in *Dark Souls III* that increases the player character's Focus Points, or FP as well as increasing the number of Attunement slots.\n\nFocus Points are used to cast Sorceries, Pyromancies and Miracles, as well as performing skills.\n\nSpells can be attuned at the bonfire, provided the player has available Attunement slots. A minimum investment of 10 Attunement is required for one Attunement slot.\n\nAs it is with every other stat in the game, it also has indirect bonuses such as increasing the player character's flat defenses.\n\nLeveling Attunement provides the following benefits:\n\nDiminishing returns for increasing the amount of FP begin at 35 Attunement, while every 10 Attunement past 30 (except at 80 Attunement) will grant an additional slot. Equipping any one of the Saint's Ring, Deep Ring and Darkmoon Ring will grant 1, 1 and 2 additional Attunement slots, respectively.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d7a64841-488a-5e4f-9196-0f59a55bc8f8",
+    "title": "Attunement (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "At 99 Attunement, the player will have 450 FP and 10 Attunement slots.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2e1511ef-61d6-5481-bf29-138684fd60c3",
+    "title": "Attunement (Dark Souls)",
+    "section": "attunement_slots_per_level",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Attunement (Dark Souls) -  Dark Souls - mechanic - attunement_slots_per_level \n attunement_slots_per_level : The following is a table of how many Attunement slots are granted for each level of Attunement.\n\nAdditional slots can be attained by wearing special rings:",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5cf1809e-2a5f-5c63-aa2a-ee293f95379d",
+    "title": "Attunement (Dark Souls)",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Attunement (Dark Souls) -  Dark Souls - mechanic - notes \n notes : The maximum possible amount of slots is 12 when Attunement is 50 when Darkmoon Seance Ring and White Seance Ring are both slotted.\nAttuning multiple copies of the same sorcery, miracle or pyromancy will stack the number of uses; however, this will not change how many uses one gets per slot.\nMost spells require only one Attunement slot. Some, however, require two. All Chaos pyromancies, Sunlight Spear, Bountiful Sunlight, Soothing Sunlight and Pursuers are examples of this.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b0affc6e-9ef8-5fb8-b50c-23c1a7d5a1fb",
+    "title": "Attunement (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Attunement (Dark Souls) -  Dark Souls - mechanic - lead \n lead : **Attunement** is a stat in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b83b77cb-6fb2-5bea-ac7f-93d9436e9cd0",
+    "title": "Attunement (Dark Souls)",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Attunement (Dark Souls) -  Dark Souls - mechanic - general_information \n general_information : This stat governs how many Attunement slots the player has, which in turn allows players to equip and use more types of magic at once. It is also possible to increase Attunement slots through equipping Darkmoon Seance Ring and White Seance Ring.\n\nSoftcaps for Attunement are **16/19/23** with 50 being the hardcap for spell slots. Leveling Attunement beyond 50 gives no benefits aside from a couple points in various defenses. For a caster build it is not advisable to level Attunement beyond 23.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "186f9738-c388-5587-b226-3f04c6fc26e3",
+    "title": "Casting Speed",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Casting Speed -  Dark Souls II - mechanic - notes \n notes : Casting speed is influenced by Attunement, Faith, and Intelligence.\nOne level of Attunement will increase cast speed at twice the rate of one level of Faith or Intelligence.\nMenu Casting speed rises by two points until it is 115, actual casting speed is entirely linear in its levels.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5a513a2f-7edf-54e0-8066-1a080f10a24f",
+    "title": "Casting Speed",
+    "section": "mechanics",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Casting Speed -  Dark Souls II - mechanic - mechanics \n mechanics : Despite what the menu says, Casting Speed is simply a percentage that multiplies how long the startup of a spell will last. The menu numbers are only usable in so far as telling you what stats can affect natural casting speed.\n\nThe menu implies a softcap for casting speed from leveling while it actuality it doesn't exist.\n\nYour natural Casting Speed level is determined by your Attunement, Intelligence and Faith levels, with the formula:\n\nEach Spell has a defined startup duration, which is the part that can be affected by casting speed. Every Spell Casting Tool has a value that multiplies your natural casting speed. Every piece of Casting Gear has a value that multiplies your natural casting.\n\nYour total casting speed is the product of multiplying your natural Casting Speed with each piece of casting gear being used and the Spell Casting Tool that is being used.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a4227e67-6d88-53c2-87d4-5778029a6089",
+    "title": "Casting Speed",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Casting Speed -  Dark Souls II - mechanic - lead \n lead : **Casting speed** is a stat in *Dark Souls II*.\n\nA character's casting speed decides how quickly they can cast spells. It affects the entire startup animation. In the adjoined video you can count frames and see the animations only differentiate before bringing the chime up to the character's left side.\n\nCasting speed affects all types of magic, and appears to get diminishing returns on quick casting magic. This means that spells like Soul Arrow and Resonant Soul will get only a marginal boost after a certain level of casting speed, while slower magic like Lightning Spear and Chaos Storm will cast considerably faster with higher casting speed.\n\nAll catalysts also have their own casting speeds. This speed affects the speed of the cast equally to the player's stat. Examples of catalysts with high casting speed are Caitha's Chime and the Dragon Chime. It is also possible to increase casting speed by wearing a Clear Bluestone Ring.",
+    "sources": [
+      "template",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.85167385177929
+  },
+  {
+    "document_id": "a4fc426a-31b4-55ff-80ba-78ef011f9f3d",
+    "title": "Casting Speed",
+    "section": "mechanics",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Your total casting speed is the product of multiplying your natural Casting Speed with each piece of casting gear being used and the Spell Casting Tool that is being used.\n\n[https://docs.google.com/spreadsheets/d/1CpXQ5QXNQ7AFr9ujRIVtkvUszoI7Kr-DyEucLJd_oTo/edit?usp=sharing Link to a datasheet that can calculate casting speed.]",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "01e8e92f-9aac-5284-a6e2-1d1a4552d2b6",
+    "title": "Classes (Dark Souls III)",
+    "section": "closed_network_test",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Classes (Dark Souls III) -  Dark Souls III - mechanic - closed_network_test \n closed_network_test : The below classes and starting equipment are from the Closed Network Test version of the game only.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "56a31ee7-f8df-517a-a14e-470809211495",
+    "title": "Classes (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Classes (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : **Classes** are a gameplay element in *Dark Souls III* and play a major role in Character Creation.\n\nThe starting classes available to the player can differ in terms of stats and Soul Level, and serve to determine the player's stats and equipment at the start of the game. However, after the start of the game, the player will be able to level their character into any build, so it could be said that there is no \"wrong\" starting class to pick.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "77b6d3d5-7537-5d6d-bc9c-435695c221b2",
+    "title": "Classes (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Classes (Dark Souls) -  Dark Souls - mechanic - lead \n lead : **Classes** are an aspect of gameplay in *Dark Souls* and a part of Character Creation.\n\nThe player's beginning class can differ in terms of Soul Level and statistics. However, classes matter very little after the first few levels of the game, and the player will ultimately be able to level their character into any type of build, meaning there is no \"wrong\" class to choose.\n\nBeyond stats, classes determine the starting weapon, shield and armor of the player, as well as extra items in some cases.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7957ea9d-92e5-507a-adca-ef410d33f413",
+    "title": "Classes (Dark Souls)",
+    "section": "warrior",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Classes (Dark Souls) -  Dark Souls - mechanic - warrior \n warrior : Warriors are weapon experts with great Strength and Dexterity.\n\n**Starting equipment**:\nLongsword\nHeater Shield\nStandard Helm\nHard Leather Armor\nHard Leather Gauntlets\nHard Leather Boots",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "85304891-b2d4-53f7-919a-2414ae27ae8a",
+    "title": "Classes (Dark Souls)",
+    "section": "bandit",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Classes (Dark Souls) -  Dark Souls - mechanic - bandit \n bandit : Bandits have high Strength and wield heavy Battle Axes.\n\n**Starting equipment**:\nBattle Axe\nSpider Shield\nBrigand Hood\nBrigand Armor\nBrigand Gauntlets\nBrigand Trousers",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ab35e40c-6ab7-5f3f-8140-06689b1cb374",
+    "title": "Classes (Dark Souls)",
+    "section": "wanderer",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Classes (Dark Souls) -  Dark Souls - mechanic - wanderer \n wanderer : Wanderers are dexterous, Scimitar wielding characters.\n\n**Starting equipment**:\nScimitar\nLeather Shield\nWanderer Hood\nWanderer Coat\nWanderer Manchette\nWanderer Boots",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "aef8c9e0-f319-5956-a7f4-99d2e1c913ca",
+    "title": "Classes (Dark Souls)",
+    "section": "knight",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Classes (Dark Souls) -  Dark Souls - mechanic - knight \n knight : Knights have high Health. They are heavily armored and hard to knock down.\n\n**Starting equipment**:\nBroadsword\nTower Kite Shield\nKnight Helm\nKnight Armor\nKnight Gauntlets\nKnight Leggings",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c15702cd-0b3d-5850-9119-68941ec1f7b9",
+    "title": "Classes (Dark Souls)",
+    "section": "cleric",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Classes (Dark Souls) -  Dark Souls - mechanic - cleric \n cleric : Clerics cast healing miracles and wield Maces.\n\n**Starting spell**: Heal\n\n**Starting equipment**:\nMace\nEast-West Shield\nCanvas Talisman\nHoly Robe\nTraveling Gloves\nHoly Trousers",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cc68137f-b2ec-5f4b-acdf-b7b5a8db3032",
+    "title": "Classes (Dark Souls)",
+    "section": "pyromancer",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Classes (Dark Souls) -  Dark Souls - mechanic - pyromancer \n pyromancer : Pyromancers from the Great Swamp. They cast pyromancy and wield small Hand Axes.\n\n**Starting spell**: Fireball\n\n**Starting equipment**:\nHand Axe\nCracked Round Shield\nPyromancy Flame\nTattered Cloth Hood\nTattered Cloth Robe\nTattered Cloth Manchette\nHeavy Boots",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d22a8564-0432-52c6-835a-15a6014a7efc",
+    "title": "Classes (Dark Souls)",
+    "section": "hunter",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Classes (Dark Souls) -  Dark Souls - mechanic - hunter \n hunter : Hunters have high Dexterity and are skilled in both ranged and melee combat.\n\n**Starting equipment**:\nShortsword\nShort Bow\nStandard Arrow x30\nLarge Leather Shield\nLeather Armor\nLeather Gloves\nLeather Boots",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d27bc032-93c1-5fe3-a39b-40f8ca3599b0",
+    "title": "Classes (Dark Souls)",
+    "section": "deprived",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Classes (Dark Souls) -  Dark Souls - mechanic - deprived \n deprived : The Deprived come equipped with nothing but a Club and an old wooden Plank Shield, but have all stats at 11 which makes them a flexible and adaptable class despite starting out with poor equipment.\n\n**Starting equipment**:\nClub\nPlank Shield",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d4aecb6e-2f6b-5ee6-b2bd-87a1b60cefd7",
+    "title": "Classes (Dark Souls)",
+    "section": "thief",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Classes (Dark Souls) -  Dark Souls - mechanic - thief \n thief : Thieves come equipped with the Master Key, have very high starting Dexterity and are equipped with the Bandit's Knife, making them excel at critical hits.\n\n**Starting equipment**:\nBandit's Knife\nTarget Shield\nThief Mask\nBlack Leather Armor\nBlack Leather Gloves\nBlack Leather Boots\nMaster Key",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e9f250dd-26de-5411-bc0d-631b46dba604",
+    "title": "Classes (Dark Souls)",
+    "section": "sorcerer",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Classes (Dark Souls) -  Dark Souls - mechanic - sorcerer \n sorcerer : Sorcerers have very high Intelligence and cast sorceries learned at the Vinheim Dragon School.\n\n**Starting spell**: Soul Arrow\n\n**Starting equipment**:\nDagger\nSmall Leather Shield\nSorcerer's Catalyst\nSorcerer Hat\nSorcerer Cloak\nSorcerer Gauntlets\nSorcerer Boots",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0316783e-dc70-5ae4-99b1-2a0d886e69d0",
+    "title": "Cleric",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "At an initial level of 2, Clerics have the second-lowest starting level (the lowest being Pyromancers) of any class. They start the game as a member of the Way of White covenant.\n\nJoining the Warriors of Sunlight can allow Clerics to become powerful magical attackers early on in the game, giving them the miracle Lightning Spear. Astora's Straight Sword and Dragon Crest Shield are also very useful early game pick-ups for the Cleric, provided they choose the Master Key as their gift and enter Valley of Drakes via New Londo Ruins. The former scales with Faith, allowing the Cleric to focus exclusively on it, while the latter is a far better shield than that which the Cleric starts with.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "39c0e162-2fbf-5dfb-8071-5d9419ae6d4d",
+    "title": "Cleric",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Cleric -  Dark Souls - mechanic - lead \n lead : The **Cleric** is one of the classes in *Dark Souls*.\n\nClerics can use miracles to heal, due to their high starting Faith stat and equipped Talisman. They also start with a strong melee weapon in the form of the Mace, but little in the way of defense. Clerics are well suited to heavier weapon types, such as Hammers, as taking on enemies directly with slower weapons is offset by their ability to heal more often than other classes.\n\nAt an initial level of 2, Clerics have the second-lowest starting level (the lowest being Pyromancers) of any class. They start the game as a member of the Way of White covenant.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "147a7f70-9970-55b7-a8e4-62628baa21de",
+    "title": "Cleric (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Cleric (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : The **Cleric** is one of the classes in *Dark Souls 3*.\n\nIt is a Faith-focused class, with decent Attunement, Strength, and Luck. This makes them well-suited to a Miracle-heavy build, and to using the many Lightning-attuned weapons as they are often also have good Strength-scaling.\n\nWhile it does indeed have spells, in the form of Heal (which heals) and Force (which throws enemies away from you), it does not have any that causes damage, with the earliest ones not being found until Cathedral of the Deep or Farron Keep. This means the class will have to focus primarily on weapons initially, and will do well to keep them upgraded as offensive Miracles consume a lot of Focus Points.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "212a2f74-2efb-569b-a1be-762cd56cd65d",
+    "title": "Cleric (Dark Souls III)",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Cleric (Dark Souls III) -  Dark Souls III - mechanic - trivia \n trivia : This is the only spellcasting-focused starting class in Dark Souls 3 that doesn't have a damage-boosting ring. Presumably this is because the Cleric doesn't have a damaging Miracle equipped from the start, and the Morne's Ring can instead be found in the Road of Sacrifices.\nThis class has remained remarkably similar throughout the series, always carrying a Mace and the Heal Miracle.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "33f77c45-81c2-5412-8f97-1b9578708d46",
+    "title": "Cleric (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Cleric's Sacred Chime is a fairly good casting tool and is actually the strongest casting tool for Miracles from 45 to 49 Faith. Its Spell Buff (the stat that affects how strong scaling spells are) doesn't actually increase until at least 19 Faith has been reached. Its Weapon Art is Gentle Prayer, a regenerative effect that always restores 360 hp over the course of a minute as long as the Chime is held in an active hand (so replacing it with another item stops it, as does two-handing the item in the other hand). This effect will actually outheal the Heal Miracle by up to 20% until the Chime's Spell Buff reaches 120, and even afterwards it is a strong if slow alternative due to only having about a third the cost in Focus Points.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4728a634-36cd-5056-bd02-a9c1c32bdaec",
+    "title": "Cleric (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Cleric Set is a light, caster-type armor set and as such has low physical defences and high elemental defences, while also having high Poison and Curse resistances.\n\nThe first trainer for more Miracles is found in the Undead Settlement for further development.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ed331070-d8b1-5344-8ffa-f79bdca21a97",
+    "title": "Cleric (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Mace is an unexpectedly strong weapon for what may at first seem like a spellcasting class, but in reality it is often a **Cleric's** main armament. This is because Strike damage is often the strongest physical damage type as armored and skeletal enemies are weak to it (most other physical damage types have fewer enemies weak to them), strong Strength-scaling for easy damage increases, a fairly good moveset, and has a good Weapon Art for trading hits with opponents. How the Weapon Art works is that Perseverance adds a flat 45% extra absorption and causes the attacks of light weapons to bounce off the user, while also granting great Hyper Armor to prevent being staggered.\n\nThe Blue Wooden Shield is not very good, having only decent physical and magic defence with serviceable Stability. While it does have Parry (albeit the inferior Medium Shield version), a strong Weapon Skill shield like the early Silver Eagle Kite Shield would probably serve as a better replacement.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fe62a5e7-add7-538b-ab4e-5a2897e3f61b",
+    "title": "Curved Greatswords (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Curved Greatswords (Dark Souls II) -  Dark Souls II - weapon - lead \n lead : **Curved Greatswords** are a type of weapon in *Dark Souls II*.\n\nHandled as a blend between greatswords and ultra greatswords, the Curved Greatsword class are weapons that excel at damage output with speeds comparable to that of smaller weapons. Boasting relatively fast one-handed, horizontal swings, and vertical, two-handed swings, which can vary in speeds when used as a follow-up attack. They require moderate amounts of stat investment to use; making them slightly less accessible. As a result of having ultra greatsword-like properties, they have similar riposte and backstab damage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "26345055-bccb-582b-891a-22de979599cd",
+    "title": "Darkmoon Ring",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Darkmoon Ring -  Dark Souls III - ring - availability \n availability : Reward for reaching Rank 1 in the Blade of the Darkmoon covenant. Reaching this rank requires giving ten Proof of a Concord Kept to Company Captain Yorshka.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "853be1ab-ec33-53e9-8f04-bcd46a9a81c4",
+    "title": "Darkmoon Ring",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Darkmoon Ring -  Dark Souls III - ring - lead \n lead : The **Darkmoon Ring** is a ring in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0fc3c493-079a-577e-aef7-e9256b760ab6",
+    "title": "Classes (Dark Souls II)",
+    "section": "beta",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Classes (Dark Souls II) -  Dark Souls II - mechanic - beta \n beta : The below classes, stats, and starting equipment are from the beta version of the game only.\n\nChanges from the beta include:\nThe removal of the Resistance stat.\nAgility has been replaced with Adaptability, which governs both Resistance and Agility.\nDifferent classes, starting attributes, and equipment.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6819815914988147,
+    "bm25_score": 24.05785741797232
+  },
+  {
+    "document_id": "07f9b09a-1643-55ca-ad18-d080d5ed5642",
+    "title": "Stats (Dark Souls II)",
+    "section": "attributes",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Stats (Dark Souls II) -  Dark Souls II - mechanic - attributes \n attributes : ; Vigor\nAn attribute that determines HP.*\n\n; Endurance\nAn attribute that determines your overall stamina.*\n\n; Vitality\nAn attribute that determines your maximum equipment load.*\n\n; Attunement\nAttribute governing number of spells that can be attuned.*\nBoosts spell-casting speed.*\n\n; Strength\nAttribute required to wield heavy, powerful weapons.*\nAlso boosts attack.*\n\n; Dexterity\nAttribute required to wield weapons requiring finesse.*\nAlso boosts attack.*\n\n; Adaptability\nRaises various attributes to ensure one's survival.*\nBoosts agility and various resistances.*\n\n; Intelligence\nAttribute required for sorceries.*\nBoosts magic DEF and proficiency in sorceries.*\n\n; Faith\nAttribute required for miracles.*\nBoosts lightning DEF and proficiency in miracles.*",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6778947223824374,
+    "bm25_score": 20.899017916002695
+  },
+  {
+    "document_id": "07dc4725-d571-5395-acb0-4c23ee92f67a",
+    "title": "Stats (Dark Souls II)",
+    "section": "performance",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "; Curse resist\nResistance to the Hollowing curse.*\nHP is reduced as Hollowing increases in severity.*\nImproves with adaptability, and to a lesser degree with attunement.\n\n; Agility\nBoosts ease of evasion and other actions.*\nImproves with adaptability, and to a small degree with attunement.\n\n; Poise\nThe ability to withstand the impact of attacks.*\nImproves as both adaptability and endurance are raised at the same rate.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6649041275007275,
+    "bm25_score": 19.429197392039523
+  },
+  {
+    "document_id": "7e6e6f5d-9ee9-5cd5-8ade-835ef20a67e9",
+    "title": "Attack Rating",
+    "section": "special_scaling",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Attack Rating -  Dark Souls II - mechanic - special_scaling \n special_scaling : {'name': 'Bewitched Alonne Sword', 'description': 'Bewitched Alonne Sword has a special Buff that multiplies scaling by 160% for a limited time.'}",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.664855390316789,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e95d877d-b079-538e-8e19-a34b80b4903f",
+    "title": "Simpleton's Ring",
+    "section": "general_information",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Simpleton's Ring -  Dark Souls II - ring - general_information \n general_information : Invisibility while rolling.\n\nIncreases Adaptability by 5 points.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6644394765404551,
+    "bm25_score": 22.826840731389478
+  },
+  {
+    "document_id": "9ed7b60b-f644-50f3-bcf8-22c7f2291c21",
+    "title": "Peasant Set",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Peasant Set -  Dark Souls II - armor - characteristics \n characteristics : The Attire, gloves and trousers have the unusual effect of +2 Adaptability, while reducing Intelligence by 1.\n\nThe Hat raises Faith, but reduces Intelligence.\n\nThis makes the Gloves and Attire very effective on Level-capped builds, such as within the SL1 challenge, or on a mundane build.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6599021316438893,
+    "bm25_score": null
+  },
+  {
+    "document_id": "63e48a7e-e238-5adf-a21c-2ed98e1c46e8",
+    "title": "Parameter Bonus (Dark Souls II)",
+    "section": "strength_vs_dexterity",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus (Dark Souls II) -  Dark Souls II - mechanic - strength_vs_dexterity \n strength_vs_dexterity : It has been observed that at equal rating, Strength scaling will give about twice as much benefit as Dexterity scaling; or, to see it another way, dexterity scaling is equivalent to a \"2-tier\" lower Strength scaling. For example, D scaling with 40 Strength will give as much benefit as a B scaling with 40 Dexterity.\n\nBecause of this, \"quality\" C/C weapons will gain more benefit from \"40 STR / 20 DEX\" than \"20 STR / 40 DEX\".",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.659837775316324,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1860b5ee-2634-5eef-ab36-a6a88403d05d",
+    "title": "Peasant Attire",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Peasant Attire -  Dark Souls II - armor - characteristics \n characteristics : Though it doesn't offer much in the line of defense, the Peasant Attire raises Adaptability by 2 while decreasing Intelligence by 1.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6588944199595537,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4647a30f-b263-56fd-8bbc-640584e280f2",
+    "title": "Dexterity (Dark Souls)",
+    "section": "weapon_scaling",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Dexterity (Dark Souls) -  Dark Souls - mechanic - weapon_scaling \n weapon_scaling : The following are weapons that scale with dexterity, and their level of scaling, when not upgraded. Weapon scaling may change when upgraded.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6542275201284571,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d65b802c-3470-5b2b-becc-b3ddd055db67",
+    "title": "Stats (Dark Souls II)",
+    "section": "performance",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Stats (Dark Souls II) -  Dark Souls II - mechanic - performance \n performance : ; HP\nYou die if this reaches zero.*\nImproves with vigor, and with the other attributes to a small degree.\n\n; Stamina\nRequired to carry out actions.*\nActions deplete stamina, which automatically recovers.*\nImproves with endurance.\n\n; Equipment load\nMaximum weight that can be equipped.*\nMovement slows as your equipped load approaches maximum.*\nImproves with vitality.\n\n; Spell attunement slots\nEach slot allows the attunement of one spell.*\nCan be increased by raising attunement.*\n\n; Spellcasting speed\nSpeed at which spells can be cast.*\nCan be shortened by raising attunement.*\n\n; Physical ATK: Strength\nThe power to inflict damage with physical attacks.*\nImproves with strength.*\n\n; Physical ATK: Dexterity\nThe power to inflict damage with physical attacks.*\nImproves with dexterity.*\n\n; Magic ATK bonus\nBoosts the power of magic attacks.*\nImproves with intelligence.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6539465052082066,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d9b4a745-eae3-5f47-958d-5c5d6d0039ea",
+    "title": "Stats (Dark Souls II)",
+    "section": "weapon_shield",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Stats (Dark Souls II) -  Dark Souls II - mechanic - weapon_shield \n weapon_shield : ; Weapon category\nWeapons are categorized by physical specifications.*\n\n; Attack type\nThe types of damage inflicted by a weapon: strike, slash or thrust.*\n\n; Physical ATK\nThe level of physical damage inflicted.*\n\n; Magic ATK\nThe level of magic damage inflicted.*\n\n; Fire ATK\nThe level of fire damage inflicted.*\n\n; Lightning ATK\nThe level of lightning damage inflicted.*\n\n; Dark ATK\nThe level of dark damage inflicted.*\n\n; Poison Effect\nThe strength of the poison effect.*\n\n; Bleed Effect\nThe strength of the bleed effect.*\n\n; Counter strength\nLevel of counter damage inflicted on attacking enemy.*\n\n; Poise damage\nStrength of impact disrupting opponent's poise.*\n\n; Shot range\nMaximum distance achieved by ranged attacks.*\n\n; Casting speed\nSpeed at which spells can be cast.*\n\n; Physical reduction\nThe percentage of physical damage reduced.*\n\n; Magic reduction\nThe percentage of magic damage reduced.*",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.652652547617192,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c5d9de96-40eb-5688-8a21-e188ddd53b7a",
+    "title": "Instability",
+    "section": "see_also",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Instability -  Dark Souls III - mechanic - see_also \n see_also : Stagger Damage",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.64503145388876,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f6191c4b-7811-5852-bf13-4199c892e24b",
+    "title": "Attack Rating",
+    "section": "base_ar",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Attack Rating -  Dark Souls II - mechanic - base_ar",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6437045737337631,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ddef5148-c596-5792-90a3-72e83df64341",
+    "title": "Attack Rating",
+    "section": "scaling_ar",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Attack Rating -  Dark Souls II - mechanic - scaling_ar \n scaling_ar : {'name': 'Status Scaling AR', 'description': 'Some weapons have Poison or Bleed AR, and most weapons can be infused to have these elements if they do not innately possess them.\\n\\nScaling numbers for these elements however do not directly correlate with the Status buildup they inflict. They only provoke an effect equivalent to 40% of what their scaling would imply once added to their Base AR.\\n\\n[https://docs.google.com/spreadsheets/d/13Ba-cbzZG_EMnkuO_8MO53sidBna1hsztrCa_7LQ63E/edit?usp=sharing Calculator capable of showing how much Status buildup an attack inflicts.]'}",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6425710276099099,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8cfafb0a-a7b1-5ae2-b368-8d71a8a2631b",
+    "title": "Repair (Dark Souls II)",
+    "section": "attunement_milestones",
+    "game": "Dark Souls II",
+    "entity_type": "spell",
+    "snippet": "Repair (Dark Souls II) -  Dark Souls II - spell - attunement_milestones \n attunement_milestones : Like all other spells, the amount of casts per slot increases upon reaching certain Attunement milestones:",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6420413758174869,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9dd3ba0a-45f6-59c2-a341-d64d33a844cb",
+    "title": "Perseverance",
+    "section": "duration_scaling_information",
+    "game": "Dark Souls II",
+    "entity_type": "spell",
+    "snippet": "Perseverance -  Dark Souls II - spell - duration_scaling_information \n duration_scaling_information : Duration values are listed in seconds. Base duration of this spell only depends on Faith. Base duration shown as well as values with the Lingering Dragoncrest variants applied and pieces of Northwarder Set applied.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6397887476803736,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e9a217b6-a960-5e5c-bc75-159114be6766",
+    "title": "Dark Fog (Dark Souls II)",
+    "section": "attunement_milestones",
+    "game": "Dark Souls II",
+    "entity_type": "spell",
+    "snippet": "Dark Fog (Dark Souls II) -  Dark Souls II - spell - attunement_milestones \n attunement_milestones : Like all other spells, the amount of casts per slot increases upon reaching certain Attunement milestones:",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6387336830995418,
+    "bm25_score": null
+  },
+  {
+    "document_id": "72f226d6-1880-5044-a224-b6bbabeedc02",
+    "title": "Dark Silver Tracer",
+    "section": "scaling_percentages",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Dark Silver Tracer -  Dark Souls - weapon - scaling_percentages \n scaling_percentages : ***Strength - 10%**\n***Dexterity - 145%**\n* **Intelligence - 0%**\n***Faith - 0%**",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6387014062284747,
+    "bm25_score": null
+  },
+  {
+    "document_id": "37eba3af-df19-5880-b6d4-b1b9ba0b200c",
+    "title": "Dark Arrow",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Dark Arrow -  Dark Souls II - item - effect \n effect : Deals 160 points of Dark damage, plus 50 physical damage.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.638223600394046,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7d56f578-5f2c-57b8-a47c-c6cd37f94b85",
+    "title": "Force (Dark Souls II)",
+    "section": "attunement_milestones",
+    "game": "Dark Souls II",
+    "entity_type": "spell",
+    "snippet": "Force (Dark Souls II) -  Dark Souls II - spell - attunement_milestones \n attunement_milestones : Like all other spells, the amount of casts per slot increases upon reaching certain Attunement milestones:",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6364916491686863,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6219cbd9-a3d8-5170-9ac1-fe4d5870d23b",
+    "title": "Stats (Dark Souls II)",
+    "section": "defense",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Stats (Dark Souls II) -  Dark Souls II - mechanic - defense \n defense : ; Physical DEF: Strike\nDefense against striking attacks.*\nTotal value for all equipped armor.*\nImproves to a small degree with endurance, vitality, strength, and dexterity.\n\n; Physical DEF: Slash\nDefense against slashing attacks.*\nTotal value for all equipped armor.*\nImproves to a small degree with endurance, vitality, strength, and dexterity.\n\n; Physical DEF: Thrust\nDefense against thrusting attacks.*\nTotal value for all equipped armor.*\nImproves to a small degree with endurance, vitality, strength, and dexterity.\n\n; Poise\nAbility to withstand the impact of attacks.*\nTotal value for all equipped armor.*",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6362450605327085,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9633da3d-e725-582f-ab2f-663763d03896",
+    "title": "Endurance (Dark Souls II)",
+    "section": "general_information",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Endurance (Dark Souls II) -  Dark Souls II - mechanic - general_information \n general_information : Increasing one's Endurance affects several attributes of the player. Endurance's main effect is to increase both the player's Stamina, as well as their total HP however, this does not increase it as much as raising Vigor will. Endurance is also interactive with Strength, Dexterity and Vitality, the sum of which determines the player's natural Physical Defense. Finally, Endurance is also interactive with the Adaptability stat, in that raising the two stats at the same rate will grant extra natural Poise.\n\nUnlike in *Dark Souls* and *Demon's Souls*, raising Endurance does not improve a character's Equip Load.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6360452290598426,
+    "bm25_score": null
+  },
+  {
+    "document_id": "563dd89d-b547-5ccd-ad60-528183a7e7e7",
+    "title": "Work Hook",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Work Hook -  Dark Souls II - weapon - characteristics \n characteristics : Actively equipped in either hand, even when wielding a weapon in both hands in the opposite slot, will grant an additional 5 point of Dexterity in exchange for losing 3 points of Adaptability.\n\nThis weapon can only power stance with itself.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6355817325803992,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f11b9c59-6ebe-5795-9081-025ae661c71e",
+    "title": "Messaging",
+    "section": "attribute",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Messaging -  Dark Souls II - mechanic - attribute \n attribute : Contains following words (alphabetically): bleeding, critical hits, curse, equipment breakage, fire, lightning, magic, poison, slash, sorcery, strike, thrust, toxic.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6352659780926628,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a50b0d80-465b-5e6a-82d1-4a39404b88b9",
+    "title": "Homing Crystal Soulmass (Dark Souls II)",
+    "section": "attunement_milestones",
+    "game": "Dark Souls II",
+    "entity_type": "spell",
+    "snippet": "Homing Crystal Soulmass (Dark Souls II) -  Dark Souls II - spell - attunement_milestones \n attunement_milestones : Like all other spells, the amount of casts per slot increases upon reaching certain Attunement milestones:",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6341610069975887,
+    "bm25_score": null
+  },
+  {
+    "document_id": "53cb1d68-aff6-531e-bb52-709070e997aa",
+    "title": "Cast Light (Dark Souls II)",
+    "section": "attunement_milestones",
+    "game": "Dark Souls II",
+    "entity_type": "spell",
+    "snippet": "Cast Light (Dark Souls II) -  Dark Souls II - spell - attunement_milestones \n attunement_milestones : Like all other spells, the amount of casts per slot increases upon reaching certain Attunement milestones:",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6327847210120088,
+    "bm25_score": null
+  },
+  {
+    "document_id": "80057c46-b31f-5528-9389-57dc9128316f",
+    "title": "Iron Flesh (Dark Souls II)",
+    "section": "attunement_milestones",
+    "game": "Dark Souls II",
+    "entity_type": "spell",
+    "snippet": "Iron Flesh (Dark Souls II) -  Dark Souls II - spell - attunement_milestones \n attunement_milestones : Like all other spells, the amount of casts per slot increases upon reaching certain Attunement milestones:",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6325377930502224,
+    "bm25_score": null
+  },
+  {
+    "document_id": "af086294-a23d-5d34-beab-aaddad9aad9b",
+    "title": "Great Combustion (Dark Souls II)",
+    "section": "attunement_milestones",
+    "game": "Dark Souls II",
+    "entity_type": "spell",
+    "snippet": "Great Combustion (Dark Souls II) -  Dark Souls II - spell - attunement_milestones \n attunement_milestones : Like all other spells, the amount of casts per slot increases upon reaching certain Attunement milestones:",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6318710771578071,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e4de76ee-2ef5-5fc4-8cd6-4441231f238c",
+    "title": "Parameter Bonus (Dark Souls III)",
+    "section": "elemental_damage",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Parameter Bonus (Dark Souls III) -  Dark Souls III - mechanic - elemental_damage \n elemental_damage : Elemental damage scales off of one's Intelligence and Faith. The type of element will also affect which of the two stats is relevant, unless both are applied.\n\nElemental damage scales as follows:\nMagic is usually affected by Intelligence, but can also on some occasions be affected by Faith. However, they're rarely mixed.\nFire is generally boosted by a combination of Intelligence and Faith, scaling equally well with both stats.\nLightning is always affected by Faith.\nDark is, much like fire, affected by both Intelligence and Faith, and scales equally well with both.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6317681915890718,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bf214c95-8d4c-5d30-87b6-e76644a3d624",
+    "title": "Soul Appease",
+    "section": "attunement_milestones",
+    "game": "Dark Souls II",
+    "entity_type": "spell",
+    "snippet": "Soul Appease -  Dark Souls II - spell - attunement_milestones \n attunement_milestones : Like all other spells, the amount of casts per slot increases upon reaching certain Attunement milestones:",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6317568983028451,
+    "bm25_score": null
+  },
+  {
+    "document_id": "19e192f2-72f8-5be6-90a8-eda3ed6f6cc9",
+    "title": "Soul Arrow (Dark Souls II)",
+    "section": "attunement_milestones",
+    "game": "Dark Souls II",
+    "entity_type": "spell",
+    "snippet": "Soul Arrow (Dark Souls II) -  Dark Souls II - spell - attunement_milestones \n attunement_milestones : Like all other spells, the amount of casts per slot increases upon reaching certain Attunement milestones",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6317033441278466,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4b81b2bf-8eb4-57b4-b52c-ec4ef1b7c780",
+    "title": "Bleed (Dark Souls II)",
+    "section": "bleed_resist",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bleed (Dark Souls II) -  Dark Souls II - mechanic - bleed_resist \n bleed_resist : Bleed Resist governs how robust the player is against Bleed buildup.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6304828827123665,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0f85102c-0336-581b-8926-9b2e029f2c05",
+    "title": "Fire Orb (Dark Souls II)",
+    "section": "attunement_milestones",
+    "game": "Dark Souls II",
+    "entity_type": "spell",
+    "snippet": "Fire Orb (Dark Souls II) -  Dark Souls II - spell - attunement_milestones \n attunement_milestones : Like all other spells, the amount of casts per slot increases upon reaching certain Attunement milestones:",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.62962990245878,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4a3860c0-9eef-5bf2-91bc-e9a4e85b9f27",
+    "title": "Fire Tempest (Dark Souls II)",
+    "section": "attunement_milestones",
+    "game": "Dark Souls II",
+    "entity_type": "spell",
+    "snippet": "Fire Tempest (Dark Souls II) -  Dark Souls II - spell - attunement_milestones \n attunement_milestones : Like all other spells, the amount of casts per slot increases upon reaching certain Attunement milestones:",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6294127771787928,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b1dbd410-aa71-5f1c-9c86-982fc3b6bcc4",
+    "title": "Dark Orb (Dark Souls II)",
+    "section": "attunement_milestones",
+    "game": "Dark Souls II",
+    "entity_type": "spell",
+    "snippet": "Dark Orb (Dark Souls II) -  Dark Souls II - spell - attunement_milestones \n attunement_milestones : Like all other spells, the amount of casts per slot increases upon reaching certain Attunement milestones:",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6293923675651055,
+    "bm25_score": null
+  },
+  {
+    "document_id": "956e2532-d342-5d67-a805-1d2a30f0cdcd",
+    "title": "Stats (Dark Souls III)",
+    "section": "file_dark_souls_iii_dexterity_icon_png_dexterity_dark_souls_iii_dexterity",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Stats (Dark Souls III) -  Dark Souls III - mechanic - file_dark_souls_iii_dexterity_icon_png_dexterity_dark_souls_iii_dexterity \n file_dark_souls_iii_dexterity_icon_png_dexterity_dark_souls_iii_dexterity : Required to wield some weapons, boosts spellcasting speed, and improves weapon damage, particularly for fast, finesse-based weapons",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6291903299149837,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5337546d-5e1f-58ca-988e-3722eab52a25",
+    "title": "Dark Dance",
+    "section": "attunement_milestones",
+    "game": "Dark Souls II",
+    "entity_type": "spell",
+    "snippet": "Dark Dance -  Dark Souls II - spell - attunement_milestones \n attunement_milestones : Like all other spells, the amount of casts per slot increases upon reaching certain Attunement milestones:",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.629175999339386,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d9ec4ac6-ed1f-5ad3-9305-05d7a235480d",
+    "title": "Stats (Dark Souls II)",
+    "section": "armor",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Stats (Dark Souls II) -  Dark Souls II - mechanic - armor \n armor : ; Physical DEF\nBase defense against physical attacks.*\n\n; Physical DEF: Strike\nDefense against physical striking attacks.*\n\n; Physical DEF: Slash\nDefense against physical slashing attacks.*\n\n; Physical DEF: Thrust\nDefense against physical thrusting attacks.*\n\n; Magic DEF\nDefense against magic attacks.*\n\n; Fire DEF\nDefense against fire attacks.*\n\n; Lightning DEF\nDefense against lightning attacks.*\n\n; Dark DEF\nDefense against dark attacks.*\n\n; Poise\nAbility to withstand the impact of attacks.*\nWeak poise makes it easier to be knocked off-balance.*\n\n; Poison resist\nAbility to withstand poison.*\nHigher value reduces chance of poisoning.*\n\n; Bleed resist\nResistance to incisive attacks which cause bleeding.*\nHigher value reduces chance of bleeding.*\n\n; Petrify resist\nResistance to petrification.*\nHigher value reduces chance of petrification.*",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6288339070312938,
+    "bm25_score": null
+  },
+  {
+    "document_id": "156a5460-505a-5ce6-aad6-b423e3b681ea",
+    "title": "Fall Control (Dark Souls II)",
+    "section": "attunement_milestones",
+    "game": "Dark Souls II",
+    "entity_type": "spell",
+    "snippet": "Fall Control (Dark Souls II) -  Dark Souls II - spell - attunement_milestones \n attunement_milestones : Like all other spells, the amount of casts per slot increases upon reaching certain Attunement milestones:",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6287381589194727,
+    "bm25_score": null
+  },
+  {
+    "document_id": "34b7726c-0000-5648-849f-058efafcd4ec",
+    "title": "Icons",
+    "section": "parameters",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Icons -  Dark Souls - mechanic - parameters \n parameters : Parameters are values that determine the stats of a character. Increased by leveling up spending souls.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6283581129577656,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f0bb563a-ac3c-5e19-9fdc-a2afa9755cc8",
+    "title": "Acid Surge (Dark Souls II)",
+    "section": "attunement_milestones",
+    "game": "Dark Souls II",
+    "entity_type": "spell",
+    "snippet": "Acid Surge (Dark Souls II) -  Dark Souls II - spell - attunement_milestones \n attunement_milestones : Like all other spells, the amount of casts per slot increases upon reaching certain Attunement milestones:",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6282178568924898,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9105b0d8-c164-5c92-8b77-760506c1d92f",
+    "title": "Soul Vortex",
+    "section": "attunement_milestones",
+    "game": "Dark Souls II",
+    "entity_type": "spell",
+    "snippet": "Soul Vortex -  Dark Souls II - spell - attunement_milestones \n attunement_milestones : Like all other spells, the amount of casts per slot increases upon reaching certain Attunement milestones:",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.6281049849643594,
+    "bm25_score": null
+  },
+  {
+    "document_id": "835a78d9-3eb6-542c-a967-d785a3c65f83",
+    "title": "Carthus Bloodring",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Carthus Bloodring -  Dark Souls III - ring - effect \n effect : Boosts rolling invincibility while reducing damage absorption by 30% across the board.\n\nThe wearer gains some invincibility frames while rolling, but total rolling duration remains the same.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.439928761939075
+  },
+  {
+    "document_id": "9d7d2871-7b81-5172-acf0-f9242044a083",
+    "title": "Backstep",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Backstep -  Dark Souls - mechanic - lead \n lead : Backstepping is a gameplay mechanic in Dark Souls.\n\nA backstep is performed by pressing the roll key without pressing in any direction. The player will then take a leap backwards instead of rolling.\n\nBackstepping also grants invincibility frames, but fewer than rolling. While rolling gives 11 i-frames, backsteps only give 4. Equipping the Dark Wood Grain Ring replaces the backstep with a backwards ninja flip with 8 i-frames. This may now seem like backstepping is generally worse that rolling. However, backstepping has two situational advantages over rolling.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.071734452849277
+  },
+  {
+    "document_id": "f6f302d2-7de6-59c7-b2eb-d60d3f319b33",
+    "title": "Symbol of Avarice (Dark Souls III)",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "The HP draining effect does not deal damage during invincibility frames, such as when rolling, backstabbing or interacting with the environment.\nThe increased souls absorption and Item Discovery effects the Symbol of Avarice grants when worn will stack with other items that provide the same effects, like the Covetous Silver and Gold Serpent Rings.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 25.294527373753382
+  },
+  {
+    "document_id": "7e26ba28-f252-5171-b1ab-4a238121140e",
+    "title": "Thrall Axe",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Thrall Axe -  Dark Souls III - weapon - notes \n notes : The Quickstep skill will still function as intended even if the player's FP bar is empty, but a portion of the invincibility frames are lost (further testing required whether all invincibility frames are lost).",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.179004778332988
+  },
+  {
+    "document_id": "19f3fc24-2081-5120-9eee-e9d896940acc",
+    "title": "Focus Points",
+    "section": "items_that_affect_fp_usage",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Focus Points -  Dark Souls III - mechanic - items_that_affect_fp_usage \n items_that_affect_fp_usage : Farron Ring\nDusk Crown Ring",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.75986687529141
+  },
+  {
+    "document_id": "05ac0ef9-4579-5ca4-88b8-446739ee80bd",
+    "title": "Daggers (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Daggers (Dark Souls III) -  Dark Souls III - weapon - lead \n lead : **Daggers** are a type of weapon in *Dark Souls III*. Daggers are characterized by their fast attack speed and high critical damage. Daggers are one of the smallest weapon types. Careful tactical consideration should be taken by the player while using these weapons as you need to be very close to successfully attack. Basic \"hit and run\" strategy and critical attacks are a hallmark of this weapon type. Most daggers receive the Quickstep weapon skill, granting them increased movement even in normally bogged areas such as swamps and deep water. In addition to quicker movement, the quickstep skill grants the player increased invincibility frames. This skill can be enhanced by the Carthus Bloodring, granting even more invincibility frames.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.697758447104736
+  },
+  {
+    "document_id": "8e1e5ad5-54a7-59c3-9035-b710c75548aa",
+    "title": "Rolling",
+    "section": "medium_roll_mid_roll",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Rolling -  Dark Souls - mechanic - medium_roll_mid_roll \n medium_roll_mid_roll : Players have Mid Roll if their equipment weight is 26% to 50% of their maximum equipment load. Just like the fast roll, there are several different categories that affect speed of recovery after the roll: Medium rolls have 14 instability frames in their animation meaning there are more frames where the player takes 1.4x additional damage than they have iframes. This means that if the player is at Mid Roll weight, they should lean into Poise and Defense mechanics rather than rolling. The 1.4x additional damage taken during Instability Frames is enough to partially or fully negate the defenses that player armor provides. While at Mid Roll weight player speed during actions like sprinting and walking will be reduced slightly.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 23.629234136937875
+  },
+  {
+    "document_id": "ce5cd1e6-b1a5-5c12-a78d-030eff126070",
+    "title": "Poison (Dark Souls II)",
+    "section": "poison_attack_bonus",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Poison (Dark Souls II) -  Dark Souls II - mechanic - poison_attack_bonus \n poison_attack_bonus : The Poison Attack Bonus (abbreviated as Poison BNS in-game) increases the amount of Poison buildup inflicted per hit. It does not affect the total amount of damage the poison will do. Unlike weapons that have a magical scaling stat, Poison has no equivalent scaling.\n\nThe Poison BNS value is determined by the Dexterity and Adaptability stats. In order to continually increase innate Poison BNS, both Dexterity and Adaptability need to be leveled up, with Dexterity giving a larger bonus.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.98337059920263
+  },
+  {
+    "document_id": "60930b03-4068-5536-acda-2bc4136d25c4",
+    "title": "Vitality (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Vitality (Dark Souls) -  Dark Souls - mechanic - lead \n lead : **Vitality** is one of the eight base stats in *Dark Souls* that can be increased when leveling up. Investing in vitality increases the player's maximum health points (HP).\n\nContrary to the vitality stats in *Dark Souls II* and *Dark Souls III*, vitality in *Dark Souls* does not affect the player's maximum equipment load. In *Dark Souls*, equipment load is governed by endurance.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.061887238517336
+  },
+  {
+    "document_id": "95e7ab5c-da84-5fa8-89d7-7ef757647212",
+    "title": "Purging Stone (Dark Souls III)",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Purging Stone (Dark Souls III) -  Dark Souls III - item - usage \n usage : Resets Hollowing to 0. Does not remove the Dark Sigil, so Hollowing will still build up as a result of player death.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.889926073630534
+  },
+  {
+    "document_id": "4f310de3-40d3-5b44-b33e-0cd79248117d",
+    "title": "Poise (Dark Souls)",
+    "section": "offensive_item_misc_items_throwables_poise_drain_values",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls) -  Dark Souls - mechanic - offensive_item_misc_items_throwables_poise_drain_values \n offensive_item_misc_items_throwables_poise_drain_values : The Egg Head Kick drains 100 poise in addition to triggering a guaranteed stun regardless.\nKicking with the Orange Charred Ring equipped does not drain poise (or affect the kick attacks that do drain poise).\nThe Set of Thorns do not drain poise when equipped and rolling into an enemy, though having any piece equipped will stagger enemies with 0 poise.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.79691914293119
+  },
+  {
+    "document_id": "762b8f10-853e-5d9d-8bde-719cb40725a3",
+    "title": "Rolling",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Rolling -  Dark Souls - mechanic - general_information \n general_information : Contrary to popular belief, all roll types have 11 iframes except for the roll type associated with Dark Wood Grain Ring (also called Ninja Flip) which has 13 iframes. The main differences between roll types is the overall length of the animation coupled with Recovery Frames and Instability Frames. Instability Frames are the most critical aspect of rolling, as these are points in the animation where the player character will take 1.4x additional damage when hit. Dark Wood Grain Ring roll type is the only roll with no Instability Frames.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.36350562228931
+  },
+  {
+    "document_id": "6bbcc605-2b18-5d94-b5f1-edee7f75b61b",
+    "title": "Sunlight Medal (Dark Souls III)",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Sunlight Medal (Dark Souls III) -  Dark Souls III - item - usage \n usage : Offer to the Altar of Sunlight in Lothric Castle to rank up in the Warrior of Sunlight covenant.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.26686146461532
+  },
+  {
+    "document_id": "9bc22865-2fbd-5ae1-92ad-5f2f8c4402de",
+    "title": "Sunlight Medal (Dark Souls II)",
+    "section": "usage",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Sunlight Medal (Dark Souls II) -  Dark Souls II - item - usage \n usage : Offer to the shrine of the Heirs of the Sun at the Sunlight Altar in Harvest Valley to increase rank.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.23701173654864
+  },
+  {
+    "document_id": "92fcd551-29d5-5ff0-aaf1-7c119c8fbda7",
+    "title": "Negative Status Effects (Dark Souls II)",
+    "section": "waterlogged",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Negative Status Effects (Dark Souls II) -  Dark Souls II - mechanic - waterlogged \n waterlogged : The waterlogged status increases fire defense by 300 but reduces lightning defense by 150. The duration of the status depends on how much the water covered the player, with rolling applying the maximum duration. Additionally, it can affect both players and enemies, with bosses like Looking Glass Knight and Demon of Song being permanently waterlogged due to their arenas.\n\nAdditionally, being covered in water will wash off poison and oil.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.236354239431098
+  },
+  {
+    "document_id": "bc6ffd40-671e-534e-8b1d-078daf1c957e",
+    "title": "Black Leather Armor (Dark Souls III)",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Black Leather Armor (Dark Souls III) -  Dark Souls III - armor - notes \n notes : Appears differently depending on player's gender. Does not affect gameplay.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.91825517377231
+  },
+  {
+    "document_id": "e285caea-88c5-5a79-b45a-17a3a28c6bd2",
+    "title": "Black Leather Boots (Dark Souls III)",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Black Leather Boots (Dark Souls III) -  Dark Souls III - armor - notes \n notes : Appears differently depending on player's gender. Does not affect gameplay.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.91825517377231
+  },
+  {
+    "document_id": "9a7c3d86-b630-580e-9b11-bcb69aeb4a17",
+    "title": "Black Leather Gloves (Dark Souls III)",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Black Leather Gloves (Dark Souls III) -  Dark Souls III - armor - notes \n notes : Appears differently depending on player's gender. Does not affect gameplay.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.91825517377231
+  },
+  {
+    "document_id": "b2b0141a-ffc7-5819-a61e-1a2e870fa961",
+    "title": "Black Bug Pellet",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Black Bug Pellet -  Dark Souls III - item - usage \n usage : Boosts Dark damage absorption by 15% for 60 seconds, 10% in PvP.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.859234023032027
+  },
+  {
+    "document_id": "c01ff811-843f-599f-af67-c4388e97e062",
+    "title": "Rubbish (Dark Souls II)",
+    "section": "usage",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Rubbish (Dark Souls II) -  Dark Souls II - item - usage \n usage : Can be sold to Lonesome Gavlan for 10 souls.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.640496409604445
+  },
+  {
+    "document_id": "e1a3e22f-adab-5520-8fd5-ef371f9b8d30",
+    "title": "Soul of a Hero (Dark Souls II)",
+    "section": "usage",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of a Hero (Dark Souls II) -  Dark Souls II - item - usage \n usage : Consume to acquire 10,000 souls.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.640496409604445
+  },
+  {
+    "document_id": "c7518170-8b7e-55cc-a5f0-82080798a46d",
+    "title": "Soul of a Lost Undead (Dark Souls II)",
+    "section": "usage",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of a Lost Undead (Dark Souls II) -  Dark Souls II - item - usage \n usage : Consume to acquire 200 souls.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.640496409604445
+  },
+  {
+    "document_id": "6a425d62-e65f-54be-8087-c42f826b0838",
+    "title": "Soul of a Nameless Soldier (Dark Souls II)",
+    "section": "usage",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of a Nameless Soldier (Dark Souls II) -  Dark Souls II - item - usage \n usage : Consume to acquire 800 souls.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.640496409604445
+  },
+  {
+    "document_id": "058441bc-264e-53de-a9bb-3eadb9b86503",
+    "title": "Force",
+    "section": "counters",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "Force -  Dark Souls - spell - counters \n counters : Rolling at the right time against a Force user negates all staggering effect Force has. Staying away from cliff faces will minimize the chances of being blasted off. Force is much more dangerous in confined areas, so try to fight in open spaces against a Force user.\n\nIn terms of equipment, wearing very light equipment allows players to be knocked off their feet, granting invincibility frames; on the other end of the spectrum, using a shield with high stability will minimize the potential danger Force users pose.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.530249241090345
+  },
+  {
+    "document_id": "0529d9fe-9555-5db9-8679-e6e20552a683",
+    "title": "Rolling",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Rolling -  Dark Souls - mechanic - lead \n lead : **Rolling** is a gameplay element in *Dark Souls*.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.508870715275776
+  },
+  {
+    "document_id": "65318f7a-928b-555a-83c7-679b7f40037e",
+    "title": "Large Soul of a Lost Undead (Dark Souls II)",
+    "section": "usage",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Large Soul of a Lost Undead (Dark Souls II) -  Dark Souls II - item - usage \n usage : Consume to acquire 400 souls.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.49842111225907
+  },
+  {
+    "document_id": "6d09564d-f9e9-54e2-a2a1-f9ae3b719b28",
+    "title": "Soul of a Brave Warrior (Dark Souls II)",
+    "section": "usage",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of a Brave Warrior (Dark Souls II) -  Dark Souls II - item - usage \n usage : Consume to acquire 5,000 souls.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.49842111225907
+  },
+  {
+    "document_id": "10d0cf32-7049-5001-9102-39073c551d72",
+    "title": "Soul of a Great Hero (Dark Souls II)",
+    "section": "usage",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of a Great Hero (Dark Souls II) -  Dark Souls II - item - usage \n usage : Consume to acquire 20,000 souls.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.49842111225907
+  },
+  {
+    "document_id": "e27daa33-1fc5-5f0f-a459-10acec4e8f93",
+    "title": "Soul of a Proud Knight (Dark Souls II)",
+    "section": "usage",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Soul of a Proud Knight (Dark Souls II) -  Dark Souls II - item - usage \n usage : Consume to acquire 2,000 souls.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.49842111225907
+  },
+  {
+    "document_id": "10a4f667-9130-5e18-beca-a54371c8a700",
+    "title": "Large Soul of a Brave Warrior (Dark Souls II)",
+    "section": "usage",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Large Soul of a Brave Warrior (Dark Souls II) -  Dark Souls II - item - usage \n usage : Consume to acquire 8,000 souls.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.358500154237873
+  },
+  {
+    "document_id": "9fb3a6ed-0eeb-5156-a9e9-d06a52815785",
+    "title": "Large Soul of a Nameless Soldier (Dark Souls II)",
+    "section": "usage",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Large Soul of a Nameless Soldier (Dark Souls II) -  Dark Souls II - item - usage \n usage : Consume to acquire 1,000 souls.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.358500154237873
+  },
+  {
+    "document_id": "66eeb468-6b99-5f02-97a3-d125a0565d98",
+    "title": "Large Soul of a Proud Knight (Dark Souls II)",
+    "section": "usage",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Large Soul of a Proud Knight (Dark Souls II) -  Dark Souls II - item - usage \n usage : Consume to acquire 3,000 souls.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.358500154237873
+  },
+  {
+    "document_id": "302f071e-81c9-53a2-9c27-6832ca001de1",
+    "title": "Transposing Kiln",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Transposing Kiln -  Dark Souls III - item - usage \n usage : Give the kiln to Ludleth of Courland in Firelink Shrine to conduct transposition of boss souls.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.35539438244359
+  },
+  {
+    "document_id": "5a17253d-ba05-5c24-ac6c-b40ae8ff406a",
+    "title": "Fading Soul",
+    "section": "usage",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Fading Soul -  Dark Souls II - item - usage \n usage : Consume to acquire 50 souls.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.205793402340014
+  },
+  {
+    "document_id": "2f2039c5-c03f-5641-b151-e426ae4f5619",
+    "title": "Profaned Coal",
+    "section": "usage",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Profaned Coal -  Dark Souls III - item - usage \n usage : Give the coal to Blacksmith Andre in Firelink Shrine to allow usage of the following gems for infusions:\nDark Gem → Dark\nBlood Gem → Blood\nHollow Gem → Hollow",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.069608922474387
+  }
+]

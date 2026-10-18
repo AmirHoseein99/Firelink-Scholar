@@ -1,0 +1,2106 @@
+[
+  {
+    "document_id": "1b0e0317-3101-59f4-85b5-2669c4fad7bc",
+    "title": "Chloranthy Ring",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Chloranthy Ring -  Dark Souls II - ring - notes \n notes : The Chloranthy Ring's Stamina regeneration boosting effect stacks with Green Blossom and Stamina recovery shields, such as the Slumbering Dragon Shield.",
+    "sources": [
+      "template",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.66465827613683
+  },
+  {
+    "document_id": "5a310b45-0c56-54c4-afce-97a934e2ca19",
+    "title": "Chloranthy Ring",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Chloranthy Ring -  Dark Souls II - ring - lead \n lead : The **Chloranthy Ring** is a ring in *Dark Souls II*.",
+    "sources": [
+      "template",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.508577629036807
+  },
+  {
+    "document_id": "5efbf9e7-ece8-5c7e-90fa-18f7c1d09058",
+    "title": "Chloranthy Ring",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Chloranthy Ring -  Dark Souls II - ring - description \n description : The ring is named for its decorative green blossom, but its luster has long since faded. Raises stamina recovery speed.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8d155f58-6ec0-51e2-82bf-968ae1be224d",
+    "title": "Chloranthy Ring",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Chloranthy Ring -  Dark Souls II - ring - effect \n effect : Like its *Dark Souls* version, it boosts the Stamina regeneration speed.\nNormal ring raises Stamina recovery speed by 15%.\n+1 - Raises Stamina recovery speed by 20%.\n+2 - Raises Stamina recovery speed by 25%.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5848889691925754,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ac53df59-971a-5632-a1ce-6a09c26c1ee4",
+    "title": "Chloranthy Ring",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Chloranthy Ring -  Dark Souls II - ring - availability \n availability : The Chloranthy Ring is found in a chest behind an illusory wall which can only be revealed through a nearby Pharros' Contraption in the room below the ballistae in the Forest of Fallen Giants.\n\nThere is also a Chloranthy Ring+1 in an iron chest on an overhead cliff in the misty part of the Shaded Woods. The chest can be found by traveling along the right side of the forest until reaching another iron chest, containing the Old Sun Ring. Moving past this chest will bring the player to a small, raised path in the rock, leading the player to the ring.\n\nThe +2 version of the Chloranthy Ring drops from the Executioner's Chariot when killed in NG+. This can also be done by burning a Bonfire Ascetic in the Undead Purgatory bonfire.",
+    "sources": [
+      "template",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.24753557278617
+  },
+  {
+    "document_id": "11d82b21-f5ba-5601-810d-690d283ddb19",
+    "title": "Executioner's Chariot",
+    "section": "attacks",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Executioner's Chariot -  Dark Souls II - boss - attacks \n attacks : (**Note**: These attacks are for the horse, as the rider doesn't have any attacks.)*\n***Dark Breath**: Breathes a cloud of Dark flame at the player, slowly shifting left or right depending on the direction of the player. Normally uses this attack when the player is within melee range. Has a very slow turn rate, can be easily evaded and the opportunity used to attack it.\n***Stomp**: Rears up on its hind legs, and crashes down on the player. Has moderate tracking, but can be evaded with good roll timing. Can be blocked with a shield.\n***Headbutt**: The horse swings its head left or right, hitting the player for low damage. Usually executes this attack when the player is at close range, can be easily blocked.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "199e2a97-065c-5788-9245-6e58b04720a5",
+    "title": "Executioner's Chariot",
+    "section": "fight_overview",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Phase two begins when the chariot bashes into the gate. The horse will be free as the chariot is completely destroyed and the charioteer is killed. The horse is very easy to fight and behaves similarly as the Fang Boar from the first *Dark Souls*. The horse has a charge attack where it bashes you with its head, this move is unblockable and does damage through your shield. If you linger behind the horse for too long, it will kick at you with its hind legs. If you are in front of it for too long, it will stand up on its hind legs and bash downwards on you. If you are at a medium distance away, the horse will spew a Dark fog that is unblockable and does heavy damage through your shield.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1a3e8140-2240-57f5-b002-54b63c9f9de2",
+    "title": "Executioner's Chariot",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Executioner's Chariot -  Dark Souls II - boss - strategy \n strategy : **Phase 1**: The key here is to rush towards each of the two Necromancers and take them out before the Skeletons can catch up, avoiding the Chariot by hiding in alcoves as you go along. Bring a high stability shield if you can't run directly from one Necromancer to the other. Once the second Necromancer is killed, take out the Skeletons. Let the Chariot kill them if you wish. After the Necromancers and the Skeletons have been taken out, run to the lever and pull it.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2753915c-2f06-5442-8b52-e2b63c912910",
+    "title": "Executioner's Chariot",
+    "section": "fight_overview",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Executioner's Chariot -  Dark Souls II - boss - fight_overview \n fight_overview : There are two phases to this fight: the \"chariot\" phase and the \"horse\" phase.\n\nAs you enter the fog door, phase one begins. The chariot will circle around the arena and attempt to ram into you. This can be avoided by hiding in the openings along the walls, or with a well-timed roll. The corridor is littered with Skeletons that will continue to revive until the Necromancers, which are hiding in the gaps along the walls, are killed. The chariot progressively loses speed the more damage it is dealt, giving you more time between its laps to deal with the skeletons and necromancers.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "27bc678a-d205-56cd-b504-89675490ebe6",
+    "title": "Executioner's Chariot",
+    "section": "alternate_strategy_ranged_or_magic_users",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Executioner's Chariot -  Dark Souls II - boss - alternate_strategy_ranged_or_magic_users \n alternate_strategy_ranged_or_magic_users : After entering the arena, the player can choose to rush the first Necromancer and clean up the Skeletons, allowing the player to take cover in an alcove. Each time the chariot comes around, a well cast spell or a well timed arrow can deal damage to the chariot (a good spell to use is Homing Crystal Soulmass or just a simple Homing Soulmass. After casting, stand in one of the alcoves and wait). When the boss gets down to about 1/3 to 1/5 of its health, the chariot will stop circling the arena, most likely surprising the player.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "29acb4b5-a8ca-5e60-96f1-52995dabd7da",
+    "title": "Executioner's Chariot",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Executioner's Chariot -  Dark Souls II - boss - description \n description : The Executioner's Chariot attempts to run over the player when encountered. It barrels through whatever is in its path, whether friend or foe. Upon killing the charioteer, the chariot's horse acts much like a Fang Boar from the original *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "44f325af-9dd4-52af-a864-dc9afa1404fd",
+    "title": "Executioner's Chariot",
+    "section": "fight_overview",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "There are two methods of approaching the first phase. The first is to make your way around the corridor to the other side of the pit and pull the lever, which will lower a gate the chariot will crash into. The second method is to continually hit it with ranged attacks until it reaches 25% of its health. At this point, the chariot will be unable to clear the gap and fall. It will dangle off the ledge helplessly until it is hit one final time, which will cause it to lose its grip and tumble into the pit. This method skips phase two entirely.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "45e9ff37-a6c5-51cf-a46e-1a4c69adf6b1",
+    "title": "Executioner's Chariot",
+    "section": "summoning",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Executioner's Chariot -  Dark Souls II - boss - summoning \n summoning : In Scholar of the First Sin only, Creighton the Wanderer can be recruited as a phantom for this fight, once freed, and, if the player moves fast enough, the shade Bashful Ray may also join, which can help in keeping the skeletons at bay for a while.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4a28b7e5-be6b-58ce-bc6c-988b827147f7",
+    "title": "Executioner's Chariot",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "(**Note**: If you have the Yearn spell or some Alluring Skulls, this fight becomes almost trivial. Cast Yearn or toss a skull as soon as you enter the fog gate and the Skeletons will just ignore you, getting maimed by the Chariot. Find the first Necromancer and kill him quickly. Dispose of any of the three initial Skeletons left. Start running towards the lever. When you see the first Skeleton, cast Yearn again or throw another skull and move to the second Necromancer. After he and all the remaining Skeletons are dead, pull the lever for a very easy boss fight.)*\n\n**Phase 2**: At the start of phase two, the horse will fall over. This is the perfect time to use magic or pyromancy that has a long cast time for big damage. You don't want the horse to hit you as it does heavy damage and can deal damage through shields.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "51b5a5ed-a46a-50a0-8ccb-3514b21f9175",
+    "title": "Executioner's Chariot",
+    "section": "alternate_strategy_melee",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "This strategy will end the same way as the caster version. Once the bosses health is low enough, it will miss the jump and end up hanging off the pit. Walk up and hit it once to finish the fight.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "70b51423-4f53-5c98-8a93-1fac30c35671",
+    "title": "Executioner's Chariot",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Circle around the horse and don't get too far away from it or it might use its breath attack which deals a lot of damage (but is easily dodged). Do not stay in front of the horse. Instead, stay behind it and try to bait it into kicking with its hind legs. Once it kicks and you successfully avoid it, move in quickly and hit the horse one or two times. The horse will then turn towards you and you should circle around it once again. You may also try to bait it into doing its front stomp attack or dodging its breath attack and then getting a few blows in. You don't want it to charge you as it is more difficult to dodge and can deal serious damage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "83ae5bcf-d121-597e-a5d8-ad6b49729570",
+    "title": "Executioner's Chariot",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Executioner's Chariot -  Dark Souls II - boss - trivia \n trivia : The Executioner's Chariot was originally named the Silver Chariot in the network test. This name was probably a reference to the manga *JoJo's Bizarre Adventure/JoJo no Kimyou na Bouken.*",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "93e9309c-19fd-5ce6-ae19-8ce66bd2a8ac",
+    "title": "Executioner's Chariot",
+    "section": "lore",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Executioner's Chariot -  Dark Souls II - boss - lore \n lore : The Executioner's Chariot was created with the sole purpose of tormenting and punishing the undead during the hunts organized by the Old Iron King. Although the Executioner appears to be the master of the chariot, it's actually the horse that controls the machine and carries out its creator's will to torture the undead.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ad48d8f4-1f27-5fa6-ab09-3c79d1ea4e35",
+    "title": "Executioner's Chariot",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Executioner's Chariot -  Dark Souls II - boss - lead \n lead : The **Executioner's Chariot** is a boss in *Dark Souls II*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bf7b0b52-c0bf-5b40-a4e2-af21b2069ad3",
+    "title": "Executioner's Chariot",
+    "section": "alternate_strategy_ranged_or_magic_users",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Continuing around the arena, clearing out the remaining Necromancer and Skeletons, the player will notice that the chariot is being held above the pit by the two horses, while the charioteer dangles helplessly underneath. The player can now freely kill the boss without any resistance. A single attack will send the chariot tumbling into the abyss, finishing the boss fight.\n\nIf you are having trouble catching the Chariot as it goes by, try using a spell that shoots straight (like Lightning Spear or Soul Spear). Stand by one of the alcoves near the entrance to the boss fight and shoot it down the hall when you see the Chariot come around the corner. After you shoot it, you have plenty of time to dodge into the alcove. You can also use the binoculars if you like.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c50b1b28-b4a3-595f-ac3d-1f610cb6bd7c",
+    "title": "Executioner's Chariot",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Executioner's Chariot -  Dark Souls II - boss - notes \n notes : The horse acts like a Fang Boar from the previous *Dark Souls*, with the exception of having a forward stomp and a dark breath attack.\nThe charge attack cannot be blocked, making dodging the only option.\nThe lever can be difficult to see but it's on the opposite side of the last Necromancer at an angle.\nAfter defeating the boss, the player is given access to the Undead Purgatory bonfire and Titchy Gren.\nIn order to fight this boss again via a Bonfire Ascetic, making it NG+, you must burn the Ascetic at the Undead Purgatory bonfire.\nIt's possible to get past the Chariot without going into the alcoves by sticking to a wall and rolling when the chariot is about to hit the player. This requires near-perfect timing and can be made easier with a higher Adaptability stat.\nStacking Dark resistance makes surviving being run over by the chariot easier, as most of the chariot's attacks are Dark based.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c9cec1f4-0988-5720-b10e-ff799575abec",
+    "title": "Executioner's Chariot",
+    "section": "attacks",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "***Headbutt**: The horse swings its head left or right, hitting the player for low damage. Usually executes this attack when the player is at close range, can be easily blocked.\n***Back Kick**: Using its hind legs to kick the player, normally if the player is near its rear or side arc. Unblockable and deals high damage and knockback, but has relatively short range and can be evaded by backing away.\n***Charge**: The horse lowers both its heads, then charges at the player. Unblockable and deals high damage and knockback. It can perform this attack at any range, but the attack can be dodged by rolling to the side, giving players an opportunity to counterattack.\nDefenses (Stats are from Param Studio and are not estimated)\nStrike/Slash/Thrust defense are applied on top of Physical Defense.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cf5f4136-cf74-5667-91dd-be4c232d651e",
+    "title": "Executioner's Chariot",
+    "section": "alternate_strategy_melee",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Executioner's Chariot -  Dark Souls II - boss - alternate_strategy_melee",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "dfa93ab4-210f-517e-a29a-5108a66c7954",
+    "title": "Executioner's Chariot",
+    "section": "alternate_strategy_melee",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "alternate_strategy_melee : A version of the above strategy is also available for melee builds. Proceed as normal, working your way up the arena, and killing the two Necromancers, letting the chariot take care of the Skeletons (Alluring Skulls work well here). Once you kill the last Necromancer, instead of pulling the lever, wait for the chariot to pass and run to the edge of the pit. Stand with your back against the right hand wall, facing the opposite wall, and as close to the edge of the pit as you can safely be. Since the chariot is jumping, it cannot hit you here. Each time it lands you can take a swing at it, and whittle down its health bar. This works with most weapons, but a weapon with a wide swing is better as locking on is a very bad idea. The timings will vary, so some experimentation will be necessary. As an example, a Greatsword R1, triggered the instant the boss jumps will always connect and do decent damage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e2e7c32b-48de-5a61-ac54-afd80a9e1ed8",
+    "title": "Executioner's Chariot",
+    "section": "location",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Executioner's Chariot -  Dark Souls II - boss - location \n location : Found in the Undead Purgatory, past the great hanging bridge at Huntsman's Copse.\n\nIn *Scholar of the First Sin*, a chariot horse can be found in Drangleic Castle, in the hall previously filled with Alonne Knight Captains.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3a2f3fe0-2452-5a35-8dcf-c2aa6bb5c7e9",
+    "title": "Explorer",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "For restocking the items, Merchant Hag Melentia carries more Lifegems and Witching Urns and 1 more Pharros' Lockstone, Laddersmith Gilligan has Aromatic Oozes, Wood Bolts are sold by Blacksmith Lenigrast, Repair Powders are sold in limited quantities by Blacksmiths and infinitely by one late-game merchant, Prism Stones are sold by Sweet Shalquoir, and 5 more Rusted Coins are sold by Magerold of Lanafir.\n\nTheir high Adaptability gives them 9 i-frames when starting out, and they only need 2 more points in the stat to improve that to 10 i-frames.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4e701ac8-e9d1-585d-8053-99842a391929",
+    "title": "Explorer",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "The Traveling Merchant Set is only a bit better than the Imported Set and has no Poise but the hat increases Item Discovery slightly, which is a solid benefit early on.\n\nThe lone Pharros' Lockstone can be used to unlock 1 (and only one, since it is a consumable) Pharros' Contraption. Of the first two Contraptions to be found in the game, the first one is below a trapped room with ballistae in the Forest of Fallen Giants and used to get the Chloranthy Ring and a Titanite Slab, and the second one is found one a small platform up halfway up the first set of stairs in No-man's Wharf where it is used turn on the lights and scare away all the Dark Stalkers in the area.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5cb83caf-e019-5d61-98dd-fbabec7246dc",
+    "title": "Explorer",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Explorer -  Dark Souls II - mechanic - lead \n lead : The **Explorer** is one of the classes in *Dark Souls 2*.\n\nIt has no particular specialty, with only high Adaptability and an above average Vitality being notable. It is, essentially, a Deprived with some extra stats, some bonus items, and a Dagger.\n\nAs their Dagger is the only weapon they start out with, with not even a spell to help them, it is imperative to pick up a second Dagger in Things Betwixt on the first side path fore more Durability. Is is possible to wield the Morning Star from the cliffs in Majula two-handed with 2 more points in Strength and one more point in Dexterity, and a Light Crossbow can be found atop a wall in the Forest of Fallen Giants and only need 1 more point in Strength to wield with two hands.\n\nThe Traveling Merchant Set is only a bit better than the Imported Set and has no Poise but the hat increases Item Discovery slightly, which is a solid benefit early on.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cbbd2a35-f2e4-52dd-8b38-dbd4124cdff4",
+    "title": "Explorer",
+    "section": "starting_equipment",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Explorer -  Dark Souls II - mechanic - starting_equipment \n starting_equipment : The Explorer also starts with a variety of items: a Spell Quartz Ring, 20 Wood Bolts, 8 Witching Urns, 4 Aromatic Oozes, 5 Prism Stones, 2 Rusted Coins, 1 Repair Powder, and 1 Pharros' Lockstone.\n\nAs with all starting classes in Dark Souls 2, the Imported Set worn before the character creation can be found unequipped in the character's inventory.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "04edaef5-71d3-5877-80d7-a308c8369ba9",
+    "title": "Havel's Ring",
+    "section": "effects",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Havel's Ring -  Dark Souls - ring - effects \n effects : Raises the player's maximum equipment burden by 50%.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6750622509647202,
+    "bm25_score": null
+  },
+  {
+    "document_id": "412ed1f9-6579-5c46-855f-e4b7d26189be",
+    "title": "Havel's Ring",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Havel's Ring -  Dark Souls - ring - availability \n availability : Havel the Rock drops this ring when killed. He can either be accessed through a door in the latter half of the Undead Burg through use of the Master Key, or accessed through a door just prior to the Hydra in the Darkroot Basin.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6b2cf1eb-638f-5def-913b-37ea8ba477a3",
+    "title": "Havel's Ring",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Havel's Ring -  Dark Souls - ring - description \n description : This ring was named after Havel the Rock, Lord Gwyn's old battlefield compatriot.\n\nHavel's men wore the ring to express faith in their leader and to carry a heavier load.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "90a123fc-0591-58fa-879b-e195a8d1bcf8",
+    "title": "Havel's Ring",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Havel's Ring -  Dark Souls - ring - lead \n lead : **Havel's Ring** is a ring in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ea795c99-6a97-5e93-9584-64e3f0111c30",
+    "title": "Havel's Ring",
+    "section": "overview",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Havel's Ring -  Dark Souls - ring - overview \n overview : Havel's Ring is one of the first rings accessible to the player assuming the Master Key was chosen as the starting gift. It is a useful ring, allowing many classes to upgrade from slow roll to mid roll or better and giving players a wider range of equipment options without sacrificing mobility. Later, the player may want to invest in Endurance to free up their ring slot, although certain players may require both the ring and high endurance if they seek out the heavier weapons and armor. Prior to patch 1.06 Havel's ring was inferior in many ways to the Dark Wood Grain Ring, but the two rings can be combined to use most of the game's equipment with ease.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.639274820137349,
+    "bm25_score": 29.666263887814942
+  },
+  {
+    "document_id": "f7be487c-51c2-559d-8509-98f820ffc335",
+    "title": "Heavy Armor Sets (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Heavy Armor Sets (Dark Souls) -  Dark Souls - mechanic - lead \n lead : For categorization purposes on this wiki, **heavy armor sets** are armor sets in *Dark Souls* that have a total weight of 40 or more.\n\nWearing heavy armor will slightly reduce the player's stamina regeneration, along with certain pieces of other armor sets. Each piece of heavy armor will reduce the stamina regeneration rate by 2 per second for all body armor pieces, and 1 per second for all other pieces. Furthermore, if the player has an equipment load that is higher than 50%, they will suffer a further 20% stamina regeneration penalty. Using Havel's Ring allows one to increase their equipment load, allowing them to wear Heavy Armor more easily.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0c5ebbc8-efb0-591e-9dcd-3f54701c6efe",
+    "title": "Kingseeker Frampt",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "If players have given Kaathe the Lordvessel already, then it is possible to prevent Frampt from leaving by rushing around and away from him. As long as he doesn't finish his dialogue, he won't disappear. Players can also prevent him finishing his dialogue by attacking him.\nIt's actually possible to kill Kingseeker Frampt, but only through the use of third party programs. Frampt has 11,120 HP and drops 5,000 souls after being killed.\nFrampt will randomly be found sleeping deeply (usually after resting at a bonfire) even if he was spoken to only moments ago. He can be awoken by attacking him (kicking and punching are sufficient).",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "271de031-aa05-57c4-9a15-7232337e70d8",
+    "title": "Kingseeker Frampt",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - location \n location : Firelink Shrine, where the pool in front of the decrepit statue used to be. Kingseeker Frampt only appears after the Bells of Awakening have been rung.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6e44b2f2-5a5a-5f9e-b6cc-2a763157617d",
+    "title": "Kingseeker Frampt",
+    "section": "services",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - services \n services : Kingseeker Frampt has the ability to consume items and break titanite into smaller pieces.\nGreen Titanite Shard breaks to: Titanite Shard ×5\nLarge Titanite Shard breaks to: Titanite Shard ×5\nTitanite Chunk breaks to: Large Titanite Shard ×3\nBlue Titanite Chunk breaks to: Green Titanite Shard ×3\nWhite Titanite Chunk breaks to: Green Titanite Shard ×3\nRed Titanite Chunk breaks to: Green Titanite Shard ×3\nTitanite Slab breaks to: Titanite Chunk ×2\nBlue Titanite Slab breaks to: Blue Titanite Chunk ×2\nWhite Titanite Slab breaks to: White Titanite Chunk ×2\nRed Titanite Slab breaks to: Red Titanite Chunk ×2",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7b82f581-96f0-5602-aabd-9f8f98dbda53",
+    "title": "Kingseeker Frampt",
+    "section": "plot",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - plot \n plot : Kingseeker Frampt appears in Firelink Shrine after the player rings both Bells of Awakening. He instructs the player to go to Anor Londo and obtain the Lordvessel. After the player obtains the Lordvessel, Frampt transports them to the entrance of the Kiln of the First Flame, and instructs the player to place the Lordvessel to gain access to the Kiln, and to ultimately kill Gwyn and prolong the Age of Fire.\n\nShould the player give the Lordvessel to Kaathe instead, Frampt will become irate and leave the player for the rest of the playthrough.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "805ffddc-3070-5807-9c6e-616d69ad8ee7",
+    "title": "Kingseeker Frampt",
+    "section": "feed",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - feed \n feed : Feeding weapons and armor to him is not very profitable; most weapons only produce 50 souls while most armor produces 100. Special weapons can produce much more, such as the Drake Sword, which results in 5,000.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "865ab23e-7ecc-55f5-b351-ce60a8141c73",
+    "title": "Kingseeker Frampt",
+    "section": "removed_content",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - removed_content \n removed_content : The following is content that is present within the code of *Dark Souls*, but not actually implemented in the game. Text was found from a text dump which can be found at: http://pastebin.com/hA42TwK8.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8972d104-39ff-52dd-9cb0-45a2b2656eb6",
+    "title": "Kingseeker Frampt",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "After ringing the first of the Bells of Awakening, Frampt can be heard snoring when passing through the flooded area of Firelink Shrine of which he will eventually emerge. Strangely, this makes a collectible, invisible \"humanity sprite\" (one that increases your character's liquid humanity by 1 point) spawn nearby. It is possible to collect this sprite by falling from the nest above or one of the ledges above, but the fall may kill the character in the process (forcing the player to run back to his bloodstain from the last bonfire they rested at). It is also possible to collect this sprite by \"passing through\" Frampt's room. It seems to often be near the fallen pillar that lays diagonally on the ground (one end of the pillar pointing to the starting Lordran Bonfire of Firelink Shrine, and the other end of the pillar pointing to the graveyard leading to the Catacombs).\nFrampt is one of the few characters whose mouth moves when talking.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "94dc8054-24eb-5b83-9f01-2e2e1b63c11b",
+    "title": "Kingseeker Frampt",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - trivia \n trivia : Shortly after Frampt's arrival, the Crestfallen Warrior (who sits fairly close to Frampt) complains about a horrible smell. This is likely referring to Frampt. The Crestfallen Warrior will leave after being spoken to when Frampt is around, so keep that in mind before ringing the second bell of awakening. The Crestfallen Warrior can later be found as a hostile Hollow at the New Londo Ruins.\nIn previous versions of the game there was a glitch where if a player jumped down the hole Frampt sticks his head out of, but quit and loaded before reaching the bottom, they would reach the Kiln of the First Flame. In doing so players could skip gathering the Lord Souls and go straight to the fight against Gwyn. This technique has been used for speedruns of the game.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a5920d6b-a687-50d1-8380-b184fca27d9e",
+    "title": "Kingseeker Frampt",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - lead \n lead : is a character in *Dark Souls*. He is a primordial serpent who seeks a human successor to Gwyn, Lord of Cinder. He is voiced by Peter Marinker, who also voiced Darkstalker Kaathe and Eingyi.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b691576e-c1e7-533e-bc12-9e88378ae829",
+    "title": "Kingseeker Frampt",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Frampt is one of the few characters whose mouth moves when talking.\nOn the breastplate of Lord Gwyn's Robes, there are patterns and indents that resemble Frampt's head. Possibly as an indicator of their friendship, as mentioned by Kaathe.\nIt would seem Frampt has a great dislike of Executioner Smough, Seath the Scaleless and his followers. If fed any of their items, he will only give a single soul in exchange.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cc83dad2-dfca-55ca-ab0c-f7f3fdaabe5f",
+    "title": "Kingseeker Frampt",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Kingseeker Frampt -  Dark Souls - character - notes \n notes : When Frampt transports the player to the Firelink Altar after retrieving the Lordvessel, it is not necessary to place it. By using a Homeward Bone or the Homeward miracle, it is possible to exit and continue using Frampt's feeding service and at the same time interact with Kaathe and join the Darkwraiths. As long as the player does not place the Lordvessel, neither serpent will depart.\nThe player should avoid attacking Frampt (unless he is asleep) as it may result in him leaving for the rest of the playthrough. If this happens, the player loses access to his feeding service and must either place the Lordvessel with Kaathe or do it alone by dropping down the hole Frampt was in.\nDropping down to the Firelink Altar after acquiring the Lordvessel without his help will make Frampt leave, whether the player placed it or not.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "048df3d2-0680-5b21-9ea6-eb3f5b9bef5b",
+    "title": "Knight Lautrec of Carim",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Knight Lautrec of Carim -  Dark Souls - character - strategy \n strategy : Lautrec dual-wields Shotels, allowing him to partially hit through block. Therefore, dodging his attacks or killing him as quickly as possible will work best. He also wears a Red Tearstone Ring, so be extra careful when he is near-death. Additionally, he may use a [https://darksouls.wiki.fextralife.com/Parrying+dagger parrying dagger] to parry and riposte players.\n\nIf fought at Firelink Shrine, Lautrec can safely be kicked off the ledge. Quit and load the game, and his items should be right in front of the player.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "08d0c46e-7dd1-5759-9b8d-01325eb4694f",
+    "title": "Knight Lautrec of Carim",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Knight Lautrec of Carim -  Dark Souls - character - lead \n lead : **Knight Lautrec of Carim** (女神の騎士ロートレク), also known as **Lautrec the Embraced** or **Lautrec the Guilty** when invading, is a character in *Dark Souls*. He is voiced by either Daniel Roberts or Will Vanderpuye.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "282fbad8-05bf-59c9-a117-6401a8a2ccf4",
+    "title": "Knight Lautrec of Carim",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "A very easy way to defeat him consists of wearing both the Ring of Fog and the Slumbering Dragoncrest Ring. The player must then approach him and his companions by walking along either of the hall's walls until they reach the area behind him, then they may approach him from behind and backstab him. If the player's weapon is strong enough, a single backstab will suffice. Even if he survives, his two comrades will not react as they are slightly in front of him, allowing the player to finish the job. Once behind Lautrec, the Ring of Fog can be switched for the Hornet Ring to increase the damage. One can also use Hush to remove the need of the Slumbering Dragoncrest Ring, although they must be careful not to move after the effect expires.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3851b3a2-68a3-52ff-9dbf-2f1a53c9611e",
+    "title": "Knight Lautrec of Carim",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Knight Lautrec of Carim -  Dark Souls - character - notes \n notes : Once Reah and her bodyguards Vince and Nico leave Firelink Shrine and Petrus has returned from the trip, Lautrec will offer a tip to the player at the cost of 100 souls per soul level, in which he informs that they went \"below the Catacombs\" and that her bodyguards either fled or were reduced to hollows, leaving her alone; hinting to travel to the Tomb of the Giants and investigate their whereabouts.\nLautrec's armor, the Set of Favor, will appear on the same level as the Chamber of the Princess bonfire room, after the player has killed him in Anor Londo.\nUp to 4 liquid humanities (8 in NG+) can be drained from Lautrec using the Dark Hand.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3fd82bc2-b0ad-5bbe-8016-4e6afb4ec649",
+    "title": "Knight Lautrec of Carim",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Up to 4 liquid humanities (8 in NG+) can be drained from Lautrec using the Dark Hand.\nLautrec is a useful summon to keep around, should the player be wandering a high-traffic PvP area, as his Shotels make an excellent distraction. Should the invader focus their attacks on the player, Lautrec has a chance of attacking from behind for a backstab. Lautrec is also extremely good at both parries and dodge-rolls for an NPC, which means aggressive invaders can find themselves countered at a bad moment. On higher difficulties, his HP is substantially higher, making him a go-to PvP ally for the Parish and Depths.\nTo summon Lautrec for the Bell Gargoyles, the player must first free him then talk to him in Firelink Shrine and rest at a bonfire for his summon sign to appear.\nIf Lautrec is killed in Undead Parish without talking to him, the cell door becomes permanently locked from being opened.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "616f47dc-617a-5715-a5d9-1abe3566624d",
+    "title": "Knight Lautrec of Carim",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Knight Lautrec of Carim -  Dark Souls - character - lore \n lore : Lautrec's armor reveals that he was an adherent of the goddess Fina. The armor description states that Lautrec, during a period of solitude, \"forsook everything\" because he believed in Fina's love for him. This could either mean that Lautrec was delusional, or that the goddess emotionally manipulated him, as it is mentioned in Ring of Favor and Protection that Fina has a “fateful beauty”.\n\nLautrec's goals were never explained in the game. He mentions that he is on a \"mission\", yet it is never elaborated upon. He interacted with, and was possibly tricked by Patches at least once prior to meeting the player, and he knows of Petrus and his background. It could be that Anastacia was killed for her Fire Keeper Soul, but it is found on his person after defeating him, meaning he either had neglected to use it or kept it as a trophy.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7645a8c4-37ed-5933-92c6-cff01f0a1cab",
+    "title": "Knight Lautrec of Carim",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "If fought at Firelink Shrine, Lautrec can safely be kicked off the ledge. Quit and load the game, and his items should be right in front of the player.\n\nIf fought in Anor Londo, Lautrec will have a sorcerer and a Pike-wielding warrior guarding him. The player is only required to kill Lautrec, so they may choose to concentrate on him and hope to kill him before his companions cause any trouble. An easy way to do this is to go up the staircases to the left or right, then aggro Lautrec with a bow. Lautrec is faster than the rest of his party and will run up the stairs first, which then allows the player to engage him alone atop the chokepoint.\n\nPoison Arrows can prove effective on both Lautrec and his companions. In addition, firing them from where the player spawns in his world will not make them aggro. This lets the player kill without retaliation.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "78244c8e-82e0-5d25-a678-6b3a3ad7d345",
+    "title": "Knight Lautrec of Carim",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Knight Lautrec of Carim -  Dark Souls - character - location \n location : Lautrec is found imprisoned on the top floor of the church in Undead Parish, before climbing the ladders to the roof where the Bell Gargoyles are fought. The Mystery Key that opens his cell (which can also be opened with the Master Key) is found in the cellar-like area next to the Fang Boar guarding the gates to the inner parish.\n\nAfter being freed, or escaping after the Gargoyles are defeated if he wasn't freed by the player, Lautrec is found sitting in Firelink Shrine across from the imprisoned Fire Keeper, Anastacia of Astora. If Lautrec was freed, then it is here that he will reward the player with a Sunlight Medal.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9352820d-bf3d-5dd2-ac33-69462a47fd8b",
+    "title": "Knight Lautrec of Carim",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "If the player frees Lautrec and receives his reward at Firelink Shrine, he can be summoned to assist against the Bell Gargoyles and the Gaping Dragon. His first summon sign is near the ladder before the Fog Door; the second summon is opposite from Solaire's, hidden behind a pillar near the Gaping Dragon's fog door.\n\nWhether or not Lautrec was freed, after the player rings the second Bell of Awakening or picks up the Fire Keeper Soul in Blighttown, Lautrec will kill Anastacia and begin a quest line in which the player can collect a Black Eye Orb along with Anastacia's robes, and hunt Lautrec down to retrieve the Fire Keeper's Soul in Anor Londo.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c75d22b8-da64-5168-ba82-145b43728b56",
+    "title": "Knight Lautrec of Carim",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Knight Lautrec of Carim -  Dark Souls - character - trivia \n trivia : Lautrec is likely a spiritual successor to Yurt from *Demon's Souls*. Both are found imprisoned and the player can rescue them, both use shotels and parrying daggers, and both are hostile towards the player later in the game. They even share identical quotes such as, *\"Now I can continue my work...keh heh heh\"*.\nLautrec, like many characters, has unused dialogue cut from the game.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1f188c00-2d96-5fca-ba6b-0d5ac7c7877d",
+    "title": "Ring of Favor and Protection",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Ring of Favor and Protection -  Dark Souls - ring - lead \n lead : The **Ring of Favor and Protection** is a ring in *Dark Souls*.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.620531145364403,
+    "bm25_score": 39.63864219680372
+  },
+  {
+    "document_id": "278c644c-aaab-575c-b429-cb7c658962b2",
+    "title": "Ring of Favor and Protection",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Ring of Favor and Protection -  Dark Souls - ring - availability \n availability : Dropped by Knight Lautrec of Carim.\nOne per playthrough can be obtained by trading a Xanthous Crown to Snuggly the Crow.\n**Only works if that Xanthous Crown hasn't been upgraded.",
+    "sources": [
+      "template",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.883563975837703
+  },
+  {
+    "document_id": "4a1739cf-dff9-5ec5-8992-ff48b81e8fd7",
+    "title": "Ring of Favor and Protection",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Ring of Favor and Protection -  Dark Souls - ring - description \n description : A ring symbolizing the favor and protection of the goddess Fina, known in legend to possess \"fateful beauty\".\n\nThis ring boosts its wearer's HP, stamina, and max equipment load, but breaks if ever removed.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6737637639831571,
+    "bm25_score": 35.96074577120838
+  },
+  {
+    "document_id": "74ca7a7f-48ef-599e-9abd-10e8621ebdbf",
+    "title": "Ring of Favor and Protection",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Ring of Favor and Protection -  Dark Souls - ring - general_information \n general_information : When worn, the Ring of Favor and Protection increases the player's maximum HP, Stamina and equipment load by 20%. The item is destroyed, however, if it is ever removed.\n\nAfter the player reaches 40 Endurance, wearing the Ring of Favor and Protection is the only way to further increase maximum Stamina.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.704595743296588,
+    "bm25_score": 36.865945253604835
+  },
+  {
+    "document_id": "7c56c90d-f0ad-5bda-b900-eb4b8cab1821",
+    "title": "Ring of Favor and Protection",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Ring of Favor and Protection -  Dark Souls - ring - trivia \n trivia : Swapping a Ring of Favor and Protection with another Ring of Favor and Protection does not cause either to break. Moving the ring between ring slots will also not break the ring.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.657260525048603,
+    "bm25_score": 40.46608618221017
+  },
+  {
+    "document_id": "c85b95a4-f46f-50f4-b80d-83df6ef9c10a",
+    "title": "Ring of Favor and Protection",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Ring of Favor and Protection -  Dark Souls - ring - notes \n notes : The Ring of Favor and Protection stacks with other equipment burden/max HP items, such as Havel's Ring and Mask of the Father.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7003466459734141,
+    "bm25_score": 44.57381673918447
+  },
+  {
+    "document_id": "ee04eb21-d7c9-5085-a1b1-fee2057e33f9",
+    "title": "Ring of Favor and Protection",
+    "section": "overview",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Ring of Favor and Protection -  Dark Souls - ring - overview \n overview : This ring is useful for players that are absolutely sure that they would never require another ring slot, or if they temporarily require a boost in vitality and stamina. However, removing the ring (and thus breaking it) is ill-advised since only two of them can be obtained per playthrough.\n\nIn PvP, many builds rely on the Ring of Favor and Protection to don heavier armor without sacrificing the fast roll, and the extra HP—essentially granting players the equivalent of extra soul levels without actually leveling up. Players are conversely limiting the diversity of rings they can use, however. The Hornet Ring, Havel's Ring and the Bellowing Dragoncrest Ring are all examples of rings that players could otherwise use had they not equipped the Ring of Favor and Protection with the intent of not breaking it.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.7104115976771921,
+    "bm25_score": 40.65704296926847
+  },
+  {
+    "document_id": "0c5922e6-9839-50ad-b426-1e7b05fd2770",
+    "title": "Armor (Dark Souls)",
+    "section": "upgrading",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Armor (Dark Souls) -  Dark Souls - armor - upgrading \n upgrading : Like weapons, most but not all armor pieces can be upgraded. Armor can be upgraded to +10 or to +5 for those that require Twinkling Titanite. Armor cannot be upgraded down other upgrade paths. Upgraded armor yields higher defensive values and elemental resistance, but never alters Poise.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0fab4a48-3b45-505e-a669-658e9ef575b2",
+    "title": "Armor (Dark Souls)",
+    "section": "armor",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Helm of the Wise\nBalder Helm\nBlack Knight Helm\nBrass Helm\nCatarina Helm\nSix-Eyed Helm\nCleric Helm\nCrystalline Helm\nDark Mask\nEastern Helm\nElite Knight Helm\nHelm of Favor\nGough's Helm\nIron Helm\nOrnstein's Helm\nPaladin Helm\nHelm of Artorias\nSilver Knight Helm\nSteel Helm\nHelm of Thorns\n valign=\"top\" style=\"width: 25%;\"\n\nArmor of the Glorious\nBalder Armor\nBlack Knight Armor\nBrass Armor\nCatarina Armor\nRobe of the Channelers\nCleric Armor\nCrystalline Armor\nDark Armor\nEastern Armor\nElite Knight Armor\nEmbraced Armor of Favor\nGough's Armor\nArmor of the Sun\nOrnstein's Armor\nPaladin Armor\nArmor of Artorias\nSilver Knight Armor\nSteel Armor\nArmor of Thorns\n valign=\"top\" style=\"width: 26%;\"",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "120b1e2f-7468-5bed-a493-22ff04b52dcb",
+    "title": "Armor (Dark Souls)",
+    "section": "armor_categories",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Armor (Dark Souls) -  Dark Souls - armor - armor_categories \n armor_categories : Armor sets are divided into three categories based on their total weight:\nLight Armor Sets (0 - 19.9)\nMedium Armor Sets (20 - 39.9)\nHeavy Armor Sets (40+)\n\nEach armor set is divided into four pieces based on the body part protected:\nHead Armor\nChest Armor\nHands Armor\nLegs Armor\nMost armor sets are complete, but there are some unique pieces of armor that are not part of a set, and other sets that do not have all four pieces.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1bb2f0ad-b901-53a2-83aa-01617e2d1563",
+    "title": "Armor (Dark Souls)",
+    "section": "armor",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Gauntlets of the Vanquisher\nBalder Gauntlets\nBlack Knight Gauntlets\nBrass Gauntlets\nCatarina Gauntlets\nGauntlets of the Channelers\nCleric Gauntlets\nCrystalline Gauntlets\nDark Gauntlets\nEastern Gauntlets\nElite Knight Gauntlets\nGauntlets of Favor\nGough's Gauntlets\nIron Bracelet\nOrnstein's Gauntlets\nPaladin Gauntlets\nGauntlets of Artorias\nSilver Knight Gauntlets\nSteel Gauntlets\nGauntlets of Thorns\n valign=\"top\" style=\"width: 26%;\"\n\nBoots of the Explorer\nBalder Leggings\nBlack Knight Leggings\nBrass Leggings\nCatarina Leggings\nWaistcloth of the Channelers\nCleric Leggings\nCrystalline Leggings\nDark Leggings\nEastern Leggings\nElite Knight Leggings\nLeggings of Favor\nGough's Leggings\nIron Leggings\nOrnstein's Leggings\nPaladin Leggings\nLeggings of Artorias\nSilver Knight Leggings\nSteel Leggings\nLeggings of Thorns\n }\n style=\"width:100%; font-size: 88%;\"\n valign=\"top\" style=\"width: 25%;\"",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "286f3fe7-30a1-5796-9ef7-162082d2915f",
+    "title": "Armor (Dark Souls)",
+    "section": "armor",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Armor (Dark Souls) -  Dark Souls - armor - armor \n armor : Brigand Set\nHoly Set\nLeather Set\nKnight Set\nTattered Cloth Set\nSorcerer Set\nBlack Leather Set\nWanderer Set\nHard Leather Set\n valign=\"top\"\n\nAntiquated Set\nBig Hat's Set\nBlack Set\nBlack Sorcerer Set\nChain Set\nChester's Set\nCrimson Set\nDingy Set\nGold-Hemmed Black Set\nGreat Lord Set\nHollow Soldier Set\nHollow Thief's Set\nHollow Warrior Set\nLord's Blade Ciaran's Set\nMaiden Set\nMoonlight Set\nPainting Guardian Set\nShadow Set\nWitch Set\nXanthous Set\n valign=\"top\"\n\nAdventurer's Set\nArtorias Set\nBalder Set\nBlack Knight Set\nBrass Set\nCatarina Set\nChanneler's Set\nCleric Set\nCrystalline Set\nDark Set\nEastern Set\nElite Knight Set\nFavor Set\nGough's Set\nIron Set\nOrnstein's Set\nPaladin Set\nSilver Knight Set\nSteel Set\nSet of Thorns\n valign=\"top\"\n\nBlack Iron Set\nGiant Set\nGolem Set\nGuardian Set\nHavel's Set\nSmough's Set\nStone Set\n\nElite Cleric Set\nMage Smith Set\n }\n -\nPieces=\n style=\"width:100%;\"\n valign=\"top\" style=\"width: 25%;\"",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2cf0115d-a032-5113-b795-2917dc4b7ece",
+    "title": "Armor (Dark Souls)",
+    "section": "armor",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Antiquated Gloves\nTraveling Gloves\nBlack Manchette\nBlack Sorcerer Gauntlets\nLeather Gauntlets\nChester's Gloves\nCrimson Gloves\nDingy Gloves\nGold-Hemmed Black Gloves\nBracelet of the Great Lord\nLord's Blade Gloves\nMaiden Gloves\nMoonlight Gloves\nPainting Guardian Gloves\nShadow Gauntlets\nWitch Gloves\nXanthous Gloves\n valign=\"top\" style=\"width: 25%;\"\n\nAntiquated Skirt\nTraveling Boots\nBlack Tights\nBlack Sorcerer Boots\nChain Leggings\nChester's Trousers\nCrimson Waistcloth\nBlood-Stained Skirt\nGold-Hemmed Black Skirt\nAnklet of the Great Lord\nHollow Soldier Waistcloth\nHollow Thief's Tights\nHollow Warrior Waistcloth\nLord's Blade Waistcloth\nMaiden Skirt\nMoonlight Waistcloth\nPainting Guard Waistcloth\nShadow Leggings\nWitch Skirt\nXanthous Waistcloth\n }\n style=\"width:100%; font-size: 88%;\"\n valign=\"top\" style=\"width: 23%;\"",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4b1c6531-2d7e-5b06-9567-b3a521356581",
+    "title": "Armor (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Armor (Dark Souls) -  Dark Souls - armor - lead \n lead : **Armor** is a type of equipment in *Dark Souls* that provides protection against both physical (regular, strike, slash, thrust) and elemental (magic, fire, lightning) damage. Armor also increases resistance against negative status effects and it can increase the player's poise (stagger resistance).\n\nEvery armor item has a weight. While equipped, the item's weight is added to the player's effective equipment load, which can slow the player's movement speed and stamina recovery.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "969403a6-2d0d-583c-b281-c45734cd3d0f",
+    "title": "Armor (Dark Souls)",
+    "section": "armor",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Black Iron Set\nGiant Set\nGolem Set\nGuardian Set\nHavel's Set\nSmough's Set\nStone Set\n\nElite Cleric Set\nMage Smith Set\n }\n -\nPieces=\n style=\"width:100%;\"\n valign=\"top\" style=\"width: 25%;\"\n\n valign=\"top\" style=\"width: 25%;\"\n\n valign=\"top\" style=\"width: 25%;\"\n\n valign=\"top\" style=\"width: 25%;\"\n\n }\n style=\"width:100%; font-size: 88%;\"\n valign=\"top\" style=\"width: 25%;\"\n\nBrigand Hood\nPriest's Hat\nPharis's Hat\nKnight Helm\nTattered Cloth Hood\nSorcerer Hat\nThief Mask\nWanderer Hood\nStandard Helm\n valign=\"top\" style=\"width: 25%;\"\n\nBrigand Armor\nHoly Robe\nLeather Armor\nKnight Armor\nTattered Cloth Robe\nSorcerer Cloak\nBlack Leather Armor\nWanderer Coat\nHard Leather Armor\n valign=\"top\" style=\"width: 25%;\"\n\nBrigand Gauntlets\nTraveling Gloves\nLeather Gloves\nKnight Gauntlets\nTattered Cloth Manchette\nSorcerer Gauntlets\nBlack Leather Gloves\nWanderer Manchette\nHard Leather Gauntlets\n valign=\"top\" style=\"width: 25%;\"",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b0248689-f89b-5678-b175-85a3048ed14a",
+    "title": "Armor (Dark Souls)",
+    "section": "armor",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Brigand Trousers\nHoly Trousers\nLeather Boots\nKnight Leggings\nHeavy Boots\nSorcerer Boots\nBlack Leather Boots\nWanderer Boots\nHard Leather Boots\n }\n style=\"width:100%; font-size: 88%;\"\n valign=\"top\" style=\"width: 25%;\"\n\nCrown of Dusk\nBig Hat\nMask of Velka\nBlack Sorcerer Hat\nChain Helm\nSnickering Top Hat\nMask of the Sealer\nDingy Hood\nGold-Hemmed Black Hood\nCrown of the Great Lord\nHollow Soldier Helm\nHollow Thief's Hood\nHollow Warrior Helm\nPorcelain Mask\nMaiden Hood\nCrown of the Dark Sun\nPainting Guardian Hood\nShadow Mask\nWitch Hat\nXanthous Crown\n valign=\"top\" style=\"width: 25%;\"\n\nAntiquated Dress\nSage Robe\nBlack Cleric Robe\nBlack Sorcerer Cloak\nChain Armor\nChester's Long Coat\nCrimson Robe\nDingy Robe\nGold-Hemmed Black Cloak\nRobe of the Great Lord\nHollow Soldier Armor\nHollow Thief's Armor\nHollow Warrior Armor\nLord's Blade Robe\nMaiden Robe\nMoonlight Robe\nPainting Guardian Robe\nShadow Garb\nWitch Cloak\nXanthous Overcoat\n valign=\"top\" style=\"width: 25%;\"",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cea77d5d-c99f-51ab-80f4-c6227a4045a8",
+    "title": "Armor (Dark Souls)",
+    "section": "armor",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Black Iron Helm\nGiant Helm\nGolem Helm\nGuardian Helm\nHavel's Helm\nSmough's Helm\nStone Helm\n valign=\"top\" style=\"width: 25%;\"\n\nBlack Iron Armor\nGiant Armor\nGolem Armor\nGuardian Armor\nHavel's Armor\nSmough's Armor\nStone Armor\n valign=\"top\" style=\"width: 25%;\"\n\nBlack Iron Gauntlets\nGiant Gauntlets\nGolem Gauntlets\nGuardian Gauntlets\nHavel's Gauntlets\nSmough's Gauntlets\nStone Gauntlets\n valign=\"top\" style=\"width: 25%;\"\n\nBlack Iron Leggings\nGiant Leggings\nGolem Leggings\nGuardian Leggings\nHavel's Leggings\nSmough's Leggings\nStone Leggings\n }\n style=\"width:100%; font-size: 88%;\"\n valign=\"top\"\n\nBloated Head\nBloated Sorcerer Head\nFang Boar Helm\nGargoyle Helm\nMask of the Child\nMask of the Father\nMask of the Mother\nRoyal Helm\nSack\nSunlight Maggot\nSymbol of Avarice\n }\n}}\n|-|\nComparisons=",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0ecb0d0b-2929-5582-94ca-a81e13e4ff35",
+    "title": "Bandit (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bandit (Dark Souls II) -  Dark Souls II - mechanic - lead \n lead : The **Bandit** is one of the classes in *Dark Souls 2*.\n\nIt has high Dexterity and well above average Faith, meaning it lends itself rather well towards builds focused either on both or only the former (though it will have strong competition from the Swordsman when it comes to pure Dexterity builds). It is rather unsuitable to spells, even the Miracle ones, due to its extremely low Attunement and Intelligence.\n\nBandits are actually unable to speak to Straid of Olaphis by default, the only class that can't do that, due to its extremely low Intelligence not meeting his minimum required amount of 3.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6d305dab-09d1-587a-9f5f-12d6c40a1c3f",
+    "title": "Bandit (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "There is a curious disadvantage to its high Vitality, higher than any other starting class: when using the Third Dragon Ring, it cannot receive the full benefit of the Flynn's Ring and will get a light decrease of 4 Attack Rating compared to any other class.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7c34d451-bbc4-5251-b259-99ded4514e74",
+    "title": "Bandit (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Until an unlimited source of arrows is acquired, they are best either saved for trying to pull individual enemies from groups or ambushes, or for trying to kill one of the early Ogres (either the one outside the Firekeeper's Hut in Things Betwixt at the start of the tutorial that also holds the Stone Ring, or the Scholar of the First Sin-exclusive one on the way towards the Forest of Fallen Giants) for a large amount of extra Souls.\n\nThe class's Bandit Set is actually fairly good, as it has somewhat high physical defences and is, together with the Knight's partial Falconer Set, the only starting set with decent starting Poise.\n\nDue to its very low Adaptability and Attunement it has a substandard roll (only 7 i-frames, compared to most other classes having 8 or 9 i-frames) and needs 3 points in Adaptability or 9 points in Attunement to improve this to 8 i-frames.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "966e11a6-d84a-58be-8a47-efdf2a6c1c04",
+    "title": "Bandit (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bandits are actually unable to speak to Straid of Olaphis by default, the only class that can't do that, due to its extremely low Intelligence not meeting his minimum required amount of 3.\n\nThe starting weapons are somewhat mixed, with the Short Bow following the higher starting value in Dexterity while the Hand Axe instead focuses on Strength. The Hand Axe is most likely better replaced with an actually Dexterity-focused weapon, though those are in limited supply until Blacksmith Lenigrast's shop is opened, mostly the Dagger in Things Betwixt and the Halberd in the Forest of Fallen Giants. Beyond extra weapons such as the Spear and the Rapier, Lenigrast also holds the game's first infinite supply of ammunition (merely more Wood Arrows, but still) and another Short Bow.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e0c1eaac-f93b-5eae-90f4-2d6077f93057",
+    "title": "Bandit (Dark Souls II)",
+    "section": "starting_equipment",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Bandit (Dark Souls II) -  Dark Souls II - mechanic - starting_equipment \n starting_equipment : As with all starting classes in Dark Souls 2, the Imported Set worn before the character creation can be found unequipped in the character's inventory.\nIt also starts with 10 Lifegems as an equipped consumable.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1cd24b0b-5405-579a-ae13-f2a8ab887983",
+    "title": "Budding Green Blossom",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Budding Green Blossom -  Dark Souls III - item - lead \n lead : **Budding Green Blossoms** are items in *Dark Souls III*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "547a6e39-8e62-5ecc-bad4-7bc93bd35a81",
+    "title": "Budding Green Blossom",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Budding Green Blossom -  Dark Souls III - item - availability \n availability : Irithyll of the Boreal Valley\n**Dropped by Sewer Centipedes.\n**On a corpse by the fountain with several Irithyllian Slaves and the first Fire Witch.\nFirelink Shrine\n**A unique version of this item, with a different description, is sold by the Shrine Handmaid for 10 souls after defeating Aldrich and while following Sirris's questline.\nPainted World of Ariandel\n**Three are found outside of the Corvian Settlement. After taking the ice slide, take the left-side path up an incline and down some drop-downs.\nThe Ringed City\n** Two are found on a corpse shortly after the stairs heading down from the Mausoleum Lookout bonfire, in the grass on the left.\n** Two more are found on a corpse next to the stairs leading up to the first Judicator Giant.\n** Three are found on a corpse to the left of the path leading up the Halflight, Spear of the Church arena, across from the Divine Spear Monument.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f17c6eed-60aa-5b98-aa7c-ca85ea1f90cd",
+    "title": "Ring of Steel Protection (Dark Souls II)",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Ring of Steel Protection (Dark Souls II) -  Dark Souls II - ring - effect \n effect : Ring of Steel protection adds points to your physical defense depending on the variant and they also add a hidden percentage based damage reduction for **all types of damage** except for fall damage, though this percentage based boost only works for PVE.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6479933006342229,
+    "bm25_score": null
+  },
+  {
+    "document_id": "92941f81-2b3b-5a7e-b5dc-3296ae156156",
+    "title": "Ring of Steel Protection",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Ring of Steel Protection -  Dark Souls - ring - general_information \n general_information : The Ring of Steel Protection boosts physical, strike, slash, and thrust defense by 50 points each.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6430733979904224,
+    "bm25_score": 28.526778338777554
+  },
+  {
+    "document_id": "fb18f06e-91e2-5ebe-b047-e99f6ace9cf7",
+    "title": "Ring of Favor",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Ring of Favor -  Dark Souls III - ring - description \n description : A ring symbolizing the favor of the Goddess Fina, whose \"fateful beauty\" is mentioned in legend.\n\nTrue to the fickle nature of Fina's favor, her ring increases max HP, stamina, and maximum equip load.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6373484595916873,
+    "bm25_score": 31.144681460254755
+  },
+  {
+    "document_id": "4c2bd2b9-9bea-540b-bdc6-b02e625ff823",
+    "title": "Ring of the Embedded",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Ring of the Embedded -  Dark Souls II - ring - characteristics \n characteristics : Increases VGR, END and VIT depending on how low level these stats are while increasing damage taken. Niche ring for low level runs.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6243789307876172,
+    "bm25_score": null
+  },
+  {
+    "document_id": "351709c8-46e1-5f9d-8116-018ee3722fb1",
+    "title": "Goddess Fina",
+    "section": "artifacts",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Goddess Fina -  Dark Souls III - character - artifacts \n artifacts : Ring of Favor and Protection\nSet of Favor\nRing of Favor\nSet of Favor (Dark Souls III)",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6243573733705895,
+    "bm25_score": 37.59467424553231
+  },
+  {
+    "document_id": "164e80da-32ad-5f24-9027-e41fc18b8e40",
+    "title": "Ring of Favor",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Ring of Favor -  Dark Souls III - ring - effect \n effect : ***Ring of Favor**: Increases maximum HP by 3%, Stamina by 9%, and maximum equip load by 5%.\n***Ring of Favor+1:** Increases maximum HP by 4.5%, Stamina by 10%, and maximum equip load by 6%.\n***Ring of Favor+2:** Increases maximum HP by 5%, Stamina by 11%, and maximum equip load by 7%.\n***Ring of Favor+3: **Increases maximum HP by 6%, Stamina by 12%, and maximum equip load by 8%.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6236131016139894,
+    "bm25_score": 27.61908144145943
+  },
+  {
+    "document_id": "aabc31e3-7f40-5b1e-87dc-7fe9abafe6a4",
+    "title": "Ledo's Great Hammer",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Fortunately, the DLC this weapon is found in also includes useful rings to counter some of these drawbacks (Havel's Ring +3 for its weight, Chloranthy Ring +3 for its stamina usage, and Ring of Favor +3 for both its weight and stamina usage).",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.621767773854697,
+    "bm25_score": 38.00514016338269
+  },
+  {
+    "document_id": "1807575a-bdd8-5121-a307-6d0610efe3be",
+    "title": "Hunter's Ring",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Hunter's Ring -  Dark Souls III - ring - effect \n effect : Increases Dexterity by 5.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6107743473253985,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a073466b-5142-5fab-8eb7-eaac569d6507",
+    "title": "Flynn's Ring (Dark Souls III)",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Flynn's Ring (Dark Souls III) -  Dark Souls III - ring - effect \n effect : Lowering the player's Equip Load increases attack power.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6107234620827393,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6ed8878e-42d5-53ca-8640-af4ced145201",
+    "title": "Dark Clutch Ring",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Dark Clutch Ring -  Dark Souls II - ring - effect \n effect : Increases the Dark AR stat and decreases the player's defense stats for Strike, Thrust, and Slash by 80 points each. The weapon must have a Dark attack stat for the effect to take place. The ring also increases the damage of Hexes, which deal Dark damage.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6085718323423766,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c8690dbf-8f95-55d4-829f-832e3378b46c",
+    "title": "Flynn's Ring",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Using any Royal Soldier's Ring variants is not recommended unless the player's Vitality is extremely low, as it may decrease the damage bonus given by Flynn's.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6060336494963989,
+    "bm25_score": null
+  },
+  {
+    "document_id": "136d5cd8-5062-5af9-80a3-89d5778af042",
+    "title": "Ring of Favor",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Ring of Favor -  Dark Souls III - ring - trivia \n trivia : Unlike the Ring of Favor and Protection from *Dark Souls*, which would break if removed, there is no penalty when removing the ring this time.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6038855357199189,
+    "bm25_score": 40.22782638823439
+  },
+  {
+    "document_id": "ccf71111-c23b-5c9e-b960-9801f8e1ef49",
+    "title": "Ring of Steel Protection (Dark Souls III)",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Ring of Steel Protection (Dark Souls III) -  Dark Souls III - ring - effect \n effect : ***Ring of Steel Protection**: Increases Physical damage absorption by 10%, 2% in PvP.\n***Ring of Steel Protection +1**: Increases Physical damage absorption by 13%, 3% in PvP.\n***Ring of Steel Protection +2**: Increases Physical damage absorption by 15%, 4% in PvP.\n***Ring of Steel Protection +3**: Increases Physical damage absorption by 17%, 5% in PvP.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6036973338165335,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e95d877d-b079-538e-8e19-a34b80b4903f",
+    "title": "Simpleton's Ring",
+    "section": "general_information",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Simpleton's Ring -  Dark Souls II - ring - general_information \n general_information : Invisibility while rolling.\n\nIncreases Adaptability by 5 points.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6031305707316403,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f2c5fa25-ae18-57fc-b761-4acdc2b3a3f0",
+    "title": "Ring of the Embedded",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Ring of the Embedded -  Dark Souls II - ring - effect \n effect : Increases Vigor, Endurance and Vitality by an amount that is inversely proportional to how high each attribute currently is. This means that this ring gives a smaller bonus the more points you have invested in those attributes.\nIncreases damage taken by 8.5%",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6019914333338557,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7538ebf6-1bbd-56aa-89d2-135890c654fd",
+    "title": "Dark Wood Grain Ring",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Dark Wood Grain Ring -  Dark Souls - ring - general_information \n general_information : The Dark Wood Grain Ring changes the player's roll animation to a flip, granting 13 iFrames on rolls rather than the usual 11 of all other roll types while removing Instability Frames entirely. The ring's ability only activates when the player has 25% or less equip burden. When attempting to roll in speed reducing areas (such as the swamp in Blighttown or the water in Darkroot Basin) the ring's effects are nullified, resulting in only the general fast roll rather than the flipping animation. However, if you have the Rusted Iron Ring equipped, you can flip through slowing hazards.\n\nPlayer suffers less damage in lava when flipping rather than when running through it.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5985785789963028,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6175052e-c9d5-502a-b1d9-ee731fe99cc2",
+    "title": "Ring of Life Protection",
+    "section": "see_also",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Ring of Life Protection -  Dark Souls II - ring - see_also \n see_also : Ring of Soul Protection, for a version that also protects against Petrification",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5974157290677369,
+    "bm25_score": null
+  },
+  {
+    "document_id": "793e649b-f509-5333-8e4b-a26532f77303",
+    "title": "Dark Quartz Ring",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Dark Quartz Ring -  Dark Souls II - ring - effect \n effect : Grants a varying amount of defense against Dark attacks, depending on the level of the ring.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5966396477211757,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8aa9a026-bbbe-59c3-8821-828fa4b4e7c0",
+    "title": "Ring of Binding",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Ring of Binding -  Dark Souls II - ring - effect \n effect : Limits HP reduction when Hollowing by 25%, and stops HP reduction at 75% instead of 50%.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5949214710959474,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c219e2a8-7a1e-5705-852d-b6fa7c4bf5ed",
+    "title": "Ring of Resistance",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Ring of Resistance -  Dark Souls II - ring - description \n description : A protective ring adorned with four blessed gems. Increases resistance to poison, bleeding, weapon breakage and curses.\n\nA creation of the lost land of Olaphis. The sorcerer who created this was so powerful that he became widely feared.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5947464753389999,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c0ebec43-2cff-5f90-94f3-001342ba1961",
+    "title": "Havel's Ring (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Havel's Ring (Dark Souls III) -  Dark Souls III - ring - description \n description : A ring for warriors keen on heavy accoutrements. Increases maximum equip load.\n\nThis ring was named after Havel the Rock, the battlefield compatriot of Gwyn, the First Lord.\n\nThe art of war has been a constant since ages past, and those who follow in Havel's footsteps are no fewer now than in his own day.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.594179097218264,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ebab0a9a-a3d6-5f53-880e-babb94978500",
+    "title": "Spell Quartz Ring",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Spell Quartz Ring -  Dark Souls II - ring - effect \n effect : Grants a varying amount of defense against Magic attacks, depending on the level of the ring.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5919853958768297,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1ad7a290-705e-5c63-a765-34b126f2fbfa",
+    "title": "Dark Clutch Ring (Dark Souls III)",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Dark Clutch Ring (Dark Souls III) -  Dark Souls III - ring - effect \n effect : Increases damage dealt by Dark sources, including weapons, by 15% while reducing physical damage absorption by 10%. In PvP, Dark attack is increased by 8% and physical absorption is reduced by 15%.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5916790481943393,
+    "bm25_score": null
+  },
+  {
+    "document_id": "da633b36-a24a-5819-96b7-18a09b64a3a4",
+    "title": "Knight's Ring",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Knight's Ring -  Dark Souls III - ring - effect \n effect : Increases Strength by 5.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5910269086344442,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2a89542e-0f56-5d15-a278-ee3bcb5fe230",
+    "title": "Calamity Ring (Dark Souls III)",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Calamity Ring (Dark Souls III) -  Dark Souls III - ring - effect \n effect : Reduces all absorption values by 100%, causing all incoming attacks to deal twice as much damage.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5891728969201835,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1408288f-aa16-5b8b-89d0-91c2733e9d8c",
+    "title": "Fire Clutch Ring",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Fire Clutch Ring -  Dark Souls II - ring - effect \n effect : Increases the Fire AR stat and decreases the player's defense stats for Strike, Thrust, and Slash by 80 points each. The weapon must have a Fire attack stat for the effect to take place. The ring also increases the damage of Pyromancies, which deal Fire damage.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5886919289541523,
+    "bm25_score": null
+  },
+  {
+    "document_id": "672ad937-a1e9-56c4-9cdd-2375a302333f",
+    "title": "Hornet Ring",
+    "section": "effect",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Hornet Ring -  Dark Souls - ring - effect \n effect : Boosts critical attack damage (backstabs and ripostes) by 30%.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5881147582459794,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e7908927-6fdb-59a8-8563-afd32ec95b79",
+    "title": "Second Dragon Ring",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Second Dragon Ring -  Dark Souls II - ring - effect \n effect : Similarly to the Ring of Favor and Protection in *Dark Souls*, the Second Dragon Ring boosts Health by 5% as well as Stamina and Equip Load by 10%. However, it has very low Durability and can easily be broken if care is not taken, this is especially true during PvP combat as successive matches may lead to the ring being broken from losses.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.588065340027268,
+    "bm25_score": 29.118480017933706
+  },
+  {
+    "document_id": "14fbb4e1-f4f5-58c8-aa39-75f28ad21f71",
+    "title": "Life Ring",
+    "section": "effects",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Life Ring -  Dark Souls II - ring - effects \n effects : The standard version raises maximum HP by 5%, the +1 variant by 7.5%, the +2 variant by 12.5%, and the +3 variant by 15%.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5880317272965593,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1bcd3d21-0b66-52da-b083-074dde770169",
+    "title": "Magic (Dark Souls III)",
+    "section": "rings",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Magic (Dark Souls III) -  Dark Souls III - mechanic - rings \n rings : Magic Clutch Ring increases magic damage at the cost of all physical absorption.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5858904791945081,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e3c412f9-c6a0-599e-bd9c-b0805fc5db6a",
+    "title": "Flame Quartz Ring",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Flame Quartz Ring -  Dark Souls II - ring - effect \n effect : Grants a varying amount of defense against Fire attacks, depending on the level of the ring.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5857689803314112,
+    "bm25_score": null
+  },
+  {
+    "document_id": "37fb6146-8cf5-5a20-836c-88d67f446f1d",
+    "title": "Ring of Restoration",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Ring of Restoration -  Dark Souls II - ring - effect \n effect : Restores 3 HP every 1.5 seconds.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5857606748672411,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cae758af-be51-58a7-93a0-c477c6edaa17",
+    "title": "Thrust (Dark Souls III)",
+    "section": "increase_resistance",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Thrust (Dark Souls III) -  Dark Souls III - mechanic - increase_resistance \n increase_resistance : Equipment with resistance to Thrust\nSacred Oath\nBlue Tearstone Ring (when health below 20%)\nLloyd's Shield Ring (when full health)\nRing of Steel Protection\nDeep Protection",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5844498024566485,
+    "bm25_score": null
+  },
+  {
+    "document_id": "db39bc82-62a4-59c0-8117-f4a2ffd518b9",
+    "title": "Silvercat Ring (Dark Souls III)",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Silvercat Ring (Dark Souls III) -  Dark Souls III - ring - effect \n effect : Nullifies all fall damage from survivable falls. Does not prevent damage from lethal falls, such as being too high or out of boundaries.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5842466319884141,
+    "bm25_score": null
+  },
+  {
+    "document_id": "366619f2-dc95-510f-89a2-56a2c041d724",
+    "title": "Scholar Ring",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Scholar Ring -  Dark Souls III - ring - effect \n effect : Increases Intelligence by 5 while equipped.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5842287326276661,
+    "bm25_score": null
+  },
+  {
+    "document_id": "30c42f3a-4a1e-5e36-960e-b4f358e4dbdd",
+    "title": "Red Tearstone Ring (Dark Souls III)",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Red Tearstone Ring (Dark Souls III) -  Dark Souls III - ring - effect \n effect : Boosts attack by 20% when HP is below 20%.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5842119560994288,
+    "bm25_score": null
+  },
+  {
+    "document_id": "15e3eb13-d719-5e0d-82d4-efa80964ce30",
+    "title": "Ring of Steel Protection (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Ring of Steel Protection (Dark Souls III) -  Dark Souls III - ring - description \n description : Ring of the Knight King of ancient legend. Increases physical damage absorption.\n\nThe Knight King was said to be lined with steel on the inside, such that even the talons of mighty dragons did him little harm.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5839588465515292,
+    "bm25_score": null
+  },
+  {
+    "document_id": "efd6b55a-2a53-563f-a1e0-2676ece5dfb9",
+    "title": "Havel's Ring (Dark Souls III)",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Havel's Ring (Dark Souls III) -  Dark Souls III - ring - effect \n effect : ***Havel's Ring**: Increases maximum equip load by 15%.\n***Havel's Ring+1**: Increases maximum Equip Load by 17%.\n***Havel's Ring+2**: Increases maximum Equip Load by 18%.\n***Havel's Ring+3**: Increases maximum Equip Load by 19%.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5829205957496042,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d1b4d870-0ebb-5724-902d-dba6353eac8f",
+    "title": "Leo Ring (Dark Souls III)",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Leo Ring (Dark Souls III) -  Dark Souls III - ring - effect \n effect : Increases Counter Attack damage by 15%, causing them to deal a total of 49.5% more damage.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5824823117524703,
+    "bm25_score": null
+  },
+  {
+    "document_id": "02b1c461-6ad9-51ae-8581-c018d4e01330",
+    "title": "Mask of the Father",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "The Mask of the Father's burden increase perk stacks with those of other items: Havel's Ring (+50% equip burden) and the Ring of Favor and Protection (+20%). These effects stack multiplicatively rather than additively, which can make for very potent armor combinations. This is often employed as a build strategy for characters with high Endurance, as they can obtain heavy defenses and immense Poise while retaining speed and mobility.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5816638882193651,
+    "bm25_score": 32.55019626236307
+  },
+  {
+    "document_id": "8d22a3bb-2f80-5d2c-980a-c30db8e6b049",
+    "title": "Life Ring (Dark Souls III)",
+    "section": "effect",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Life Ring (Dark Souls III) -  Dark Souls III - ring - effect \n effect : ***Life Ring**: Raises maximum HP by 7%.\n***Life Ring+1**: Raises maximum HP by 8%.\n***Life Ring+2**: Raises maximum HP by 9%.\n***Life Ring+3**: Raises maximum HP by 10%.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5816234809832166,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c4873a8d-c1e7-57ad-bb79-152575c74128",
+    "title": "The Ringed City",
+    "section": "rings",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Ringed City -  Dark Souls III - mechanic - rings \n rings : Chloranthy Ring+3\nCovetous Gold Serpent Ring+3\nCovetous Silver Serpent Ring+3\nHavel's Ring+3\nRing of Favor+3\nRing of Steel Protection+3\nRing of the Evil Eye+3\nWolf Ring+3",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 46.45486786104573
+  },
+  {
+    "document_id": "8b5c0a9e-6bcb-571d-a0ed-ef3ee951881f",
+    "title": "Anor Londo",
+    "section": "rings",
+    "game": "Dark Souls",
+    "entity_type": "location",
+    "snippet": "Anor Londo -  Dark Souls - location - rings \n rings : Darkmoon Blade Covenant Ring\nHawk Ring\nLeo Ring\nRing of Favor and Protection\nRing of the Sun's Firstborn\nRing of the Sun Princess\nTiny Being's Ring",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 35.677915314204334
+  },
+  {
+    "document_id": "54955960-a017-54a7-bbfd-96fbc8b5a180",
+    "title": "Endurance (Dark Souls)",
+    "section": "equipment_load",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Endurance (Dark Souls) -  Dark Souls - mechanic - equipment_load \n equipment_load : Equipment load determines how much equipment the player can equip before being affected by movement penalties. The softcap for endurance is 40 in terms of carry weight. The Mask of the Father, Havel's Ring, and Ring of Favor and Protection also improve equipment load. Though Mask of the Father is so heavy it usually cancels out its own effect.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 35.113009008586964
+  },
+  {
+    "document_id": "05f5580a-a9dc-5e4a-aad7-e72a1c92d3ba",
+    "title": "Stamina (Dark Souls)",
+    "section": "modifiers",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Stamina (Dark Souls) -  Dark Souls - mechanic - modifiers \n modifiers : The player's maximum stamina can be raised by increasing the endurance stat while leveling up, until reaching 160 stamina at 40 endurance. Increasing endurance past 40 does not further affect the maximum stamina.\n\nThe only other way to raise the maximum stamina is equipping the Ring of Favor and Protection, which raises maximum stamina by 20%. By having both 40 endurance and the Ring of Favor and Protection equipped, the player's maximum stamina can be raised to a total of 192 points.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 34.5693731601396
+  },
+  {
+    "document_id": "6b8520a2-f18c-5bf1-8a15-9a0b1238d95d",
+    "title": "Lingering Dragoncrest Ring (Dark Souls III)",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Lingering Dragoncrest Ring (Dark Souls III) -  Dark Souls III - ring - notes \n notes : Does not affect the duration of effects granted by using skills.\nThe ring reduces the decay rate of the buff while it is worn. This means that the ring must be constantly equipped in order to benefit from the increased duration.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 33.95246680528661
+  },
+  {
+    "document_id": "b94b0829-7291-5929-ab05-5b06cb4d5466",
+    "title": "Chloranthy Ring (Dark Souls III)",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Chloranthy Ring (Dark Souls III) -  Dark Souls III - ring - availability \n availability : ***Chloranthy Ring**\n**Found at the bottom of a tower in the Undead Settlement. Jump off the lift that leads to the Road of Sacrifices while riding its upper part and onto a wooden scaffolding, then follow the only path available, fighting a Demon with Siegward along the way. Once reaching the rooftop of the next house, jump toward a nearby tower and enter it. Make way to the bottom and the ring can be found behind some wooden crates, near to the Mirrah Set.\n***Chloranthy Ring+1** (NG+)\n**Found in Irithyll of the Boreal Valley, behind the pedestal that holds the Ring of the Sun's First Born.\n***Chloranthy Ring+2** (NG++)\n**Found in the Road of Sacrifices. Drop to a small ledge just to the left of the first Corvian Storyteller to find the ring.\n***Chloranthy Ring+3 (The Ringed City)**",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.597708815808144
+  },
+  {
+    "document_id": "61f68e13-355f-5759-838a-02191f86d9c1",
+    "title": "Ring of Favor",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Ring of Favor -  Dark Souls III - ring - lead \n lead : The **Ring of Favor** is a ring in *Dark Souls III*.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 31.43071751420446
+  },
+  {
+    "document_id": "72d5f7bf-2833-5acc-8b21-437d3012386d",
+    "title": "Ring of Favor",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Ring of Favor -  Dark Souls III - ring - availability \n availability : ***Ring of Favor**\n**Found in Irithyll of the Boreal Valley. Dropped by one of the two Sulyvahn's Beasts lurking in the Water Reserve.\n***Ring of Favor+1** (NG+)\n**Found in Irithyll of the Boreal Valley, along the rafters above Pontiff Sulyvahn's boss room.\n***Ring of Favor+2** (NG++)\n**Found in the Cathedral of the Deep. On the rooftops leading to the rafters, the ring can be found in an alcove to the left, guarded by a Large Devout of the Deep.\n***Ring of Favor+3**\n**Found in The Dreg Heap. In the swamp past the Earthen Peak Ruins bonfire. Located up a large root straight ahead from where you enter the swamp.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.89270885945758
+  },
+  {
+    "document_id": "2d005808-e654-50c8-a102-5abc8c0d6a70",
+    "title": "Gower's Ring of Protection",
+    "section": "effect",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Gower's Ring of Protection -  Dark Souls II - ring - effect \n effect : Gower's Ring of Protection reduces damage (including backstabs) taken from behind by half for up to five hits, after which it breaks. Its effect can be extended with the Bracing Knuckle Ring.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.707986670398128
+  },
+  {
+    "document_id": "bafd46fd-8297-54f1-81bf-cca5315ccd30",
+    "title": "Sacred Oath",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "spell",
+    "snippet": "The buffs added are the same as if the player was wearing the Ring of Blades +2 and the Ring of Steel Protection +1, respectively.\nThe spell duration boost of Lingering Dragoncrest Ring and Northwarder Set do not work in conjunction with Sacred Oath.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.59645964189727
+  },
+  {
+    "document_id": "c05a425b-ae7d-5574-9029-2de5e2ad740f",
+    "title": "Heavy Armor Sets (Dark Souls III)",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "armor",
+    "snippet": "Heavy Armor Sets (Dark Souls III) -  Dark Souls III - armor - characteristics \n characteristics : Heavy armor sets provide the strongest defenses and the most Poise. However, they are also extremely costly in weight, meaning that the wearer must invest heavily in Vitality if they intend to use heavy armor.\n\nBecause of the high absorption values and the great amount of Poise provided, heavy armor is ideal protection for players who intend to equip ultra weapons and perform Hyper Armor trades with opponents. Ultra weapons tend to weigh a lot and cost tremendous amounts of stamina to swing, so equipment such as Havel's Ring and Chloranthy Ring tend to go hand-in-hand with such builds.\n\nBecause virtually all heavy sets are plate metal-based, most sets in this category tend to be weak to Strike damage and Lightning attacks, though exceptions do exist. Their plate metal nature, however, also tends to make them highly resistant to Slash damage and Bleed buildup.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.200689065016856
+  },
+  {
+    "document_id": "46faf98d-185c-5f1e-8754-0dbf4f90e62f",
+    "title": "Gower's Ring of Protection",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Gower's Ring of Protection -  Dark Souls II - ring - notes \n notes : Gower's Ring of Protection is the heaviest ring in *Dark Souls II*.\nWearing this ring places a ghost on the back of the player.\nPatch 1.06 reduced the effectiveness of Gower's Ring of Protection. It now only reduces the damage taken, no longer completely negating the damage.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 30.053054590471653
+  },
+  {
+    "document_id": "37afd240-36f4-536e-b826-4cf42d17a21c",
+    "title": "Ring of Steel Protection",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Ring of Steel Protection -  Dark Souls - ring - lead \n lead : The **Ring of Steel Protection** is a ring in *Dark Souls*.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.99516241295162
+  },
+  {
+    "document_id": "35c428ff-064d-5cff-baad-457fb9e0e481",
+    "title": "Chloranthy Ring (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Chloranthy Ring (Dark Souls III) -  Dark Souls III - ring - lead \n lead : The **Chloranthy Ring** is a ring in *Dark Souls III*.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.96880791612394
+  },
+  {
+    "document_id": "e6835c0a-df72-58b4-8423-a1e638880155",
+    "title": "King's Ring",
+    "section": "usage_effects",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "In addition to this King's Ring also adds a flat 5 Points of Fire AR. In the same vein as Ring of Blades and the Clutch rings do, it will add the full flat 5 Fire AR to Pyromancies and uninfused weapons with innate Fire Damage. Weapons that are infused with fire will receive even less of a benefit, about half the addition to Fire AR which comes out to about 2 points depending on how the game decides to round the number.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.96604570271144
+  },
+  {
+    "document_id": "54766b41-d93d-54ad-8d3a-8aeaabef01cd",
+    "title": "Ring of Life Protection",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Ring of Life Protection -  Dark Souls II - ring - lead \n lead : The **Ring of Life Protection** is a ring in *Dark Souls II*.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.644622480821436
+  },
+  {
+    "document_id": "c19df6ad-5ada-5841-ad36-10a2c7dddc02",
+    "title": "Ring of Soul Protection",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Ring of Soul Protection -  Dark Souls II - ring - lead \n lead : The **Ring of Soul Protection** is a ring in *Dark Souls II*.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.644622480821436
+  },
+  {
+    "document_id": "1238afcc-bea5-517b-8e97-0ae82c64ebc8",
+    "title": "Knight King Rendal",
+    "section": "artifacts",
+    "game": "Dark Souls III",
+    "entity_type": "character",
+    "snippet": "Knight King Rendal -  Dark Souls III - character - artifacts \n artifacts : Silver Coin\nRing of Steel Protection\nRing of Steel Protection (Dark Souls II)\nRing of Steel Protection (Dark Souls III)",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.538984095158412
+  },
+  {
+    "document_id": "48de8d86-fd26-5ed1-9ed7-29b5b9d35d72",
+    "title": "Ivory Rhones",
+    "section": "artifacts",
+    "game": "Dark Souls II",
+    "entity_type": "character",
+    "snippet": "Ivory Rhones -  Dark Souls II - character - artifacts \n artifacts : Ring of Life Protection\nRing of Soul Protection",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.448700575664493
+  },
+  {
+    "document_id": "c621ca1a-5af6-57d7-92bf-fe6cd66b6431",
+    "title": "Lloyd's Sword Ring",
+    "section": "notes",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Lloyd's Sword Ring -  Dark Souls III - ring - notes \n notes : The ring's effect triggers at about 98% of the player's HP, allowing them to take a small amount of damage and still gain the attack boost.\nThe ring does not affect the damage of consumable items, such as throwing knives and firebombs",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.375947818150657
+  },
+  {
+    "document_id": "72c41da4-19cd-54c3-94a3-fca455529424",
+    "title": "Ring of the Evil Eye",
+    "section": "effect",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Ring of the Evil Eye -  Dark Souls - ring - effect \n effect : The Ring of the Evil Eye absorbs 30 HP from each enemy killed.\n\nGroups of enemies killed together grant only 30 HP in total. To get the full benefit of the Ring of the Evil Eye, kills must be spaced out.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.262935863060136
+  },
+  {
+    "document_id": "f8fbef33-7cfa-5bcf-9470-a9d7a1c8f1f0",
+    "title": "Ring of Steel Protection (Dark Souls II)",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Ring of Steel Protection (Dark Souls II) -  Dark Souls II - ring - availability \n availability : ***Ring of Steel Protection**\n**Gifted to the player by Crestfallen Saulden after one hundred deaths, or dropped if killed.\n***Ring of Steel Protection +1**\n**Gifted to the player by Lucatiel of Mirrah upon meeting her for the third time.\n***Ring of Steel Protection +2** (NG+)\n**Dropped by the Looking Glass Knight.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.20824165712602
+  },
+  {
+    "document_id": "4b41d4c1-8716-5c3b-8f4e-adece5ea0cc7",
+    "title": "Ring of Steel Protection (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "ring",
+    "snippet": "Ring of Steel Protection (Dark Souls II) -  Dark Souls II - ring - lead \n lead : The **Ring of Steel Protection** is a ring in *Dark Souls II*.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.13583060058931
+  },
+  {
+    "document_id": "7b53cab1-dcf1-5652-98ea-48bc2cf0679e",
+    "title": "Ring of Steel Protection (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Ring of Steel Protection (Dark Souls III) -  Dark Souls III - ring - lead \n lead : The **Ring of Steel Protection** is a ring in *Dark Souls III*.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 29.13583060058931
+  },
+  {
+    "document_id": "f3488680-5c48-5c85-8c1e-5d38ef58bbec",
+    "title": "Forest of Fallen Giants",
+    "section": "rings",
+    "game": "Dark Souls II",
+    "entity_type": "location",
+    "snippet": "Forest of Fallen Giants -  Dark Souls II - location - rings \n rings : Chloranthy Ring\nFlame Quartz Ring+1\nHawk Ring\nLife Ring\nRing of Blades\nRing of Restoration",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.68154155764158
+  },
+  {
+    "document_id": "4013ccf4-6181-5317-8741-61446152bc3d",
+    "title": "Havel's Ring (Dark Souls III)",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Havel's Ring (Dark Souls III) -  Dark Souls III - ring - availability \n availability : ***Havel's Ring**\n**Obtained by transposing the Soul of a Stray Demon with Ludleth of Courland.\n***Havel's Ring+1** (NG+)\n**Found in Archdragon Peak, on a corpse lying immediately to the left after exiting the room where the big mob of Man Serpents were hiding, on the path that leads to the altar that bestows the Twinkling Dragon Torso Stone.\n***Havel's Ring+2** (NG++)\n**Found in Anor Londo, in the Prison Tower where Captain Yorshka resides. Drop down the tower and the ring will be on the third corpse, after the Painting Guardian's Curved Sword and the Painting Guardian Set.\n***Havel's Ring+3** (*The Ringed City* DLC).\n**After defeating Silver Knight Ledo, drop down from the stone path that led you to the broken tower. The ring is on a ledge after falling down a few times.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.498213602040778
+  },
+  {
+    "document_id": "88851777-f98b-51a8-986b-b080d2e4f1c1",
+    "title": "Ring of Steel Protection (Dark Souls III)",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "Ring of Steel Protection (Dark Souls III) -  Dark Souls III - ring - availability \n availability : ***Ring of Steel Protection**\n**Found in Archdragon Peak, at the ruins where the Ancient Wyvern initially appears. Complete the boss fight and return to the initial area beyond the main gate. At the main fork in front of the bell, turn right into an area with three lootable corpses and approach the ledge on the right. Walk around the railing and onto a narrow path that leads to a corpse holding the ring.\n***Ring of Steel Protection +1** (NG+)\n**Found in the Untended Graves, on a corpse lying to the right of the tower behind the shrine.\n***Ring of Steel Protection +2** (NG++)\n**Found in the Catacombs of Carthus, on top of a small pillar below the left side of the first stone bridge.\n***Ring of Steel Protection +3**",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.242829867972635
+  },
+  {
+    "document_id": "1b31f39d-387e-58f0-9a24-1fdeb6849c31",
+    "title": "Mask of the Mother",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "armor",
+    "snippet": "Mask of the Mother -  Dark Souls - armor - characteristics \n characteristics : When worn, the Mask of the Mother increases maximum HP by 10% . Compared to other head armor, the Mask of the Mother is very light, has poor defense and resistances, and cannot be upgraded.\n\nThe Mask of the Mother's HP-boosting effect stacks and compounds with the Tiny Being's Ring and the Ring of Favor and Protection.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 28.033686243264373
+  },
+  {
+    "document_id": "0f198c83-38b2-58df-895d-eb00237b84aa",
+    "title": "Ring of Condemnation",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "ring",
+    "snippet": "Ring of Condemnation -  Dark Souls - ring - lead \n lead : The **Ring of Condemnation** is a ring which was removed from the final release of *Dark Souls*.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.607537100950545
+  },
+  {
+    "document_id": "057370b6-7663-501e-9b85-1e9353352dc6",
+    "title": "Chloranthy Ring (Dark Souls III)",
+    "section": "availability",
+    "game": "Dark Souls III",
+    "entity_type": "ring",
+    "snippet": "***Chloranthy Ring+2** (NG++)\n**Found in the Road of Sacrifices. Drop to a small ledge just to the left of the first Corvian Storyteller to find the ring.\n***Chloranthy Ring+3 (The Ringed City)**\n**Found in the Ringed City, being held by the statue of Gwyn before the Church of Filianore. On the elevator that leads up to the Ringed Inner Wall bonfire, there is a secret path that eventually leads to a drop-down to the statue.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.500904301185848
+  },
+  {
+    "document_id": "d2925a26-23f8-537c-b14e-13678159e0e1",
+    "title": "Equipment Load (Dark Souls)",
+    "section": "modifiers",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Equipment Load (Dark Souls) -  Dark Souls - mechanic - modifiers \n modifiers : The primary modifier for the maximum equipment load is the stat endurance. The player character's maximum equip load equals 40 plus their endurance.\n\nThe following items can be used to further increase maximum equipment load:\n\nThe Mask of the Father increases the maximum equipment load by 5%.\nThe Ring of Favor and Protection increases the maximum equipment load by 20%.\nHavel's Ring increases the maximum equipment load by 50%.\n\nThe effects of the items stack multiplicatively. Equipping all three items raises the maximum equipment load by a total of 89%.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 27.445865820608788
+  }
+]

@@ -1,0 +1,2213 @@
+[
+  {
+    "document_id": "06d2b091-bb9f-52ab-ad6e-77b8d91db414",
+    "title": "Assassin (class)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The Assassin Set has only moderate physical defences but has good magic and fire defences, and high overall resistances against anything that isn't Bleed.\n\nWhile the **Assassin** doesn't have any ranged attack, its Spook Sorcery is extremely useful for removing most non-fatal fall damage and for completely silencing footsteps for 20 seconds, allowing certain obstacles to be bypassed . Unfortunately, while the starting Sorcerer's Staff is a fairly good spell tool, if not exactly the best, it won't actually start to gain scaling from stats until Intelligence has reached at least 19, delaying a possible strengthening of the character's Sorceries.\n\nPicking up the Soul Arrow Sorcery from the Shrine Handmaid gives a reusable ranged attack early on, while the weapon buffing Magic Weapon Sorcery can be gained in either Undead Settlement or Road of Sacrifices to add some of a Staff's spellbuff to weapon damage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "44bf2719-6135-5d30-8047-98c3c0218242",
+    "title": "Assassin (class)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Assassin (class) -  Dark Souls III - mechanic - lead \n lead : The **Assassin** is one of the classes in *Dark Souls 3*.\n\nIt is a Dexterity-based class with decent Attunement for Weapon Arts and spells and some Intelligence for Sorceries.\n\nAn unusually long Thrusting Sword, the Estoc is also quite strong and has a rare sweeping heavy attack for hitting several or agile foes easier, at the cost of not having an increased critical modifier for Ripostes and Backstabs. Additionally, its Weapon Art, Shield Splitter, helps with its bad damage to the stamina of blocking targets by partially bypassing the defences of the block instead.\n\nIts Targeting Shield, while not very suitable for blocking, is one of the game's three parrying shields and as such its Parry starts slightly earlier yet ends as late as the regular parry.\n\nThe Assassin Set has only moderate physical defences but has good magic and fire defences, and high overall resistances against anything that isn't Bleed.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f0e3eb8b-402e-549e-abc1-e66be5b103f0",
+    "title": "Assassin (class)",
+    "section": "trivia",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Assassin (class) -  Dark Souls III - mechanic - trivia \n trivia : This class is fairly popular amongst speedrunners thanks to Spook making it possible to easier skip foes and falls.\nWhile the Assassin doesn't have any direct equivalent class in the Dark Souls series, it does bear some resemblance to the Royalty class from FromSoftware's previous game Demon's Souls, another Dexterity/Intelligence-based class wielding a thrusting sword (in that case a Rapier) and a small shield while also providing access to a Sorcery-like spell (though in the Royalty's case it is the offensive Soul Arrow, not a self-buffing spell).",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "026d30be-0113-5c52-b06e-cee67330f4ab",
+    "title": "Backstab",
+    "section": "weapons",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Backstab -  Dark Souls - mechanic - weapons \n weapons : The following is a list of weapons that *cannot* backstab.\nBows\nCrossbows\nCatalysts\nTalismans\nPyromancy Flames\nWhips *\nShields\nWhips can only backstab, and riposte, in *Dark Souls II*.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5398871301621928,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1724d7b8-42b6-58f3-ac3d-426a639e833e",
+    "title": "Backstab",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Most humanoid enemies can be backstabbed. Most enemies that can be parried and riposted can also be backstabbed. Some non-humanoid enemies, such as the Fang Boar in the Undead Parish (but not the ones in Anor Londo), can also be backstabbed, but generally non-humanoid enemies are impossible to backstab.\n\nIt is possible for two players or monsters to backstab a single target at once (each dealing their standard backstab damage). This requires precise timing and positioning, however.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6204960672546757,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b5d39861-6c21-52d2-95f3-0bb13611c578",
+    "title": "Backstab",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Backstab -  Dark Souls - mechanic - lead \n lead : **Backstabs** are a form of critical attack and gameplay mechanic in *Dark Souls,* *Dark Souls II,* and *Dark Souls III*.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5118087705367046,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d60c1271-e492-510f-9807-e34d36d1b704",
+    "title": "Backstab",
+    "section": "enemies",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Backstab -  Dark Souls - mechanic - enemies \n enemies : When an enemy page displays information on backstabbing (*Backstab*, under *Characteristics*), this refers to whether or not the enemy can be backstabbed.\n\nInformation on whether the enemy can perform backstabs will be listed under *Abilities* and are also displayed here:\nForest Hunter Thief\nForest Hunter Bandit\nForest Hunter Knight\nHollow Thief\nPainting Guardian\nBalder Knight\nSilver Knight",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5686271455190409,
+    "bm25_score": 18.518415636743743
+  },
+  {
+    "document_id": "da6fbf6c-771d-5bf4-a969-addb54002808",
+    "title": "Backstab",
+    "section": "difference_between_games",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Backstab -  Dark Souls - mechanic - difference_between_games \n difference_between_games : The difference is very slight although most players report that backstabbing seems harder in *Dark Souls II*. It feels that the 'backstab window' is a bit narrow in the second game. Also for safer backstabbing in *Dark Souls* it's usually better to move a little bit towards the enemy's right shoulder, and in *Dark Souls II* towards their left shoulder. *Dark Souls III* seems to nearly mirror *Dark Souls*.\n\nIt is far easier to backstab in the first game as you can be backstabbed even while rolling and in the second game you may roll away to avoid it.",
+    "sources": [
+      "template",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 26.358950361272694
+  },
+  {
+    "document_id": "e078c123-564d-5ab2-ad84-803a97bf072d",
+    "title": "Backstab",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Backstab -  Dark Souls - mechanic - general_information \n general_information : Players may perform a backstab if they position themselves behind a humanoid enemy and do a light attack with shield down. Enemies must be on roughly the same level surface as the player. Backstabs can be performed with nearly every type of weapon, although exceptions exist (see below).\n\nBackstabs deal high damage based on the damage of the weapon and its critical rate.\n\nBackstabs cannot be interrupted. While in the motion of backstabbing, both the perpetrator and the victim are granted invincibility frames and cannot take further damage except for damage-over-time effects such as being poisoned, under the effects of toxic, or while using Power Within. An exception to invincibility frames is *Dark Souls II*, where you can still take damage during a backstab although the damage is reduced.",
+    "sources": [
+      "template",
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6068158768400043,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1db03eb7-6d12-5a6b-adf0-0a607f5407c7",
+    "title": "Balder Knight",
+    "section": "lore",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Balder Knight -  Dark Souls - enemy - lore \n lore : Balder Knights came to Lordran in large numbers along with their king, Knight King Rendal, seeking a cure for the Undead curse. However, none were able to defeat the Iron Golem, and they ended up as Hollows in the Undead Parish or Sen's Fortress.\n\nIt is possible that at least one Balder Knight managed to enter Anor Londo, becoming a member of the Darkmoon covenant.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "499392ed-9e32-5eb0-abea-0c9f4cad91ff",
+    "title": "Balder Knight",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Balder Knight -  Dark Souls - enemy - location \n location : Balder Knights are located in the Undead Parish, and Sen's Fortress.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "958c168e-cdea-52c6-8d8b-7d3d55445a6f",
+    "title": "Balder Knight",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Balder Knight -  Dark Souls - enemy - lead \n lead : **Balder Knights** are enemies in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "98354f99-05ea-5a71-b287-9c88ef6293bd",
+    "title": "Balder Knight",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Balder Knight -  Dark Souls - enemy - general_information \n general_information : There are three varieties of Balder Knights: Side Sword, Rapier, and Crossbow. Those wielding rapiers are stronger and drop more souls.\n\nThe Rapier variant of the Balder Knight can switch stances, holding its weapon at chest level, pointed at the player. While its stance is altered thus, the Balder Knight can parry.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a1a3bf9c-a25e-553e-b99e-9418d8a41837",
+    "title": "Balder Knight",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Balder Knight -  Dark Souls - enemy - trivia \n trivia : Several corpses of Balder knights can be found in the Undead Parish and Sen's Fortress, and are the only preplaced corpses in the game to have armor on their dead body.\nTheir armor has a similar design to the armor worn by Guts, the protagonist of the *Berserk* anime/manga, during its Golden Age arc.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c9bc8d87-4979-523b-a01e-5fd11774131f",
+    "title": "Balder Knight",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Balder Knight -  Dark Souls - enemy - strategy \n strategy : Balder Knights have a fair amount of health, and are a considerable threat to new characters. Even one-on-one, they can be very dangerous.\n\nAny ranged attack is useful against them, but they are fast and will close the gap quickly. Firebombs can be very useful in defeating them.\n\nCritical attacks, such as the Parry and Riposte and Backstab, are exceedingly efficient methods to dispatch these enemies.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0f7977ca-7d81-5dfe-9a97-bd3fe476bf5f",
+    "title": "Bastard Sword (Dark Souls II)",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Bastard Sword (Dark Souls II) -  Dark Souls II - weapon - description \n description : A standard greatsword.\n\nHeavy greatswords are designed to be wielded two-handed.\n\nNormally swung in large arcs and effective against multiple foes, be wary that such attacks leave the wielder wide open.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6adf54d7-96ff-5908-a27f-b6726775ed77",
+    "title": "Bastard Sword (Dark Souls II)",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Bastard Sword (Dark Souls II) -  Dark Souls II - weapon - availability \n availability : Found on a corpse in the Forest of Fallen Giants near the Soldier's Rest bonfire.\nDropped by greatsword-wielding Hollow Soldiers in the Forest of Fallen Giants.\nPurchased from Steady Hand McDuff for 3,000 souls.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "989bd944-29ce-514f-8b3c-a40d7bd8f32f",
+    "title": "Bastard Sword (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Bastard Sword (Dark Souls II) -  Dark Souls II - weapon - lead \n lead : The **Bastard Sword** is a greatsword in *Dark Souls II*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d0a49060-b569-5614-8b3e-1a495cae76e6",
+    "title": "Bastard Sword (Dark Souls II)",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Bastard Sword (Dark Souls II) -  Dark Souls II - weapon - notes \n notes : Upgraded with Titanite.\nBastard Sword+10 has 280 base damage and C/C/-/-/-/- scaling.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d2e92785-d60f-5aff-a5aa-19679ac81e7f",
+    "title": "Bastard Sword (Dark Souls II)",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Although the Claymore may be considered better, the Bastard Sword's only true weakness is the absence of any easy-to-use thrust, being limited to the rolling attack.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d3e1c6d0-1b29-509d-aaaa-ddee477fe5fc",
+    "title": "Bastard Sword (Dark Souls II)",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Bastard Sword (Dark Souls II) -  Dark Souls II - weapon - characteristics \n characteristics : The Bastard Sword is a fairly strong greatsword that is available near the start of the player's journey.\n\nThe low stat requirement and ease of access generally gives the Bastard Sword the role of an early-game weapon that is only used until it can be switched for a stronger weapon. Despite this, it can still hold its own in the late-game due to its relatively high base damage. This is especially true of characters that use spell buffs as the damage buffs provide is determined mainly by the base AR of the weapon and affinity with infusions.\n\nIt has the same moveset as the Claymore, save for the strong attacks, which are overhead swings instead of thrusts. The fast attacks combine with the high Poise break to allow the weapon to stagger most enemies, including PvP opponents, with ease.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7800a98a-c85d-5ee0-8d5e-3ff3a16900b6",
+    "title": "Battle Axe (Dark Souls II)",
+    "section": "general_information",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Battle Axe (Dark Souls II) -  Dark Souls II - weapon - general_information \n general_information : The Battle Axe is outright weaker than the Bandit Axe, with inferior scaling that requires massive Dexterity to even get close to matching the Bandit Axe's power. This weakness extends to when the weapon is infused. Despite its slightly higher durability, in most cases, players are best simply using this weapon until they reach No-man's Wharf and can obtain its better counterpart, if they use it at all. After all, with more hits necessary to down an enemy, durability will be used up faster regardless.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9bb370e6-9e40-5d8e-a70a-6341ff0b9f50",
+    "title": "Battle Axe (Dark Souls II)",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Battle Axe (Dark Souls II) -  Dark Souls II - weapon - description \n description : An axe crafted for battle.\n\nAxes generally deal more damage than swords, but each swing leaves its wielder vulnerable.\n\nOne is tempted to swing axes with wild abandon, but in fact their effective manipulation demands caution and precise timing.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9eae4e97-1125-54a0-8ada-7b2123796445",
+    "title": "Battle Axe (Dark Souls II)",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Battle Axe (Dark Souls II) -  Dark Souls II - weapon - availability \n availability : May be purchased from Blacksmith Lenigrast for 1,500 souls.\nSemi-common drop from Goblins.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "aaef1c53-886e-5875-9dd5-3fbe3973f582",
+    "title": "Battle Axe (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Battle Axe (Dark Souls II) -  Dark Souls II - weapon - lead \n lead : The **Battle Axe** is an axe in *Dark Souls II*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0f280f4b-47a8-502d-b1e4-61441281aab6",
+    "title": "Bewitched Alonne Sword",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Bewitched Alonne Sword -  Dark Souls II - weapon - trivia \n trivia : Japanese dialogue translations reveal that the sword should have been named Alonne's Bewitched Sword, but was originally mistranslated.\nThe \"Bewitched\" part of the name is derived from the Japanese word \"Youtou\". Given the meaning and background of the word it is implied that Alonne is either possessed by the sword, or that he is strong enough to control it.\nThe sword's appearance is reminiscent of a weapon known as a \"Nagamaki.\" This is supported by the long hilt.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1b9dfb42-f528-5d02-94cb-9e2fd0755a1c",
+    "title": "Bewitched Alonne Sword",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Bewitched Alonne Sword -  Dark Souls II - weapon - notes \n notes : The self buff can be parried from the front and behind, the self damage will still be inflicted when parried.\nThe weapon has quite low durability, so it's a good idea for players intending to use it to have a reliable back up weapon, have the bracing knuckle ring equipped, or both.\nThe weapon utilizes the sweet spot mechanic that Reapers and Halberds use. Meaning that proper spacing is a necessity when in combat.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "25b46ea8-76c8-59d1-a65f-65838833f8b4",
+    "title": "Bewitched Alonne Sword",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Bewitched Alonne Sword -  Dark Souls II - weapon - availability \n availability : The Bewitched Alonne Sword is obtained by giving the Soul of Sir Alonne, along with 18,000 Souls, to Weaponsmith Ornifex.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "59174995-37b7-58dc-ba16-20791717bb2e",
+    "title": "Bewitched Alonne Sword",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Bewitched Alonne Sword -  Dark Souls II - weapon - lead \n lead : The **Bewitched Alonne Sword** is a katana in .",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5afdfcb2-5f75-5106-9b90-b45c38400227",
+    "title": "Bewitched Alonne Sword",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Bewitched Alonne Sword -  Dark Souls II - weapon - description \n description : Katana forged from the soul of Sir Alonne. The captivating, undulating design serves to enhance this weapon's mystical allure.\n\nAlonne came from the east, and soon became the Iron King's most trusted knight. When he departed, the Old Iron King bequeathed Sir Alonne's name to his iron warriors.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c4e444ff-9aac-5735-87de-86d71178002c",
+    "title": "Bewitched Alonne Sword",
+    "section": "special_ability",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Bewitched Alonne Sword -  Dark Souls II - weapon - special_ability \n special_ability : Rather than a parry, the Bewitched Alonne Sword possesses a damage increasing buff. When held in two hands and the \"parry\" button is pressed the player will stab themself, taking damage, which can be reduced by high physical defence, while buffing the weapon for around 30 seconds after the player pulls the sword out of their body. The buff increases its Scaling AR by 60% for the duration of the buff, including the Bleed build-up of the weapon.\n\nWhen activating the buff, the blade will release a harmful aura which, similarly to Wrath of the Gods, damages and staggers any enemies close to the player.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e08f8c14-ca76-5e1b-999e-e10df0089c10",
+    "title": "Bewitched Alonne Sword",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Bewitched Alonne Sword -  Dark Souls II - weapon - characteristics \n characteristics : The Bewitched Alonne Sword should be treated with similar thought as Santier's Spear as it combines several attacks from other weapon classes into its moveset. Its one-handed light attack, its two-handed rolling and standing light attacks are not what one might expect from a katana. They are borrowed from the Spear, Halberd, and Straight Sword classes.\n\nIt uses the Straight Sword moveset when Power Stanced.\n\nIt's the weakest of the katanas, but has the second highest reach among them, which meshes well with the weapon's wide swings. Its critical modifier is very low in comparison to similar weapons, and it is fully buffable.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0e1dd3ad-f856-5dde-bbce-1156970f3768",
+    "title": "Channeler's Trident (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Channeler's Trident (Dark Souls II) -  Dark Souls II - weapon - lead \n lead : The **Channeler's Trident** is a spear in *Dark Souls II*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "0e75ba78-1baf-5e04-b03a-2c3419c83733",
+    "title": "Channeler's Trident (Dark Souls II)",
+    "section": "general_information",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Channeler's Trident (Dark Souls II) -  Dark Souls II - weapon - general_information \n general_information : The Channeler's Trident is largely unchanged from its *Dark Souls* variant, down to its attack-boosting dance. The dance will also impact the damage of Hexes, Sorceries, and Miracles.\n\nPerforming the dance will consume 10 durability, which can be reduced by equipping the Bracing Knuckle Ring. The buff will last for approximately 20 seconds, and boosts outgoing damage by 5%. Performing the dance without the required stats will produce a slower, non-attack boosting dance.\n\nBoth of the rolling and the 1 handed heavy attacks spin the tip, dealing multiple hits in a short amount of time. These are good for causing Status buildup of either Poison or Bleed.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "353415e9-4db3-521e-9a6c-7f9677021292",
+    "title": "Channeler's Trident (Dark Souls II)",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Channeler's Trident (Dark Souls II) -  Dark Souls II - weapon - availability \n availability : The Channeler's Trident is a rare drop obtained from trading with Dyna & Tillo.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f542342a-0fbc-5dea-bef0-679aa3419e6c",
+    "title": "Channeler's Trident (Dark Souls II)",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Channeler's Trident (Dark Souls II) -  Dark Souls II - weapon - description \n description : A trident wielded by an old sorcerer. The tip is sharpened so smoothly that it suggests a degree of madness.\n\nUse strong attack to perform a power-channeling dance, the madness of which boosts the morale of nearby allies.\n\nEffect: attack boost (Two-handed strong attack)",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "43cdb175-de2a-5354-9ee9-7632e6efbf30",
+    "title": "Critical attack",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Critical attack -  Dark Souls III - mechanic - dark_souls_iii \n dark_souls_iii : In *Dark Souls III*, a critical attack can generally be performed on a target once it is put in a vulnerable state.\n\nA **riposte** can be performed on a target that has had an attack parried, or has been guard broken due to stamina being completely depleted while guarding with a shield. In the case of certain large enemies and bosses, a critical can be taken once enough damage has been inflicted to a vital part of their body, or if enough damage has been inflicted in general.\n\nA **backstab** can be performed on the target if they are attacked from behind. When the player is behind the target and performs a weak attack, they will begin an animation where they pull their weapon back in preparation to perform the critical. If the target is still within range of the player once the backstab animation completes, the critical attack will then take place.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "68b757c0-4e1b-59ec-8eb2-56bc1f0aca55",
+    "title": "Critical attack",
+    "section": "dark_souls",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Critical attack -  Dark Souls III - mechanic - dark_souls \n dark_souls : In *Dark Souls*, critical attacks do bonus damage based on a weapon's *critical* stat. Most weapons possess a critical multiplier of 100, but Thrusting Swords and Daggers have a higher critical multiplier, and thus do more damage when executing a critical attack.\n\nRipostes will do more bonus damage than backstabs, but can also be considerably harder to execute, as they need a parry or a guard-break to happen.\n\nThe plunging attack is the rarest and most damaging critical attack. For this strike a higher ground is required, in which the player must jump and while falling hit the normal attack button, thus making the plunge attack dependent on the terrain.\n\nThe Hornet Ring increases the damage of critical attacks by an additional 30%. Wearing the ring also changes the animation of backstabs and ripostes when using certain weapons against human enemies. Headshots are not affected by the Hornet Ring.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c5068f51-4699-5f01-b2ee-cca31f1e5d9e",
+    "title": "Critical attack",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Critical attack -  Dark Souls III - mechanic - lead \n lead : **Critical attacks** (also known as **critical hits** or just **criticals**) are a gameplay mechanic in *Dark Souls*, *Dark Souls II* and *Dark Souls III*. Critical attacks are performed in what is considered the most vulnerable areas of enemies. There are four types of critical attacks: backstabs, ripostes, headshots and plunging attacks.",
+    "sources": [
+      "template",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.8104605297521
+  },
+  {
+    "document_id": "ede1a200-3be0-59a5-8c89-201a1802244d",
+    "title": "Critical attack",
+    "section": "dark_souls_iii",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Upon successfully initiating a critical, the player and target are both placed in an uninterruptible animation where both parties cannot take damage from outside sources, and the target takes the critical damage. Both parties will only be able to perform additional actions once the critical animation is complete.\n\nDamage inflicted by the critical can be increased if the player has equipped the Hornet Ring. If the target is wearing the Dragonscale Ring, damage from a backstab critical is decreased.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f156e547-20ba-573a-aff3-f469dccf4b33",
+    "title": "Critical attack",
+    "section": "damage_multipliers",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Critical attack -  Dark Souls III - mechanic - damage_multipliers \n damage_multipliers : The amount of damage dealt by a critical is dependent on its weapon class, as well as whether or not the initiator is wearing the Hornet Ring, which modifies the critical animation. For each weapon class, the critical damage can be further increased by its **critical modifier**.\n\nEach portion of a critical attack multiplies the initiating weapon's Attack Rating as follows:",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "116343f1-364c-58d2-ac07-59be31165ba8",
+    "title": "Crystal Ring Shield",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "shield",
+    "snippet": "Crystal Ring Shield -  Dark Souls - shield - characteristics \n characteristics : The Crystal Ring Shield is a unique small shield because its parry is replaced by an action that uses a ranged magic attack. The attack uses 4 durability points and ignores the East Wood Grain Ring. It has a very high magic defense but has the second lowest Physical defense, as well as the lowest lightning defense, of any small shield. It ties with the Effigy Shield for the highest fire defense of any small shield and has light deflection.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1fa6abd3-32a1-50ec-8c30-6cdc098cf8b2",
+    "title": "Crystal Ring Shield",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "shield",
+    "snippet": "Crystal Ring Shield -  Dark Souls - shield - description \n description : Weapon born from the mystical creature of the Darkroot Garden, the Moonlight Butterfly.\n\nImbued with a powerful crystal power, like the butterfly created by Seath the Scaleless. Can emit crystal light rings.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3b3db613-44f3-5bac-9df6-b0bd67bc60ee",
+    "title": "Crystal Ring Shield",
+    "section": "resistance_defense",
+    "game": "Dark Souls",
+    "entity_type": "shield",
+    "snippet": "Crystal Ring Shield -  Dark Souls - shield - resistance_defense \n resistance_defense : Along with Physical and Elemental damage reduction, weapons also have hidden stats that reduce the amount of status build-up while blocking.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3bd9e8b0-b10c-5847-be8f-9831203142aa",
+    "title": "Crystal Ring Shield",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "shield",
+    "snippet": "Crystal Ring Shield -  Dark Souls - shield - lead \n lead : The **Crystal Ring Shield** is a small shield in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "6a1d61d2-9377-5852-b605-b660348c9f7a",
+    "title": "Crystal Ring Shield",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "shield",
+    "snippet": "Crystal Ring Shield -  Dark Souls - shield - availability \n availability : The Crystal Ring Shield can be created at the Giant Blacksmith in Anor Londo with a +10 Shield upgraded down the Standard path, the Soul of the Moonlight Butterfly and 5,000 souls.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bae3fbf5-a8ef-5959-87ef-d4a5ad960072",
+    "title": "Crystal Ring Shield",
+    "section": "upgrades",
+    "game": "Dark Souls",
+    "entity_type": "shield",
+    "snippet": "Crystal Ring Shield -  Dark Souls - shield - upgrades \n upgrades : Requires: Crystal Ring Shield +0, 5000 Souls and Demon Titanite",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c23d4396-c2ef-5ed4-a43a-674cf9877303",
+    "title": "Crystal Ring Shield",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "shield",
+    "snippet": "Crystal Ring Shield -  Dark Souls - shield - notes \n notes : The ranged attack used by the Crystal Ring Shield used to be based on the amount of damage the right-hand weapon dealt. The damage was potentially very high. Patch 1.04/1.05 drastically lowered the attack's damage.\nThis shield is the only small shield incapable of parrying.\nThe Crystal Ring Shield **can** be repaired.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fe62a5e7-add7-538b-ab4e-5a2897e3f61b",
+    "title": "Curved Greatswords (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Curved Greatswords (Dark Souls II) -  Dark Souls II - weapon - lead \n lead : **Curved Greatswords** are a type of weapon in *Dark Souls II*.\n\nHandled as a blend between greatswords and ultra greatswords, the Curved Greatsword class are weapons that excel at damage output with speeds comparable to that of smaller weapons. Boasting relatively fast one-handed, horizontal swings, and vertical, two-handed swings, which can vary in speeds when used as a follow-up attack. They require moderate amounts of stat investment to use; making them slightly less accessible. As a result of having ultra greatsword-like properties, they have similar riposte and backstab damage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bf908e04-55b2-5b98-a3f8-0b8567a2520b",
+    "title": "Daggers (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Daggers (Dark Souls II) -  Dark Souls II - weapon - lead \n lead : **Daggers** are a type of weapon in *Dark Souls II*.\n\nDaggers are usually the go-to weapon when it comes to critical attacks against enemies, even though a majority of them deal average damage with both backstabs and parried ripostes to enemy players. Some daggers, such as the Bandit's Knife or the Umbral Dagger, deal more damage with a backstab than usual, while others like the Shadow Dagger or the Manikin Knife, deal more damage with a parried riposte.\n\nHowever, what does set the daggers apart from other weapons is all of them have a strong modifier on a guard-broken player or enemy that is then riposted with one, dealing nearly twice as much damage as they would with a backstab or parried riposte. This makes a dagger a very reliable weapon against enemies known to defend themselves often with a shield or their weapon, allowing for a powerful, and punishing, critical attack against them.",
+    "sources": [
+      "template",
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.67409313148079
+  },
+  {
+    "document_id": "1691bb06-f7b4-5883-adf1-9d95c43a4ad7",
+    "title": "Dark Hand",
+    "section": "humanity_absorption_on_npcs",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Lord's Blade Ciaran — None\nManeater Mildred — 8 Humanities\nNico of Thorolund — 3 Humanities — Drain as soon as met at Firelink Shrine\nOscar, Knight of Astora — None\nOswald of Carim\t— None\nPatches — 7 Humanities — If sitting, bare fist punch to make him stand without making him hostile\nPaladin Leeroy (Dark Spirit) — 3 Humanities\nPetrus of Thorolund — 2 Humanities\nQuelaana of Izalith\t— None\nReah of Thorolund\t— 12 Humanities — Drain her in Undead Parish, after being saved from Tomb of the Giants — If sitting, bare fist punch to make her stand without making her hostile\nSieglinde of Catarina — 10 Humanities\nSiegmeyer of Catarina — 4 Humanities\nSolaire of Astora — 5 Humanities\t— If sitting, bare fist punch to make him stand without making him hostile\nVince of Thorolund — 5 Humanities — Drain as soon as met at Firelink Shrine",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "1c278a19-e580-5dde-8e07-0dce3785a2c6",
+    "title": "Dark Hand",
+    "section": "humanity_absorption_on_npcs",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Big Hat Logan\t— None\nCrestfallen Merchant — None\nCrestfallen Warrior — None\nLady of the Darkling — None\nDarkmoon Soldier (Greatsword) — 3 Humanities\nDarkmoon Soldier (Sword) — 3 Humanites\nDomhnall of Zena — None\nDusk of Oolacile — None\nForest Hunters — None\nGriggs of Vinheim — 3 Humanities — Will become hollow if all his Sorceries are bought\nIngward — 4 Humanities\nDark Spirit Kirk, Knight of Thorns — None\nKnight Lautrec of Carim — 8 Humanities — If sitting, bare fist punch to make him stand without making him hostile\nLaurentius of the Great Swamp — 5 Humanities — Drain him at Firelink Shrine, will become hollow when allowed to seek Quelaana of Izalith, If sitting, bare fist punch to make him stand without making him hostile\nLord's Blade Ciaran — None\nManeater Mildred — 8 Humanities\nNico of Thorolund — 3 Humanities — Drain as soon as met at Firelink Shrine\nOscar, Knight of Astora — None\nOswald of Carim\t— None",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3614ed10-1f00-57c1-a916-6fdadb70bb32",
+    "title": "Dark Hand",
+    "section": "humanity_absorption_on_npcs",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Dark Hand -  Dark Souls - weapon - humanity_absorption_on_npcs \n humanity_absorption_on_npcs : Depending on the player's Darkwraith covenant rank, one may need to use the Dark Hand several times to fully drain an NPC's Humanity.\nSome NPCs may end up Hollowed if their quests are finished or when all their items are purchased. Hollowed NPCs yield no Humanity when the Dark Hand is used on them.\nFor the sake of completion, the list below also contains NPCs that have no drainable Humanity, but can be targeted by the drain move of the Dark Hand.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "4251f9cc-bd3f-50a0-8f5d-8331ec28358c",
+    "title": "Dark Hand",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "The special attack has a very long windup time and a small hitbox, so one must choose wisely when deciding when to use it. Dark Hand users may not steal more humanity than is available on their target; for example, if a Darkwraith +3 were to use the grab on someone with 8 humanity, they'd only steal 8 and not 10. Certain NPCs carry liquid humanity on them, and can have all their humanity stolen without becoming hostile towards the player thanks to the very low damage the Dark Hand deals to NPCs when initiating the grab move.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9ab772fc-d876-59c0-a721-d925add1efd3",
+    "title": "Dark Hand",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Dark Hand -  Dark Souls - weapon - trivia \n trivia : The Dark Hand is the only weapon in the game with no stat requirements.\nIt is likely that the Dark Hand was initially intended to be upgradable, as a +5 version exists within the game files.\nIf the Ring of Fog is being worn, blocking will not show its warping animation although it will still work as normal.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9dbcf16d-f5ea-513c-9b42-631a8b390b4a",
+    "title": "Dark Hand",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Dark Hand -  Dark Souls - weapon - description \n description : The Darkwraiths, incited by Kaathe, use the power of the dark soul to absorb humanity, an art shared by this weapon, which also acts as a special shield. The ancients, particularly, could sap the humanity of even a replete saint in the blink of an eye.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a2f61c9c-49e9-508f-977a-4ed35a68ef47",
+    "title": "Dark Hand",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Dark Hand -  Dark Souls - weapon - availability \n availability : The Dark Hand is granted by Kaathe to the player upon joining the Darkwraith Covenant\n1% drop from Darkwraiths in New Londo Ruins",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c4c13a3c-386d-5d65-a091-4aac92177803",
+    "title": "Dark Hand",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Dark Hand -  Dark Souls - weapon - general_information \n general_information : As a shield, the Dark Hand has an 80% damage reduction from all damage types, is able to parry, is tied with the Small Leather Shield for lowest weight in the game, and one of the highest lightning damage reductions of all shields. This makes the Dark Hand a very well rounded Small Shield alternative. It also has the highest durability available and is hidden when not actively blocking, helping to offset its very low stability negative.\n\nAs a weapon, the Dark Hand's special right handed strong attack is the only action capable of stealing liquid humanity from NPCs and other players. How much it steals is dependent on the rank the player has progressed in the Darkwraith Covenant, as listed:\n+0 (or not in the Darkwraith covenant): 1 humanity stolen\n+1: 3 humanity stolen\n+2: 5 humanity stolen\n+3: 10 humanity stolen",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cd647158-d614-5848-9e6a-f1c32712e756",
+    "title": "Dark Hand",
+    "section": "resistance_defense",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Dark Hand -  Dark Souls - weapon - resistance_defense \n resistance_defense : Along with Physical and Elemental damage reduction, weapons also have hidden stats that reduce the amount of status build-up while blocking.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d5faa2cb-80f4-5053-b84d-141bc78b7a4b",
+    "title": "Dark Hand",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Dark Hand -  Dark Souls - weapon - lead \n lead : The **Dark Hand** (ダークハンド) is a gauntlet in *Dark Souls*. It is a versatile weapon that can also function as a shield.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "05731789-6415-5b60-b8e1-c158e68e99d3",
+    "title": "Dragonslayer's Crescent Axe",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Dragonslayer's Crescent Axe -  Dark Souls II - weapon - description \n description : The beloved black axe of the gallant Shieldless Lothian, formerly of Forossa.\n\nNo warrior matched the ferocity of unbeatable Lothian, but he abruptly retired from the battlefield and was never heard from again. Some say that he grew tired of the frailty of human foes, and set off to slay the legendary dragon.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "2f686051-8e28-59ea-af31-eaa53af8b05a",
+    "title": "Dragonslayer's Crescent Axe",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Dragonslayer's Crescent Axe -  Dark Souls II - weapon - availability \n availability : Found, alongside the Golden Falcon Shield, on a corpse in the Shaded Woods. The corpse is located on the path to the Shrine of Winter, guarded by a non-respawning Flexile Sentry in Dark Souls II and by respawning Falconers in Dark Souls II: Scholar of the First Sin.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "41aea00a-865c-5290-9e66-c63c7e976787",
+    "title": "Dragonslayer's Crescent Axe",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Dragonslayer's Crescent Axe -  Dark Souls II - weapon - lead \n lead : The **Dragonslayer's Crescent Axe** is an axe in *Dark Souls II*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "49424063-b411-5f50-9947-74e477db0964",
+    "title": "Dragonslayer's Crescent Axe",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Dragonslayer's Crescent Axe -  Dark Souls II - weapon - notes \n notes : Creighton the Wanderer uses an imitation of this weapon which deals no Lightning damage.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "faa86d51-4fc6-5801-972a-4dc5835d49ae",
+    "title": "Dragonslayer's Crescent Axe",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Dragonslayer's Crescent Axe -  Dark Souls II - weapon - characteristics \n characteristics : The Dragonslayer's Crescent Axe is an adaptable weapon, as it has good base damage for its attack speed and will perform well both with and without infusions.\n\nIt's a good choice for players looking for a good elemental Strength weapon as it can deal high physical damage along with a respectable amount of lightning damage, even if the player has low Faith. This, combined with the Axe's straightforward moveset, makes for an excellent weapon that will prove useful in most situations.\n\nLightning is generally the most effective infusion for this weapon. As with most lightning weapons, the player can also use Gold Pine Resin or the Sunlight Blade miracle to drastically increase the weapon's damage output.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "28c54c5c-d02e-5f3a-bfe5-c0cf71bb3eae",
+    "title": "Drakekeeper's Sword",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Drakekeeper's Sword -  Dark Souls II - weapon - lead \n lead : The **Drakekeeper's Sword** is a straight sword in *Dark Souls II*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "46d6afb3-04f5-55d0-ba51-2784a5cf29bd",
+    "title": "Drakekeeper's Sword",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Drakekeeper's Sword -  Dark Souls II - weapon - description \n description : An extremely sturdy pitch-black straight sword.\n\nColossal warriors staunchly watch over the shrine, ready to defend its resident, or allow one worthy enough to be granted audience.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "da3fbca8-b955-5962-bebc-4fe4369c8fef",
+    "title": "Drakekeeper's Sword",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Drakekeeper's Sword -  Dark Souls II - weapon - availability \n availability : Drops from sword-and-shield wielding Drakekeepers in Dragon Shrine.\n\nIn , there is only one of these Drakekeepers. It stands alone at the beginning of the area, making it safe to farm.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "effdac4c-5400-58bd-8ee0-32c22e78e839",
+    "title": "Drakekeeper's Sword",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Drakekeeper's Sword -  Dark Souls II - weapon - characteristics \n characteristics : The Drakekeeper's Sword utilizes the same moveset as the Broadsword, making it incapable of thrust attacks, and relying on strong slashes. However, it has far greater reach that rivals the Fume Sword and even some greatswords.\n\nThis sword is one of the heaviest straight swords in the game at a weight of six units, but it is also exceptionally durable and can go through long journeys without having the need to repair it.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "957e011d-65c4-55af-9344-650a7a6d600e",
+    "title": "Drangleic Sword",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Drangleic Sword -  Dark Souls II - weapon - notes \n notes : Upgrades with Twinkling Titanite.\nDrangleic Sword +5 has 270 base damage and C/A/-/-/-/- scaling.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d52f77cb-dd4e-5644-8739-a494a361964a",
+    "title": "Drangleic Sword",
+    "section": "description",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Drangleic Sword -  Dark Souls II - weapon - description \n description : Greatsword of Drummond, Royal Army Captain. An old and unadorned sword, perhaps, but the pride and joy of this venerable captain.\n\nAn heirloom passed from grandfather to father, and then from father to son. Drummond, and those before him, used this sword to repel those who would threaten their great land.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d7825959-7df7-5203-b894-dd006d12347c",
+    "title": "Drangleic Sword",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Drangleic Sword -  Dark Souls II - weapon - lead \n lead : The **Drangleic Sword** is a greatsword in *Dark Souls II*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "febca4cf-540d-5b88-9d89-25b973899fa4",
+    "title": "Drangleic Sword",
+    "section": "availability",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Drangleic Sword -  Dark Souls II - weapon - availability \n availability : Forest of Fallen Giants - Beyond the Pursuer boss fight, drop down onto a ledge to acquire the Drangleic Set minus the Helm, Drangleic Shield and Drangleic Sword.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "239207d4-c94b-55e7-a238-c13a504cac80",
+    "title": "Falchion (Dark Souls)",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Falchion (Dark Souls) -  Dark Souls - weapon - description \n description : Small curved sword. Each hit inflicts little damage, but fluid chain attacks are deadly.\n\nThe falchion's sharp slashing attacks are effective against cloth and flesh, but not against metal armor or tough scales.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "26bbeac9-a276-5c84-bcf2-ecf07afec809",
+    "title": "Falchion (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Falchion (Dark Souls) -  Dark Souls - weapon - lead \n lead : The **Falchion** is a curved sword in *Dark Souls*.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "47105293-4c4b-5cff-8794-71ba37891517",
+    "title": "Falchion (Dark Souls)",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Falchion (Dark Souls) -  Dark Souls - weapon - characteristics \n characteristics : The Falchion has the same scaling, moveset, attack speed, and stamina consumption as the Scimitar, but has higher base damage. The Falchion has a higher Strength requirement than the Scimitar (although all starting classes have enough Strength for it). The only weakness it has compared to the Scimitar is its heavier weight. In terms of damage output, the Falchion loses to the Painting Guardian Sword at higher levels; however, it possesses a slightly longer reach.\n\nThe Falchion is one of lowest stamina-consuming weapons in the game, meaning that in conjunction with its fast attacks, the Falchion is capable of quickly dispatching enemies.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9bc0630d-4162-592d-8750-eefdb4a4b36f",
+    "title": "Falchion (Dark Souls)",
+    "section": "availability",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Falchion (Dark Souls) -  Dark Souls - weapon - availability \n availability : Found on a corpse in Blighttown with the Wanderer set, near the end of the scaffolding area leading from the Depths.\nSemi-uncommon drop from Falchion wielding Skeletons.\nAn Enchanted Falchion is dropped by a Mimic in The Duke's Archives, near where Logan sets up shop.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "bdddc5ad-54cf-53d6-a90f-b0d17087f979",
+    "title": "Falchion (Dark Souls)",
+    "section": "notes",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Falchion (Dark Souls) -  Dark Souls - weapon - notes \n notes : The Falchion has bleed effect when handled by the Falchion-wielding Skeletons.\n\nThe Falchion has slightly longer range than the Scimitar.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "fee11e44-75ae-5f1a-92f2-4c473958442c",
+    "title": "Falchion (Dark Souls)",
+    "section": "scaling_percentage_values",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Falchion (Dark Souls) -  Dark Souls - weapon - scaling_percentage_values \n scaling_percentage_values : **The following chart lists the scaling percentages when this weapon is fully upgraded. Be advised that:**",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "162bae7d-5347-5e0e-97b1-365c556bf2c4",
+    "title": "Forest Hunter Thief",
+    "section": "location",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Forest Hunter Thief -  Dark Souls - enemy - location \n location : Located between the Forest Hunter Sorcerer and Forest Hunter Cleric in Darkroot Garden.",
+    "sources": [
+      "template"
+    ],
+    "dense_score": null,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a566bb86-ff54-59bf-a79c-2421366d65ee",
+    "title": "Parry and Riposte (Dark Souls II)",
+    "section": "parry",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "In most cases, all weapon's attacks can be parried, except jumping attacks (excluding Reapers). Most humanoid enemies can be parried and are also vulnerable to guard break. There are rare examples of enemies that can only be parried; The Pursuer being one such enemy. All hostile phantoms can be parried and riposted (AI and PvP).\n\nParries in PvP must have their active frames line up with the attack's active frames on the attacker's screen.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.6573494532042411,
+    "bm25_score": 17.55421034744541
+  },
+  {
+    "document_id": "48476714-f2b9-5c23-9a78-4c350e37fb8f",
+    "title": "Parry and Riposte",
+    "section": "parrying",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Most humanoid enemies can be parried. Most enemies that can be backstabbed can also be parried. Almost every enemy that can be parried can also be riposted. The Berenike Knights are the only exception to this rule. Multiple enemies attacking simultaneously close to one another can be parried at once, but only one of them can be riposted. White phantoms can parry their summoners and vice versa, but they cannot be riposted. This presents a very efficient way of practicing PvP parrying.\n\nAlmost every small and medium shield can parry, with some exceptions. Many weapons (when equipped on the left hand) can parry too. Weapons and shields that can parry are as follows:\n\nAll Gauntlet-type weapons (including bare hands)\nAll Curved Swords, with the exception of the Gold Tracer\nAll Daggers\nAll Katanas\nAll Thrusting Swords\nAll Standard Shields and Small Shields, except for the Spiked Shield, Pierce Shield, Crystal Shield, and Crystal Ring Shield.\nAll Whips",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6546757291030563,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cbbdae85-63dd-58f2-b8ec-a9dcde75ec80",
+    "title": "Hollow Soldier",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Critical attacks, the Parry and Riposte and Backstab, are exceedingly efficient methods to dispatch these enemies.\n\nAnother simple tactic is to kick their shields or attack when two-handing weapons, staggering them for a few moments, and thus leaving them vulnerable to attack. This is particularly useful on those that use spears, as they spend most of their time in a defensive stance.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6163384687669774,
+    "bm25_score": null
+  },
+  {
+    "document_id": "02409637-8916-5387-8471-1146a7e4220f",
+    "title": "Parry and Riposte",
+    "section": "parrying",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Parrying does not always succeed, and requires precise timing. A parry that is executed too early or too late will grant the player some super armor, as well as some damage reduction from the attack that the player attempted to parry, but will not cause the opponent to be stunned or vulnerable to riposting. This type of parrying is often known as \"partial parrying\". Unlike full parries, partial parries can be used against almost any attack encountered in the game. Rarely, it is possible to both do a successful parry and still take damage. Parrying most often succeeds when the player is standing very close to his or her opponent, and on relatively even ground.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.6000376179909315,
+    "bm25_score": null
+  },
+  {
+    "document_id": "7d800801-d74e-5be6-a569-aa0512f97474",
+    "title": "Guard Break",
+    "section": "general_information",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Guard Break -  Dark Souls II - mechanic - general_information \n general_information : The Guard Break move replaces the kick from *Dark Souls*. After a short windup, the player delivers a backhand attack, stunning their target. If the target's shield is up, their guard is broken: they are stunned for a longer period of time, during which the player can perform a Frontal Riposte on them.\n\nGuard breaking when unarmed or using a fist weapon is significantly faster than guard breaking with any other weapon, and can be accomplished with nearly all weapons.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5898180509956825,
+    "bm25_score": 26.48527968788665
+  },
+  {
+    "document_id": "ad075d2f-f871-528e-beb3-1ea15ad921f0",
+    "title": "Parry and Riposte (Dark Souls II)",
+    "section": "rules",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Parry and Riposte (Dark Souls II) -  Dark Souls II - mechanic - rules \n rules : {'name': 'Special exceptions', 'description': \"The following weapons use movesets of a different class, but can still be parried:\\nThe broken Santier's Spear behaves like a Halberd, but the two-handed light attack is the same as a Twinblade, and thus can be parried.\\nThe Crescent Axe is a Greataxe, but all of its attacks (except the jumping attack) can be parried.\\nBoth the Drakekeeper's Warpick and the Archdrake Mace are great hammers, but behave like a halberd, thus their two-handed heavy attack can be parried.\"}",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5895178329274662,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b740ee52-cead-5c5c-97f5-8814b2b2c21f",
+    "title": "Parry and Riposte (Dark Souls III)",
+    "section": "overview",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Parry and Riposte (Dark Souls III) -  Dark Souls III - mechanic - overview \n overview : A **Parry** is executed by pressing the **Left Strong Attack** button ( / ) with a shield that has the \"Parry\" skill or specific weapon. Shields that can parry will have a small circular icon depicting a shield in the lower corner. There are generally 3 various parrying types: Fast, Normal, Special (Long). Some Katanas have the shortest recovery while some medium shields and curved swords will have a normal parry type. Specific shields have a longer \"parry window\", such as the Buckler or the Target Shield.\n\nA **Riposte** can be executed after a parry, or in some cases after the enemy's poise is broken, to deal critical damage. This is done by approaching them in their staggered animation and pressing the **Right Weak Attack** button ( / ), either one- or two-handed.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5894270040988641,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5ff06953-31af-5c87-940c-26b6c7f784cb",
+    "title": "Weapons (Dark Souls)",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Despite this conglomeration, traditional weapons such as swords invariably have high attack power and low defensive power, while shields are invariably the other way around. If a sword is placed in the left hand, for example, and used to block, only its damage resistance and stability will affect its blocking effectiveness. In addition to attacking, a weapon can either block or parry when equipped in the left hand but not both at the same time; for example, scimitars can only parry or attack, but not block. Different weapons have different movesets depending on which hand they are equipped in.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5849306670743306,
+    "bm25_score": null
+  },
+  {
+    "document_id": "c898f5d9-1146-5ec5-bf81-e65f09781704",
+    "title": "Parry and Riposte",
+    "section": "parrying",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "There are [https://darksouls.wiki.fextralife.com/Shields+Explained three different speeds] of parrying: fast, normal, and special (long). Certain weapons, such as Thrusting Swords and Curved Swords, have a very fast parrying speed (thus, requiring more precision from the player), standard shields have a normal parrying speed, and certain specialized weapons and shields (such as the Parrying Dagger and the Target Shield) have a longer parrying animation. Weapons and shields that parry quickly have the advantage of allowing the player to recover from a failed parry more quickly, but weapons and shields that have a longer parry animation have a larger window of time in which their parries can be successful.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5756439322714284,
+    "bm25_score": null
+  },
+  {
+    "document_id": "657e631d-dd17-5f0c-9ef4-2a6764f4b4e5",
+    "title": "Lost Sinner",
+    "section": "attacks",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "**Backstab**: If the player turns their back to Lost Sinner, she'll backstab them dealing not as much damage as **Parry** but will deal a large amount of damage; footnote: **Horizontal Slash Combo** deals more damage if all hits land.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5730986797563631,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5abbec1c-fa37-5fa2-9c32-62fae7c2805f",
+    "title": "Parry and Riposte (Dark Souls II)",
+    "section": "parry",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Parry and Riposte (Dark Souls II) -  Dark Souls II - mechanic - parry \n parry : Parrying is performed by pressing or holding the left-hand strong attack button (LT/L2) when using a Small Shield, Medium Shield, or 2-handed weapon. When a left-hand weapon is wielded with both hands, its right-handed moveset is reversed and the parry move must be activated using RT/R2 (instead of LT/L2). A parry can not be performed when using a power stance, but it is still possible to parry while using a power stance when the right hand weapon can parry 1 handed.\n\nA parried enemy will become staggered, causing them to fall to the ground. There are two possible riposte moves that can be triggered after parrying an attack: a standing riposte and a ground riposte (see below).",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.569246449163815,
+    "bm25_score": null
+  },
+  {
+    "document_id": "02ee854f-ac29-569c-a212-9a4853beb25a",
+    "title": "Royal Guard",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "The sword wielders will usually chain their attacks into two or three-swipe combos. Like the halberd wielders, these attacks have relatively poor tracking and can be sidestepped for easy backstabs.\n\nIf the player attacks their greatshield while they are blocking, the Royal Guard may bring their weapon up and charge it with lightning, and then bring it down for a very strong attack. It is very easily telegraphed, and its overhead nature makes it easy to avoid by rolling to the side so long as the player is not obstructed by terrain or obstacles.\n\nIt is easy to simply tank or avoid their attacks until they eventually start blocking and backing away, at which point the player can simply Guard Break them and Riposte while they are staggered. (The animation and timing will be the same as a Parry and Standing Riposte.)",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5665864198721011,
+    "bm25_score": 19.39404665090281
+  },
+  {
+    "document_id": "fe6fbf10-9b3e-5121-a78e-a9653c35cc1e",
+    "title": "Lost Sinner",
+    "section": "attacks",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "She either has two variations of this, only one of which removes lock on, or she may randomly combo her Jumping Attack with other combos.\n\n**Parry**: She will go into a stance where she holds her weapons hilt against her face, if attacked during this stance she will block with her greatsword and perform a parry and riposte them. This can cause massive damage and will likely kill the player.\n\n**Quick Swipe**: Swipes her blade quickly, sometimes she follows it up with a back step.\n\n**Charge**: There are two variations of this. The first is if the player has created distance between her, she will perform a charging thrust attack. The second is that she will charge, then swipe diagonal from her right (the player's left). This is one of, if not the easiest to dodge.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5531420859183003,
+    "bm25_score": null
+  },
+  {
+    "document_id": "9ccce935-1662-51d3-8ca4-3787865ac634",
+    "title": "Parry and Riposte (Dark Souls II)",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Parry and Riposte (Dark Souls II) -  Dark Souls II - mechanic - notes \n notes : As with most attacks, performing a riposte or backstab with a broken weapon that has no AR will deal no damage.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.550275505422948,
+    "bm25_score": null
+  },
+  {
+    "document_id": "add86242-a19c-55f1-8bcb-5e87fc91db73",
+    "title": "Parry and Riposte (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Parry and Riposte (Dark Souls III) -  Dark Souls III - mechanic - lead \n lead : **Parry and Riposte** are gameplay mechanics in *Dark Souls III*.\n\nA **Parry**, when executed at the proper time, will deflect an enemy's attack and put it in a staggered state, and as such, subject to a critical attack or **Riposte**.\n\nSome enemies in the game cannot be parried, although they can be staggered once their poise is broken, also rendering them open to be riposted.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5495456075110716,
+    "bm25_score": null
+  },
+  {
+    "document_id": "61bb981e-9052-50c7-9d8c-bdc46ee457a2",
+    "title": "Parry and Riposte",
+    "section": "parrying",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Parry and Riposte -  Dark Souls - mechanic - parrying \n parrying : Players may perform a parry and riposte by first positioning themselves directly in front of a parryable enemy. As the enemy attacks, players may parry with their left-handed weapon or shield (the left-handed strong attack), deflecting their attack, and thus executing the parry. Enemies are momentarily stunned after this. Immediately after, the player can perform a light attack to execute a riposte.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5467579162636288,
+    "bm25_score": 21.159644655162534
+  },
+  {
+    "document_id": "f264ecd8-9671-5ac3-9add-3bf7b7621db8",
+    "title": "Parry and Riposte (Dark Souls II)",
+    "section": "riposte",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "#**Frontal Riposte** (Guard Break Riposte) - This riposte can be performed after using Guard Break on an enemy. It's a very powerful attack using similar animation to the standing riposte.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5449503037420405,
+    "bm25_score": null
+  },
+  {
+    "document_id": "86181f14-7700-5ab8-8613-baba8e5c08c4",
+    "title": "Dark Stalker",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Dark Stalker -  Dark Souls II - enemy - notes \n notes : Dark Stalkers can be backstabbed, parried and riposted.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5432496325230597,
+    "bm25_score": null
+  },
+  {
+    "document_id": "63bf8a6c-b57c-52e2-b1cb-14492f8f8615",
+    "title": "Gwyn, Lord of Cinder",
+    "section": "strategies",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "The pillars in the arena can be used to block his attacks, however, Gwyn will easily move around them and continue attacking. It is possible for him to keep attacking a pillar that is blocking his path, giving the player a chance to heal, however, he may simply go around it.\n\nParrying is a high-risk, but incredibly efficient strategy. All of Gwyn's attacks, minus the kick and grab, can be parried. Using the Hornet Ring, a single riposte can erase a large fraction of Gwyn's health. However, any mistakes can end up badly for the player. Therefore, it may be preferable to opt for heavier armor for this strategy, as dodging is not the main tactic, and the additional poise and defense leaves some margin for error. It is ideal to block the first hit of his combo, and parry the telegraphed second hit. After performing a riposte, the player will have just enough time to Estus heal.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5417429950347066,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ca577cd9-7e01-51e7-b7c7-590929b1ac3c",
+    "title": "Parry and Riposte",
+    "section": "parrying",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Additionally, it is possible to parry attacks with a shield that the player does not meet the requirements to use, although the timing window is much shorter.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.535275251273499,
+    "bm25_score": null
+  },
+  {
+    "document_id": "de9e4278-397c-5d8b-8946-bfc3f9da88d6",
+    "title": "Afflicted Graverobber, Ancient Soldier Varg, and Cerah the Old Explorer",
+    "section": "strategies",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "All three are capable of backstabbing the player. This means caution should be taken while healing. They move slower than the player while in the water, which can be used as an advantage to get away from them, although this can become a disadvantage if Cerah's line-of-sight is not broken.\n\nThey are very susceptible to being \"pancaked\" by 2-handed great hammers, the only exception being Varg while he's attacking. With good positioning, you can even pancake Varg and the Graverobber together, and keep squashing them as they get up, as long as Cerah doesn't have line of sight to shoot you. This is probably the fastest way to end the fight.\n\nToxic and poison work well on all three of them, allowing high damage to be dealt at relatively low risk.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "hybrid"
+    ],
+    "dense_score": 0.5335469930706598,
+    "bm25_score": null
+  },
+  {
+    "document_id": "89296835-55f8-580d-82b5-d121dfa4ac59",
+    "title": "Parry and Riposte",
+    "section": "lead",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Parry and Riposte -  Dark Souls - mechanic - lead \n lead : Note:* *This article is about a gameplay technique in Dark Souls. For its counterpart in other games, see Parry and Riposte (Dark Souls II) & Parry and Riposte (Dark Souls III).*\n\nThe **Parry and Riposte** is a form of critical attack in *Dark Souls.*",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5332322135736295,
+    "bm25_score": null
+  },
+  {
+    "document_id": "b51fedcf-d6d2-5901-9b5c-abfc35d1c901",
+    "title": "Parry and Riposte (Dark Souls II)",
+    "section": "lead",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Parry and Riposte (Dark Souls II) -  Dark Souls II - mechanic - lead \n lead : **Parry and Riposte** are gameplay mechanics in *Dark Souls II*.\n\nParries are an action most weapon can do either 1 handed or 2 handed, by pressing the Strong Attack button of either the hand they are in when 1 handed or the opposite one when 2 handed.\n\nRipostes are special attacks that deal critical damage to enemies, they become available after Parrying an attack or Guard Breaking an enemy that has their shield up. Bosses cannot be Riposted.\n\nNote that riposte and backstabs are not considered counter attacks, thus they are not affected by the weapon's counter damage modifier and are not boosted by such effects as Old Leo Ring.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5318170801791405,
+    "bm25_score": 22.558602568323785
+  },
+  {
+    "document_id": "596c3080-e87b-56ed-953a-ed6d1bfff712",
+    "title": "Fume Ultra Greatsword",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Additionally, its parry animation is replaced with an overhead vertical swing that can be fully aimed and that will block a single hit from enemies.\n\nIt possesses the highest damage reduction and stability when blocking out of all weapons in the game, and as such, it is much more versatile in combat than most other ultra greatswords. It also features the same attack deflection as greatshields, making certain weapons bounce away when blocked.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5309979708571164,
+    "bm25_score": null
+  },
+  {
+    "document_id": "13918123-a1d8-5d92-b779-ade37a1c58aa",
+    "title": "Parrying Dagger",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Parrying Dagger -  Dark Souls - weapon - characteristics \n characteristics : The Parrying Dagger is an average dagger for use in the right hand slot, featuring high critical rates and low damage typical of the dagger class.\nThe Parrying Dagger's parry lasts 7 frames which is the same as specialized parrying shields, such as the Target Shield. Similar to these shields, the recovery frames are also more numerous that other normal shields, making this dagger tricky to use for parrying.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5304354426516933,
+    "bm25_score": null
+  },
+  {
+    "document_id": "ac6afdd5-3e11-5f6c-ac73-ded86a9399fa",
+    "title": "Instability",
+    "section": "sources_of_instability",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Recoil from running out of stamina while blocking with a shield (e.g., getting guard broken)\nStagger immediately after getting parried\nWhile casting Gentle Prayer using a Sacred Chime\nWhile casting Steady Chant using a staff\nDuring the attacking animation of jump attacks\nDuring the attacking animation of running attacks",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5239463538254229,
+    "bm25_score": null
+  },
+  {
+    "document_id": "f9501db7-82a1-569b-84ae-5d8c3a7d17eb",
+    "title": "Harald Legion Knight",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Any projectile that hits the head of these knights will stagger them and deal about double the damage. As such, a ranged engagement of these enemies with bows or knives should not be overlooked.\n\nParrying their one-handed attacks opens them up for a riposte to deal great damage and stall time to fully charge a strong attack while they are getting up.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5228694964910179,
+    "bm25_score": null
+  },
+  {
+    "document_id": "d617fa0a-a466-5aca-96f6-7d8b96ddf99c",
+    "title": "Thrusting Swords",
+    "section": "overview",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Some thrusting swords deal very high critical (backstab and riposte) damage, similar to daggers in that regard.\n\nLike curved swords, thrusting swords have their own unique animation that replaces the kick attack. The player makes a horizontal swipe combined with a backstep. Also like curved swords, thrusting swords can be used to parry when wielded in the left hand.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5216151593617646,
+    "bm25_score": null
+  },
+  {
+    "document_id": "72f12d96-a1b8-5bbc-84c5-fb90c5b5fd46",
+    "title": "Target Shield",
+    "section": "description",
+    "game": "Dark Souls",
+    "entity_type": "shield",
+    "snippet": "Target Shield -  Dark Souls - shield - description \n description : Small round metal shield. Four protrusions used to parry attacks.\n\nSmall shields are always less stable, but landing critical hits after parry is easier. This shield is specialized for parrying.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5211955684123623,
+    "bm25_score": null
+  },
+  {
+    "document_id": "33e625d5-fe62-5407-9ed1-4fdade761077",
+    "title": "Grand Spirit Tree Shield",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "shield",
+    "snippet": "Grand Spirit Tree Shield -  Dark Souls II - shield - trivia \n trivia : Like all shields with spell parry, parrying emits a faint sphere of light from the player.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5209991639630233,
+    "bm25_score": null
+  },
+  {
+    "document_id": "33277d80-126c-5ff4-a2b2-b76369957f47",
+    "title": "Sorcerer (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "The starting Mail Breaker is a pretty weak weapon and is suitable mostly for Ripostes and Backstabs, especially since the Weapon Art Shield Splitter is the user's only notable help against shields.\n\nHaving a Leather Shield probably won't help much with survivability due to it having the poor damage blocking and low Stability characteristic of a Small Shield, though it does have the advantage of a Small Shield's improved Parry skill. As such it is best ignored unless planning to use that parry. For those actually wishing to block, the Large Leather Shield from the Shrine Handmaid can be wielded with one more point in Strength or the even stronger Silver Eagle Kite Shield can be found in High Wall of Lothric and wielded with 4 more Strength.\n\nWhile the Sorcerer's Set has bad physical defences it has quite good elemental defences and surprisingly high Curse resistance.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5175087817634565,
+    "bm25_score": null
+  },
+  {
+    "document_id": "3b500d9f-a968-5c81-bb0e-c1ba05069c7b",
+    "title": "Dragonslayer Greatshield",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Its skill is also very noteworthy in that it is not the same as the standard Shield Bash that its ilk possess. Rather, it is capable of outright knocking down its target, rather than simply staggering them. This can be useful in many situations, and can create windows of opportunity that other Shield Bashes cannot.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5172171224878623,
+    "bm25_score": null
+  },
+  {
+    "document_id": "43233d24-96c7-55e6-8d0a-1eaf079cb2c7",
+    "title": "Parrying Dagger (Dark Souls II)",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Parrying Dagger (Dark Souls II) -  Dark Souls II - weapon - characteristics \n characteristics : Despite having decent scaling, the low base damage and lack of a strong attack makes the Parrying Dagger unfit as a main weapon.\n\nHowever, it performs well when used for its intended purpose: the strong attack performs a parry which is among the best available in the game. With a low amount of startup frames, moderate amount of active parry frames and very fast recovery (on par with medium shields), the Parrying Dagger is a choice tool for deflecting enemy attacks and opening them up for a riposte.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.516205460140976,
+    "bm25_score": 19.632538480640616
+  },
+  {
+    "document_id": "240a04d8-05e6-58c1-81ec-c505c8ac05f2",
+    "title": "Parry and Riposte (Dark Souls III)",
+    "section": "weapons_that_cannot_be_parried",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Parry and Riposte (Dark Souls III) -  Dark Souls III - mechanic - weapons_that_cannot_be_parried \n weapons_that_cannot_be_parried : Any Ultra Greatsword, Greataxe, or Great Hammer two-handed (exceptions for rolling and running attacks)\nWhips\nAny ranged weapon\nCatalysts\nShields",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5158084366256808,
+    "bm25_score": null
+  },
+  {
+    "document_id": "e11663cd-a0c1-5e48-a3ff-7ef2e5c185fb",
+    "title": "Parry and Riposte (Dark Souls II)",
+    "section": "riposte",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Parry and Riposte (Dark Souls II) -  Dark Souls II - mechanic - riposte \n riposte : A riposte is a critical damage attack that can be executed after a successful parry (types 1 and 2) or a guard break (type 3). The exact calculations of riposte damage are not entirely clear. The riposte damage is **not** related to the weapon's counter damage modifier (that one only affects counter attacks).",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5126369375589007,
+    "bm25_score": 18.573569663975437
+  },
+  {
+    "document_id": "e500750c-920e-5f16-84bb-4c95d29c25a9",
+    "title": "Old Ironclad Armor",
+    "section": "trivia",
+    "game": "Dark Souls II",
+    "entity_type": "armor",
+    "snippet": "Old Ironclad Armor -  Dark Souls II - armor - trivia \n trivia : Although not mentioned in the in-game description, it does in fact stop backstabs.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5124656963272647,
+    "bm25_score": null
+  },
+  {
+    "document_id": "5520b49f-919f-528c-8f29-4672b572a666",
+    "title": "Long Sword",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Furthermore, the Stance grants the weapon some extra mobility and reach, and allows it to go up against shields effectively. A well timed shield break will guard break all but the toughest shields with relative ease, in both PvE and PvP. However, the slow attacks can be dodged easily if the enemy is ready to react.",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5123455960267087,
+    "bm25_score": 18.40303014362661
+  },
+  {
+    "document_id": "c5b6c6f9-805b-501c-b5de-cdb0c1708632",
+    "title": "Target Shield (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Target Shield (Dark Souls III) -  Dark Souls III - weapon - description \n description : A small, round metal shield.\n\nThe four distinctive protrusions are designed to brush attacks aside, making it ideal for parrying.\n\nSkill: Parry\nRepel an attack at the right time to follow up with a critical hit. Works while equipped in either hand.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.51084992804478,
+    "bm25_score": null
+  },
+  {
+    "document_id": "a35ed436-2b50-5cee-a5fc-cb18325cad68",
+    "title": "Parrying Dagger (Dark Souls III)",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Parrying Dagger (Dark Souls III) -  Dark Souls III - weapon - description \n description : Dagger with a greatly curved guard.\n\nA dagger made especially for parrying which is usually equipped in one's left hand in place of a shield.\n\nSkill: Parry\nDeflect an attack when timed properly and follow up with a critical hit. Works while equipped in either hand.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5088851412139781,
+    "bm25_score": null
+  },
+  {
+    "document_id": "8b53cad1-665e-5aa8-a284-496460e42e80",
+    "title": "Sanctum Knight",
+    "section": "notes",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Sanctum Knight -  Dark Souls II - enemy - notes \n notes : Cannot be backstabbed while in spirit form, but can be backstabbed once returned to their bodies.\nCan be parried and riposted.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5088604635962121,
+    "bm25_score": null
+  },
+  {
+    "document_id": "814e4369-5424-587d-a02d-3b4fc8e22f1f",
+    "title": "Instability",
+    "section": "sources_of_instability",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Certain enemies and bosses, when staggered due to taking enough Poise damage from attacks, are also vulnerable to Instability damage for a short time. Examples include Giant Man Serpents and Soul of Cinder. This also applies to enemies that have been parried (Peasant Hollows, Man Serpents, Ringed Knights) and shield-carrying enemies that have their guard broken (Lothric Knights, Darkwraiths, Pontiff Knights, Consumed King's Knights), assuming that the riposte is not immediately taken.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5081124737614776,
+    "bm25_score": null
+  },
+  {
+    "document_id": "93c5ff77-64c9-52b5-b325-a974a8019ffc",
+    "title": "Guardian",
+    "section": "attacks",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Guardian -  Dark Souls - enemy - attacks \n attacks : This attack is only performed after the Overwhelming Smash",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5073463001174126,
+    "bm25_score": null
+  },
+  {
+    "document_id": "88dcac94-6fc4-5d03-95d7-689678f0b93f",
+    "title": "Parry and Riposte (Dark Souls II)",
+    "section": "new_features",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Parry and Riposte (Dark Souls II) -  Dark Souls II - mechanic - new_features \n new_features : Listed below are some minor differences found in *Dark Souls II*, which may be slightly confusing to those who mastered these techniques in the original *Dark Souls* game.\nIn *Dark Souls II*, there is no temporary invincibility when parrying or riposting, but any damage received while performing these moves will be considerably less than normal (about 90% reduction).\nThe timing of a parry in *Dark Souls II* is different: it must be initiated when the enemy's attack animation begins, if parrying fast and medium weapons (daggers, straight swords, curved swords, etc.) or mid-swing, if parrying slow weapons (ultra greatswords, great hammers, etc.). In *Dark Souls*, parry had to be performed near the end of the animation (this difference, however, may not be very noticeable, it's more of a matter of personal preference).",
+    "sources": [
+      "dense",
+      "enhanced",
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": 0.5052124226679998,
+    "bm25_score": 18.04760036405815
+  },
+  {
+    "document_id": "71b54c43-b378-518a-80af-e114bf369ad5",
+    "title": "Parrying Dagger (Dark Souls III)",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Parrying Dagger (Dark Souls III) -  Dark Souls III - weapon - characteristics \n characteristics : As the name and descriptions suggest, this weapon is used almost exclusively for parrying. It is not recommended to use this a main weapon as its base damage and scaling are incredibly poor, even while having a high critical modifier.\n\nEven then its window for parries are equal to that of a medium shield, requiring you to adjust if you are used to most other parry tools.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5047347199493352,
+    "bm25_score": null
+  },
+  {
+    "document_id": "cc63847f-3b57-55a4-8fb3-f79202c8fc85",
+    "title": "Monastery Scimitar",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Compared to the Painting Guardian Sword, it lacks a unique two-handed strong attack. The Painting Guardian Sword has a two-handed variant of the one hand strong attack, hitting more and harder.\n\nA popular strategy was to use it as an offhand, parry-dedicated weapon, thanks to its instant parry frame. However, it lost its popularity soon after several patches which changed its parry frame.",
+    "sources": [
+      "dense",
+      "enhanced"
+    ],
+    "dense_score": 0.5043471392332057,
+    "bm25_score": null
+  },
+  {
+    "document_id": "64a5b9bc-8ea8-553c-8c63-bed4baf0711d",
+    "title": "Mimic (Dark Souls II)",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Mimic (Dark Souls II) -  Dark Souls II - enemy - strategy \n strategy : Mimics can be countered in a multitude of ways. One way to tell the difference between a wooden chest and a Mimic is to look at the front. If there is a lock, do not open it. If there's none, then it's a normal chest (but may still be rigged with a trap). It is also possible to see the Mimic's teeth underneath the lid, which is slightly open, as opposed to the fully closed lid of a normal chest.\n\nLikewise, there are differences between a normal iron chest and a Mimic which make them easier to tell apart. A Mimic disguised as an iron chest has a slightly clearer color scheme in comparison, and portrays two white vertical hinges on the front, one on each side.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 24.775727204545134
+  },
+  {
+    "document_id": "19ab210a-834d-5724-a337-72095773d5dc",
+    "title": "Follower Sabre",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Follower Sabre -  Dark Souls III - weapon - description \n description : Great curved sword wielded by Farron Followers. Its great weight enables heavy-handed chain attacks.\n\nThe Followers brandish their swords to hunt warriors taken by the Abyss. Their technique is honed to face men, implying those yet to lose their human aspect are their likeliest prey.\n\nSkill: Prying Wedge\nA chain attack that wedges below foes and swings upward, breaking their guard. Strong attack can be used to follow up the onslaught with a fatal blow.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.798200850733892
+  },
+  {
+    "document_id": "8bc3303a-2031-587e-bdd1-a50eaacf73c3",
+    "title": "Ammunition (Dark Souls II)",
+    "section": "general_information",
+    "game": "Dark Souls II",
+    "entity_type": "item",
+    "snippet": "Ammunition (Dark Souls II) -  Dark Souls II - item - general_information \n general_information : Each Ammunition type corresponds directly to a weapon class that can use them. Arrows work with Bows, Bolts work with Crossbows and Greatarrows work with Greatbows.\n\nAmmunition must first be equipped in the menu to either one of the Arrow Slots for Arrows and Greatarrows or the Bolts Slots for Bolts. Players have two slots for each type, allowing them to choose which projectile to fire each time. The Light Attack of the weapon uses the first type, the Strong Attack of the weapon uses the second.\n\nAll Ammunition types use the Attack Rating of the weapon that fires them. Unlike Spells, which only use the corresponding damage type, all damage types that the weapon has Attack rating for or the Ammunition adds are used for calculating damage.\n\nAll Ammunition types inflict Thrust damage, allowing them to deal counter damage when using the Old Leo Ring.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 22.098483144389668
+  },
+  {
+    "document_id": "a0135fe8-45a9-5ac5-abfd-1bd8e56561c7",
+    "title": "Grab",
+    "section": "general_information",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Grab -  Dark Souls - mechanic - general_information \n general_information : Grabs are unblockable, special attacks that can be performed by specific enemies and bosses. Although un-blockable, they are often telegraphed in advance and once recognized can, in most cases, be easily dodged.\n\nBackstabbing and Riposting can be thought of as types of grab attacks and, like grabs performed by enemies, usually can't be interrupted and the initiator and the victim are invulnerable to outside interaction. One exception is the Four Kings, which can be damaged by white phantoms while in the middle of their Soul Consumption grab attack.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.433596752971354
+  },
+  {
+    "document_id": "81e1a8bb-eb20-5a29-b5c1-6b4a9e44e2ca",
+    "title": "Dragonslayer Swordspear",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Dragonslayer Swordspear -  Dark Souls III - weapon - characteristics \n characteristics : The Dragonslayer Swordspear is a unique weapon with a different playstyle from other polearms.\n\nAs a cross spear, it is designed to allow for sweeping and thrusting attacks, giving it great versatility whether fighting single foes or multiple opponents, and whether in narrow corridors or in open fields. Choosing between the weak and strong attacks allows the wielder to perform both types of attacks, regardless of one-handing or two-handing the weapon.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 21.034769711666062
+  },
+  {
+    "document_id": "d8e5f7c9-6700-51c6-9b54-77b2bd2cd457",
+    "title": "Poise (Dark Souls II)",
+    "section": "hyper_armor",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Poise (Dark Souls II) -  Dark Souls II - mechanic - hyper_armor \n hyper_armor : Hyper Armor is a state a player or NPC can access, usually via specific weapon attacks, which changes how Poise Damage interacts with them.\n\nWhen Hyper Armor is active, attacks a character receives are altered in two ways:\nHyperstagger gets ignored.\nIncoming Poise Damage is reduced.\nThis way, attacks that can hyper stagger get countered by attacks from heavy weapons and characters that use them can make more use of Poise than characters with lighter weapons can.\n\nEach weapon has a specific Hyper Armor multiplier that corresponds to its weapon class. Weapon class doesn't entirely correlate with the menu 's specified class but rather with the moveset of the weapon.\n\nNot all attacks apply hyper armor, as a general rule it's limited to the slower attacks on weapons.\n\nDodge rolls have a similar mechanic where they simply ignore poise damage for a section of their animation after their iframes end.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.80091016675686
+  },
+  {
+    "document_id": "4a4fd15d-1b2c-5fc7-bcd6-1db7120a7a2c",
+    "title": "Lothric Knight",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Lothric Knight -  Dark Souls III - enemy - strategy \n strategy : Lothric Knights possess a significant amount of health and are aggressive fighters; however, most of their attacks are easy to dodge through and can easily be backstabbed by dodging behind them at the end of any of their attack chains. They are susceptible to parries, and by kicking when their shields are raised or one too many attacks are absorbed, one can score a critical hit after breaking their guard.\n\nThey utilize various weapon arts depending upon what they wield. For instance, the straight sword-wielding knights can perform a broad, horizontal slash that inflicts heavy stamina damage if blocked, and a vicious lunge attack that is surprisingly fast and deals heavy damage whilst potentially knocking the player down.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.799898552283548
+  },
+  {
+    "document_id": "d7e3a84f-45be-5378-8fc3-35eb74c0d72b",
+    "title": "Engorged Hollow",
+    "section": "strategies",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Engorged Hollow -  Dark Souls - enemy - strategies \n strategies : There will be no visible cloud of blood if the engorged hollow is killed with Fire damage and toxic discharge range will be extremely short in this case. However, if the player is pressed in very close for the killing blow, they can still be hit with toxic.\n\nSince the Toxic discharge has a very short range, the use of a ranged or long handled weapon, like a Spear or Halberd, is very effective.\n\nBackstabbing will delay the Toxin's release; however, the blood must still be avoided for a few seconds. Parrying and riposting will not work for avoiding the toxin.\n\nAttacking with a Spear or Thrusting Sword while simultaneously blocking with the Spider Shield will block the toxic discharge.\n\nA lethal attack with significant knockback, such as the Black Knight Greatsword's power attacks, will in general keep the toxic cloud away from the player.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.770202670460638
+  },
+  {
+    "document_id": "9ec60bd4-6fd3-586f-96f5-4e9cf49e6352",
+    "title": "Scimitar (Dark Souls III)",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Scimitar (Dark Souls III) -  Dark Souls III - weapon - characteristics \n characteristics : The Scimitar is a light and fast weapon that excels at chaining together numerous small attacks to quickly stack up damage on its target. Its attacks are fast with very short delays, but this is countered by having rather short range, requiring the wielder to get in close with the enemy. These characteristics help the Scimitar to define the \"light curved sword\" moveset that it shares with its lighter brethren.\n\nThe drawback of the Scimitar is that while it can chain together numerous small attacks, it lacks the heavier punch required to prevail against armored foes. Its strong attacks are simply chains of weak attacks, as is its skill. As well, it does not possess a kick, but rather a quick slash that can be used to create distance from a foe; this prevents the weapon from being used to break the guard of a shield.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.7098198028161
+  },
+  {
+    "document_id": "d910d22d-dda7-5d6b-a977-3196ec263cdd",
+    "title": "Soul of Cinder",
+    "section": "phase_1",
+    "game": "Dark Souls III",
+    "entity_type": "boss",
+    "snippet": "Soul of Cinder -  Dark Souls III - boss - phase_1 \n phase_1 : Soul of Cinder can use four different weapon stances, each utilizing different skills and attacks based on a magic type in the game (excluding hexes).\n***Standard (straight sword)**: It's default stance combines quick slashes and thrust attacks at range. Utilizes two unique weapon skills, one being an enhanced version of \"stance\", a \"guard breaking\" slash with increased range, and another which is two slow, but powerful, spin attacks.\n***Scimitar/Pyromancy**: Quick, horizontal slashes and wound-up vertical slashes, and a quick, evasive slash or backflip to avoid attacks and can parry attacks and deliver a riposte. Also uses a combination of many offensive pyromancies, including Power Within, Great Combustion, Great Chaos Fire Orb and Poison Mist.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.692613829582246
+  },
+  {
+    "document_id": "4d2df6f7-2fed-5c89-aefb-94e44e90f047",
+    "title": "Fume Knight",
+    "section": "attacks",
+    "game": "Dark Souls II",
+    "entity_type": "boss",
+    "snippet": "Fume Knight -  Dark Souls II - boss - attacks \n attacks : **Backward Slash:** Used when the player is standing to Raime's right or left. He will quickly slash down and back with either his greatsword or the longsword, always using the weapon on the side where the player is standing. Very little tell, can be difficult to dodge. He will do the same move when in his second phase as well, only this time it is more powerful with a higher starting lag.\n\n**Four-hit combo:** Raime will use the longsword in a three-hit combo, likely draining a lot of stamina if blocking and possibly guard-breaking the player. This can be dangerous as he can follow up the longsword attacks with a long, slow horizontal greatsword slash that deals high damage.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.494681968085533
+  },
+  {
+    "document_id": "3cfa46df-db34-50b1-be0b-8cc9471744c1",
+    "title": "Farron Flashsword",
+    "section": "use",
+    "game": "Dark Souls III",
+    "entity_type": "spell",
+    "snippet": "With a high pool of Intelligence, the damage of each slash can be on par with what a Crystal-infused straight sword is capable of. These traits allow sorcerers to have a reliable, and effective, close-quarters tool for dispatching of foes that close in on them, instead of having to run the risk of using ranged Sorceries at close range. Mixing Farron Flashsword with Soul Greatsword is an effective way to deal with aggressive enemies, and in terms of PvP, disorient or otherwise catch players off-guard.\n\nHowever, there is a catch to using this sorcery; since it behaves like a straight sword when in use, it is able to be parried much like one. This should be taken into consideration before engaging an enemy that can parry the caster or dons a parrying shield.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.46208349321221
+  },
+  {
+    "document_id": "7f3df1fc-2bf0-5341-8be2-b5bead6f1a74",
+    "title": "Homing Soulmass",
+    "section": "overview",
+    "game": "Dark Souls",
+    "entity_type": "spell",
+    "snippet": "The main weakness of Soulmasses is that the timing at which they fire cannot be controlled. This makes it somewhat ineffective against melee enemies using shields, as it tends to fire while they are guarding, doing significantly reduced damage, whereas other projectile sorceries can be timed to hit when the enemy goes into an animation in which their guard is down. Another weakness of Soulmassess is that when fighting larger opponents, such as the Bounding Demon of Izalith, the spell will activate prematurely and expire before reaching the target's actual hitbox unless the player or the target run towards each other.\n\nAgainst ranged attack enemies, and many bosses, who don't use shields, the spell is extremely effective, as the player can focus on blocking or dodging while it fires, and prepare new Soulmasses while in cover or between attacks. This is particularly useful in the fight against Dragonslayer Ornstein and Executioner Smough, for example.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 20.235491981779532
+  },
+  {
+    "document_id": "87c205ce-3131-54ad-9e38-2aa54e1751bf",
+    "title": "Halberds",
+    "section": "overview",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Halberds -  Dark Souls - weapon - overview \n overview : Halberds offer a mixture of the spears' range and thrusting attacks, along with a bladed edge similar to an axe for attacks that deal Regular or Slash damage. Because of the increased weight at the end of the weapon, however, the attacks are not quite as precise as they are with a Spear, and each swing tends to take one slightly off balance. Most of the spears' quick strikes are lost too, in favor of slower, but slightly more powerful attacks. The ability to use a variety of attack types at range, however, can be a very useful thing, as it enables one to be effective against most types of enemies.\n\nAll halberds besides the Scythe, Great Scythe, and Lifehunt Scythe deal Thrust damage on their weak attacks and are therefore eligible for counter attack bonuses.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.87971446804469
+  },
+  {
+    "document_id": "23fc5dd5-5498-5521-a83a-d8cfb212af20",
+    "title": "Charred Loyce Knight",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "A two-handed basic attack using a weapon with a 35 Poise-breaking rating is guaranteed to stagger a Charred Loyce Knight, so long as they have not been buffed due to the presence of a summon (if fighting the Burnt Ivory King); long weapons such as spears and halberds can help in keeping them from getting too close. If a knight is interrupted during their running attack, they may backstep if they are hit less than three times in succession, though they may chain this into a running counter-attack or even a jumping attack.\n\nThe Charred Loyce Knights will occasionally use their shields to block attacks, especially the pyromancer knight. However, they have relatively little stability and a few attacks will usually result in a guard break. While the knights cannot be backstabbed, they can be frontal-riposted during the guard break, which allows them to be quickly and easily dispatched.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.355225957155174
+  },
+  {
+    "document_id": "d4e06e13-6a8b-5a12-bf52-7674fc3717eb",
+    "title": "Target Shield (Dark Souls III)",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Target Shield (Dark Souls III) -  Dark Souls III - weapon - characteristics \n characteristics : The Target Shield has relatively low requirements to wield, though unlike most other shields it requires at least a small amount of investment in Dexterity. Like other Small Shields, it does not provide very much protection when used to block attacks.\n\nWhat sets the Target Shield apart from its peers is that it is one of three Parrying Shields in the game, along with the Small Leather Shield and the Buckler, with active parrying frames starting up faster than on most other Small Shields. In this regard, the Target Shield provides the best of both worlds, possessing a higher stability and physical absorption than the other two Parrying Shields, which allows it to somewhat safeguard its wielder from attacks.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.27364461415135
+  },
+  {
+    "document_id": "80a0d5a7-f5dc-580f-b5a9-0a4f03d66a3d",
+    "title": "Weapon Types (Dark Souls)",
+    "section": "hammers",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Weapon Types (Dark Souls) -  Dark Souls - weapon - hammers \n hammers : ;Hammers\nHammers are slow weapons designed for single, powerful strikes. If the enemy staggers, however, another strike can usually connect. Hammers, oddly, are about evenly split between Striking and Thrust attacks.\n\n;Great Hammers\nGreat Hammers are very slow weapons with good range designed for heavy strikes. All of the Great Hammers are immensely heavy, and this weight is used in large, powerful swings.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 19.224851609625585
+  },
+  {
+    "document_id": "07dd5c01-3893-50b6-80e4-147945d1e468",
+    "title": "Hollow Soldier (Dark Souls II)",
+    "section": "strategy",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Spear wielding soldiers use mostly lunging attacks with little tracking so they can be easily dodged by strafing to the side, however they can perform a sweeping attack.\n\nEstoc wielding soldiers strike at a medium speed and occasionally in a combo. Sometimes they will use their shield to guard. They are also capable of parrying the player.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.9741200846681
+  },
+  {
+    "document_id": "433bd2a7-450d-588c-ab72-099588c342a3",
+    "title": "Weapons (Dark Souls)",
+    "section": "attack_types_and_parameters",
+    "game": "Dark Souls",
+    "entity_type": "item",
+    "snippet": "Weapons (Dark Souls) -  Dark Souls - item - attack_types_and_parameters \n attack_types_and_parameters : All weapons have an Attack Type, otherwise known as a damage type, and can have values in Physical, Magic, Fire, and Lightning damage. Some weapons have varying movesets, or attacks, and each move may inflict a different type of physical damage. For example, some daggers inflict Slash or Thrust damage depending on which attack is used.\n\nWeapons have parameters, also called stat requirements that need to be met in order to be wielded properly. These are usually Strength and Dexterity but can also include Intelligence or Faith. If the Strength stat isn't met, two-handing the weapon will decrease the requirement, effectively increasing the player's Strength by a factor of 1.5. Many weapons also have parameter bonuses that scale with corresponding attributes, providing a higher attack rating.",
+    "sources": [
+      "bm25",
+      "hybrid"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.924705589291683
+  },
+  {
+    "document_id": "c4c57c58-58fa-58b5-a89d-384bc95dee4f",
+    "title": "Greatlance",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Greatlance -  Dark Souls III - weapon - characteristics \n characteristics : The strong attacks have the ability to hit enemies multiple times. The lance's general feature of each attack advancing the player forward can be used to punish retreating players, however, due to the buildup before each strike, the greatlance is easily avoided and dodged in most scenarios, making it inadequate for PvP.\n\nFor PvP, if you can land a weak attack while two-handing or using a shield allowing use for a weapon art while one-handing, you can follow up the weak attack with the weapon art which hits multiple times.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.70170558585086
+  },
+  {
+    "document_id": "f7908cea-5176-59ec-8b78-23968b6bc9cd",
+    "title": "Desert Sorceress",
+    "section": "attacks",
+    "game": "Dark Souls II",
+    "entity_type": "enemy",
+    "snippet": "Desert Sorceress -  Dark Souls II - enemy - attacks \n attacks : **Scattering Flame**\nThe Sorceress launches a volley of five fireballs into the air, which then arc downward, hitting the ground and exploding. The blasts are quite large and the damage from multiple flames can quickly prove fatal if a player is unfortunate enough to be in the area of multiple blasts. Fortunately, the flames explode on impact, which means they frequently fail to reach their full potential due to hitting the ceiling or walls. Their high arc and wide spread also allows players to step between the fireballs, or simply run under them harmlessly.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.661509594799025
+  },
+  {
+    "document_id": "f4ddf6d1-3d1c-54db-9f10-fd34755e3bc3",
+    "title": "Marvelous Chester",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "character",
+    "snippet": "Marvelous Chester -  Dark Souls - character - trivia \n trivia : Marvellous Chester does not use a regular player model, instead using a completely unique model and animation rig. This technique is used for Anastacia and Andre of Astora and for many of the NPCs featured in *Dark Souls II*.\n**The special Hornet Ring animation will not play when parrying/backstabbing Chester, nor can the Dark Hand be used to drain humanity from him like with every other human NPC.\n**This may also be the reason why he is the only invader encountered in the game that does not leave a Bloodstain upon being defeated.\nHe is the only other invader besides Kirk, Knight of Thorns who can be defeated more than once per playthrough.\n**Unlike Kirk, who can only invade three times in the entire game, Marvellous Chester will invade indefinitely unless his human form is killed.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.568173898268718
+  },
+  {
+    "document_id": "380386d9-f849-5693-affb-6e91ca146e9f",
+    "title": "Hydra",
+    "section": "strategy",
+    "game": "Dark Souls",
+    "entity_type": "enemy",
+    "snippet": "Hydra -  Dark Souls - enemy - strategy \n strategy : The Hydra can be defeated by severing its heads or by targeting the main body and using ranged attacks.\n\nAs the player moves closer to the shore, the Hydra will almost exclusively use its head strikes. After it lunges toward the player, each head will bury itself in the ground for a short time, presenting an opportunity to sever its vulnerable necks. As each head is defeated, the spread of the Hydra's attacks will diminish, making it easier for the player to finish the job.\n\nThe lunge attacks can be blocked or dodged. Certain spots can be found where the heads will completely miss the player. If the Hydra's position does not change, these spots can be exploited throughout the battle.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.231901400300917
+  },
+  {
+    "document_id": "62f2cce8-1999-542c-8b07-f6ae69b752a8",
+    "title": "Physical (damage type)",
+    "section": "general_information",
+    "game": "Dark Souls III",
+    "entity_type": "mechanic",
+    "snippet": "Physical (damage type) -  Dark Souls III - mechanic - general_information \n general_information : There are four forms of physical damage: Regular (absent from *Dark Souls II*), Strike, Slash and Thrust. Each have a corresponding defense stat that they are measured against. Because of this, certain physical damage may be ineffective against certain enemies, while other forms will be very effective.\n\nWhat damage type a particular weapon deals varies and can be determined by toggling a weapon's display and looking under \"Attack Type\". Many weapons will display two types of physical damage. Which one is dealt is dependent on which attack of its moveset is used.\n\nPhysical damage is encountered most commonly out of all the damage types when facing enemies and can also be encountered in the form of traps.\n\nAny Dexterity or Strength scaling a weapon possesses goes to its physical damage.\n\nAll shields reduce a high percentage of physical damage, many of them 100%.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.216908271940405
+  },
+  {
+    "document_id": "4bc0dc87-4824-5656-a2b3-cc277d8222fc",
+    "title": "Aged Smelter Sword",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Aged Smelter Sword -  Dark Souls II - weapon - characteristics \n characteristics : Visually, its design is very similar to the Smelter Sword. The only difference is that it glows blue, as it deals Magic damage, as opposed to Fire damage.\n\nWhilst being one of the heaviest weapons in the game, the Aged Smelter Sword features a unique moveset, where each strong attack is a combustion-inducing strike, creating a small, fiery explosion when the sword makes contact. Strong attacks consume 10 durability each; this can be partially mitigated with use of the Bracing Knuckle Ring variants. Unlike most boss soul weapons, the Aged Smelter Sword cannot be infused.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.189474013614316
+  },
+  {
+    "document_id": "74d707fe-9ed8-55ef-91be-a4c2e82d40fb",
+    "title": "Effigy Shield",
+    "section": "characteristics",
+    "game": "Dark Souls",
+    "entity_type": "shield",
+    "snippet": "Effigy Shield -  Dark Souls - shield - characteristics \n characteristics : The Effigy Shield has the highest defense against lightning of any shield in the game which unfortunately is not affected by the Lightning Upgrade Path. It has light deflection and normal parry speed. The crystal durability is 18.\n\nThis shield can be used without meeting the Faith requirement, as with the Sanctus. The Faith requirement only applies if it's used as a weapon. Blocking and parrying remain unhindered; however, the stability will be penalized, increasing the likelihood that the player's guard will break.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.145205837546833
+  },
+  {
+    "document_id": "ce637cb1-301f-5467-85c4-56d413b8fea6",
+    "title": "Stagger Damage",
+    "section": "execution",
+    "game": "Dark Souls",
+    "entity_type": "mechanic",
+    "snippet": "Stagger Damage -  Dark Souls - mechanic - execution \n execution : Inflicting stagger damage can be achieved in the following ways:\nAttacking after deflecting an enemy's attack with a shield or when the attack is deflected by a wall.\nAttacking after parrying, but in a position where riposting does not occur.\nAttacking after kicking an enemy.\nAttacking a blocking enemy that has run out of stamina.\n\nThe attack must be carried out in a relatively small window of time, which can vary depending on the enemy, for the damage bonus to take effect.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 18.05718321796207
+  },
+  {
+    "document_id": "45626fc0-a905-5c03-9e47-a62deb7d34e2",
+    "title": "Power Stance",
+    "section": "compatibility_chart",
+    "game": "Dark Souls II",
+    "entity_type": "mechanic",
+    "snippet": "Power Stance -  Dark Souls II - mechanic - compatibility_chart \n compatibility_chart : The following chart represents all powerstancing categories the game accepts as usable. These are placed in order of Preference given to them for the mechanic. The closer the weapon class is to the top left corner, the less Preference they are given. The 3 categories are represented thus:\n\n- : Non Compatible. These pairings cannot be powerstanced.\n1: Same Types: These pairings have equal Preference and thus which attacks are used is determined by the right hand weapon.\n2: Different Types: These pairings have different Preference, thus the weapon with more Preference will always determine the attacks used.\n\nThese Categories are generally determined by moveset, not the weapon class displayed in the menu. For example, Crypt Blacksword is considered a Greataxe despite saying Ultra Greatsword in the menu. Lists of each category are found on this page.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.96136736353764
+  },
+  {
+    "document_id": "c7c4a0e3-a9e4-50b9-8b88-40f4a13a17b9",
+    "title": "Small Leather Shield (Dark Souls III)",
+    "section": "characteristics",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Small Leather Shield (Dark Souls III) -  Dark Souls III - weapon - characteristics \n characteristics : With a low stat requirement and very light weight, the Small Leather Shield can be easily equipped by most any build in the game for almost no consequence. As it is a Small Shield, it provides pitiful defense when used to block attacks, even after upgrades.\n\nHowever, it is one of three shields in the game (along with the Buckler and the Target Shield) classified as a Parrying Shield, with active parry frames that begin sooner than those of other Small Shields. This makes it an ideal tool for parrying enemy attacks on reaction, rather than on prediction.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.92838136848239
+  },
+  {
+    "document_id": "8db4f344-4687-5acc-a920-65e231cd107c",
+    "title": "Lothric Knight Greatshield",
+    "section": "description",
+    "game": "Dark Souls III",
+    "entity_type": "weapon",
+    "snippet": "Lothric Knight Greatshield -  Dark Souls III - weapon - description \n description : Greatshield of the renowned Lothric Knights, decorated with a holy symbol.\n\nThe knights who formed the High Priestess' guard carried greatshields such as these, which were granted high magic absorption through her blessing.\n\nSkill: Shield Bash\nWithout lowering your guard, strike the enemy with the shield to knock them back or stagger them. Works while equipped in either hand.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.865654518094747
+  },
+  {
+    "document_id": "a050d201-a8ba-552a-a300-3fc92ec746d1",
+    "title": "Gauntlets",
+    "section": "overview",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Gauntlets -  Dark Souls - weapon - overview \n overview : Gauntlets have by far the shortest range of all the weapon types in *Dark Souls*, which means they require getting up close and personal with the enemy. They make up for their limited range with their speed. They can attack extremely fast, being able to create long chains of relentless attacks as long as the player's stamina holds out. Gauntlets are one of the few weapon classes that have the ability to parry when used in the left hand.\n\nWith a gauntlet weapon (including fists) equipped in the right hand, the kick animation is changed - rather than a heel kick, the character strikes with the knee. This does not seem to affect the function or range of the kick.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.801649737682272
+  },
+  {
+    "document_id": "b92cfaeb-e438-5060-a046-3550ace58729",
+    "title": "Fire Witch",
+    "section": "strategy",
+    "game": "Dark Souls III",
+    "entity_type": "enemy",
+    "snippet": "Fire Witch -  Dark Souls III - enemy - strategy \n strategy : Fire Witches use several different pyromancies that can cause heavy damage if the player is caught in them. They will usually switch between conjuring a trail of fire directly at the player or creating a single pillar of flame under their feet. Both of these attacks can be used from a long distance and can hit the player even if they are behind cover.\n\nThese enemies often appear with Pontiff Knights and Irithyllian Slaves, which makes them challenging to engage directly. It is recommended to take out the accompanying foes before dealing with the Witches themselves, as the player can easily be staggered by other attacks, leaving them open to the Witch's pyromancy.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.794117384403755
+  },
+  {
+    "document_id": "b6113e65-4cfe-5f54-a6d2-64b73010cd95",
+    "title": "Watcher Greatsword",
+    "section": "characteristics",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Watcher Greatsword -  Dark Souls II - weapon - characteristics \n characteristics : Similar to the Defender Greatsword, the Watcher Greatsword's special attack is a unique weapon buff, which is triggered by wielding it in both hands and pressing the Parry button. Rather than a lightning buff, however, the Watcher Greatsword can buff itself with magic.\n\nThis buff costs 10 durability each time, meaning it can be used up to five times until breaking. However, the use of the Bracing Knuckle Ring variants reduces the cost of the buff (depending on the level of the ring used), allowing the buff to be used more before breaking the weapon.\n\nIn addition to the buff adding magic damage, its fairly low physical stat requirements make it a practical choice for characters with high Intelligence. This, along with its lower weight, stat requirements, faster swing speed, and overall superior scaling makes it a much better choice than the Moonlight Greatsword for high Intelligence builds.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.751375226468664
+  },
+  {
+    "document_id": "2e01b423-9457-5de4-abba-ebcc6a5ff4b8",
+    "title": "Parrying Dagger",
+    "section": "trivia",
+    "game": "Dark Souls",
+    "entity_type": "weapon",
+    "snippet": "Parrying Dagger -  Dark Souls - weapon - trivia \n trivia : Characters that use this weapon (such as Lautrec and the Darkmoon Knightess) can block with the Parrying Dagger one-handed; however this action is not available for the player.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.651159555369997
+  },
+  {
+    "document_id": "0f925814-3402-5e31-bd3f-242e496939ef",
+    "title": "Weapon Types (Dark Souls II)",
+    "section": "polearms",
+    "game": "Dark Souls II",
+    "entity_type": "weapon",
+    "snippet": "Weapon Types (Dark Souls II) -  Dark Souls II - weapon - polearms \n polearms : ;Spears\nSpears are excellent weapons for tactical combat, as most Spears' one-handed light attacks can be used while still blocking and their range is impressive. However, their thrusting attacks only have a small hitbox so they are easily dodged. Spear players must take special care to let down their shield to recover stamina and avoid a guard break. Spears are best used to hold position in a narrow corridor and are a poor choice for agile or small enemies. Although Spears mostly do thrust damage, their rolling attacks actually deal strike damage, making them very effective against heavily armored enemies. As this weapon type is a polearm, one must hit with the tip of the Spear to deal maximum damage, and so this requires players to maintain their distance from the enemy.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.55963910172322
+  },
+  {
+    "document_id": "413e9109-53b9-54b5-8f43-92bd592eba6a",
+    "title": "Shields (Dark Souls III)",
+    "section": "lead",
+    "game": "Dark Souls III",
+    "entity_type": "item",
+    "snippet": "Shields (Dark Souls III) -  Dark Souls III - item - lead \n lead : **Shields** are a type of equipment in *Dark Souls III*. They serve the primary function of being used defensively, allowing for the blocking of incoming attacks from enemies. Much like any normally wielded weapon, they have special skills that can serve a variety of purposes, such as Parrying, shield bashing, and allowing the player to use a weapon skill directly from the guard.",
+    "sources": [
+      "bm25"
+    ],
+    "dense_score": null,
+    "bm25_score": 17.487538392127675
+  }
+]

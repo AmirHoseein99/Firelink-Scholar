@@ -19,8 +19,11 @@ class Settings(BaseSettings):
     langsmith_tracing: bool = False
     langsmith_project_name: str = "Firelink-Scholar"
     langsmith_run_name: str = "Firelink-Scholar-Run"
+    # Free-LLM proxy: the default backend for `python -m eval` answer building
+    # and judging (FREELLM_BASE_URL / FREELLM_MODEL / FREELLM_API_KEY).
     freellm_api_key: str = ""
-    freellm_model :str = ""
+    freellm_model: str = ""
+    freellm_base_url: str = "http://localhost:3001/v1"
     COLLECTION_NAME: str = ""
     QDRANT_PATH: str = ""
     OPENROUTER_BASE_URL: str= 'https://openrouter.ai/api/v1'
