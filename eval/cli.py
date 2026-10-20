@@ -35,6 +35,7 @@ from eval.report import (
     build_scores_report,
     comparison_text,
     status_text,
+    write_scores_csv,
     write_scores_report,
 )
 from eval.runs import load_run, resolve_run_paths
@@ -450,6 +451,12 @@ def cmd_score(args: argparse.Namespace) -> int:
     report_path = write_scores_report(report)
     print(comparison_text(scores))
     print(f"\nReport: {paths.relative(report_path)}")
+    if args.csv is not None:
+        csv_path = write_scores_csv(
+            scores,
+            Path(args.csv) if args.csv else paths.REPORTS / "scores.csv",
+        )
+        print(f"CSV: {paths.relative(csv_path)}")
     partial = any(score.get("partial") for score in scores.values())
     if partial:
         unjudged = sum(score["unjudged"]["n_ids"] for score in scores.values())
@@ -535,6 +542,14 @@ def build_parser() -> argparse.ArgumentParser:
         sub, "score", help_text="re-score saved runs against current qrels"
     )
     score.add_argument("--run", action="append", default=None)
+    score.add_argument(
+        "--csv",
+        nargs="?",
+        const="",
+        default=None,
+        metavar="PATH",
+        help="also write comparison scores to CSV (default: eval/reports/scores.csv)",
+    )
     score.add_argument("--strict", action="store_true")
     score.set_defaults(func=cmd_score)
     return parser

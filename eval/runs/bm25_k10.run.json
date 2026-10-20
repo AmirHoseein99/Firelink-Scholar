@@ -5,8 +5,8 @@
     "k": 10,
     "min_grade": 2,
     "qrels": "eval/qrels.json",
-    "created_at": "2026-10-19T12:42:46Z",
-    "qrels_sha256_at_creation": "",
+    "created_at": "2026-10-20T11:59:39Z",
+    "qrels_sha256_at_creation": "2709a927014d95f4c7e5a009f493362a53fd89796b004eb054214ca90d2379e7",
     "questions_sha256": "abebbcee036428319d22dd08929e4be9f51f51099749a679ebbc7b15cf70b97b"
   },
   "diagnostics": {
@@ -7987,5 +7987,5 @@
     "coverage": 1.0,
     "partial": false
   },
-  "scored_at": "2026-10-20T10:29:56Z"
+  "scored_at": "2026-10-20T12:32:48Z"
 }

@@ -10,6 +10,7 @@ from types import SimpleNamespace
 from eval.evaluate import evaluate
 from eval.llm import Backend
 from eval.prompts_grade import GRADE_PROMPT_SHA256
+from eval.report import write_scores_csv
 
 BACKEND = Backend("test", "http://test/v1", "x", "judge-model")
 
@@ -146,6 +147,42 @@ class TestEvaluate(unittest.TestCase):
                 dense["metrics"]["qrels_sha256"],
                 hybrid["metrics"]["qrels_sha256"],
             )
+
+    def test_scores_csv_has_row_per_run(self) -> None:
+        scores = {
+            "dense_k10": {
+                "overall": {"ndcg@5": 0.5, "ndcg@10": 0.6},
+                "coverage": 1.0,
+                "partial": False,
+                "unjudged": {"n_ids": 0},
+                "qrels_sha256": "abc",
+            },
+            "bm25_k10": {
+                "overall": {"ndcg@5": 0.1, "ndcg@10": 0.2},
+                "coverage": 0.5,
+                "partial": True,
+                "unjudged": {"n_ids": 3},
+                "qrels_sha256": "abc",
+            },
+        }
+        with tempfile.TemporaryDirectory() as tmp_name:
+            path = write_scores_csv(scores, Path(tmp_name) / "scores.csv")
+            lines = path.read_text().splitlines()
+        self.assertEqual(
+            lines[0].split(","),
+            [
+                "run",
+                "ndcg@5",
+                "ndcg@10",
+                "coverage",
+                "partial",
+                "n_unjudged",
+                "qrels_sha256",
+            ],
+        )
+        self.assertEqual(len(lines), 3)
+        self.assertTrue(lines[1].startswith("bm25_k10,0.1,0.2,0.5,True,3,abc"))
+        self.assertTrue(lines[2].startswith("dense_k10,0.5,0.6,1.0,False,0,abc"))
 
     def test_order_independent(self) -> None:
         mapping = {"dense": ["a", "b"], "hybrid": ["b", "c"]}

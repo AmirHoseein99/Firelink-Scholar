@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import csv
 from collections.abc import Iterable
 from pathlib import Path
 from typing import Any
@@ -116,6 +117,46 @@ def write_scores_report(
     path: Path = paths.REPORTS / "scores.json",
 ) -> Path:
     save_json(path, report)
+    return path
+
+
+def _metric_sort_key(metric: str) -> tuple[str, int, str]:
+    name, _, suffix = metric.partition("@")
+    return (name, int(suffix) if suffix.isdigit() else -1, metric)
+
+
+def scores_csv_rows(scores: dict[str, dict[str, Any]]) -> list[dict[str, Any]]:
+    """Flatten per-run scores into one row per run."""
+    names = sorted(scores)
+    metrics = sorted(
+        {metric for score in scores.values() for metric in (score.get("overall") or {})},
+        key=_metric_sort_key,
+    )
+    rows = []
+    for name in names:
+        score = scores[name]
+        overall = score.get("overall") or {}
+        row: dict[str, Any] = {"run": name}
+        row.update({metric: overall.get(metric) for metric in metrics})
+        row["coverage"] = score.get("coverage")
+        row["partial"] = score.get("partial", False)
+        row["n_unjudged"] = (score.get("unjudged") or {}).get("n_ids")
+        row["qrels_sha256"] = score.get("qrels_sha256", "")
+        rows.append(row)
+    return rows
+
+
+def write_scores_csv(
+    scores: dict[str, dict[str, Any]],
+    path: Path = paths.REPORTS / "scores.csv",
+) -> Path:
+    rows = scores_csv_rows(scores)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    fieldnames = list(rows[0]) if rows else ["run"]
+    with path.open("w", newline="", encoding="utf-8") as handle:
+        writer = csv.DictWriter(handle, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(rows)
     return path
 
 

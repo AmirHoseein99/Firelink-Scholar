@@ -53,6 +53,7 @@ which systems were run.
 | `runs/<system>_k<k>.run.json` | Saved retrieval runs and refreshed metrics |
 | `reports/question_review.json` | Question validator output |
 | `reports/scores.json` | Latest comparison of every saved run |
+| `reports/scores.csv` | Same comparison as one CSV row per run (`score --csv`) |
 | `archive/` | Retired harnesses and historical data; not imported by the CLI |
 
 `data/structured` is the source of truth for answer keys. Candidate sections
@@ -82,6 +83,8 @@ python -m eval evaluate --systems all --k 10
 #    or grade existing runs only, then score separately
 python -m eval grade --run dense_k10.run.json --run bm25_k10.run.json
 python -m eval score
+python -m eval score --csv            # also write eval/reports/scores.csv
+python -m eval score --csv out.csv    # or choose the output path
 
 # 5. Inspect
 python -m eval status

@@ -7,7 +7,7 @@ from src.llm.client import OpenAICompatibleAPI
 from src.retriever.prompt import build_prompt
 from src.retriever.vector_store import get_embeddings, get_vector_store
 
-model = OpenAICompatibleAPI(base_url=settings.NEURALWATT_BASE_URL, api_key=settings.NEURALWATT_API_KEY, model=settings.NEURALWATT_MODEL, provider="NeuralWatt")
+model = OpenAICompatibleAPI(base_url=settings.OPENROUTER_BASE_URL, api_key=settings.OPENROUTER_API_KEY, model=settings.OPENROUTER_MODEL, provider="OpenRouter")
 
 qwen_embeddings = get_embeddings()
 

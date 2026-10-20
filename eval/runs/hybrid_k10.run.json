@@ -5,8 +5,8 @@
     "k": 10,
     "min_grade": 2,
     "qrels": "eval/qrels.json",
-    "created_at": "2026-10-20T07:22:38Z",
-    "qrels_sha256_at_creation": "6e43bd06f1ac37da5f0e347c8b7fb6a571cb9b58b36886a565c7ee64b9999c67",
+    "created_at": "2026-10-20T12:02:38Z",
+    "qrels_sha256_at_creation": "2709a927014d95f4c7e5a009f493362a53fd89796b004eb054214ca90d2379e7",
     "questions_sha256": "abebbcee036428319d22dd08929e4be9f51f51099749a679ebbc7b15cf70b97b"
   },
   "diagnostics": {
@@ -266,12 +266,12 @@
       {
         "document_id": "6541c2a1-c454-540c-a05a-9dacad1d2ced",
         "title": "Greatsword of Artorias (Cursed)",
-        "score": 0.028665028665028666
+        "score": 0.028309409888357256
       },
       {
-        "document_id": "71c7695a-2d5b-5d39-8426-c5f5dae64e76",
-        "title": "Great Grey Wolf Sif",
-        "score": 0.02797067901234568
+        "document_id": "8208ca16-c392-549a-9f2e-f54d00e2921f",
+        "title": "Knight Artorias",
+        "score": 0.027236652236652236
       }
     ],
     "q006": [
@@ -823,12 +823,12 @@
       {
         "document_id": "e469c6b2-3be1-5d0b-a9dc-59feb13c2cce",
         "title": "Dragon Knight",
-        "score": 0.0264808362369338
+        "score": 0.026190476190476188
       },
       {
         "document_id": "526d603e-f67d-5087-a5e4-318a888226bf",
         "title": "Felicia the Brave",
-        "score": 0.02458521870286576
+        "score": 0.024422933730454205
       },
       {
         "document_id": "759dc93c-7e72-560f-9b8b-2ec5619ea402",
@@ -1155,7 +1155,7 @@
       {
         "document_id": "25380414-bbfd-5583-8210-eb76d0b16a14",
         "title": "Bearer of the Curse",
-        "score": 0.02649122807017544
+        "score": 0.026144907723855092
       }
     ],
     "q023": [
@@ -1928,7 +1928,7 @@
         "score": 0.015384615384615385
       },
       {
-        "document_id": "7e6e6f5d-9ee9-5cd5-8ade-835ef20a67e9",
+        "document_id": "ce6fb41f-c167-53dd-9e1d-3c9efb6c8d21",
         "title": "Attack Rating",
         "score": 0.015384615384615385
       },
@@ -2037,7 +2037,7 @@
         "score": 0.015384615384615385
       },
       {
-        "document_id": "a9891f4e-16b7-59e2-b86c-fe8ee35c4b76",
+        "document_id": "23b7fc91-0a3b-5e7e-9778-67d7427190c3",
         "title": "Manus, Father of the Abyss",
         "score": 0.015384615384615385
       }
@@ -2272,34 +2272,34 @@
         "score": 0.029411764705882353
       },
       {
-        "document_id": "36fe3603-acc9-5c57-8c25-ba7c42e9bee2",
-        "title": "Dragon",
-        "score": 0.02889344262295082
-      },
-      {
         "document_id": "6bffd669-5a11-5506-8f12-8e3a50092b52",
         "title": "Timeline",
         "score": 0.02857142857142857
       },
       {
+        "document_id": "36fe3603-acc9-5c57-8c25-ba7c42e9bee2",
+        "title": "Dragon",
+        "score": 0.02844163539403516
+      },
+      {
         "document_id": "fb2e0a23-47f2-5255-a9fb-43168be12fed",
         "title": "White Dragon Breath",
-        "score": 0.0277569392348087
-      },
-      {
-        "document_id": "ec173725-0c53-5d4a-ab32-13aca5d1a1ca",
-        "title": "Lords",
-        "score": 0.026984126984126985
-      },
-      {
-        "document_id": "bd5d257c-ebc7-5d27-844b-477d786f1b33",
-        "title": "Seath the Scaleless",
-        "score": 0.02666666666666667
+        "score": 0.02724014336917563
       },
       {
         "document_id": "7a5f88e6-d4ba-5f85-9fd3-67e06de9978e",
         "title": "Seath the Scaleless",
         "score": 0.02651914295749912
+      },
+      {
+        "document_id": "bd5d257c-ebc7-5d27-844b-477d786f1b33",
+        "title": "Seath the Scaleless",
+        "score": 0.02649122807017544
+      },
+      {
+        "document_id": "fa6fec6a-ad0b-5966-87c4-42a8127d5591",
+        "title": "Soul of a Great Hero",
+        "score": 0.023000660938532716
       }
     ],
     "q045": [
@@ -2319,24 +2319,24 @@
         "score": 0.03200204813108039
       },
       {
-        "document_id": "a4565120-e607-57a7-a392-bd29db8a4847",
-        "title": "Knight Artorias",
-        "score": 0.02819138376017471
-      },
-      {
         "document_id": "6b29fe29-3e4b-59b3-894e-b05482ac6b97",
         "title": "Abyss",
         "score": 0.027820121951219513
       },
       {
+        "document_id": "a4565120-e607-57a7-a392-bd29db8a4847",
+        "title": "Knight Artorias",
+        "score": 0.027313266443701224
+      },
+      {
         "document_id": "8d7f3344-f80d-5818-90f5-30a3408b0e72",
         "title": "Four Kings",
-        "score": 0.027242401779095628
+        "score": 0.02649122807017544
       },
       {
         "document_id": "bc545255-28ab-5a58-b4c5-43aa0df33981",
         "title": "Abyss",
-        "score": 0.025206087507926443
+        "score": 0.02424331472230385
       },
       {
         "document_id": "6ba04430-6a60-5a7d-bc0b-eea3801dfaf8",
@@ -2554,7 +2554,7 @@
       {
         "document_id": "387fa414-e248-5e45-b01f-14ef5fd33554",
         "title": "Hollowing",
-        "score": 0.023973585989089864
+        "score": 0.0238230289279637
       },
       {
         "document_id": "3929765d-b081-5467-b6bb-4b7ac06f2832",
@@ -2643,27 +2643,27 @@
       {
         "document_id": "735ac6e0-b150-5cc2-a8f6-c75d5c6886d4",
         "title": "Chosen Undead",
-        "score": 0.028373015873015873
+        "score": 0.02736726874657909
       },
       {
         "document_id": "8131281b-b352-550f-9b7a-2f839e3a09f0",
         "title": "Four Kings",
-        "score": 0.02832415420928403
+        "score": 0.02736498731424429
       },
       {
         "document_id": "5b52eb4d-c71d-5439-bde2-0cc72077a581",
         "title": "Knight Artorias",
-        "score": 0.028309409888357256
-      },
-      {
-        "document_id": "182e3d46-fdee-56d1-8f7e-dacc19ce04b1",
-        "title": "Four Kings",
-        "score": 0.027402402402402402
+        "score": 0.027346637102734665
       },
       {
         "document_id": "a4565120-e607-57a7-a392-bd29db8a4847",
         "title": "Knight Artorias",
         "score": 0.02715098147128967
+      },
+      {
+        "document_id": "6b29fe29-3e4b-59b3-894e-b05482ac6b97",
+        "title": "Abyss",
+        "score": 0.026830135039090264
       }
     ],
     "q052": [
@@ -2685,49 +2685,44 @@
       {
         "document_id": "605dc6a0-4a57-5f93-ac66-56498edbace2",
         "title": "Dragon Slayer Ornstein and Executioner Smough",
-        "score": 0.030309988518943745
+        "score": 0.029877369007803793
+      },
+      {
+        "document_id": "4460dd6d-a875-59cd-a74e-155ec0ce4b36",
+        "title": "Dragon Slayer Ornstein and Executioner Smough",
+        "score": 0.029850746268656716
       },
       {
         "document_id": "16795989-f803-5757-a9c2-7bfb1d91bf7a",
         "title": "Dragon Slayer Ornstein and Executioner Smough",
-        "score": 0.029857397504456328
+        "score": 0.029437229437229435
       },
       {
-        "document_id": "9f314ead-5533-5c5c-925c-87b821a6ecc7",
-        "title": "Old Dragonslayer",
-        "score": 0.02792120864410021
-      },
-      {
-        "document_id": "376a38cd-9f8a-50ff-a6fb-2e361f81732e",
+        "document_id": "759f84d1-742b-5a88-9b81-2a0d1c109e25",
         "title": "Dragon Slayer Ornstein and Executioner Smough",
-        "score": 0.027212143650499815
+        "score": 0.02668564312399929
+      },
+      {
+        "document_id": "467e624a-aaea-53e7-80ab-ed2c26775039",
+        "title": "Dragon Slayer Ornstein and Executioner Smough",
+        "score": 0.02638888888888889
       },
       {
         "document_id": "7bae3c05-ec08-5608-a8a7-02aa5e1ee7a0",
         "title": "Dragon Slayer Ornstein and Executioner Smough",
-        "score": 0.026687875574407917
+        "score": 0.026279628993473032
       },
       {
-        "document_id": "41f9161b-fe14-5db4-9cb8-ae5a33f690ab",
+        "document_id": "59ce4a62-1732-5f14-a2b1-f19d877c4cec",
         "title": "Dragon Slayer Ornstein and Executioner Smough",
-        "score": 0.026171741361614778
-      },
-      {
-        "document_id": "b75f9dfc-cd42-52c1-beba-1b0755b05917",
-        "title": "Executioner Smough",
-        "score": 0.023676099747828524
+        "score": 0.026234567901234566
       }
     ],
     "q053": [
       {
         "document_id": "20685135-ba08-5825-ab00-c1b1373528d7",
         "title": "Knight Artorias",
-        "score": 0.029083245521601686
-      },
-      {
-        "document_id": "9949cb20-3bc2-59d1-8d22-371b104d1f8f",
-        "title": "Knight Artorias",
-        "score": 0.027692895339954164
+        "score": 0.027783137179239824
       },
       {
         "document_id": "73db0c09-77eb-57c7-9c82-3aaac8dc46eb",
@@ -2735,14 +2730,19 @@
         "score": 0.02724014336917563
       },
       {
+        "document_id": "9949cb20-3bc2-59d1-8d22-371b104d1f8f",
+        "title": "Knight Artorias",
+        "score": 0.02661064425770308
+      },
+      {
         "document_id": "653f9bc5-bb06-5b2d-adad-bf54f1b6ca06",
         "title": "Knight Artorias",
-        "score": 0.02667140825035562
+        "score": 0.025561706284597852
       },
       {
         "document_id": "dbde7d75-06a7-520b-b017-5550fe901781",
         "title": "Knight Artorias",
-        "score": 0.0264301860545992
+        "score": 0.0251661918328585
       },
       {
         "document_id": "004ab82e-a5d1-5a88-a9d1-16d0d8b1c4cb",
@@ -2765,7 +2765,7 @@
         "score": 0.015873015873015872
       },
       {
-        "document_id": "f953afc6-9950-566e-b48f-8bf86c5ae1cf",
+        "document_id": "82fdfebb-c2f9-5191-aece-295198caecb2",
         "title": "Knight Artorias",
         "score": 0.015873015873015872
       }
@@ -2779,7 +2779,7 @@
       {
         "document_id": "8cc33d20-f2d2-5595-af3f-e55b4afb26f2",
         "title": "Bed of Chaos",
-        "score": 0.029571646010002173
+        "score": 0.0293236301369863
       },
       {
         "document_id": "8acad408-595d-5a2d-a197-db0200146f04",
@@ -2787,24 +2787,24 @@
         "score": 0.02878726010616578
       },
       {
+        "document_id": "a360218b-615b-575c-8e77-02f316806457",
+        "title": "Bed of Chaos",
+        "score": 0.027650648360030512
+      },
+      {
         "document_id": "9943d9db-92f4-59ec-b198-43e58d1592aa",
         "title": "Demon (lore)",
-        "score": 0.027402402402402402
+        "score": 0.02638888888888889
       },
       {
         "document_id": "cb958af6-edce-5353-914c-88f786b1497b",
         "title": "Old Demon King",
-        "score": 0.027205882352941177
+        "score": 0.026333789329685362
       },
       {
         "document_id": "604ba8c7-d982-5ad1-b540-34772167a904",
         "title": "Old Iron King",
-        "score": 0.026878868258178604
-      },
-      {
-        "document_id": "6e6a9279-735f-5f04-879d-e9844df106b6",
-        "title": "Spear of the Church",
-        "score": 0.025448143405889884
+        "score": 0.02557875991581674
       },
       {
         "document_id": "d3d0723c-8a3e-55e3-a012-18482c42b3a5",
@@ -2817,9 +2817,9 @@
         "score": 0.015873015873015872
       },
       {
-        "document_id": "e15862e1-6882-5d9d-a11f-e8c535d70e0b",
-        "title": "Quelana of Izalith",
-        "score": 0.015625
+        "document_id": "a5ed8d54-a1f2-5d06-8e98-1dbd74dc1491",
+        "title": "Bed of Chaos",
+        "score": 0.015873015873015872
       }
     ],
     "q055": [
@@ -2839,91 +2839,91 @@
         "score": 0.03200204813108039
       },
       {
+        "document_id": "8f0b1afa-55dc-504a-a2d9-fefc1b5adcf9",
+        "title": "Seath the Scaleless",
+        "score": 0.0315136476426799
+      },
+      {
         "document_id": "9f5baaa0-38b2-50da-96c9-8a956bec1ab9",
         "title": "Moonlight Greatsword (Dark Souls)",
-        "score": 0.029857397504456328
+        "score": 0.028665028665028666
       },
       {
         "document_id": "b1296deb-8a22-540f-bc9a-77ce1ae305fb",
         "title": "Seath the Scaleless",
-        "score": 0.026709401709401708
+        "score": 0.025793650793650792
+      },
+      {
+        "document_id": "cfbca87d-4807-5112-902c-9666e582dcec",
+        "title": "Seath the Scaleless",
+        "score": 0.025195618153364633
       },
       {
         "document_id": "d50e0819-9375-56b9-bc48-103011044c49",
         "title": "Seath the Scaleless",
-        "score": 0.025807525807525808
+        "score": 0.024868705591597158
       },
       {
         "document_id": "6058a25d-f918-5ef3-849f-b79cdaa7d006",
         "title": "Seath the Scaleless",
-        "score": 0.025035205758097326
+        "score": 0.024222968043192763
       },
       {
         "document_id": "105c26d4-c5cc-5fe8-a0b8-9587f7544be8",
         "title": "Moonlight Greatsword (Dark Souls III)",
-        "score": 0.02389418290428104
-      },
-      {
-        "document_id": "8f0b1afa-55dc-504a-a2d9-fefc1b5adcf9",
-        "title": "Seath the Scaleless",
-        "score": 0.016129032258064516
-      },
-      {
-        "document_id": "deaa3e18-869a-5f09-beb0-8c9005d62309",
-        "title": "Seath the Scaleless",
-        "score": 0.015625
+        "score": 0.023000660938532716
       }
     ],
     "q056": [
       {
         "document_id": "e4f27aa9-c202-5a1b-81a7-868ae24fdd02",
         "title": "Curse (Dark Souls II)",
-        "score": 0.03200204813108039
+        "score": 0.03128054740957967
       },
       {
         "document_id": "1d201d93-6a11-5ba6-a108-e39ca952ba49",
         "title": "Negative Status Effects (Dark Souls III)",
-        "score": 0.03177805800756621
+        "score": 0.030886196246139225
       },
       {
         "document_id": "e197e896-5380-5ad5-8620-b2c807ddead2",
         "title": "Curse (Dark Souls)",
-        "score": 0.03149801587301587
+        "score": 0.030798389007344232
+      },
+      {
+        "document_id": "1f76c2c6-4075-5d1e-83cf-938146965e99",
+        "title": "Seath the Scaleless",
+        "score": 0.03057889822595705
+      },
+      {
+        "document_id": "b79158ed-b000-5389-9f8d-4d8bc4e66568",
+        "title": "Seath the Scaleless",
+        "score": 0.030117753623188408
+      },
+      {
+        "document_id": "cfbca87d-4807-5112-902c-9666e582dcec",
+        "title": "Seath the Scaleless",
+        "score": 0.029273504273504274
       },
       {
         "document_id": "9b9ef8e9-52df-5973-809f-8ddbfca26344",
         "title": "Negative Status Effects (Dark Souls II)",
-        "score": 0.030330882352941176
+        "score": 0.029138513513513514
       },
       {
         "document_id": "2e5d4529-5015-59f6-aac6-1eaf469fce6f",
         "title": "Seath the Scaleless",
-        "score": 0.029850746268656716
+        "score": 0.02900988017658188
+      },
+      {
+        "document_id": "b747919d-a343-56ac-86e9-65ab236d4153",
+        "title": "Seath the Scaleless",
+        "score": 0.028790389395194696
       },
       {
         "document_id": "2b2a5225-e62d-5a4e-b888-0e57da6964a3",
         "title": "Curse (Dark Souls III)",
-        "score": 0.027972027972027972
-      },
-      {
-        "document_id": "8462211c-47c6-5b86-8b02-7a9f7f279364",
-        "title": "Curse (Dark Souls II)",
-        "score": 0.02749719416386083
-      },
-      {
-        "document_id": "b00df5d4-9086-5bc1-99dc-d684b6e4d4e3",
-        "title": "Banshee",
-        "score": 0.025708635464733027
-      },
-      {
-        "document_id": "a689e21e-5317-58e2-b1a3-8ff39c61a68c",
-        "title": "Curse (Dark Souls III)",
-        "score": 0.025158227848101268
-      },
-      {
-        "document_id": "4263596c-c7ab-50db-8082-4a0c936cd113",
-        "title": "Curse (Dark Souls III)",
-        "score": 0.024725274725274724
+        "score": 0.027106227106227107
       }
     ],
     "q057": [
@@ -2945,7 +2945,12 @@
       {
         "document_id": "aa588157-615c-5271-9cc5-e4fef3a27819",
         "title": "Black Dragon Kalameet",
-        "score": 0.029083245521601686
+        "score": 0.02854251012145749
+      },
+      {
+        "document_id": "f0dfe5a9-fbce-5da7-ae88-0ef14165d32c",
+        "title": "Black Dragon Kalameet",
+        "score": 0.028474711270410194
       },
       {
         "document_id": "4f55014a-92e5-5538-9405-e708a624796c",
@@ -2953,19 +2958,14 @@
         "score": 0.028258706467661692
       },
       {
-        "document_id": "3837a21d-2708-50fd-b392-e42b01477d6e",
+        "document_id": "bf4a5a9e-eb87-5fd3-b8b9-c9538b89b569",
         "title": "Black Dragon Kalameet",
-        "score": 0.027984344422700584
+        "score": 0.027820121951219513
       },
       {
-        "document_id": "b2d61522-ac4c-509a-80ff-df4bac1e7b28",
-        "title": "Black Dragon Greataxe",
-        "score": 0.027799227799227798
-      },
-      {
-        "document_id": "577287fa-bf8f-534e-82dd-a8fb181b6e55",
-        "title": "Black Dragon Warpick",
-        "score": 0.027777777777777776
+        "document_id": "c4ccc488-d5d6-550e-bee1-d40bf0ffb519",
+        "title": "Black Dragon Kalameet",
+        "score": 0.027745885954841176
       },
       {
         "document_id": "73413c6c-8fb7-54de-93ee-bae10ec16321",
@@ -2973,9 +2973,9 @@
         "score": 0.027629397679130595
       },
       {
-        "document_id": "bfc71cb4-5e38-5465-afc6-517f00a48f14",
-        "title": "Black Dragon Sword",
-        "score": 0.027417840375586856
+        "document_id": "3837a21d-2708-50fd-b392-e42b01477d6e",
+        "title": "Black Dragon Kalameet",
+        "score": 0.02758751902587519
       }
     ],
     "q058": [
@@ -2987,17 +2987,17 @@
       {
         "document_id": "beac8fa1-aee8-5f09-9324-02cdcc770c85",
         "title": "Soul of Sinh, the Slumbering Dragon",
-        "score": 0.029206349206349208
-      },
-      {
-        "document_id": "e18ace03-404c-5f8f-a3d1-9b9e7ddf3914",
-        "title": "Dragon",
-        "score": 0.02862400327131466
+        "score": 0.028068137824235385
       },
       {
         "document_id": "14856447-c965-5522-9587-3b890431db2b",
         "title": "Sinh, the Slumbering Dragon",
         "score": 0.02803921568627451
+      },
+      {
+        "document_id": "e18ace03-404c-5f8f-a3d1-9b9e7ddf3914",
+        "title": "Dragon",
+        "score": 0.027912386121341344
       },
       {
         "document_id": "069dc613-e2db-58a3-8ec4-b61df702af9b",
@@ -3007,27 +3007,27 @@
       {
         "document_id": "38a5d8d8-bda7-5313-8ba8-09c4595fa428",
         "title": "Soul of Sinh, the Slumbering Dragon",
-        "score": 0.02658450704225352
+        "score": 0.025448143405889884
       },
       {
         "document_id": "0419342d-81d1-5905-af47-cae0e69e6dd8",
         "title": "Sinh, the Slumbering Dragon",
-        "score": 0.02571241401899771
-      },
-      {
-        "document_id": "5325a4d5-74f4-5940-a452-0576e6fa0eed",
-        "title": "Dragon",
-        "score": 0.0251414204902577
+        "score": 0.024961240310077522
       },
       {
         "document_id": "a15113b0-aa2a-54db-97df-7b39a61a5327",
         "title": "Dragon",
-        "score": 0.02485334979932078
+        "score": 0.0238230289279637
       },
       {
         "document_id": "c70a81ec-49b2-5f37-8842-3975708e1399",
         "title": "Ancient Dragon",
-        "score": 0.02368937482478273
+        "score": 0.02260536398467433
+      },
+      {
+        "document_id": "d20277e7-7413-59fb-a4ec-db1302e81fb8",
+        "title": "Sinh, the Slumbering Dragon",
+        "score": 0.01639344262295082
       }
     ],
     "q059": [
@@ -3111,27 +3111,27 @@
       {
         "document_id": "4d78d58d-e549-585f-93f2-990b7ff7554d",
         "title": "Looking Glass Armor",
-        "score": 0.029437229437229435
+        "score": 0.029236022193768675
       },
       {
         "document_id": "023b422c-5ee8-56ae-bc03-6469438a47b6",
         "title": "Looking Glass Set",
-        "score": 0.029437229437229435
+        "score": 0.029211087420042643
       },
       {
         "document_id": "d3841f24-0034-538a-9e87-d4d2e1a0855a",
         "title": "Looking Glass Knight",
-        "score": 0.0288981288981289
+        "score": 0.028205128205128206
       },
       {
         "document_id": "c5925f58-1eeb-598b-be02-9ec2f795a307",
         "title": "Looking Glass Knight",
-        "score": 0.02821939586645469
+        "score": 0.028006267136701922
       },
       {
-        "document_id": "af5e7fb1-cd5c-522e-91ee-5cd7aaa27a80",
-        "title": "Looking Glass Gauntlets",
-        "score": 0.027425373134328357
+        "document_id": "045d2437-88f4-59cd-8673-26a3a1d4e6b4",
+        "title": "Player versus Player (Dark Souls II)",
+        "score": 0.02749719416386083
       }
     ],
     "q061": [
@@ -3215,7 +3215,7 @@
       {
         "document_id": "45de3538-d41d-5e22-b464-cce87a754548",
         "title": "Storm Curved Sword",
-        "score": 0.02871794871794872
+        "score": 0.027884615384615386
       },
       {
         "document_id": "f34cebd1-db6b-56c5-a879-588eea1fd7e9",
@@ -3223,19 +3223,19 @@
         "score": 0.026540946394272742
       },
       {
-        "document_id": "54adfce0-f831-5cbd-b3a7-ffc547794f82",
-        "title": "Soul of the Nameless King",
-        "score": 0.026161328190508135
-      },
-      {
-        "document_id": "79acde14-af5b-5793-9e63-f7c57c330af4",
-        "title": "Lightning Storm",
-        "score": 0.025849212924606464
-      },
-      {
         "document_id": "b6decb33-68b9-5507-8371-43d7dd328f43",
         "title": "Soul of the Nameless King",
-        "score": 0.02532051282051282
+        "score": 0.024184149184149184
+      },
+      {
+        "document_id": "fec30fbc-5913-587c-96d9-0f5d4c65bd01",
+        "title": "Soul of the Nameless King",
+        "score": 0.024099883855981417
+      },
+      {
+        "document_id": "1d8a291b-c847-5c8a-bdf6-d06f6e7a3a0a",
+        "title": "Thrust (Dark Souls III)",
+        "score": 0.015151515151515152
       }
     ],
     "q063": [
@@ -3483,8 +3483,8 @@
         "score": 0.015625
       },
       {
-        "document_id": "b67735aa-d1ad-5af4-b07d-45ba16b493f5",
-        "title": "Stone Greatsword",
+        "document_id": "c6d9a40c-326e-58a8-bca1-d63ad6b287b8",
+        "title": "Thrust (damage type)",
         "score": 0.015625
       },
       {
@@ -3493,8 +3493,8 @@
         "score": 0.015384615384615385
       },
       {
-        "document_id": "34b699fb-509a-51d3-baa9-818f4ea274e0",
-        "title": "Pike (Dark Souls III)",
+        "document_id": "c4c57aef-bb08-5bf5-a1e8-94e7aadbb160",
+        "title": "Strike (damage type)",
         "score": 0.015384615384615385
       }
     ],
@@ -3527,12 +3527,12 @@
       {
         "document_id": "f64ff929-4354-5554-9117-f3e0bc078153",
         "title": "Spell (Dark Souls II)",
-        "score": 0.028298204527712725
+        "score": 0.028021349599695006
       },
       {
         "document_id": "3e2afe41-4344-5ec1-bbf6-d04585b060bc",
         "title": "Elemental Damage",
-        "score": 0.027583600982429624
+        "score": 0.027271052146674038
       },
       {
         "document_id": "44e79f4f-2fc2-53d5-b11f-878f1334d018",
@@ -3547,7 +3547,7 @@
       {
         "document_id": "90b1a522-c0fd-5bb3-bc15-022ae94d3f10",
         "title": "Spell Buff",
-        "score": 0.026333789329685362
+        "score": 0.02606951871657754
       }
     ],
     "q069": [
@@ -3715,27 +3715,27 @@
       {
         "document_id": "f64ff929-4354-5554-9117-f3e0bc078153",
         "title": "Spell (Dark Souls II)",
-        "score": 0.030309988518943745
+        "score": 0.030090497737556562
       },
       {
         "document_id": "a6b05783-cc13-5557-9dd6-bdb8c92230be",
         "title": "Weapon Types (Dark Souls)",
-        "score": 0.02782608695652174
+        "score": 0.027313266443701224
       },
       {
         "document_id": "56bcea78-1df5-5362-b195-a2bac9fcbf48",
         "title": "Pyromancy Flames (Dark Souls III)",
-        "score": 0.0264808362369338
+        "score": 0.026050420168067225
       },
       {
         "document_id": "29f8f1da-78c2-5421-849e-7b9a212e2c62",
         "title": "Bonfire (Dark Souls)",
-        "score": 0.025603392041748205
+        "score": 0.02506265664160401
       },
       {
         "document_id": "f243f15c-da77-545b-ae02-6d6cf374d917",
         "title": "Pyromancy (Dark Souls)",
-        "score": 0.02399425287356322
+        "score": 0.02361111111111111
       },
       {
         "document_id": "3031b5ba-8284-59f9-b6d0-68972c9dbcdb",
@@ -4114,7 +4114,7 @@
       {
         "document_id": "9ebdcbc7-37e9-5b45-8b6d-35727a9b4079",
         "title": "Ending (Dark Souls III)",
-        "score": 0.027912386121341344
+        "score": 0.027745885954841176
       },
       {
         "document_id": "5fe9f141-c432-5802-9ba3-d32b94198c08",
@@ -4946,7 +4946,7 @@
       {
         "document_id": "63abf556-adc8-53c7-b11b-b177d4c83930",
         "title": "Giant Lord",
-        "score": 0.024614919963757174
+        "score": 0.024481265860576206
       },
       {
         "document_id": "7a54d35d-26bb-573a-ac63-2189871f88a0",
@@ -4958,27 +4958,27 @@
       {
         "document_id": "7d800801-d74e-5be6-a569-aa0512f97474",
         "title": "Guard Break",
-        "score": 0.03131881575727918
+        "score": 0.031099324975891997
       },
       {
         "document_id": "61bb981e-9052-50c7-9d8c-bdc46ee457a2",
         "title": "Parry and Riposte",
-        "score": 0.027364110201042444
+        "score": 0.027051561365286855
       },
       {
         "document_id": "b51fedcf-d6d2-5901-9b5c-abfc35d1c901",
         "title": "Parry and Riposte (Dark Souls II)",
-        "score": 0.026878868258178604
+        "score": 0.02662057044079516
       },
       {
         "document_id": "02ee854f-ac29-569c-a212-9a4853beb25a",
         "title": "Royal Guard",
-        "score": 0.025833333333333333
+        "score": 0.02548701298701299
       },
       {
         "document_id": "d60c1271-e492-510f-9807-e34d36d1b704",
         "title": "Backstab",
-        "score": 0.024624624624624628
+        "score": 0.024269005847953218
       },
       {
         "document_id": "a566bb86-ff54-59bf-a79c-2421366d65ee",
@@ -5328,21 +5328,21 @@
         "category": "lore",
         "metrics": {
           "ndcg@5": 0.6089419728454368,
-          "ndcg@10": 0.6833467365929738,
-          "ndcg@20": 0.5238095831540199,
+          "ndcg@10": 0.6288146324224438,
+          "ndcg@20": 0.48200878536797453,
           "recall@5": 0.23809523809523808,
           "mrr@5": 1.0,
           "precision@5": 1.0,
           "claim_coverage@5": 0.6,
           "claim_coverage_all@5": 0.5,
-          "recall@10": 0.42857142857142855,
+          "recall@10": 0.38095238095238093,
           "mrr@10": 1.0,
-          "precision@10": 0.9,
+          "precision@10": 0.8,
           "claim_coverage@10": 1.0,
           "claim_coverage_all@10": 0.8333333333333334,
-          "recall@20": 0.42857142857142855,
+          "recall@20": 0.38095238095238093,
           "mrr@20": 1.0,
-          "precision@20": 0.45,
+          "precision@20": 0.4,
           "claim_coverage@20": 1.0,
           "claim_coverage_all@20": 0.8333333333333334
         },
@@ -6341,22 +6341,22 @@
       "q044": {
         "category": "lore",
         "metrics": {
-          "ndcg@5": 0.9250256699929476,
-          "ndcg@10": 0.831674093730146,
-          "ndcg@20": 0.6217643081127404,
+          "ndcg@5": 1.0,
+          "ndcg@10": 0.780996188795585,
+          "ndcg@20": 0.583877216599626,
           "recall@5": 0.21739130434782608,
           "mrr@5": 1.0,
           "precision@5": 1.0,
-          "claim_coverage@5": 1.0,
-          "claim_coverage_all@5": 0.875,
-          "recall@10": 0.34782608695652173,
+          "claim_coverage@5": 0.8333333333333334,
+          "claim_coverage_all@5": 0.75,
+          "recall@10": 0.30434782608695654,
           "mrr@10": 1.0,
-          "precision@10": 0.8,
+          "precision@10": 0.7,
           "claim_coverage@10": 1.0,
           "claim_coverage_all@10": 1.0,
-          "recall@20": 0.34782608695652173,
+          "recall@20": 0.30434782608695654,
           "mrr@20": 1.0,
-          "precision@20": 0.4,
+          "precision@20": 0.35,
           "claim_coverage@20": 1.0,
           "claim_coverage_all@20": 1.0
         },
@@ -6367,9 +6367,9 @@
       "q045": {
         "category": "quests_exploration",
         "metrics": {
-          "ndcg@5": 0.5848900951528258,
-          "ndcg@10": 0.668945990254374,
-          "ndcg@20": 0.5617046415122458,
+          "ndcg@5": 0.5806434459155787,
+          "ndcg@10": 0.6659692919140278,
+          "ndcg@20": 0.5592051493282527,
           "recall@5": 0.25,
           "mrr@5": 1.0,
           "precision@5": 0.8,
@@ -6524,21 +6524,21 @@
         "category": "boss",
         "metrics": {
           "ndcg@5": 0.5460273852451067,
-          "ndcg@10": 0.6046599178904873,
-          "ndcg@20": 0.48940416631465794,
+          "ndcg@10": 0.5879873699796081,
+          "ndcg@20": 0.4759096148002596,
           "recall@5": 0.1,
           "mrr@5": 1.0,
           "precision@5": 0.4,
           "claim_coverage@5": 0.2857142857142857,
           "claim_coverage_all@5": 0.375,
-          "recall@10": 0.3,
+          "recall@10": 0.25,
           "mrr@10": 1.0,
-          "precision@10": 0.6,
+          "precision@10": 0.5,
           "claim_coverage@10": 1.0,
           "claim_coverage_all@10": 1.0,
-          "recall@20": 0.3,
+          "recall@20": 0.25,
           "mrr@20": 1.0,
-          "precision@20": 0.3,
+          "precision@20": 0.25,
           "claim_coverage@20": 1.0,
           "claim_coverage_all@20": 1.0
         },
@@ -6549,9 +6549,9 @@
       "q052": {
         "category": "boss",
         "metrics": {
-          "ndcg@5": 0.8747985572776802,
-          "ndcg@10": 0.6900065029142842,
-          "ndcg@20": 0.5962093855419285,
+          "ndcg@5": 0.7998242272706277,
+          "ndcg@10": 0.6873970281801142,
+          "ndcg@20": 0.5939546338529579,
           "recall@5": 0.2857142857142857,
           "mrr@5": 1.0,
           "precision@5": 0.8,
@@ -6575,22 +6575,22 @@
       "q053": {
         "category": "boss",
         "metrics": {
-          "ndcg@5": 0.41341295926815524,
-          "ndcg@10": 0.38550250651869644,
-          "ndcg@20": 0.3520455340829375,
+          "ndcg@5": 0.426100434153218,
+          "ndcg@10": 0.46148865990089283,
+          "ndcg@20": 0.4214370049501858,
           "recall@5": 0.3333333333333333,
           "mrr@5": 1.0,
           "precision@5": 0.6,
           "claim_coverage@5": 1.0,
           "claim_coverage_all@5": 0.75,
-          "recall@10": 0.3333333333333333,
+          "recall@10": 0.4444444444444444,
           "mrr@10": 1.0,
-          "precision@10": 0.3,
+          "precision@10": 0.4,
           "claim_coverage@10": 1.0,
           "claim_coverage_all@10": 0.75,
-          "recall@20": 0.3333333333333333,
+          "recall@20": 0.4444444444444444,
           "mrr@20": 1.0,
-          "precision@20": 0.15,
+          "precision@20": 0.2,
           "claim_coverage@20": 1.0,
           "claim_coverage_all@20": 0.75
         },
@@ -6602,21 +6602,21 @@
         "category": "boss",
         "metrics": {
           "ndcg@5": 0.6879148381536532,
-          "ndcg@10": 0.6211881194714883,
-          "ndcg@20": 0.5237743135357239,
+          "ndcg@10": 0.6111710350416228,
+          "ndcg@20": 0.5153280935317964,
           "recall@5": 0.15384615384615385,
           "mrr@5": 1.0,
           "precision@5": 0.4,
           "claim_coverage@5": 0.6666666666666666,
           "claim_coverage_all@5": 0.625,
-          "recall@10": 0.3076923076923077,
+          "recall@10": 0.23076923076923078,
           "mrr@10": 1.0,
-          "precision@10": 0.4,
+          "precision@10": 0.3,
           "claim_coverage@10": 0.6666666666666666,
           "claim_coverage_all@10": 0.625,
-          "recall@20": 0.3076923076923077,
+          "recall@20": 0.23076923076923078,
           "mrr@20": 1.0,
-          "precision@20": 0.2,
+          "precision@20": 0.15,
           "claim_coverage@20": 0.6666666666666666,
           "claim_coverage_all@20": 0.625
         },
@@ -6627,14 +6627,14 @@
       "q055": {
         "category": "boss",
         "metrics": {
-          "ndcg@5": 0.6817930109452875,
-          "ndcg@10": 0.6176142922061102,
-          "ndcg@20": 0.5417970214718669,
-          "recall@5": 0.3076923076923077,
+          "ndcg@5": 0.8027478044303603,
+          "ndcg@10": 0.6382886628434091,
+          "ndcg@20": 0.5599334418453059,
+          "recall@5": 0.38461538461538464,
           "mrr@5": 1.0,
-          "precision@5": 0.8,
-          "claim_coverage@5": 0.42857142857142855,
-          "claim_coverage_all@5": 0.5,
+          "precision@5": 1.0,
+          "claim_coverage@5": 0.5714285714285714,
+          "claim_coverage_all@5": 0.625,
           "recall@10": 0.46153846153846156,
           "mrr@10": 1.0,
           "precision@10": 0.6,
@@ -6653,14 +6653,14 @@
       "q056": {
         "category": "boss",
         "metrics": {
-          "ndcg@5": 0.2258108501420974,
-          "ndcg@10": 0.18920241560663395,
-          "ndcg@20": 0.17070090402921917,
-          "recall@5": 0.18181818181818182,
+          "ndcg@5": 0.20919059225895778,
+          "ndcg@10": 0.2203561464074913,
+          "ndcg@20": 0.1988082090788848,
+          "recall@5": 0.09090909090909091,
           "mrr@5": 0.3333333333333333,
-          "precision@5": 0.4,
+          "precision@5": 0.2,
           "claim_coverage@5": 0.16666666666666666,
-          "claim_coverage_all@5": 0.25,
+          "claim_coverage_all@5": 0.125,
           "recall@10": 0.18181818181818182,
           "mrr@10": 0.3333333333333333,
           "precision@10": 0.2,
@@ -6679,24 +6679,24 @@
       "q057": {
         "category": "boss",
         "metrics": {
-          "ndcg@5": 0.39206485412942116,
-          "ndcg@10": 0.46090590572425666,
-          "ndcg@20": 0.3742152273120914,
-          "recall@5": 0.13333333333333333,
+          "ndcg@5": 0.436609809027839,
+          "ndcg@10": 0.5243080089830525,
+          "ndcg@20": 0.4256921821273534,
+          "recall@5": 0.2,
           "mrr@5": 0.3333333333333333,
-          "precision@5": 0.4,
+          "precision@5": 0.6,
           "claim_coverage@5": 0.5,
           "claim_coverage_all@5": 0.375,
-          "recall@10": 0.2,
+          "recall@10": 0.3333333333333333,
           "mrr@10": 0.3333333333333333,
-          "precision@10": 0.3,
-          "claim_coverage@10": 0.5,
-          "claim_coverage_all@10": 0.375,
-          "recall@20": 0.2,
+          "precision@10": 0.5,
+          "claim_coverage@10": 0.6666666666666666,
+          "claim_coverage_all@10": 0.5,
+          "recall@20": 0.3333333333333333,
           "mrr@20": 0.3333333333333333,
-          "precision@20": 0.15,
-          "claim_coverage@20": 0.5,
-          "claim_coverage_all@20": 0.375
+          "precision@20": 0.25,
+          "claim_coverage@20": 0.6666666666666666,
+          "claim_coverage_all@20": 0.5
         },
         "n_retrieved": 10,
         "unjudged": 0,
@@ -6705,22 +6705,22 @@
       "q058": {
         "category": "boss",
         "metrics": {
-          "ndcg@5": 0.22207812210144237,
-          "ndcg@10": 0.2647345764906524,
-          "ndcg@20": 0.2069906563698363,
+          "ndcg@5": 0.22879576575689994,
+          "ndcg@10": 0.34713625900516176,
+          "ndcg@20": 0.27141887944427634,
           "recall@5": 0.1,
-          "mrr@5": 0.25,
+          "mrr@5": 0.3333333333333333,
           "precision@5": 0.4,
           "claim_coverage@5": 0.2857142857142857,
           "claim_coverage_all@5": 0.25,
-          "recall@10": 0.2,
-          "mrr@10": 0.25,
-          "precision@10": 0.4,
+          "recall@10": 0.25,
+          "mrr@10": 0.3333333333333333,
+          "precision@10": 0.5,
           "claim_coverage@10": 0.42857142857142855,
           "claim_coverage_all@10": 0.375,
-          "recall@20": 0.2,
-          "mrr@20": 0.25,
-          "precision@20": 0.2,
+          "recall@20": 0.25,
+          "mrr@20": 0.3333333333333333,
+          "precision@20": 0.25,
           "claim_coverage@20": 0.42857142857142855,
           "claim_coverage_all@20": 0.375
         },
@@ -6758,21 +6758,21 @@
         "category": "boss",
         "metrics": {
           "ndcg@5": 0.8747985572776802,
-          "ndcg@10": 0.8687428206094544,
-          "ndcg@20": 0.7228297404691307,
+          "ndcg@10": 0.8914818842351575,
+          "ndcg@20": 0.7417495762008922,
           "recall@5": 0.26666666666666666,
           "mrr@5": 1.0,
           "precision@5": 0.8,
           "claim_coverage@5": 0.8333333333333334,
           "claim_coverage_all@5": 0.625,
-          "recall@10": 0.4,
+          "recall@10": 0.4666666666666667,
           "mrr@10": 1.0,
-          "precision@10": 0.6,
+          "precision@10": 0.7,
           "claim_coverage@10": 0.8333333333333334,
           "claim_coverage_all@10": 0.625,
-          "recall@20": 0.4,
+          "recall@20": 0.4666666666666667,
           "mrr@20": 1.0,
-          "precision@20": 0.3,
+          "precision@20": 0.35,
           "claim_coverage@20": 0.8333333333333334,
           "claim_coverage_all@20": 0.625
         },
@@ -6810,23 +6810,23 @@
         "category": "boss",
         "metrics": {
           "ndcg@5": 0.752520691715093,
-          "ndcg@10": 0.6644091777062301,
-          "ndcg@20": 0.6078824467223528,
+          "ndcg@10": 0.6868328171221488,
+          "ndcg@20": 0.6283983234590758,
           "recall@5": 0.4,
           "mrr@5": 1.0,
           "precision@5": 0.8,
           "claim_coverage@5": 0.7142857142857143,
           "claim_coverage_all@5": 0.75,
-          "recall@10": 0.5,
+          "recall@10": 0.6,
           "mrr@10": 1.0,
-          "precision@10": 0.5,
-          "claim_coverage@10": 0.7142857142857143,
-          "claim_coverage_all@10": 0.75,
-          "recall@20": 0.5,
+          "precision@10": 0.6,
+          "claim_coverage@10": 0.8571428571428571,
+          "claim_coverage_all@10": 0.875,
+          "recall@20": 0.6,
           "mrr@20": 1.0,
-          "precision@20": 0.25,
-          "claim_coverage@20": 0.7142857142857143,
-          "claim_coverage_all@20": 0.75
+          "precision@20": 0.3,
+          "claim_coverage@20": 0.8571428571428571,
+          "claim_coverage_all@20": 0.875
         },
         "n_retrieved": 10,
         "unjudged": 0,
@@ -6940,8 +6940,8 @@
         "category": "mechanics_build",
         "metrics": {
           "ndcg@5": 0.13781739283713698,
-          "ndcg@10": 0.14233377682605006,
-          "ndcg@20": 0.12563363906032465,
+          "ndcg@10": 0.1234765632653786,
+          "ndcg@20": 0.10898895769941203,
           "recall@5": 0.3333333333333333,
           "mrr@5": 0.5,
           "precision@5": 0.2,
@@ -7823,24 +7823,24 @@
     },
     "by_category": {
       "boss": {
-        "ndcg@5": 0.5521621811757156,
-        "ndcg@10": 0.5426492614632813,
-        "ndcg@20": 0.4614850570442141,
-        "recall@5": 0.210440749726464,
-        "recall@10": 0.3209500023785738,
-        "recall@20": 0.3209500023785738,
-        "mrr@5": 0.7678571428571429,
-        "mrr@10": 0.7678571428571429,
-        "mrr@20": 0.7678571428571429,
-        "precision@5": 0.5714285714285714,
-        "precision@10": 0.4571428571428572,
-        "precision@20": 0.2285714285714286,
-        "claim_coverage@5": 0.5136054421768708,
-        "claim_coverage@10": 0.6530612244897959,
-        "claim_coverage@20": 0.6530612244897959,
+        "ndcg@5": 0.5588272011067026,
+        "ndcg@10": 0.5633265212175932,
+        "ndcg@20": 0.4791122401471601,
+        "recall@5": 0.2142036534893678,
+        "recall@10": 0.3448205762491477,
+        "recall@20": 0.3448205762491477,
+        "mrr@5": 0.7738095238095238,
+        "mrr@10": 0.7738095238095238,
+        "mrr@20": 0.7738095238095238,
+        "precision@5": 0.5857142857142856,
+        "precision@10": 0.4857142857142857,
+        "precision@20": 0.24285714285714285,
+        "claim_coverage@5": 0.5238095238095238,
+        "claim_coverage@10": 0.6751700680272109,
+        "claim_coverage@20": 0.6751700680272109,
         "claim_coverage_all@5": 0.4642857142857143,
-        "claim_coverage_all@10": 0.5803571428571429,
-        "claim_coverage_all@20": 0.5803571428571429,
+        "claim_coverage_all@10": 0.5982142857142857,
+        "claim_coverage_all@20": 0.5982142857142857,
         "n": 14
       },
       "cross_game": {
@@ -7886,30 +7886,30 @@
         "n": 12
       },
       "lore": {
-        "ndcg@5": 0.6443291917361704,
-        "ndcg@10": 0.6326702450236633,
-        "ndcg@20": 0.4924480518894045,
+        "ndcg@5": 0.6463022004205665,
+        "ndcg@10": 0.6299015605735294,
+        "ndcg@20": 0.4903510021710056,
         "recall@5": 0.16423798266498513,
-        "recall@10": 0.29489956811702184,
-        "recall@20": 0.29489956811702184,
+        "recall@10": 0.2925022705252162,
+        "recall@20": 0.2925022705252162,
         "mrr@5": 0.8421052631578947,
         "mrr@10": 0.8464912280701754,
         "mrr@20": 0.8464912280701754,
         "precision@5": 0.7210526315789474,
-        "precision@10": 0.6763157894736842,
-        "precision@20": 0.3381578947368421,
-        "claim_coverage@5": 0.6925438596491228,
+        "precision@10": 0.6710526315789473,
+        "precision@20": 0.3355263157894737,
+        "claim_coverage@5": 0.6881578947368421,
         "claim_coverage@10": 0.8470551378446115,
         "claim_coverage@20": 0.8470551378446115,
-        "claim_coverage_all@5": 0.6326754385964912,
+        "claim_coverage_all@5": 0.6293859649122807,
         "claim_coverage_all@10": 0.7921365914786967,
         "claim_coverage_all@20": 0.7921365914786967,
         "n": 38
       },
       "mechanics_build": {
         "ndcg@5": 0.35723372834340394,
-        "ndcg@10": 0.42415827033767994,
-        "ndcg@20": 0.37041481622215655,
+        "ndcg@10": 0.4227077154483976,
+        "ndcg@20": 0.369134456117471,
         "recall@5": 0.20672724711186247,
         "recall@10": 0.35940405748098053,
         "recall@20": 0.35940405748098053,
@@ -7928,9 +7928,9 @@
         "n": 13
       },
       "quests_exploration": {
-        "ndcg@5": 0.49787097037748484,
-        "ndcg@10": 0.5501109590942199,
-        "ndcg@20": 0.45503981240853325,
+        "ndcg@5": 0.4974463054537601,
+        "ndcg@10": 0.5498132892601852,
+        "ndcg@20": 0.4547898631901339,
         "recall@5": 0.19233770108834047,
         "recall@10": 0.3683431953809192,
         "recall@20": 0.3683431953809192,
@@ -7950,24 +7950,24 @@
       }
     },
     "overall": {
-      "ndcg@5": 0.534966602807936,
-      "ndcg@10": 0.5500032979729054,
-      "ndcg@20": 0.44899304326405765,
-      "recall@5": 0.18493998594687738,
-      "recall@10": 0.31995229108256584,
-      "recall@20": 0.31995229108256584,
-      "mrr@5": 0.7490000000000001,
-      "mrr@10": 0.7564404761904762,
-      "mrr@20": 0.7564404761904762,
-      "precision@5": 0.586,
-      "precision@10": 0.5329999999999999,
-      "precision@20": 0.26649999999999996,
-      "claim_coverage@5": 0.537525974025974,
-      "claim_coverage@10": 0.6861385281385282,
-      "claim_coverage@20": 0.6861385281385282,
-      "claim_coverage_all@5": 0.49320454545454545,
-      "claim_coverage_all@10": 0.6417489177489177,
-      "claim_coverage_all@20": 0.6417489177489177,
+      "ndcg@5": 0.5366069824059722,
+      "ndcg@10": 0.5516276751284479,
+      "ndcg@20": 0.45047252827002937,
+      "recall@5": 0.18546679247368392,
+      "recall@10": 0.32238319833956003,
+      "recall@20": 0.32238319833956003,
+      "mrr@5": 0.7498333333333334,
+      "mrr@10": 0.7572738095238095,
+      "mrr@20": 0.7572738095238095,
+      "precision@5": 0.5880000000000001,
+      "precision@10": 0.535,
+      "precision@20": 0.2675,
+      "claim_coverage@5": 0.5372878787878788,
+      "claim_coverage@10": 0.6892337662337663,
+      "claim_coverage@20": 0.6892337662337663,
+      "claim_coverage_all@5": 0.4919545454545455,
+      "claim_coverage_all@10": 0.6442489177489178,
+      "claim_coverage_all@20": 0.6442489177489178,
       "n": 100
     },
     "n_scored": 100,
@@ -7987,5 +7987,5 @@
     "coverage": 1.0,
     "partial": false
   },
-  "scored_at": "2026-10-20T10:29:56Z"
+  "scored_at": "2026-10-20T12:32:49Z"
 }
