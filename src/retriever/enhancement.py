@@ -29,7 +29,7 @@ def enhance_query(user_query: str) -> str:
 
     Falls back to the original query if enhancement fails.
     """
-    model = OpenAICompatibleAPI(base_url=settings.NEURALWATT_BASE_URL, api_key=settings.NEURALWATT_API_KEY, model=settings.NEURALWATT_MODEL, provider="NeuralWatt")
+    model = OpenAICompatibleAPI(base_url=settings.OPENROUTER_BASE_URL, api_key=settings.OPENROUTER_API_KEY, model=settings.OPENROUTER_MODEL, provider="OpenRouter")
 
 
     messages = [

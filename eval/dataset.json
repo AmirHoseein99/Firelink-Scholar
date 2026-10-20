@@ -14,10 +14,10 @@
     "prompt_sha256": "d674d33792990b3eaefe97b4b22f9106c9197b3a0a8c5a43e170431a0a0133ea"
   },
   "judge": {
-    "configured": false,
-    "backend": "",
-    "base_url": "",
-    "model": "",
+    "configured": true,
+    "backend": "openrouter",
+    "base_url": "https://openrouter.ai/api/v1",
+    "model": "deepseek/deepseek-v4.1-flash-1017",
     "temperature": 0,
     "prompt_sha256": "981de4ab6cc88aea4025983fe9befc7741581015e29daf4f9314175201a7a022"
   },
@@ -40,9 +40,9 @@
   },
   "qrels": {
     "path": "eval/qrels.json",
-    "sha256": "",
-    "n_questions": 0,
-    "n_graded": 0
+    "sha256": "2709a927014d95f4c7e5a009f493362a53fd89796b004eb054214ca90d2379e7",
+    "n_questions": 100,
+    "n_graded": 6389
   },
   "chunking": {
     "chunk_size": 1000,

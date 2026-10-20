@@ -10,6 +10,7 @@ through the process-wide client singleton.
 from __future__ import annotations
 
 import json
+import logging
 from collections.abc import Iterable, Iterator
 from dataclasses import dataclass
 from pathlib import Path
@@ -17,6 +18,8 @@ from typing import Any
 
 from eval.paths import STRUCTURED_DIR
 from eval.text import match_rank, normalize_title
+
+logger = logging.getLogger(__name__)
 
 # Same metadata keys ignored by src/retriever/indexing.py::sections_to_ignore.
 METADATA_KEYS = frozenset(
@@ -261,6 +264,7 @@ def fetch_chunks(
             chunk = _chunk_from_payload(point)
             if chunk is not None:
                 chunks[chunk["document_id"]] = chunk
+    logger.debug("Fetched %d/%d chunk(s) from Qdrant", len(chunks), len(wanted))
     return chunks
 
 

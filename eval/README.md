@@ -97,6 +97,18 @@ Every command accepts `--only q001,q002` and `--limit N` for pilots.
 into the saved run file for those question ids, so they never silently replace
 a full run.
 
+Commands log to stderr at INFO: systems started, per-question grading progress,
+missing/unparsed ids, scoring, and written files. `-v` adds DEBUG detail
+(per-question retrieval counts, batch calls, id filtering, HTTP retries); `-q`
+keeps warnings and errors only. Use `--log-level` for an explicit level and
+`--log-file PATH` to append logs to a file. Flags may go before or after the
+subcommand:
+
+```bash
+python -m eval run --systems dense --k 10 -v
+python -m eval grade --run dense_k10 --log-file eval/reports/grade.log
+```
+
 ## Answer keys
 
 Each claim has:

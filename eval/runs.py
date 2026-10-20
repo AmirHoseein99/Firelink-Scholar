@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import logging
 from collections.abc import Callable, Iterable
 from pathlib import Path
 from typing import Any
@@ -16,11 +17,14 @@ from eval.storage import (
     sha256_json,
 )
 
+logger = logging.getLogger(__name__)
+
 SYSTEM_FNS = {
     "dense": "contextfromvectors",
     "enhanced": "contextfromvectors_enhanced",
     "bm25": "contextfromvectors_bm25",
     "hybrid": "contextfromvectors_hybrid",
+    "hybrid_enhanced": "contextfromvectors_hybrid_enhanced",
 }
 
 
@@ -85,10 +89,48 @@ def collect_run(
         from eval.systems import get_retriever
 
         retrieve_fn = get_retriever(system)
+    question_list = list(questions)
+    logger.info(
+        "%s: retrieving %d question(s) at k=%d",
+        system,
+        len(question_list),
+        k,
+    )
     run: dict[str, list[dict[str, Any]]] = {}
-    for question in questions:
-        results = retrieve_fn(query=question["question"], k=k)
-        run[str(question["id"])] = normalize_retrieval(results)
+    for position, question in enumerate(question_list, start=1):
+        qid = str(question["id"])
+        results = list(retrieve_fn(query=question["question"], k=k))
+        normalized = normalize_retrieval(results)
+        if results and not normalized:
+            logger.warning(
+                "%s %s: %d result(s) returned but none had a document_id",
+                system,
+                qid,
+                len(results),
+            )
+        elif len(normalized) < len(results):
+            logger.debug(
+                "%s %s: kept %d of %d result(s) after dedupe/id filtering",
+                system,
+                qid,
+                len(normalized),
+                len(results),
+            )
+        run[qid] = normalized
+        logger.debug("%s %s: %d result(s)", system, qid, len(normalized))
+        if position % 10 == 0 or position == len(question_list):
+            logger.info(
+                "%s: retrieved %d/%d question(s)",
+                system,
+                position,
+                len(question_list),
+            )
+    logger.info(
+        "%s: collected %d id(s) across %d question(s)",
+        system,
+        sum(len(results) for results in run.values()),
+        len(run),
+    )
     return run
 
 
@@ -157,10 +199,22 @@ def save_run(
         merged = dict(previous.get("run") or {})
         merged.update(run)
         run = merged
+        logger.info(
+            "%s: merged into existing run file (%d question(s) total)",
+            system,
+            len(run),
+        )
     payload = build_run_payload(
         system, k, run, qrels, questions_path=questions_path
     )
     save_json(path, payload)
+    logger.info(
+        "%s: wrote %s (%d retrieved, %d unjudged)",
+        system,
+        paths.relative(path),
+        payload["n_retrieved"],
+        payload["n_unjudged"],
+    )
     return path
 
 

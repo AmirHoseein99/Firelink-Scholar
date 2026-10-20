@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import logging
 from collections.abc import Callable, Iterable
 from pathlib import Path
 from typing import Any
@@ -25,6 +26,8 @@ from eval.runs import (
     save_run,
 )
 from eval.storage import load_json, now_iso, save_json, sha256_json
+
+logger = logging.getLogger(__name__)
 
 
 def score_payloads(
@@ -56,6 +59,13 @@ def score_payloads(
         payload["n_unjudged"] = result["unjudged"]["n_ids"]
         payload["n_unjudged_total"] = result["unjudged"]["n_ids"]
         payload["scored_at"] = now_iso()
+        logger.debug(
+            "%s: scored ndcg@10=%s, coverage=%s, partial=%s",
+            name,
+            (result.get("overall") or {}).get("ndcg@10"),
+            result.get("coverage"),
+            result.get("partial"),
+        )
         if write_back:
             config = payload.setdefault("config", {})
             system = config.get("system") or name
@@ -77,6 +87,11 @@ def score_all_runs(
     write_back: bool = True,
 ) -> tuple[dict[str, dict[str, Any]], dict[str, dict[str, Any]]]:
     paths_to_score = list(run_paths) if run_paths is not None else iter_run_files(runs_dir)
+    logger.info(
+        "Scoring %d run file(s) against %d qrels question(s)",
+        len(paths_to_score),
+        len(qrels),
+    )
     payloads = {
         path.name[: -len(".run.json")] if path.name.endswith(".run.json") else path.stem: load_run(path)
         for path in paths_to_score
@@ -105,6 +120,13 @@ def execute_runs(
     merge: bool = False,
     questions_path: Path = paths.QUESTIONS,
 ) -> dict[str, dict[str, Any]]:
+    systems = list(systems)
+    logger.info(
+        "Running %s at k=%d on %d question(s)",
+        ", ".join(systems),
+        k,
+        len(questions),
+    )
     payloads: dict[str, dict[str, Any]] = {}
     for system in systems:
         run = collect_run(system, questions, k, retrieve_fn=(
@@ -157,6 +179,13 @@ def evaluate(
     if limit is not None:
         selected_questions = selected_questions[:limit]
     merge = only is not None or limit is not None
+    logger.info(
+        "Evaluate: systems=%s, k=%d, questions=%d, merge=%s",
+        ", ".join(systems),
+        k,
+        len(selected_questions),
+        merge,
+    )
 
     new_payloads = execute_runs(
         systems=systems,
@@ -169,6 +198,7 @@ def evaluate(
         questions_path=questions_path,
     )
 
+    logger.info("Evaluate: grading union of new retrieved ids")
     grade_kwargs: dict[str, Any] = {}
     if chunk_fetcher is not None:
         grade_kwargs["chunk_fetcher"] = chunk_fetcher
@@ -191,6 +221,7 @@ def evaluate(
     )
 
     ks, min_grade = metric_settings(dataset)
+    logger.info("Evaluate: re-scoring all saved runs")
     scores, all_payloads = score_all_runs(
         qrels=qrels,
         questions_by_id={str(question["id"]): question for question in questions},
@@ -207,6 +238,7 @@ def evaluate(
         warnings=warnings,
     )
     report_path = write_scores_report(report, reports_dir / "scores.json")
+    logger.info("Evaluate: report written to %s", paths.relative(report_path))
     return {
         "grade_summary": grade_summary,
         "scores": scores,

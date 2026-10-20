@@ -10,6 +10,7 @@ SYSTEMS: dict[str, str] = {
     "enhanced": "contextfromvectors_enhanced",
     "bm25": "contextfromvectors_bm25",
     "hybrid": "contextfromvectors_hybrid",
+    "hybrid_enhanced": "contextfromvectors_hybrid_enhanced",
 }
 
 
@@ -34,10 +35,9 @@ def resolve_systems(spec: str | None) -> list[str]:
 def get_retriever(name: str) -> Callable[..., list[Any]]:
     """Import a retriever lazily so tests never open Qdrant.
 
-    Note: ``contextfromvectors_hybrid`` fuses BM25 with
-    ``contextfromvectors_enhanced`` (LLM-rewritten dense retrieval), not with
-    plain dense retrieval. This is the existing behaviour and is intentionally
-    not changed by the eval rebuild.
+    Note: ``contextfromvectors_hybrid`` fuses BM25 with plain dense retrieval,
+    while ``contextfromvectors_hybrid_enhanced`` fuses BM25 with
+    ``contextfromvectors_enhanced`` (LLM-rewritten dense retrieval).
     """
     if name not in SYSTEMS:
         raise KeyError(f"unknown system: {name!r}")

@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import logging
 from collections.abc import Callable, Iterable
 from dataclasses import dataclass
 from pathlib import Path
@@ -17,6 +18,8 @@ from eval.prompts_answer import ANSWER_PROMPT_SHA256, build_answer_messages
 from eval.questions import entity_target, select_question_subset
 from eval.storage import load_json, now_iso, save_json
 from eval.text import match_rank, normalize_whitespace, quote_is_grounded, tokenize
+
+logger = logging.getLogger(__name__)
 
 PREFERRED_SECTIONS = ("lead", "lore", "plot", "strategy", "description", "notes")
 
@@ -248,7 +251,13 @@ def build_answer_for_question(
 ) -> dict[str, Any]:
     """Ask the builder for one answer key and verify every quote."""
     candidates = [candidate.as_dict() for candidate in selector.select(question)]
+    logger.debug(
+        "%s: %d candidate section(s) for answer key",
+        question.get("id", "?"),
+        len(candidates),
+    )
     if not candidates:
+        logger.warning("%s: no candidate sections for answer key", question.get("id", "?"))
         return {
             "question": question["question"],
             "answer": "",
@@ -285,6 +294,9 @@ def build_answer_for_question(
             claims, dropped = parse_claims(payload, candidates, max_claims=max_claims)
         except Exception as exc:  # noqa: BLE001 - surfaced in review_reason
             last_error = str(exc)
+            logger.debug(
+                "%s: answer attempt failed: %s", question.get("id", "?"), exc
+            )
             continue
         if len(claims) > len(best):
             best, best_dropped = claims, dropped
@@ -347,11 +359,20 @@ def build_answers(
     existing: dict[str, Any] = load_json(answers_path, default={}) or {}
     selector = CandidateSelector(pages)
     summary: dict[str, Any] = {"built": [], "skipped": [], "needs_review": []}
-    for question in questions:
+    logger.info(
+        "Building answer keys for %d question(s) with %s",
+        len(questions),
+        backend.model,
+    )
+    for position, question in enumerate(questions, start=1):
         qid = str(question["id"])
         if qid in existing and not force:
             summary["skipped"].append(qid)
+            logger.debug("%s: answer key already exists; skipped", qid)
             continue
+        logger.info(
+            "%s: building answer key (%d/%d)", qid, position, len(questions)
+        )
         _, max_claims = claim_limits(dataset, question["game"])
         answer = build_answer_for_question(
             question,
@@ -366,4 +387,21 @@ def build_answers(
         summary["built"].append(qid)
         if answer["status"] != "verified":
             summary["needs_review"].append(qid)
+            logger.warning(
+                "%s: answer key needs review: %s", qid, answer.get("review_reason")
+            )
+        else:
+            logger.info("%s: verified %d claim(s)", qid, len(answer.get("claims", [])))
+        if answer.get("dropped_claims"):
+            logger.debug(
+                "%s: dropped %d claim(s)",
+                qid,
+                len(answer["dropped_claims"]),
+            )
+    logger.info(
+        "Answer keys done: %d built, %d skipped, %d need review",
+        len(summary["built"]),
+        len(summary["skipped"]),
+        len(summary["needs_review"]),
+    )
     return summary

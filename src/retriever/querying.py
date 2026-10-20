@@ -73,10 +73,32 @@ def contextfromvectors_hybrid(query: str, k: int = 5):
 
     """
 
-    sparse_results = bm25_retrieval(query=query, k=k)
+    sparse_results = bm25_retrieval(query=query, k=k * 3)
+    dense_results = contextfromvectors(
+        query=query, k=k * 3
+    )
+
+    rrf_rankings = reciprocal_rank_score(
+        [sparse_results, dense_results], k=RRF_CONSTANT
+    )[:k]
+
+    logger.debug("Hybrid retrieval: %d unique documents fused.", len(rrf_rankings))
+
+    documents_by_id = {}
+    for doc, _score in sparse_results + dense_results:
+        documents_by_id.setdefault(doc.metadata.get("document_id"), (doc, _score))
+
+    return [(documents_by_id[doc_id][0], score) for doc_id, score in rrf_rankings]
+
+def contextfromvectors_hybrid_enhanced(query: str, k: int = 5):
+    """
+    Hybrid retrieval: combine sparse and dense retrieval results.
+
+    """
+
+    sparse_results = bm25_retrieval(query=query, k=k * 3)
     dense_results = contextfromvectors_enhanced(
-        query=query, k=k
-        
+        query=query, k=k * 3
     )
 
     rrf_rankings = reciprocal_rank_score(

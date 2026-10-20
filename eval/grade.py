@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import logging
 from collections.abc import Callable, Iterable
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
@@ -14,6 +15,8 @@ from eval.llm import Backend, chat, extract_json
 from eval.prompts_grade import GRADE_PROMPT_SHA256, build_grade_messages
 from eval.runs import all_run_ids, load_run, resolve_run_paths
 from eval.storage import load_json, now_iso, save_json, sha256_json
+
+logger = logging.getLogger(__name__)
 
 DEFAULT_BATCH_SIZE = 5
 
@@ -157,10 +160,22 @@ def grade_candidates(
             claims=answer.get("claims", []),
             candidates=batch,
         )
+        logger.debug(
+            "%s: grading %d candidate(s) with %s",
+            question.get("id", "?"),
+            len(batch),
+            backend.model,
+        )
         try:
             raw = invoke(messages, backend=backend, temperature=0.0)
             return parse_grades(raw, batch, claim_ids)
-        except Exception:  # noqa: BLE001 - keep ungraded for the tripwire
+        except Exception as exc:  # noqa: BLE001 - keep ungraded for the tripwire
+            logger.warning(
+                "%s: grading request failed for %d candidate(s): %s",
+                question.get("id", "?"),
+                len(batch),
+                exc,
+            )
             return {}, list(range(1, len(batch) + 1))
 
     pending = list(chunks)
@@ -181,6 +196,12 @@ def grade_candidates(
         pending = still_pending
         if not pending:
             break
+        logger.debug(
+            "%s: %d candidate(s) unparsed after attempt %d; retrying",
+            question.get("id", "?"),
+            len(pending),
+            _attempt + 1,
+        )
     return results, pending
 
 
@@ -251,6 +272,14 @@ def grade_run_payloads(
     if limit is not None:
         question_list = question_list[:limit]
     union = all_run_ids(run_payloads)
+    logger.info(
+        "Grading with %s via %s: %d question(s), %d retrieved id(s), %d already in qrels",
+        pinned,
+        backend.name,
+        len(question_list),
+        sum(len(ids) for ids in union.values()),
+        sum(len(entry.get("judgments", {})) for entry in qrels.values()),
+    )
 
     summary: dict[str, Any] = {
         "graded": 0,
@@ -274,10 +303,22 @@ def grade_run_payloads(
         fresh = [doc_id for doc_id in retrieved if doc_id not in judged]
         summary["skipped"] += len(retrieved) - len(fresh)
         if not fresh:
+            logger.debug(
+                "%s: no new ids to grade (%d retrieved, %d already judged)",
+                qid,
+                len(retrieved),
+                len(retrieved) - len(fresh),
+            )
             if not entry.get("judgments"):
                 qrels.pop(qid, None)
             continue
 
+        logger.info(
+            "%s: grading %d new id(s) (%d already judged)",
+            qid,
+            len(fresh),
+            len(retrieved) - len(fresh),
+        )
         answer = answers.get(qid)
         if not answer:
             raise JudgeError(f"{qid}: missing answer key")
@@ -293,6 +334,12 @@ def grade_run_payloads(
         summary["missing"].extend(
             {"question": qid, "document_id": doc_id} for doc_id in missing
         )
+        if missing:
+            logger.warning(
+                "%s: %d retrieved id(s) missing from Qdrant",
+                qid,
+                len(missing),
+            )
         if not chunks:
             if not entry.get("judgments"):
                 qrels.pop(qid, None)
@@ -336,6 +383,19 @@ def grade_run_payloads(
             "missing": len(missing),
             "unparsed": len(unresolved),
         }
+        logger.debug(
+            "%s: graded %d, missing %d, unparsed %d",
+            qid,
+            added,
+            len(missing),
+            len(unresolved),
+        )
+        if unresolved:
+            logger.warning(
+                "%s: %d candidate(s) left unparsed after retries",
+                qid,
+                len(unresolved),
+            )
         if not entry.get("judgments"):
             qrels.pop(qid, None)
         if added:
@@ -343,6 +403,14 @@ def grade_run_payloads(
 
     if qrels:
         save_json(qrels_path, qrels)
+    logger.info(
+        "Grading done: %d graded, %d skipped, %d missing, %d unparsed; qrels now cover %d question(s)",
+        summary["graded"],
+        summary["skipped"],
+        len(summary["missing"]),
+        len(summary["unparsed"]),
+        len(qrels),
+    )
     return summary
 
 

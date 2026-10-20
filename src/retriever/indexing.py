@@ -20,6 +20,8 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from src.config import settings
 from src.retriever.vector_store import (
     get_embeddings,
+)
+from src.retriever.vector_store import (
     get_vector_store as get_vector_store_singleton,
 )
 
@@ -125,8 +127,16 @@ def index_all(data_dir: Path = STRUCTURED_DATA_DIR, vector_store: QdrantVectorSt
     total_chunks = 0
     for path, wikipage_js in iter_wikipages(data_dir):
         print(wikipage_js["source"]["title"])
-        documents = list(build_documents(wikipage_js))
-        vector_store.add_documents(documents)
+        documents = list(
+            {
+                document.metadata["document_id"]: document
+                for document in build_documents(wikipage_js)
+            }.values()
+        )
+        vector_store.add_documents(
+            documents,
+            ids=[document.metadata["document_id"] for document in documents],
+        )
         total_chunks += len(documents)
     print(f"Indexed {total_chunks} chunks into {settings.QDRANT_PATH}")
     return total_chunks

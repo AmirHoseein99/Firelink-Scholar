@@ -47,6 +47,36 @@ union-based; after each pass every saved run is re-scored against the same
 qrels snapshot. The active benchmark replaces the retired v1–v4 pooled
 harnesses, which are archived under `eval/archive/`.
 
+The question set contains 100 natural-language questions spanning six report
+categories (`lore`, `boss`, `item_location`, `mechanics_build`,
+`quests_exploration`, and `cross_game`). Each answer key is built from the
+structured corpus as a set of self-contained claims, each backed by a verbatim
+quote from a cited section. An answer only becomes `verified` when it has at
+least three verified claims including a core claim; unverified answers are
+excluded from grading unless explicitly allowed. Questions and answer keys are
+hashed in `eval/dataset.json` so a benchmark result can be tied to an exact
+corpus and answer-key state.
+
+Four retrieval systems are compared: plain dense, LLM-enhanced dense, BM25, and
+an RRF hybrid of BM25 with enhanced dense. Systems run at `k=10` and are
+reported at `k=5`, `10`, and `20`. For each question the report includes
+`ndcg@k`, `recall@k`, `mrr@k`, `precision@k`, and two claim-based measures:
+`claim_coverage@k` over core claims and `claim_coverage_all@k` over core plus
+supporting claims. Retrieved chunks that have not been graded count as 0 and
+mark the run `partial`, so `python -m eval score --strict` can fail rather than
+let an inflated number through.
+
+Two properties make results comparable across systems. First, the judge model
+and grading-prompt hash are pinned; grading refuses to run until a judge is
+chosen with `python -m eval configure-judge --model <model>`, and mixed judges
+are rejected. Second, qrels key on the chunk UUIDs produced by the indexing
+pipeline, so the chunking contract (`chunk_size=1000`, `chunk_overlap=200`,
+`add_start_index=True`) is locked for evaluation; re-indexing with different
+parameters requires rebuilding qrels. Because qrels accumulate only retrieved
+chunks, nDCG/recall/MRR/precision are relative to that accumulated set, while
+`claim_coverage@k` uses the answer key as its denominator and is the stable
+absolute metric.
+
 ```bash
 python -m eval status                 # questions, answers, qrels, runs
 python -m eval build-answers          # freeze answer keys (Free-LLM)

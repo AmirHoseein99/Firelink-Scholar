@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+import logging
 import sys
 from collections.abc import Iterable
 from pathlib import Path
@@ -28,6 +29,7 @@ from eval.evaluate import evaluate, load_answers, load_qrels, run_only, score_al
 from eval.grade import JudgeError, grade_run_payloads
 from eval.grade import load_qrels as load_qrels_file
 from eval.llm import LLMError, require_backend
+from eval.logs import LEVELS, configure_logging
 from eval.questions import format_validation_report, validate_questions
 from eval.report import (
     build_scores_report,
@@ -47,6 +49,42 @@ def _parse_only(raw: str | None) -> set[str] | None:
     if not raw:
         return None
     return {value.strip() for value in raw.split(",") if value.strip()}
+
+
+def _add_logging_flags(
+    parser: argparse.ArgumentParser,
+    *,
+    suppress_defaults: bool = False,
+) -> None:
+    """Add logging options; subparsers use SUPPRESS so root values survive."""
+    default = argparse.SUPPRESS if suppress_defaults else False
+    group = parser.add_mutually_exclusive_group()
+    group.add_argument(
+        "-v",
+        "--verbose",
+        action="store_true",
+        default=default,
+        help="log DEBUG detail (per question, per batch, retries)",
+    )
+    group.add_argument(
+        "-q",
+        "--quiet",
+        action="store_true",
+        default=default,
+        help="only log warnings and errors",
+    )
+    parser.add_argument(
+        "--log-level",
+        choices=LEVELS,
+        default=argparse.SUPPRESS if suppress_defaults else None,
+        help="explicit log level (default: INFO)",
+    )
+    parser.add_argument(
+        "--log-file",
+        type=Path,
+        default=argparse.SUPPRESS if suppress_defaults else None,
+        help="also append logs to this file",
+    )
 
 
 def _normalize_source_path(value: str) -> str:
@@ -419,19 +457,33 @@ def cmd_score(args: argparse.Namespace) -> int:
     return 1 if (args.strict and partial) else 0
 
 
+def _add_subparser(
+    sub: Any,
+    name: str,
+    *,
+    help_text: str,
+) -> argparse.ArgumentParser:
+    parser = sub.add_parser(name, help=help_text)
+    _add_logging_flags(parser, suppress_defaults=True)
+    return parser
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog="python -m eval", description=__doc__)
+    _add_logging_flags(parser)
     sub = parser.add_subparsers(dest="command", required=True)
 
-    status = sub.add_parser("status", help="one-screen benchmark summary")
+    status = _add_subparser(sub, "status", help_text="one-screen benchmark summary")
     status.set_defaults(func=cmd_status)
 
-    validate = sub.add_parser("validate", help="validate questions, answers, qrels, judge")
+    validate = _add_subparser(
+        sub, "validate", help_text="validate questions, answers, qrels, judge"
+    )
     validate.add_argument("--questions-only", action="store_true")
     validate.add_argument("--completeness", action="store_true")
     validate.set_defaults(func=cmd_validate)
 
-    answers = sub.add_parser("build-answers", help="build/freeze answer keys")
+    answers = _add_subparser(sub, "build-answers", help_text="build/freeze answer keys")
     answers.add_argument("--only", default=None, help="comma-separated question ids")
     answers.add_argument("--limit", type=int, default=None)
     answers.add_argument("--start", default=None, help="start at this question id")
@@ -439,23 +491,24 @@ def build_parser() -> argparse.ArgumentParser:
     answers.add_argument("--retries", type=int, default=1)
     answers.set_defaults(func=cmd_build_answers)
 
-    run = sub.add_parser("run", help="retrieve only; no grading")
+    run = _add_subparser(sub, "run", help_text="retrieve only; no grading")
     run.add_argument("--systems", default="all")
     run.add_argument("--k", type=int, default=None)
     run.add_argument("--only", default=None)
     run.add_argument("--limit", type=int, default=None)
     run.set_defaults(func=cmd_run)
 
-    configure = sub.add_parser(
+    configure = _add_subparser(
+        sub,
         "configure-judge",
-        help="pin a judge model in dataset.json (does not grade)",
+        help_text="pin a judge model in dataset.json (does not grade)",
     )
     configure.add_argument("--model", required=True)
     configure.add_argument("--backend", default="freellm")
     configure.add_argument("--base-url", default=None)
     configure.set_defaults(func=cmd_configure_judge)
 
-    ev = sub.add_parser("evaluate", help="run + grade new ids + re-score all")
+    ev = _add_subparser(sub, "evaluate", help_text="run + grade new ids + re-score all")
     ev.add_argument("--systems", default="all")
     ev.add_argument("--k", type=int, default=None)
     ev.add_argument("--only", default=None)
@@ -466,7 +519,9 @@ def build_parser() -> argparse.ArgumentParser:
     ev.add_argument("--allow-unverified", action="store_true")
     ev.set_defaults(func=cmd_evaluate)
 
-    grade = sub.add_parser("grade", help="grade unjudged ids from existing runs")
+    grade = _add_subparser(
+        sub, "grade", help_text="grade unjudged ids from existing runs"
+    )
     grade.add_argument("--run", action="append", default=None)
     grade.add_argument("--only", default=None)
     grade.add_argument("--limit", type=int, default=None)
@@ -476,7 +531,9 @@ def build_parser() -> argparse.ArgumentParser:
     grade.add_argument("--allow-unverified", action="store_true")
     grade.set_defaults(func=cmd_grade)
 
-    score = sub.add_parser("score", help="re-score saved runs against current qrels")
+    score = _add_subparser(
+        sub, "score", help_text="re-score saved runs against current qrels"
+    )
     score.add_argument("--run", action="append", default=None)
     score.add_argument("--strict", action="store_true")
     score.set_defaults(func=cmd_score)
@@ -486,10 +543,22 @@ def build_parser() -> argparse.ArgumentParser:
 def main(argv: Iterable[str] | None = None) -> int:
     parser = build_parser()
     args = parser.parse_args(list(argv) if argv is not None else None)
+    log_file = getattr(args, "log_file", None)
+    configure_logging(
+        level=getattr(args, "log_level", None),
+        verbose=getattr(args, "verbose", False),
+        quiet=getattr(args, "quiet", False),
+        log_file=log_file,
+    )
+    logger = logging.getLogger(__name__)
+    logger.debug("Command: %s", args.command)
     try:
         return int(args.func(args) or 0)
     except (DatasetError, LLMError, JudgeError, FileNotFoundError, ValueError) as exc:
-        print(f"ERROR: {exc}", file=sys.stderr)
+        if log_file is None:
+            print(f"ERROR: {exc}", file=sys.stderr)
+        else:
+            logger.error("%s", exc)
         return 1
 
 

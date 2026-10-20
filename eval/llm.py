@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import asyncio
 import json
+import logging
 import re
 import time
 from dataclasses import dataclass
@@ -17,6 +18,8 @@ from typing import Any
 import httpx
 
 from src.config import settings
+
+logger = logging.getLogger(__name__)
 
 
 class LLMError(RuntimeError):
@@ -115,6 +118,9 @@ def chat(
 ) -> str:
     """Synchronous chat completion with retry on rate limits and 5xx."""
     last_error: Exception | None = None
+    logger.debug(
+        "POST %s model=%s messages=%d", backend.url, backend.model, len(messages)
+    )
     for attempt in range(retries + 1):
         response: httpx.Response | None = None
         try:
@@ -146,7 +152,16 @@ def chat(
                     delay = float(response.headers.get("Retry-After", delay))
                 except (TypeError, ValueError):
                     pass
-            time.sleep(min(delay, 30.0))
+            delay = min(delay, 30.0)
+            logger.warning(
+                "%s: attempt %d/%d failed (%s); retrying in %.0fs",
+                backend.name,
+                attempt + 1,
+                retries + 1,
+                last_error,
+                delay,
+            )
+            time.sleep(delay)
     raise LLMError(f"{backend.name} request failed after retries: {last_error}")
 
 
@@ -160,6 +175,9 @@ async def achat(
 ) -> str:
     """Async chat completion with retry on rate limits and 5xx."""
     last_error: Exception | None = None
+    logger.debug(
+        "POST %s model=%s messages=%d", backend.url, backend.model, len(messages)
+    )
     async with httpx.AsyncClient(timeout=timeout) as client:
         for attempt in range(retries + 1):
             try:
@@ -190,7 +208,16 @@ async def achat(
                         delay = float(response.headers.get("Retry-After", delay))
                     except (TypeError, ValueError):
                         pass
-                await asyncio.sleep(min(delay, 30.0))
+                delay = min(delay, 30.0)
+                logger.warning(
+                    "%s: attempt %d/%d failed (%s); retrying in %.0fs",
+                    backend.name,
+                    attempt + 1,
+                    retries + 1,
+                    last_error,
+                    delay,
+                )
+                await asyncio.sleep(delay)
     raise LLMError(f"{backend.name} request failed after retries: {last_error}")
 
 
