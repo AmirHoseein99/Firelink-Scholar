@@ -26,7 +26,8 @@
       "dense",
       "enhanced",
       "bm25",
-      "hybrid"
+      "hybrid",
+      "hybrid_enhanced"
     ],
     "k": 10
   },

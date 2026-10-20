@@ -1,11 +1,13 @@
 import time
+from logging import getLogger
+from typing import Any
 
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 from src.config import settings
-from logging import getLogger
+
 
 class OpenAICompatibleAPI:
     def __init__(
@@ -62,18 +64,27 @@ class OpenAICompatibleAPI:
         with session.post(
             self.url, headers=headers, json=data, stream=True
         ) as response:
-            for response_lines in response.iter_lines():
-                yield response_lines
+            yield from response.iter_lines()
 
     def call(
         self,
         messages,
+        *,
+        temperature: float | None = None,
+        max_tokens: int | None = None,
+        extra: dict[str, Any] | None = None,
     ):
 
-        data = {
+        data: dict[str, Any] = {
             "model": self.model,
             "messages": messages,
         }
+        if temperature is not None:
+            data["temperature"] = temperature
+        if max_tokens is not None:
+            data["max_tokens"] = max_tokens
+        if extra:
+            data.update(extra)
 
         session = self._session()
         response = session.post(
@@ -111,4 +122,4 @@ class OpenAICompatibleAPI:
             f"{self.provider} failed {response.status_code}: {response.text}"
         )
 
-        raise Exception(f"{self.provider} API failed: {response.text}")
+        raise RuntimeError(f"{self.provider} API failed: {response.text}")

@@ -141,12 +141,17 @@ page. Question cleanup and entity resolutions are recorded in
 | Name | Function | Notes |
 | --- | --- | --- |
 | `dense` | `contextfromvectors` | Plain dense retrieval |
-| `enhanced` | `contextfromvectors_enhanced` | LLM query rewrite; non-deterministic and slow |
+| `enhanced` | `contextfromvectors_enhanced` | Dense-rewrite control; rewrites are off by default because they hurt dense ranking |
 | `bm25` | `contextfromvectors_bm25` | BM25; first call builds the index |
-| `hybrid` | `contextfromvectors_hybrid` | RRFs BM25 with **enhanced**, not with plain dense |
+| `hybrid` | `contextfromvectors_hybrid` | RRFs BM25 with plain dense |
+| `hybrid_enhanced` | `contextfromvectors_hybrid_enhanced` | Dense on the original question plus BM25 over original and rewritten queries, with weighted RRF |
 
-`k` is always passed explicitly. The systems are evaluated at `k=10` and
-reported at `k=5`, `10`, and `20` (see `dataset.json`).
+`k` is the retrieval depth passed to each retriever; metrics are reported at
+cutoffs `k=5`, `10`, and `20` (see `dataset.json`). For the hybrid systems the
+per-retriever candidate pool is `k * 3` before fusion. Rewrites are deterministic
+and cached per question. They are used lexically in `hybrid_enhanced`: dense
+stays on the original natural-language question, while BM25 also queries the
+combined and entity/step-focused rewrites.
 
 ## Grading rubric
 

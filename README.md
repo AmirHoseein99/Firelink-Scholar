@@ -57,9 +57,15 @@ excluded from grading unless explicitly allowed. Questions and answer keys are
 hashed in `eval/dataset.json` so a benchmark result can be tied to an exact
 corpus and answer-key state.
 
-Four retrieval systems are compared: plain dense, LLM-enhanced dense, BM25, and
-an RRF hybrid of BM25 with enhanced dense. Systems run at `k=10` and are
-reported at `k=5`, `10`, and `20`. For each question the report includes
+Five retrieval systems are compared: plain dense, a dense-rewrite control
+(`enhanced`), BM25, an RRF hybrid of BM25 with plain dense, and an enhanced
+hybrid. The enhanced hybrid keeps dense retrieval on the original
+natural-language question and uses the LLM rewrites lexically: BM25 runs over
+the original question plus the combined and entity/step-focused rewrites, and
+the lists are fused with a dense-dominant weighted RRF. Dense rewrites are
+disabled by default because they degraded ranking with the current embedding
+model. Retrieval depth is configurable; metrics are reported at cutoffs `k=5`,
+`10`, and `20`. For each question the report includes
 `ndcg@k`, `recall@k`, `mrr@k`, `precision@k`, and two claim-based measures:
 `claim_coverage@k` over core claims and `claim_coverage_all@k` over core plus
 supporting claims. Retrieved chunks that have not been graded count as 0 and

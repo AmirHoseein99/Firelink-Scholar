@@ -35,9 +35,10 @@ def resolve_systems(spec: str | None) -> list[str]:
 def get_retriever(name: str) -> Callable[..., list[Any]]:
     """Import a retriever lazily so tests never open Qdrant.
 
-    Note: ``contextfromvectors_hybrid`` fuses BM25 with plain dense retrieval,
-    while ``contextfromvectors_hybrid_enhanced`` fuses BM25 with
-    ``contextfromvectors_enhanced`` (LLM-rewritten dense retrieval).
+    Note: ``contextfromvectors_hybrid`` fuses BM25 with plain dense retrieval.
+    ``contextfromvectors_hybrid_enhanced`` keeps dense on the original question
+    and uses the LLM rewrites lexically in BM25, then fuses with a
+    dense-dominant weighted RRF.
     """
     if name not in SYSTEMS:
         raise KeyError(f"unknown system: {name!r}")
