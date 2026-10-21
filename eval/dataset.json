@@ -41,9 +41,9 @@
   },
   "qrels": {
     "path": "eval/qrels.json",
-    "sha256": "2709a927014d95f4c7e5a009f493362a53fd89796b004eb054214ca90d2379e7",
+    "sha256": "d07e28df3fc45b5292a653c403b3737c1b39313a1e04744d8b1419539a0d12ae",
     "n_questions": 100,
-    "n_graded": 6389
+    "n_graded": 18026
   },
   "chunking": {
     "chunk_size": 1000,
