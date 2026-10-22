@@ -27,6 +27,8 @@ dependencies = [
     "rank-bm25>=0.2.2",
     "requests>=2.34.2",
     "ruff>=0.16.7",
+    "torch>=2.14.1",
+    "transformers>=5.20.2",
 ]
 
 [tool.ruff]

@@ -1,6 +1,7 @@
 import logging
 
 from src.retriever.enhancement import enhance_queries
+from src.retriever.reranking import rerank
 from src.retriever.sparse_retrieval import bm25_retrieval
 from src.retriever.vector_store import get_embeddings, get_vector_store
 
@@ -140,9 +141,7 @@ def contextfromvectors_hybrid_enhanced(query: str, k: int = 5):
     """
     candidate_k = k * HYBRID_POOL_FACTOR
     rewrites = [
-        item
-        for item in enhance_queries(query)
-        if item.casefold() != query.casefold()
+        item for item in enhance_queries(query) if item.casefold() != query.casefold()
     ]
 
     dense_results = contextfromvectors(query=query, k=candidate_k)
@@ -159,3 +158,69 @@ def contextfromvectors_hybrid_enhanced(query: str, k: int = 5):
         len(sparse_results),
     )
     return _fuse([dense_results, *sparse_results], k, weights)
+
+
+def contextfromvectors_hybrid_reranked(query: str, k: int = 10):
+    """Fuse dense retrieval with BM25 over the original and rewritten queries, then rerank.
+
+    This function performs hybrid retrieval by combining dense and BM25 results,
+    and then reranks the combined results using a cross-encoder model for improved relevance.
+    """
+    # Step 1: Perform hybrid enhanced retrieval
+    hybrid_results = contextfromvectors_hybrid(query=query, k=k * HYBRID_POOL_FACTOR)
+
+    # Step 2: Extract passages for reranking
+
+    # Step 3: Rerank the passages using the cross-encoder model
+    reranked_results = rerank(query, hybrid_results, system="hybrid_reranked")
+
+    return reranked_results[:k]
+
+
+def contextfromvectors_dense_reranked(query: str, k: int = 10):
+    """Perform dense retrieval and rerank the results using a cross-encoder model.
+
+    This function retrieves documents using dense retrieval and then reranks
+    the retrieved documents based on their relevance to the query.
+    """
+    # Step 1: Perform dense retrieval
+    dense_results = contextfromvectors(query=query, k=k * HYBRID_POOL_FACTOR)
+
+    # Step 2: Rerank the passages using the cross-encoder model
+    reranked_results = rerank(query, dense_results, system="dense_reranked")
+
+    return reranked_results[:k]
+
+
+def contextfromvectors_bm25_reranked(query: str, k: int = 10):
+    """Perform BM25 retrieval and rerank the results using a cross-encoder model.
+
+    This function retrieves documents using BM25 retrieval and then reranks
+    the retrieved documents based on their relevance to the query.
+    """
+    # Step 1: Perform BM25 retrieval
+    bm25_results = contextfromvectors_bm25(query=query, k=k * HYBRID_POOL_FACTOR)
+
+    # Step 2: Rerank the passages using the cross-encoder model
+    reranked_results = rerank(query, bm25_results, system="bm25_reranked")
+
+    return reranked_results[:k]
+
+
+def contextfromvectors_hybrid_enhanced_reranked(query: str, k: int = 10):
+    """Fuse dense retrieval with BM25 over the original and rewritten queries, then rerank.
+
+    This function performs hybrid enhanced retrieval by combining dense and BM25 results,
+    and then reranks the combined results using a cross-encoder model for improved relevance.
+    """
+    # Step 1: Perform hybrid enhanced retrieval
+    hybrid_enhanced_results = contextfromvectors_hybrid_enhanced(
+        query=query, k=k * HYBRID_POOL_FACTOR
+    )
+
+    # Step 2: Rerank the passages using the cross-encoder model
+    reranked_results = rerank(
+        query, hybrid_enhanced_results, system="hybrid_enhanced_reranked"
+    )
+
+    return reranked_results[:k]
