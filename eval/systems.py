@@ -11,6 +11,10 @@ SYSTEMS: dict[str, str] = {
     "bm25": "contextfromvectors_bm25",
     "hybrid": "contextfromvectors_hybrid",
     "hybrid_enhanced": "contextfromvectors_hybrid_enhanced",
+    "hybrid_reranked": "contextfromvectors_hybrid_reranked",
+    "dense_reranked": "contextfromvectors_dense_reranked",
+    "bm25_reranked": "contextfromvectors_bm25_reranked",
+    "hybrid_enhanced_reranked": "contextfromvectors_hybrid_enhanced_reranked",
 }
 
 
