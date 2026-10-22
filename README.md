@@ -72,6 +72,27 @@ supporting claims. Retrieved chunks that have not been graded count as 0 and
 mark the run `partial`, so `python -m eval score --strict` can fail rather than
 let an inflated number through.
 
+### Results at retrieval depth k=30
+
+Scores from `eval/reports/scores.csv` for the k=30 systems (100 questions, all
+retrieved chunks judged, `partial=False`). Higher is better. `enhanced` has no
+k=30 run; its k=10 and k=100 results are in the CSV.
+
+| System | nDCG@5 | nDCG@10 | nDCG@20 | MRR@10 | claim_coverage@5 | claim_coverage@10 | claim_coverage@20 | recall@20 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `bm25_k30` | 0.447 | 0.430 | 0.438 | 0.728 | 0.447 | 0.588 | 0.725 | 0.222 |
+| `bm25_reranked_k30` | 0.648 | 0.618 | 0.604 | **0.916** | 0.601 | 0.754 | 0.828 | 0.318 |
+| `dense_k30` | 0.542 | 0.533 | 0.531 | 0.807 | 0.533 | 0.693 | 0.803 | 0.276 |
+| `dense_reranked_k30` | 0.648 | 0.629 | 0.626 | 0.908 | 0.613 | **0.789** | **0.863** | 0.331 |
+| `hybrid_enhanced_k30` | 0.450 | 0.427 | 0.431 | 0.724 | 0.454 | 0.586 | 0.722 | 0.223 |
+| `hybrid_k30` | 0.535 | 0.525 | 0.535 | 0.754 | 0.556 | 0.703 | 0.827 | 0.286 |
+| `hybrid_reranked_k30` | **0.649** | **0.633** | **0.637** | 0.913 | **0.618** | 0.769 | 0.862 | **0.357** |
+
+Reranking is the largest single gain in every family. `hybrid_reranked_k30` is
+the best overall ranking quality, `dense_reranked_k30` leads on claim coverage,
+and `bm25_reranked_k30` has the highest MRR but the weakest recall. The
+`hybrid_enhanced` variant underperforms plain `hybrid` at this depth.
+
 Two properties make results comparable across systems. First, the judge model
 and grading-prompt hash are pinned; grading refuses to run until a judge is
 chosen with `python -m eval configure-judge --model <model>`, and mixed judges
